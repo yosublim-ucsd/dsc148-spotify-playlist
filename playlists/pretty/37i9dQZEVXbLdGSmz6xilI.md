@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,972 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,981 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 | 49 | [ngủ một mình \(tình rất tình\)](https://open.spotify.com/track/76dD9BdSOzsRJSGGBjOcUf) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [ngủ một mình \(tình rất tình\)](https://open.spotify.com/album/24GVnl6IHS4453WEGwp65Y) | 3:12 |
 | 50 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/2WOpp4vm16unl0N3i3BNNv) | [NÂN](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB), [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/4HEIdDrqHTU5Bocyc47BqI) | 3:35 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

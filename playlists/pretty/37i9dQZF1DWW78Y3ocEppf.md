@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > Let the songs speak\. Cover: K\. Michelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,898 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,899 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 99 | [Lonely](https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [WNTRS OUTCAST](https://open.spotify.com/album/1LA1WiLkc7Md9u6ABOU1Zl) | 2:45 |
 | 100 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 |
 
-Snapshot ID: `MCw2OWIyY2ZiMmQyMGYyYzE3NTRmY2Q2NjUwMjI4YjJjNjdhMDQ3M2Rk`
+Snapshot ID: `MCw4MDM5ZjFkNGY0MzY2NDFjYjFiNTA1YmNlNTQ2NjFkZGFlNzVkMzUy`

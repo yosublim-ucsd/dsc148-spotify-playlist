@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,056,212 likes - 150 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,056,273 likes - 150 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 149 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/1et7vATtyqLfNMjTTZIYk1) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Tyler Shaw](https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP) | 2:30 |
 | 150 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 |
 
-Snapshot ID: `MCw1NWM1ZDY2MmFmYjdkZTIzMjQ1NzIxODQ1M2E5NGJiMTM3ZDRkNzU2`
+Snapshot ID: `MCw4Y2U1NzY2MzVjMWJhYzc2YzkwM2UyNzljMGI2ZjY1YjdlNTU1YzRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriela Rocha, Michael W\. Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,184 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,204 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [O Amor](https://open.spotify.com/track/3uqG7jfNfu2Kna88l1Iv6q) | [Dueto Relicário](https://open.spotify.com/artist/1hIXTUT7OWlxNOBsLj6TjH) | [O Amor](https://open.spotify.com/album/04cPkSQezQNjptUAQZoMGD) | 4:36 |
 | 50 | [Tu és bom \- Ao Vivo](https://open.spotify.com/track/2pMRpWs3iIka2FAqxz6qrm) | [IC Music](https://open.spotify.com/artist/1czBekiZY58u6kBfqLzEFD), [Heber Souza](https://open.spotify.com/artist/1xkoYKtjrq3oQXIWkcJNXK), [Tato Castro](https://open.spotify.com/artist/0xBDVNmE4OBaUNTC9RdVq6) | [Tu és bom \(Ao Vivo\)](https://open.spotify.com/album/2D3LQbk1r4L4eEoGxfQYT4) | 6:10 |
 
-Snapshot ID: `MCxhNzFhZTJiZDE2YTg4MTQxZWQ2N2ZiMmRlOThjMGYxNjI3NmEwOGU0`
+Snapshot ID: `MCxjZWYyNjc1YWUxODBlZWQzYjMyNWZhNmJhNTMwNjg1OWI3Y2RjNWFh`

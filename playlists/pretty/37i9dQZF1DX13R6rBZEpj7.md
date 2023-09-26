@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Gardna
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,742 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,750 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Signal \(feat\. Ruth Royall\)](https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Signal / Have You Over \(feat\. Ruth Royall\)](https://open.spotify.com/album/2wROMSuKGzDy8R8AuVHcuE) | 4:13 |
 | 70 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
 
-Snapshot ID: `MCwyMzhkODAzMzA3ODcwYWUxMzFiZTZmYjcwM2NmNDc0ZGQyN2NkY2Mx`
+Snapshot ID: `MCxiNjVjNzhjN2U2MTM3ZWQ1ZWE0MTk5YjE1YjBjMDI4ZDdiMDAwYjNh`

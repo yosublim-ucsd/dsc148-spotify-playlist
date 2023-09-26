@@ -1,15 +1,47 @@
 {
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
-  "num_followers": 4062,
+  "num_followers": 4074,
   "original_name": "ALL THINGS HOUSE - CURBI PRESENTS",
   "owner": {
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "MTI1MSwxMWI4OWE4ZDNiMTczYmYxOGZiY2FhMjhlMjZmYzUwOWU4ZWY0YTEy",
+  "snapshot_id": "MTMwNCw4NmM5MDMzMzVhNjBmN2E0MWVjMTFjOGFmZTcyYjRkNzUwNjg5N2Jl",
   "tracks": [
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-22 05:28:51",
+      "album": {
+        "name": "XTC / Concentrate EP",
+        "url": "https://open.spotify.com/album/5ZeguV8kQIg2JBd566b6D2"
+      },
+      "artists": [
+        {
+          "name": "Mike Cervello",
+          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4RMOH93IUkNUjEKcvZCzq0"
+    },
+    {
+      "added_at": "2023-09-20 18:01:50",
+      "album": {
+        "name": "Fantasy / Pop It EP",
+        "url": "https://open.spotify.com/album/3tjfDyo9rMk1DtFfyGPNjt"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3mRtGuRwaUXZMcypWfoQ5S"
+    },
+    {
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Stereo Function",
         "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
@@ -29,23 +61,7 @@
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
-      "album": {
-        "name": "Concentrate",
-        "url": "https://open.spotify.com/album/2Z99oAqoU60ja5PeV1rr8j"
-      },
-      "artists": [
-        {
-          "name": "Mike Cervello",
-          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
-        }
-      ],
-      "duration_ms": 192278,
-      "name": "Concentrate",
-      "url": "https://open.spotify.com/track/0JPiX5HogKGu1V3OHsawd1"
-    },
-    {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Quick Highs",
         "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
@@ -65,7 +81,23 @@
       "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
+      "album": {
+        "name": "Drop It",
+        "url": "https://open.spotify.com/album/0cBrb3fBPk1SVRLz6Y3Zom"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "duration_ms": 153515,
+      "name": "Drop It",
+      "url": "https://open.spotify.com/track/74rowk6lkrVhf006AwHhih"
+    },
+    {
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Sometimes I Get",
         "url": "https://open.spotify.com/album/70ym3lVvCDlytS2fsOpeLD"
@@ -81,7 +113,39 @@
       "url": "https://open.spotify.com/track/5Igv1jW8dj9i9LGNhD6ZCm"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
+      "album": {
+        "name": "Fantasy / Pop It EP",
+        "url": "https://open.spotify.com/album/3tjfDyo9rMk1DtFfyGPNjt"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Pop It",
+      "url": "https://open.spotify.com/track/3gJpI3wAqMjVAQxkQJGfvo"
+    },
+    {
+      "added_at": "2023-09-20 18:01:50",
+      "album": {
+        "name": "Concentrate",
+        "url": "https://open.spotify.com/album/2Z99oAqoU60ja5PeV1rr8j"
+      },
+      "artists": [
+        {
+          "name": "Mike Cervello",
+          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
+        }
+      ],
+      "duration_ms": 192278,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/0JPiX5HogKGu1V3OHsawd1"
+    },
+    {
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Shot Callers Vol. 2",
         "url": "https://open.spotify.com/album/4g7oAUx5mSEGCeqXpUlXuK"
@@ -109,7 +173,7 @@
       "url": "https://open.spotify.com/track/5vS1v4LQpq89CUgCbTYHld"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Black on Black",
         "url": "https://open.spotify.com/album/1N27u5pVv9TnrFfXMQcoFt"
@@ -129,7 +193,7 @@
       "url": "https://open.spotify.com/track/6gF5L4iP7jbiJj1oYTVMeM"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
@@ -153,7 +217,7 @@
       "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Bassline Rumble",
         "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
@@ -169,7 +233,27 @@
       "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
+      "album": {
+        "name": "Goons",
+        "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Goons",
+      "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
+    },
+    {
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Crave The Bassline",
         "url": "https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S"
@@ -189,27 +273,7 @@
       "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
-      "album": {
-        "name": "Gimme Bass",
-        "url": "https://open.spotify.com/album/4oBkrsdifIQQu8woMAEOGE"
-      },
-      "artists": [
-        {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
-        },
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 276190,
-      "name": "Gimme Bass",
-      "url": "https://open.spotify.com/track/1rkWQHebn0mI7VPDTiIwBP"
-    },
-    {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "RUSH",
         "url": "https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4"
@@ -225,7 +289,7 @@
       "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Furious (feat. Habstrakt)",
         "url": "https://open.spotify.com/album/6AjMyBpMC6rPryBLp4SuuZ"
@@ -249,7 +313,7 @@
       "url": "https://open.spotify.com/track/1sdgGeVefZ8zkMxCQSEbYQ"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "The Treble",
         "url": "https://open.spotify.com/album/0iHPUixpramB60NDP56aar"
@@ -269,31 +333,7 @@
       "url": "https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
-      "album": {
-        "name": "One Chance (feat. Marlhy)",
-        "url": "https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Marlhy",
-          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "One Chance (feat. Marlhy)",
-      "url": "https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd"
-    },
-    {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
@@ -313,27 +353,51 @@
       "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
-        "name": "Mini Motors",
-        "url": "https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H"
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/36DdOPRRlXZMn6iN2WO1pr"
       },
       "artists": [
         {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+          "name": "BigNoise",
+          "url": "https://open.spotify.com/artist/0B2d8TC0aDDvyzJnW0evs0"
         },
         {
-          "name": "Fahjah",
-          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+          "name": "Tammy Andre",
+          "url": "https://open.spotify.com/artist/3CyIxNFynImoAYCiE4aZXd"
         }
       ],
-      "duration_ms": 146857,
-      "name": "Smash!",
-      "url": "https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY"
+      "duration_ms": 142504,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/2uL0YefYZycACHnFFAinQj"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
+      "album": {
+        "name": "About Us",
+        "url": "https://open.spotify.com/album/1HjqDQdjyCe0oJhvGtA6nS"
+      },
+      "artists": [
+        {
+          "name": "Charlie Roennez",
+          "url": "https://open.spotify.com/artist/6pSJIr64WeGHbSKyQIHBgd"
+        },
+        {
+          "name": "Alex D'Rosso",
+          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
+        },
+        {
+          "name": "A-Trick",
+          "url": "https://open.spotify.com/artist/4IR7Q0Fqnx1jC3oiHz4TBW"
+        }
+      ],
+      "duration_ms": 144761,
+      "name": "About Us",
+      "url": "https://open.spotify.com/track/6VZbxM7Kj1rQ98HJ6zv30w"
+    },
+    {
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Fiya (Curbi Edit)",
         "url": "https://open.spotify.com/album/296eebCCSymVYHR6fjiISA"
@@ -353,7 +417,7 @@
       "url": "https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/1ef49F2Q341KHNUFOehNGd"
@@ -369,7 +433,7 @@
       "url": "https://open.spotify.com/track/5WkJkW64ThQsfQ2tfaLcZ3"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Memento Mori",
         "url": "https://open.spotify.com/album/6O1WaSTWxI6AdLmQ84BSpG"
@@ -385,7 +449,7 @@
       "url": "https://open.spotify.com/track/3NeoM0B3Qd4x7g0xlXdC5d"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Find My Way / Within A Groove EP",
         "url": "https://open.spotify.com/album/69bxaEll6NPgrzE73SCPWC"
@@ -401,7 +465,7 @@
       "url": "https://open.spotify.com/track/5H64SFQzPmnqcjzBxKXMqT"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Outer Space (Remixes)",
         "url": "https://open.spotify.com/album/2VljxTmjwL6AvehbFSDN1j"
@@ -425,27 +489,23 @@
       "url": "https://open.spotify.com/track/72TttvID6hkPfUrhHS5fDQ"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
-        "name": "Rhythm Of The House",
-        "url": "https://open.spotify.com/album/1tcZs1bmF6XEYGQOTYSRGG"
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/682h2eyqz0a5hyQs9r8s9x"
       },
       "artists": [
         {
-          "name": "Manuals",
-          "url": "https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo"
-        },
-        {
-          "name": "MagiK",
-          "url": "https://open.spotify.com/artist/4lHCGfS7hfmctzOHRZ4TZh"
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Rhythm Of The House",
-      "url": "https://open.spotify.com/track/1HdE5rgE6uELjZdBavnVea"
+      "duration_ms": 186735,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/43wJ9QoKIL5Ye4UtNna6rU"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Otherside",
         "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
@@ -465,7 +525,31 @@
       "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
+      "album": {
+        "name": "Into The Wind",
+        "url": "https://open.spotify.com/album/0KaOsOGFPXb9NJy4oPtoMv"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        },
+        {
+          "name": "Renaissance",
+          "url": "https://open.spotify.com/artist/2IhkOK8OITflaDHPkGOunx"
+        }
+      ],
+      "duration_ms": 130338,
+      "name": "Into The Wind",
+      "url": "https://open.spotify.com/track/5HQ9MVDK5RB3W2QeOuxIJL"
+    },
+    {
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/6vpMnQ5iOvdTH6oJqKo3aI"
@@ -481,7 +565,7 @@
       "url": "https://open.spotify.com/track/25wmVH3ytIFnKBDSFUIdxu"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Gibberish",
         "url": "https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq"
@@ -497,7 +581,7 @@
       "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/0aZScCk9FdI9m9tP3gGNQF"
@@ -517,27 +601,7 @@
       "url": "https://open.spotify.com/track/6waVErr7nm6sBhed69hloa"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
-      "album": {
-        "name": "Watch",
-        "url": "https://open.spotify.com/album/0ezqrQoFD5jsCxgWLkIAoD"
-      },
-      "artists": [
-        {
-          "name": "Pietro Giacobbi",
-          "url": "https://open.spotify.com/artist/2RVumPcu7wWoI8IbjrRMh7"
-        },
-        {
-          "name": "STRIKE",
-          "url": "https://open.spotify.com/artist/3bhyWD5owEvPViJnjYL34g"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Watch",
-      "url": "https://open.spotify.com/track/1L97rUfj3FJuc4qaHZ1rOW"
-    },
-    {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Safari / Ella Quiere EP",
         "url": "https://open.spotify.com/album/4TTCyY1FPBVW1eA7zueYEX"
@@ -561,7 +625,7 @@
       "url": "https://open.spotify.com/track/5HqE67HzcBwgg02U7nrGtS"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Like That (feat. Tyler Graves)",
         "url": "https://open.spotify.com/album/1U1xk9VZDquRwDoUeBAtvd"
@@ -581,7 +645,7 @@
       "url": "https://open.spotify.com/track/0TTMHvVELhQrH1Hit65Yc6"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Putaria",
         "url": "https://open.spotify.com/album/7GqQTyGs2Jk6MSQtGFxW6F"
@@ -605,7 +669,7 @@
       "url": "https://open.spotify.com/track/5VDX0PYPSaNJn0z6pW11jB"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "NaNa Djon",
         "url": "https://open.spotify.com/album/7KdQWUPPttUm3qza9X44AA"
@@ -629,7 +693,7 @@
       "url": "https://open.spotify.com/track/3skLTalxT8tnSHC9qzKU9E"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Lo Que Soy",
         "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
@@ -649,7 +713,27 @@
       "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
+      "album": {
+        "name": "Uncontrollable / Haters EP",
+        "url": "https://open.spotify.com/album/5grwqKWg5XsvFKqsuqZP49"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Zadquiel",
+          "url": "https://open.spotify.com/artist/5hFK4GrVDIi7EOTO4QJG5o"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Uncontrollable",
+      "url": "https://open.spotify.com/track/0C2UfwJjLLNnUftt9bZdgn"
+    },
+    {
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr"
@@ -669,23 +753,23 @@
       "url": "https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
-        "name": "The Choir",
-        "url": "https://open.spotify.com/album/3aYaNe2shA2TjiS8qlAfJs"
+        "name": "In My Hands (with Camden Cox)",
+        "url": "https://open.spotify.com/album/0dVvNRierRGIDIJcLabobW"
       },
       "artists": [
         {
-          "name": "Max Bering",
-          "url": "https://open.spotify.com/artist/13BieYgRwIpIknGgwsNHoV"
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
         }
       ],
-      "duration_ms": 145161,
-      "name": "The Choir",
-      "url": "https://open.spotify.com/track/5g1nJ7IHA8dvwHWJ0V2wEU"
+      "duration_ms": 220472,
+      "name": "In My Hands (with Camden Cox)",
+      "url": "https://open.spotify.com/track/5tQBXtnSjBN6ohQYLCxBlX"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Make Amends (feat. Kyan Palmer)",
         "url": "https://open.spotify.com/album/0tNgfFcdLPQhzfgE6kI3u4"
@@ -709,79 +793,7 @@
       "url": "https://open.spotify.com/track/4Ocr8ezgeulwYhg3aZIqDL"
     },
     {
-      "added_at": "2023-08-28 06:22:01",
-      "album": {
-        "name": "Renegades (with Jay Mason)",
-        "url": "https://open.spotify.com/album/3PXoA2VZ2ULaxuUDxjJ59N"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Renegades (with Jay Mason)",
-      "url": "https://open.spotify.com/track/4cBXvmI7BHV9RJEezd35Wk"
-    },
-    {
-      "added_at": "2023-08-28 06:22:01",
-      "album": {
-        "name": "Westside",
-        "url": "https://open.spotify.com/album/6uGoTMFwu9mxx5B6NibinR"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 176248,
-      "name": "Westside",
-      "url": "https://open.spotify.com/track/2Rc6ivoghl3HERJ9bbqEWo"
-    },
-    {
-      "added_at": "2023-08-28 06:22:01",
-      "album": {
-        "name": "Uncontrollable / Haters EP",
-        "url": "https://open.spotify.com/album/5grwqKWg5XsvFKqsuqZP49"
-      },
-      "artists": [
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        },
-        {
-          "name": "Zadquiel",
-          "url": "https://open.spotify.com/artist/5hFK4GrVDIi7EOTO4QJG5o"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Uncontrollable",
-      "url": "https://open.spotify.com/track/0C2UfwJjLLNnUftt9bZdgn"
-    },
-    {
-      "added_at": "2023-08-28 06:22:01",
-      "album": {
-        "name": "Where Did You Go",
-        "url": "https://open.spotify.com/album/7eR7UTDYSnHzdm60bvFOpm"
-      },
-      "artists": [
-        {
-          "name": "Larce",
-          "url": "https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Where Did You Go",
-      "url": "https://open.spotify.com/track/3XPlFMrSk6pdGX7bkWAenR"
-    },
-    {
-      "added_at": "2023-08-28 06:22:01",
+      "added_at": "2023-09-20 18:01:50",
       "album": {
         "name": "Flying",
         "url": "https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw"
@@ -795,6 +807,62 @@
       "duration_ms": 184836,
       "name": "Flying",
       "url": "https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7"
+    },
+    {
+      "added_at": "2023-09-22 06:23:38",
+      "album": {
+        "name": "Bassline Louder",
+        "url": "https://open.spotify.com/album/11M4vUl5CG3QD2jaCd0ohb"
+      },
+      "artists": [
+        {
+          "name": "DJ Justin James",
+          "url": "https://open.spotify.com/artist/4uUSaemNvusVeyZFWSWLVh"
+        }
+      ],
+      "duration_ms": 171076,
+      "name": "Bassline Louder",
+      "url": "https://open.spotify.com/track/3VLdXdJiAcb0fyy6sgX6as"
+    },
+    {
+      "added_at": "2023-09-22 06:45:24",
+      "album": {
+        "name": "In Your Mind",
+        "url": "https://open.spotify.com/album/1lnxNRd7kCfp1AGkVehKCU"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "In Your Mind",
+      "url": "https://open.spotify.com/track/1fljgBD0HxUOOtLDQ9WSaM"
+    },
+    {
+      "added_at": "2023-09-22 06:45:38",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 192755,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"
     }
   ],
   "unique_name": "ALL THINGS HOUSE - CURBI PRESENTS",

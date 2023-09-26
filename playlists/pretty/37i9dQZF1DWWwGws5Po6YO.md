@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Whatever The Weather
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,014 likes - 100 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,021 likes - 100 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 99 | [Canopies](https://open.spotify.com/track/0a0eoEjS94xyr0fohWBs1Y) | [Grand River](https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO) | [Blink a Few Times to Clear Your Eyes](https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2) | 7:11 |
 | 100 | [Traquair \(LAYERS ambient\)](https://open.spotify.com/track/1cUOojLPXn3SSGXvnil5qC) | [Mara Simpson](https://open.spotify.com/artist/1qn02YVZeKMegZimHpELHH), [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [LAYERS](https://open.spotify.com/album/52V08L7diSUAIP9Mt4eXjV) | 4:09 |
 
-Snapshot ID: `MCw1MTM3NDRkMDk0Y2E0ZDhiNTEwOGJmOTViM2RjMDM4MTcwMzAxNmEy`
+Snapshot ID: `MCxiNzdkNTA3ZGJmZWFmYzZjYmEyNjNmMDQ5NWE3ZTQ4MTIxYjY5YzQ2`

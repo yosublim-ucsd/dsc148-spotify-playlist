@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,845 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,877 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN) | 4:35 |
 | 100 | [Bloom](https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Bloom](https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG) | 3:06 |
 
-Snapshot ID: `MCwzOTk5MTU1Yzg1M2M4Nzc3ZjY4NjFlZWU5ZmE0N2U2NWI4M2M5MzE4`
+Snapshot ID: `MCwzMWQ5YmJjNGYwNTBjMTkwNzA5ODVhNDA3NWE1YThhYjM1Y2YxNGU1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Beaks\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,272 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,274 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Golden Boy](https://open.spotify.com/track/4GQDn2vj6HzC6KHC1tgvsG) | [DANNY LANKE](https://open.spotify.com/artist/72jomA4QZXljUKTgZrnOSN), [Karabo](https://open.spotify.com/artist/107IE261qcgmCL4SNHrRUG) | [Golden Boy](https://open.spotify.com/album/7KXrJqpL07YqILMdiA8UiN) | 2:40 |
 | 100 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 |
 
-Snapshot ID: `MCw0MWE4MmQwNzgwNzBlOTQ4ODEzMDQ3ZWIwNDEwMGJmNzhjYWU2NThi`
+Snapshot ID: `MCw1ZTQzZTFhNWI4OWZmZTZiZjY2OWM4OWQ5ZDg5NTlmNWY5ZjNhNzc1`

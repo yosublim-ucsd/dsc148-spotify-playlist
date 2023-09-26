@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > Die Tage werden kürzer und die Luft frischer\. Hier ist dein Soundtrack für den goldenen Herbst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,446 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,502 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 79 | [Same Vibes](https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Same Vibes](https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO) | 3:00 |
 | 80 | [Regen \(Piano Version\)](https://open.spotify.com/track/67pt4LpKzOe86oFtrMPb9V) | [Fynn Kliemann](https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS), [Philipp Schwär](https://open.spotify.com/artist/21zpknhD3wjZyfgr6WF0lg), [Klinger](https://open.spotify.com/artist/5IZvbL90N2vOjH9Cjqrgqr) | [Nur](https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK) | 3:36 |
 
-Snapshot ID: `MCwwZGEyZGE5ZjkxZWJmNjM5OTdhMDA4YjMxOWIwNmZkZTc4NGZjYzYy`
+Snapshot ID: `MCw3OTBjYWI2MTVmN2RjZTFmZGMwZDUwNzlkZDIxNTRhN2RjMDg0OGZj`

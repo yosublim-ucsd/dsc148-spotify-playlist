@@ -1,13 +1,29 @@
 {
   "description": "Here is a playlist of all our songs released so far. Our new single 'Highlands' is out now!",
-  "num_followers": 2369,
+  "num_followers": 2429,
   "original_name": "Middle Kids - Complete Collection",
   "owner": {
     "name": "middle_kids_official",
     "url": "https://open.spotify.com/user/middle_kids_official"
   },
-  "snapshot_id": "NzksMDAxMzliY2M3Zjc2NTg4OWJhM2U0ZTE3MjU4YTUyYTAwM2NiOTM0ZQ==",
+  "snapshot_id": "ODMsYTEzNjA0NGJhMTE3MDAzODRmNzEyZDgyMTdmYTIzN2Y4ZDk5ODk1OA==",
   "tracks": [
+    {
+      "added_at": "2023-09-20 20:40:08",
+      "album": {
+        "name": "Bootleg Firecracker (Nighttime Piano Version)",
+        "url": "https://open.spotify.com/album/1t3RoFxu9wxx2m9zq6JXzk"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Bootleg Firecracker - Nighttime Piano Version",
+      "url": "https://open.spotify.com/track/2VAOZsF1dRXbpwxSSeiEKj"
+    },
     {
       "added_at": "2023-05-30 07:00:37",
       "album": {
@@ -233,10 +249,10 @@
       "url": "https://open.spotify.com/track/30dS3yETid4pYfpbsE2u07"
     },
     {
-      "added_at": "2021-03-17 01:10:53",
+      "added_at": "2021-03-19 12:41:59",
       "album": {
         "name": "Today We're The Greatest",
-        "url": "https://open.spotify.com/album/3yxsWKZW1R1emQFfwvN2lL"
+        "url": "https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4"
       },
       "artists": [
         {
@@ -246,7 +262,7 @@
       ],
       "duration_ms": 227986,
       "name": "Today We're The Greatest",
-      "url": "https://open.spotify.com/track/022sOb3Gr0yg4YRyZ5xFVd"
+      "url": "https://open.spotify.com/track/0zqJqiq9CIP7W77NrV1NpM"
     },
     {
       "added_at": "2020-10-14 23:18:56",
@@ -599,22 +615,6 @@
       "duration_ms": 187031,
       "name": "Doing It Right",
       "url": "https://open.spotify.com/track/0BJVbOwmNlHscHVR91L50B"
-    },
-    {
-      "added_at": "2021-03-19 12:41:59",
-      "album": {
-        "name": "Today We're The Greatest",
-        "url": "https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4"
-      },
-      "artists": [
-        {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Today We're The Greatest",
-      "url": "https://open.spotify.com/track/0zqJqiq9CIP7W77NrV1NpM"
     }
   ],
   "unique_name": "Middle Kids - Complete Collection",

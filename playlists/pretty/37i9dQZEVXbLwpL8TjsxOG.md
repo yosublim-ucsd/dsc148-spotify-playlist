@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLwpL8TjsxOG.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,165 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,168 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLwpL8TjsxOG.md) - [plain]
 | 49 | [花海](https://open.spotify.com/track/4EtIyBLHlEJoNPsb3Kv3CQ) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [花海](https://open.spotify.com/album/3jHdrD9gXC0XL1ZuD4NmMS) | 2:57 |
 | 50 | [Again!](https://open.spotify.com/track/3gQY0ZPLRoANIVHwNtnsz3) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [Again!](https://open.spotify.com/album/63lmqXKqf3Ze6WQhbYHYNR) | 3:44 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

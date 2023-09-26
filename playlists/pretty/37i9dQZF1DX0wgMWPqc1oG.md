@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,963 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,968 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 99 | [D Minor Mint \- Remastered 2004](https://open.spotify.com/track/7ALt0a2CpJrDiMQZkdxyNY) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Breaking Point](https://open.spotify.com/album/0FeZbhuzIoD7E5ru2eDpIH) | 6:24 |
 | 100 | [Melonae's Dance \- Remastered](https://open.spotify.com/track/6E9PgCW9kMhkIZuuCXcc5K) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 6:46 |
 
-Snapshot ID: `MCwxYTlkOTRlOGU2NzBmZjQwNDhlNmMzZmE2YjE4YTU3YmRjNjZlMTk4`
+Snapshot ID: `MCwxOWRjMjY3NDJmOTI5MTdmODRlMGQ2MTg3MDQwMzc3ZTJlNTIyODI3`

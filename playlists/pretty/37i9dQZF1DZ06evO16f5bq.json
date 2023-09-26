@@ -1,15 +1,43 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 118639,
+  "num_followers": 118931,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNTUwMDQsMDAwMDAwMDA4MDJkMWMzYTA4YmNiMTY2YzI2YjQ1NTYzM2Q0OTZmZQ==",
+  "snapshot_id": "MjgyNjA3MzYsMDAwMDAwMDBhNDBkN2I2Yzc0MWY4NjM3NmEwZmJmOTlhNDI1Yjk1Mw==",
   "tracks": [
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "De Marola",
+        "url": "https://open.spotify.com/album/7xCEWCYlRzfNTTgYgbqEK5"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "De Marola",
+      "url": "https://open.spotify.com/track/29xj2LAbTtApESdBIQvfIp"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
@@ -29,7 +57,7 @@
       "url": "https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
@@ -57,31 +85,7 @@
       "url": "https://open.spotify.com/track/52EYWdjiulHaehpexuowyh"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
-      "album": {
-        "name": "N\u00c9 SEGREDO",
-        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        },
-        {
-          "name": "Bairro 13",
-          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
-        }
-      ],
-      "duration_ms": 155771,
-      "name": "N\u00c9 SEGREDO",
-      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
-    },
-    {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "A Cara do Crime 4 (Acendo a Flor)",
         "url": "https://open.spotify.com/album/1wfZi9HzzLz2IoXjt7UVC6"
@@ -117,10 +121,10 @@
       "url": "https://open.spotify.com/track/77VEEXFqs8GlKhT1lWHcsE"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+        "name": "N\u00c9 SEGREDO",
+        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
       },
       "artists": [
         {
@@ -128,96 +132,20 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
         },
         {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+          "name": "Bairro 13",
+          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
         }
       ],
-      "duration_ms": 317340,
-      "name": "BEM MELHOR",
-      "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
+      "duration_ms": 155771,
+      "name": "N\u00c9 SEGREDO",
+      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
-      "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 154694,
-      "name": "MINHA CURA",
-      "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
-    },
-    {
-      "added_at": "2023-09-21 12:44:58",
-      "album": {
-        "name": "Poesia Ac\u00fastica #6: Era uma Vez",
-        "url": "https://open.spotify.com/album/61wvaVHo5eUxZv44ztftMX"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Bob do Contra",
-          "url": "https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Maquiny",
-          "url": "https://open.spotify.com/artist/0ixIqccVXNU45qPhq3kWex"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 577819,
-      "name": "Poesia Ac\u00fastica #6: Era uma Vez",
-      "url": "https://open.spotify.com/track/13Rf6RaZT13TW4xLQR3MQr"
-    },
-    {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Poesia Ac\u00fastica 13",
         "url": "https://open.spotify.com/album/1tJQLPkG5qc9BXqklDInry"
@@ -273,7 +201,107 @@
       "url": "https://open.spotify.com/track/7qoIhutxU269Zqo9PG5IOj"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 154694,
+      "name": "MINHA CURA",
+      "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Poesia Ac\u00fastica #6: Era uma Vez",
+        "url": "https://open.spotify.com/album/61wvaVHo5eUxZv44ztftMX"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Bob do Contra",
+          "url": "https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Maquiny",
+          "url": "https://open.spotify.com/artist/0ixIqccVXNU45qPhq3kWex"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 577819,
+      "name": "Poesia Ac\u00fastica #6: Era uma Vez",
+      "url": "https://open.spotify.com/track/13Rf6RaZT13TW4xLQR3MQr"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 317340,
+      "name": "BEM MELHOR",
+      "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Sem Compaix\u00e3o",
         "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
@@ -297,7 +325,7 @@
       "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
@@ -329,7 +357,7 @@
       "url": "https://open.spotify.com/track/1iaPDgTbsKrlznVu13EWIf"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
@@ -353,7 +381,7 @@
       "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Viz\u00e3o de Cria 3",
         "url": "https://open.spotify.com/album/1g1yMCBXSznyHPyf2YAK0l"
@@ -401,7 +429,7 @@
       "url": "https://open.spotify.com/track/7BE8gYIIFPJsx3EjXk77yT"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
@@ -425,7 +453,7 @@
       "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "LITTLE LOVE (DELUXE)",
         "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
@@ -449,7 +477,7 @@
       "url": "https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
@@ -481,7 +509,7 @@
       "url": "https://open.spotify.com/track/3BSrkgc0HEM0dod45jmqyN"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Quebradas",
         "url": "https://open.spotify.com/album/5wSJkFgoyruJuAblbrr5rH"
@@ -509,7 +537,7 @@
       "url": "https://open.spotify.com/track/3LwdDMldO8zXz5jgVTQbvR"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Virus Love",
         "url": "https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn"
@@ -541,7 +569,7 @@
       "url": "https://open.spotify.com/track/1pYPtkKcoJpXcqfSNuGjRg"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Nova Moda",
         "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
@@ -569,7 +597,7 @@
       "url": "https://open.spotify.com/track/3MGYvpoNOH3Tv5DywjJ0wA"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
@@ -593,7 +621,27 @@
       "url": "https://open.spotify.com/track/0ReqDOp3nbS49HRy4BrmkY"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 198231,
+      "name": "VOC\u00ca&EU",
+      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
@@ -629,7 +677,7 @@
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Poesia Ac\u00fastica 10: Recome\u00e7ar",
         "url": "https://open.spotify.com/album/1ct5PtiSQ4UnFMmMqFytUD"
@@ -681,27 +729,7 @@
       "url": "https://open.spotify.com/track/4pwFy4YPNGMxK2P2FfQfvt"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
-      "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 198231,
-      "name": "VOC\u00ca&EU",
-      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
-    },
-    {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
@@ -721,7 +749,7 @@
       "url": "https://open.spotify.com/track/6E8KBuOUM9e23f9fyHsDU1"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Dono das Esquinas",
         "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
@@ -749,7 +777,7 @@
       "url": "https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Filho do Dono",
         "url": "https://open.spotify.com/album/6DKYGWP4vYcYnMIPHRaMAe"
@@ -773,7 +801,7 @@
       "url": "https://open.spotify.com/track/0EuRZKWzNptC1ZuIMFKLxz"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
@@ -801,7 +829,7 @@
       "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "A Cara do Crime 2 (Cansou de Playboy)",
         "url": "https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0"
@@ -837,7 +865,7 @@
       "url": "https://open.spotify.com/track/7KPhwNko8V9vYBIN653hSO"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Cora\u00e7\u00e3o Terra de Ningu\u00e9m",
         "url": "https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy"
@@ -873,7 +901,7 @@
       "url": "https://open.spotify.com/track/0UbpJ2jRYTSHRy61viIC61"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "LITTLE LOVE (DELUXE)",
         "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
@@ -897,7 +925,7 @@
       "url": "https://open.spotify.com/track/0BSfQdCd5lZPgTQL70DsYV"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
@@ -917,7 +945,7 @@
       "url": "https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "G\u00eanio",
         "url": "https://open.spotify.com/album/32l0hsTM6EprmOp8lEVRGe"
@@ -941,7 +969,7 @@
       "url": "https://open.spotify.com/track/0qqvEDm3PXlgOa9okZSARf"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
@@ -969,7 +997,7 @@
       "url": "https://open.spotify.com/track/5X4PNc9g7KIQSRk4crioOO"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Qu\u00edmica",
         "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
@@ -985,7 +1013,7 @@
       "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
@@ -1009,7 +1037,7 @@
       "url": "https://open.spotify.com/track/6dLkUsssDfk54mmJ3FZdA1"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "N\u00e3o Demora",
         "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
@@ -1033,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "At\u00e9 o c\u00e9u",
         "url": "https://open.spotify.com/album/713q68xdmP3jOgkAdY0gd4"
@@ -1053,55 +1081,7 @@
       "url": "https://open.spotify.com/track/0NRP5OIrTcgGvttJlSLO0n"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
-      "album": {
-        "name": "Ainda",
-        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Djay W",
-          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
-        }
-      ],
-      "duration_ms": 207104,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb"
-    },
-    {
-      "added_at": "2023-09-21 12:44:58",
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "DomLaike",
-          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
-        },
-        {
-          "name": "Dj Felipe Rosa",
-          "url": "https://open.spotify.com/artist/02ESSPEzwYHnLH7SjiG8oj"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "RIO SUL",
-      "url": "https://open.spotify.com/track/7fA1lo7delfwVjq7Ccg0fp"
-    },
-    {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "18K",
         "url": "https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo"
@@ -1133,7 +1113,55 @@
       "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "Dj Felipe Rosa",
+          "url": "https://open.spotify.com/artist/02ESSPEzwYHnLH7SjiG8oj"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "RIO SUL",
+      "url": "https://open.spotify.com/track/7fA1lo7delfwVjq7Ccg0fp"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Ainda",
+        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Djay W",
+          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
+        }
+      ],
+      "duration_ms": 207104,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s"
@@ -1161,31 +1189,7 @@
       "url": "https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
-      "album": {
-        "name": "Intoc\u00e1vel",
-        "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 188018,
-      "name": "O Tempo \u00c9 R\u00e1pido Demais",
-      "url": "https://open.spotify.com/track/2goeywqmRTcpC9Lnx7GdIN"
-    },
-    {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "\u00c9 o Trem!",
         "url": "https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx"
@@ -1213,7 +1217,31 @@
       "url": "https://open.spotify.com/track/2nokytjOYWfvtyvTxrs3R5"
     },
     {
-      "added_at": "2023-09-21 12:44:58",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Intoc\u00e1vel",
+        "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 188018,
+      "name": "O Tempo \u00c9 R\u00e1pido Demais",
+      "url": "https://open.spotify.com/track/2goeywqmRTcpC9Lnx7GdIN"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "MUITA ONDA",
         "url": "https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4"

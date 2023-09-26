@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: KETAYA\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,544 likes - 85 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,545 likes - 85 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 84 | [อยากต่อยคนในใจเธอ](https://open.spotify.com/track/2VGimeSbWvGRp5FPM9jmaa) | [famest](https://open.spotify.com/artist/7znCfVqa7Sr16StruNWLc4), [bangkokboy](https://open.spotify.com/artist/6fwQBhYnAnRxitHilf0MPX) | [อยากต่อยคนในใจเธอ](https://open.spotify.com/album/6n8XBloGgMASBKTTtYg0Yf) | 3:22 |
 | 85 | [มือซ้าย](https://open.spotify.com/track/6cRJbBHy251orkaJkbNG5x) | [ijiro](https://open.spotify.com/artist/2Vhpz9QeB4cO2Zyt2DizDX) | [มือซ้าย](https://open.spotify.com/album/0wL5DM9Bst4kmzgSlNNvrP) | 3:39 |
 
-Snapshot ID: `MCwxM2JlMzUyNDEwYWFjMjc1ZjYyNmMzNjk1NTVmYjAxNDQwMGQ3NmRi`
+Snapshot ID: `MCw5ZDYzNGI3ZDliNzExYTMxMDczMDI4NmE3ZGJiMGU4ODMwZjUwYTgz`

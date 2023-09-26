@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\. Cover: Lennon Stella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,634 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,664 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 |
 | 150 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk) | 4:39 |
 
-Snapshot ID: `MCwwZjU3ZDBhMzE2NGM0OTA4ODVlNjFhMDU0YzcxOWI5MjUwNjI2MjA4`
+Snapshot ID: `MCxmMjdlM2Y0NjViMzM0MDkzODY5OGYzMTBkOTg4ZmMwMTQ5OTE2MzE4`

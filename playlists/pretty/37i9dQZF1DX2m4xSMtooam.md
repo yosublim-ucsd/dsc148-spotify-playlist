@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,514 likes - 150 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,540 likes - 150 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 149 | [Night and Day](https://open.spotify.com/track/7xdA079lgspLogIdrqVG0m) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Momento](https://open.spotify.com/album/3TW79jBMpvywbkINslZPp3) | 4:55 |
 | 150 | [Small Bossa](https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2) | [Matt Rollings](https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu) | [The Valentine Sessions](https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c) | 3:19 |
 
-Snapshot ID: `MCxkMDVkYmExYmEwNDNjNDZlY2YzMzcxMzM0ZGY4OTQ5MjA3ZTZhZGJj`
+Snapshot ID: `MCxiNjIyYzQwNzhlZTZkOWEzNDUyNWIzY2M3MGZhNmEzOGIwMDk4NWRh`

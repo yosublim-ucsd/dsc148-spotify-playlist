@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Fall Out Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,907 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,922 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [Beat It \- Studio Version Featuring John Mayer](https://open.spotify.com/track/0BrgzTEWfI0QZLRJqzJbPa) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Live In Phoenix](https://open.spotify.com/album/5QFioUfHFxQFKULZli3BTF) | 3:50 |
 | 100 | [Chemical](https://open.spotify.com/track/7uYwtxCDbqPEmhX0UyHq5d) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Chemical](https://open.spotify.com/album/6pRgz5qJcDGpGhVSU1qJiv) | 3:02 |
 
-Snapshot ID: `MCxlZTlhMmU2MGU0MjMzNjRjYTcwN2E0Nzg1NTZhZDRmYTI2YmEyMjAx`
+Snapshot ID: `MCxjNDNkYzQxNTg5NTViODNlMmExZTE0NzU4YTQyMWVkNzg1N2E5Yzdm`

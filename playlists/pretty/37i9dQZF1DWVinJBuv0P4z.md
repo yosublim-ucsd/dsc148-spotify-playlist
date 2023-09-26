@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,690 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,712 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 | 149 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 |
 | 150 | [C’Mon Everybody](https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6) | 1:58 |
 
-Snapshot ID: `MCxjZDc2ZmQ4MmY1ODRmZTA0MjY1MGU3NzI3Yjk4ZTc0MWIzYjFjYjNh`
+Snapshot ID: `MCw5MzQ2MGJhMzMwZjM1OTIwZmYwYmNmODIzNWQ0M2UzY2VmMzEyNDE2`

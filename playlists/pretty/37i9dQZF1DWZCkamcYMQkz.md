@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,372 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,451 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Hip Trolley](https://open.spotify.com/track/45ePywU8XC3cgimQXcmFjj) | [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Business Meetin'](https://open.spotify.com/album/12mokBkX13WcFkEly5Hg9m) | 5:25 |
 | 100 | [Uncle Rough](https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:33 |
 
-Snapshot ID: `MCw1OGMwNTUxZGY1MGNjNjVhNWY2YWY4ZjEyOTY4MTdlMjJmY2NjZDMx`
+Snapshot ID: `MCw2YzUyZTIyMTQ3MmZjM2U0NGJhNWQ0MDAzYzY1NmY3YzY5OTk5MzJi`

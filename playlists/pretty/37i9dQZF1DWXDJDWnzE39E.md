@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: NOVELISTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,506 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,526 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 79 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 |
 | 80 | [Cover You](https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Cover You](https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3) | 3:01 |
 
-Snapshot ID: `MCxiYjIxZjYxYmNiOGY1ZGRjZjZiZDFhZmNiNDM2MjZmNmE5MGQ5ZTFm`
+Snapshot ID: `MCxhN2Y2ZWFhNDQyOTY0MmVhM2JiYWY2ZWZkNDFjNmZhYzNlMjNlZGY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,838 likes - 80 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,918 likes - 80 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 79 | [As we pray \- Prayer charge](https://open.spotify.com/track/4svNtsUGDRGLRCfQq8LSMg) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [As we pray \(Prayer charge\)](https://open.spotify.com/album/2AkXQqXDLSrntsnWaLlhgM) | 5:45 |
 | 80 | [I No Send](https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/7AlTQ1pp6DfDYTgZeOMDuS) | 3:53 |
 
-Snapshot ID: `MCw5ZDlmNzdiZDZhMjVkYjljZDRmYjllNjMxNDAwMTYxOWYwMTZmMjMw`
+Snapshot ID: `MCw5YjdiYTUxY2RiOTE2NjM2NzI2MmFkZGM5ZjI5MDc4MzY5MTU5ZjMx`

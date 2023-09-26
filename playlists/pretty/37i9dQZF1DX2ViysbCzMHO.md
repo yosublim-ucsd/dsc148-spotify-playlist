@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,228 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,244 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
 | 100 | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG) | 2:40 |
 
-Snapshot ID: `MCwxYjE4YjZiNWNmMDE0OGEzNzI2ZmY0MjJkZGQyY2UxNzdmYWNmMWZh`
+Snapshot ID: `MCwxZGNkMjFhMTRkYWY3ZTg0Njk3OWI4YjFhNjQxMDgxNDM1YzVhZTNj`

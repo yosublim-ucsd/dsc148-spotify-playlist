@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-106 songs - 6 hr 42 min
+107 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,9 +87,10 @@
 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2021-10-20 |  |
 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 | 2023-04-12 |  |
 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 | 2021-10-20 |  |
+| [OVNI Cumbia](https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [OVNI Cumbia](https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP) | 3:46 | 2023-09-25 |  |
 | [Paga la Cuenta Sinverguenza](https://open.spotify.com/track/56PULupF5Gt50FyostKuMd) | [Manzanita](https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G) | [The Roots of Chicha 2](https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI) | 3:09 | 2021-10-20 |  |
 | [Para Elisa](https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX) | [Los Hermanos Zañartu](https://open.spotify.com/artist/3eZmniklmCQj7Jn6i6alvI) | [Enrique Delgado \(feat\. Enrique Delgado Montes\)](https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj) | 2:48 | 2021-10-20 |  |
-| [Paso Palante](https://open.spotify.com/track/3nK7fQHM7Gld1esyJmRf2h) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:05 | 2021-10-20 |  |
+| [Paso Palante](https://open.spotify.com/track/3nK7fQHM7Gld1esyJmRf2h) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:05 | 2021-10-20 | 2023-09-26 |
 | [Pista \(Fresh Start\)](https://open.spotify.com/track/34DOledEvD7igMMVEWbaEO) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:22 | 2023-01-02 |  |
 | [Popcorn Andino](https://open.spotify.com/track/7kkijB89vc5uGbG1WhUFZu) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 5:19 | 2021-10-20 |  |
 | [Primavera en la Selva](https://open.spotify.com/track/4hLkkCMgDmve1pRdqtHL1R) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:02 | 2021-10-20 |  |

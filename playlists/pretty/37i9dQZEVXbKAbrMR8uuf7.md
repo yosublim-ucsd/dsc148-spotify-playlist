@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKAbrMR8uuf7.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,655 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,648 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKAbrMR8uuf7.md) - [plain]
 | 49 | [La Piedra](https://open.spotify.com/track/1iwkENJTFtLZ0kWKVKtcRb) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [La Piedra](https://open.spotify.com/album/4oJF52yFg8o1qMb5LEaMHf) | 2:38 |
 | 50 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

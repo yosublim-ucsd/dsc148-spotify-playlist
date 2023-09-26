@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Christian Nodal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,930 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,964 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 74 | [Extrañándote](https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Extrañándote](https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO) | 3:05 |
 | 75 | [Méxxico Es Todo](https://open.spotify.com/track/4ZAHtzkitK8SanEc7XZoVX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Méxxico Es Todo](https://open.spotify.com/album/11m7pZleAOAkhrm60ihmov) | 3:34 |
 
-Snapshot ID: `MCw2OTJhODEzODU1MzBiZTU5YzU3ZTRjNWZiMzUzMWE2MTVkM2Y0YWQy`
+Snapshot ID: `MCwzZDExMmY4NDc1NGE4ZjVkYjQyZDMyZTg2ZGYyMDI4OTgxMzE0ZjBh`

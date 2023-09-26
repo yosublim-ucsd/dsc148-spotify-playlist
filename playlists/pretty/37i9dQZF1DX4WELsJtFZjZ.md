@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,616 likes - 150 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,731 likes - 150 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 149 | [Heartbreaker](https://open.spotify.com/track/3iMLRCGHLQ135LtMjKLkO8) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Heartbreaker](https://open.spotify.com/album/1Iw6XX7uvOyQbq6dIht2hD) | 4:18 |
 | 150 | [Joe le taxi](https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [M & J](https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc) | 3:55 |
 
-Snapshot ID: `MCxlMmY2NWUwNzZmMDBmNTFjOTFjOThjZGU0YzVlOGE1NjY1NDBkOGRi`
+Snapshot ID: `MCxhNmU0ZGFiMGFiNjgxNGVjNjJiZTVjZGExZGQwOTdiYzM2YzFmNWMx`

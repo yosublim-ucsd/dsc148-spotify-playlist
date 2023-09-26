@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > We're celebrating the 10th anniversary of Keith Urban's hit album "Fuse" on 2010s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,161 likes - 200 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,263 likes - 200 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 199 | [Mine Would Be You](https://open.spotify.com/track/1zvQt99d5oTkEQLmSoO1yu) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Based on a True Story..\. \(Deluxe Edition\)](https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0) | 3:59 |
 | 200 | [Drunk Last Night](https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [10,000 Towns](https://open.spotify.com/album/6JXJKuUgJ3AKpU9gh9RJs6) | 3:39 |
 
-Snapshot ID: `MCxlY2NkZTAzMjFiZWRiNjkyMzJkOTdhYTY3NDc3OTNmZWVkNGNmZGZh`
+Snapshot ID: `MCxiZjU5YWY1NWNiYmJiZDE2NGExYTAyYzBkOTY3NDkxNjVjNzgyYTNk`

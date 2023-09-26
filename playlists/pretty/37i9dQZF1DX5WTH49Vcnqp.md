@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Jean Dawson
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,881 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,899 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Speedracer](https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Speedracer](https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4) | 2:58 |
 | 75 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
 
-Snapshot ID: `MCw4OWI5ZGI5MTQ3YzFhMGIxMzg3NDcyN2YzNWRmZTFiNGEzYjgwNDA3`
+Snapshot ID: `MCxmOWM2YjdlMGQyY2U0M2M0MjM1MTY5OTc4NzhjMmRiNzAzYmM4NzBl`

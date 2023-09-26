@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The very best of the alternative rock scene\. Cover: Teenage Wrist
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,865 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,876 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 99 | [Godsend](https://open.spotify.com/track/6a9yNu5Nlc1xezZjHAzj0C) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Godsend](https://open.spotify.com/album/1BIiMBKDK1K2kNE3SzJM3k) | 4:22 |
 | 100 | [Torpedo](https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/45FNVeKY799LKTNL4SmaGx) | 3:44 |
 
-Snapshot ID: `MCw0OTU0ZmIyYjE3MjRiM2M5YjcxYzM5YWQ5ZWYwODI3MWIzYzU2ZDFh`
+Snapshot ID: `MCxkOWFhMGFhNzMyYjY3NjM5MWNhNTQ1MmJkZDRjNjI3YjA2Y2Y3ZGQz`

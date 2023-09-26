@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,765 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,814 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 99 | [Neighborhood Music](https://open.spotify.com/track/1R2cccY1X0AKX6TugUKeZ5) | [Lil Rob](https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1) | [Neighborhood Music](https://open.spotify.com/album/3TcZqHDaNIFCTogCqRTd4E) | 4:11 |
 | 100 | [Sueño Eterno](https://open.spotify.com/track/2qz7kDmufSCuAhfaye9ZMd) | [Tankeone](https://open.spotify.com/artist/6CJ0EnASyencrooPZNBpaB), [Tabernario](https://open.spotify.com/artist/2uG7vLSehD2quPeYSPkT73), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [La Nota Roja](https://open.spotify.com/album/1jeBesKuGn7nHT0K8a1BFx) | 4:05 |
 
-Snapshot ID: `MCw2MzBiYTNkZWFlYTVhMmExNjRmNDA5YTIyNGM0ZmVhY2VlN2RiZGU0`
+Snapshot ID: `MCwxOTMzNmQ1N2QwMDU4NmZiZTBiNDA3OTUwNzMwMmQyMzdkNTE0Y2Jk`

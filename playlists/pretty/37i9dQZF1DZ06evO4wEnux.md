@@ -4,36 +4,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 
 > This is Fatherson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 718 likes - 27 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 723 likes - 27 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Piece Of Mind](https://open.spotify.com/track/5XlTOWQoMZttmK9pZvgzLv) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Piece Of Mind](https://open.spotify.com/album/1B5wJGS5bsRvEdNg7Nyp08) | 3:21 |
 | 2 | [Charm School](https://open.spotify.com/track/5J1RjqttTtHcMimE4C1RZn) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:30 |
-| 3 | [Afterwords](https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Afterwords](https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R) | 4:28 |
-| 4 | [Do It for Yourself](https://open.spotify.com/track/4nqvfPLOhsKuKOWLlpWpHO) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 |
+| 3 | [Do It for Yourself](https://open.spotify.com/track/4nqvfPLOhsKuKOWLlpWpHO) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 |
+| 4 | [Afterwords](https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Afterwords](https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R) | 4:28 |
 | 5 | [Always](https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:11 |
 | 6 | [I Like Not Knowing](https://open.spotify.com/track/4fX5Tn7EGAuyYIk2VUaQER) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:21 |
-| 7 | [Making Waves](https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:32 |
-| 8 | [Normal People](https://open.spotify.com/track/1AdWwPqoPgaC7Ax2rdR1ij) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 2:58 |
+| 7 | [Normal People](https://open.spotify.com/track/1AdWwPqoPgaC7Ax2rdR1ij) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 2:58 |
+| 8 | [Making Waves](https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:32 |
 | 9 | [Just Past the Point of Breaking](https://open.spotify.com/track/43AD5Zw1Nc4ksgbR9vLGUl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 4:02 |
 | 10 | [Hometown](https://open.spotify.com/track/5efUl9eBORs9HtkA3M8FRZ) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:23 |
-| 11 | [The Rain](https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:58 |
-| 12 | [Love For Air](https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:05 |
+| 11 | [Love For Air](https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:05 |
+| 12 | [The Rain](https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:58 |
 | 13 | [Open Book](https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:09 |
 | 14 | [Lights](https://open.spotify.com/track/3Hw9NcN6S0zMt7B9IwY7z7) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:08 |
-| 15 | [Reflection](https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 5:14 |
-| 16 | [Better Friend](https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 4:17 |
+| 15 | [Better Friend](https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 4:17 |
+| 16 | [Reflection](https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 5:14 |
 | 17 | [Lost Little Boys](https://open.spotify.com/track/69QIoEBfch6iEtiU2w6ztR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:20 |
 | 18 | [Cat Stevens](https://open.spotify.com/track/42oEICWlSD1QMx2LMyHS9o) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:30 |
-| 19 | [The Landscape](https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:25 |
-| 20 | [Dive](https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:35 |
+| 19 | [Dive](https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:35 |
+| 20 | [The Landscape](https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:25 |
 | 21 | [Sleeping Over](https://open.spotify.com/track/52tMVWCZGC9hiQ4CZgdm3y) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 4:13 |
 | 22 | [Mine for Me](https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:00 |
-| 23 | [Oh Yes](https://open.spotify.com/track/6zK1NS9Mgik6BKycYDFRFs) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 5:19 |
-| 24 | [The Feeling And The Sound](https://open.spotify.com/track/7L23QYPDsq0xtDQ1493KNV) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:11 |
+| 23 | [The Feeling And The Sound](https://open.spotify.com/track/7L23QYPDsq0xtDQ1493KNV) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:11 |
+| 24 | [Ghost](https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:02 |
 | 25 | [Wondrous Heart](https://open.spotify.com/track/62LS6ZD9cMZszkioaeLTOo) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 4:11 |
 | 26 | [An Island](https://open.spotify.com/track/677aexYSCY66OqFPoVhA57) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:14 |
 | 27 | [First Born](https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [First Born](https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66) | 3:14 |
 
-Snapshot ID: `MjgyNTUwMDUsMDAwMDAwMDAyYmRkOWI3MjM5MDNkYTZkNmEwYjgxY2FmNDM0YmQyNQ==`
+Snapshot ID: `MjgyNjA3MzcsMDAwMDAwMDBlNTk0MjA5N2M3Y2QxMTBmMjcxZDI4MDJhMjg3ZDU5Yg==`

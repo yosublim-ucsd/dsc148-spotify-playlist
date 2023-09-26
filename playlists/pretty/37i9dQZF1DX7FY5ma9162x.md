@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 
 > The tracks you can put on repeat all day\. Cover: Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,960 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,029 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 | 99 | [7:00](https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y \(Deluxe\)](https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy) | 3:08 |
 | 100 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 |
 
-Snapshot ID: `MCw0YmNiNjAyNDVlNWZlZTBhNmY4NGEzMzY2NDY4ZDMzYWE5ZTBiODFj`
+Snapshot ID: `MCw0MDJmNWUxNWM2OGFkYjY3NjcyZDEyMTFmOTJkYjZjMWYzYTg5ODI2`

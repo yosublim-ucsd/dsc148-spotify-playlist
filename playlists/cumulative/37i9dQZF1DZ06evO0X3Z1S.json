@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 195483,
       "name": "My Life Is Music (Jonas Blue Remix)",
       "url": "https://open.spotify.com/track/2PnEzfFz03XKGU4JqrCw8A"
@@ -776,6 +776,28 @@
       "duration_ms": 185453,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
+    },
+    {
+      "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196821,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
     },
     {
       "album": {

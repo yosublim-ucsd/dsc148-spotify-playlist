@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > Home is where the main stage is\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,659 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,696 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 99 | [One in a Million \- David Guetta Remix](https://open.spotify.com/track/1ump437qGe1gqRkMHg266F) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million \(David Guetta Remix\)](https://open.spotify.com/album/1XyHzo30k0PD68I63STVGP) | 2:39 |
 | 100 | [All For Nothing](https://open.spotify.com/track/0XYQShep48eEFHg7hcPndl) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [All For Nothing](https://open.spotify.com/album/42CesxC3CLpCu2Z01Plmum) | 3:26 |
 
-Snapshot ID: `MCw1MmIzMWYzZWE4MDdiYjhjOTg3N2Y3MDk4MzVmMTE0NDQ1YmQ1M2Zj`
+Snapshot ID: `MCw5ZWRlNTdiNDg1MTg4OTliNjNjMDcxZTBiODg2OGZkZWRjOTU2N2Ji`

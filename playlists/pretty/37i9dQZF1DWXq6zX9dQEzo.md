@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Music blasting, faith on swole\.  Get your beast mode on!  Guest Curated by <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=ee8a724b019b4d6d">KB</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,306 likes - 150 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,382 likes - 150 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [Fight Of Your Life](https://open.spotify.com/track/75nrUKvEyi6NUP4SJC1wit) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Fight Of Your Life](https://open.spotify.com/album/5NvLQlP11h3vpyCDJP3BJL) | 3:09 |
 | 150 | [RUSH](https://open.spotify.com/track/6dxId4EEZvdUJqVmH3qA61) | [Kaboose](https://open.spotify.com/artist/2zD5NNTrgXT3o2RVrRBvv1), [Joe Bills](https://open.spotify.com/artist/1W0jgt0r6ladSy83zw9Ik4) | [RUSH](https://open.spotify.com/album/065QDCv1XieAGlpweuCSEP) | 2:49 |
 
-Snapshot ID: `MCwyZmRmMDNmMDU3M2RlODhhOTI4YTlhMDUxMTE4YjRjMDM2MTE5YTA2`
+Snapshot ID: `MCw3NTJmZDQ0YWIyNjAzYzZmM2FhYzc1YjAyMTM5NmY0NWE2MGMyMzcx`

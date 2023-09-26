@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,349 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,373 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 49 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 |
 | 50 | [Sehnsucht](https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Sehnsucht](https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ) | 2:32 |
 
-Snapshot ID: `MCxhOTUzZTk0ZjM0ODA4NDIwOGNiNTAzNjM2ZDFkZjdjZjQzN2IwOGM1`
+Snapshot ID: `MCxjMjZhMWRkMjE2NzkyM2I0OTYyMDFmNTU4NGE2NjhhNmM2ZWIxOTNh`

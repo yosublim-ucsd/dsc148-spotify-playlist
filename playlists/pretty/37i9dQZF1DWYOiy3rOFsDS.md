@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Gian Marco y Rubén Blades en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,418 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,447 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 |
 | 100 | [Preso](https://open.spotify.com/track/1HbrJm8GebgXE24ixji0hR) | [Paco de María](https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2) | [Una Buena Señal](https://open.spotify.com/album/7K4Skg7SyLMzLhgSXAcoYC) | 3:47 |
 
-Snapshot ID: `MCw2MzIxMWRjOTJmM2I0ZWY1MDQzZDZhNDFjYmVjMzg5OWNmYWM2M2Jk`
+Snapshot ID: `MCw3NjBjMmRiY2YxMjhhOTUxMzllMjY5MTUxZGU5ZDk4OGRhYzBiYTM1`

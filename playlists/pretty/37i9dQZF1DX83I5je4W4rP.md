@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,065,927 likes - 125 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,065,947 likes - 125 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [Some Say the Ocean \- Reggae Remix](https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [Some Say the Ocean \(Reggae Remix\)](https://open.spotify.com/album/6TotsVd1L88A9NYkWjfFju) | 3:55 |
 | 125 | [Feels Right](https://open.spotify.com/track/0xqKiPNtARmiviseWIQj2z) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Noon](https://open.spotify.com/album/1rwkJG8Fx6r2bA0ZFc4FYU) | 2:47 |
 
-Snapshot ID: `MCw4NjBmN2E5YmZhNDlmZmJkMWU4ZmJkODZlYTVkNzg5YWZkMTZlMjc2`
+Snapshot ID: `MCxmZTQwY2NmYjA5NmRiNTdhNzM4NDRhNDgwYjk2OGFhYTU4MDQ3NmIw`

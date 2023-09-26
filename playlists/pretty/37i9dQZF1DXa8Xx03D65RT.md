@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 
 > La sutileza del piano para enriquecer tu espacio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,658 likes - 250 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,668 likes - 250 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 | 249 | [The Garden](https://open.spotify.com/track/5zxpOwuLmakNHkTgipD0me) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Simple Things](https://open.spotify.com/album/2Mb8DzYuYlPIM1IaNmO0oq) | 3:05 |
 | 250 | [Meditation: I\. Promise](https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Karen LeFrak: Interlude, Vol\. 3 – Gratitude](https://open.spotify.com/album/17pzfCMTtp0AnuccfsoUvy) | 2:00 |
 
-Snapshot ID: `MCxiYmMzZGMyYTJmMjZmYTgwYWE2NDc3ODk3YTM0MDY1NWM2YWMxYjFj`
+Snapshot ID: `MCxmOTU0YjI3ZjA0MWJmYWQ5YTAyNDQ1YzJiNGFkMzYxMTlkODNmMjBl`

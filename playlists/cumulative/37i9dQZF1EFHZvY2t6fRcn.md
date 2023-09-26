@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 7 hr 9 min
+129 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Midnight Dreams](https://open.spotify.com/track/4vd3dfRNMQRVFnJjvMkl7U) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Midnight Dreams](https://open.spotify.com/album/6VFJSjwJRS5qMf9z2FaxAP) | 3:12 | 2023-03-30 | 2023-04-11 |
 | [Midnight Dreams](https://open.spotify.com/track/6xKUJ0HwdyEIeiuwM3sfQ1) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:12 | 2023-04-10 |  |
 | [Mind On You](https://open.spotify.com/track/1sgMq9Stjx7OalV09MA7dU) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:32 | 2021-12-27 |  |
+| [More](https://open.spotify.com/track/43AkwjzRPBKbFrGM7Rn9JF) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [More](https://open.spotify.com/album/1sF44ZsrgWPrJ2imXUCcDB) | 3:16 | 2023-09-25 |  |
 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 | 2021-12-27 |  |
 | [Night and Morning](https://open.spotify.com/track/4lj1We6JrzxZRIBEQLrqLO) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:23 | 2021-12-27 |  |
 | [Nirvana \(Kulkid Remix\)](https://open.spotify.com/track/2WOebgcOKKxoyH2xvfzGq2) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an), [Kulkid](https://open.spotify.com/artist/54jIQsyNf1V5MEWlkHOZtS) | [Nirvana \(Kulkid Remix\)](https://open.spotify.com/album/4OsHCvcM8ch3Di8sR0JPzH) | 4:19 | 2021-12-27 |  |

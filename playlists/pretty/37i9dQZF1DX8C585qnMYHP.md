@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new Experimental by independent artists and labels, with Estrella del Sol on cover\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,591 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,621 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [small circle](https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC) | [Jason Calhoun](https://open.spotify.com/artist/70RGuffxPE3qcjlvfeAaUy) | [small circle](https://open.spotify.com/album/21UMEdY1bi4yqimxA8VzSh) | 8:35 |
 | 100 | [Summer Session \#3](https://open.spotify.com/track/1pnhHHes46zmwyrMY5VoUm) | [Infinite River](https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm) | [Space Mirror](https://open.spotify.com/album/3HJEBCujpDy35mS7P5erJY) | 6:20 |
 
-Snapshot ID: `MCwxODY3OTAyYmI5YjA3Y2Q1MTg2OWNkZDlmZGExN2IxYWIzMTUyNjkz`
+Snapshot ID: `MCxiYTJkMDVjMzIwZWI3MDA1MWVmOTJiMTMwM2EyZDMyODVmODZjODI4`

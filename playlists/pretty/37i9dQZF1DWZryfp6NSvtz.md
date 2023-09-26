@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,893 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,935 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 25 | [Come on Heartache](https://open.spotify.com/track/3MhHgoEoBMmp6tOpqYX7Oj) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Come on Heartache](https://open.spotify.com/album/0Sv1C0fQSFiDhY9Fed6HqE) | 2:55 |
 | 26 | [Can't Stand](https://open.spotify.com/track/27HD1QGdmdv2x2fahp6k3f) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Can't Stand](https://open.spotify.com/album/5PIC9aNkbbcowFuUmwuiW1) | 4:04 |
 | 27 | [If You Wanna](https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [If You Wanna](https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB) | 2:48 |
-| 28 | [Share My Heat \- Radio Edit](https://open.spotify.com/track/4ixsbdxwitoz34mmHYGgvn) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Share My Heat](https://open.spotify.com/album/0iXdDGlsEX0Tjwx0MNle13) | 3:49 |
+| 28 | [Share My Heat \- Radio Edit](https://open.spotify.com/track/5ptBJqextFdSQAUjvQdvZs) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Share My Heat](https://open.spotify.com/album/0s6LEJNKhuO0HM8pTWTNsN) | 3:49 |
 | 29 | [The Replay](https://open.spotify.com/track/5LJVrobXw7Tl4GljePiRSU) | [Future Humans](https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl) | [The Replay](https://open.spotify.com/album/3DdVPmXKuCUEpu0HzPXnzS) | 3:54 |
 | 30 | [The Fear](https://open.spotify.com/track/19qaJgT7BRbsXrbRGG26d6) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [The Fear](https://open.spotify.com/album/6Vb9Pq6XuKB2sp53yJsPvd) | 2:44 |
 | 31 | [Dog Days of Summer](https://open.spotify.com/track/0ktlgszN9N2Gs6T88GKui6) | [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Dog Days of Summer](https://open.spotify.com/album/0MbCgbBFSmhNLn0As18SP5) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Timeless](https://open.spotify.com/track/0De8VsiMjYMWw43AcQqzIa) | [Nevrlands](https://open.spotify.com/artist/1DNIohNOTsWcoNmp5sx3yx) | [Timeless](https://open.spotify.com/album/2PRoNwBJcF6gaLLMqySkk3) | 3:10 |
 | 50 | [Keeping You Alive](https://open.spotify.com/track/3DKHNiRevUbn6NnlyCU8T2) | [Waterfront](https://open.spotify.com/artist/0iFZ2vkAsRYe3J1kE9XjSn) | [Keeping You Alive](https://open.spotify.com/album/0Mvw0AMmFxqRv97lajEjZD) | 3:15 |
 
-Snapshot ID: `MCw5OGJmMGM4ODRmYmYwZDY5ZjA3MDZjZWUzYjNkOTExMmMzYjFhMzI3`
+Snapshot ID: `MCwzMDYyNzA4NTYwOWI0NTExNGEzYjkyNzg1NDU2NDNkZTAyMDgyYzI5`

@@ -1,31 +1,35 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 214889,
+  "num_followers": 215167,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNTUwMDUsMDAwMDAwMDA3YzhhZTc0M2M0ZWU5MTFmZmM5YWIzNjk2YTI0OGQwMA==",
+  "snapshot_id": "MjgyNjA3MzcsMDAwMDAwMDA4MmVlYjhhM2Q3MDc1MjAzYjQ2ZDQzZWI2ZTMyOTM2NA==",
   "tracks": [
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
-        "name": "Tenemos que hablar",
-        "url": "https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU"
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
       "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 190213,
-      "name": "Tenemos que hablar",
-      "url": "https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI"
+      "duration_ms": 181426,
+      "name": "AQYNE",
+      "url": "https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "\u00bfA D\u00f3nde Vamos?",
         "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
@@ -45,7 +49,23 @@
       "url": "https://open.spotify.com/track/0cS0bJ0oBylj3TFtz6x9pC"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
+      "album": {
+        "name": "Tenemos que hablar",
+        "url": "https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "Tenemos que hablar",
+      "url": "https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI"
+    },
+    {
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "XT4S1S",
         "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "tqum",
         "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
@@ -97,7 +117,7 @@
       "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "1Trago",
         "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/1U7QlWG6O98xgsJtVjYREj"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "New Hope Club",
         "url": "https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "No Bailes Sola",
         "url": "https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/199LDzwbUTc2wEroyRxhBM"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
@@ -265,27 +285,7 @@
       "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
-      "album": {
-        "name": "Sugar Mami",
-        "url": "https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 131671,
-      "name": "Sugar Mami",
-      "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
-    },
-    {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Vuelve, Vuelve",
         "url": "https://open.spotify.com/album/4xTMKZ0p01gSgO0YW5aJud"
@@ -305,7 +305,27 @@
       "url": "https://open.spotify.com/track/5EjRxRZTIpJP1nOdowCFbZ"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
+      "album": {
+        "name": "Sugar Mami",
+        "url": "https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 131671,
+      "name": "Sugar Mami",
+      "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
+    },
+    {
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
@@ -321,7 +341,7 @@
       "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Cuatro Estaciones",
         "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Danna Paola (Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/6QujFeVy4XXrf9NcEJYOuV"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Kaprichosa",
         "url": "https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Danna Paola",
         "url": "https://open.spotify.com/album/1AKTMo2eJTgo9X37EiGaPR"
@@ -409,7 +429,7 @@
       "url": "https://open.spotify.com/track/0SyiBeCbCEdZolhFoAvz94"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
@@ -425,7 +445,7 @@
       "url": "https://open.spotify.com/track/776D0NXlV6o3QpntAxFmwt"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Santer\u00eda",
         "url": "https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "M\u00cdA",
         "url": "https://open.spotify.com/album/7w4L4dKgKRlErEaYooPvoz"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/2HWXhViZhTPJa10NgyrRRS"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Cachito",
         "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "A Un Beso",
         "url": "https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk"
@@ -501,7 +521,7 @@
       "url": "https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Danna Paola (Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/3e9V8vS2oviXYWtj09DkJP"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
@@ -597,27 +617,7 @@
       "url": "https://open.spotify.com/track/1vWWJKXt6TGw0eFfVO2Xs7"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
-      "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar 2",
-        "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Mateo",
-          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "Pintando El Amor",
-      "url": "https://open.spotify.com/track/7hipALmB4PgPnjG1wr8ls4"
-    },
-    {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
@@ -641,23 +641,27 @@
       "url": "https://open.spotify.com/track/3VxQC3iXh0rDVy5jhv8j71"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
-        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-        "url": "https://open.spotify.com/album/4Zh7uV38M1p6v2JdS8lUA2"
+        "name": "Atr\u00e9vete A So\u00f1ar 2",
+        "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
       },
       "artists": [
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
         }
       ],
-      "duration_ms": 244800,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/1PyINqIUN9HFVrmhBACtBz"
+      "duration_ms": 199880,
+      "name": "Pintando El Amor",
+      "url": "https://open.spotify.com/track/7hipALmB4PgPnjG1wr8ls4"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Cuatro Estaciones",
         "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
@@ -677,10 +681,10 @@
       "url": "https://open.spotify.com/track/23R6LNvr5YGUw4iJiPhXOb"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
-        "name": "Atrevete A So\u00f1ar",
-        "url": "https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb"
+        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+        "url": "https://open.spotify.com/album/4Zh7uV38M1p6v2JdS8lUA2"
       },
       "artists": [
         {
@@ -688,12 +692,12 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 230440,
-      "name": "Mundo De Caramelo",
-      "url": "https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk"
+      "duration_ms": 244800,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/1PyINqIUN9HFVrmhBACtBz"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
@@ -709,7 +713,23 @@
       "url": "https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
+      "album": {
+        "name": "Atrevete A So\u00f1ar",
+        "url": "https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Mundo De Caramelo",
+      "url": "https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk"
+    },
+    {
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Los D\u00fao 3",
         "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
@@ -729,7 +749,39 @@
       "url": "https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
+      "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 109906,
+      "name": "Mi vida empieza as\u00ed",
+      "url": "https://open.spotify.com/track/41KimlWs5QREjhE8wUVQM6"
+    },
+    {
+      "added_at": "2023-09-25 12:17:03",
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 172226,
+      "name": "TQ Y YA",
+      "url": "https://open.spotify.com/track/5DRHPNxyFaeYKLOD0i0q8z"
+    },
+    {
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
@@ -757,39 +809,7 @@
       "url": "https://open.spotify.com/track/5lhrcKbHyhPjlxEzzL9HPm"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
-      "album": {
-        "name": "Enredados",
-        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 109906,
-      "name": "Mi vida empieza as\u00ed",
-      "url": "https://open.spotify.com/track/41KimlWs5QREjhE8wUVQM6"
-    },
-    {
-      "added_at": "2023-09-21 12:45:03",
-      "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 172226,
-      "name": "TQ Y YA",
-      "url": "https://open.spotify.com/track/5DRHPNxyFaeYKLOD0i0q8z"
-    },
-    {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Si Tu Vuelas (Hadal Ahbek [Alok Remix])",
         "url": "https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb"
@@ -833,23 +853,7 @@
       "url": "https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
-      "album": {
-        "name": "Raya y el \u00daltimo Drag\u00f3n (Banda Sonora Original en Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 224150,
-      "name": "Hasta vencer",
-      "url": "https://open.spotify.com/track/7BdR0he8VuKnBK94I8FlWf"
-    },
-    {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Danna Paola",
         "url": "https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5"
@@ -865,7 +869,23 @@
       "url": "https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA"
     },
     {
-      "added_at": "2023-09-21 12:45:03",
+      "added_at": "2023-09-25 12:17:03",
+      "album": {
+        "name": "Raya y el \u00daltimo Drag\u00f3n (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 224150,
+      "name": "Hasta vencer",
+      "url": "https://open.spotify.com/track/7BdR0he8VuKnBK94I8FlWf"
+    },
+    {
+      "added_at": "2023-09-25 12:17:03",
       "album": {
         "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
         "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"

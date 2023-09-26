@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,146 likes - 450 songs - 16 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,147 likes - 450 songs - 16 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 449 | [returning](https://open.spotify.com/track/5U3118Im2OtgDOZiuLerBP) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [returning](https://open.spotify.com/album/1jWv7zMhHEKdVnfU7en8KK) | 1:52 |
 | 450 | [In My Dreams](https://open.spotify.com/track/2e0rVHWeslstKv2BJI1QOm) | [IMA](https://open.spotify.com/artist/5oWyfOpzOmgNnLHFtXBPBn), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT), [Basmati](https://open.spotify.com/artist/1OK2jT1iiO4d8D5qHnJzLB) | [In My Dreams](https://open.spotify.com/album/2N6YU7ddlN4bCPufIcgV36) | 2:13 |
 
-Snapshot ID: `MCwzMTk4ZGM0NTg5MDhkYmFhMzU5NTM0ZWUzY2UyZGE2ODc5OTBlYjk1`
+Snapshot ID: `MCwyYzE4Yzk5ODJjNDA3NTkxZmE4ODk5MGQ0YjVhZDRkNjFiMjJkNjlh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,280,006 likes - 125 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,280,101 likes - 125 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 124 | [Melina](https://open.spotify.com/track/7A6PWUkZNultYJO6ejZ11k) | [Grupo Perla Colombiana](https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V) | [Con La Sangre Caliente](https://open.spotify.com/album/48H3NQ2HyK70AqjOryHbnX) | 3:09 |
 | 125 | [Arpas Weperas](https://open.spotify.com/track/4sNGkzWTct1A1YuyDFYArl) | [Sonideros de MEX USA](https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm) | [Talentos Ocultos, Vol\. 1](https://open.spotify.com/album/4DPoeHldPyrqyhlVHdC4K4) | 2:57 |
 
-Snapshot ID: `MCxkNzA4NmJiZDg1MDhlMzliOWQ5ZmVhNTc0NWNlOGFiYWY0MTI2ZGNi`
+Snapshot ID: `MCw1NmE2MGEzMDUxZjkzMjZmMGM5ZTE5ZTYyN2EzNjc4MTY3ZDQ0Y2Nm`

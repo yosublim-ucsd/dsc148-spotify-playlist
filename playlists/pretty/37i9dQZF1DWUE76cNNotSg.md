@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,382 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,455 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 99 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 |
 | 100 | [Moody](https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 2:14 |
 
-Snapshot ID: `MCxiMzk3OGQxNzI3ZjI0YzNhODNkOGZkMTg0ODM4M2E4MDBjMWY0Yjk0`
+Snapshot ID: `MCw1YmYzNDM1YmQ2N2U4Nzg3ZjNmNjE3ZmY1YjAxYjNlZWNmOGE4ZThm`

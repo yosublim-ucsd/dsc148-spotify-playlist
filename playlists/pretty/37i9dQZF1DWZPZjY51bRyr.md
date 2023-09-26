@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,574 likes - 148 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,586 likes - 148 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 147 | [Fading Warmth](https://open.spotify.com/track/6PmqjvzId79ndygAHCg43g) | [Ollwen](https://open.spotify.com/artist/4OhbuoBhnyQzBvA3Zvo9s9) | [Fading Warmth](https://open.spotify.com/album/3F4Im6U0AIuglRqesQwuBs) | 2:35 |
 | 148 | [Star Above Parvati](https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg) | [Peyote Level](https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd) | [Star Above Parvati](https://open.spotify.com/album/2O7c5JeLgSUTCj3Z403M4k) | 3:04 |
 
-Snapshot ID: `MCxiOWEyODc2OWU5MzQ3YjE4MjkwMmIwY2IwNWYzODdiZjg4OTY0MTkx`
+Snapshot ID: `MCxhZWRmMjM2YjYyYzQ3NGJlNWZkZmVlZWI2Mzc3MDY1YWI2NmM2ZjQ0`

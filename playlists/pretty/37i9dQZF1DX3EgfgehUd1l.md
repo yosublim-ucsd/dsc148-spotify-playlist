@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,684 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,711 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 79 | [Auf Wiederseh'n Sweetheart \- 2017 Version](https://open.spotify.com/track/3rIhZKroSQQjNcgGQsdaJF) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS) | [Vera Lynn 100](https://open.spotify.com/album/2DWg5EgpevBgYN4lwSyBXU) | 2:40 |
 | 80 | [Come prima](https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:41 |
 
-Snapshot ID: `MCxhNDNkY2E4MGY1Njg0ZjMyYTQyMDExNjE1MDAxNGVmN2FhOGE0ZTRk`
+Snapshot ID: `MCxiMjIzNjE0ZjkyNzI2N2M2MmVlYzQ3NmExMzQ2MzQ3MjhmYTI5Nzk4`

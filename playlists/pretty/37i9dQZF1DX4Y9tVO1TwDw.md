@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Estevie
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,428 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,455 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 49 | [Este Sentimiento](https://open.spotify.com/track/7zKjq7RkhRzqoYJ1VqtMHH) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [alivio](https://open.spotify.com/album/2IDSJ1Xw2yNJPkHdWbUvTI) | 3:16 |
 | 50 | [Bayamón](https://open.spotify.com/track/6HvNYbkkETeZlC5WTrAMvS) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Disculpa Amiga](https://open.spotify.com/album/52D4v7ZG7eta1PSjm3zdSp) | 3:00 |
 
-Snapshot ID: `MCxjOGJjY2I3MWQwNGYzOGJlNTg0OGEwNTY4YjU2NzBmYmY1NzY2ZjRj`
+Snapshot ID: `MCxjNTg5ZTM5NGNlYTkwOGViOGVmNGE4NmEyMzU2ZTRjNDg5YWFlMGY4`

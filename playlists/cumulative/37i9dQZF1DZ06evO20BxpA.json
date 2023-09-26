@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 136506,
       "name": "Did It Feel Wrong",
       "url": "https://open.spotify.com/track/2B4vzBBaPYY1FzqCBUjtE4"
@@ -466,10 +466,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 100066,
       "name": "Imagining the Future - Instrumental",
       "url": "https://open.spotify.com/track/2HgYB7U7BMZwmXkMKAQ4Af"
+    },
+    {
+      "album": {
+        "name": "My Policeman (Amazon Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88920,
+      "name": "Italian Marble",
+      "url": "https://open.spotify.com/track/0dF8fMC85sOBo3uMUe6pWH"
     },
     {
       "album": {
@@ -974,6 +992,24 @@
       "duration_ms": 140386,
       "name": "The Ocean Returns The Favour - From \"Our Planet\"",
       "url": "https://open.spotify.com/track/30m0iV0x6N2XydxSE3kurk"
+    },
+    {
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175880,
+      "name": "The Process of Extinctions",
+      "url": "https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL"
     },
     {
       "album": {

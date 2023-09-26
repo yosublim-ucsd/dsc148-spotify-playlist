@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,968 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,983 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [No Name](https://open.spotify.com/track/2CVpkt0xfradTwL6KxNncR) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO) | 3:06 |
 | 100 | [Dirty Old Town](https://open.spotify.com/track/4ZhxmbjlcoM9VJ5VjfdHyS) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [I've Got a Way](https://open.spotify.com/album/6GbEPmACLeORsCGcgRgSjO) | 2:41 |
 
-Snapshot ID: `MCxiZWM4MmJkMWUxZDg1MWZjOGYwYjRhNjY0NDQyNWE0NTE3ZWY1NTU1`
+Snapshot ID: `MCwwNGVmMjUxNzM1NzU2NmMwZjEzOWY3YjM1NjM3MTIyZWQ4MDU4YmQ0`

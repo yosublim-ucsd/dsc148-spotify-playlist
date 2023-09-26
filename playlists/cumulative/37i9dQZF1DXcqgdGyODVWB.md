@@ -4,7 +4,7 @@
 
 > Cumbia Norteña y Norteño Sax para las vibras de verano.
 
-123 songs - 6 hr 39 min
+124 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [La Del Moño Colorado](https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE) | [Los Pedernales](https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc) | [La Del Moño Colorado](https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR) | 5:00 | 2023-05-19 |  |
 | [La Dueña De Todo Mi Amor](https://open.spotify.com/track/2Q96ya1H8ufq1jxr5y0B3R) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav), [Conjunto Rio Grande](https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG) | [La Dueña De Todo Mi Amor](https://open.spotify.com/album/6PUMSN3CBKPfeH20KmibKo) | 3:03 | 2023-05-19 | 2023-05-24 |
 | [La Flechita](https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives Pa' la Raza](https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU) | 2:14 | 2023-05-19 | 2023-09-18 |
+| [La Flechita \- En Vivo](https://open.spotify.com/track/1MKJ9FCBXbavUvd3hvpdTg) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives Pa' La Raza \(En Vivo\)](https://open.spotify.com/album/5p50bUpy7JxrzPkAs2XS1q) | 2:14 | 2023-09-14 |  |
 | [La Guitarra de Lolo \(Huapango\)](https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:18 | 2023-05-19 |  |
 | [La Ética](https://open.spotify.com/track/5lme9vHMk1a85L6bEUvp6G) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [A La Caza](https://open.spotify.com/album/5B0wpHiMb1YSmiC4TGwbb4) | 2:53 | 2023-05-19 |  |
 | [LE VA DOLER](https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LE VA DOLER](https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7) | 2:33 | 2023-05-26 |  |
@@ -119,7 +120,7 @@
 | [Te Vez Buena](https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh) | 4:12 | 2023-05-19 |  |
 | [Tonto Mi Corazon](https://open.spotify.com/track/7m9XI9m7NVmo6ifF8U3bxS) | [Los Avila](https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo) | [Tonto Mi Corazon](https://open.spotify.com/album/6lSibFBrplfh8WNAJeWHHB) | 4:11 | 2023-05-19 |  |
 | [Total que más da](https://open.spotify.com/track/0XAocBz2uu1P0SKru9TpKz) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Pídeme](https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t) | 3:50 | 2023-05-19 |  |
-| [Tu Forma de Ser](https://open.spotify.com/track/47vkT95Gal2Ch36qP8jd6H) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Así Somos](https://open.spotify.com/album/3ER5KlEQW19hQxUNmRdtFJ) | 3:14 | 2023-05-19 |  |
+| [Tu Forma de Ser](https://open.spotify.com/track/47vkT95Gal2Ch36qP8jd6H) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Así Somos](https://open.spotify.com/album/3ER5KlEQW19hQxUNmRdtFJ) | 3:14 | 2023-05-19 | 2023-09-26 |
 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 | 2023-07-01 |  |
 | [Un Cariño Como Tú](https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2](https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R) | 2:47 | 2023-05-19 |  |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-05-19 |  |

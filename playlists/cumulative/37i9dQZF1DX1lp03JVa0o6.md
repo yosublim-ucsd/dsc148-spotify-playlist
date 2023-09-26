@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: SACHI
 
-352 songs - 18 hr 16 min
+353 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,8 @@
 | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B) | 3:07 | 2023-03-16 | 2023-06-02 |
 | [Shut The Gates](https://open.spotify.com/track/1LurKnaAqT2wEtG1BFBtjI) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Shut The Gates](https://open.spotify.com/album/3o6TyLFdJ2blhP5DkNmMxf) | 3:30 | 2022-12-22 | 2023-03-18 |
 | [Shut Up](https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:12 | 2022-12-08 | 2023-01-20 |
-| [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-24 |  |
+| [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 | 2023-09-22 |  |
+| [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-24 | 2023-09-26 |
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-05-11 | 2023-08-25 |
 | [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 | 2023-07-06 |  |
 | [Sing Your Lullaby](https://open.spotify.com/track/3LGqmgDKefGR9zp3h92VmW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Sing Your Lullaby](https://open.spotify.com/album/61nC52SUGV19X5i0VJoyoa) | 3:42 | 2022-12-22 | 2023-02-17 |

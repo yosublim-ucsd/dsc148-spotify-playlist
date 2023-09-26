@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,615 likes - 479 songs - 1 day 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,678 likes - 479 songs - 1 day 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -488,4 +488,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 | 478 | [Diamonds](https://open.spotify.com/track/7Kt59L2ZZGtOnIhvMwzG6f) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 3:45 |
 | 479 | [In My Feelings](https://open.spotify.com/track/0h1W19pS59KtEd7aDzF58i) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/42wvKYHFezpmDuAP43558f) | 3:37 |
 
-Snapshot ID: `MCw4M2JmZDRjMzI2Yzk5MjZjYzkxMzIzZjZiNzM5OGRkNjU1MDMyNzBk`
+Snapshot ID: `MCw3MmVjNDA0YzVhZTg2NDM0N2M0ZmI3NGI4Y2JlNGMzZWM1ZmI1ZWI2`

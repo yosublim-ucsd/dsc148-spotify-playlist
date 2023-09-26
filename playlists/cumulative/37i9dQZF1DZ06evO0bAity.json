@@ -1037,6 +1037,28 @@
     },
     {
       "album": {
+        "name": "Paranoid (NERVE Remix)",
+        "url": "https://open.spotify.com/album/31WrHIA3RqdOrJMV7whBHA"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Paranoid - NERVE Remix",
+      "url": "https://open.spotify.com/track/2n9EcqhwgDO5cgGIMMCHHb"
+    },
+    {
+      "album": {
         "name": "Bloodstreams",
         "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
       },

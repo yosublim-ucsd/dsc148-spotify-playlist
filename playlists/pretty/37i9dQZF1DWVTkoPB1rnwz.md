@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,688 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,700 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 99 | [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 |
 | 100 | [Unmo](https://open.spotify.com/track/5EnSB1D05EPzOtKq9DIvZ8) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Unmo](https://open.spotify.com/album/0JjXqs8cr8ovqSUQIPOYBo) | 2:13 |
 
-Snapshot ID: `MCw4ZWVhYWJlNTUyMzQzYTZkNDM2OWUyNmE5ZThiZTY3Y2U5ZmM0YWI2`
+Snapshot ID: `MCxmNmFmMzI1YTY5MjJmYTliOWUwMThhYjNkZjk0ZDQ0MmIxOWU2NTY2`

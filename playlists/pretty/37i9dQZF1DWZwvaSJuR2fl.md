@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 
 > Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,309 likes - 75 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,314 likes - 75 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 | 74 | [Symphony No\. 8 in G Major, Op\. 88, B\. 163: II\. Adagio](https://open.spotify.com/track/1ZdoNaPpjjqUFaWl8AxZmN) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Rafael Kubelík](https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C) | [Dvorak: Symphonies Nos.7 & 8](https://open.spotify.com/album/1DE2xA2tdE4mphmUSpy7eJ) | 10:19 |
 | 75 | [Symphony No\. 3 In E Flat, Op\. 10, B\. 34: 2\. Adagio molto, tempo di marcia](https://open.spotify.com/track/0SyObhCmgAlG737JYX9pHP) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Myung\-Whun Chung](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby) | [Dvorák: Symphony No.3 In E Flat, Op.10, B\. 34 & Symphony No.7 In D Minor, Op.70, B\. 141](https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA) | 15:30 |
 
-Snapshot ID: `MCwwZGEzMzI3ZWI0OTk1MmYzOTlmYTI3ZDg4ZTVhMjJjMzY2MWNjYzlh`
+Snapshot ID: `MCw1YzM1MDA5YWEyZTFlNzQyMTcyYjUzOWNkOTEzYWQ4ZmY1YmRkM2Ix`

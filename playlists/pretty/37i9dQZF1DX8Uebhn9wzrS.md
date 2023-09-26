@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240,558 likes - 550 songs - 20 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,731 likes - 550 songs - 20 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -559,4 +559,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 549 | [Create your own](https://open.spotify.com/track/5xqsnPwf5kPC0t6OjMldGK) | [Fog Syndrome](https://open.spotify.com/artist/4NXRqaZArYh3bigTkqLd2G) | [Fog Syndrome](https://open.spotify.com/album/2iHPHfcK0Uixn74qn8SDJa) | 2:04 |
 | 550 | [Morning Journey](https://open.spotify.com/track/1191leNva7cN89gJQahJxz) | [Miley Rari](https://open.spotify.com/artist/39K06JqlaHaQBdTwBPrNS4) | [Morning Journey](https://open.spotify.com/album/56J3tbBhjQnVZQcQrlzUwv) | 1:44 |
 
-Snapshot ID: `MCw2OTg0MDFmMDY5NWFkOGU5ZThlNGU2YzM1NGMwMjY5NGMwOTU1ODY4`
+Snapshot ID: `MCw4NzBiZGQzZjk4ZDNmOGVjMGNkNTI4ODVmN2FkMmU1NjI4ZDc5Y2Nj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,477 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,494 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [The Killing Fields](https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [John Leventhal](https://open.spotify.com/artist/04OYvH5KuCKUJqhw8LKGsH) | [The Killing Fields](https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS) | 4:23 |
 | 150 | [Who Do Call the Shots](https://open.spotify.com/track/3bSeVNB5IgXBo0KyjsQ88O) | [Ray Bonneville](https://open.spotify.com/artist/68WRQYQZC7SO79PC8eXvfd) | [Easy Gone](https://open.spotify.com/album/2RbzfkQVmXTeWF4L3GdqGl) | 3:56 |
 
-Snapshot ID: `MCw5MzI3MDRmOWQ5OTM1ZjU4MGVjMDAyOGE1NjNmNDM1ZGI2ODA5NWJl`
+Snapshot ID: `MCwzZmM1NWRiYmVlYzE0YjRmOGQwZmI4NDVhNTAwYjA2MTAwZGQzZTQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حالة حب 🫶❤️<br/> كوفر: <a href="https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg?si=SaDgQlWvTb2aXAi94J\-UOA"> انغام </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,166 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,197 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 74 | [عينيك حلوين](https://open.spotify.com/track/4iPPxLSqGIsGFVeTMs6SG3) | [Sola Omar](https://open.spotify.com/artist/5f4fUKsYW1NtyCjgwTVI6k) | [عينيك حلوين](https://open.spotify.com/album/4rnF7HdCbGwH8L6FgSUXHY) | 2:29 |
 | 75 | [مابتهزش](https://open.spotify.com/track/3iAngppOsxneInRppV37G5) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [ليا نظرة](https://open.spotify.com/album/7iXNDhh3PBg5AKliz5ZjjB) | 4:43 |
 
-Snapshot ID: `MCxhYmJiZmU5YzEyZDI1MWM0NmRkYThlZDUxZTRhZTcxYTA0MjA5NWM1`
+Snapshot ID: `MCxkNzZiYjUxY2I2OTI2Mjk0ZTg2MjM4NDRkNGVhNzUwNTBiODEyZmYy`

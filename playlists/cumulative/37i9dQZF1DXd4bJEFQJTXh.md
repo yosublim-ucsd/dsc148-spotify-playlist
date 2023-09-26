@@ -4,7 +4,7 @@
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-199 songs - 10 hr 29 min
+200 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All Is Found \- Kacey Musgraves Version](https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:03 | 2022-03-25 |  |
 | [All Is Found \- Kacey Musgraves Version](https://open.spotify.com/track/67OLFfO2kun5EglTyscEOe) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Frozen 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2IYymqH84JShTdQmQLLQib) | 3:03 | 2022-03-25 | 2022-07-29 |
 | [Almost There](https://open.spotify.com/track/2GLyruWagsv8o7aGNXboH1) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [The Princess and the Frog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) | 2:24 | 2022-03-25 |  |
+| [Bark to the Beat \(with blackbear\) \[From PAW Patrol: The Mighty Movie\]](https://open.spotify.com/track/5k0Vd1kLeUFRozn6GiC8m1) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Bark to the Beat \(with blackbear\) \[From PAW Patrol: The Mighty Movie\]](https://open.spotify.com/album/3hu5KuXIyZSuK02jA80jVI) | 2:03 | 2023-09-22 |  |
 | [Better When I'm Dancin'](https://open.spotify.com/track/0BMyRHOFOvHjAEzeNfQIeN) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Peanuts Movie \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0YEI8tlvSXBOI5sy4WL4zF) | 2:56 | 2022-03-25 |  |
 | [Beyond The Sea](https://open.spotify.com/track/2fjRInUmwqLhgvW9hQtbo6) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 4:26 | 2022-03-25 | 2023-05-24 |
 | [Beyond the Sea](https://open.spotify.com/track/0zaAUrSvMYrBGcLcmWKcxy) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Beyond The Sea](https://open.spotify.com/album/6pXwZ3QYQOcP3mNVN1F6CB) | 4:27 | 2023-05-15 |  |

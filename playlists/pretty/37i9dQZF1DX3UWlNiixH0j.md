@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. Cover: CHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,649 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,658 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [あなたを踊らせたい](https://open.spotify.com/track/6disnHJweSQLGaoAPwF36R) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [あなたを踊らせたい](https://open.spotify.com/album/1xWEFy3OY6pJp6shojQAA1) | 4:51 |
 | 100 | [少年セゾン](https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [少年セゾン](https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2) | 3:43 |
 
-Snapshot ID: `MCw3ZDAxYTVlZjY2YWZlODk0YWZlYzg2ZTU3OGNiZWIwYmRhMzE2Zjhi`
+Snapshot ID: `MCw1ZjJlZDY0YjBhOGU2ZTgxYjZhOGUzNmI0YTQzZDUxN2MyYzY1ZDNl`

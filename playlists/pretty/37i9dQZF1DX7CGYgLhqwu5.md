@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,154 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,177 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Timber I'm Falling](https://open.spotify.com/track/6tYRg3XkDpjlST4XBMcnjX) | [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Super Hits](https://open.spotify.com/album/0olpLTTyf5mFEpgNcdJzJ9) | 2:32 |
 | 100 | [The Cold Hard Facts of Life](https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Cold Hard Facts of Life](https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie) | 3:12 |
 
-Snapshot ID: `MCw3NWM2ZmYzY2ExYjQxYzU4OTMyNjVhYWJiYjY5ZTA5NGJmNTcwNzRi`
+Snapshot ID: `MCw2ODNmMzczYzVlNjFiZjNkN2MxMDEzZmEzOWE5OTJkOWJmZWQyZmRj`

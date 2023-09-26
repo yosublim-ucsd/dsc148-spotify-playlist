@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 
 > A calm sea, a quiet beach, a peaceful moment..\. <br/>Relax, sleep, meditate, with soft sounds of the soothing surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,064 likes - 130 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,082 likes - 130 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 129 | [Shoreline Night Waves \(Ocean\)](https://open.spotify.com/track/4RzetNCWC8b7rvnLD1y3kc) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [The Vast Sea](https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y) | 3:56 |
 | 130 | [Frothy Tides \(Ocean\)](https://open.spotify.com/track/1VqsoxKyoanxL2q67ORb46) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [The Vast Sea](https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y) | 2:48 |
 
-Snapshot ID: `MCwwMGQwYjJjNTg4NmYxYzVkZGJjNWExNzEzZjU5MGJiNTBhMzUyMDgz`
+Snapshot ID: `MCxlZWEzYjA5OGJjM2FkOWQwMWUzYzY2MjEwZWY2NTliMWYzY2VlZjYx`

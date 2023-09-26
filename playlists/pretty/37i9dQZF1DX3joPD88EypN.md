@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,081 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,089 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [Beatrice \- Live](https://open.spotify.com/track/3JQvfK06PNsSrDimmXlbT0) | [Parish](https://open.spotify.com/artist/7GZtWzhM2azYa28RJ9L53g), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Fredrik Ljungkvist](https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w) | [Rica](https://open.spotify.com/album/2P3qOHDL5doBKhulk0xoJX) | 13:41 |
 | 100 | [Flying Thing \- Remastered](https://open.spotify.com/track/5at19MkpceLzENXMFXX0tO) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Magnetic North Orchestra](https://open.spotify.com/artist/0Rw2W55x8mWQ7o3I1yAXZh) | [Magnetic Works 1993\-2001](https://open.spotify.com/album/192zBMK5LcmfClcUSaL23L) | 4:56 |
 
-Snapshot ID: `MCw0YTAyMmJlZjQyMzFjYjgzNjgzNWYxMDJjZjg5Nzk1NGNkNTM4ZjA4`
+Snapshot ID: `MCw1YWNiMThkMDI3MTdiZWYyNjExOGUxOWE1NDBkZTU4OWFhOThkYjRi`

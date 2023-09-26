@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,448 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,473 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Now Forever](https://open.spotify.com/track/0NJ9clbLSFyfxE2xZJxqA9) | [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Now Forever](https://open.spotify.com/album/2tbUZmGNUUBvDcOW6nNbCS) | 3:17 |
 | 50 | [Timeless](https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Timeless](https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47) | 3:14 |
 
-Snapshot ID: `MCwzNzg3MGRlMDY5NTJlODg2N2RiOThhZGJmZGQ3OGIyZWFiOTRmNThk`
+Snapshot ID: `MCwxOGI2NTYyZDY3ZGFkMWM5ZDJkYjY1NGVjZTlkZTgyYTBhNjk5NTJi`

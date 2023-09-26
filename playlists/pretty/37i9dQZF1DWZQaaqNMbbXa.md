@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 
 > Hit the dance floor with your favorite bops!
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,130 likes - 150 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,174 likes - 150 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 | 149 | [It Ain’t Me \(with Selena Gomez\)](https://open.spotify.com/track/12GEpg2XOPyqk03JZEZnJs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [It Ain't Me](https://open.spotify.com/album/4VNy5ifZtW3E9SgffbGEti) | 3:40 |
 | 150 | [Hot Stuff](https://open.spotify.com/track/00ETaeHUQ6lops3oWU1Wrt) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Hot Stuff](https://open.spotify.com/album/6t95dMgjNYMtwXTKlISI42) | 3:19 |
 
-Snapshot ID: `MCw2MGMzNzMzMzFiMDMwMTczOGNkOWQzZmU0YzM3NWI4N2I3ZDQ1ZTUx`
+Snapshot ID: `MCxjZjYzMjMzODNkNThkNGZjM2Q3Mzc0YmQxM2M2MTU0MTk2MmJhYzBl`

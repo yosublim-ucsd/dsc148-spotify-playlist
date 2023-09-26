@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,527 likes - 125 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,538 likes - 125 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 124 | [I Don't Know Why](https://open.spotify.com/track/4s4tbZEEwajYebvutrSmcm) | [Andrea Pozza Trio](https://open.spotify.com/artist/5RMeOpbbCUeFI72QOUO4Bh), [Mila Ogliastro](https://open.spotify.com/artist/6Rsg9ZGqFqpNm7JtDgv4N4) | [Blue Toy](https://open.spotify.com/album/3QryGVhGpGyQX6FBKdjOUe) | 3:31 |
 | 125 | [December](https://open.spotify.com/track/5nn9JFlelUmEz1oyuoMZaf) | [Ferruccio Spinetti](https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Giovanni Ceccarelli](https://open.spotify.com/artist/2z9cZflQ6YSCzLx9E39HgG), [Elena Romano](https://open.spotify.com/artist/1dvr2msLhESCag8R6xHnDE) | [Arie](https://open.spotify.com/album/41OhmZ2TLcw4W8yKQatoYT) | 4:25 |
 
-Snapshot ID: `MCwzYWM1ZmVhNjkwMWU3MDA4NWI1ZTJiZGU0MmU2Y2VmZDRhZGY1NTI3`
+Snapshot ID: `MCxhNDczMDFjOTFkZGE4NGM1YTk1YjlhNzEyMjUyMzU4ZmRhZDE5ZDM5`

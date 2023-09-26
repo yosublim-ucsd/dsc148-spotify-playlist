@@ -4,7 +4,7 @@
 
 > Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: Tyla Yaweh
 
-277 songs - 13 hr 3 min
+279 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 | 2022-06-03 | 2023-02-18 |
 | [CMFTZN](https://open.spotify.com/track/3LywxgRZlOOLF6mTAjSQyG) | [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX) | [CMFTZN](https://open.spotify.com/album/0M7vliDuAoYz7yQkb0zIiE) | 2:42 | 2023-07-21 |  |
 | [Cold Gangsta](https://open.spotify.com/track/61cWj1PJlqhRBlVMj5mcdp) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [CM10: Free Game \(Side B\)](https://open.spotify.com/album/4x3Rld7KvaO5HH8dJN8eDU) | 3:31 | 2022-06-03 | 2023-02-18 |
+| [come on over and talk](https://open.spotify.com/track/0bkwOLv1lnCUwramTzZzPA) | [Stone Cold Jzzle](https://open.spotify.com/artist/7neg7L2aQRvIrkuVpiclvm) | [Joe Black](https://open.spotify.com/album/6AQzaInZnzV4uqwazzOSHa) | 1:47 | 2023-09-22 |  |
 | [Computer Murderers](https://open.spotify.com/track/4N9YvASsNimNYJmSAVHA9f) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220 \(Reloaded\)](https://open.spotify.com/album/42q2L3R0LUPv3tM1Mabvyl) | 2:19 | 2022-06-03 | 2023-07-15 |
 | [COOK UP](https://open.spotify.com/track/2yUAogxEgxEHBGG3zw57x9) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [COOK UP](https://open.spotify.com/album/1DiX91mf1oiNuLmtJWYYqi) | 2:09 | 2022-12-09 |  |
 | [COUNTING SHEEP \(feat\. 21 Savage\)](https://open.spotify.com/track/3VRtJ5A7Xaj4geWSMqXBar) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [THIS IS NOT A DRILL](https://open.spotify.com/album/6YTuAhKPVN4nsdzobywyEg) | 3:17 | 2022-10-21 |  |
@@ -127,7 +128,7 @@
 | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/track/02D7cBNL1rpCkvTja8S1ns) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/album/0ev0saRGsMUB9MxtWZnliz) | 2:35 | 2022-07-22 | 2023-03-04 |
 | [Hot Boy \(feat\. Lil Baby\)](https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hot Boy \(feat\. Lil Baby\)](https://open.spotify.com/album/54h4yyqWQl5z0jKkiS07is) | 2:49 | 2023-05-12 |  |
 | [Hot Sauce](https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hot Sauce](https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc) | 2:57 | 2023-04-14 |  |
-| [I <3 My Nigga](https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [I <3 My Nigga](https://open.spotify.com/album/5hRRLQ9KdFuPxfgq41jXel) | 2:32 | 2023-08-18 |  |
+| [I <3 My N\*\*\*a](https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [I <3 My N\*\*\*a](https://open.spotify.com/album/5hRRLQ9KdFuPxfgq41jXel) | 2:32 | 2023-08-18 |  |
 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 | 2023-01-20 | 2023-04-15 |
 | [I Need a MIC](https://open.spotify.com/track/7mz7Xjxja8LnBqsJbxek6f) | [Everthe8](https://open.spotify.com/artist/7fZxnpq2mj2K0LBY3j1fBb), [Bmb Spacekid](https://open.spotify.com/artist/6ZlLGjV1Ml9JfAtesdWKxu) | [I Need A MIC](https://open.spotify.com/album/5ASQGw88Cw9TQttxHUMcn4) | 1:33 | 2022-06-03 | 2022-09-17 |
 | [I Serve the Base](https://open.spotify.com/track/1Rq4GtIucW9CAcF8B6PAbW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 3:10 | 2023-04-07 |  |
@@ -239,6 +240,7 @@
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2023-02-03 |  |
 | [Six Flags](https://open.spotify.com/track/36FDMTfRqSROsSC6pOTqGw) | [Comethazine](https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf) | [Six Flags](https://open.spotify.com/album/6cxmOfnEOFk5v8nWLlazPk) | 2:03 | 2022-06-03 | 2022-07-30 |
 | [Sko](https://open.spotify.com/track/7Atyu3gAjkdmxYt0kZawgX) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Sko](https://open.spotify.com/album/0FigtA2FRPWenIdAu5ElwS) | 2:30 | 2022-12-16 | 2023-04-15 |
+| [Smack Sh\*t](https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Smack Sh\*t](https://open.spotify.com/album/3Wa0UdCqXUAWNNuEr9ulHk) | 2:59 | 2023-09-22 |  |
 | [So DISRESPECTFUL](https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [So DISRESPECTFUL](https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP) | 2:01 | 2023-03-10 |  |
 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 | 2022-06-03 | 2022-08-13 |
 | [SPIN SPIN!!!](https://open.spotify.com/track/265CquztdaIpzTYobiDCUJ) | [Murda B](https://open.spotify.com/artist/4HuE6dCutt16fdrJiA2uqr) | [SPIN SPIN!!!](https://open.spotify.com/album/2dXhENzEK6jGZJgjHJ4nKl) | 1:58 | 2023-02-24 | 2023-04-15 |

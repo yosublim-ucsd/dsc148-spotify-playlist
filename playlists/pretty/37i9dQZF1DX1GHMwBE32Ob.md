@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>RIP Mohbad
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,537 likes - 59 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,574 likes - 59 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 58 | [Aje](https://open.spotify.com/track/1eYdeqrDKSFhmvQgW1OAXO) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Ghetto Gospel](https://open.spotify.com/album/1Kh2Qf7lQI5KJT7eCWOUEr) | 2:19 |
 | 59 | [PXTA](https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [PXTA](https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk) | 3:28 |
 
-Snapshot ID: `MCxjZWYxMTFiODZiNzcxNjNiNGUyN2E4N2I1NmJjNTY4ZmE1ZTc2NTE2`
+Snapshot ID: `MCwyOTM3YWU1NTAyOTcwZWRiNjk1YThjYTZlMDY5ZDI2MDk2N2VkN2I0`

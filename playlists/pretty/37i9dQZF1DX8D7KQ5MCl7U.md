@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,902 likes - 150 songs - 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,912 likes - 150 songs - 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 149 | [Panchi](https://open.spotify.com/track/1ZTHUULFDfSHuyBIk1uB6i) | [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 4:30 |
 | 150 | [Rung 2](https://open.spotify.com/track/6nw7TxJxt4mngfZX8cuSxt) | [Fareed Ayaz](https://open.spotify.com/artist/3CCUSweQDSNLPXi7ayw3VO), [Abu Muhammad](https://open.spotify.com/artist/0aJXsjLXlFqvT1vvB6xDYf), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 13:45 |
 
-Snapshot ID: `MCxmMTVkYzdkYWY2NWUwOTk0OWFlMGQ3ZGVmMzRjZDRkMTIwNTAyMzI4`
+Snapshot ID: `MCwwNmQxNzUwYTdhNzBhOTVjZTcyYzRhM2U3MWZlYmU5MWE2N2ZhYWZk`

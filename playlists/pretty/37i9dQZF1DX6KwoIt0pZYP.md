@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,571 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,639 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 99 | [Wedding Dress](https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 4:02 |
 | 100 | [Fantasy](https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Summer Is Like a Dream](https://open.spotify.com/album/7idmlJAWeoa2hk8pU0CIxg) | 2:50 |
 
-Snapshot ID: `MCxhM2VhOTk0Zjk5NzMxODk4N2M4MTE5MTBjNWQ2NjRmMjU5NGIzNWY2`
+Snapshot ID: `MCw4NGVhYzdiOTBiZjNkNzIwNzEyMzZiYTQ1Njc1MTE4YmRjNWJjYWQ1`

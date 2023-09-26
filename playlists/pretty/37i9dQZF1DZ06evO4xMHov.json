@@ -1,15 +1,35 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 58891,
+  "num_followers": 59294,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMjQ3NjQsMDAwMDAwMDA2M2ExZGJkZjRiYjMzOGNhOTA0YmIwYWVmODMyNzE5YQ==",
+  "snapshot_id": "MjgyNjA3MzcsMDAwMDAwMDA5MTU4MjkyZTY4MmNkOTU1YzUzMGNhYWU1MDk5NDJiMA==",
   "tracks": [
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Nathanael Brito",
+          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
+        }
+      ],
+      "duration_ms": 602491,
+      "name": "Que Ele Cres\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Caminho no Deserto",
         "url": "https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us (Ao Vivo)",
         "url": "https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt"
@@ -45,7 +65,7 @@
       "url": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "A B\u00ean\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6Q9PrTuJMZuKgjtQMm8RR4"
@@ -65,7 +85,7 @@
       "url": "https://open.spotify.com/track/1evlfCwP69atq9ahcTggiu"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Eu Vou Construir",
         "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Teu Toque (Ao Vivo)",
         "url": "https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD"
@@ -101,7 +121,7 @@
       "url": "https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Gl\u00f3ria E Honra (Ao Vivo)",
         "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
@@ -117,7 +137,7 @@
       "url": "https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Maravilhado (Ao Vivo)",
         "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
@@ -133,7 +153,7 @@
       "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Vem (Ao Vivo)",
         "url": "https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Jireh",
         "url": "https://open.spotify.com/album/4FiL7tytS8757LLp4SRIqq"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/0kZhQrrPGE2UnjXebXZVFL"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Reino de Justi\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/6uIv3xIpgKduBWy350T5ty"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Vem, Esta \u00c9 a Hora (Ao Vivo)",
         "url": "https://open.spotify.com/album/2OCGd9zHZTScNoi7lDQWfT"
@@ -229,43 +249,7 @@
       "url": "https://open.spotify.com/track/695722v5GPk2Uml2Tgv5ly"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
-      "album": {
-        "name": "Nosso General (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3DkQt1f7twyMO3DW1dHYH8"
-      },
-      "artists": [
-        {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Nosso General - Ao Vivo",
-      "url": "https://open.spotify.com/track/7zgTca2zHEWFWnkXf4USLv"
-    },
-    {
-      "added_at": "2023-08-31 12:44:00",
-      "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 307533,
-      "name": "N\u00e3o Seremos Abalados - Ao Vivo",
-      "url": "https://open.spotify.com/track/2RrmHqUvREa3cBt5W854kw"
-    },
-    {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
         "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
@@ -285,7 +269,43 @@
       "url": "https://open.spotify.com/track/1dIah1UaJi3n5pwOaOd5QV"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 307533,
+      "name": "N\u00e3o Seremos Abalados - Ao Vivo",
+      "url": "https://open.spotify.com/track/2RrmHqUvREa3cBt5W854kw"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "Nosso General (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3DkQt1f7twyMO3DW1dHYH8"
+      },
+      "artists": [
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Nosso General - Ao Vivo",
+      "url": "https://open.spotify.com/track/7zgTca2zHEWFWnkXf4USLv"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Gl\u00f3ria E Honra (Ao Vivo)",
         "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
@@ -301,43 +321,7 @@
       "url": "https://open.spotify.com/track/06ZKQ9zWVEOR9C532mkj7K"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
-      "album": {
-        "name": "Rei do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 360085,
-      "name": "Rei do Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN"
-    },
-    {
-      "added_at": "2023-08-31 12:44:00",
-      "album": {
-        "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 427917,
-      "name": "S\u00f3 Existe Um Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq"
-    },
-    {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Preto No Branco 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41"
@@ -357,7 +341,43 @@
       "url": "https://open.spotify.com/track/1DZWhBkO9rIEX5IpyRDLgB"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "Rei do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 360085,
+      "name": "Rei do Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 427917,
+      "name": "S\u00f3 Existe Um Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Reina Sobre Mim",
         "url": "https://open.spotify.com/album/23nFUCxOBdQu13XZrYDcsL"
@@ -373,27 +393,67 @@
       "url": "https://open.spotify.com/track/4pMuGWAkpd9v2aCqdwS3qv"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
-        "name": "Pardal (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1g1EUJuOcJ0poZGVMQ8Z2G"
+        "name": "Medley Cora\u00e7\u00e3o Igual ao Teu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK"
       },
       "artists": [
         {
-          "name": "Drops INA",
-          "url": "https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh"
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        },
+        {
+          "name": "Mariana Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm"
+        },
+        {
+          "name": "Helena Tannure",
+          "url": "https://open.spotify.com/artist/7yilUzReOHGdRaqypuG7f5"
+        },
+        {
+          "name": "Jo\u00e3o L\u00facio Tannure",
+          "url": "https://open.spotify.com/artist/30TJO7wBIMmfnGdC0bIfSe"
+        }
+      ],
+      "duration_ms": 437090,
+      "name": "Medley Cora\u00e7\u00e3o Igual ao Teu - Ao Vivo",
+      "url": "https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "\u00c1guas Vivas",
+        "url": "https://open.spotify.com/album/1Sez3oXBENOdi0Ainef5AJ"
+      },
+      "artists": [
+        {
+          "name": "Higor Rosa",
+          "url": "https://open.spotify.com/artist/2fqNvfLoAikmiTGR5WgOeA"
         },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 415099,
-      "name": "Pardal - Ao Vivo",
-      "url": "https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC"
+      "duration_ms": 457058,
+      "name": "\u00c1guas Vivas",
+      "url": "https://open.spotify.com/track/1IDHsyS7G9AA3pQzV1Nzqo"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
         "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
@@ -473,59 +533,27 @@
       "url": "https://open.spotify.com/track/5l0ZKLOBQDoag51oWfjWI2"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
-        "name": "\u00c1guas Vivas",
-        "url": "https://open.spotify.com/album/1Sez3oXBENOdi0Ainef5AJ"
+        "name": "Pardal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1g1EUJuOcJ0poZGVMQ8Z2G"
       },
       "artists": [
         {
-          "name": "Higor Rosa",
-          "url": "https://open.spotify.com/artist/2fqNvfLoAikmiTGR5WgOeA"
+          "name": "Drops INA",
+          "url": "https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh"
         },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 457058,
-      "name": "\u00c1guas Vivas",
-      "url": "https://open.spotify.com/track/1IDHsyS7G9AA3pQzV1Nzqo"
+      "duration_ms": 415099,
+      "name": "Pardal - Ao Vivo",
+      "url": "https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
-      "album": {
-        "name": "N\u00e3o Mais Escravos",
-        "url": "https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "N\u00e3o Mais Escravos",
-      "url": "https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI"
-    },
-    {
-      "added_at": "2023-08-31 12:44:00",
-      "album": {
-        "name": "Ousado Amor",
-        "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 826880,
-      "name": "Ousado Amor",
-      "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
-    },
-    {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Som da Liberdade 2.0",
         "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
@@ -545,7 +573,39 @@
       "url": "https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "Ousado Amor",
+        "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 826880,
+      "name": "Ousado Amor",
+      "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "N\u00e3o Mais Escravos",
+        "url": "https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "N\u00e3o Mais Escravos",
+      "url": "https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "M\u00fasica e Palavra (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4"
@@ -565,10 +625,10 @@
       "url": "https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
-        "name": "Sangue de Jesus",
-        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
       },
       "artists": [
         {
@@ -576,28 +636,12 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 275260,
-      "name": "Sangue de Jesus",
-      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
+      "duration_ms": 790360,
+      "name": "Em Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/2xpotltTAOvJbWJgJKCUoI"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
-      "album": {
-        "name": "Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 437418,
-      "name": "Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7"
-    },
-    {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Gl\u00f3ria E Aleluia",
         "url": "https://open.spotify.com/album/0GkqpHA93sH8c6uposgX0K"
@@ -621,10 +665,10 @@
       "url": "https://open.spotify.com/track/16srjrwXoQuKE1SQ95zSoN"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+        "name": "Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5"
       },
       "artists": [
         {
@@ -632,12 +676,12 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 790360,
-      "name": "Em Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/2xpotltTAOvJbWJgJKCUoI"
+      "duration_ms": 437418,
+      "name": "Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Grande \u00e9 o Senhor (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oqDl5IyyhOejgBcl2pDv9"
@@ -653,7 +697,23 @@
       "url": "https://open.spotify.com/track/2mYzwAhfjxNkUu6pJvZyCJ"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "Sangue de Jesus",
+        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 275260,
+      "name": "Sangue de Jesus",
+      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Acende o Fogo / Eu Me Prostro (Ao Vivo)",
         "url": "https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw"
@@ -669,7 +729,7 @@
       "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
         "url": "https://open.spotify.com/album/3ltmkD8eGzyKfH0zuwlucN"
@@ -685,7 +745,7 @@
       "url": "https://open.spotify.com/track/1ElihpcKELnES7MoJWA1LF"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "N\u00edvea Soares 10 Anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/1pzFv6y05pHyhZQMfuQJTA"
@@ -701,7 +761,27 @@
       "url": "https://open.spotify.com/track/7HemTaab1JIVwxizP0tZSo"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 279826,
+      "name": "Dependo de Ti (feat. N\u00edvea Soares)",
+      "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Deus do Imposs\u00edvel, YAHWEH (Ao Vivo)",
         "url": "https://open.spotify.com/album/1gWiTsl8U6Mgxm6MxVRhGh"
@@ -725,43 +805,7 @@
       "url": "https://open.spotify.com/track/22xPTz1KSuxHCwIcKVmAtl"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
-      "album": {
-        "name": "Entre",
-        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 279826,
-      "name": "Dependo de Ti (feat. N\u00edvea Soares)",
-      "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
-    },
-    {
-      "added_at": "2023-08-31 12:44:00",
-      "album": {
-        "name": "Vem Outra Vez",
-        "url": "https://open.spotify.com/album/4eqhn6IGvu2iQ1CrQIHhcU"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 447488,
-      "name": "Vem Outra Vez",
-      "url": "https://open.spotify.com/track/077OxZSUz2tYD4YTWQbdoh"
-    },
-    {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Reino de Justi\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
@@ -777,10 +821,10 @@
       "url": "https://open.spotify.com/track/0aNKEcvYScNukxQzjohWLE"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/2kNPup6bYnOFd74IvvrG8F"
+        "name": "Vem Outra Vez",
+        "url": "https://open.spotify.com/album/4eqhn6IGvu2iQ1CrQIHhcU"
       },
       "artists": [
         {
@@ -788,60 +832,12 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 361226,
-      "name": "Nenhum Deus Como Tu",
-      "url": "https://open.spotify.com/track/4mEZLwnqOe3FsSZDW2GPoR"
+      "duration_ms": 447488,
+      "name": "Vem Outra Vez",
+      "url": "https://open.spotify.com/track/077OxZSUz2tYD4YTWQbdoh"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
-      "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 291266,
-      "name": "Meu Maior Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS"
-    },
-    {
-      "added_at": "2023-08-31 12:44:00",
-      "album": {
-        "name": "Tu \u00c9s Bom (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0GEr1zutolmAeZcuymZYat"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 539614,
-      "name": "Tu \u00c9s Bom - Ao Vivo",
-      "url": "https://open.spotify.com/track/7cprJMCbK8cPjL9HXf0VI3"
-    },
-    {
-      "added_at": "2023-08-31 12:44:00",
-      "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 265586,
-      "name": "Os Que Esperam - Ao Vivo",
-      "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
-    },
-    {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Fogo e Gl\u00f3ria (Ao Vivo em Curitiba)",
         "url": "https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq"
@@ -861,7 +857,71 @@
       "url": "https://open.spotify.com/track/4rhzNUHKdJrPztV2edciTB"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/2kNPup6bYnOFd74IvvrG8F"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 361226,
+      "name": "Nenhum Deus Como Tu",
+      "url": "https://open.spotify.com/track/4mEZLwnqOe3FsSZDW2GPoR"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 265586,
+      "name": "Os Que Esperam - Ao Vivo",
+      "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 291266,
+      "name": "Meu Maior Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
+      "album": {
+        "name": "Tu \u00c9s Bom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GEr1zutolmAeZcuymZYat"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 539614,
+      "name": "Tu \u00c9s Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/7cprJMCbK8cPjL9HXf0VI3"
+    },
+    {
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Eu e a Minha Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/7IhafZgxgH4tmM2lDqmOjy"
@@ -893,7 +953,7 @@
       "url": "https://open.spotify.com/track/5kh9VHaBkb1IXmA3OqNvbP"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Um Lugar para 2",
         "url": "https://open.spotify.com/album/3DeMyJMsgElqGKsCFSPE90"
@@ -913,23 +973,7 @@
       "url": "https://open.spotify.com/track/3DFCYOjz2ahzyPxkdzZX2w"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
-      "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 385280,
-      "name": "Gl\u00f3ria & Honra",
-      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
-    },
-    {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
         "name": "Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/24CaJ8EwyWW9kEtmBfKDlg"
@@ -945,34 +989,26 @@
       "url": "https://open.spotify.com/track/60uNbORdBL8fkHgTKqhUik"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
-        "name": "Can\u00e7\u00e3o da Eternidade",
-        "url": "https://open.spotify.com/album/0ZrAyZUi61AwVWw7Cq2LtO"
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
       },
       "artists": [
-        {
-          "name": "Antonio Cirilo",
-          "url": "https://open.spotify.com/artist/4wBBDf0QcQX0l1UVbBbrLz"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 492533,
-      "name": "Aquece o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2aGB2W0U9ObOOHI8CrIJrK"
+      "duration_ms": 385280,
+      "name": "Gl\u00f3ria & Honra",
+      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
     },
     {
-      "added_at": "2023-08-31 12:44:00",
+      "added_at": "2023-09-25 12:17:13",
       "album": {
-        "name": "A Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/04dC8dz9ef7jGDCmo9pLby"
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },
       "artists": [
         {
@@ -980,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 449646,
-      "name": "A Honra - Ao Vivo",
-      "url": "https://open.spotify.com/track/1enGreYd6GsdExr1srM2Yw"
+      "duration_ms": 307000,
+      "name": "Sua Justi\u00e7a Prevalecer\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/4V7D0jAi0jQ63KevpcXurL"
     }
   ],
   "unique_name": "This Is N\u00edvea Soares",

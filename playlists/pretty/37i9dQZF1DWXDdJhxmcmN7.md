@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,447 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,455 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 99 | [Viscaria Corto](https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Viscaria Corto](https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI) | 2:24 |
 | 100 | [Lo\-Fi México Distopico](https://open.spotify.com/track/5a98rYWPsPNB9GrN5B46og) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Mexico Cyberpunk](https://open.spotify.com/album/36jNCbgo5xLxGVw1Swc5H7) | 2:04 |
 
-Snapshot ID: `MCw3YzA5ZWUyYzg5N2M0NDQ1NmZhOTg1MzhjYTNlZDM0OWM5ZjQ2NDg5`
+Snapshot ID: `MCxiNTFiNmVmNDdjN2U3ZDZhZjlhNWQ4M2Y5OTNlNDIwMDkwYjY2OGRl`

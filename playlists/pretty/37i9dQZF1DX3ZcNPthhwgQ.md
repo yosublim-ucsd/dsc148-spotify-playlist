@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZcNPthhwgQ.md) - [plain]
 
 > Las rolas para escuchar mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,290 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,302 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZcNPthhwgQ.md) - [plain]
 | 149 | [No Elegi Conocerte](https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 4:14 |
 | 150 | [El Final de Nuestra Historia](https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE) | 3:28 |
 
-Snapshot ID: `MCxlM2U0YWRhNTI3ZmZlZjU2ZGZhZjE0ZmUyZjczY2UyZjlkYzE1ZDBk`
+Snapshot ID: `MCxlNDgzNzE4ODVhY2QwZDY3OWFiY2VkODMzYTU3ODI2ZjI4MzllYjdl`

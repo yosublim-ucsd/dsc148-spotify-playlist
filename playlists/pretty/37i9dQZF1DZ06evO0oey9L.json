@@ -1,15 +1,15 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 85171,
+  "num_followers": 85262,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNTUwMDUsMDAwMDAwMDA1ZjkyNmNjMjZlNjMxOWZmMTM1MTUyZWNiZWQxNjhhNw==",
+  "snapshot_id": "MjgyNjA3MzcsMDAwMDAwMDBlNGVjZTNmZDI3MGU1MjdiYmUzZDA0YzBjYTJiOTAwMA==",
   "tracks": [
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Soy El Cholo Soy El 7",
         "url": "https://open.spotify.com/album/5XUY9Ibmxbyk1dU3222hPR"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/73zTFBi0S4u3sAa4vT2Cnn"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda Vol.1",
         "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/21jEIOf3pXF1EOb9n0vZJf"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "La Internacional",
         "url": "https://open.spotify.com/album/5lOudBxycPSzUC6GKDQ2Cs"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6T0FTw6tAOUbeMIvGV7WrX"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/7iRrVxEVK37m34vGEE8LfJ"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda Vol.1",
         "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/5QAY068s3fGLRQm8Re0nKy"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Gabbana Es El Porte",
         "url": "https://open.spotify.com/album/3BJkR82p0ArgHkjaZLyAld"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/4KSo7rlreDnU5TuilX7vLi"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
@@ -145,7 +145,59 @@
       "url": "https://open.spotify.com/track/7BynlyGJKOxSq7t99jatxz"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 170456,
+      "name": "Yo Quiero Fumar",
+      "url": "https://open.spotify.com/track/54R1JRL65L0LarHmgdMqay"
+    },
+    {
+      "added_at": "2023-09-25 12:17:20",
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 193744,
+      "name": "Tinta y Plomo",
+      "url": "https://open.spotify.com/track/1CJoATnCszv00FT1CEnLPx"
+    },
+    {
+      "added_at": "2023-09-25 12:17:20",
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 170672,
+      "name": "En La Bola (feat. El De La Guitarra)",
+      "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
+    },
+    {
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Paris & Grecia",
         "url": "https://open.spotify.com/album/3kufVIruxrPYRml0XECQka"
@@ -173,75 +225,7 @@
       "url": "https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
-      "album": {
-        "name": "Lo Prometido Es Deuda Vol.2",
-        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 170456,
-      "name": "Yo Quiero Fumar",
-      "url": "https://open.spotify.com/track/54R1JRL65L0LarHmgdMqay"
-    },
-    {
-      "added_at": "2023-09-21 12:45:21",
-      "album": {
-        "name": "Lo Prometido Es Deuda Vol.1",
-        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 193744,
-      "name": "Tinta y Plomo",
-      "url": "https://open.spotify.com/track/1CJoATnCszv00FT1CEnLPx"
-    },
-    {
-      "added_at": "2023-09-21 12:45:21",
-      "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 170672,
-      "name": "En La Bola (feat. El De La Guitarra)",
-      "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
-    },
-    {
-      "added_at": "2023-09-21 12:45:21",
-      "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 157499,
-      "name": "No Andamos Solos",
-      "url": "https://open.spotify.com/track/0RFLlf7uUUUCgDUT6sJsBQ"
-    },
-    {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
@@ -257,7 +241,23 @@
       "url": "https://open.spotify.com/track/2evqVdCxI2wKa5G0fjnEgB"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 157499,
+      "name": "No Andamos Solos",
+      "url": "https://open.spotify.com/track/0RFLlf7uUUUCgDUT6sJsBQ"
+    },
+    {
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/4u0L6n0eSV5gTBvAYglqTB"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "No Quiero Agarrar El Rollo",
         "url": "https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi"
@@ -289,23 +289,7 @@
       "url": "https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
-      "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "Ya La Conecte",
-      "url": "https://open.spotify.com/track/24WJmf2sL7u9iyeuGHV6Vy"
-    },
-    {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
@@ -321,7 +305,23 @@
       "url": "https://open.spotify.com/track/6x8tNMBrOiFAvA2WoqYKgU"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "Ya La Conecte",
+      "url": "https://open.spotify.com/track/24WJmf2sL7u9iyeuGHV6Vy"
+    },
+    {
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "El Mes De Mayo (En Vivo)",
         "url": "https://open.spotify.com/album/0N8zBzirioemkl2Zrf3F4O"
@@ -341,7 +341,23 @@
       "url": "https://open.spotify.com/track/2sVae2Wnry7TQIz83qg0YG"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 174556,
+      "name": "Para Ser Respetado",
+      "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
+    },
+    {
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "No Somos Magos (En Vivo)",
         "url": "https://open.spotify.com/album/7DBlyphKV6gb24sWIvtxbM"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/40zjogs2ktlvHxAUFbxboV"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Estilo Militar",
         "url": "https://open.spotify.com/album/5e51uEalSKB8Rb6PChOkCQ"
@@ -381,23 +397,7 @@
       "url": "https://open.spotify.com/track/5YzIk26HIxTcchwGwWQ5p9"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
-      "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 174556,
-      "name": "Para Ser Respetado",
-      "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
-    },
-    {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "De Aqu\u00ed Para All\u00e1",
         "url": "https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "El Mismo Morro",
         "url": "https://open.spotify.com/album/159mfKivxJG6O33wzaMVCI"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/2LJC71XUvul0dUcGy41neC"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/76ZaecbpNsMJdhoB0LkhJG"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
         "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Loco Malandro",
         "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
         "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda Vol.1",
         "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/1SCdueIbk9GhV2PVMVKY32"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
@@ -585,10 +585,10 @@
       "url": "https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
-        "name": "Instinto",
-        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+        "name": "Que Linda Se Le Ve",
+        "url": "https://open.spotify.com/album/7Jjms4SHlgcXgiK9aZKO2O"
       },
       "artists": [
         {
@@ -596,12 +596,12 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 147999,
-      "name": "Fino El Porteson",
-      "url": "https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf"
+      "duration_ms": 192395,
+      "name": "Que Linda Se Le Ve",
+      "url": "https://open.spotify.com/track/2OqxU44QdNmVanpNxqHBbe"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/7qjrn67d14U8XDsnwOL0Nr"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda Vol.1",
         "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
@@ -633,7 +633,23 @@
       "url": "https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 147999,
+      "name": "Fino El Porteson",
+      "url": "https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf"
+    },
+    {
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
@@ -649,23 +665,7 @@
       "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
-      "album": {
-        "name": "Instinto",
-        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 163374,
-      "name": "Peter King Kong",
-      "url": "https://open.spotify.com/track/3gv9PZLhs2c87MEcy6zOfu"
-    },
-    {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda Vol.1",
         "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
@@ -697,23 +697,7 @@
       "url": "https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
-      "album": {
-        "name": "Me Pueden Juzgar",
-        "url": "https://open.spotify.com/album/3QDHcul1zZ2aZZQo860HMI"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 217678,
-      "name": "Me Pueden Juzgar",
-      "url": "https://open.spotify.com/track/1jtw4JaOsoFCWflmycd1fD"
-    },
-    {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Instinto",
         "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
@@ -724,12 +708,12 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 174749,
-      "name": "Al Ni\u00f1o Le Gusta Lo Bueno",
-      "url": "https://open.spotify.com/track/1c6ilYnCPdP1BiFN6qi0Dy"
+      "duration_ms": 163374,
+      "name": "Peter King Kong",
+      "url": "https://open.spotify.com/track/3gv9PZLhs2c87MEcy6zOfu"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
@@ -745,7 +729,23 @@
       "url": "https://open.spotify.com/track/24VN5sgRu9hvIElo0lRzHx"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
+      "album": {
+        "name": "Me Pueden Juzgar",
+        "url": "https://open.spotify.com/album/3QDHcul1zZ2aZZQo860HMI"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 217678,
+      "name": "Me Pueden Juzgar",
+      "url": "https://open.spotify.com/track/1jtw4JaOsoFCWflmycd1fD"
+    },
+    {
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
@@ -761,7 +761,23 @@
       "url": "https://open.spotify.com/track/38StyWZFxOVmZyciFwExOi"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 174749,
+      "name": "Al Ni\u00f1o Le Gusta Lo Bueno",
+      "url": "https://open.spotify.com/track/1c6ilYnCPdP1BiFN6qi0Dy"
+    },
+    {
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Botas Ariat",
         "url": "https://open.spotify.com/album/4u3djr5WDq8rPzagF79rJF"
@@ -777,39 +793,7 @@
       "url": "https://open.spotify.com/track/1uSKLuMMqy48AFI7dFOiIA"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
-      "album": {
-        "name": "Instinto",
-        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 157875,
-      "name": "La Gente Nueva",
-      "url": "https://open.spotify.com/track/5vyDbihMtrtyrKp6xUW8Gq"
-    },
-    {
-      "added_at": "2023-09-21 12:45:21",
-      "album": {
-        "name": "Polvo de Angel",
-        "url": "https://open.spotify.com/album/0oFAjjQ2LwtJuO17g9YEvM"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 195969,
-      "name": "Polvo De Angel",
-      "url": "https://open.spotify.com/track/0AprGMXtG62kJk1gMwnk4Q"
-    },
-    {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
         "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
@@ -825,7 +809,39 @@
       "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
+      "album": {
+        "name": "Polvo de Angel",
+        "url": "https://open.spotify.com/album/0oFAjjQ2LwtJuO17g9YEvM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 195969,
+      "name": "Polvo De Angel",
+      "url": "https://open.spotify.com/track/0AprGMXtG62kJk1gMwnk4Q"
+    },
+    {
+      "added_at": "2023-09-25 12:17:20",
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 157875,
+      "name": "La Gente Nueva",
+      "url": "https://open.spotify.com/track/5vyDbihMtrtyrKp6xUW8Gq"
+    },
+    {
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Sue\u00f1os y Metas",
         "url": "https://open.spotify.com/album/5xznQhaDmG3QocS1i5KfUE"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/2IAz40IUjp8A2OdtOo9DUO"
     },
     {
-      "added_at": "2023-09-21 12:45:21",
+      "added_at": "2023-09-25 12:17:20",
       "album": {
         "name": "Barrio Xolo",
         "url": "https://open.spotify.com/album/2WdXJMn7Y4jlMM5tXPzt7j"
@@ -859,22 +875,6 @@
       "duration_ms": 186301,
       "name": "Barrio Xolo",
       "url": "https://open.spotify.com/track/5yJPahX4wJlrRPH1agjvtH"
-    },
-    {
-      "added_at": "2023-09-21 12:45:21",
-      "album": {
-        "name": "Instinto",
-        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 209624,
-      "name": "La Moneda Vueltas Dio",
-      "url": "https://open.spotify.com/track/7aMuodDbZvgLOPk3zRReqJ"
     }
   ],
   "unique_name": "This Is El de La Guitarra",

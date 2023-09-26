@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Old Country Church",
+        "url": "https://open.spotify.com/album/3cB6hCmC0xKRj0M9kDiPcS"
+      },
+      "artists": [
+        {
+          "name": "William Lee Golden and The Goldens",
+          "url": "https://open.spotify.com/artist/3DBCHVQNlapluGiMfXZDFX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149213,
+      "name": "Come & Dine",
+      "url": "https://open.spotify.com/track/1EVDgJXZpD3DXKH1PLXWtq"
+    },
+    {
+      "album": {
         "name": "Come and Dine",
         "url": "https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC"
       },
@@ -398,7 +416,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 149213,
       "name": "Come and Dine",
       "url": "https://open.spotify.com/track/6tf81aaHf2TumDPjrkPlr6"

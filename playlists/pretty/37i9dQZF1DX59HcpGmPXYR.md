@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 
 > The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride\. Cover: Sam Smith & Kim Petras
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,716 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,721 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 | 59 | [I'm Too Sexy](https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Hits!](https://open.spotify.com/album/3GKFt0Fc0iW0OoTt4qHoV2) | 2:51 |
 | 60 | [Karma Chameleon](https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 4:01 |
 
-Snapshot ID: `MCwxMTNkMjljMmE0NGJhYWM3YmVkMGY3NGZkZmFhM2Q1ZmNlMmNhY2Jj`
+Snapshot ID: `MCwyNzViN2Y5YTlmYWMxNTdhZWZmYjZkMmU3NGVmOWU4YjAzN2FlMTRm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,991 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,012 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 99 | [Superlicious](https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y) | 3:01 |
 | 100 | [Pronosticos Cachito](https://open.spotify.com/track/3lBQvzsycvySqg739cOGew) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Pronosticos Cachito](https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e) | 4:00 |
 
-Snapshot ID: `MCw1YWY5MTcyODUwYTNlNTg5MDUwODgxZWJjYTE5MzgwNTlhMDMwN2Ri`
+Snapshot ID: `MCxlNTkwYTIwOGE0MmEwNzk4YTRjZmYyOGFiNTU4YTMyOGQ4MGYzY2I1`

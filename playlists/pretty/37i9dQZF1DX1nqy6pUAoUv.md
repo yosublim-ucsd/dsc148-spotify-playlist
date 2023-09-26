@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,042 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,046 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 |
 | 100 | [Indigo](https://open.spotify.com/track/4dEShdbZOn5qXWXQbUyGh9) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [The Eternal Rocks Beneath](https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS) | 4:14 |
 
-Snapshot ID: `MCw1NjEzODE4NjY0ZWYzNTFmNGMwZTU1YTBhMDRmOTMzNjUxZDU3Njg1`
+Snapshot ID: `MCwyODk3MWNmY2U5NTE0OTM4ZTUzZjE2ODljOGRmZTE2ZWE0MmNhN2Fi`

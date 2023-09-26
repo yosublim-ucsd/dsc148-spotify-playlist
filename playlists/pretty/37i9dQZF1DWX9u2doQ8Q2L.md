@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,068 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,074 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 99 | [Unmellow](https://open.spotify.com/track/0QBMxVVIXqVNp2Yce45nBQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Unmellow](https://open.spotify.com/album/3BaxIQ05k9jCiYsks7kLqZ) | 2:37 |
 | 100 | [Paris feat\. YELLOW Huang Hsuan](https://open.spotify.com/track/6zBZytsj3jzGJa8SFlyfKZ) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Paris feat\. YELLOW Huang Hsuan](https://open.spotify.com/album/4ADi6WTvZ4aXxwTNVjPpxj) | 2:51 |
 
-Snapshot ID: `MCwxMTBkNmM3MDc1ZjFmZDZiZjA1NDBiMzJmYWYyODNkYTlhNzhjZmY5`
+Snapshot ID: `MCxjZTdiMTQ1YWI0NGQyMmQ5MjdlODk3YzgxNjcwYjc5ZDk4ZDk0NjA0`

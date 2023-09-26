@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "De Mal En Peor",
+        "url": "https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs"
+      },
+      "artists": [
+        {
+          "name": "Ricky Valenzuela",
+          "url": "https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196232,
+      "name": "De Mal En Peor",
+      "url": "https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf"
+    },
+    {
+      "album": {
         "name": "D\u00eda De Baj\u00f3n",
         "url": "https://open.spotify.com/album/3u6jVCx2tYFPRQtzKpUyaM"
       },

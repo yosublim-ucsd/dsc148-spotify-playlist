@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > tunes for walking, driving, running, flying, etc
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,168 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,203 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 99 | [Tommy](https://open.spotify.com/track/7w76n5UvwlGrjZsgFm8ZYl) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Tommy](https://open.spotify.com/album/5BjjgpESJZDI1ievIXFVsu) | 3:33 |
 | 100 | [Mountain Jack](https://open.spotify.com/track/0PmE2X02ocdGWQDNq6UaoI) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sad Night Dynamite](https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x) | 4:23 |
 
-Snapshot ID: `MCw3MTkwOGRkN2YzOGIxMDNjNzQwMjc3N2FjZmE2YTg2MDVkYzYxZjc2`
+Snapshot ID: `MCw4YzBlNGE0NWQ0MTFjNzdhY2JjMzE4OGZhOWRlOTAxYmNmN2YxOWI4`

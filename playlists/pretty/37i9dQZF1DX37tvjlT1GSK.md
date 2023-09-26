@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Becky G en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,394 likes - 125 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,413 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [Lo Obvio](https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Lo Obvio](https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi) | 2:20 |
 | 125 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 |
 
-Snapshot ID: `MCwyNWY3OGQzMTlhNzFjZGM1MTYzZWVhZjA4NzBkYWIwMjVhM2UzMmYx`
+Snapshot ID: `MCw3NjJmNzk1YTVmMzBiZjVlNGU3YzdiN2YyMGI5MWNiNWUzZTgzZmRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,003 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,024 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 59 | [Sendas Distintas](https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv) | [Trío Los Brillantes](https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S) | [Época de Oro](https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx) | 3:14 |
 | 60 | [Canta Canta](https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr) | [Toña "La Negra"](https://open.spotify.com/artist/1SZQKoMtYV7tyEZSagGFio) | [Aquellas Lindas Melodias, Vol\. 9](https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S) | 2:45 |
 
-Snapshot ID: `MCwzNTkzYmMwNGZmZGZkYTU2MTgxNzY2NmNlNzlhOTM0OWM0NDEyZjAy`
+Snapshot ID: `MCwyYTdiYjMwMzhkMWU3MGI4OGVmYmQ2NTM3Zjk1M2Y4ZWZjYzhhZjQ1`

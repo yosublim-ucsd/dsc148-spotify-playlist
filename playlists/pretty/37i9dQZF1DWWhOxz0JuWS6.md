@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,798 likes - 200 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,824 likes - 200 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 | 199 | [Far From Over](https://open.spotify.com/track/0mbImplrU76kIvd52GlNbt) | [Frank Stallone](https://open.spotify.com/artist/3BucZwouCkpiGi2UxqfWn9) | [Frank Stallone](https://open.spotify.com/album/4khMOHn89Aq1yHqWgkVzxm) | 3:15 |
 | 200 | [Cherokee](https://open.spotify.com/track/2Gah9qQMVdxCZJllU9HmnZ) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:12 |
 
-Snapshot ID: `MCxkMTUxOTYxMzk2ZDM4NWExZjU0NjhjNjA0M2Q2Y2IyY2QzYjFiNWQy`
+Snapshot ID: `MCw2MGJiNDA4NWE3NWI5YzhjYTVmY2FlYTU5NzA0MmI4ZjkzNWRlZTcy`

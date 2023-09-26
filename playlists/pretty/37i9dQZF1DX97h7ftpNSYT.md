@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,557 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,569 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 99 | [Digits](https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 2:56 |
 | 100 | [Slippery \(feat\. Gucci Mane\)](https://open.spotify.com/track/0TBgMKD86t1VP3IzhxCoUl) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:04 |
 
-Snapshot ID: `MCw1OWRlMGUwY2E2NGQyMTI2YzA2YjY0NThhOGZmYjBhY2MxZDJiZTQ1`
+Snapshot ID: `MCxlNTg3NzRhYjc5N2U5MjhhMTc3MjlhMjRjMDhmMGQ4ZTU1ZWIyNmVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Remembering Charlie Robison.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,219 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,229 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 99 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
 | 100 | [Just For The Record](https://open.spotify.com/track/50uI46R1kzo9thxADXIGQJ) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Memory and a Dirt Road](https://open.spotify.com/album/0mcOlV5jSdfRmtudAJPmRg) | 3:21 |
 
-Snapshot ID: `MCxiNjFkM2Y0YzE1MTU0N2I1NjI0MGU4ZWEzNGZjOTM4YTRhMjI2NDUz`
+Snapshot ID: `MCw5Njk5MTM2ODJlNzZlZmE0M2I2ODk3OTY0ZWIyZmMxZmIxZDAzZmNk`

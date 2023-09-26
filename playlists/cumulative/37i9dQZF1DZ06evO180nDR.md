@@ -4,7 +4,7 @@
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 6 min
+95 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Del 1 Al 10](https://open.spotify.com/track/0u3y6hlc0KncC6xBnm648F) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Los Plebes del Rancho](https://open.spotify.com/artist/2I2kAQzySYBAvqM4XltnUB) | [Del 1 Al 10](https://open.spotify.com/album/5bo7EIf3DAxYlnmOOM2rcR) | 2:55 | 2022-10-09 | 2022-10-31 |
 | [Dichos Y Grandes](https://open.spotify.com/track/6N9UZ5TbSrs9V6RGa9uv2V) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dichos Y Grandes](https://open.spotify.com/album/7p1p2zwwgFzmuky82s7URf) | 3:18 | 2022-06-01 |  |
 | [Dueña De Mi Vida](https://open.spotify.com/track/1aZ6Zxjsohp85AEUPhJkCm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 4:11 | 2022-06-01 | 2023-05-18 |
-| [El Barba Cerrada](https://open.spotify.com/track/3yPy39fL0VgdCflXgbJZjc) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 2:23 | 2022-06-01 |  |
+| [El Barba Cerrada](https://open.spotify.com/track/3yPy39fL0VgdCflXgbJZjc) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 2:23 | 2022-06-01 | 2023-09-26 |
 | [El Cache](https://open.spotify.com/track/3gtirxuuJWHJ1kInwCTsbo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Cache](https://open.spotify.com/album/5XVx3rhlBrWHjXt1D0O3Jz) | 3:17 | 2023-01-22 |  |
 | [El Centenario \- Live Version](https://open.spotify.com/track/7FEv8IsXjOBFfvzfJ5RDjA) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 3:29 | 2022-06-02 | 2022-10-13 |
 | [El Corrido CP\-2 AKA Sangre Catracha](https://open.spotify.com/track/35ZMfACFuEBKzd1q3DpBof) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 2:36 | 2022-06-01 | 2023-03-26 |
@@ -75,6 +75,7 @@
 | [Miguel Ángel](https://open.spotify.com/track/3GwaJCRZYlQWDASiqQt8O1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Miguel Ángel](https://open.spotify.com/album/0XiTVbx22tB1hJMZiH0QX6) | 2:44 | 2022-06-01 |  |
 | [Nacho Tiros](https://open.spotify.com/track/48kZ3YhoVdlIqZoOFNk4Ez) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Nacho Tiros](https://open.spotify.com/album/3v8oZzcjq5J3C3SSIuvxqW) | 3:01 | 2023-06-15 | 2023-08-31 |
 | [No Quiero Vover A Verte](https://open.spotify.com/track/5bWXLr45F24kTmztUfO9bH) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 2:44 | 2022-06-01 | 2022-10-13 |
+| [Poco A Poco](https://open.spotify.com/track/4loIMejzvt11s97SGVEat8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Poco A Poco](https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl) | 2:36 | 2023-09-25 |  |
 | [Por El Ruido De La Cinta](https://open.spotify.com/track/65jYeBXlXAbre1TP6XORAy) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:48 | 2022-06-01 | 2023-07-10 |
 | [Que Tal](https://open.spotify.com/track/43BJCb62Swe69FRBEZygFm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Principio Y El Fin](https://open.spotify.com/album/2FR5MC8QeTPajOyC3XajyH) | 3:27 | 2022-06-20 | 2023-04-06 |
 | [Que Te Entregues Hoy](https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:09 | 2022-06-01 |  |

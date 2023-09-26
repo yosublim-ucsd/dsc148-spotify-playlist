@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,766 likes - 89 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,166 likes - 89 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 88 | [Absolutely Tidy](https://open.spotify.com/track/2OLXMMY73l5AZWZ5U5ETt1) | [ILLAMAN](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu), [Pitch 92](https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Absolutely Tidy](https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl) | 2:51 |
 | 89 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 |
 
-Snapshot ID: `MCwyNjhhMzBkYWE3Y2EzOTdlMGUzMmUwZTM2ZjhiNzdmMWYxMWVlNzlh`
+Snapshot ID: `MCxhMTllZjVmOWVlYjIzMjlhNjI0YTFkMjUyMzU4YjFmMTU4ZTE5Yzlh`

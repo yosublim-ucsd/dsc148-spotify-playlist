@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,243 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,267 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Mimoun Marhaba](https://open.spotify.com/track/68tS8zt1kpPHxunJ7Xq4PI) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Marhaba](https://open.spotify.com/album/7g5cShRnbgXW9xwQjKNFow) | 8:18 |
 | 50 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 |
 
-Snapshot ID: `MCwyNWU3MWM5OTAwYjQ4NjZlNzk1NjdhMTg3NTgyYTJhOGI3MjlhYzQ4`
+Snapshot ID: `MCxiYTg1NDQ0MmNkNGJhMWQ5MDdhZTJhYWMyMjJmNzk5MWU5MjJmMTMw`

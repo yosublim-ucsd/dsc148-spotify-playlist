@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Banda MS en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,757,309 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,757,497 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 124 | [Derecho De Antigüedad](https://open.spotify.com/track/37MzlcXgRH5rzTJYcSX2RD) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Romances](https://open.spotify.com/album/3yf7ChHaHsfVTnq7b9c0Xt) | 3:06 |
 | 125 | [Se Me Sigue Notando](https://open.spotify.com/track/6CUtPSVBdwRLzSfALQqM4T) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Hombre De Rancho](https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1) | 3:34 |
 
-Snapshot ID: `MCwxY2I0ZWUzZmU3Nzc5NjY2YjZjODAxYmQzMDU5MzdjMmZmY2ZjMzQ3`
+Snapshot ID: `MCwzMmU5YWY1MGIzYzI1YTRlYWYzMTc0ZmIyMzZlZGY2NTY2NTI2YWRj`

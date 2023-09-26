@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,997 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,011 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Mon Dieu](https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Mon Dieu](https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd) | 2:46 |
 | 50 | [Blessings \(Everywhere I Go\)](https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Blessings \(Everywhere I Go\)](https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg) | 3:03 |
 
-Snapshot ID: `MCw0NDk3OTQwNGVjMzZmNjgwN2U4NDI1YWMxYWM2NDFkNTIwZmU0MTI1`
+Snapshot ID: `MCxjNDBmM2YzYjY2MDk3MzBhZjhlYzY5ZTc2N2NmZjJjMTBmOTQwMDc1`

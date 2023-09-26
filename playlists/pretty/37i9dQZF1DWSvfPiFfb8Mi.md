@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,457 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,491 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 99 | [Boys Don't Sob](https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Boys Don't Sob](https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J) | 2:56 |
 | 100 | [My All](https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [My All](https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH) | 4:00 |
 
-Snapshot ID: `MCwwZWQyOGE5NDc3NTlhY2NlNmJhY2RiMDgxNGQ0ODdhMmQxMWRlZDcx`
+Snapshot ID: `MCw3NTk5OWQzMGNkOTZlYjk5NWRkM2ZmOTRhZjJmZTQ1N2RkNGNiNTFi`

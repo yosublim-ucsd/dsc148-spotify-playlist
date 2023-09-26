@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr Pig y Mario Bautista en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,980 likes - 83 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,978 likes - 83 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 82 | [Take It](https://open.spotify.com/track/6wHjctWbG9IUDo96rUbT9F) | [XIX](https://open.spotify.com/artist/4kujTclzOfCLEztutiKfRR) | [Take It](https://open.spotify.com/album/00pXCpxTg1iRi8VH6LG5SH) | 2:42 |
 | 83 | [Mistake](https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs) | [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV) | [Mistake](https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T) | 3:12 |
 
-Snapshot ID: `MCxiNmE2NDE0NDRhNWExNzA1YzY2ODBkOGZjZjBhNzgzNjAyNGM2ODlm`
+Snapshot ID: `MCwzYWVjZWJjNjk4YmUyZTgxNTZiYWUwNDQ5Y2VlZDc1MGMxYmIyMmU5`

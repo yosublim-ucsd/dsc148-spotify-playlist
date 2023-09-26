@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,843 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,845 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [You and I Are Equal](https://open.spotify.com/track/4laAIQLzf49FKhy14SmA87) | [BluePrint](https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT) | [You and I Are Equal](https://open.spotify.com/album/7h1JqqftHbKVq5x6izUNey) | 4:14 |
 | 100 | [Never Let Me Down](https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Never Let Me Down](https://open.spotify.com/album/7KCiIL4GO5P7gINLSF5fUF) | 3:05 |
 
-Snapshot ID: `MCwyMDFmYjI0MmI2MWNkMGEwNTZkODlkMzU4MWYyN2JiNmFiOGYxNjkw`
+Snapshot ID: `MCw4MjBlZGViM2E0YTlkNmYzNDU1ZjRkMTc2MWE1YTZhNGIxZWVmOTll`

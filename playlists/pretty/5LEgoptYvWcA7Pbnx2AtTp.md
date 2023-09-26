@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Daniel](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 5 likes - 70 songs - 4 hr 6 min
+[Daniel](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

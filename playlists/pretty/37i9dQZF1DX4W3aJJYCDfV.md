@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Doja Cat \(pictured\), Headie One & K\-Trap, Bakar and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,599 likes - 130 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,616 likes - 130 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 129 | [lessons](https://open.spotify.com/track/7KZbYz90yBIxzp0CjerooE) | [PEACH.](https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6) | [lessons](https://open.spotify.com/album/4Cfk3yJTdQWhw65sTdNGdr) | 3:34 |
 | 130 | [Love Is Free](https://open.spotify.com/track/51j0exKov2Fq2Z8xXalO7j) | [CAZ](https://open.spotify.com/artist/7v18Pi0vYm0bXeg1BrlwMt) | [Love Is Free](https://open.spotify.com/album/7qv4MCXzq0JwffARjt8oRM) | 2:36 |
 
-Snapshot ID: `MCw0MTU4NTg0MTNjODYxZjNjNWViMjMyNGMwYjljOTliMmFiZWI4YTIw`
+Snapshot ID: `MCw4MmY5NjVmODdiZTBlYTYyMGU5MTNjZjZlM2UyYmZjMDFhMDJkOWEz`

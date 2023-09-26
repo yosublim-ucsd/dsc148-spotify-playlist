@@ -450,7 +450,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 138506,
       "name": "First Time I Met The Blues - Single Version",
       "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 139626,
       "name": "I Got My Eyes On You",
       "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 165920,
       "name": "I Love the Life I Live",
       "url": "https://open.spotify.com/track/5p529gnH10F0ZSUmLCny0P"
@@ -970,6 +970,28 @@
       "duration_ms": 241413,
       "name": "Let Me Love You Baby",
       "url": "https://open.spotify.com/track/75PUrwtQEarrbg4JQ2VDMr"
+    },
+    {
+      "album": {
+        "name": "Live In Hiroshima 1975",
+        "url": "https://open.spotify.com/album/6PSYBTMCPI4AOL1SqPRgBw"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303149,
+      "name": "Little By Little - Live",
+      "url": "https://open.spotify.com/track/0gE1kIzyk6OCyOTeAEdqS3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,133 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,135 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 79 | [Do Right](https://open.spotify.com/track/7lMjqRbsChqroWRRkhw3ge) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [Do Right](https://open.spotify.com/album/79oVcdOfST9iLRlqenoJdl) | 3:27 |
 | 80 | [Overture of Spaldin](https://open.spotify.com/track/764tyXjLix45eNDYsWIFxw) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 3:52 |
 
-Snapshot ID: `MCw5YmJlMTg4YTlhZDAxNzYwNTk1OWIzNzQ1MzIwMWJlYjY1OTQ2MmNk`
+Snapshot ID: `MCw0MzlkMzk3ZjE2NjZlNzhhMjA4MmNiMzM4NWUxNmRlNzdmNDE3N2M3`

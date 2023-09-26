@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,985,363 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,985,494 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 99 | [Carita Bonita](https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4) | [Erre XI](https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed), [PeeWee](https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp) | [Luny Tunes Presents ERRE XI](https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl) | 4:14 |
 | 100 | [Te la Tiro Pa Que Bailes](https://open.spotify.com/track/4y9Yn8z2cUVvmSPFMEVirk) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Fatal Fantassy 3](https://open.spotify.com/album/1p94g5LjKqmbAyGXQMheub) | 2:47 |
 
-Snapshot ID: `MCwzMzgzMDEyMjhiMDZjY2MyYTUzNmNjZjFhOThmZmU2NmZhYzEzNTU2`
+Snapshot ID: `MCxlM2QwNjk4ZTA2ZjJlOGNmM2RjNjAyMzlkY2RlN2Y5ZDViMzk0YTMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,222 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,253 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 49 | [Over You](https://open.spotify.com/track/7dTkiXLxCLpAquNt3MulYB) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Over You](https://open.spotify.com/album/1a8j1xt8u7J9ozOgZVm9AI) | 2:51 |
 | 50 | [Alone Together](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Georgia Blackwell](https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq) | [Alone Together](https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE) | 3:19 |
 
-Snapshot ID: `MCwwYTRlMTdlNDE3NzBkMjQ2ZGJlN2Q1ZjBkYjQ1MmEzZWNkODg5ODk1`
+Snapshot ID: `MCxhY2IyOTc0NGU5NTAxNTc4NjExODhhMTlhN2FhYzA3ZTE0ZDE2ZmVm`

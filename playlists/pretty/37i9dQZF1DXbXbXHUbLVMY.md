@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > Skandinavisk hiphop holder det 100! 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,721 likes - 60 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,728 likes - 60 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 59 | [Nånting i Luften](https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nånting i Luften](https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y) | 2:31 |
 | 60 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 |
 
-Snapshot ID: `MCxmNDVmYWViNTA3M2JhZGU4MzA4NWI2NWU1MjJiOGMzOGY0MWNjNmRh`
+Snapshot ID: `MCxjNDZkY2RlNGEzNjZmMzU2OWUxMzAwYzg1NjQxNTNmODhlZDU0YmU0`

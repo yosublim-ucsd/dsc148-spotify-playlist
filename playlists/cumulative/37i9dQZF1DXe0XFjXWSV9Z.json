@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "OVNI Cumbia",
+        "url": "https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "OVNI Cumbia",
+      "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
+    },
+    {
+      "album": {
         "name": "The Roots of Chicha 2",
         "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
       },
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 245831,
       "name": "Paso Palante",
       "url": "https://open.spotify.com/track/3nK7fQHM7Gld1esyJmRf2h"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNFJfN1Vw8d9.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Spain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,608,319 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,608,346 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNFJfN1Vw8d9.md) - [plain]
 | 49 | [Pacto \(feat\. Bryant Myers & Dei V\) \- Remix](https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Pacto \(Remix\) \[feat\. Bryant Myers & Dei V\]](https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6) | 5:46 |
 | 50 | [Te Menti](https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Te Menti](https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl) | 3:07 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

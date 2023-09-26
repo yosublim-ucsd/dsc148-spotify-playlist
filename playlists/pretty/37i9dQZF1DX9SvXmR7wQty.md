@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Safia Nolin
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,060 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,063 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Je te promets](https://open.spotify.com/track/2WQSqRICLiUVaQHT7QQ0We) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9), [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Je te promets](https://open.spotify.com/album/6e3k8dGR9n0i8ILS37puwR) | 3:40 |
 | 50 | [Donne](https://open.spotify.com/track/564LI6g6mPCngTvP6ABkZO) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [A.M.O.U.R](https://open.spotify.com/album/3LwsjIHgP08344cotAfY0N) | 3:51 |
 
-Snapshot ID: `MCw1NWY4Y2E1Yjk2MzBmYzY5NWQxMjZjMTVjNGViNzJmOTdlNDEyYjQ5`
+Snapshot ID: `MCw4MmIyMDdiMjI4MTZhZmQ4NTVmNzU1MTljNWZlZjllZDYwNDQwOWUz`

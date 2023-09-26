@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Ist nur einmal im Jahr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,338 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,371 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 79 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 |
 | 80 | [Ich schieß mich weg](https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Micha von der Rampe](https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w) | [Ich schieß mich weg](https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg) | 2:07 |
 
-Snapshot ID: `MCw3NDEwNjhiOTcyMzVmMTJmZjU3YTMwYzJlMTQzODk0YTVlMTc5YjM1`
+Snapshot ID: `MCwzMzQxYzU2YTNmZmYyNzBhMDMyZThhZmVkNTQ4MzQ1MDU1NzgwZDE0`

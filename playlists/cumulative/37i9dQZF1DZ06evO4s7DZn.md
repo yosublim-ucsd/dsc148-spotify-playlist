@@ -4,7 +4,7 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 23 min
+97 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,8 +68,9 @@
 | [Mi Ultima Parranda \- En Vivo](https://open.spotify.com/track/3QyfrvlB1OGCHsFeOAgglU) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:27 | 2022-08-30 |  |
 | [Miel Amarga / Amigo \(En Vivo\)](https://open.spotify.com/track/5wKMMywmELffQUw61t3jhx) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [En Vivo! Desde Pico Rivera, Ca](https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd) | 4:46 | 2022-06-01 | 2022-08-26 |
 | [Miel Amarga / Amigo \- En Vivo](https://open.spotify.com/track/1XFm3pC9ppFaQJUG663K8k) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Desde Pico Rivera!](https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU) | 4:46 | 2023-07-24 |  |
+| [Mil Cartas](https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Al Ataque](https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv) | 3:21 | 2023-09-25 |  |
 | [Mil Cartas \(En Vivo\)](https://open.spotify.com/track/2STXme6kGlOn40oJwgpZH4) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [En Vivo! Desde Pico Rivera, Ca](https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd) | 3:45 | 2022-06-01 | 2022-08-27 |
-| [Mil Cartas \- En Vivo](https://open.spotify.com/track/6JrLok78BeLPN3R1eDWeQi) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:19 | 2022-08-26 |  |
+| [Mil Cartas \- En Vivo](https://open.spotify.com/track/6JrLok78BeLPN3R1eDWeQi) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:19 | 2022-08-26 | 2023-09-26 |
 | [Morenita \(En Vivo\)](https://open.spotify.com/track/0AHH8XJjFXeIaRQu8i1T1w) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! Vol\. 2](https://open.spotify.com/album/3FEiGlYvGOUMf4w0HA0EDr) | 2:47 | 2022-06-01 | 2022-08-27 |
 | [Morenita \- En Vivo](https://open.spotify.com/track/5JE8FvmSOnudMDgbcLk4yZ) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 2:47 | 2023-03-27 |  |
 | [Muchacha Triste](https://open.spotify.com/track/1gmDN60KqlsUwKsZC0PVwO) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 3:40 | 2023-03-09 |  |
@@ -78,6 +79,7 @@
 | [No Hay Vacante](https://open.spotify.com/track/1dLLZZ5dt0YfSHjIQ24rB1) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:37 | 2022-06-01 |  |
 | [No Le Digas a Nadie](https://open.spotify.com/track/31X7Ra9TlstdzHE4zTaEJu) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [No Le Digas a Nadie](https://open.spotify.com/album/7BCtUlBeAMEfqUnQayCSSO) | 2:58 | 2022-06-01 | 2022-08-27 |
 | [No Llega El Olvido](https://open.spotify.com/track/6tzP3K1dS3AW7b0byZwSnd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:07 | 2022-06-01 |  |
+| [No Se Vivir \- En Vivo](https://open.spotify.com/track/7Bxs5oDeIKI8aatDljy6Qs) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:13 | 2023-09-25 |  |
 | [No Vas a Creer/Te Preguntaras \- En Vivo](https://open.spotify.com/track/3puernBYuD2jnlq3732oG0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 4:30 | 2023-05-27 |  |
 | [Oh Gran Dios](https://open.spotify.com/track/3ThVhCjqErJsuajFsMLn3H) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:50 | 2022-06-01 |  |
 | [Para Ellas](https://open.spotify.com/track/0NB5GkAROV33z5pDY7GGpu) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:13 | 2022-06-01 |  |

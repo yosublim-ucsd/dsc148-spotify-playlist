@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,688 likes - 58 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,796 likes - 58 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 57 | [KISINAN](https://open.spotify.com/track/26wNc0PJYduNHNQO6nk0xE) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [KISINAN](https://open.spotify.com/album/4Owqu6uyGpc789JHz2DSt7) | 4:35 |
 | 58 | [RAISO DADI SIJI](https://open.spotify.com/track/6Jo8Hoo4vJpXtESmBJEEJS) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh), [Linda Sulini](https://open.spotify.com/artist/0dbRMrhQQRU84Eh6GafP6O) | [RAISO DADI SIJI](https://open.spotify.com/album/0ur8PFBqXKXVdwhHFviG4J) | 6:37 |
 
-Snapshot ID: `MCwzMGJiMTcxN2Q5NDk1MDRjYjRhMTVkNzdlODJmMjUxYjUwODYxMGY0`
+Snapshot ID: `MCw0MWM3Mjc3OTg4NWNlMTZjYjJkZTIxOWI4YzQ5MWJjMDAzOTUwMDgw`

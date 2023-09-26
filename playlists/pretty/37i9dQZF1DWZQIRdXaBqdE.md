@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 
 > Get on down the road with these classic country tunes\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,189 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,218 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 99 | [Could I Have This Dance](https://open.spotify.com/track/7BCgPuJDZgPwOv1E4p6Cvq) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Anne Murray The Best Of...So Far \- 20 Greatest Hits](https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX) | 3:16 |
 | 100 | [500 Miles Away from Home](https://open.spotify.com/track/44AauRai27QWKEx4dKn0oU) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [500 Miles Away From Home](https://open.spotify.com/album/06zl9w7hWWtjxFt76bMZEE) | 2:42 |
 
-Snapshot ID: `MCxiNmZjYTFmNTU2YWY4NzQ3NzYyZTQwODJjNzlmMDI1ZmI1MTJlNGZj`
+Snapshot ID: `MCxhNWVkODY1YWY3OThkMzQ5YzNjZjk1YzMxZTUwYWY0YjVlYTA4ODhl`

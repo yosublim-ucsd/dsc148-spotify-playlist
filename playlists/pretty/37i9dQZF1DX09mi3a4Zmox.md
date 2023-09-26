@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 
 > Música para enamorarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,151,084 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,151,222 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 99 | [Como Yo Te Amo](https://open.spotify.com/track/2WGYmstMZN1Kbz2sKiguFB) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Amor](https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE) | 4:48 |
 | 100 | [Por Lo Que Reste de Vida](https://open.spotify.com/track/7qDkY9Y9v9eFV53AalBcSd) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Amore Mio \(Deluxe Edition\)](https://open.spotify.com/album/1c02pV8A4VtKLRB5G1SLyV) | 3:38 |
 
-Snapshot ID: `MCw0OGE4ODQ5ZTZiYjM4MTllOTFlNzZjNjQ1MTlkNWU5ZmZkN2MwMmU3`
+Snapshot ID: `MCwwNmUwNjgzOGY3MzhlZWQ3MDcxMDA5ZjU4MGVjNjZjODNkMWY3Y2M0`

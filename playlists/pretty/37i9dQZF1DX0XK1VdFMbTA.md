@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,744 likes - 500 songs - 1 day 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,762 likes - 500 songs - 1 day 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 | 499 | [Barrytown](https://open.spotify.com/track/7jkk1MrXJptKicctJKkXjC) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 3:20 |
 | 500 | [One More Time](https://open.spotify.com/track/2YvsGKyrVEroDZevEMIWKH) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Street Survivors](https://open.spotify.com/album/5sG6jJxaUEt2sAjP4HzELy) | 5:03 |
 
-Snapshot ID: `MCw4ZjhlMDI4NDljZTFhZjQ5NGQwZmY3MTFiMGYxNjczNGM3Yjc1ZmQ0`
+Snapshot ID: `MCxjMWU0ZWQ1MDBlNDQ0OThiNjYwYjQ4NmY4Y2U4ZmYxMDlhZDIyMjQ3`

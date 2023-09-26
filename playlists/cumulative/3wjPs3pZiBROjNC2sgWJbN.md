@@ -4,7 +4,7 @@
 
 > A collection of R&amp;B jams and viral trends feat Rihanna, Mary J\. Blige &amp; Coco Jones! Cover: Coco Jones
 
-137 songs - 7 hr 56 min
+140 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 | 2022-06-09 | 2023-03-22 |
 | [Loveeeeeee Song](https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 4:16 | 2022-06-09 | 2022-09-25 |
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-16 | 2023-02-01 |
+| [Moments \(feat\. Justin Bieber\)](https://open.spotify.com/track/2WGdMsAZboyOiNhNx4dt82) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:33 | 2023-09-18 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-27 |  |
 | [moonlight \(kali uchis\) \- sped up version](https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [moonlight \(kali uchis\) \[sped up version\]](https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1) | 2:36 | 2023-06-06 |  |
 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 | 2022-06-09 | 2023-02-01 |
@@ -124,6 +125,7 @@
 | [Something New](https://open.spotify.com/track/1z15fhSgN6U2k4gqA1Zu4j) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Something New](https://open.spotify.com/album/7ql438zy2icDWhxBHGOieI) | 3:32 | 2022-06-09 | 2022-09-25 |
 | [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 | 2022-09-24 | 2023-03-22 |
 | [Start Over \(feat\. 6LACK\)](https://open.spotify.com/track/2d9MYGHDxjUB8P7qAI6bhe) | [Trey Bond](https://open.spotify.com/artist/6BWvzCLOnxDse9KYROLCHs), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Start Over \(feat\. 6LACK\)](https://open.spotify.com/album/4QlBtOJAooYJjTOlmOEDLO) | 3:25 | 2022-10-06 | 2023-02-28 |
+| [Stay Long \(feat\. Summer Walker\)](https://open.spotify.com/track/4Ep3FZomL0EAKeYqW0riz6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 2:25 | 2023-09-18 |  |
 | [Stone Cold](https://open.spotify.com/track/2ZJSuTo2KtL066oKKmcUlL) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Stone Cold](https://open.spotify.com/album/75XtJQhaA2gnlYJ1RsrxgO) | 2:30 | 2023-01-19 | 2023-04-07 |
 | [Stop By](https://open.spotify.com/track/2f4PvtF6upC4UWRE9yrF6v) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:50 | 2022-09-24 | 2022-11-01 |
 | [Surprise](https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Surprise](https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb) | 2:35 | 2022-07-08 |  |
@@ -144,6 +146,7 @@
 | [Wicked Games \- Sped Up](https://open.spotify.com/track/2gD25C4hWZoQeGNlfqCAK2) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy) | [Wicked Games \(Sped Up\)](https://open.spotify.com/album/4C5wHfZutXxy8BlqegHYHw) | 2:36 | 2023-05-23 |  |
 | [Worth It](https://open.spotify.com/track/7yeAu4xPWoTOGwQlQpgNZA) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Worth It](https://open.spotify.com/album/4gA30BEiTEYzHesXLSBbJc) | 4:18 | 2022-06-09 | 2023-02-01 |
 | [Yamz](https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Yamz](https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ) | 4:05 | 2022-06-09 | 2023-05-23 |
+| [You \(feat\. Fireboy DML\)](https://open.spotify.com/track/6NhNuqfnXWCvwVPBF6zyOX) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 4:11 | 2023-09-18 |  |
 | [You Never Visit Me \- Single Version](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 | 2022-12-19 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

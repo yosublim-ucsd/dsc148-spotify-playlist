@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-154 songs - 10 hr 39 min
+156 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Can't Wait](https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Can't Wait](https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N) | 3:27 | 2022-11-04 | 2023-01-14 |
 | [Carry On](https://open.spotify.com/track/1P39kOSyYA4o2kyn2uxxWf) | [We Are KING](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) | [We Are KING](https://open.spotify.com/album/3FYKiMNG19UUdbs8xhpZc7) | 3:53 | 2021-08-18 | 2022-08-13 |
 | [Chocolate Pomegranate](https://open.spotify.com/track/67M0ONQYZV4MmD7QyhNvz3) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Chocolate Pomegranate](https://open.spotify.com/album/4UM1e9jvy5D5gQX34Csknf) | 4:07 | 2021-08-18 | 2022-11-11 |
-| [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-08-11 |  |
+| [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-08-11 | 2023-09-26 |
 | [Climax](https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 | 2023-04-28 |  |
 | [Closer](https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 3:49 | 2021-08-18 |  |
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-08-18 |  |
@@ -63,6 +63,7 @@
 | [Getting Late](https://open.spotify.com/track/0khnsS3vcqT6qngEhZCk4c) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 6:46 | 2022-05-06 | 2023-01-06 |
 | [GIFTED](https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [sounds of so\(u\)litude](https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9) | 4:30 | 2022-04-22 | 2022-12-31 |
 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 | 2023-03-01 |  |
+| [Give Me A Reason](https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Give Me A Reason](https://open.spotify.com/album/78pQHAt8HWRK8WVAUdmR2h) | 4:13 | 2023-09-22 |  |
 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 | 2022-04-19 |  |
 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 | 2021-08-18 |  |
 | [Gots Ta Be](https://open.spotify.com/track/63MKNIWCCxtqnehwFhmYqp) | [B2K](https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj) | [B2K](https://open.spotify.com/album/21yoUU2rTDol51y88pMGKq) | 5:21 | 2022-04-19 | 2022-07-29 |
@@ -101,6 +102,7 @@
 | [Naked](https://open.spotify.com/track/6j5Swqhcc12eHvPQc6uaQS) | [Marques Houston](https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt) | [Naked](https://open.spotify.com/album/2kn0q8gu2DmgodwRSVNQqI) | 4:26 | 2023-03-01 | 2023-08-13 |
 | [Naked](https://open.spotify.com/track/0mKbQvLjf1jVdnOKSZ5nC7) | [Marques Houston](https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt) | [Naked](https://open.spotify.com/album/4KahGYWAcGDrsjgPHW99Mg) | 4:26 | 2023-08-11 |  |
 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 | 2022-12-09 |  |
+| [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-09-22 |  |
 | [Only With Time \- A COLORS SHOW](https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Only With Time \- A COLORS SHOW](https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78) | 5:04 | 2022-04-19 | 2023-02-05 |
 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 | 2021-08-18 |  |
 | [Other Side Of The Game](https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:33 | 2023-03-01 |  |
@@ -111,7 +113,7 @@
 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 | 2023-03-01 |  |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-04-22 |  |
 | [Purpose](https://open.spotify.com/track/07v4ZQgNrBtRjTbPQbH9UL) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Purpose](https://open.spotify.com/album/30FVhviyJzjAdMMXLfN0VD) | 3:49 | 2023-06-14 |  |
-| [Read My Mind](https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:48 | 2021-08-18 |  |
+| [Read My Mind](https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:48 | 2021-08-18 | 2023-09-26 |
 | [Redbone](https://open.spotify.com/track/3Bo79uipvzIBiOAG4zJPcm) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [21st Century Funk](https://open.spotify.com/album/770DSqP3I7AwvIcd5pI6Od) | 5:26 | 2022-11-04 | 2022-11-13 |
 | [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 | 2022-10-12 |  |
 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2022-04-29 | 2022-10-13 |

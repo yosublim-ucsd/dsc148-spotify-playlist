@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,135,508 likes - 200 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,135,521 likes - 200 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 199 | [If We Ever Broke Up](https://open.spotify.com/track/5krUQJ8Luu2P44Qpqaa33S) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [If We Ever Broke Up](https://open.spotify.com/album/17eugw7y0jcABlG8x6EDEa) | 2:21 |
 | 200 | [ceilings](https://open.spotify.com/track/6qQCwv3kTEOVPCHTQvg4qB) | [seaiiana](https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps) | [ceilings](https://open.spotify.com/album/6q76ALz3r61PZw4jwt0VQp) | 2:36 |
 
-Snapshot ID: `MCxmYzkyYmVhOTM2OGRlMDM3ZWI5Yjc2OTdhNjljY2ZhMzM2MTljYWU2`
+Snapshot ID: `MCwyMjhlYzJmNzlmNjQzYWIyMzEzMzJmMDljZjU1NmMwYzU0NDQ3N2Vj`

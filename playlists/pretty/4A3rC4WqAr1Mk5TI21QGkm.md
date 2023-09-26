@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4A3rC4WqAr1Mk5TI21QGkm.md) - [plain]
 
 > 
 
-[Kerembulutt](https://open.spotify.com/user/argonit670) - 1 like - 187 songs - 10 hr 37 min
+[Kerembulutt](https://open.spotify.com/user/argonit670) - 1 like - 188 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,5 +195,6 @@ pretty - [cumulative](/playlists/cumulative/4A3rC4WqAr1Mk5TI21QGkm.md) - [plain]
 | 185 | [if god didnt want us to snort worms he wouldn't have made them cylindrical!](https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [effective\. Power](https://open.spotify.com/album/4yyeXDBiKoy8nsBnFBtyIP) | 0:58 |
 | 186 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 |
 | 187 | [paranoia](https://open.spotify.com/track/3EMaNLX6Ho5ouuA0vUDGq6) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/74Mf6OAdhGDZWegLrJdYh1) | 1:57 |
+| 188 | [HUNNY](https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [BLEU](https://open.spotify.com/album/6woJYYYScksahP4fTIMhus) | 2:23 |
 
-Snapshot ID: `NTkwLGRiZWM4MTU3MTcxYTJkZDA4YWYwNzdkNWEyMzlkZWI0YjkwMjYzNWI=`
+Snapshot ID: `NTkyLDI1ZGQ2OWFlNGE4NGQxNmU0ZjkxZDI5N2MyM2NiYzdjMDFhOTllM2I=`

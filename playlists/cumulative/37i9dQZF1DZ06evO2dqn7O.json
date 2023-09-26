@@ -285,6 +285,28 @@
     },
     {
       "album": {
+        "name": "Devastation (with PAM\u00c9)",
+        "url": "https://open.spotify.com/album/1yFtcNjSezziWM0lXQAT5h"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Devastation (with PAM\u00c9)",
+      "url": "https://open.spotify.com/track/6oxH7cP0JbbICm8DdVYta9"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Stay",
         "url": "https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT"
       },
@@ -784,7 +806,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 213821,
       "name": "Love Is Death",
       "url": "https://open.spotify.com/track/67Ih4EE8YDNOXdJxz4NGmT"

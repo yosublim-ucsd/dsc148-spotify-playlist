@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,021 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,035 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [Living Legend](https://open.spotify.com/track/1oU70AufCbc9yKHeVCuvSL) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [Living Legend](https://open.spotify.com/album/246GofoTf0DkxzTwfQDkDF) | 2:18 |
 | 50 | [SPEED UP](https://open.spotify.com/track/5jAmU8qZIEU2U6nGpgKszx) | [Jimmy Johns](https://open.spotify.com/artist/39arl4QmjqYbuq7GzoaTLj), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Lil Cotetsu](https://open.spotify.com/artist/7jzZKM2YWqoqz9m593uDEj) | [Aliveness](https://open.spotify.com/album/22K0VLMEIUt3FOaKlfsJyM) | 2:11 |
 
-Snapshot ID: `MCwyNWU2OWI5ZTY4NmE2ZjQwODMxZGEzNzdkZGZiOWQ3ODAxMDIxYzA5`
+Snapshot ID: `MCw3ZmVjYWJlZTQxNDJlZDI0ZDM3YjhiYzlhNzRkNzFhYjI1NDE3ODdh`

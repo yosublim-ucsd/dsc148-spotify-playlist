@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIQnj7RRhdSX.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Italy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,260 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,272 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIQnj7RRhdSX.md) - [plain]
 | 49 | [Malamente](https://open.spotify.com/track/3myPe2jZvDbPoNXY7v2TU0) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 3:01 |
 | 50 | [Rocket \(feat\. Artie 5ive\)](https://open.spotify.com/track/0mBodlmNGZMVHCjv58MbBC) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Rocket \(feat\. Artie 5ive\)](https://open.spotify.com/album/1aNeLmS9s5Yq9i2IbpkS9w) | 2:55 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

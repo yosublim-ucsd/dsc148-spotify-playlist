@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,355 likes - 75 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,361 likes - 75 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 74 | [Sunshine](https://open.spotify.com/track/67hguDDPd8uEwltmM4P2qz) | [Seneca B](https://open.spotify.com/artist/31q0UDtgTobClaGczO3KBk) | [Sunshine](https://open.spotify.com/album/2c91h6nSOG2dhU9O0GitYN) | 3:30 |
 | 75 | [hand of god](https://open.spotify.com/track/17aeqWs7j6xU37MMQ6LofF) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:43 |
 
-Snapshot ID: `MCxmMWJkYzYwMDBlY2MzYWY3YTc2NzgzNzU0YjQ4OTM2N2IwZDU5NmRi`
+Snapshot ID: `MCxmYTJjMGQwYThkNTJmZDJkNDI1NmU1ODkxYWM1YTZmYzQxYTk4MjYz`

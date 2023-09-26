@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,382 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,401 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [Corduroy](https://open.spotify.com/track/27fEdxOjoSUElncwegKiTb) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Corduroy](https://open.spotify.com/album/0fwUb7KbDTiccmTkgaSemE) | 3:58 |
 | 80 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 |
 
-Snapshot ID: `MCxhZTgzZjRlZWFjZWU4MWY5MzE1ZDdmN2UwOWQ3Y2NkODI4NGY2YTkz`
+Snapshot ID: `MCwwY2I5ZmNjYzc4OWEyZmVmODRiYTJkNjgwZTc3ZmEyZWVhN2YyOWE1`

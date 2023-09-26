@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,977 likes - 48 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,071 likes - 48 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 23 | [In the Eye of the Storm](https://open.spotify.com/track/3Ho41g5j1K5tiFmuU6DcZl) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:09 |
 | 24 | [Blood in the Water](https://open.spotify.com/track/12pova27n3uHRQxrPnih9f) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 3:55 |
 | 25 | [Avalanche](https://open.spotify.com/track/5N9O4qRT4FJudc5m632T45) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:38 |
-| 26 | [Bloodstained Cross](https://open.spotify.com/track/5GLFAymISsbuFDjGEtppMV) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:49 |
-| 27 | [Dead Eyes See No Future](https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:14 |
+| 26 | [Dead Eyes See No Future](https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:14 |
+| 27 | [Bloodstained Cross](https://open.spotify.com/track/5GLFAymISsbuFDjGEtppMV) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:49 |
 | 28 | [Carry the Cross](https://open.spotify.com/track/5GnJy3HRwswXKX3rmffErf) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:12 |
 | 29 | [Burning Angel](https://open.spotify.com/track/4OPnLRsM1PXQ5s3h1M9y0b) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 4:15 |
 | 30 | [Revolution Begins](https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:11 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 44 | [Symphony of Destruction \- cover version](https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:02 |
 | 45 | [Snow Bound](https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 1:32 |
 | 46 | [Despicable Heroes](https://open.spotify.com/track/7C1mBzRzBAK1iwxD8CEC5J) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 2:12 |
-| 47 | [Beast of Man \- 2009 Version](https://open.spotify.com/track/65MwtwKP0YlnmLf4R5nhf0) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [The Root of All Evil](https://open.spotify.com/album/3lPgwuzDBUYL5eDb4n0w41) | 3:46 |
-| 48 | [The Last Enemy](https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:15 |
+| 47 | [The Last Enemy](https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:15 |
+| 48 | [Beast of Man \- 2009 Version](https://open.spotify.com/track/65MwtwKP0YlnmLf4R5nhf0) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [The Root of All Evil](https://open.spotify.com/album/3lPgwuzDBUYL5eDb4n0w41) | 3:46 |
 
-Snapshot ID: `MjgyNTUwMDUsMDAwMDAwMDAwZGQ5ODkyZjViODQyNDVlZGNmY2YxMTc1ODhjZDE1ZA==`
+Snapshot ID: `MjgyNjA3MzcsMDAwMDAwMDA5ZGUzZjNjNTM2YTg5Nzc3NzdkZGU4YzU2NDI1Yjc4OA==`

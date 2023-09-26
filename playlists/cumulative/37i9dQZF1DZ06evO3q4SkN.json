@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 134786,
       "name": "Antonio's Voice",
       "url": "https://open.spotify.com/track/3iYknzsuP2M4ggDyCthGTg"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 76453,
       "name": "April Wears Cheetah",
       "url": "https://open.spotify.com/track/09pfICGonkBl6TXhbglryk"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 47866,
       "name": "Crab Fishing",
       "url": "https://open.spotify.com/track/1EKBIa8fnpuyXqLtb9kTf8"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 99826,
       "name": "Dora the Explorer Theme Song",
       "url": "https://open.spotify.com/track/0GZXWiRVm3cnG3wPFngXbs"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 85173,
       "name": "George At The Derby",
       "url": "https://open.spotify.com/track/5ZCeqaKFr6SxRauiXkShF8"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 69560,
       "name": "Ginny Sees the Light",
       "url": "https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ"
@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125159,
+      "name": "Her Racing Heartbeat",
+      "url": "https://open.spotify.com/track/0Wy0I9wbbX7CPIwU5pu8G2"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -638,7 +656,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 71879,
       "name": "Jordan's Glasses",
       "url": "https://open.spotify.com/track/22vHybImOkTEYMVo1BJOp2"
@@ -660,6 +678,24 @@
       "duration_ms": 55481,
       "name": "La Ultima Mirada",
       "url": "https://open.spotify.com/track/7pBrGQmZxzXbsg8qfuIYAD"
+    },
+    {
+      "album": {
+        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
+        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123533,
+      "name": "Legend Of The Tortoise",
+      "url": "https://open.spotify.com/track/0sB4nZMAssgGXb2hEp9Cdc"
     },
     {
       "album": {
@@ -740,7 +776,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 61724,
       "name": "Margarita Buys a Ticket",
       "url": "https://open.spotify.com/track/7huIymf44gWwlfa5Yv4yHF"
@@ -776,7 +812,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 61066,
       "name": "Meatball Monkey",
       "url": "https://open.spotify.com/track/4aH08aVsg9gRx8r5rU4nVN"
@@ -812,7 +848,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 52093,
       "name": "Monkey Mixup",
       "url": "https://open.spotify.com/track/0Ou4tfO0Zel3VtA5gFQRAR"
@@ -962,7 +998,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 66933,
       "name": "Opera House",
       "url": "https://open.spotify.com/track/08lXo0ES201xImrPw8f6hg"
@@ -1059,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92773,
+      "name": "Ted And Felipe Arrive",
+      "url": "https://open.spotify.com/track/5luoWuuRXpjursM5bDKtGN"
+    },
+    {
+      "album": {
         "name": "Shovel Buddies (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR"
       },
@@ -1077,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82746,
+      "name": "The Cracks Emerge",
+      "url": "https://open.spotify.com/track/26mOsSaZlHtMtgrIQqxEl3"
+    },
+    {
+      "album": {
         "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
@@ -1088,7 +1160,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 49120,
       "name": "The King's Royal Toys",
       "url": "https://open.spotify.com/track/7yEH6l5TiI0jsFDzFWZbLa"
@@ -1135,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
+        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122626,
+      "name": "The Legend Of The Tiger",
+      "url": "https://open.spotify.com/track/5efJajWJiHRmENqLdHxWkI"
+    },
+    {
+      "album": {
         "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
@@ -1168,6 +1258,24 @@
       "duration_ms": 143946,
       "name": "The Stampede",
       "url": "https://open.spotify.com/track/0CN3pQ1L8cJb7TQFNQH39f"
+    },
+    {
+      "album": {
+        "name": "Tag (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73853,
+      "name": "Three Days Left in May",
+      "url": "https://open.spotify.com/track/3ILlJIKgB87Un6dsKciJla"
     },
     {
       "album": {
@@ -1276,6 +1384,24 @@
       "duration_ms": 68800,
       "name": "Who's Your Birth Mother?",
       "url": "https://open.spotify.com/track/3FaAsdxaiJZVQy72trr8ka"
+    },
+    {
+      "album": {
+        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
+        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124306,
+      "name": "Winter Passes Into Spring",
+      "url": "https://open.spotify.com/track/7E0rakzFoaTjGlVGqmfPBQ"
     },
     {
       "album": {

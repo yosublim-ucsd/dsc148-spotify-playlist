@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-209 songs - 10 hr 3 min
+210 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-06-30 |  |
 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 | 2023-03-29 | 2023-07-06 |
 | [Ok Reportaan](https://open.spotify.com/track/3N3mmADC87i2ekwBeTP54l) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Ok Reportaan](https://open.spotify.com/album/3cd3OLaia7aYId42IPsg5C) | 3:18 | 2023-03-29 |  |
+| [Panj Satt](https://open.spotify.com/track/6eqb8wEXFn5Xnk0myqmgHY) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Panj Satt](https://open.spotify.com/album/5YVd0ufS3Mla3KvQ7O4Xau) | 3:09 | 2023-09-26 |  |
 | [Peg](https://open.spotify.com/track/1BzaLzFeLkorzxblbTfzS0) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:16 | 2023-06-29 |  |
 | [Pehli Vaari](https://open.spotify.com/track/6TCiIez3DSy7ZwpBQ4RWrw) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Supremacy](https://open.spotify.com/album/4isvJOYqf8qa24FykMvycD) | 3:18 | 2023-03-29 | 2023-04-15 |
 | [Pind Da Riwaaz](https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad](https://open.spotify.com/artist/21wSW3l3ykp9cMOkbfMbQo) | [Keep It Gangsta](https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW) | 3:08 | 2023-03-29 | 2023-07-28 |

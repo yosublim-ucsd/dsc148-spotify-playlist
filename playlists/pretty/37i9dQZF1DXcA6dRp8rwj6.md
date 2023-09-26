@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Doja Cat\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,837 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,843 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [Big Pimpin' \(feat\. Luh Tyler\)](https://open.spotify.com/track/2Wu8DmMeHBpsPPom0fEKpS) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Big Pimpin' \(feat\. Luh Tyler\)](https://open.spotify.com/album/2IHCrJJ9tsoPZrmgh9Bbcb) | 2:03 |
 | 100 | [SUMMER SUPERSTARS](https://open.spotify.com/track/6n72cRmfRz0y8aQxineuze) | [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SUMMER SUPERSTARS](https://open.spotify.com/album/5USNNy8ctbAlFS3PfsHOTy) | 3:33 |
 
-Snapshot ID: `MCwzZTVhMTgxODc2MWExZjk1ZGUxMGE4YThjZjI0NWQ3ZDNiNjY5MGY1`
+Snapshot ID: `MCw2ZjZjOWQzZTU4MDM3YzgyMmU5YWU1MjNhZmU5OGYyOGM3MTAyMGYz`

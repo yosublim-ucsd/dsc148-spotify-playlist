@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147">Dante Bowe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,536 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,563 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Unguilty Pleasure](https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Unguilty Pleasure](https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0) | 3:13 |
 | 100 | [Preach](https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Preach](https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj) | 3:00 |
 
-Snapshot ID: `MCxiM2U5MjJlYjMxOTZhY2FlNWMyZmRmOWUwMmY5Zjg0ZmZhZmNiZTk1`
+Snapshot ID: `MCxkMzY5NDNjYmZiMGJiMGZjZjZkMWY1NWFlYzIzYTEzNTM3NTJlOGIy`

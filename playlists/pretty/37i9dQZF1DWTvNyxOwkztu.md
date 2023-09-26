@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,835,162 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,835,261 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Readings](https://open.spotify.com/track/6JMYFarzbRvp8J7YnGdbsP) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Readings](https://open.spotify.com/album/6n1vtw8Wjkec1HUpcyYckb) | 2:16 |
 | 100 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 |
 
-Snapshot ID: `MCwwMTMzM2FkMTZjODU1NDhhYjNhNDA2NDM5ZWIyMzFkOWM4ODBmZTQ2`
+Snapshot ID: `MCwxMDNmNDllMDdjOTRkYTNjOGMzNjlkZWYzYzM1ODRiMjEzMzU1YTBj`

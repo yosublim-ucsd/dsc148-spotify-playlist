@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,563 likes - 90 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,570 likes - 90 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 89 | [Trouble](https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 4:11 |
 | 90 | [Use As Needed](https://open.spotify.com/track/0jcyLI0xuoNn2ENh1Vvzxv) | [Willie J\. Campbell](https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7) | [Be Cool](https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27) | 5:42 |
 
-Snapshot ID: `MCwxNGMxYmRjNTQ0NWY3YTBlMjM3NjExZjRmZWI2OThjNTk0YjRjYmU4`
+Snapshot ID: `MCwwZDZiOTBlNjMzMDgxYTQ2MTUzYmQyZTAxYTk3OTkzOTA4MWExZDU5`

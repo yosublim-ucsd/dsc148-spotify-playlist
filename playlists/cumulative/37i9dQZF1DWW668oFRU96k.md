@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Lloyiso
 
-552 songs - 1 day 3 hr 32 min
+553 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,8 @@
 | [Shivers](https://open.spotify.com/track/2YdLi9P7iEk8lRAzfCFup3) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Thatsimo](https://open.spotify.com/artist/6YpREiVGQMVkSzsl4kVwdv), [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Stella Key](https://open.spotify.com/artist/56PRQ7kk9woGM2SBKl8lYc) | [Shivers](https://open.spotify.com/album/1ET9ZCWVUu5XfWYhNGvQfM) | 2:51 | 2023-02-02 | 2023-03-31 |
 | [SHOOTING STAR \- BARS REMIXX FEAT\. RICO NASTY](https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [SHOOTING STAR REMIXX \(PROD BY JAKOPS\)](https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC) | 3:23 | 2023-04-06 | 2023-05-12 |
 | [shy girl](https://open.spotify.com/track/1BIzfT74hOzKieuBjk7jKf) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [shy girl](https://open.spotify.com/album/3A99FyN9ydpMhAaFkn2Vac) | 2:36 | 2023-06-15 | 2023-08-11 |
-| [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-25 |  |
+| [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 | 2023-09-21 |  |
+| [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-25 | 2023-09-26 |
 | [Signs](https://open.spotify.com/track/23TQCebFwF8CYw1TIWCmhe) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9) | [Signs](https://open.spotify.com/album/5crK4xlFyg23mf6RirC6hr) | 2:31 | 2023-02-02 | 2023-02-26 |
 | [Signs](https://open.spotify.com/track/72rfezPDhtN4Yfizqn9DLU) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9) | [Signs](https://open.spotify.com/album/4DUF8l5e6xtIr9uVBCJWMw) | 2:31 | 2023-02-23 | 2023-03-25 |
 | [Sing Your Lullaby](https://open.spotify.com/track/3LGqmgDKefGR9zp3h92VmW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Sing Your Lullaby](https://open.spotify.com/album/61nC52SUGV19X5i0VJoyoa) | 3:42 | 2023-02-02 | 2023-02-10 |

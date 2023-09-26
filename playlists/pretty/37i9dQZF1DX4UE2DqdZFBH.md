@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,336 likes - 104 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,340 likes - 104 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 103 | [Bhatiyali Dhun](https://open.spotify.com/track/0MMPQrXP5jBN6jXhvyJaMP) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 7:16 |
 | 104 | [Monsoon Melodies](https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU) | [Bhooshan Gogad](https://open.spotify.com/artist/7rZipNXSBDQicSLNRZbN2B) | [Monsoon Melodies](https://open.spotify.com/album/39gBKIFpzZGzBIF21xwg60) | 4:56 |
 
-Snapshot ID: `MCw3ZmFiNjc0M2RjYTIzOGE4MjA4NDUxNmIxNjU1NzNmNDI1OTE3YTAw`
+Snapshot ID: `MCw4YmNkYmJhMjNiYThlZTExOWI1NzU1MjRkNzE1M2QwMjIwMWEwMDAz`

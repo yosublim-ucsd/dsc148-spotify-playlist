@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJvfa0Yxg7E7.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Norway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,387 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,398 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJvfa0Yxg7E7.md) - [plain]
 | 49 | [Haha \(feat\. Rambow\)](https://open.spotify.com/track/7fZlCmEKhOsG9klW3e2qEn) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Haha \(feat\. Rambow\)](https://open.spotify.com/album/0RUexSxgjNjmLSVxjfa3o8) | 2:18 |
 | 50 | [Dans På Bordet](https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [David Mokel](https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni) | [Dans På Bordet](https://open.spotify.com/album/0324AmCGXDbzi4XRgVVc7g) | 2:23 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354640,
+      "name": "Star Treatment",
+      "url": "https://open.spotify.com/track/0FgNSsaSZTvbLXUumSO8LQ"
+    },
+    {
+      "album": {
         "name": "Why'd You Only Call Me When You're High?",
         "url": "https://open.spotify.com/album/0SlR6pLgIqWFUkuUfbNbm0"
       },

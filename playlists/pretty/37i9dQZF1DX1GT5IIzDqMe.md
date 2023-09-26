@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,005 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,009 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [I Can't Believe \- Extended Mix](https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [I Can't Believe](https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW) | 6:09 |
 | 50 | [A.M\. Track](https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Protein Valve EP](https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp) | 5:30 |
 
-Snapshot ID: `MCxlYTkyOTM4NmNjNjhiMTMzOTIxMjQ4YjZlMGEyYjI4OTk2Y2Y0NDYz`
+Snapshot ID: `MCxhYjViZDZkYzU5MDRjYTRiMGI0YzNhOWNlMDRhOTcxMDk3MjZiZjU3`

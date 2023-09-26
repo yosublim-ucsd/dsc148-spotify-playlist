@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 
 > Trap de la isla, con Yeruza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,935 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,948 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 | 49 | [Tacos Altos](https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Gargola](https://open.spotify.com/artist/5eJtlvB9Qga52zsu4GzDNA) | [Tacos Altos](https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN) | 5:06 |
 | 50 | [Narcos](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:19 |
 
-Snapshot ID: `MCwwZDI3NDQzZDA1MjRmZDE0MGQ2NmVjZmFiYzkyN2ZjOTRmZmZmMDI2`
+Snapshot ID: `MCxkM2QyMTQwYWNkOTQxNDBiOWY3MjdmYzRhMjRiZDdlYWMzZjA2ZGQz`

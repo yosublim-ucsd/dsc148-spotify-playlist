@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,401 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,403 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 49 | [거울 MIRROR](https://open.spotify.com/track/3rJlE3EHSZcjOVI5fJZpgR) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [거울 MIRROR](https://open.spotify.com/album/2BKrJ8ePL68zc2xesSdkHN) | 4:42 |
 | 50 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
 
-Snapshot ID: `MCwzYjMyMjIzZGUyYzMyMWU2M2VkNzNkMDdiMjY5NjQxM2JlZTExOGI4`
+Snapshot ID: `MCw3NDAyOTU0ODVkOTJkNDM3ZDk2M2E5YjM3NjE4NmNmNjk5MmFmNmFl`

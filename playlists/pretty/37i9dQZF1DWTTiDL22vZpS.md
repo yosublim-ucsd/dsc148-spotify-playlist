@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,473 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,486 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 59 | [Big Night](https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Big Night](https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w) | 3:15 |
 | 60 | [Eso Que Me Das](https://open.spotify.com/track/3xOZWx6fJc65Z4R2Hrq06N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:47 |
 
-Snapshot ID: `MCw3Zjg3NzQ4NDg4ZjUyNTMyMmQxNDQ5NTA5YTFhOGZjNjU2OWZmNWM2`
+Snapshot ID: `MCw2MTQyZDMzMjU5ZWY3NzczMDIyYTk3YzVkOTAwZmZiM2VhZmIyZmRi`

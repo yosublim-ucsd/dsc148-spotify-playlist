@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > let me hold both your hands in the holes of my sweater
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,797 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,792 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 99 | [Glad I Got You](https://open.spotify.com/track/2M3hPwrDVmH6xdeITvfxqe) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject to Change](https://open.spotify.com/album/0tUNlUVBHtya0RTVv4Gd6e) | 2:40 |
 | 100 | [Haunted House](https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 2:13 |
 
-Snapshot ID: `MCwzMTE2ZDFjMGY5NzcxMTg3MDViZGQ1NDNiMGJmOTEzN2RlNjkzMDdh`
+Snapshot ID: `MCwzNmE2YTA3NjhmNTY1ODllNGVkZGZlZWFiNTY1OWE2NzIyNmQyOGI0`

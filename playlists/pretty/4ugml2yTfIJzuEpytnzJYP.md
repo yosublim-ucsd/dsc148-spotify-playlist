@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,295 likes - 27 songs - 1 hr 45 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,328 likes - 32 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,5 +35,10 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 25 | [your armour will not protect me](https://open.spotify.com/track/6kV8M2ztarCdw9w872mj8v) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH) | [your armour will not protect me](https://open.spotify.com/album/7HrT8nJ0eOyoqrqveBxVdn) | 2:10 |
 | 26 | [Dead Meat](https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ), [tiedye ky](https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x) | [Dead Meat](https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ) | 2:45 |
 | 27 | [Celestial Beings \- Halftime Version](https://open.spotify.com/track/14RFRGAaYuB332FMjfvLPR) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve), [yunis](https://open.spotify.com/artist/7mwowsRa7r8SLzx93Xqc0g) | [Celestial Beings](https://open.spotify.com/album/35uN73pnha77AWEFb0iGQv) | 4:25 |
+| 28 | [Religion](https://open.spotify.com/track/7HffUDHnwQlKsQ6bcjs1wZ) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75), [Bobby Saint](https://open.spotify.com/artist/6L6VjBcf06AK6boIxqIEit) | [Quantum Odyssey](https://open.spotify.com/album/5kI3XZsQI8odDlhsBrluNQ) | 5:08 |
+| 29 | [Build it Back](https://open.spotify.com/track/3l8yWtNMw3BNijsOboPJnz) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Quantum Odyssey](https://open.spotify.com/album/5kI3XZsQI8odDlhsBrluNQ) | 3:48 |
+| 30 | [Worship](https://open.spotify.com/track/4CJcxFMisn0Ae4rKdGcMH9) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Quantum Odyssey](https://open.spotify.com/album/5kI3XZsQI8odDlhsBrluNQ) | 3:30 |
+| 31 | [Hear Me Now](https://open.spotify.com/track/7hWsVStGZGM1LHpLRa8yja) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Quantum Odyssey](https://open.spotify.com/album/5kI3XZsQI8odDlhsBrluNQ) | 2:50 |
+| 32 | [Oracle](https://open.spotify.com/track/4cIInqaA7CPOWc9kcVU02m) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Quantum Odyssey](https://open.spotify.com/album/5kI3XZsQI8odDlhsBrluNQ) | 4:21 |
 
-Snapshot ID: `MjI1Nyw1YzRkNjYxODNkMjQxZGRlYmE2YjNlNTZhODI4ZWRmYzAwMzJhNjdl`
+Snapshot ID: `MjI2MixkNzU4ZDA0ZTNkOTVjYzM0OTYzNjVmNGIzOGVlYzk5NjcwMjE3NGE5`

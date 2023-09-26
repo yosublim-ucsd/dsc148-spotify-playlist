@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,781 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,780 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 99 | [Venid, fieles todos](https://open.spotify.com/track/40kSjDYwLZgeh4r4myUj0X) | [Gabriel Bazan](https://open.spotify.com/artist/3a7bxaS9tJ33mhlBQ3bhuJ) | [Venid, fieles todos](https://open.spotify.com/album/6prtSI88XpMNrVTwFqAkY8) | 2:39 |
 | 100 | [Noche de paz](https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku) | 3:06 |
 
-Snapshot ID: `MCw5YjU1NTdkOTlhYzgwOGIwOTY5NTIzNDMzMDQwMTM1M2NkNmU4YmVm`
+Snapshot ID: `MCxhYWQ0MGU0YzdjOTYxN2Q1MTM0YmFiYTg5MmQ5YzRkMzBlYmIwZDE3`

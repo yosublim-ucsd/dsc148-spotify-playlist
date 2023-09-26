@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Brent Cobb
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,533 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,542 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Upside Down](https://open.spotify.com/track/2EYKPyHhYxiSs1SoN4DS2f) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:08 |
 | 150 | [Judy](https://open.spotify.com/track/0bLoEqjAAzozfFOiBBRxUw) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L), [Kim Harris](https://open.spotify.com/artist/4Z4L0pVDUIQuI48pBKlij6) | [Champagne Problems](https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz) | 3:21 |
 
-Snapshot ID: `MCw3ZjlmN2EwYmY5NTMwMTlhOWRjMzE5YjU1N2EwMDM1ZDVjN2JhMGFl`
+Snapshot ID: `MCxlOTZkMjIzMzIyYmVhODIyY2Q1MTU2MmU5ZGZjNzI3YTJjOTQ2ZmNi`

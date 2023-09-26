@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxcczTSoGwZ.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Finland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,942 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,948 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxcczTSoGwZ.md) - [plain]
 | 49 | [FWB](https://open.spotify.com/track/6wpypJHbhEC3xFlq5YX4hc) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [FWB](https://open.spotify.com/album/5dCO8XVeVFzEvBgV5AL38y) | 2:19 |
 | 50 | [Hei rakas](https://open.spotify.com/track/2XaewhXngZd2Zi4ijFIkK0) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Draaman kaari viehättää](https://open.spotify.com/album/2y7VeG13zC99aXEDF60IgJ) | 3:31 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

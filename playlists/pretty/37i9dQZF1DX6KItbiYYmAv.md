@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KItbiYYmAv.md) - [plain]
 
 > Hol dir dein Lieblingscafé nach Hause.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,847 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,872 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KItbiYYmAv.md) - [plain]
 | 149 | [Take It Slowly](https://open.spotify.com/track/0GXBDT4AVhWrKKkk2IXlFO) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:52 |
 | 150 | [Fortune \- Acoustic](https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si) | 3:48 |
 
-Snapshot ID: `MCxkNGFkOTg1MzZlMzAxYjY5YWNlYzI0OTFlMTA4N2I4N2FhZmZkOTE0`
+Snapshot ID: `MCw3YTY2NWU1ZWQ5M2Y1NDRhMmE0YzViNDMzOGY2M2JhNjZlZmQwZWY3`

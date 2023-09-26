@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,418 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,419 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Jazz Me Blues](https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Pete Fountain Presents The Best Of Dixieland: Al Hirt](https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE) | 3:33 |
 | 55 | [Semper Fidelis](https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [4th of July Parade: 30 Patriotic Marches for Independence Day](https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj) | 3:09 |
 
-Snapshot ID: `MCw3YjY0ODczNjI4ZjQzN2VlYTQxOTI1MjlmMTNlNmVkMmMyYjE2NDc4`
+Snapshot ID: `MCwyMDdkNjhhZGRlOGMzYWVmOTlhYmI1YTE4ODA5NjA3YWNjZGVlNjYx`

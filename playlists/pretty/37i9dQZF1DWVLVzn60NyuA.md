@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,031 likes - 150 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,045 likes - 150 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 149 | [Juntos](https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [Pelikula](https://open.spotify.com/album/4uBGxgyGUu0Vf0ZYxCrKDr) | 3:13 |
 | 150 | [MYKILLI](https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [MYKILLI](https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu) | 2:24 |
 
-Snapshot ID: `MCw4ZTgyMDhjNTQwMjExYzY5ZTA2MWUwYjY2NzZjMTg2YjQ1YmIzZGYz`
+Snapshot ID: `MCw0NDNjZGVjZjcwMDExMjE1ZTA5ZDMzYjNhYmY3MjAyMWFjYTdmODY0`

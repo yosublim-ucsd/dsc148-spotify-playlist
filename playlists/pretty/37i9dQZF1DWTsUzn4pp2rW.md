@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,424 likes - 140 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,441 likes - 140 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 139 | [Heaven's King](https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX) | [Imprint Worship](https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV) | [Heaven's King](https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ) | 3:35 |
 | 140 | [Follow](https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD) | 3:52 |
 
-Snapshot ID: `MCwwNGQ2MDlhYWY0ZmUwZmZmNDk1ZTAwYTdhNGI2OGViZjRjZmYzNzJk`
+Snapshot ID: `MCw3NGQ4Yjk4MWEwZDAxYTg0OGI0ODU5YmZmYjI3NDJhY2E0NGI1OTEz`

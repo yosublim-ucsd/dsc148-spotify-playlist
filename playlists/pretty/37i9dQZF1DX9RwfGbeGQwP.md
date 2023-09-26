@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,637 likes - 450 songs - 16 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,654 likes - 450 songs - 16 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 449 | [Just One More Thing](https://open.spotify.com/track/2x8N1BgtDg99LG7aTrpyJb) | [Palm Beats](https://open.spotify.com/artist/1c9zS9phaYUjbZnzYfGoFx) | [Just One More Thing](https://open.spotify.com/album/0OjE95D7HmdIY5VghaCRhx) | 2:02 |
 | 450 | [dreaming about u](https://open.spotify.com/track/6aTmBJD38cN80lkUXHrclk) | [Tau](https://open.spotify.com/artist/2tV1Ys5GAXL47UahBxq8hB) | [dreaming about u](https://open.spotify.com/album/6dS4SzBZlmqsceh8ssmEQQ) | 2:01 |
 
-Snapshot ID: `MCxjZjAzNDRjNDc4NmU5YjcxYzhhY2E5Y2E3YzYwMTVlMTM0ZTI2Y2I5`
+Snapshot ID: `MCwyYjg2YjU2MWQ0NGU1Nzk2YzAxM2M4NGE5NDkyM2Y5N2Q5Nzk5ZjNk`

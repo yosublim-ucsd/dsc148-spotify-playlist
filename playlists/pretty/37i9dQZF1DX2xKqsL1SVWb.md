@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Dali Mata y Breton en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,571 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,570 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 79 | [El Fin](https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N) | [Karla Cruise](https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs) | [El Fin](https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8) | 2:57 |
 | 80 | [Se Te Olvidó](https://open.spotify.com/track/43p7kAVqa4CYkwQtl0ZBb3) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Se Te Olvidó](https://open.spotify.com/album/1k8eERaYIlNo3PI5VOx2Eo) | 3:31 |
 
-Snapshot ID: `MCw0ODllOWQ4MjU3ZTNkMjMxYTllYmY4NjM4NDBmODhkMDljYTRjZjlk`
+Snapshot ID: `MCw5MTBkNDhkZDhmMWQzZjk1MTAzZDdhOWQwY2QwY2ExNTI1NGMxYjU0`

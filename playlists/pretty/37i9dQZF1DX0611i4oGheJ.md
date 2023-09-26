@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,441 likes - 125 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,506 likes - 125 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 124 | [Humble & Kind](https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 4:03 |
 | 125 | [Bittersweet, TN](https://open.spotify.com/track/0merkJ9dgvkemPaR3urDWs) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 4:13 |
 
-Snapshot ID: `MCxmM2UzMDFiN2MzM2NkMzI2NTU1ZWIwMGM3YTlkYWFjYjE1NzdlMTQy`
+Snapshot ID: `MCw2MWM5NTk3YTBlN2U0ZGZjZDI0NDI3ZjJhYzA3MzllYzQ5ODc4YjEw`

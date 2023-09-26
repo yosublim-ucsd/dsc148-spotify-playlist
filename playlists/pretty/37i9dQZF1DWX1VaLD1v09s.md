@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [Praise the King](https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [How Great](https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW) | 4:52 |
 | 150 | [The Power Of The Cross](https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 5:29 |
 
-Snapshot ID: `MCw0NDlmOTYzYWFjZDAzOTIyMzFiZDMwYjdjN2YwMjFhMzRjODM0NTg1`
+Snapshot ID: `MCw2MDA1ZmQ4NmI1NWI4NDc5MmQwM2Y3Yjk4MjYzNWRmZDUxZWNkMTZj`

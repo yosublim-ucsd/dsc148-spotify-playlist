@@ -4,7 +4,7 @@
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-150 songs - 9 hr 29 min
+151 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Celebrate Me Home](https://open.spotify.com/track/0GKnuQf2zv5k8nOQm8HHFd) | [The Perrys](https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU) | [Blue Skies Coming](https://open.spotify.com/album/3Ze6pRPw4B3vN99kCnYIHt) | 4:15 | 2021-10-29 |  |
 | [Celebrate Me Home](https://open.spotify.com/track/0LH08OJwwPnBIHO74jh1yK) | [The Perrys](https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU) | [Blue Skies Coming](https://open.spotify.com/album/5nNQe5KIv0XZm1G8UjAQGO) | 4:15 | 2021-10-29 | 2022-07-29 |
 | [Church of the Great I Am](https://open.spotify.com/track/3UaRwZMjw140KkSrtc1ULO) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [More to the Story](https://open.spotify.com/album/4xdKJAW8nrvV3iS5lpjE4K) | 3:14 | 2021-10-29 | 2022-08-28 |
-| [Come and Dine](https://open.spotify.com/track/6tf81aaHf2TumDPjrkPlr6) | [William Lee Golden and The Goldens](https://open.spotify.com/artist/3DBCHVQNlapluGiMfXZDFX) | [Come and Dine](https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC) | 2:29 | 2021-10-29 |  |
+| [Come & Dine](https://open.spotify.com/track/1EVDgJXZpD3DXKH1PLXWtq) | [William Lee Golden and The Goldens](https://open.spotify.com/artist/3DBCHVQNlapluGiMfXZDFX) | [Old Country Church](https://open.spotify.com/album/3cB6hCmC0xKRj0M9kDiPcS) | 2:29 | 2023-04-14 |  |
+| [Come and Dine](https://open.spotify.com/track/6tf81aaHf2TumDPjrkPlr6) | [William Lee Golden and The Goldens](https://open.spotify.com/artist/3DBCHVQNlapluGiMfXZDFX) | [Come and Dine](https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC) | 2:29 | 2021-10-29 | 2023-09-26 |
 | [Every Other Throne](https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig) | [Hebron Road](https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51) | [In a Moment](https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe) | 5:06 | 2022-08-27 |  |
 | [Every Story Whispers His Name](https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Every Story Whispers His Name](https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl) | 3:55 | 2021-10-29 |  |
 | [Everyday](https://open.spotify.com/track/1eanEK6p990gBoG6jORXb4) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Everyday](https://open.spotify.com/album/6hU1RkXOJRXhwybcfWaKve) | 3:45 | 2021-10-29 | 2022-07-29 |

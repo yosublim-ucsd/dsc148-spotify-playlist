@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Listen to A-List tracks from RCA Records featuring music from Young Nudy, Latto, Tate McRae, Elle King, and more. Cover: SZA",
+  "description": "Listen to A-List tracks from RCA Records featuring music from Doja Cat, Latto, Tate McRae, SZA, and more. Cover: Doja Cat",
   "name": "The RCA-List",
   "tracks": [
     {
@@ -38,6 +38,46 @@
       "duration_ms": 123986,
       "name": "2055",
       "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
+    },
+    {
+      "album": {
+        "name": "Boy Meets World",
+        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148928,
+      "name": "A N X I E T Y (feat. Doechii)",
+      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192207,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki"
     },
     {
       "album": {
@@ -168,6 +208,24 @@
       "duration_ms": 161880,
       "name": "BAIL\u00c9 CON MI EX",
       "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
+    },
+    {
+      "album": {
+        "name": "Balut",
+        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207507,
+      "name": "Balut",
+      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
     },
     {
       "album": {
@@ -532,6 +590,24 @@
       "duration_ms": 178720,
       "name": "chaotic",
       "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
+    },
+    {
+      "album": {
+        "name": "Chocolate Rain",
+        "url": "https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Chocolate Rain",
+      "url": "https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4"
     },
     {
       "album": {
@@ -1063,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "album": {
         "name": "Green Juice (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO"
       },
@@ -1313,6 +1407,42 @@
     },
     {
       "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166626,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
+    },
+    {
+      "album": {
+        "name": "Rustin' In The Rain",
+        "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "In Your Love",
+      "url": "https://open.spotify.com/track/1y3CG6thNhG1ndaNW0JuEp"
+    },
+    {
+      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
@@ -1378,7 +1508,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
@@ -1815,6 +1945,42 @@
     },
     {
       "album": {
+        "name": "On My Mama",
+        "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186678,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
+    },
+    {
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "album": {
         "name": "LIVE.LOVE.A$AP",
         "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
       },
@@ -1848,10 +2014,36 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 203813,
       "name": "Peaches & Eggplants (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
+    },
+    {
+      "album": {
+        "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
+        "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
+      "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
     },
     {
       "album": {
@@ -1950,6 +2142,46 @@
       "duration_ms": 185748,
       "name": "Put It On Da Floor Again (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
+    },
+    {
+      "album": {
+        "name": "QUERIDO ABUELO",
+        "url": "https://open.spotify.com/album/1AKVxxwAnxnN2Cgl94SRBb"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232543,
+      "name": "QUERIDO ABUELO",
+      "url": "https://open.spotify.com/track/3FP4wPTuK8YqN2UeMn7muf"
+    },
+    {
+      "album": {
+        "name": "RIOT (Rowdy Pipe'n)",
+        "url": "https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189011,
+      "name": "RIOT (Rowdy Pipe'n)",
+      "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
     },
     {
       "album": {
@@ -2124,6 +2356,28 @@
       "duration_ms": 186157,
       "name": "Smoke (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
+    },
+    {
+      "album": {
+        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190464,
+      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
     },
     {
       "album": {
@@ -2360,6 +2614,24 @@
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "album": {
+        "name": "VAN GOGH",
+        "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197080,
+      "name": "VAN GOGH",
+      "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
     },
     {
       "album": {

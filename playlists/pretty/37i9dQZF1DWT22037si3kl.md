@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Fúria
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,525 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,532 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Puffer Size](https://open.spotify.com/track/70pCB1lFeN5KsNddfoV6Vd) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Puffer Size](https://open.spotify.com/album/4UqyZsWRmyRhtwdOoTAsvt) | 2:22 |
 | 50 | [Minha História \(As Respostas\)](https://open.spotify.com/track/3KCozDZaYfEAved8Uofo1Y) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Apesar De Você \(Mixtape\)](https://open.spotify.com/album/4hEwNsdQMT8r1ue2X4KMDX) | 2:12 |
 
-Snapshot ID: `MCw3MGFkMTkyOTg1YjIzM2QwMTlmYjI1MjY1MjZiMjQ3NWUyOTAxMmRl`
+Snapshot ID: `MCxlMjc2YjYzYjE3MGZlOTZhMGQ5MTgzNTljMTVlYTU2ZWY5MzBjY2I3`

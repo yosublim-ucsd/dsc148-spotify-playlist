@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,022 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,039 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 49 | [Grab Dat Ass All Night](https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC) | [Kiddy.Wav](https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW), [YTP](https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S) | [Level up My Skills](https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x) | 4:29 |
 | 50 | [FMU](https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SEXORCISM](https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv) | 2:58 |
 
-Snapshot ID: `MCwwYTdiNmU1ODRlY2RmM2Q4NTE2MjZjNWQ1ZTViMThmYzU1NThiNDIw`
+Snapshot ID: `MCw0M2MwZjk1YjM4ZTAzYTYxNDI1NDUxNDViOWZjNzc1OTE5N2FiN2Nl`

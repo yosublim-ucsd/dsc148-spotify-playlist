@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,972 likes - 100 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,027 likes - 100 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 99 | [Nada Guardaste](https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Nada Guardaste](https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd) | 3:39 |
 | 100 | [Porque Él Vive](https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6) | [Rudy Pérez](https://open.spotify.com/artist/4eUxJJBkyYPh8Mdlj2TLlv) | [Porque Él Vive](https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn) | 4:19 |
 
-Snapshot ID: `MCwyNDhlNmUxZDVkOTRkMWNlZjFjNTc5MTE0NjJmMjM3OTgwNTA3ZjM1`
+Snapshot ID: `MCxhZTllNGM3NjI5ODRiMWQxOWFhZDA3Nzc0NTNlY2U5ODE4ZTI2MzYz`

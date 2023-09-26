@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 80.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,775 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,804 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 | 49 | [Autos, Moda Y Rock N Roll](https://open.spotify.com/track/5JiRlyOGE2EYvzLyex6pdK) | [Fandango](https://open.spotify.com/artist/0K4nxvAJBnfObOL3vkJhc0) | [Autos, Moda Y Rock And Roll](https://open.spotify.com/album/2UfcQEVPb2iE5WhNaZu1Uo) | 3:10 |
 | 50 | [De Mi Enamórate](https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:38 |
 
-Snapshot ID: `MCw0ODc3MmU2NDBmNzA1ZjBjYjI0OWJlNGFmNjA4MWVlODM1OTg1NWJk`
+Snapshot ID: `MCxkYzU0OWIxNzdiNjczYjVjYjJjMDg3MWFlNDQ5MmY0NGUxMzM5NzUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: jo0ji
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,790 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,797 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [Similar](https://open.spotify.com/track/5rED2p3ixwhiHaLfX02TXo) | [Houkago Hotal](https://open.spotify.com/artist/6CTXHqUj5LQSZXGIujgK0h) | [Similar](https://open.spotify.com/album/2iixevVJRGjDAwdIeEWskt) | 3:11 |
 | 70 | [narcissism](https://open.spotify.com/track/0Zq6r6hxA47VIvokSKO3Zu) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL) | [narcissism](https://open.spotify.com/album/1p7VQ1wJ2LXWxrAUJjtSic) | 2:19 |
 
-Snapshot ID: `MCxhMjg5NjhiZTM2YzZkN2QwMDJjZGUyZGVhNDM1ZmNjMGUxMjA5ZWI5`
+Snapshot ID: `MCxiMjAxMTNlY2MwZGI3NGRkZjBkOWZmMzQ4NTM4YWRhNzBhODVhNTZm`

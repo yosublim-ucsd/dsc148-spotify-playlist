@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,273 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,331 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 149 | [Reaper of Love](https://open.spotify.com/track/7MhanQlUmy0p1vvn4JCEQX) | [Rocky Padilla](https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0) | [Reaper of Love](https://open.spotify.com/album/6cYE3duwuvONqnxnKply8o) | 3:31 |
 | 150 | [Boy With the Angel Eyes](https://open.spotify.com/track/5CIJEkPX1TiF1jazhDXxbY) | [Vicky Tafoya and the Big Beat](https://open.spotify.com/artist/6FMPLQPJx2sk8BPPVnv92v) | [Never Let Go, Vol\. 1](https://open.spotify.com/album/4GgGewXgAejjm2FWeRppqU) | 4:04 |
 
-Snapshot ID: `MCxmNTZlNDQ4YTBjNDBmZjhmZDc5MGM1YTQwZDI0ZTFmNTA3OWNjNmQy`
+Snapshot ID: `MCxjMWRjMWNlNTA1NzNiM2U1NDlhYzRmY2UyYTFkOTE5MzQ0ZTcxOGZk`

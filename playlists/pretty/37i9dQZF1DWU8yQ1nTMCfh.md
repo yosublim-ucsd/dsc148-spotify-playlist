@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Abraham Mateo & Sebastian Yatra
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,971 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,988 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 74 | [Cuenta conmigo](https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Cuenta conmigo](https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6) | 2:46 |
 | 75 | [Psycho](https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:13 |
 
-Snapshot ID: `MCw3NjJiZjNmOTRiODc2Njk0MzBiZWFhYmMyZmI1YTAzMzJjZWM4MDdj`
+Snapshot ID: `MCwzY2ZhY2ZkM2UxNjVjODBjZTYwZTlmZDZlMDhiNjkwYzQxYTQ3ZTAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,566 likes - 97 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,575 likes - 97 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 96 | [Sleigh Ride](https://open.spotify.com/track/7DvMep6G9cf4tJ85lGj0P3) | [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5), [The Jazz Seekers](https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1) | [Blue Christmas](https://open.spotify.com/album/51un0U9tdv3Tnz6fZWlEKL) | 4:29 |
 | 97 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/53oBX4dx0KGxIaAWCFSjks) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas](https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO) | 3:20 |
 
-Snapshot ID: `MCxkNDI1ZjQzMjQ1NDM4NzFmMDllNGFkZjkxZWE4YTg1OGJkNDVlODBm`
+Snapshot ID: `MCxhMjkzNWJmYmQwMGRlODczODQxMmQwN2ZjYzZhODc2ZjdjOWQwM2Ew`

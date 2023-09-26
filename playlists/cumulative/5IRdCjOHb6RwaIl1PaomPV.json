@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "missedub4theworldended",
+        "url": "https://open.spotify.com/album/1hWJvYQYA1cgl52Pwtiu9K"
+      },
+      "artists": [
+        {
+          "name": "DEWEY.nothing",
+          "url": "https://open.spotify.com/artist/5rbjdtxdnCNvdwlyoTFsnu"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126666,
+      "name": "1+<3 (27022021)",
+      "url": "https://open.spotify.com/track/6mKnbVvAQQxEqHW3Cy0XkB"
+    },
+    {
+      "album": {
         "name": "1471",
         "url": "https://open.spotify.com/album/6aazGhy1unBHW4nPE6uHlN"
       },
@@ -373,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Aquarium Nightclub Reworks",
+        "url": "https://open.spotify.com/album/2gFC8b4RWK6qI0tCJgvtNy"
+      },
+      "artists": [
+        {
+          "name": "Space Ghost",
+          "url": "https://open.spotify.com/artist/3YfpfN9dOwJUoeqXoWazgi"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279978,
+      "name": "Aquarium Nightclub - Drift Mix",
+      "url": "https://open.spotify.com/track/5YrsV9G3pGftooPgtWxYb2"
+    },
+    {
+      "album": {
         "name": "Armour II",
         "url": "https://open.spotify.com/album/4GiYJzqGmtpJrnu2WfuL0F"
       },
@@ -527,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Bad Lines",
+        "url": "https://open.spotify.com/album/4EoeTFWnMAHHnh0NfSlA6o"
+      },
+      "artists": [
+        {
+          "name": "Pangaea",
+          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230550,
+      "name": "Bad Lines",
+      "url": "https://open.spotify.com/track/2loO0mL3yxH650l9wq7KKQ"
+    },
+    {
+      "album": {
         "name": "Baian\u00e1",
         "url": "https://open.spotify.com/album/4fnmyznELge41MnyNpUp78"
       },
@@ -556,7 +610,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 208531,
       "name": "Bailando 2023",
       "url": "https://open.spotify.com/track/4dVUUG3hsOa1n2YTV5nKHw"
@@ -1381,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Powders",
+        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271733,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd"
+    },
+    {
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/0lmj4wnLLdvmwlAi2RrfWo"
       },
@@ -2156,6 +2228,28 @@
       "duration_ms": 240570,
       "name": "El Bombo",
       "url": "https://open.spotify.com/track/0Rv3tutzgSak1pTMXiV9p8"
+    },
+    {
+      "album": {
+        "name": "International Confusion",
+        "url": "https://open.spotify.com/album/1MsoGxqvVIikO2HzXJ8SAi"
+      },
+      "artists": [
+        {
+          "name": "Airrica",
+          "url": "https://open.spotify.com/artist/57sPl5iWgq5t6AscVbMTOW"
+        },
+        {
+          "name": "Ashee",
+          "url": "https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Elsa's Scream",
+      "url": "https://open.spotify.com/track/5hW6jSqtuAFKVrgsG9u1qQ"
     },
     {
       "album": {
@@ -3008,7 +3102,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 248817,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
@@ -3066,7 +3160,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 135709,
       "name": "Heartbroken I'm Lonely",
       "url": "https://open.spotify.com/track/6HI3GAwMiAjk4L0Md7OmK8"
@@ -3136,7 +3230,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 223384,
       "name": "High Tide - Doss Remix",
       "url": "https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa"
@@ -3226,7 +3320,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
@@ -3314,6 +3408,28 @@
       "duration_ms": 422025,
       "name": "Hurricane Party - Danny Daze Terraza Mix",
       "url": "https://open.spotify.com/track/3PGzmTPKBZiXo9Yt6IEBjc"
+    },
+    {
+      "album": {
+        "name": "I Can Make It (Jacques Greene Remix)",
+        "url": "https://open.spotify.com/album/5jGu6B4vR6ohNzMfiRifzu"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263780,
+      "name": "I Can Make It - Jacques Greene Remix",
+      "url": "https://open.spotify.com/track/4DLCmEq25XD0OoLy1ZWW78"
     },
     {
       "album": {
@@ -3460,6 +3576,24 @@
       "duration_ms": 175488,
       "name": "In Motion",
       "url": "https://open.spotify.com/track/2HQE50FUNqTrKXbXtiHlWH"
+    },
+    {
+      "album": {
+        "name": "Indiana",
+        "url": "https://open.spotify.com/album/0963AdR4NC93SxKxKEuwRe"
+      },
+      "artists": [
+        {
+          "name": "The Heaven",
+          "url": "https://open.spotify.com/artist/3K2uBPVGL5MbrAyeZmfkrq"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311413,
+      "name": "Indiana",
+      "url": "https://open.spotify.com/track/1IcVhbg90rxbmxylJvKErN"
     },
     {
       "album": {
@@ -3858,7 +3992,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 285547,
       "name": "LA LANCHA",
       "url": "https://open.spotify.com/track/2lgqoVwr6NU9UKMXu1C1Mg"
@@ -4006,7 +4140,7 @@
       },
       "artists": [
         {
-          "name": "untitled halo",
+          "name": "untitled (halo)",
           "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
         }
       ],
@@ -4118,6 +4252,24 @@
       "duration_ms": 162461,
       "name": "Look - All Night Mix",
       "url": "https://open.spotify.com/track/21968f5xcqq01zWyipJ2FV"
+    },
+    {
+      "album": {
+        "name": "loose ends",
+        "url": "https://open.spotify.com/album/1SkHJFH17RBYJAab44SL9y"
+      },
+      "artists": [
+        {
+          "name": "disctr4k",
+          "url": "https://open.spotify.com/artist/05ksHwXiCA9qt1bV1nN8F7"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "loose ends",
+      "url": "https://open.spotify.com/track/6amgngdFA7qnnqMLcXLfGd"
     },
     {
       "album": {
@@ -4302,7 +4454,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 247188,
       "name": "Loved By U (Tommie Sunshine & On Deck Remix)",
       "url": "https://open.spotify.com/track/32Q3rLLqMcwUDLVKpkdKhC"
@@ -4440,7 +4592,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 193203,
       "name": "meant2be",
       "url": "https://open.spotify.com/track/2ogIwH7SqsgCjXc5KJOes3"
@@ -4495,6 +4647,28 @@
     },
     {
       "album": {
+        "name": "JGSG",
+        "url": "https://open.spotify.com/album/7b5kpZxuwy0KxQM7AsvZhd"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72180,
+      "name": "MINDMAP",
+      "url": "https://open.spotify.com/track/4crzVIHusWSxAi668v9xlI"
+    },
+    {
+      "album": {
         "name": "miss me",
         "url": "https://open.spotify.com/album/6QhP58dR15iuzAVxKQ6seG"
       },
@@ -4528,6 +4702,24 @@
       "duration_ms": 88158,
       "name": "Missionsuicida",
       "url": "https://open.spotify.com/track/79H6QU3YnrsjxlDmMKU8uA"
+    },
+    {
+      "album": {
+        "name": "Powders",
+        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "Mona Lisa Moan",
+      "url": "https://open.spotify.com/track/5ns5Tb1ze3But3lgceEWzO"
     },
     {
       "album": {
@@ -4758,6 +4950,24 @@
       "duration_ms": 210746,
       "name": "Nieve - Nick Le\u00f3n Remix",
       "url": "https://open.spotify.com/track/6mOQBI05n2UgeFgmW8Jcdb"
+    },
+    {
+      "album": {
+        "name": "Night",
+        "url": "https://open.spotify.com/album/3JlrsCYoxRunymID7f6jR9"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271200,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/4kUTS1riILDEtv8fagnqdw"
     },
     {
       "album": {
@@ -5038,7 +5248,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 201529,
       "name": "Oh The Glamour",
       "url": "https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt"
@@ -5390,6 +5600,24 @@
       "duration_ms": 90887,
       "name": "Pop Trunk",
       "url": "https://open.spotify.com/track/4TIIAPRWpFk1BseaR7a9c1"
+    },
+    {
+      "album": {
+        "name": "There Is So Much Pain in the World / Praise Kink",
+        "url": "https://open.spotify.com/album/0wEgMKGglty2tkFXGxHVyI"
+      },
+      "artists": [
+        {
+          "name": "Touching Ice",
+          "url": "https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129057,
+      "name": "Praise Kink",
+      "url": "https://open.spotify.com/track/34m44zqnJ79iYVTym3JFjT"
     },
     {
       "album": {
@@ -5843,6 +6071,24 @@
     },
     {
       "album": {
+        "name": "Road Ballad",
+        "url": "https://open.spotify.com/album/7lKvyJGHgwb2ZYeExUmEDJ"
+      },
+      "artists": [
+        {
+          "name": "Holodec",
+          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "Road Ballad",
+      "url": "https://open.spotify.com/track/2RPEGXX96YDuE8JpSj8PwN"
+    },
+    {
+      "album": {
         "name": "Ganger",
         "url": "https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn"
       },
@@ -5902,7 +6148,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 279088,
       "name": "Running Blind",
       "url": "https://open.spotify.com/track/0P9K6VG7Dzw9QRK9pNoznP"

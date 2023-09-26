@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,153 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,183 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 99 | [Hiding \- Clariloops Rework](https://open.spotify.com/track/1D7OqPLkdYqLwdb8TjinLh) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx), [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Hiding \(Clariloops Rework\)](https://open.spotify.com/album/3uvVjALgpgfCwAXVRU6yF9) | 2:51 |
 | 100 | [Berceuse](https://open.spotify.com/track/4xVyVtz7RnAlmlbBh2lJO2) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Berceuse](https://open.spotify.com/album/0bUNI5DEMPhKEV0Sno8toU) | 2:07 |
 
-Snapshot ID: `MCxjZTQ5YTIwNjE2ODBiN2ZmMjk1ZGZmOGEwNWE3YjY1Y2EzZDVkODIz`
+Snapshot ID: `MCxjOGZkZTg0MmNjYmE0ZjUwODUzOTE0NmZmMTQ3ZmE4NzAyZTc4NDVk`

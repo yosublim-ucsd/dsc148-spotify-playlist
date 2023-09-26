@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest songs from LGBTQIA+ artists. Cover: Baby Queen",
+  "description": "The hottest songs from LGBTQIA+ artists. Cover: G Flip",
   "name": "GLOW",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 145588,
       "name": "Aladim",
       "url": "https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB"
@@ -1096,6 +1096,24 @@
       "duration_ms": 228827,
       "name": "August - Recorded At Electric Lady Studios",
       "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
+    },
+    {
+      "album": {
+        "name": "DRUMMER",
+        "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229464,
+      "name": "Australia",
+      "url": "https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ"
     },
     {
       "album": {
@@ -2619,6 +2637,28 @@
     },
     {
       "album": {
+        "name": "C-Major",
+        "url": "https://open.spotify.com/album/0ch8XuUCgy7k10pbtlx1Dg"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        },
+        {
+          "name": "KeKe",
+          "url": "https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208008,
+      "name": "C-Major",
+      "url": "https://open.spotify.com/track/2R9P2h0TCkDK0qXzLSpiTy"
+    },
+    {
+      "album": {
         "name": "Calcinha",
         "url": "https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW"
       },
@@ -3578,6 +3618,24 @@
       "duration_ms": 184905,
       "name": "curious/furious",
       "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
+    },
+    {
+      "album": {
+        "name": "softscars",
+        "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186987,
+      "name": "cyber meat",
+      "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
     },
     {
       "album": {
@@ -5640,7 +5698,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 220776,
       "name": "ghosts",
       "url": "https://open.spotify.com/track/7Ei5XSaRRBMl92xujvRgOy"
@@ -6034,6 +6092,24 @@
       "duration_ms": 187370,
       "name": "Got Me Obsessed",
       "url": "https://open.spotify.com/track/6lHWSoTxeUwBjxfcP0frD9"
+    },
+    {
+      "album": {
+        "name": "Got Me Started",
+        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
     },
     {
       "album": {
@@ -7794,7 +7870,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 255920,
       "name": "Ice Slippin",
       "url": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
@@ -10044,7 +10120,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 338446,
       "name": "Me Me Me",
       "url": "https://open.spotify.com/track/2VMH2r2jqBpxk5kWjM8HCo"
@@ -10522,6 +10598,28 @@
       "duration_ms": 210549,
       "name": "Must Fuck",
       "url": "https://open.spotify.com/track/0NsChmFU7loylSgLQxE30T"
+    },
+    {
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/3JfqBXtyJmfM3cfXmeTrcf"
+      },
+      "artists": [
+        {
+          "name": "Baby Weight",
+          "url": "https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T"
+        },
+        {
+          "name": "Karnage Kills",
+          "url": "https://open.spotify.com/artist/6Ngn318kVpmd89bZ0E7b3f"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221102,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/2ZaW1HaoODTijG97QJPfx8"
     },
     {
       "album": {
@@ -11317,6 +11415,24 @@
     },
     {
       "album": {
+        "name": "BELAMOR",
+        "url": "https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "OJALA",
+      "url": "https://open.spotify.com/track/2s7vG2soQmSx4WBiTgFnRx"
+    },
+    {
+      "album": {
         "name": "OJALA",
         "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
       },
@@ -11872,6 +11988,24 @@
       "duration_ms": 151115,
       "name": "People Get Ready",
       "url": "https://open.spotify.com/track/3OpagTkV4LNzGpduZ9fTRy"
+    },
+    {
+      "album": {
+        "name": "Tender",
+        "url": "https://open.spotify.com/album/6AfMCuvhy0cHegHgxHzpyN"
+      },
+      "artists": [
+        {
+          "name": "zzzahara",
+          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198783,
+      "name": "Peppermint",
+      "url": "https://open.spotify.com/track/61tq7exFoWDrsBsmPWehFg"
     },
     {
       "album": {
@@ -15033,6 +15167,24 @@
     },
     {
       "album": {
+        "name": "The Flowers",
+        "url": "https://open.spotify.com/album/0TxUTBUMlD9PRMNzvWppCq"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "The Flowers",
+      "url": "https://open.spotify.com/track/7jK9Aa2sjIytQYaKRG6Yix"
+    },
+    {
+      "album": {
         "name": "The Good",
         "url": "https://open.spotify.com/album/2UjjNucdVZNQtFOT5S54Hn"
       },
@@ -15170,7 +15322,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 210417,
       "name": "The Worst Person Alive",
       "url": "https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa"
@@ -15564,7 +15716,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 177000,
       "name": "TOP TEN!",
       "url": "https://open.spotify.com/track/21Ltf4RXrYaymlGB0AW6wF"
@@ -15654,7 +15806,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 175429,
       "name": "Tremendo Mujer\u00f3n",
       "url": "https://open.spotify.com/track/24v9Vdrskhb6EQMRtEsygz"
@@ -16018,7 +16170,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"

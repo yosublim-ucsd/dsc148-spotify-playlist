@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 27 min
+61 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [I Feel Like Praising Him](https://open.spotify.com/track/6ZmVj4bahhA9TkJpbNX7Jy) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Gospel Legends](https://open.spotify.com/album/7irL5EpfIUFH2Q21XRhXVA) | 5:27 | 2023-05-12 |  |
 | [I Know It Was the Blood](https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:02 | 2023-05-12 |  |
 | [I Remember Mama](https://open.spotify.com/track/1tqxg3dZ16BSRvm0xbkuYG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 6:22 | 2023-05-12 |  |
-| [I Want To Be Troubled No More](https://open.spotify.com/track/0vw5bu8V54tE25QeQFTLih) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Even Me](https://open.spotify.com/album/6E9ar58WHPraobxdst9pyA) | 2:53 | 2023-05-12 |  |
+| [I Want To Be Troubled No More](https://open.spotify.com/track/0vw5bu8V54tE25QeQFTLih) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Even Me](https://open.spotify.com/album/6E9ar58WHPraobxdst9pyA) | 2:53 | 2023-05-12 | 2023-09-26 |
 | [It's Alright, It's Ok](https://open.spotify.com/track/0e1ZeCyP0BPBO42qu8MFfY) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Fill This House](https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd) | 3:45 | 2023-05-12 |  |
 | [Jesus](https://open.spotify.com/track/1ikkDtH9Ya4jvbZyd9AyLA) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Jesus I Love Calling Your Name](https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy) | 3:43 | 2023-05-12 |  |
 | [Jesus Makes the Difference In Me](https://open.spotify.com/track/3L7ZfCwoXMPz3vy0x57fYC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 2:53 | 2023-05-12 |  |
@@ -46,7 +46,7 @@
 | [Medley: Faded Rose/This Joy/Sweeping Through This City](https://open.spotify.com/track/1HPUAGsXYKyEQ2EcAbOl5W) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 8:58 | 2023-05-13 | 2023-05-15 |
 | [My Testimony](https://open.spotify.com/track/4BilCEaBPaQ295OUpKF6zf) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 2:56 | 2023-05-12 |  |
 | [Nicodemus](https://open.spotify.com/track/3NbLcfFPJWRMNI89RICUCB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 3:54 | 2023-06-12 | 2023-07-06 |
-| [No Charge](https://open.spotify.com/track/4AUnE8OQJWLjJtCBppPhjg) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Jesus I Love Calling Your Name](https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy) | 3:26 | 2023-05-12 |  |
+| [No Charge](https://open.spotify.com/track/4AUnE8OQJWLjJtCBppPhjg) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Jesus I Love Calling Your Name](https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy) | 3:26 | 2023-05-12 | 2023-09-26 |
 | [One More Battle to Fight](https://open.spotify.com/track/2Eo3KpOd2i4yY05IYRSwcP) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 3:54 | 2023-05-12 | 2023-05-18 |
 | [People Get Ready](https://open.spotify.com/track/1JDDFqfa3CdRdShmA9Lr0E) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Golden Gospel Classics](https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5) | 3:04 | 2023-05-12 | 2023-05-31 |
 | [Prayer Changes Things](https://open.spotify.com/track/67wseMeCcgKzn4mhQOPBUC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd) | 4:59 | 2023-05-12 |  |
@@ -60,11 +60,13 @@
 | [Tear Your Kingdom Down](https://open.spotify.com/track/0MelBn72SNNZaCCZ53bkRG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Platinum Gospel\-Shirley Caesar](https://open.spotify.com/album/6CTsw7O3GJuvg0ihRAEOHP) | 3:37 | 2023-05-12 |  |
 | [The Lord Will Make a Way](https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:40 | 2023-05-12 |  |
 | [The World Didn't Give It to Me](https://open.spotify.com/track/1I341GhDAnOmIa3NalRlff) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 5:06 | 2023-05-12 |  |
+| [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 | 2023-09-25 |  |
 | [Tithes and Offerings \- Live](https://open.spotify.com/track/2s2SNAPBxC4TnxTVt60xIC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar Live ...He Will Come](https://open.spotify.com/album/5a9DMGSMyl2Kq4GISbQQgp) | 5:24 | 2023-06-02 | 2023-06-16 |
 | [What A Friend We Have In Jesus \(You Are My Friend\) \[Ult Version\]](https://open.spotify.com/track/3CGcWCtTzdXBjPzdq0PMr9) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Ultimate Collection](https://open.spotify.com/album/6N3Dudfv0riTx67MKti6Gg) | 4:10 | 2023-05-12 |  |
 | [Yes Lord, Yes \- Live](https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 3:55 | 2023-05-12 |  |
 | [You Are All I Need](https://open.spotify.com/track/1lfr85MCIOWgZVgkfkEXSt) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:30 | 2023-05-12 |  |
 | [You Can Make It](https://open.spotify.com/track/0WShhXViWE3F5DPcrkgvV5) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 6:31 | 2023-05-12 |  |
+| [You Did It All](https://open.spotify.com/track/7EAKpTEvHLAGaUBjETGJdT) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Stand Still](https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE) | 6:13 | 2023-09-25 |  |
 | [You Stayed](https://open.spotify.com/track/0xjj8wnRsAHbNW2idVp0Ip) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/0QxY4kLxoYjExBpl1Hzp60) | 4:31 | 2023-05-12 |  |
 | [You're Next In Line for a Miracle](https://open.spotify.com/track/6IdkVDIVFjznzo4RfNtT1T) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 7:04 | 2023-05-12 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Stephen Sanchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,158 likes - 106 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,168 likes - 106 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 105 | [Convince Myself](https://open.spotify.com/track/23s1QNkajTtC5kRbMCrWNE) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Convince Myself](https://open.spotify.com/album/2qnVx4SGCy5qlwefWAT1ig) | 3:02 |
 | 106 | [Hope You're Proud](https://open.spotify.com/track/0g8DBFUhszRFIUp6lSZIB4) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Hope You're Proud](https://open.spotify.com/album/57jqlvYbISk2fGItWR8OjK) | 3:08 |
 
-Snapshot ID: `MCw4ZmZmYzkxZDhhMjFhMGUwYjBmNTZlNDU5ZDA3N2VhOWE4OWRjMjZk`
+Snapshot ID: `MCw5NmM0ZDFhYWMwMTBhN2MwZjE1ZmNhNTZiNDIxZWI1YjA4NDYxYmUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Dënver
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,478 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,483 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 |
 | 100 | [Ya No Te Quiero](https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv) | [Hija de Rojo](https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Ya No Te Quiero](https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy) | 3:17 |
 
-Snapshot ID: `MCxhYjg1M2M0N2VmY2M4NTQyYmJmOWViODBjM2U0OTJiOTM2NDY4ZmY3`
+Snapshot ID: `MCwxN2ExNTVkYWU3Y2Y1MzUwZTE5N2I4ODZkODU3ODg0ZmYyZTk3OGM2`

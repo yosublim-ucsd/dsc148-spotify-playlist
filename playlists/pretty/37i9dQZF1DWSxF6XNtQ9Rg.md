@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Marra e Guè
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,683 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,717 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [Cavallini \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3StzACYDEYmfOOWNU83iRs) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Crack Musica](https://open.spotify.com/album/5jEMsm5dqdur3YKs8RL56B) | 4:11 |
 | 100 | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e) | 4:25 |
 
-Snapshot ID: `MCwxMjVmMGI0NTJiMDFiNTQ2MWRmMDNhZGU4MTIxNzQxNWI3MTZlMDhm`
+Snapshot ID: `MCwwYzMxYjkyZWEyN2E4NTgxMjVhYWI1MjRmYjNlMjFkMzg1MmFkYTBh`

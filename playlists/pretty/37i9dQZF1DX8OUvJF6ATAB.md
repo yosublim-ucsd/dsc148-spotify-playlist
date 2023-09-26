@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,936 likes - 100 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,949 likes - 100 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 99 | [Bh](https://open.spotify.com/track/5TKEFmm00kb1pGhbbrcMAJ) | [Daniel Aged](https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH) | [Daniel Aged](https://open.spotify.com/album/2225T7QnBygl0yoM7dbNGD) | 4:35 |
 | 100 | [Phare](https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI) | [Troth](https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r) | [Forget The Curse](https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa) | 6:19 |
 
-Snapshot ID: `MCw5YzU4NjcxNjVjMzg0NWNkY2IwNzZkZTJlYTZiZTk4MDBkZDczYmY4`
+Snapshot ID: `MCxjMGQyNDBjNjcyZThjMTA5MzZhN2Y4YTA4ZjQwZGI5NmYwYjRhZjQ0`

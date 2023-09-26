@@ -4,10 +4,11 @@
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-105 songs - 6 hr 50 min
+106 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["Babyrock" Rock](https://open.spotify.com/track/6ww4rsVsG3tVLyzb8fWgNA) | [Clorofila](https://open.spotify.com/artist/5ns1lY8egNoPsITbbNpli6) | [Corridos Urbanos](https://open.spotify.com/album/0B3SqGuOGULuzYrzBu0s9g) | 4:40 | 2023-09-01 |  |
 | [16 De Febrero](https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5) | [Emmanuel Del Real](https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Fuera Del Cielo](https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1) | 3:52 | 2021-07-08 |  |
 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 | 2021-07-08 |  |
 | [Algo Está Cambiando](https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 4:00 | 2021-07-08 |  |
@@ -108,7 +109,7 @@
 | [Todavía Te Alcanzo a Ver](https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [El Tiempo y la Ciudad](https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK) | 3:13 | 2021-07-08 |  |
 | [Uno de Esos Días](https://open.spotify.com/track/14Tb6kzWxf8pLPgSJGWggi) | [Ventilader](https://open.spotify.com/artist/7kUKD63HDFP5otOSYEBz0p) | [No Es un Adiós](https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn) | 3:11 | 2021-07-08 |  |
 | [Vidas Paralelas](https://open.spotify.com/track/3PLbGRy1TcQJd8AGnw9TdD) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Vidas Paralelas](https://open.spotify.com/album/6Vghn6zs5r9r8XFnxRMPZN) | 3:57 | 2021-07-08 |  |
-| [Vámonos](https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh) | [Súper Tigre](https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3) | [Súper Tigre](https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3) | 3:26 | 2022-05-10 |  |
+| [Vámonos](https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh) | [Súper Tigre](https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3) | [Súper Tigre](https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3) | 3:26 | 2022-05-10 | 2023-09-26 |
 | [Vía Láctea](https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG) | 4:08 | 2021-07-08 |  |
 | [Yepa Yepa Yepa](https://open.spotify.com/track/3uzCrz4OcrdWUOqfOrzDzx) | [Silverio](https://open.spotify.com/artist/1Du4cMgDEKryT08bQdMqpV) | [Silverio](https://open.spotify.com/album/66gu4VLW2XbHzv8RcBZ8sy) | 4:10 | 2021-07-08 |  |
 | [Épocas](https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Épocas](https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M) | 3:41 | 2021-07-08 |  |

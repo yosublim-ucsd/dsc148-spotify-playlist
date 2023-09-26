@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:5n9VtqOD2WpsEHeCdTCLKt">Zawadzki</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,409 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,417 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 59 | [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 |
 | 60 | [Tango](https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 3:45 |
 
-Snapshot ID: `MCwzMmJiMDAwZjg0NmY5MDQxNzcxZDQzNzFmZDIwZGQ5YTFlYjk2ZDEw`
+Snapshot ID: `MCxmM2IzODRlYTUwNDllZWE2NTA3ZGE5MmRmNzU5NzI4NjBkOTVmMzQw`

@@ -431,6 +431,28 @@
     },
     {
       "album": {
+        "name": "Dado A La Vida",
+        "url": "https://open.spotify.com/album/5ln6P33V70X2v2l4tFW6Ex"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167153,
+      "name": "Dado A La Vida",
+      "url": "https://open.spotify.com/track/2w71YxGnV0kmCv8gDLFznm"
+    },
+    {
+      "album": {
         "name": "Recuerden Mi Estilo",
         "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
       },

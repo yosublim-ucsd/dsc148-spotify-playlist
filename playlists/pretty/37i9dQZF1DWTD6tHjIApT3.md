@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: Kyrie（アイナ・ジ・エンド）
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,796 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,814 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [違う曲にしようよ](https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 3:39 |
 | 100 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 |
 
-Snapshot ID: `MCwxYWEyMzQwYzVmYzc3OTRlYjg1NGRkMGRiNTQzZmRmNjA5YzAzMmYx`
+Snapshot ID: `MCxhMWFmZWRkMTRmOTg2ZjM2MWVkNzBhNTQ4YzFkZmEyZGVlYmQxZjM3`

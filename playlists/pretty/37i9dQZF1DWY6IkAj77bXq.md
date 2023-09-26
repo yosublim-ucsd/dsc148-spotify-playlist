@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,545 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,598 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 79 | [Monument](https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Cosmos](https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6) | 3:58 |
 | 80 | [Midnight Thoughts](https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Wondrous](https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ) | 2:20 |
 
-Snapshot ID: `MCwyYzE0ZWVlYjcyNWZlMzk3ZjZjOWVlMGJlNmUyMDI2ZGRkM2Q2OGI0`
+Snapshot ID: `MCxmMGQ0NzhhODc3MjFiMjM4NmRjOWQ5YWUzNGY1MWVjNzBhMmMwYzNl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Jessé Alcantara
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,719 likes - 85 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,742 likes - 85 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [O Amor de Deus](https://open.spotify.com/track/5S5MNp2WRwmvdG7JlbdgW8) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Yuri DSR](https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B), [Jotta X](https://open.spotify.com/artist/3gMrLffCIkO3TWMKXvjEOl) | [O Amor de Deus](https://open.spotify.com/album/08wVdMKnZGndh8zL9uYEvg) | 2:36 |
 | 85 | [Te Encontrar](https://open.spotify.com/track/3MOm8XpEt9xACdadSFHXfQ) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Te Encontrar](https://open.spotify.com/album/2wBoEUm3ezJ8l0qO0OALlr) | 2:47 |
 
-Snapshot ID: `MCxkYmRjOTE3MDM1ODUwMDRkZjhjMWJkZjA0NThhNGZiYjcyMWVmNWRm`
+Snapshot ID: `MCw0YTE1Y2QzMTIzMjVkNmExN2M3MmE1YWZhNGJiMGQ1OTg0OWY4YTBl`

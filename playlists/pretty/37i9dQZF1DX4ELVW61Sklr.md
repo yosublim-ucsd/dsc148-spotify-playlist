@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,035 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,034 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Alone for Christmas \(feat\. Kiana Ledé\) \- from Still Home For The Holidays \(An R&B Christmas Album\)](https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 2:55 |
 | 75 | [Silent Night](https://open.spotify.com/track/2Zd76A2BuP2CIufE63RkdA) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Silent Night](https://open.spotify.com/album/6SP5GiU7Sl9ATWsNPr9Pwg) | 3:10 |
 
-Snapshot ID: `MCw1YjAyMWQyNWY1ZGNkOGZhYTBjYzk4ODkzYjdiYTdhZGNiNDIyYjY5`
+Snapshot ID: `MCxhZDBlYWM1OTU5Yzc1ZWU1M2UxYTNlNzBlYmZhMTk0NjYxMWRjMzNl`

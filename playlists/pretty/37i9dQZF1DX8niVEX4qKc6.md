@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Silvina Moreno
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,913 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,924 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 99 | [Bajo el Sol](https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu) | [Joaco Terán](https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z) | [Madre Tierra](https://open.spotify.com/album/0ahJlAKdoQnWYXH6eWaenG) | 3:23 |
 | 100 | [Tren Al Sur](https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Tren Al Sur](https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS) | 3:55 |
 
-Snapshot ID: `MCxmNjJhOWIxZmJmMTcyOGVhNTdiOGUyMmNhZDI3MTg4ZjllYTVjMTA3`
+Snapshot ID: `MCw4YWRmZjg4NDc0MzQ4OTY0ZDU1YTg3Y2YwNjFmNDliMDlkYTAxNDUw`

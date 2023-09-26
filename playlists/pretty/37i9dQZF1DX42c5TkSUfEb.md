@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,689 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,724 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 99 | [Love That Girl](https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 3:04 |
 | 100 | [Fortitude](https://open.spotify.com/track/77o7oAwo5OSbKvPBzvRwYR) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:33 |
 
-Snapshot ID: `MCw3NjVmYzU5NjQzY2U3ZjM3N2NlNWQzNjA3OTNiZGY1NzM0OGJlYTll`
+Snapshot ID: `MCw4MmM1NDc5MTQ0MDljMGJkMzczOGE1MDhjMTZmMTg1YWQ1OTM3MTNm`

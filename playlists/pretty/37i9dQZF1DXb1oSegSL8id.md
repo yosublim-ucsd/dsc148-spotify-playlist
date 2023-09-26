@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,285 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,298 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 99 | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3) | 3:43 |
 | 100 | [O Ex da Sua Vida](https://open.spotify.com/track/17Gh6E6eRfAAw7sCgmnkFc) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 2](https://open.spotify.com/album/4AmYNtcUeuaLZfQo5uDTKh) | 2:59 |
 
-Snapshot ID: `MCw2M2M5ZDk1YTRhZmU1YWMwNTE4MjM0NGMzOWUyZjAwMzdhMDUzZjU1`
+Snapshot ID: `MCw1NTlkZjFmOGFhYzYxN2Y2NmQ5ZTI2NWFlY2ExZWVjZDZkM2I2NTk5`

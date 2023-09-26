@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,108,729 likes - 750 songs - 1 day 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,109,117 likes - 750 songs - 1 day 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 749 | [Sweetheart Saga](https://open.spotify.com/track/2mNdHkeA9NB8Rbk9SPy1VB) | [Eazy Lotus](https://open.spotify.com/artist/6yA8bNfaBNdvoDuhna5xvk) | [Sweetheart Saga](https://open.spotify.com/album/1AsAl2zH5uLcZCWpdG1bXm) | 2:37 |
 | 750 | [something more](https://open.spotify.com/track/5egZzJoPjAXslj6ajJus7Y) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [something more](https://open.spotify.com/album/7FAcKnKzO9wHJgSLSXgydm) | 1:12 |
 
-Snapshot ID: `MCxhYzQzZGZkMzA5OTQ1OTdkMmY4N2EyMzgzNzNjMDY3MGIxYzIyNzBi`
+Snapshot ID: `MCw1ZWM2MDAyYzA3ODQ2YzM3YzNkNjkwZTYyYTQyYjM4NTYzZDg2MzY4`

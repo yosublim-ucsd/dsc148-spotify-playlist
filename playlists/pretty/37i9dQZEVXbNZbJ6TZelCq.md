@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Romania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,732 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,735 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 | 49 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
 | 50 | [IN LIPSA TA](https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Iustin](https://open.spotify.com/artist/6DLSa5TygaSHU61aI2TPYY) | [BULIBA$HA \(Deluxe\)](https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV) | 3:12 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

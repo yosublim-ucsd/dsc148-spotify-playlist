@@ -3097,6 +3097,28 @@
     },
     {
       "album": {
+        "name": "Panj Satt",
+        "url": "https://open.spotify.com/album/5YVd0ufS3Mla3KvQ7O4Xau"
+      },
+      "artists": [
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        },
+        {
+          "name": "Sukh Lotey",
+          "url": "https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189767,
+      "name": "Panj Satt",
+      "url": "https://open.spotify.com/track/6eqb8wEXFn5Xnk0myqmgHY"
+    },
+    {
+      "album": {
         "name": "Saroor",
         "url": "https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG"
       },

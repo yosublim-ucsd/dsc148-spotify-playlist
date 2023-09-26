@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,359 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,461 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 99 | [Only You](https://open.spotify.com/track/3JMjKtZBlmYQ6oApn5LlEv) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Only You](https://open.spotify.com/album/4zRnBolEfHIHCAMUZWbXG8) | 3:42 |
 | 100 | [Birth](https://open.spotify.com/track/0McTGe6ZnZuPdj4Nhufesa) | [Runah](https://open.spotify.com/artist/1t7LGsCYaXFaDW6GiAuaNI) | [H\. B\. M\. T.](https://open.spotify.com/album/68LwK6oD8UHl2el001VB9X) | 4:08 |
 
-Snapshot ID: `MCxjZTdkZTFkZjQ5NzllMGI3ODQxNzIyMGE5MDRhNzM3MjRiYjc1NGM2`
+Snapshot ID: `MCw1OGM0ZTNmY2RiOThlZTNiNWViN2IyOWFhNGEzZGE4ZjhjOThhYzll`

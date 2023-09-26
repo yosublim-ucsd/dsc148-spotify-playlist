@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,860 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,864 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 49 | [Upendo Wa Yesu](https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Hapa Nilipo](https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz) | 4:21 |
 | 50 | [KELELE ZA USHINDI](https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ) | [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR), [ZORAVO](https://open.spotify.com/artist/5sIE91Ntm4PJPeC7e50dlQ) | [KELELE ZA USHINDI](https://open.spotify.com/album/3dLNLUO9a16EoyEwVGewzp) | 3:41 |
 
-Snapshot ID: `MCxjODRiNjMwN2NkZDI5MTJkMjc2Y2VmODdjZjM1MjI1ZDI3ZWQ1NzVh`
+Snapshot ID: `MCw3MWZkNjY3MzNkYzFkN2ViZWRkOTZkYmE3ODhiY2QxMTMxMDQ0YTgy`

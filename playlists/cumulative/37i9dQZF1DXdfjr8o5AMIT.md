@@ -4,7 +4,7 @@
 
 > The quintessential list of songs to celebrate commencement\. Congrats to the Class of 2023!
 
-167 songs - 10 hr 40 min
+168 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [All I Do Is Win \- Feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross](https://open.spotify.com/track/0RIHDrcRAXtUlnkvTYPW1a) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [All I Do Is Win \(Feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/album/3Z0AjyYRhz6uqasC49gt7w) | 3:50 | 2022-05-12 | 2022-07-27 |
 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 | 2021-05-04 | 2022-05-13 |
 | [All The Stars \(with SZA\)](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:52 | 2021-05-04 | 2022-05-13 |
-| [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2022-05-17 |  |
+| [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2022-05-17 | 2023-09-26 |
 | [Best Day Of My Life](https://open.spotify.com/track/5k31cAfP8yymw8v0AYQIjr) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Best Day Of My Life](https://open.spotify.com/album/3KEPRnqIELnO99csbeizVy) | 3:14 | 2022-05-12 | 2022-07-29 |
 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 | 2022-05-23 |  |
 | [Build Me Up Buttercup \- Mono](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 | 2021-05-04 | 2022-05-13 |
@@ -74,6 +74,7 @@
 | [Graduation \(Friends Forever\)](https://open.spotify.com/track/45V4Mk7vZV2b9JfSWuUX9m) | [Vitamin C](https://open.spotify.com/artist/3OsUvoKmZA2gw8rETtxGlz) | [Vitamin C](https://open.spotify.com/album/1LbkPqgfdATHN9nonNp1np) | 5:40 | 2021-05-04 | 2022-11-13 |
 | [Graduation \(with Juice WRLD\)](https://open.spotify.com/track/6cjSh516BbrNUs213jDAGm) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Graduation \(with Juice WRLD\)](https://open.spotify.com/album/669dgT2kmrAMrrPaEEHWyE) | 2:57 | 2021-05-04 | 2022-05-17 |
 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 | 2022-05-17 | 2023-09-15 |
+| [Happier](https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/2u4Yp2ADTKYPwFSBFL4ffa) | 3:34 | 2023-07-28 |  |
 | [Hey Brother](https://open.spotify.com/track/4RXpgGM7A4Hg7cFBoH5KyF) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/1s9tU91VJt4sU5owi29GD3) | 4:15 | 2022-05-12 | 2022-07-27 |
 | [Hey Brother](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:15 | 2022-05-23 |  |
 | [Hey Look Ma, I Made It](https://open.spotify.com/track/22oEJW6r2rMb9z4IntfyEa) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 2:49 | 2021-05-04 | 2022-05-13 |

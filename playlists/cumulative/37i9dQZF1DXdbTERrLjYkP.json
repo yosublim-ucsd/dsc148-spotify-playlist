@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "serious person (part 2)",
+        "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198631,
+      "name": "alien",
+      "url": "https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I"
+    },
+    {
+      "album": {
         "name": "All I Ever Asked",
         "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
       },
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 208513,
       "name": "emergency contact",
       "url": "https://open.spotify.com/track/1H9PD84EannawT2KAeBlul"
@@ -5913,6 +5931,24 @@
     },
     {
       "album": {
+        "name": "MESS",
+        "url": "https://open.spotify.com/album/3onqYrRIrhwsE9reWrFtlH"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "MESS",
+      "url": "https://open.spotify.com/track/21yX9e6vaRE8dfsptqFqKf"
+    },
+    {
+      "album": {
         "name": "messy",
         "url": "https://open.spotify.com/album/161GbVxhgPvPoNFsoGBnEn"
       },
@@ -9120,6 +9156,24 @@
       "duration_ms": 160677,
       "name": "Watching TV",
       "url": "https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd"
+    },
+    {
+      "album": {
+        "name": "CHAPTER 4: The End",
+        "url": "https://open.spotify.com/album/1I3cIvKGqoFQKnlLFhT9Lx"
+      },
+      "artists": [
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168973,
+      "name": "Watercolor Flowers",
+      "url": "https://open.spotify.com/track/6l9MmERiCcHyTIU3fZI9Gt"
     },
     {
       "album": {

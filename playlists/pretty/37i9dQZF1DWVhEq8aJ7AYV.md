@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,368 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,381 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 74 | [Surfs You Right!](https://open.spotify.com/track/3RB3YqLO7eV8VDogl73bLg) | [Laika & The Cosmonauts](https://open.spotify.com/artist/6UmSNX1sClVl8rYnig3t9i) | [Cosmopolis 1988\-2008](https://open.spotify.com/album/6bqafutEdknOXRTPcdGuLC) | 1:59 |
 | 75 | [The Last Wave](https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q) | [The Volcanos](https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i) | [Surf Quake!](https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz) | 2:07 |
 
-Snapshot ID: `MCwzMWJmZTJiY2QxNGQyMzgxNzU2ZjdkY2VjMzc0YTcyMmI1MzhmYjRj`
+Snapshot ID: `MCw1NDY0YmFkYjJmMzBjYTdjMmZlYzg5ZmIzY2IyNmRmNDNhMzViYjNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,851 likes - 70 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,869 likes - 70 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 |
 | 70 | [Ask](https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l) | [Dual Sessions](https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp), [Style Project](https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh) | [Ask](https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD) | 2:20 |
 
-Snapshot ID: `MCw0MzlkMWI4MWM3ZWE4NTIzYWRhNmMwMWVhMjlhODBkNjM4MzIyZGI1`
+Snapshot ID: `MCxiODQ2NzRhY2ZiNWM4ZmQ3NTZhMWYzYjFiMjgzYjRhZDVlZDY5NmY1`

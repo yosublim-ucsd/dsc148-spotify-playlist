@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Cover: Appino
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,796 likes - 66 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,803 likes - 66 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 65 | [Sbaglio peggiore](https://open.spotify.com/track/3496cFB078fy8zXdX108Gr) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Sbaglio peggiore](https://open.spotify.com/album/5svg1vlynhxUiqyJfrCJjG) | 3:14 |
 | 66 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 |
 
-Snapshot ID: `MCw3NDBhMDE1ZDM2ZTU3ODMyODY2NWM4M2FhNDk2NWNhM2QxYzdhNGEz`
+Snapshot ID: `MCw3NGZlZDE3MGQ0ZDJlOGIwMDI2OWZhNmI3MDIzZWQyMjM3OTQ5OGNm`

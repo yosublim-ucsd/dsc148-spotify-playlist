@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Stairway to Heaven (Live At The Kennedy Center Honors)",
+        "url": "https://open.spotify.com/album/0R1bzKE9eDnJuozWK253BL"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478819,
+      "name": "Stairway to Heaven (Live At The Kennedy Center Honors)",
+      "url": "https://open.spotify.com/track/6gOgTWY8trzXja4ZfmqFKt"
+    },
+    {
+      "album": {
         "name": "Appetite For Destruction (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
       },

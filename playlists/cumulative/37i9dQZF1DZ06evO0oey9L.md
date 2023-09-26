@@ -4,7 +4,7 @@
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 3 min
+82 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [La Gente Nueva](https://open.spotify.com/track/5vyDbihMtrtyrKp6xUW8Gq) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:37 | 2022-08-11 |  |
 | [La Internacional](https://open.spotify.com/track/6T0FTw6tAOUbeMIvGV7WrX) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [La Internacional](https://open.spotify.com/album/5lOudBxycPSzUC6GKDQ2Cs) | 2:39 | 2022-12-25 |  |
 | [La Moneda Vueltas Dio](https://open.spotify.com/track/0HdwsDCUpvVm0f9mPvGaRk) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 3:29 | 2022-07-26 | 2022-08-10 |
-| [La Moneda Vueltas Dio](https://open.spotify.com/track/7aMuodDbZvgLOPk3zRReqJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 3:29 | 2022-08-09 |  |
+| [La Moneda Vueltas Dio](https://open.spotify.com/track/7aMuodDbZvgLOPk3zRReqJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 3:29 | 2022-08-09 | 2023-09-26 |
 | [La Noche Anterior](https://open.spotify.com/track/0eDNOhglSxYP2r4jelyE1a) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [La Noche Anterior](https://open.spotify.com/album/1fz4sp1j66qf159oNik9zv) | 3:33 | 2022-06-01 | 2023-06-06 |
 | [Lo Que Me Distingue](https://open.spotify.com/track/2evqVdCxI2wKa5G0fjnEgB) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:16 | 2022-06-01 |  |
 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 | 2022-06-01 |  |
@@ -72,6 +72,7 @@
 | [Peter King Kong](https://open.spotify.com/track/3gv9PZLhs2c87MEcy6zOfu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:43 | 2022-08-12 |  |
 | [Peter King Kong](https://open.spotify.com/track/4CJGVxXvB3PIqRgnmFBIo8) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:43 | 2022-07-23 | 2022-08-13 |
 | [Polvo De Angel](https://open.spotify.com/track/0AprGMXtG62kJk1gMwnk4Q) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Polvo de Angel](https://open.spotify.com/album/0oFAjjQ2LwtJuO17g9YEvM) | 3:15 | 2022-06-01 |  |
+| [Que Linda Se Le Ve](https://open.spotify.com/track/2OqxU44QdNmVanpNxqHBbe) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Que Linda Se Le Ve](https://open.spotify.com/album/7Jjms4SHlgcXgiK9aZKO2O) | 3:12 | 2023-09-25 |  |
 | [Que Me Va Mal](https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:05 | 2022-06-01 |  |
 | [Salvame](https://open.spotify.com/track/7q32Q7n5p2DeVQ3lClXfl8) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Salvame](https://open.spotify.com/album/2qeh4FNql0C7JKzDNpdBSK) | 3:37 | 2023-03-21 | 2023-05-20 |
 | [Se Oyen Recio Los Disparos](https://open.spotify.com/track/6qqICh8gOle9spzdSru35F) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:06 | 2022-06-01 |  |

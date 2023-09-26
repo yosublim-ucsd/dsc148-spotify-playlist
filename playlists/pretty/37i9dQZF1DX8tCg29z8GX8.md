@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > Beat the traffic blues with these killer tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,598 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,606 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 79 | [Kolo Kolo](https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Kolo Kolo](https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u) | 3:15 |
 | 80 | [Life & Money \- Remix](https://open.spotify.com/track/0zsh54Zhz2os1mEzgqnUpF) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Life & Money \(Remix\)](https://open.spotify.com/album/6UvYqIIOIE9pw7H7SqeS50) | 3:04 |
 
-Snapshot ID: `MCxlNWUwOGI4YWJjYzM4N2NjODhlOTFiZDBjN2QzMDYyNjgxYjJlZWQ3`
+Snapshot ID: `MCxkYjg4NTViZTQ2YTJiNTVmYjg3NDQ4YmYwOWQ4OWM5MTUzYTMzZGE3`

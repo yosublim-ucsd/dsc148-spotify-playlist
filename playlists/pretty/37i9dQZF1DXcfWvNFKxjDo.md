@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: The Chainsmokers, Alok, Mae Stephens
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,751 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,317 likes - 74 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 7 | [I Follow Rivers](https://open.spotify.com/track/2hBG8hwCNBzwNOOTa4elCG) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [I Follow Rivers](https://open.spotify.com/album/0yABlHaS4pa0AuNkNFoXEI) | 2:30 |
 | 8 | [Come To Me](https://open.spotify.com/track/1otEy9kQnCyhQa1qvl7KoM) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Come To Me](https://open.spotify.com/album/6CBguKwAueet7ftDs2m9cq) | 2:33 |
 | 9 | [Believe](https://open.spotify.com/track/2iRQKePYqxqXLW01HCVZzG) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Believe](https://open.spotify.com/album/6ZWhhiys8UVoTKSVQdklan) | 2:09 |
-| 10 | [Love All Night](https://open.spotify.com/track/2OiDl6bWeHjHBXC97Uzuby) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Love All Night](https://open.spotify.com/album/0hBdeY8XlSoOuuZ12rXu3d) | 3:33 |
+| 10 | [Love All Night](https://open.spotify.com/track/2OiDl6bWeHjHBXC97Uzuby) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Love All Night](https://open.spotify.com/album/0hBdeY8XlSoOuuZ12rXu3d) | 3:32 |
 | 11 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 | 12 | [Better Me](https://open.spotify.com/track/7JStcVqmZ7NbI76tRerzaB) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Better Me](https://open.spotify.com/album/5IYf8D3VoKSaFcDJm6o9qL) | 2:46 |
 | 13 | [To The Lonely](https://open.spotify.com/track/2wmvhQA5gU0SjAZqtSU2nL) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [To The Lonely](https://open.spotify.com/album/391yphNvGTzzWHgNS909qu) | 2:10 |
@@ -80,8 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 70 | [U Fool](https://open.spotify.com/track/1FFjMvlFNNr4OfXjbQaGOJ) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [U Fool](https://open.spotify.com/album/4Ic0bjOCuwSglRn1KnC5fB) | 3:47 |
 | 71 | [Be Forever](https://open.spotify.com/track/57i7s7mYtdRP4hgnSpHEOG) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [Be Forever](https://open.spotify.com/album/3FlPHbTYVAWuK5dXCq7dBh) | 2:37 |
 | 72 | [Right Now](https://open.spotify.com/track/6XJztU6tcpxFekSH98chJb) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Right Now](https://open.spotify.com/album/5MuRcJoSFMoCqXOtAK6Fh9) | 2:32 |
-| 73 | [Plattenbau Hymn](https://open.spotify.com/track/1ulZwOBvcrHT1YA30SYSjp) | [Blondee](https://open.spotify.com/artist/6ymkSFIoNAvBkgokkzbUtC), [Marv](https://open.spotify.com/artist/64hJwJas2snPX2t0qGs1QK), [AlphaBeat](https://open.spotify.com/artist/04o0rPPYzJOXWvOb2Z41Y9) | [Plattenbau Hymn](https://open.spotify.com/album/4lj3sRIWmKw31pBOjxMwYF) | 4:41 |
-| 74 | [Tudo Bem, Tudo Bom \- Radio Edit](https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Tudo Bem, Tudo Bom](https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn) | 2:58 |
-| 75 | [Safe & Sound](https://open.spotify.com/track/2cHXFZElaXZ8G74JMxraAj) | [Chany Dakota](https://open.spotify.com/artist/5oN5sCm0yGqy2EhMnfNxYf) | [Safe & Sound](https://open.spotify.com/album/6m5S1TNKQGtXCKGLuIFQy9) | 2:10 |
+| 73 | [Tudo Bem, Tudo Bom \- Radio Edit](https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Tudo Bem, Tudo Bom](https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn) | 2:58 |
+| 74 | [Safe & Sound](https://open.spotify.com/track/2cHXFZElaXZ8G74JMxraAj) | [Chany Dakota](https://open.spotify.com/artist/5oN5sCm0yGqy2EhMnfNxYf) | [Safe & Sound](https://open.spotify.com/album/6m5S1TNKQGtXCKGLuIFQy9) | 2:10 |
 
-Snapshot ID: `MCw3YzVmMjAzZWIzMjQwNWM5ZjljODc3YjU2MGM4YzA1YWZmMTI2Njhj`
+Snapshot ID: `MCw3Zjg4MGE2ZWEyNzM1OGRjMzEyNjQ5NGI4YzA4YTlhNmVkOTIwMWJk`

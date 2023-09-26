@@ -4,7 +4,7 @@
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Marwan Moussa
 
-320 songs - 16 hr 35 min
+321 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 | 2022-05-08 | 2022-08-24 |
 | [Babel](https://open.spotify.com/track/2GFTYKi8fUQLUdBrEQcx8b) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Babel](https://open.spotify.com/album/1Xm9f3GltPZRXz87dneSDO) | 4:15 | 2023-02-28 | 2023-09-19 |
 | [Baby Blue](https://open.spotify.com/track/46wGwb238XBRZru8F7tDWu) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Law Makonash 7awelna](https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7) | 2:42 | 2022-11-28 | 2023-04-01 |
+| [Bader Khol3a](https://open.spotify.com/track/2O4fl7UvPHbledhgyHjTio) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Bader Khol3a](https://open.spotify.com/album/5XhXrx2BTXQqIndy969kez) | 2:12 | 2023-09-25 |  |
 | [Baghdad Drill](https://open.spotify.com/track/60uzhZIfzwoMnJZ3eZ3tuk) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Baghdad Drill](https://open.spotify.com/album/3Hm4AUiaym0kardXgz1qJl) | 3:10 | 2022-06-23 | 2022-10-04 |
 | [BAHZ](https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [BAHZ](https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ) | 2:59 | 2023-04-01 |  |
 | [Ballade](https://open.spotify.com/track/2if1mh9z5mNLYttJCctar2) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [Ballade](https://open.spotify.com/album/1I8Nfn58ch3VjjR95fHPPC) | 2:50 | 2023-04-01 | 2023-05-10 |
@@ -160,7 +161,7 @@
 | [Leh Nehzar](https://open.spotify.com/track/0vE3QsIZEyespCVUntPOa9) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Leila](https://open.spotify.com/album/0apSvBI2Dw5KWkIKdBPFSJ) | 2:28 | 2023-08-19 |  |
 | [LELLY YAH](https://open.spotify.com/track/1SSymcmcSI1oYQtwOA8mOJ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [LELLY YAH](https://open.spotify.com/album/3zxpokbqTOtT3pry7cNhSK) | 3:09 | 2023-04-01 | 2023-07-04 |
 | [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 | 2023-05-31 |  |
-| [LkLk](https://open.spotify.com/track/5VZ8DEWkAQfd7SZi0t2OAs) | [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [LkLk](https://open.spotify.com/album/7JUPrKv0iiM5WIWYmL1wv9) | 3:23 | 2023-07-03 |  |
+| [LkLk](https://open.spotify.com/track/5VZ8DEWkAQfd7SZi0t2OAs) | [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [LkLk](https://open.spotify.com/album/7JUPrKv0iiM5WIWYmL1wv9) | 3:23 | 2023-07-03 | 2023-09-26 |
 | [Log Out](https://open.spotify.com/track/1YiPDGI9L8ERpONcjJMnQ6) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Log Out](https://open.spotify.com/album/5mbQyV2VEJ8ybCQvOBVYmL) | 2:48 | 2023-04-01 | 2023-06-01 |
 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 | 2022-10-04 | 2023-01-12 |
 | [LOKLOK](https://open.spotify.com/track/5nXheavFnyhPyQXdO0jL3u) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Farra](https://open.spotify.com/artist/4jaR2Xjm4FXiPM3JB1l0rT) | [LOKLOK](https://open.spotify.com/album/7rMduOQflk9P9TnxwRjs4X) | 3:39 | 2022-07-04 | 2022-10-04 |

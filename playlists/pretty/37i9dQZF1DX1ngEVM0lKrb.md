@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ngEVM0lKrb.md) - [plain]
 
 > Lo mejor en inglés de la última década\. Para novedades, escucha <a href="spotify:playlist:37i9dQZF1DX6aTaZa0K6VA">Pop Up</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,753 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,885 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ngEVM0lKrb.md) - [plain]
 | 149 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
 | 150 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 |
 
-Snapshot ID: `MCw0NGNmMWZhYzIwMTdjYjNjOWFmZDBhOTgyYTVjMWRiNjE0OWQ1NzVj`
+Snapshot ID: `MCxiMTgyNjVmNTFmNWFlZDhlN2RkMmRlODY0MWIwNDdkYTc3NTdhNGEx`

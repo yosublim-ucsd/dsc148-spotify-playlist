@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,297 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,301 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [Finest Hour \(feat\. Abir\) \- Acoustic Version](https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [Acoustic Collection \(Vol\. 1\)](https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk) | 3:01 |
 | 100 | [I Could Be The One \[Avicii vs Nicky Romero\] \- Noonie Bao Acoustic Mix](https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\] \(Remixes\)](https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0) | 3:51 |
 
-Snapshot ID: `MCxlOTRjZDEzZGMyMWRiMTg3YTkzNWUzZWI1NzI3NWFmNzdkNGMyYWE0`
+Snapshot ID: `MCwyODI5NmI2MDRkYmQwZTk4ZDJmN2NiODcyYzgzZWYwNzVjMjMzYzkz`

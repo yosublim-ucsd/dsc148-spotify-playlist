@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,110 likes - 80 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,146 likes - 80 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 |
 | 80 | [Jesus Oh](https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Jesus Oh](https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL) | 4:15 |
 
-Snapshot ID: `MCw2NDQ5NTM1M2U3OWZjY2M1YTFmMWUwMjBjNGE1ODQ1N2FiMGI5OWMx`
+Snapshot ID: `MCw2OTA5NGQ2ZmEzMGIzZWVjYjRhMGM5ZGIyNTY2NjE1YmE5ZGJlYTBk`

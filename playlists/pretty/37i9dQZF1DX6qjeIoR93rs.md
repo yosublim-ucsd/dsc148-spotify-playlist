@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,558 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,562 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 69 | [NAS](https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [NAS](https://open.spotify.com/album/2sF5JJiuI034l5IlblUrVz) | 5:26 |
 | 70 | [Room](https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7) | [Fadi Ammous](https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi) | [Room](https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX) | 2:37 |
 
-Snapshot ID: `MCwwNGY2OTMxMGUzZTk5YzU1OTk0YWViNWY0NDg3YzQ3NjZhZmNkNzQx`
+Snapshot ID: `MCxiYjE2ZDJmNjYzMGZjZjlmYWViODQxZjY0M2M4MmRlZWZlYjU0ZDE3`

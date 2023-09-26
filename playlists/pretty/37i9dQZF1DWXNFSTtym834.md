@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,602 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,831 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 99 | [Panic Attack](https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Octavarium](https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP) | 8:13 |
 | 100 | [Ich tu dir weh](https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da](https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z) | 5:01 |
 
-Snapshot ID: `MCxmZjNmMTk3MGUyNDY4MjBlZDI2NzNhMDFmYThhYjdmNmNiMDliMTUx`
+Snapshot ID: `MCxjMzQ1YjlhOGI5ZTc5NTQwYTJmOTdlM2EyM2JlODZmNjQ0ODI2Yzgw`

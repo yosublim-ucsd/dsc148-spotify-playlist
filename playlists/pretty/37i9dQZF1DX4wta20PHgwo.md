@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,057,101 likes - 200 songs - 18 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,057,188 likes - 200 songs - 18 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 199 | [As We Were \(feat\. Jared Gold & McClenty Hunter Jr.\)](https://open.spotify.com/track/2GVoBRIR777NoOppqPa5ie) | [Dave Stryker](https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6), [Jared Gold](https://open.spotify.com/artist/5jrT4GPD1AtHhvHR3hTsvW), [McClenty Hunter Jr.](https://open.spotify.com/artist/1d6NjSLLkNWEu6PZ04WfSs) | [Prime](https://open.spotify.com/album/4UkZ8MAwpMb0eGt82Q2QvI) | 5:25 |
 | 200 | [Wise Woman](https://open.spotify.com/track/7116LjcE1UuAqKJiQRwXhK) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 3:46 |
 
-Snapshot ID: `MCxlZjkyMjM3MDY0M2E4MGUwNzViODVkMzIyM2FhYzQ5ZmVlMDExYTY4`
+Snapshot ID: `MCwxMGMwNjZkZmUzYmNkMTdjZTRjM2Y3MTU1ZWE1MDhkY2M3M2U5Nzkx`

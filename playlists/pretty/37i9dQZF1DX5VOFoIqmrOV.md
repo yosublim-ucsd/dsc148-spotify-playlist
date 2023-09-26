@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Ala Vaikunthapurramuloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,378 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,470 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 99 | [Idhe Kadha Nee Katha](https://open.spotify.com/track/344RDDZ8T7QFFqIT377ZOX) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Maharshi](https://open.spotify.com/album/3wAsZ0sTfkJvspCMlW5azC) | 2:48 |
 | 100 | [Bheemla Nayak Title Song](https://open.spotify.com/track/6BiLK0zV9MULmHcM7G7L2W) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Prithvi Chandhra](https://open.spotify.com/artist/2sXOEThmg7BmZ5qQVI01x7), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Bheemla Nayak](https://open.spotify.com/album/3LDf8zucVQthBeANPECHkk) | 5:10 |
 
-Snapshot ID: `MCwyNjQ5YTcwYzg2NTc0OGQ3ZTgyNTI4MDJhMjM2NTI4NWEwYjc5NWE3`
+Snapshot ID: `MCxmN2Y1YjVhZjlkOTY0OGM4ODYwZTE1YTNkNmJmNGJjMWM2YzYzYjdm`

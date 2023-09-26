@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4osfY3zybD2.md) - [plain]
 
 ### [Retro Running](https://open.spotify.com/playlist/37i9dQZF1DX4osfY3zybD2)
 
-> ¿Quieres hacer un recorrido por la nostalgia?
+> Up for a nostalgic running session?
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,745 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,845 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4osfY3zybD2.md) - [plain]
 | 49 | [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:38 |
 | 50 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
 
-Snapshot ID: `MCw4YzQ2MzRkNzkwNTI2YzFmYWMxOTgwZTE5MDFjZWEyYTRlODNlZmM1`
+Snapshot ID: `MCwwOWI0ODgyODVlNGFjNTRmNzY4NWU3MjIyMjQ5MDE1MzE4ODJkYjgy`

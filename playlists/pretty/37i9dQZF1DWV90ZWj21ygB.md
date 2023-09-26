@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 
 > Relax to the roaring sound of crashing waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,508 likes - 200 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,567 likes - 200 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 | 199 | [Crossing The Ocean](https://open.spotify.com/track/4O8lOmcW7R6CRtRoqU3ImI) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Algarve Soothing Waves](https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy) | 3:07 |
 | 200 | [Wave Sounds For Relaxing](https://open.spotify.com/track/0MP9WzkvFrUN7eja22ssTm) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [2021 Wave Sounds](https://open.spotify.com/album/6Fy1yge1iqKMl4cnlunDg8) | 3:26 |
 
-Snapshot ID: `MCxiNjc0MmYwNGJiMDZmZDJhZDA4ZGQ1MzU4NDJkNDYzMDRiZjhmMDEw`
+Snapshot ID: `MCwxNGNhYjBiNzFiZTY3ZDQxMDQzNzJlNTAyMWZlYTQxNDRkMjMyOTQ2`

@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Juneau",
+        "url": "https://open.spotify.com/album/7vmCr91Hlwofzj7tVZqg81"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "Kiss And Makeup (All Bets Are Off) - Radio One Rock Show",
+      "url": "https://open.spotify.com/track/0kW8jLewouNxnXogAJAG7Q"
+    },
+    {
+      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/3789JMOmSmuDeNlBQ5TSZK"
       },

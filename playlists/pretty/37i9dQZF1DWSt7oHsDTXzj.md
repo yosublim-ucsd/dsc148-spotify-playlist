@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 74 | [Christmas, Hopefully](https://open.spotify.com/track/6d6BgnJ28MtFLtx0N0hR3y) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Christmas, Hopefully](https://open.spotify.com/album/7AiajSCAGYAg6Xqev65K9J) | 4:01 |
 | 75 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 
-Snapshot ID: `MCw5NjUxOWNlYWY0ZjFmMjg2ZDg4M2Q3YjAwZWE1NzMxZGU1NzZkYmJj`
+Snapshot ID: `MCw4ODcxNTczMmM2NDcyMzg3NjgxODI3OTQ1NjY3NGJhMjI2ZGMzMzgx`

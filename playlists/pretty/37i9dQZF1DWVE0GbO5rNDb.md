@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Hit dance per l'estate 2023! ☀️🍹🏝️
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,788 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,796 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 99 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 | 100 | [Revolution](https://open.spotify.com/track/3CTLH5sQ7doPG5ZQrF7NN5) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Revolution](https://open.spotify.com/album/3gWdVvk4ba5ibey7MBDEvd) | 2:31 |
 
-Snapshot ID: `MCxkOTQ0M2E2MmY3MTU4MDRmNDk2MmJiMzM4MzM2OTNhMWI0NzI5ZTk4`
+Snapshot ID: `MCxhYmQ5YTY5NjhhYjYzNzc3ZmQ0ZDgxYWE1YjU3ODhmMGVmMGI2Yjlm`

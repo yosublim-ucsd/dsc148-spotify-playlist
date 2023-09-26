@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,451 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,449 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 99 | [Navidad](https://open.spotify.com/track/3JH8P81S1bWU4CDsIBDzYl) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Bachatero En Navidad](https://open.spotify.com/album/700I6ALf2ZqgfZvquxrjFM) | 4:39 |
 | 100 | [Mi Burrito Sabanero](https://open.spotify.com/track/28CjlMRoxzAfOZn4xLtPFE) | [Adrienne Houghton](https://open.spotify.com/artist/3v2b4owGaN9d2bSdsZMWxR), [Freddy Bailon](https://open.spotify.com/artist/0ESKplh2Ij1mnqLPBEVFEg), [Claudette Bailon](https://open.spotify.com/artist/2vY0NRoqIMLAONc7BDA6m7), [Beau Harper](https://open.spotify.com/artist/6ZPbnYYAIkLm4yWlOYfAV8), [Jet Marie](https://open.spotify.com/artist/2rjwCF0hFlm3cWhWOERBCI) | [New Tradiciones](https://open.spotify.com/album/5v1TBoDdIpAYApHIESFKVl) | 4:32 |
 
-Snapshot ID: `MCw0MDRlZTE2NWI3MWM4OTA5MzI0NmNkMDRiYTU5Njk0MWVkZGIxZGUz`
+Snapshot ID: `MCw4ZWRkMjcyZjNlNjQzNjg2ZGVmODU1NDAzMTA2YWZlM2NkYzEzZDIw`

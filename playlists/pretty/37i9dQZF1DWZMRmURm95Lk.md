@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. DJ Shocca, Guè ed Ele A in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,446 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,452 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 99 | [Pioggia infinita](https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [Storie d'amore con pioggia e altri racconti di rovesci e temporali](https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky) | 3:50 |
 | 100 | [Dio lodato per sta chanche](https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN) | [Joe Cassano](https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL) | [Dio lodato](https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV) | 4:20 |
 
-Snapshot ID: `MCwwMWQ1ZTliM2NhNWMwYTk3YWM0YWE0NDQ1NTAyYzgwMTM2OTcyMDgx`
+Snapshot ID: `MCw0YmNmMzhmYzNkODE5ODAxNzQ2ZjljMWI3YzNjMTNjZmYwZGI0NmFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 
 > Dosis musical para disfrutar el momento\. Foto: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,349 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,361 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 59 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 |
 | 60 | [PPF](https://open.spotify.com/track/2ymcOM99m8PUhze7FxpG1A) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [PPF](https://open.spotify.com/album/7JyeeHFwzbyMCRBMrf7hWO) | 3:18 |
 
-Snapshot ID: `MCw4MmQzOGYwYWRhMTI0ZDQ1MjQwNGZlNWY2MDc2OTQ1OWFhNzk2ZThi`
+Snapshot ID: `MCxjOWQ3ZDJmNTA5YWU0OWJiNDZmZDE4YTM0MDY0NDg4YzJkMWQxY2Zl`

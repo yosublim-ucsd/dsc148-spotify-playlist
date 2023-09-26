@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Kenya Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,837 likes - 150 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,842 likes - 150 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 45 | [Thinkin Of U \- Club Mix](https://open.spotify.com/track/2SGfFXzi5LhqGmTGSzIGYx) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Thinkin Of U](https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS) | 3:35 |
 | 46 | [Sapphire](https://open.spotify.com/track/7c2KxaKXubBqTS3juqe85M) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Brain Theory](https://open.spotify.com/album/0LP3ZVvvlEg1ABh0BiG7Zp) | 3:24 |
 | 47 | [XTC](https://open.spotify.com/track/2ue7BMHrkz44k9Yxg0bq3o) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [XTC](https://open.spotify.com/album/2fOLGzu0x0JVuV7rTuGJXE) | 3:12 |
-| 48 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 |
+| 48 | [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 |
 | 49 | [In Luv](https://open.spotify.com/track/5TqJk3sBqryMoZqKMYxUnG) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [In Luv](https://open.spotify.com/album/0K4faqdamNDNazCkrhcT0l) | 5:22 |
 | 50 | [Beautiful \(2023 Edit\)](https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Beautiful \(2023 Edit\)](https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS) | 3:04 |
 | 51 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [Everything U Do](https://open.spotify.com/track/0qX63a02yvrn8QWwEW7ru0) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [Everything U Do](https://open.spotify.com/album/1pfYmqEtcekKD2qXWD70ql) | 2:49 |
 | 150 | [BFF ∞](https://open.spotify.com/track/6ZD4kUMlsur1pzcyLUAJR8) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [STARBORN \(mixtape\)](https://open.spotify.com/album/0yPEAiOzEmWEDeRd1tj78N) | 1:59 |
 
-Snapshot ID: `MCxmY2VlOWRlYzcwZTQ4MmFkZjUyOTA1OGU4Mzg2NjlhOGUwODViNGI2`
+Snapshot ID: `MCwwNjBlNTYzZTA4NTYyZWI4ODY2NDJmZWZlOTM1ZThlNDMzODllNzhl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: Laufey.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,469 likes - 150 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,494 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 149 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 |
 | 150 | [Lock Me In](https://open.spotify.com/track/3hXRbjdYypplIQ7IW1ESAS) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Cherie](https://open.spotify.com/album/56ZxNy9wDdnNISCpTMMwes) | 2:14 |
 
-Snapshot ID: `MCw1ZjQ3NGJmOWJhYzEwY2MwNDNiNDE0YzVkNDc1ZWZjZDc5YzU4ODc3`
+Snapshot ID: `MCw4YTRlY2VhMzRjNzk1NTY4NzM0ZjhmNTlhOGRmYTJjNmRhNDU5YzA3`

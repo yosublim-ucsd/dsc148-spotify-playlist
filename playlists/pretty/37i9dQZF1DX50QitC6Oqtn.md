@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Porque todo el mundo se merece una playlist con las mejores canciones pop románticas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,606,249 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,606,250 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 99 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
 | 100 | [Lay By Me](https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Melancholic](https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J) | 2:50 |
 
-Snapshot ID: `MCw4ZmM3ZjFkOTc3YTZmNzlkYjM4OTQ3ZWYzNTNkZmJjYzEyOGY2Yzg5`
+Snapshot ID: `MCw4YjJhMzlmNDM1YjZjODNhNTg1YWZiMDY1MWIzOTJhOGM1ZTY3NWIw`

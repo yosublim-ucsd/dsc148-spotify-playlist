@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,421 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,424 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 99 | [No Ves Tal Vez \- Evlay Remix](https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [No Ves Tal Vez \(Evlay Remix\)](https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku) | 5:13 |
 | 100 | [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 |
 
-Snapshot ID: `MCxlMzI0YWIyMzA3Y2I2NzkzMjQwMTM2NmQxMmQ4ZmRlZjA1ZWZjZWM0`
+Snapshot ID: `MCxmNTVhN2QzYmI4OTEyODgxYzA0ODQ3NTRiYjE2YzgwYWJiNWNjYjY4`

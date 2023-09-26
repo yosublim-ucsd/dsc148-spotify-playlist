@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,268 likes - 400 songs - 15 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,269 likes - 400 songs - 15 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 399 | [Growing](https://open.spotify.com/track/1hM0bs3CbgCeZXpchcKfZk) | [Zane Milo](https://open.spotify.com/artist/1TyAZC5sqnI66MFVzZ4azE) | [Growing](https://open.spotify.com/album/7uYVdPcLmeUMWyfgkuIBIS) | 1:50 |
 | 400 | [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 |
 
-Snapshot ID: `MCwyODZmOWJlMmVhMTEwMjgxNGMxY2Q1ZDgxN2QxYTQxZmQ4NmYwNmQ5`
+Snapshot ID: `MCw1ODk1ODEwNTM0OTM1MmZiZGEwOWYzYjMyZTUyYjhlZjcwMWJjZDQ4`

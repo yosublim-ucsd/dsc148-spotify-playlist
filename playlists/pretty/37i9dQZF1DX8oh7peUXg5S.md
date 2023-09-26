@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,522 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,555 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [La Puerta Violeta \- ACOUSTIC HOME sessions](https://open.spotify.com/track/47bKCfiZD9WQXR92mvSBsR) | [Los Acústicos](https://open.spotify.com/artist/5tAfcROTNt4bBxY2ARRQ7d), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [ROZALÉN \(ACOUSTIC HOME sessions\)](https://open.spotify.com/album/3zvESYWLw2GyBIj2r0RBPI) | 3:26 |
 | 100 | [Solo Pienso en Ti](https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos](https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl) | 4:11 |
 
-Snapshot ID: `MCxhMWY4NTg5MzZhZWI2YTU1ZDliMGRkNGJjMjJmYmNiMmIyYTNkOWZi`
+Snapshot ID: `MCw4NThjNTg0MDRkMmUwZmQxYzk4ODdkYWMyMDI0MDYxMjQ3Y2ZhY2Ix`

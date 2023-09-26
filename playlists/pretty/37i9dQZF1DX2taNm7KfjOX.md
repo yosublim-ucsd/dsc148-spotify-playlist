@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,615 likes - 150 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,641 likes - 150 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [Masterpiece \- solo](https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dandelion](https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD) | 4:00 |
 | 150 | [Eyes Wide Open \- From "North Star"](https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Eyes Wide Open \(From "North Star"\)](https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe) | 3:15 |
 
-Snapshot ID: `MCxkNmU3ZGQxMDRhOGIzZGMwY2M4ZjkxZWZjZDAyMDVlY2M4ZDA4MjFk`
+Snapshot ID: `MCw0OWExYmI5YmFlOWZiNTVlYTMzZjNiMzU3YjA1NzNmMjQ3OGQxZmVk`

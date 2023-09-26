@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,993 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,002 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 49 | [Khamoshi](https://open.spotify.com/track/7I1nwZimETiRW83xZv023W) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:09 |
 | 50 | [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 |
 
-Snapshot ID: `MCw2Mjg4OWVmOGY5YjFjYWY2NmQxNzdiZGMxMjQ1NWU4MDBlN2Y4NzUx`
+Snapshot ID: `MCw3NGU0ZTM3MDE2ODFiYmFmMDlhNmI1NzI2Y2NiZDYxNzcxNGExOWE4`

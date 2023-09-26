@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 
 > Discover the music of Richard Strauss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,764 likes - 58 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,769 likes - 58 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 | 57 | [Die Liebe der Danae: "Wie umgibst du mich mit Frieden"](https://open.spotify.com/track/1lDXttEeQgf55CNp8YebTF) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), [Mariinsky Orchestra](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6), [Valery Gergiev](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) | ["Homage" \- The Age of the Diva](https://open.spotify.com/album/1ctlAZPfAzx2pp8ObmA3bt) | 4:51 |
 | 58 | [Strauss, R: An Alpine Symphony, Op\. 64: XV\. Mists Rise Up](https://open.spotify.com/track/5IJlkebGlHwi0ERYgvws24) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Rudolf Kempe](https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg), [Staatskapelle Dresden](https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7) | [Strauss: Metamorphosis & An Alpine Symphony, Op\. 64](https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN) | 0:17 |
 
-Snapshot ID: `MCw4ZTk0OTdmMTc2M2IzODJhNDMyNDA2NzIyZWYxOTEyYzE4MmE5MTlh`
+Snapshot ID: `MCw5MjhhYmVkMGQxYzMzOWVmYzc1MGRjOTYwODkzNGEwMThmODhlYzYy`

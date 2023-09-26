@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,918 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,936 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Get Away](https://open.spotify.com/track/7lgdCZ0ffdewW9iThNOzda) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Get Away](https://open.spotify.com/album/1qjeZBlUEe4s54IEVJP0kp) | 2:20 |
 | 100 | [Risking It All](https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ), [Kiki Rowe](https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP) | [Risking It All](https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB) | 3:10 |
 
-Snapshot ID: `MCwzM2E3ZDMxZmE2MTE0YzNlZjM4OWEzNWEzODc3NGU4YTc5OWJlMGI3`
+Snapshot ID: `MCwyYzFlNWFmOTMzMTZkYmIzYWVlNTBkNGJjNjY1OWYxZDhiMGRiNDli`

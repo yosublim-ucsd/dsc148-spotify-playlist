@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,040 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,039 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [I'll Be There Christmas Eve](https://open.spotify.com/track/5o0IMPMQXJH6EBQ2MBKDtj) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL) | [I'll Be There Christmas Eve](https://open.spotify.com/album/2fakcoxrAy38qBMoa8uocm) | 4:14 |
 | 100 | [River](https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [River](https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs) | 3:17 |
 
-Snapshot ID: `MCxiYjBkMzcxNjgyYTc2N2FiNjIyNDdjN2ZiMjRlYjE5M2Y3NTA2MGMx`
+Snapshot ID: `MCxiOTIwM2FmNjM3OTI4MmZmMDFlMjk5MGVjMjBiMjZjYmMxYWMxYzU3`

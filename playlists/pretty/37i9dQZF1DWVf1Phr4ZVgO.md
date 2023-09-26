@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,636 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,698 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 79 | [You Make Me Feel So Young](https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:59 |
 | 80 | [There's A Lull In My Life](https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Like Someone In Love](https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP) | 3:28 |
 
-Snapshot ID: `MCwzYzUyYTNhY2Y5OWM3MjAwNDQ3Y2I1ZjE0ODgyZTIwNDUwMGRlNWI4`
+Snapshot ID: `MCw2N2ZjMTIxZDZhNWQyZjk5OGJjMWZmYzQ5YThiYmJjYzliMTc2NzMw`

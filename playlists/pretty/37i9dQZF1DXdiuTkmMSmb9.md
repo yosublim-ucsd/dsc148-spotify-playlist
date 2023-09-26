@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,821 likes - 88 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,098 likes - 88 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 13 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 |
 | 14 | [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 |
 | 15 | [Mmiri](https://open.spotify.com/track/3RrON2ZHaTy5pKMhAmwUWZ) | [Joanny](https://open.spotify.com/artist/7mNtIw5k6cbKytRLhPIye2), [Ugoccie](https://open.spotify.com/artist/7CuKOSxXKquX0y4m6lNgVz) | [Mmiri](https://open.spotify.com/album/6qL9b11LMuHltCMzFNKv9s) | 2:28 |
-| 16 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Kevin Ekofo](https://open.spotify.com/artist/67KgDYG0tKJHMXsxZme16p) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 |
+| 16 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 |
 | 17 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 |
 | 18 | [Red Light](https://open.spotify.com/track/7gV7gStLkm7ybb2WZhhksp) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Red Light](https://open.spotify.com/album/1w0t2M46PMA76fvR5rMEbo) | 2:28 |
 | 19 | [My Way](https://open.spotify.com/track/0RdWkCEgtdbxu2LkNQhFSm) | [Junior Soqeta](https://open.spotify.com/artist/1bJTmjgUdH1inz5cCpsOUA) | [My Way](https://open.spotify.com/album/1iLnbq8e557wQTI1WR4DQ4) | 3:40 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 87 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 |
 | 88 | [NOBODY ELSE](https://open.spotify.com/track/2bnNuJb9pvIJGbeXsJ8A8S) | [Adrian Dzvuke](https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go), [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [NOBODY ELSE](https://open.spotify.com/album/6cRQwq6B93zOqb6zu6lfAw) | 3:18 |
 
-Snapshot ID: `MCwwZGIyZGRjNDVjNTI2N2E3ZTI4NTVmOTQ1MGU4OWQwOTc5MWQ5Y2Nj`
+Snapshot ID: `MCw2YmNmZDhmNWEzYjZiZGUxOTU5YjI4ZDA5NTc3N2NiYzljYTE0ZTNh`

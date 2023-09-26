@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 
 > Tracks para inspirar tu ofni perfecto 🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,458 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 49 | [cumbia aesthetic](https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [cumbia aesthetic](https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo) | 2:50 |
 | 50 | [Cerquita Mío](https://open.spotify.com/track/5014FaQ0AiVT8C87ppM07f) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [No Me Busques Donde Mismo](https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk) | 3:53 |
 
-Snapshot ID: `MCw3OGM5MThjOGIyYzYwNjE4MGU0OTc4NjA5MjlkNDQ1NjA5YzQxOTc4`
+Snapshot ID: `MCwwYmNiZmQ2NjU3NDEwMDcxODMzNzIyMWVmNmMxYzMzMTA0M2YwZTFk`

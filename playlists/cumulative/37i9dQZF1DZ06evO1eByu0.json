@@ -541,6 +541,28 @@
     },
     {
       "album": {
+        "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287120,
+      "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
+    },
+    {
+      "album": {
         "name": "Aline Barros 20 Anos Ao Vivo",
         "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
       },

@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-594 songs - 1 day 12 hr 36 min
+595 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [A Song About Being Sad](https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8) | 2:16 | 2022-10-13 | 2022-12-06 |
 | [A Song About Being Sad](https://open.spotify.com/track/6Jl3ZOX6MUOlyoUc721bsX) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 2:16 | 2022-07-22 | 2022-10-13 |
 | [A Song About Being Sad](https://open.spotify.com/track/6zI4PkexiDszvG3lt35OIA) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [bcos u will never b free](https://open.spotify.com/album/1RoAhM89QrFvZ8JCUoRveL) | 2:16 | 2020-12-21 | 2022-04-18 |
-| [About You](https://open.spotify.com/track/3VZxoBsfipwZTyb0cIvIPW) | [Afroham](https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [About You](https://open.spotify.com/album/71gKjKg1GfdCM7rtEWc48o) | 2:56 | 2023-05-25 |  |
+| [About You](https://open.spotify.com/track/3VZxoBsfipwZTyb0cIvIPW) | [Afroham](https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [About You](https://open.spotify.com/album/71gKjKg1GfdCM7rtEWc48o) | 2:56 | 2023-05-25 | 2023-09-26 |
 | [ADDICT](https://open.spotify.com/track/4NFxFhEqXaJKKXL5cmeO5k) | [Eryn Martin](https://open.spotify.com/artist/58nhaWrZa0dN2OxZ1Pr2Ph) | [ADDICT](https://open.spotify.com/album/79tWX8DDCWtHRynV2EiAqK) | 2:04 | 2023-06-08 | 2023-08-19 |
 | [Aeroplane Bathroom](https://open.spotify.com/track/5ul1z9YxrM9MEsB8MPKJpZ) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Aeroplane Bathroom](https://open.spotify.com/album/55LTuxXSV15FHGHZxSwBd6) | 5:44 | 2020-12-21 | 2022-04-19 |
 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 | 2023-05-25 | 2023-08-19 |
@@ -395,6 +395,7 @@
 | [On My Way](https://open.spotify.com/track/74cDV5HXtQmQ1hMfa8JoIK) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [On My Way](https://open.spotify.com/album/1Ny40get2xI8Jrrl4MuOr4) | 3:32 | 2023-05-25 | 2023-05-27 |
 | [On Your Side \- stud1nt Remix](https://open.spotify.com/track/07WqKsrKiVM17SR0sKOTZv) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [stud1nt](https://open.spotify.com/artist/2A9AahMwOwxbQSeKfyplrX) | [On Your Side \(stud1nt Remix\)](https://open.spotify.com/album/6vFMDi2N6jrb0HzzgCEiky) | 3:24 | 2021-08-13 | 2022-07-21 |
 | [One Day It'll All Make Sense](https://open.spotify.com/track/41F6Z4ldpPWxy0hr5OUn9z) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [One Day It'll All Make Sense](https://open.spotify.com/album/6MtD3lsWbdX3fVWp5KfzQd) | 1:01 | 2023-08-18 |  |
+| [One Trick Pony](https://open.spotify.com/track/1qpg6H28CYp95bvj2fj3b3) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/27ba8fckG1oJ4DzPZO80Ey) | 1:57 | 2023-08-18 |  |
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2020-12-21 | 2023-08-19 |
 | [Only One](https://open.spotify.com/track/165suvq1v7N0IUK5av3E7z) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Only One](https://open.spotify.com/album/22ex6Jl6wXPt3myCvphAT4) | 4:53 | 2023-05-25 | 2023-05-27 |
 | [Only One](https://open.spotify.com/track/5wlaunvIHcQYdhT23JvRGO) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Only One](https://open.spotify.com/album/7jSJCnwfELIYnTaZcjKWJe) | 4:53 | 2020-12-21 | 2022-04-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Sleep Token on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,454,283 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,454,383 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Noah](https://open.spotify.com/track/7nNIk5X6AanHDEhYKekymO) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Noah](https://open.spotify.com/album/4PyTSqcMOE1DXi4pLu1T0F) | 3:36 |
 | 75 | [I am the Beast](https://open.spotify.com/track/46xrzJkwWM6s8tb3nVU4mQ) | [Metalocalypse: Dethklok](https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8) | [Dethalbum IV](https://open.spotify.com/album/0kOvFgwICfLldItMxuJvgC) | 4:15 |
 
-Snapshot ID: `MCw3MTYyNTRiYTM0ZDJkYTI0MWQyYmRkMTlmNDg1MTZjN2QyMzFkNzE5`
+Snapshot ID: `MCxjYmU0MzkwY2VkOGQ4ZjA5NGY3ZTdmNWZmYTJjMjhkMTVlZDRjMDA4`

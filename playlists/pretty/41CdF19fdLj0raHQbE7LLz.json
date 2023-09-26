@@ -1,13 +1,29 @@
 {
   "description": "&#x27;Spektre&#x27;s Selection&#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! #respekt",
-  "num_followers": 1376,
+  "num_followers": 1381,
   "original_name": "Spektre's Selection",
   "owner": {
     "name": "spektrelive",
     "url": "https://open.spotify.com/user/spektrelive"
   },
-  "snapshot_id": "MTc2MiwyYTc2ZmIwYTY1NDZmZTU2NjY0Y2Y2NzdhZmMxMGExOGYxYmRmY2Y5",
+  "snapshot_id": "MTc3Nyw2ZDgxMWRlZGNiMTU0MDc1Njg0MzEyNjc3MjM3YTJmYTJlMmFmN2Zj",
   "tracks": [
+    {
+      "added_at": "2023-09-15 18:29:16",
+      "album": {
+        "name": "Respekt Rebels, Vol. 5",
+        "url": "https://open.spotify.com/album/3TENZK2vFLimFVPjwWqn2x"
+      },
+      "artists": [
+        {
+          "name": "Sam Kitt",
+          "url": "https://open.spotify.com/artist/4nZj2Iwb9yJSocd8OlpKBo"
+        }
+      ],
+      "duration_ms": 262785,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/0WmnjJnxK27DvPztxWgVPS"
+    },
     {
       "added_at": "2023-08-24 20:01:47",
       "album": {
@@ -23,6 +39,42 @@
       "duration_ms": 280298,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/0wP18L2hS6exmiqccmjILe"
+    },
+    {
+      "added_at": "2023-08-30 20:06:04",
+      "album": {
+        "name": "Embodied",
+        "url": "https://open.spotify.com/album/6IpkTm8SxdXJDCHLJ1yiLi"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        }
+      ],
+      "duration_ms": 400500,
+      "name": "Embodied",
+      "url": "https://open.spotify.com/track/6MO0WsD4H6gwCnTrpqo6ge"
+    },
+    {
+      "added_at": "2023-08-30 20:06:41",
+      "album": {
+        "name": "Hustle (Extended Mix)",
+        "url": "https://open.spotify.com/album/3WPzNV85KPvsgeAI7nWiiR"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "Mark Porter",
+          "url": "https://open.spotify.com/artist/78ZSf9GUQWY0G0wxF710fo"
+        }
+      ],
+      "duration_ms": 361935,
+      "name": "Hustle - Extended Mix",
+      "url": "https://open.spotify.com/track/0jhJpXzpHTg7pJcl9rIQst"
     },
     {
       "added_at": "2023-06-06 19:26:39",
@@ -45,6 +97,122 @@
       "url": "https://open.spotify.com/track/2aaS2SpqTrtdTguznntB6x"
     },
     {
+      "added_at": "2023-09-15 18:29:22",
+      "album": {
+        "name": "Respekt Rebels, Vol. 5",
+        "url": "https://open.spotify.com/album/3TENZK2vFLimFVPjwWqn2x"
+      },
+      "artists": [
+        {
+          "name": "Mark Porter",
+          "url": "https://open.spotify.com/artist/78ZSf9GUQWY0G0wxF710fo"
+        }
+      ],
+      "duration_ms": 248023,
+      "name": "With The Rhythm",
+      "url": "https://open.spotify.com/track/5TAIQ9hjW7il1wSMXRxsdb"
+    },
+    {
+      "added_at": "2023-08-30 20:06:56",
+      "album": {
+        "name": "Halcyon",
+        "url": "https://open.spotify.com/album/7uP5mykihOoMTeldx2yLjE"
+      },
+      "artists": [
+        {
+          "name": "Weska",
+          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
+        }
+      ],
+      "duration_ms": 383181,
+      "name": "Halcyon",
+      "url": "https://open.spotify.com/track/5YxRHef7f2LkDRPCWzrA3P"
+    },
+    {
+      "added_at": "2023-08-30 20:07:14",
+      "album": {
+        "name": "The Unexpected",
+        "url": "https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "The Unexpected",
+      "url": "https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf"
+    },
+    {
+      "added_at": "2023-08-30 20:06:08",
+      "album": {
+        "name": "Embodied",
+        "url": "https://open.spotify.com/album/6IpkTm8SxdXJDCHLJ1yiLi"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        }
+      ],
+      "duration_ms": 392677,
+      "name": "The Ultimate Ride",
+      "url": "https://open.spotify.com/track/535nZQFTnlupUl8YPjRsIW"
+    },
+    {
+      "added_at": "2023-08-30 20:07:45",
+      "album": {
+        "name": "Human Robot",
+        "url": "https://open.spotify.com/album/34PZAeNnEDiUH3OUw5hf6a"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "duration_ms": 416818,
+      "name": "Human Robot",
+      "url": "https://open.spotify.com/track/25VtvV3hr1j4VUr4KnTrQS"
+    },
+    {
+      "added_at": "2023-06-06 19:26:41",
+      "album": {
+        "name": "Bring Me Fire EP",
+        "url": "https://open.spotify.com/album/6NKHZlMaaSlR8ToHZSGS4K"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "duration_ms": 221073,
+      "name": "The Unseen Path",
+      "url": "https://open.spotify.com/track/2DcrucFg2LOT03osZQ2rkX"
+    },
+    {
+      "added_at": "2023-08-30 20:08:53",
+      "album": {
+        "name": "Something Wrong",
+        "url": "https://open.spotify.com/album/64Gpa5tJOls1UYLxoGMKhz"
+      },
+      "artists": [
+        {
+          "name": "MARTIN K4RMA",
+          "url": "https://open.spotify.com/artist/728yYZBKoJYPrgx4UYonej"
+        }
+      ],
+      "duration_ms": 355973,
+      "name": "Something Wrong",
+      "url": "https://open.spotify.com/track/1NbRQH6RcJOjdComAcLHCK"
+    },
+    {
       "added_at": "2023-08-15 18:47:29",
       "album": {
         "name": "In Control",
@@ -59,6 +227,22 @@
       "duration_ms": 228000,
       "name": "In Control",
       "url": "https://open.spotify.com/track/6SdZhw93QmruQx0myotn6B"
+    },
+    {
+      "added_at": "2023-09-15 18:29:39",
+      "album": {
+        "name": "Respekt Rebels, Vol. 5",
+        "url": "https://open.spotify.com/album/3TENZK2vFLimFVPjwWqn2x"
+      },
+      "artists": [
+        {
+          "name": "Jody 6",
+          "url": "https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y"
+        }
+      ],
+      "duration_ms": 214884,
+      "name": "Sweat Groove",
+      "url": "https://open.spotify.com/track/5VtgyesbnzPxmaGeEUMMEy"
     },
     {
       "added_at": "2023-06-27 22:16:31",
@@ -93,22 +277,6 @@
       "url": "https://open.spotify.com/track/6EqEtYGJnkP3BBySHscyLj"
     },
     {
-      "added_at": "2023-06-06 19:26:41",
-      "album": {
-        "name": "Bring Me Fire EP",
-        "url": "https://open.spotify.com/album/6NKHZlMaaSlR8ToHZSGS4K"
-      },
-      "artists": [
-        {
-          "name": "Spektre",
-          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
-        }
-      ],
-      "duration_ms": 221073,
-      "name": "The Unseen Path",
-      "url": "https://open.spotify.com/track/2DcrucFg2LOT03osZQ2rkX"
-    },
-    {
       "added_at": "2023-08-24 19:54:12",
       "album": {
         "name": "Frantic Residents 07: Mixed by Proteus & Cally Gage",
@@ -139,6 +307,26 @@
       "duration_ms": 239998,
       "name": "Unholy",
       "url": "https://open.spotify.com/track/13KIO3VJGCKKnsGgtYrhCc"
+    },
+    {
+      "added_at": "2023-09-15 18:29:49",
+      "album": {
+        "name": "Respekt Rebels, Vol. 5",
+        "url": "https://open.spotify.com/album/3TENZK2vFLimFVPjwWqn2x"
+      },
+      "artists": [
+        {
+          "name": "Chicago Loop",
+          "url": "https://open.spotify.com/artist/4j8GdWeeg7TuzGy9JUjtMQ"
+        },
+        {
+          "name": "Jack Smooth",
+          "url": "https://open.spotify.com/artist/7z27C5h6MayB4vVg6rugX5"
+        }
+      ],
+      "duration_ms": 234742,
+      "name": "Overspeed",
+      "url": "https://open.spotify.com/track/5kV5o0VJq2DMxiJw4HcK2W"
     },
     {
       "added_at": "2023-04-23 16:33:29",
@@ -291,6 +479,22 @@
       "duration_ms": 292173,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/3WaBT0YVA8akM8nMLqpQ39"
+    },
+    {
+      "added_at": "2023-09-15 18:29:44",
+      "album": {
+        "name": "Respekt Rebels, Vol. 5",
+        "url": "https://open.spotify.com/album/3TENZK2vFLimFVPjwWqn2x"
+      },
+      "artists": [
+        {
+          "name": "Atroxx",
+          "url": "https://open.spotify.com/artist/5xUFaih4LPL1He9jDdvqTw"
+        }
+      ],
+      "duration_ms": 266863,
+      "name": "The Corporation",
+      "url": "https://open.spotify.com/track/4ebsCZiffYMKJNYBmgnBns"
     },
     {
       "added_at": "2023-06-28 19:10:37",
@@ -1579,358 +1783,6 @@
       "duration_ms": 398175,
       "name": "Styx",
       "url": "https://open.spotify.com/track/6BGLpHleabwEG5V1xEcuVc"
-    },
-    {
-      "added_at": "2022-04-18 14:56:01",
-      "album": {
-        "name": "Umbilicis Universalis",
-        "url": "https://open.spotify.com/album/67vRbAKHrUlH3ejiXFDKQy"
-      },
-      "artists": [
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        }
-      ],
-      "duration_ms": 420923,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1"
-    },
-    {
-      "added_at": "2022-12-28 19:17:56",
-      "album": {
-        "name": "Respekt Rebels, Vol. 4",
-        "url": "https://open.spotify.com/album/65AIbwBS7j6HSf6uD47Hda"
-      },
-      "artists": [
-        {
-          "name": "Yan Oxygen",
-          "url": "https://open.spotify.com/artist/3HpG3QQ6yRPcn876fmzcbY"
-        }
-      ],
-      "duration_ms": 235419,
-      "name": "Remember About Tetra",
-      "url": "https://open.spotify.com/track/1cmCQDEcuPaR14Y9xjkQyR"
-    },
-    {
-      "added_at": "2022-05-17 19:58:49",
-      "album": {
-        "name": "Monday",
-        "url": "https://open.spotify.com/album/6Ebx59EtFPg8LXUiLSkSXz"
-      },
-      "artists": [
-        {
-          "name": "Lerio Corrado",
-          "url": "https://open.spotify.com/artist/3mDSOKVG37D9ijPkfGTZDE"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Monday - Radio Edit",
-      "url": "https://open.spotify.com/track/3jfliPTI7ge58dVUjUOI4q"
-    },
-    {
-      "added_at": "2022-05-17 19:52:24",
-      "album": {
-        "name": "Terra",
-        "url": "https://open.spotify.com/album/2HE22ZqykGRTdLjqrTJuVN"
-      },
-      "artists": [
-        {
-          "name": "Jay Lumen",
-          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/5sxjDcq1CPIQ6pmLbMRY1o"
-    },
-    {
-      "added_at": "2022-05-17 19:53:27",
-      "album": {
-        "name": "Styx",
-        "url": "https://open.spotify.com/album/4dy6VS8wNPwakQJygZaCWA"
-      },
-      "artists": [
-        {
-          "name": "Timmo",
-          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
-        }
-      ],
-      "duration_ms": 389096,
-      "name": "Lethe",
-      "url": "https://open.spotify.com/track/6MMURUMeIkSgzMoG5v1cOe"
-    },
-    {
-      "added_at": "2022-05-17 19:54:20",
-      "album": {
-        "name": "Morphing",
-        "url": "https://open.spotify.com/album/4l2yMnT07CAmWjFRBtYeFQ"
-      },
-      "artists": [
-        {
-          "name": "Ramon Tapia",
-          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
-        }
-      ],
-      "duration_ms": 292989,
-      "name": "Morphing",
-      "url": "https://open.spotify.com/track/6Y2OimS3u5eKd0LLco0Vlq"
-    },
-    {
-      "added_at": "2022-05-17 19:56:01",
-      "album": {
-        "name": "Era Of Rave",
-        "url": "https://open.spotify.com/album/1JtN79zoxzHQDWpHk7znrK"
-      },
-      "artists": [
-        {
-          "name": "Mode\u0101",
-          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
-        }
-      ],
-      "duration_ms": 325953,
-      "name": "On A Level",
-      "url": "https://open.spotify.com/track/5Pnl8HKqN7rbxx229sS1v4"
-    },
-    {
-      "added_at": "2022-05-17 19:56:27",
-      "album": {
-        "name": "Boavista Remixes",
-        "url": "https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa"
-      },
-      "artists": [
-        {
-          "name": "Stephan Bodzin",
-          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
-        },
-        {
-          "name": "Wehbba",
-          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
-        }
-      ],
-      "duration_ms": 407500,
-      "name": "Dune - Wehbba Remix",
-      "url": "https://open.spotify.com/track/4DMqb7He27tNQkJghvvdSP"
-    },
-    {
-      "added_at": "2022-05-17 19:57:36",
-      "album": {
-        "name": "Acid Sgnal",
-        "url": "https://open.spotify.com/album/7FDFBdsvF7HYvj0wGjCgVX"
-      },
-      "artists": [
-        {
-          "name": "Frankyeffe",
-          "url": "https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O"
-        }
-      ],
-      "duration_ms": 370278,
-      "name": "Acid Sgnal",
-      "url": "https://open.spotify.com/track/3fsd0qqt7VaieHf6xSHe9t"
-    },
-    {
-      "added_at": "2022-05-17 19:58:19",
-      "album": {
-        "name": "Connect EP",
-        "url": "https://open.spotify.com/album/1HC64k8KzGmEg5bgfSo283"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Grops",
-          "url": "https://open.spotify.com/artist/07Glpj38nleLSAo3mJmcQH"
-        }
-      ],
-      "duration_ms": 335429,
-      "name": "Connect",
-      "url": "https://open.spotify.com/track/1XsCduhjiJEwFlkNxnTI6S"
-    },
-    {
-      "added_at": "2022-04-18 14:57:48",
-      "album": {
-        "name": "Matsuyama",
-        "url": "https://open.spotify.com/album/4H2y5zpKUk8D1WUAjpYzDz"
-      },
-      "artists": [
-        {
-          "name": "Episode1",
-          "url": "https://open.spotify.com/artist/4d3hev1RxwzCtHDDR9iYzB"
-        }
-      ],
-      "duration_ms": 408291,
-      "name": "Matsuyama",
-      "url": "https://open.spotify.com/track/2a79MwFQJg9gDZJAttuTpZ"
-    },
-    {
-      "added_at": "2022-04-18 15:00:24",
-      "album": {
-        "name": "You Can't Control Me",
-        "url": "https://open.spotify.com/album/4LZ4dRm9IZCYD3YlhUYckx"
-      },
-      "artists": [
-        {
-          "name": "Alignment",
-          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
-        }
-      ],
-      "duration_ms": 333056,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/6v5eh78XkjHCSkG9A9kAew"
-    },
-    {
-      "added_at": "2022-04-18 15:00:50",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/1LFsNoA9oC2fBGa5aAxZbQ"
-      },
-      "artists": [
-        {
-          "name": "Victor Ruiz",
-          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
-        }
-      ],
-      "duration_ms": 378461,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/0iiVsLzLvth1usasLqva9o"
-    },
-    {
-      "added_at": "2023-06-28 20:41:50",
-      "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/7dVQk4IqAYbp15APZ5hf5v"
-      },
-      "artists": [
-        {
-          "name": "Thomas Schumacher",
-          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
-        },
-        {
-          "name": "Maketech",
-          "url": "https://open.spotify.com/artist/31jG1iSnjTnEoLgbe8uDTb"
-        }
-      ],
-      "duration_ms": 225375,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/33jUhN85Ly3yaOdSoVyp1d"
-    },
-    {
-      "added_at": "2023-08-30 20:06:04",
-      "album": {
-        "name": "Embodied",
-        "url": "https://open.spotify.com/album/6IpkTm8SxdXJDCHLJ1yiLi"
-      },
-      "artists": [
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        }
-      ],
-      "duration_ms": 400500,
-      "name": "Embodied",
-      "url": "https://open.spotify.com/track/6MO0WsD4H6gwCnTrpqo6ge"
-    },
-    {
-      "added_at": "2023-08-30 20:06:08",
-      "album": {
-        "name": "Embodied",
-        "url": "https://open.spotify.com/album/6IpkTm8SxdXJDCHLJ1yiLi"
-      },
-      "artists": [
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        }
-      ],
-      "duration_ms": 392677,
-      "name": "The Ultimate Ride",
-      "url": "https://open.spotify.com/track/535nZQFTnlupUl8YPjRsIW"
-    },
-    {
-      "added_at": "2023-08-30 20:06:41",
-      "album": {
-        "name": "Hustle (Extended Mix)",
-        "url": "https://open.spotify.com/album/3WPzNV85KPvsgeAI7nWiiR"
-      },
-      "artists": [
-        {
-          "name": "Thomas Schumacher",
-          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
-        },
-        {
-          "name": "Mark Porter",
-          "url": "https://open.spotify.com/artist/78ZSf9GUQWY0G0wxF710fo"
-        }
-      ],
-      "duration_ms": 361935,
-      "name": "Hustle - Extended Mix",
-      "url": "https://open.spotify.com/track/0jhJpXzpHTg7pJcl9rIQst"
-    },
-    {
-      "added_at": "2023-08-30 20:06:56",
-      "album": {
-        "name": "Halcyon",
-        "url": "https://open.spotify.com/album/7uP5mykihOoMTeldx2yLjE"
-      },
-      "artists": [
-        {
-          "name": "Weska",
-          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
-        }
-      ],
-      "duration_ms": 383181,
-      "name": "Halcyon",
-      "url": "https://open.spotify.com/track/5YxRHef7f2LkDRPCWzrA3P"
-    },
-    {
-      "added_at": "2023-08-30 20:07:14",
-      "album": {
-        "name": "The Unexpected",
-        "url": "https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z"
-      },
-      "artists": [
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "The Unexpected",
-      "url": "https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf"
-    },
-    {
-      "added_at": "2023-08-30 20:07:45",
-      "album": {
-        "name": "Human Robot",
-        "url": "https://open.spotify.com/album/34PZAeNnEDiUH3OUw5hf6a"
-      },
-      "artists": [
-        {
-          "name": "Alex Stein",
-          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
-        },
-        {
-          "name": "Victor Ruiz",
-          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
-        }
-      ],
-      "duration_ms": 416818,
-      "name": "Human Robot",
-      "url": "https://open.spotify.com/track/25VtvV3hr1j4VUr4KnTrQS"
-    },
-    {
-      "added_at": "2023-08-30 20:08:53",
-      "album": {
-        "name": "Something Wrong",
-        "url": "https://open.spotify.com/album/64Gpa5tJOls1UYLxoGMKhz"
-      },
-      "artists": [
-        {
-          "name": "MARTIN K4RMA",
-          "url": "https://open.spotify.com/artist/728yYZBKoJYPrgx4UYonej"
-        }
-      ],
-      "duration_ms": 355973,
-      "name": "Something Wrong",
-      "url": "https://open.spotify.com/track/1NbRQH6RcJOjdComAcLHCK"
     }
   ],
   "unique_name": "Spektre's Selection",

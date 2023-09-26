@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,669 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,732 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 |
 | 60 | [Holocene, Pt\. II](https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Holocene, Pt\. II](https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys) | 6:54 |
 
-Snapshot ID: `MCw5MjJlOGVhYzllMTZmNDk1MmMyMmE3ZTkwNjU0ZjEzZDVmZmQxNTQw`
+Snapshot ID: `MCwyODdmZTQ4NWQ4OGVhN2I1MzUwMWE5Njg1ZjI1NzI4NTMzNDM0MmEy`

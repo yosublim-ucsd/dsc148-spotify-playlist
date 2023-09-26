@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: NATHY PELUSO & Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,010 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,043 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 99 | [Una Mentirita](https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Friends & Legends](https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1) | 3:37 |
 | 100 | [Consuelo](https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Consuelo](https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO) | 2:44 |
 
-Snapshot ID: `MCw3YjQyZTBjMGUxNWNhMzAxZDJlZTIxMzY3ZjdjMzYwYjZmMmIwMzFh`
+Snapshot ID: `MCwzMWI2MDFhMWQ1NWUyMTcyYTRmMjdlZmRjMmU4MTllMGE1NzhmZDY4`

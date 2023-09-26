@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,902 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,915 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [A Thousand Knives \(Enamour Remix\) \- Edit](https://open.spotify.com/track/37Zi74wmcWpaFGogWQipqx) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blood Moon \(Remixes\)](https://open.spotify.com/album/4TGKtivFRBZl4BymLiQTpK) | 4:49 |
 | 70 | [CTG](https://open.spotify.com/track/5JlEWsqXWnIT4rPTJF3bny) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Iúri Oliveira](https://open.spotify.com/artist/6OUoXZid4ik4nXQ4FuYLPg) | [CTG](https://open.spotify.com/album/7xdjpdKWXPxXYynt2DDFG0) | 3:18 |
 
-Snapshot ID: `MCw3MWE4MzdkM2NkZWVkMDFkNWUwMDE3YmJhMTJjMjRmYzI1ZTViZGU5`
+Snapshot ID: `MCwwNTE1MjUzZTY4YTc0NDkwMzY3OTJkZWRkMmRjYTBiODFhMTNiYjQ1`

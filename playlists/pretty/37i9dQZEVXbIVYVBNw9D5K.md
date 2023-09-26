@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIVYVBNw9D5K.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,231 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,253 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIVYVBNw9D5K.md) - [plain]
 | 49 | [YAKALARSAN](https://open.spotify.com/track/7gJqhu7UvkJvpEGBntRmJx) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [YAKALARSAN](https://open.spotify.com/album/5dDBLvXR3Rw6IvOMOIYKmP) | 1:56 |
 | 50 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

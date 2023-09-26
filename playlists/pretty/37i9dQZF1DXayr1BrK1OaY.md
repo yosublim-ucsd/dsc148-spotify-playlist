@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,079 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,133 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 74 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
 | 75 | [Lençóis \(Love Me\) \- Notre Dame Remix](https://open.spotify.com/track/5eqCFsvNDpNqlRnaq7yYLw) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Lençóis \(Love Me\) \[Notre Dame Remix\]](https://open.spotify.com/album/1PcJTDyhWQ0zIvl5gbFPfZ) | 5:04 |
 
-Snapshot ID: `MCw2OGEwOThjYTU3OTc4ZDIxZGQxNTYyM2MyNGU4ODlmY2RkNmIzZWQ5`
+Snapshot ID: `MCxhZWQ1YTc4YWUwYmQ5YzZiZGY4MDkyNTBhMWY2YmI4NmMzY2ZlYjA0`

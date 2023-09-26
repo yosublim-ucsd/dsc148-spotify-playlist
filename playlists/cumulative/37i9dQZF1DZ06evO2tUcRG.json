@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Acts 2",
+        "url": "https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375735,
+      "name": "Acts 2",
+      "url": "https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv"
+    },
+    {
+      "album": {
         "name": "Ecoar",
         "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
       },
@@ -132,6 +154,28 @@
       "duration_ms": 314746,
       "name": "Atos 2",
       "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 te Encontrar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576860,
+      "name": "At\u00e9 te Encontrar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K"
     },
     {
       "album": {
@@ -230,7 +274,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 422240,
       "name": "C\u00e9u",
       "url": "https://open.spotify.com/track/4dOLTIZCnjRnQegoRhr3O3"

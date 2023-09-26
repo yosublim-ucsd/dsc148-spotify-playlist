@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,588 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,618 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 | 149 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 |
 | 150 | [Fix You](https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 3:12 |
 
-Snapshot ID: `MCwxMzM5NzhiZGUxZDMwNDllYTU5YjU2YWVhYjNhZWQ3OTJiNGUyZmIw`
+Snapshot ID: `MCw2ZDliNWQ2YWJkZmQ5ZjhkYTdjN2E1ODE1ODc0YzU1YWE2YWE5YWRh`

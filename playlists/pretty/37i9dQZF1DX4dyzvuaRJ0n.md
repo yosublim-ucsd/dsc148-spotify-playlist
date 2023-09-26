@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Martin Garrix & Lloyiso
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,069,966 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,070,019 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 60 | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 |
 | 61 | [Keep You \(Close\)](https://open.spotify.com/track/7h3L3Dsr2bNd2NIwoXcsNu) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [PLAY: GRID](https://open.spotify.com/album/0AhHp5xTgnoJvZgzhFQJuw) | 2:46 |
 | 62 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 |
-| 63 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 |
+| 63 | [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 |
 | 64 | [One Of A Kind](https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [One Of A Kind](https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0) | 2:18 |
 | 65 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 |
 | 66 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy) | 2:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 |
 | 75 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
 
-Snapshot ID: `MCxkYzE4NjVjNmI1MWY4OTQ0ZmJkMTZhZjM1YWYwNGE3NjFjOTg4Yzc0`
+Snapshot ID: `MCw5ZDNkN2U1MTg5YTQyNTBhMDk0YmI1NDZiYTk2YmY0NWM3NWY5YjZh`

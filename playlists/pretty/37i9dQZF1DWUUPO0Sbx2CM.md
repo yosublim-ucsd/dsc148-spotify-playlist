@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,702 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,732 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 99 | [Hey You](https://open.spotify.com/track/4ic7zZbONHQ8KuIvJnWxiK) | [Trampolines](https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hey You](https://open.spotify.com/album/1vYhE0WyIrAHjMvFUiewCb) | 2:56 |
 | 100 | [Heavy](https://open.spotify.com/track/7Fmk7xa6JijQVUpDILAxrR) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Heavy](https://open.spotify.com/album/1iEHm6xjd7QWKYt67AmjZ3) | 3:45 |
 
-Snapshot ID: `MCw5OTY2OTg3NDJmZTczZjgwYWNmNGE4ODFmNGVlNjAxZDhjNTFmN2Ew`
+Snapshot ID: `MCxjMDQwNzU2MjVkYjE4MjI1Nzg5NTJiODQwNjY2NTcwMTdhOTQ5Zjg1`

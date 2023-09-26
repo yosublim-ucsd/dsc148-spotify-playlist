@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 
 > L'unica party playlist di cui hai bisogno, sempre aggiornata 🍾 Top hit italiane e internazionali!
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,303 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,319 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 | 74 | [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 |
 | 75 | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8) | 3:02 |
 
-Snapshot ID: `MCxiZDc5OWFkYjQ1NjAzOWZjMWNmM2YxMDRjMDNmZWQxZGY2Yjg5MDQx`
+Snapshot ID: `MCxmZDAwOGNhNTNmYTQ0MWU2MDcxNzVhODI0YjRkYzJjNjFlY2UwY2Qx`

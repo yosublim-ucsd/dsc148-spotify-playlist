@@ -4,7 +4,7 @@
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 41 min
+61 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Burn It Down](https://open.spotify.com/track/4apfsISItA7UeoSZsw5DsB) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 2:45 | 2022-10-26 |  |
 | [California Halo Blue](https://open.spotify.com/track/3mC4kKsdyjzVGpISqAnWnW) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:53 | 2023-09-15 |  |
 | [California Halo Blue](https://open.spotify.com/track/6YA5dsZtMM68VkEpbSSpcD) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/4lO7GONtjBvEqVDc5UQurZ) | 3:53 | 2022-10-26 | 2023-09-16 |
+| [Candy Pop](https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Candy Pop](https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo) | 2:42 | 2023-09-25 |  |
 | [Cannibals](https://open.spotify.com/track/7lGDiKxrmodlgNvzjZOtws) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 2:28 | 2022-10-26 | 2023-04-05 |
 | [Carry On](https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 2:49 | 2022-10-26 |  |
 | [Dark Matter](https://open.spotify.com/track/3PvTeXRn3F1C0GWIGuTms7) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Dark Matter](https://open.spotify.com/album/3ho4ck0V08Aetowu6YBYeS) | 2:35 | 2023-07-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,696 likes - 300 songs - 18 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,700 likes - 300 songs - 18 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 299 | [Beautiful Friendship](https://open.spotify.com/track/5gNyYlp835GvqvIl0Vp4xV) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Beautiful Friendship](https://open.spotify.com/album/5XHl4NgUdeKlyqB8igiTEb) | 3:18 |
 | 300 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/3WVKyc1in22UyqbohaNuhP) | [Hector Milo Trio](https://open.spotify.com/artist/0sn0tQQs3lIlLSgHgidapX) | [I Can't Get Started](https://open.spotify.com/album/36KOcJTwtz8mKCmpac4cD6) | 4:14 |
 
-Snapshot ID: `MCw5ZTA2NDRjZWI4Y2Y4ZWRhMTA5OThlMmRjNTY2MWUxMjlkZGI2ODRl`
+Snapshot ID: `MCw5OWUzMGEwMTJkOTBiMWNmMTU1YWQzMDBjNTExN2U0M2Y1Y2E2NTkz`

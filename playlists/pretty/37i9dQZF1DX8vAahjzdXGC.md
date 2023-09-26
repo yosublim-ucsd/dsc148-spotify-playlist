@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Andmesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,110 likes - 112 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,120 likes - 112 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [Main Thing](https://open.spotify.com/track/1aSjnYP1J124WyGB7MsJ5X) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Main Thing](https://open.spotify.com/album/5ZNijsH0jWLSZiD7BDB0YB) | 2:16 |
 | 112 | [Rodeo](https://open.spotify.com/track/7cD3GOKnMPgW4m37meuv3J) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Rodeo](https://open.spotify.com/album/3qRfgIajUoPGnLDZSlX33g) | 2:35 |
 
-Snapshot ID: `MCw4YmQ3NmYxODQxMzhkMzRlMmRlNzc3OTUyMDYwYTFmN2UyOThjZWJh`
+Snapshot ID: `MCxlYmU2ODdhNmY1ZDE0NzBmMzNhZmE5NjNlYWNmNGY2NThkNjNhZjVi`

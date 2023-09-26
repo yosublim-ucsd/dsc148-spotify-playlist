@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,620 likes - 350 songs - 1 day 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,632 likes - 350 songs - 1 day 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 | 349 | [Na Kozonga](https://open.spotify.com/track/67Cek9KjLrVc78oCJsZtCA) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT) | [Na Kozonga](https://open.spotify.com/album/4SgDBBS8LUgy7Wmxo3Lam0) | 2:59 |
 | 350 | [Feel Good \(feat\. Khruangbin\) \- Edit](https://open.spotify.com/track/5EhyJGUafXNnPniaIQnSER) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Feel Good \(feat\. Khruangbin\)](https://open.spotify.com/album/1UsruEVoYrg43BOPvwAHry) | 3:37 |
 
-Snapshot ID: `MCxiNzgwNTg3NGU2ZWU3ZGM5ODFjZjRlYWFkMDMzY2FiZTNkNmIwZGM1`
+Snapshot ID: `MCwyYzgxNTA0Yzc4MjZjMTY3Yjg3Y2UzYzA5MTExMWMxM2Y2NzQ3ZDNj`

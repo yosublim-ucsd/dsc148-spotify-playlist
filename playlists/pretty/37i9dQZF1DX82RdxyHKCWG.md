@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > Tudo de novo que tá rolando no pop! Atualizada toda semana ✨ Foto: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,516 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,523 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 | 79 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:22 |
 | 80 | [Beautiful](https://open.spotify.com/track/0uWn41XAyeYza4CIubkoD4) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Beautiful](https://open.spotify.com/album/0yiKEn4Xgl1M8HSlmTWNS2) | 4:10 |
 
-Snapshot ID: `MCwwNGIyMDE0MWM3YzYxNzI5MmI0MDNmZDk4N2FmYjExNGFlNTU2MDRm`
+Snapshot ID: `MCw2MDYxNjUyNjg2Y2UyNmE1OWFjZjc3YjFlOTMzM2IwOWEwZmUxMzFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 456 likes - 65 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,19 +45,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 35 | [Nie Pytaj Mnie](https://open.spotify.com/track/7eQQZnk2eYukRlWSN771gl) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv) | 3:19 |
 | 36 | [HONEYMOON](https://open.spotify.com/track/1JXoACZvZMnk5jsM3NJ9J5) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [MASSIVE](https://open.spotify.com/album/5aJ6EYd1rvIP0bp2zaO92H) | 3:24 |
 | 37 | [Space](https://open.spotify.com/track/6Ux1msFzvpBSuaZuyyy0lv) | [Vincent Amory](https://open.spotify.com/artist/1WE0vML8umaUUfUgggyssZ) | [Space](https://open.spotify.com/album/4z0bg4l4w2x7B50Camhble) | 3:36 |
-| 38 | [It Will Never Be Over](https://open.spotify.com/track/2qjxsqWn39qiIAdMeBnZF2) | [CAGGIE](https://open.spotify.com/artist/1heHpKKrCRibu4H4CjNjAD) | [It Will Never Be Over](https://open.spotify.com/album/6YHTdr373eX4wZQjDSonNS) | 3:11 |
-| 39 | [Shame on You](https://open.spotify.com/track/5lt7oJ8gR64dbPSlptVOqb) | [Claire Richards](https://open.spotify.com/artist/2YoYDF80se1baOnPA7T6Pm) | [My Wildest Dreams \(Deluxe\)](https://open.spotify.com/album/3r7DvhjGgF3Wwkp3QZ1njf) | 3:32 |
+| 38 | [Shame on You](https://open.spotify.com/track/5lt7oJ8gR64dbPSlptVOqb) | [Claire Richards](https://open.spotify.com/artist/2YoYDF80se1baOnPA7T6Pm) | [My Wildest Dreams \(Deluxe\)](https://open.spotify.com/album/3r7DvhjGgF3Wwkp3QZ1njf) | 3:32 |
+| 39 | [It Will Never Be Over](https://open.spotify.com/track/2qjxsqWn39qiIAdMeBnZF2) | [CAGGIE](https://open.spotify.com/artist/1heHpKKrCRibu4H4CjNjAD) | [It Will Never Be Over](https://open.spotify.com/album/6YHTdr373eX4wZQjDSonNS) | 3:11 |
 | 40 | [I Need a Night Out](https://open.spotify.com/track/0desJH8bu68LRIzBCe3Cnv) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [I Need a Night Out](https://open.spotify.com/album/0HhYDwhESPSeuyDjVxGRBV) | 3:20 |
 | 41 | [Tryna Not Fall in Love](https://open.spotify.com/track/7Haes1NHgFQ4DkVjtbHUzd) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Tryna Not Fall in Love](https://open.spotify.com/album/1qT5T3OVuOAIQxTwvm0QY7) | 3:34 |
 | 42 | [Where Do We Go from Here](https://open.spotify.com/track/0BH0lfTcEUUlTf9GjuS2MF) | [Malte Castro](https://open.spotify.com/artist/2lPlzhzb48iN2IMxmjMPZ8) | [Where Do We Go from Here](https://open.spotify.com/album/6D8nN0cdKR6Ds9tyKHdNVw) | 3:42 |
 | 43 | [Ocean](https://open.spotify.com/track/2bHxKHKbxE3EqooAFKdeeZ) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/72HIHxLnpFuAUWkBK81gyi) | 3:00 |
-| 44 | [Time to Talk](https://open.spotify.com/track/3DnDAM5WZoGSiRgWfRbuAh) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Time to Talk](https://open.spotify.com/album/3rKYywObSNQIhq4nulJld4) | 3:24 |
-| 45 | [Girls](https://open.spotify.com/track/3p8sr6dPBa86KDMcup7q5P) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Girls](https://open.spotify.com/album/6pwVv0Pf79ITNQaiAz796u) | 3:20 |
-| 46 | [Not Over You](https://open.spotify.com/track/4iLQ5KX7IYsqlaDNWL8xqf) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Not Over You](https://open.spotify.com/album/1cJSPEAABSatHfV2pwXBPG) | 3:04 |
-| 47 | [Goodbye \(feat\. Chelcee Grimes\)](https://open.spotify.com/track/08Y45Z5fHVkVptMSJDmMTR) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [GSPR](https://open.spotify.com/artist/1899F4ojFEHeMOWyXhnPje), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Goodbye \(feat\. Chelcee Grimes\)](https://open.spotify.com/album/5RAGdSUGHYoCTXzlq6BW3k) | 3:03 |
+| 44 | [Goodbye \(feat\. Chelcee Grimes\)](https://open.spotify.com/track/08Y45Z5fHVkVptMSJDmMTR) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [GSPR](https://open.spotify.com/artist/1899F4ojFEHeMOWyXhnPje), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Goodbye \(feat\. Chelcee Grimes\)](https://open.spotify.com/album/5RAGdSUGHYoCTXzlq6BW3k) | 3:03 |
+| 45 | [Time to Talk](https://open.spotify.com/track/3DnDAM5WZoGSiRgWfRbuAh) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Time to Talk](https://open.spotify.com/album/3rKYywObSNQIhq4nulJld4) | 3:24 |
+| 46 | [Girls](https://open.spotify.com/track/3p8sr6dPBa86KDMcup7q5P) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Girls](https://open.spotify.com/album/6pwVv0Pf79ITNQaiAz796u) | 3:20 |
+| 47 | [Not Over You](https://open.spotify.com/track/4iLQ5KX7IYsqlaDNWL8xqf) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Not Over You](https://open.spotify.com/album/1cJSPEAABSatHfV2pwXBPG) | 3:04 |
 | 48 | [I Belong With You](https://open.spotify.com/track/4ZuLCd1A2WRgzNj51thB0M) | [Dada](https://open.spotify.com/artist/03FagtGSQn7UpUflscKmsX), [LIV](https://open.spotify.com/artist/7teUw80MXDDZlELFKbJsuz) | [I Belong With You](https://open.spotify.com/album/3fB22NjWfNboC9rGEbBrmG) | 2:48 |
-| 49 | [Closure](https://open.spotify.com/track/6jIJGY708HktwKqBe4LHeS) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/3AgzZrEeCYpaWgmVrik9jZ) | 3:02 |
-| 50 | [HYBRID](https://open.spotify.com/track/2DcoPHnwznHQimpVfMXL8Y) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS), [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [HYBRID \- SM STATION](https://open.spotify.com/album/3bL1FEeKZTzuTL85rLM0Qb) | 4:56 |
+| 49 | [HYBRID](https://open.spotify.com/track/2DcoPHnwznHQimpVfMXL8Y) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS), [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [HYBRID \- SM STATION](https://open.spotify.com/album/3bL1FEeKZTzuTL85rLM0Qb) | 4:56 |
+| 50 | [Closure](https://open.spotify.com/track/6jIJGY708HktwKqBe4LHeS) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/3AgzZrEeCYpaWgmVrik9jZ) | 3:02 |
 | 51 | [Memories](https://open.spotify.com/track/410nVRhyCAa4acMVB031iC) | [Dr\. Arnd Stein](https://open.spotify.com/artist/1ImmZaVk1stF4WEhz4CzaS) | [Top Hits Zum Entspannen, Vol\. 2](https://open.spotify.com/album/1lXRiGoCxvwxHjxokKDYW7) | 6:13 |
 | 52 | [Dizzy](https://open.spotify.com/track/66wY9Ppol67ODxjtRoYLbg) | [Saszan](https://open.spotify.com/artist/4AAUtbgySy6IcOCIVl6g5r) | [Dizzy](https://open.spotify.com/album/4NQ6wigiT0h1tNN7Y6KY8P) | 3:36 |
 | 53 | [Liverpool](https://open.spotify.com/track/1OFKUwul0KnJA4v4em3rso) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [The End Of The Storm \(Official Soundtrack\)](https://open.spotify.com/album/1WmdszaBk5ksWMRLar99TC) | 3:39 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 64 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
 | 65 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
 
-Snapshot ID: `MjgyMjU1NzAsMDAwMDAwMDBjNWQ2MjA3NjljZjIzYTJhYWRiZTNkYTJhMmQzMGQ1NA==`
+Snapshot ID: `MjgyNjE5MzAsMDAwMDAwMDBiMmE3NmZiNGUyZjAyODViMGJmNWY4N2Q2YWFjNDlmOA==`

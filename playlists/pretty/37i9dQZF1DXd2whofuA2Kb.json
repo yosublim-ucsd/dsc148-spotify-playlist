@@ -1,6 +1,6 @@
 {
   "description": "Because once you were a hipster, and now you are an indie parent.",
-  "num_followers": 54928,
+  "num_followers": 55144,
   "original_name": "Raised on Indie",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
       "artists": [
         {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -199,6 +183,22 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 266200,
       "name": "1979 - Remastered 2012",
       "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 213800,
       "name": "Are You Gonna Be My Girl",
       "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 112706,
+      "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
+      "url": "https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 214147,
       "name": "Pompeii",
       "url": "https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 112706,
-      "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
-      "url": "https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "La Roux",
-        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "La Roux",
+        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -839,6 +823,38 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr"
+      },
+      "artists": [
+        {
+          "name": "Radical Face",
+          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
+        }
+      ],
+      "duration_ms": 287634,
+      "name": "Welcome Home, Son",
+      "url": "https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -871,22 +887,6 @@
       "duration_ms": 186133,
       "name": "Astrovan",
       "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr"
-      },
-      "artists": [
-        {
-          "name": "Radical Face",
-          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
-        }
-      ],
-      "duration_ms": 287634,
-      "name": "Welcome Home, Son",
-      "url": "https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Grand",
-        "url": "https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa"
-      },
-      "artists": [
-        {
-          "name": "Matt and Kim",
-          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Conditions",
         "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 230800,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Grand",
+        "url": "https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa"
+      },
+      "artists": [
+        {
+          "name": "Matt and Kim",
+          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
         "name": "Yoshimi Battles the Pink Robots",
         "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 213173,
       "name": "Do You Realize??",
       "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
-      },
-      "artists": [
-        {
-          "name": "OK Go",
-          "url": "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "Here It Goes Again",
-      "url": "https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "OK Go",
+          "url": "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
         }
       ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+      "duration_ms": 179813,
+      "name": "Here It Goes Again",
+      "url": "https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"
     }
   ],
   "unique_name": "Raised on Indie",

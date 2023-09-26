@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Matteo",
+        "url": "https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc"
+      },
+      "artists": [
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167866,
+      "name": "Luccica",
+      "url": "https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ"
+    },
+    {
+      "album": {
         "name": "Donna sulla Luna",
         "url": "https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD"
       },

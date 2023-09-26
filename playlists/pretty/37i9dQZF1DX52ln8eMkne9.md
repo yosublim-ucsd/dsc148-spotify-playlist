@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,535 likes - 180 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,559 likes - 180 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 179 | [Early Autumn](https://open.spotify.com/track/4KTOEna2iDPxK69eTaEPza) | [The Jazz Trio](https://open.spotify.com/artist/5zX4srAEfIPgYbERzNCJ1Y), [Ursina](https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY) | [Early Autumn](https://open.spotify.com/album/1S55qFVE9hceDFE9UbIX5p) | 3:13 |
 | 180 | [You've Changed](https://open.spotify.com/track/6uIYlALj5i1nPryGFt28pr) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Because of Billie](https://open.spotify.com/album/36c53HxweeNT73AvTCehM1) | 4:30 |
 
-Snapshot ID: `MCwxNDQyMzI5ODI2NDAwMTM4ZWI2ZGYyZjZjMmJjYzQzODE0YmQyMjZi`
+Snapshot ID: `MCwzZGUxODRkYjk1Y2RkNWRlNzg2MTFkOTc1MmYzZDMyZTcxNzVjM2M4`

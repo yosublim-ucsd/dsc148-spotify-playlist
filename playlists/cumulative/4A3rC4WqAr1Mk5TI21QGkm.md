@@ -4,7 +4,7 @@
 
 > 
 
-187 songs - 10 hr 37 min
+188 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Home](https://open.spotify.com/track/1TQuqiFxqnVeez9OMq3emB) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 2:25 | 2022-03-28 |  |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2022-07-15 |  |
 | [HUNNIDDOLLA](https://open.spotify.com/track/4cOdRhWoQg8wrtggw6YZLY) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [HUNNIDDOLLA](https://open.spotify.com/album/2Zd7deeqEMClIaUCo19aIc) | 2:16 | 2022-07-15 |  |
+| [HUNNY](https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [BLEU](https://open.spotify.com/album/6woJYYYScksahP4fTIMhus) | 2:23 | 2023-09-02 |  |
 | [Hurt](https://open.spotify.com/track/1Xls3QHvOQ7YLB54R6BvgG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Hurt](https://open.spotify.com/album/3XATRvX0NKGvQAECv0kpAx) | 2:25 | 2019-08-13 |  |
 | [I Almost Lost This](https://open.spotify.com/track/7AW1Iu5ddElRyXooh8OITd) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Sun Transmission](https://open.spotify.com/album/627M0Ogm5Br8wiOdSwvQ16) | 2:41 | 2022-05-15 |  |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2021-03-21 |  |

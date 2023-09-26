@@ -4,7 +4,7 @@
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 53 min
+79 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Ni Dada La Quiero](https://open.spotify.com/track/4AplGNlqrFDyxkCM27gSCl) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:05 | 2022-06-01 |  |
 | [Ni Que Tuvieras Tanta Suerte](https://open.spotify.com/track/0OzRg0JDqxDDxtmKn2GUVi) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Señal De Alerta](https://open.spotify.com/album/28K8AZI79UWVamCJZglQlq) | 2:45 | 2022-06-01 |  |
 | [No Lloraré](https://open.spotify.com/track/6OYSCpemGHXqiip743GGAr) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Tiempo Al Tiempo](https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne) | 2:54 | 2022-06-08 |  |
+| [No Sé Qué Pasa](https://open.spotify.com/track/5YmbEstKMg7zofgLXvbSAN) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [No Sé Qué Pasa](https://open.spotify.com/album/1HCrI1y6xGB7HPrfB4Tt6f) | 3:02 | 2023-09-25 |  |
 | [Para Ti Mi Amor](https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Boleros Volumen 2](https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k) | 3:04 | 2022-06-01 |  |
 | [Playa Sola](https://open.spotify.com/track/0mzpP5g8OCOj3dCtowPAjV) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Embargame A Mi](https://open.spotify.com/album/3W3HJXgsvDaZr8lxKqNN6m) | 2:55 | 2022-06-01 |  |
 | [Ponle Ventanas Al Viento](https://open.spotify.com/track/0GtV5vYrnQ3g47AZPQ78go) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ventanas Al Viento](https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE) | 3:39 | 2022-06-01 | 2022-12-27 |

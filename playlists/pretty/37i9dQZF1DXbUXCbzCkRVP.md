@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,474 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,482 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 79 | [The Clock Strikes Twelve](https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Go Bo Diddley](https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe) | 2:57 |
 | 80 | [Long gone](https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 5:44 |
 
-Snapshot ID: `MCw1MjFiZDdhZjUwMGM0Zjg4Y2Q0NzZlYmIxZTgzMzUzYjdlOTgxODYw`
+Snapshot ID: `MCxhODE0NGFjOWU1YjNhYTk2ZDFiOWEwYzQ3MzA3ODg4MTIyOGY5ODVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s\. Cover: Elton John
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,149 likes - 150 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,204 likes - 150 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [If I Said You Had A Beautiful Body Would You Hold It Against Me](https://open.spotify.com/track/3EO5DSiJSASa69I7Vv00gN) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [The Two And Only](https://open.spotify.com/album/7DmroACAb1Xjq2sYxnMcR9) | 3:12 |
 | 150 | [I'm Still in Love with You](https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 3:11 |
 
-Snapshot ID: `MCxmMzAxNzk0MzI5M2Y5NDU0NGFlN2RlZTU2OGI1YmYxYTIxNjAwOTdi`
+Snapshot ID: `MCw2OGY3ZDljZDQ3ZjNlNjA1NDVmMzMyYWZiOTc1MTlkNjU2OGUzOWY5`

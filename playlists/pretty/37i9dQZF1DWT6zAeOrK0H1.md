@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 
 > Home of the best bands orbiting the universe right now\. Cover: The Beaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,041 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,047 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 79 | [As You Move Through The World](https://open.spotify.com/track/1UoNPvDGbt1kWbT0TNdNvP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [As You Move Through The World](https://open.spotify.com/album/7jhhiPwTyiofLgRDrlGYej) | 7:35 |
 | 80 | [What Feels Like Eternity](https://open.spotify.com/track/5qM7wBA2RnGBLjyzsNSgGK) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [What Feels Like Eternity](https://open.spotify.com/album/0xid9xFyq8ly9STtakIAaE) | 3:37 |
 
-Snapshot ID: `MCw0YzBhZGMxMmUyMmNlOTE0NWU0YjgzZmZhZGE0ODZiMTM5YTY0YmYy`
+Snapshot ID: `MCxmODhjMTRlN2M4NjU4MDAwNDlhNzI0NDdmMjMzZmZlZjk3ZDU1ZWZi`

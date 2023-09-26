@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,421 likes - 150 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,468 likes - 150 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 149 | [Borderline Existence](https://open.spotify.com/track/5o7pMG40vXYImxaQGOGK5O) | [Drown This City](https://open.spotify.com/artist/0miE6U5IB1KocKNfn8Cxt7) | [Borderline Existence](https://open.spotify.com/album/7t2LxAFsO0hzvPSUFsk7XY) | 3:07 |
 | 150 | [Death Magick](https://open.spotify.com/track/0lWZnBWW0UbN7t2r1b2CXi) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death Magick](https://open.spotify.com/album/1Tn0srx1e04A3T2TfEJGss) | 7:07 |
 
-Snapshot ID: `MCw3YzM1MDE1NGY5NDYxYzc2YTFlNGJmYzFmYTQwOWJlMDQyMjUyODQw`
+Snapshot ID: `MCw3MGE1MjEyYzI3ZTkyNjJhM2RiNmNkZTQzYjMyNDJmZjdlYmM0NDEw`

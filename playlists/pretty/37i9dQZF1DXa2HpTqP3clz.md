@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,722 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,731 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [When I Called Your Name](https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq) | [Twisted Pine](https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps) | [Twisted Pine](https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i) | 4:12 |
 | 100 | [The Trappings](https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z) | [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Not Our First Goat Rodeo](https://open.spotify.com/album/4NDXeXypRq8YdFCKqg4sAn) | 3:39 |
 
-Snapshot ID: `MCxlNWRlNzY3MDAwYmRlMDU1MDFjYWYyMmZkNzQ1ZmY5NDUzOTAyNDQy`
+Snapshot ID: `MCwyY2YyNWRkZTY3OWI3ZTY0ZjlhMzViYjMwNWIwNGM4MzIxNmExNjM4`

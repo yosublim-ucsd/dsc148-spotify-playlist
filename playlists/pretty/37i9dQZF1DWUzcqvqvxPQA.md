@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,980 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,979 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Whatever It Takes](https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL) | [Manwell](https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Whatever It Takes](https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR) | 3:29 |
 | 100 | [Do or Die \(feat\. Kinn\)](https://open.spotify.com/track/3Mqp9pFEaLqMdR3zouGWOJ) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Kinn](https://open.spotify.com/artist/09qJ9dcanr8ZWQpnWdkViV) | [Do or Die \(feat\. Kinn\)](https://open.spotify.com/album/0QDZHhQvQ9JmvPPm2vampA) | 3:54 |
 
-Snapshot ID: `MCw4OWJmNzJhZWU0ZGVhNzc3ZGI1NTBkODQyNjk3ODM0OWYyYmNmYTZm`
+Snapshot ID: `MCw3ZmRjNzZlZGVlMDE1OTdiZjA0MWEwODdjZTMwMDQ2ZjhjM2E2ZGZj`

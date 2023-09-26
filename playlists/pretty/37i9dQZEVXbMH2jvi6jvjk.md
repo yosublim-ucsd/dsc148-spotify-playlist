@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 
 > Your daily update of the most played tracks right now \- South Africa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,929 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,927 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 | 49 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 |
 | 50 | [Sukakude](https://open.spotify.com/track/4FEi7i9oDxDzcYbx53IHwq) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj) | [Amukelani](https://open.spotify.com/album/2mNIgnRjel4NFdeE5w75eO) | 6:53 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

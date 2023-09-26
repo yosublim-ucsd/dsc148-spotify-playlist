@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: JEANIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,716 likes - 125 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,735 likes - 125 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 124 | [Supersonic](https://open.spotify.com/track/6tPF5loVpq57PiSvwLE860) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Supersonic](https://open.spotify.com/album/23hERAsn2E7pl5wKpdyPFJ) | 3:36 |
 | 125 | [Cold Case \- VIP](https://open.spotify.com/track/0l5fWjOl1LaY8LdGpMVAaa) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Chassi](https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky), [BLUPILL](https://open.spotify.com/artist/3ZJYnAKri70UCI388uqGac) | [Cold Case \(VIP\)](https://open.spotify.com/album/4JLyjTkd8KIRPAtRVnwD13) | 2:08 |
 
-Snapshot ID: `MCw0ZDNjZTUzZTVjYjIzMjEyMzE3NGU3NGQ3OGI0ZDBjY2E1OWE1Mjkx`
+Snapshot ID: `MCxjOTY0YTRlNjRhMDYwNWIwYmYzNzk2MTdhNTAwYjJhMWZhOWE2ZWNl`

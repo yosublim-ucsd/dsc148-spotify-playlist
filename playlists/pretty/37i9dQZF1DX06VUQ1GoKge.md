@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,142 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,182 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 99 | [Amaranth](https://open.spotify.com/track/1vzqcPRQ6P1Uw7NZ5M77wJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) | 3:51 |
 | 100 | [The Will To Resist](https://open.spotify.com/track/0WV1TMGuajXst28TPvKLrK) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The Will To Resist](https://open.spotify.com/album/0ZVxTEzzR2ymyefQbsQGMV) | 3:35 |
 
-Snapshot ID: `MCw2ZDBjZjVhYTQxMDFiODExMDg4YzNiMGU3MWQzMTllMzdlMDZiZDgx`
+Snapshot ID: `MCw3ODU2NjE4OThhM2NhYjkyOWQ4MGI1YmI4ZmExOTYzYWY4MWU2MTkx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,510 likes - 55 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,517 likes - 55 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 54 | [Cry for Me](https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Girls](https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA) | 3:00 |
 | 55 | [Call on God](https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv) | 3:37 |
 
-Snapshot ID: `MCxmM2JjNzYxNmM2ODU5ODI5MDFiZTIyMTUxM2ZiOWRjY2Q0OTM4ZTQx`
+Snapshot ID: `MCwyMDMzZDQ5NTIwMDIxZjVkMzA3MzJhMzIxY2ExMzA5ODU1M2UzZjE5`

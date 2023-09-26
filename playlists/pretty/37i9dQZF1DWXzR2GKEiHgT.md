@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzR2GKEiHgT.md) - [plain]
 
 > Slip into slumber with soothing sea sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,414 likes - 175 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,430 likes - 175 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzR2GKEiHgT.md) - [plain]
 | 174 | [Light Rain And Waves](https://open.spotify.com/track/31fVqX5AVPA90aY6izz15g) | [Vattenmannen](https://open.spotify.com/artist/0ZZMkuvAapZ9KEvxQ5XeYJ) | [Wave Sound Meditation](https://open.spotify.com/album/3Lyz2GGV8wu73cBbPPTJ3r) | 2:52 |
 | 175 | [Seaside In The Swedish Archipelago](https://open.spotify.com/track/3sXmZta98ClJzuGWrhclGy) | [Atlantic Waves \(For Sleep\)](https://open.spotify.com/artist/4pKwFBw3mP2KUmTGG49roD) | [Atlantic Waves For Relaxing 2](https://open.spotify.com/album/1lMGvTFElYnhV7ZtMLLcdv) | 2:39 |
 
-Snapshot ID: `MCxlNTBiOTI0MTRjNjU4ODVlMmM4MzkyZjdkN2I3ODU2OTc0NzJlYjEw`
+Snapshot ID: `MCxmNTE5MjlhNDMwZGE5MjQxM2IzNjcxMGJmM2QzYjAyN2UxNWUxYTFm`

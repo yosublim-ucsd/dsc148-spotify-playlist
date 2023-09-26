@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 
 > Let these country tunes light up your day
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,699 likes - 62 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,697 likes - 62 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 | 51 | [Gettin' By, High and Strange](https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 2:34 |
 | 52 | [Jimmy Buffett](https://open.spotify.com/track/4ruDnMiMxH6VMKUqN77wsX) | [Taylor Goyette](https://open.spotify.com/artist/5CSfpRPGc1XEGd5twIRQTb) | [Jimmy Buffett](https://open.spotify.com/album/79XTfxtK21FyUaKqdAbu32) | 2:30 |
 | 53 | [Doobie Like U Do](https://open.spotify.com/track/6KPERXy14OLEL1kFpunnvo) | [Cannabis Cowboys](https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB) | [Doobie Like U Do](https://open.spotify.com/album/7An5o2NItPc19K3PsgtdSg) | 3:47 |
-| 54 | [Just Breathe \(feat\. Lukas Nelson\)](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 |
+| 54 | [Just Breathe](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 |
 | 55 | [High, Drunk, and Heartbroke](https://open.spotify.com/track/4p9D4xmZekyDDQdj7E7t1W) | [Chase Bryant](https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA) | [High, Drunk, and Heartbroke](https://open.spotify.com/album/4LABJGkJKQVOP1zR6MnZRE) | 6:17 |
 | 56 | [Wasted and Rollin'](https://open.spotify.com/track/5dpvpHFvkiwUl4aVQ5WKPn) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Down Fell the Doves](https://open.spotify.com/album/6DVHMSBPHdJ42Okvp5QJ9X) | 3:52 |
 | 57 | [High Time](https://open.spotify.com/track/2k3XVSB5S7teKwdOCZ6E99) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 5:48 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 | 61 | [High Feeling](https://open.spotify.com/track/5DgME3ZeZB78H4vJdX8Esd) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [Destiny Hotel](https://open.spotify.com/album/5GkRuglfNZXJBzEBOwGQGU) | 2:57 |
 | 62 | [Down to Seeds and Stems Again Blues](https://open.spotify.com/track/5lo3R8FXLTjtDPRwrPvZl1) | [Commander Cody And His Lost Planet Airman](https://open.spotify.com/artist/5EuQzrjffQlDTKObrN5tbY) | [Hot to Trot](https://open.spotify.com/album/4PcDJDCi5hMiH7l7v4T1qh) | 4:03 |
 
-Snapshot ID: `MCw4M2E4NmViMTIxMWY1YzFmZmIzNzc5ZWY3YjExMWE4MTM0MWJiMTQw`
+Snapshot ID: `MCxhNWU2ZDU4NTg0YzdhMWQ3ZDYyZTU5M2FjYjhhNDlkN2E4YjljYzA4`

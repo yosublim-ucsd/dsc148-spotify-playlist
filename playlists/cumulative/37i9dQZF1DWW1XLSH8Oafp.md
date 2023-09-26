@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Kenya Grace
 
-719 songs - 1 day 16 hr 36 min
+720 songs - 1 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,7 +572,8 @@
 | [shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [slept on the floor still dreamt about you](https://open.spotify.com/album/40BEVH86n8EDOKZIy7Jg8S) | 1:33 | 2022-12-23 | 2023-08-18 |
 | [Shut Up The Dance](https://open.spotify.com/track/4OEZHiGGh8dXGsGoam0n48) | [Chisel](https://open.spotify.com/artist/6YCvsKfbKbEiALHU8gD7mK), [Shaun Surveillance](https://open.spotify.com/artist/1ry8ePGMRuqvj8WKUZm0KJ) | [Spectrum Series 02](https://open.spotify.com/album/2OdOt0HxNFgYfU4bst17z2) | 4:08 | 2022-05-20 | 2022-06-11 |
 | [shy girl](https://open.spotify.com/track/1BIzfT74hOzKieuBjk7jKf) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [shy girl](https://open.spotify.com/album/3A99FyN9ydpMhAaFkn2Vac) | 2:36 | 2023-06-16 |  |
-| [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-25 |  |
+| [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 | 2023-09-22 |  |
+| [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-25 | 2023-09-26 |
 | [silent cries](https://open.spotify.com/track/3XDiZoc7B2LP6dyYxgImxg) | [Tfwamirite](https://open.spotify.com/artist/2Z5jvAA3r5Sjn4CnlI1mT4) | [silent cries](https://open.spotify.com/album/7J7wBqtYxiYBqYJPiWgovo) | 2:56 | 2022-07-11 | 2022-10-22 |
 | [Skin \- DJ Kuroneko Remix](https://open.spotify.com/track/2qqwfWYuAvnIXJJlzEjWHN) | [AVA AKIRA](https://open.spotify.com/artist/1jg5LFnnLAIEbTc6rb9bgn), [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [Skin \(DJ Kuroneko Remix\)](https://open.spotify.com/album/0tJMHjqYVll9njDLhXptBr) | 4:54 | 2022-06-03 | 2022-07-16 |
 | [SKYMADE](https://open.spotify.com/track/50JcK5tZ2SwHUhQGW3aL0w) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl), [Nanode](https://open.spotify.com/artist/6iWz2UIQJ4lwLBOo6GK4zH) | [SKYMADE](https://open.spotify.com/album/7vgvhGXIYsVANa8YoBQk7w) | 4:02 | 2022-06-17 | 2022-07-23 |

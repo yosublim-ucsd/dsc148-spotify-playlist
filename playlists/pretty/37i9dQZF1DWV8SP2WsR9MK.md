@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,631 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,643 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [Walkin' Up](https://open.spotify.com/track/6MVMLpL405L6JXbHXsddGa) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/6RRyVVMofYvprSf4fJViho) | 3:19 |
 | 100 | [Tenderly](https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG) | [Easy Like](https://open.spotify.com/album/4FEQUVniR5kClrtPy9uVJD) | 3:15 |
 
-Snapshot ID: `MCwxMjU2NzkyMzg5MTYwMWVjNjBiN2VhMjUyMzA5ZDI4ZTJjN2NmYmVj`
+Snapshot ID: `MCw1MWY5Y2IxYTA3NmM3MWJmNzMwYTcyMzUzNDM0YjFiYzc1NDNhZTJm`

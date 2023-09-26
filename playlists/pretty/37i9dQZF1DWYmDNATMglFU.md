@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. walwin
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,483 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,481 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [a girl is a gun](https://open.spotify.com/track/1DizkiqT4coHh4lNMyEPtU) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [re:start](https://open.spotify.com/album/4mHuGNBWQFa1G7xdOsGYon) | 3:20 |
 | 80 | [i hope KARMA](https://open.spotify.com/track/35ZzmdIfPCZWfmlkR5zgA4) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [i hope KARMA](https://open.spotify.com/album/42MNxi6wrqYQxvTCU8CW58) | 3:16 |
 
-Snapshot ID: `MCw0MWQ5YmVmZThjYjllNjViMjU1MTIwMTJmZjk5MzYzZWYwYTE0NWQ0`
+Snapshot ID: `MCwwYzg1NTI3YWM1NjJjZGE5N2VlM2FmNmU0MzU3YjY2MGNjMzM0ZTI3`

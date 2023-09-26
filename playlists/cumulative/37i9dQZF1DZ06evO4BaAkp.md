@@ -4,7 +4,7 @@
 
 > This is Arctic Monkeys\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 23 min
+59 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Secret Door](https://open.spotify.com/track/4dtP86vkhzwNXCFpCtizce) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:43 | 2023-03-19 |  |
 | [She's Thunderstorms](https://open.spotify.com/track/5xw2cHVLw1rlDPp3cL9Zuv) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:54 | 2023-03-19 |  |
 | [Snap Out Of It](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:13 | 2023-03-19 |  |
+| [Star Treatment](https://open.spotify.com/track/0FgNSsaSZTvbLXUumSO8LQ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp) | 5:54 | 2023-09-25 |  |
 | [Stop The World I Wanna Get Off With You](https://open.spotify.com/track/2QUlMbvD9bL8wHqfsoqoet) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/0SlR6pLgIqWFUkuUfbNbm0) | 3:11 | 2023-03-19 |  |
 | [Suck It and See](https://open.spotify.com/track/0LxeKwg9t7HOnyfv4bTALT) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:45 | 2023-03-19 |  |
 | [Teddy Picker](https://open.spotify.com/track/5kxVyCgEUND7E2QKG7JmoF) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 2:45 | 2023-03-19 |  |

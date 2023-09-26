@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,057 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,059 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [紙・心・ペン・心 \- SHISHINPENSHIN \-](https://open.spotify.com/track/2Utvk0X0sJPcrAltf1m5Ya) | [福田のり子 \(CV.浜崎奈々\)](https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo), [松田亜利沙 \(CV.村川梨衣\)](https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV), [如月千早 \(CV.今井麻美\)](https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g), [北上麗花 \(CV.平山笑美\)](https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE), [高山紗代子 \(CV.駒形友梨\)](https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/64joBVtf8tyQcjA4OqKmKZ) | 3:47 |
 | 75 | [LOVE is GAME](https://open.spotify.com/track/28JdMWZlK5qsUmqX3ytdnJ) | [天空橋朋花 \(CV.小岩井ことり\)](https://open.spotify.com/artist/5yvZ8R7mFGLF2j7DkiAiIU), [高槻やよい \(CV.仁後真耶子\)](https://open.spotify.com/artist/0ROzUCx8jDj405w1GBxZlb), [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq), [七尾百合子 \(CV.伊藤美来\)](https://open.spotify.com/artist/47xiXXUX21xJD21A8Uz6ZE) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/64joBVtf8tyQcjA4OqKmKZ) | 4:08 |
 
-Snapshot ID: `MCwyOWFkMjVjMTA1MDRmOTJiM2ViNmZkMDRiMzJiMjVkMDljNTVhZTJl`
+Snapshot ID: `MCwyZWYzOWM2MTlmOGJhNzBkYTg2ODNlNzM4ZGIxY2ZiOTQ2ZDFjNmM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: NewDad
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,140 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,146 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 79 | [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 |
 | 80 | [Worn Out Buildings](https://open.spotify.com/track/0xUN8ZBQGxTnNp8AaCiFum) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Worn Out Buildings](https://open.spotify.com/album/2m74UsKsBKUaCZT7mXOhh6) | 3:35 |
 
-Snapshot ID: `MCwwZmNiN2UzMWZiMzlhNzI2Njk3OWUyZjg3NzZjYjY0NjU3YTdjMTI0`
+Snapshot ID: `MCwyNGY0NjdiZmU2MGExZGE4NWMwM2QxNmJiNWU2MzM3NTU5YzQ1YmE5`

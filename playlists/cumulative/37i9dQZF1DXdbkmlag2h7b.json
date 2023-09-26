@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Armon\u00eda Serena",
+        "url": "https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD"
+      },
+      "artists": [
+        {
+          "name": "Abril Iluso",
+          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "Armon\u00eda Serena",
+      "url": "https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ"
+    },
+    {
+      "album": {
         "name": "Ascending Journey",
         "url": "https://open.spotify.com/album/0MGjvTelcOSXHZ7RhIQzWW"
       },
@@ -326,7 +344,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 215418,
       "name": "Becker's",
       "url": "https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7"
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 165755,
       "name": "Kalapas",
       "url": "https://open.spotify.com/track/24DMnKgG21XIzf4XVTM119"
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 192000,
       "name": "Son\u00e1mbulos",
       "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"

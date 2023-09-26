@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 
 > The biggest party hits of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,318 likes - 150 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,424 likes - 150 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 149 | [Something Happened on the Way to Heaven \- 2016 Remaster](https://open.spotify.com/track/4ziqqoW1o3P5EhNqK6CPb1) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 4:51 |
 | 150 | [One Night In Bangkok \- Radio Edit / From “Chess” / Remastered 2016](https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR) | [One Night In Bangkok \(Radio Edit / From “Chess” / Remastered 2016\)](https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g) | 3:13 |
 
-Snapshot ID: `MCw2ZGFmOTJiZWQ3MDQxYTc4NWFkNGJjZWM1ODMzOTQ4NjViNDk0NGU5`
+Snapshot ID: `MCwxMjFlYWZlMjdlMDJlZjJlYWNkMjlmNjE2MTc3YjMxMjhlZGJhNmFm`

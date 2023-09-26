@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. El Frizian & La Receta en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,800 likes - 125 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,846 likes - 125 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 124 | [Ojala y te animes](https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:28 |
 | 125 | [Yo Seguiré](https://open.spotify.com/track/0wCmsxdleZ6Bx1wnbASzPT) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Yo Seguiré](https://open.spotify.com/album/2Kgdp5hOSOKuk7X1K1yytR) | 4:13 |
 
-Snapshot ID: `MCw2NWQ5YmNlYWRlYjFkNjM2OGI2MWQzNzVmYzc3ZGJlMGE0N2NhYWM0`
+Snapshot ID: `MCxkMWVhOGUxMTBmN2QyZGQ0OWNjYmMyNGY0MzVkN2VjMzk3YTI4NDEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 
 > Spa treatment role\-play and ASMR massage sounds to give you tingles and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,660 likes - 47 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,664 likes - 47 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 | 46 | [Real Relaxing Brushing Sounds, Pt\. 4](https://open.spotify.com/track/1kYA2IGzg8FQWm2ISv2BwY) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [ASMR Brush Massage, Relaxing Brushing Sounds Real Person](https://open.spotify.com/album/4yZCHZC1WUf1wIsSM5Mds3) | 2:28 |
 | 47 | [Scalp Massage](https://open.spotify.com/track/3K9vwqX5tIKaYl1vQGgi7G) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [ASMR 6 Ear Massages To Help Stop Your Brain From Overthinking \(No Talking\)](https://open.spotify.com/album/0A3QJ5aCPJoh0KxqRysTo6) | 8:26 |
 
-Snapshot ID: `MCw2MGFjYjI1YTNiNGM2NmJlNWM3MjBiNjBkOTQ2NjA1NDk4NTdhM2E4`
+Snapshot ID: `MCxkN2ExMDRkMGU5N2M3NDUwOWYzZDRiODYxOWMyYjJjMDBmNzA3MGIw`

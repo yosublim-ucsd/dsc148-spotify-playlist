@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: AI
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,162 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,163 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Wonder Woman](https://open.spotify.com/track/3irp6WdpBLseu6ENO00XEi) | [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [Anna Tsuchiya](https://open.spotify.com/artist/1XTqQwcJw9D1bo0cuO8Oq2) | [Checkmate!](https://open.spotify.com/album/4NTDsMDwgwjJ8mRLVkpPpk) | 3:09 |
 | 50 | [Fighter](https://open.spotify.com/track/5IfISpdRTvRFKf8mGTJ0Z7) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F), [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [Fighter](https://open.spotify.com/album/2RXBuuFIINhwrOOkBQCaFJ) | 4:59 |
 
-Snapshot ID: `MCw0Njg2MTMzNDU5YWY3NGVmYTVjMDc1YjczZTFiOGRkMjEwYzAwYWQ4`
+Snapshot ID: `MCwzNTFmM2FhNDYzMWY0NjJiNTcwMzJhNTQ4OGUzZWY2ODgxOWNhYTJl`

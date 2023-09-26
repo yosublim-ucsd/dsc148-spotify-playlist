@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Agus Vivo & Sónico Vivo
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,156 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,162 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [Coquimbo, Mazatlán](https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Coquimbo, Mazatlán](https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd) | 4:24 |
 | 100 | [Cuando Estemos Solos](https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Cuando Estemos Solos](https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS) | 3:13 |
 
-Snapshot ID: `MCwzMzJhNWE0NGZmMzdjMmY3YjU1MTc2NDUwMDllNDUyYWY2YThiY2Rl`
+Snapshot ID: `MCxiMmIzNzAwYTNiZTM2MDFmMTY1YjM1NmI2YmE3ZGFlYWQ0M2NiNjk1`

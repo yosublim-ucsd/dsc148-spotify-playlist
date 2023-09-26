@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Staggers and Jags",
+        "url": "https://open.spotify.com/album/4QjOZSm3c3iRU4hbNd5gqC"
+      },
+      "artists": [
+        {
+          "name": "The Skullduggers",
+          "url": "https://open.spotify.com/artist/6dLRzaWUxI7MLmc50HFV8U"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204216,
+      "name": "10,000 Miles Away",
+      "url": "https://open.spotify.com/track/3N2UGAS6rIhudkycBrFQA0"
+    },
+    {
+      "album": {
         "name": "A Drop of Nelson`s Blood",
         "url": "https://open.spotify.com/album/0Oe9AaM9QqMoMf63o05qmi"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 188080,
       "name": "A Drop of Nelson`s Blood",
       "url": "https://open.spotify.com/track/3ibRWGqFRxHIjwIDKa9Bvk"
@@ -38,6 +56,42 @@
       "duration_ms": 179820,
       "name": "A Man with a Plan",
       "url": "https://open.spotify.com/track/0QW8MW9NKqmhqnaVDtXXw9"
+    },
+    {
+      "album": {
+        "name": "A-1-A",
+        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "A Pirate Looks At Forty",
+      "url": "https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j"
+    },
+    {
+      "album": {
+        "name": "Staggers and Jags",
+        "url": "https://open.spotify.com/album/4QjOZSm3c3iRU4hbNd5gqC"
+      },
+      "artists": [
+        {
+          "name": "The Skullduggers",
+          "url": "https://open.spotify.com/artist/6dLRzaWUxI7MLmc50HFV8U"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124632,
+      "name": "A Rovin'",
+      "url": "https://open.spotify.com/track/5aDx7XAqdcoVZSidYM1Rqt"
     },
     {
       "album": {
@@ -106,7 +160,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 236786,
       "name": "Alestorm",
       "url": "https://open.spotify.com/track/1VVSeif54ALo2SaZ35U5I3"
@@ -166,6 +220,24 @@
       "duration_ms": 178120,
       "name": "All For Me Grog",
       "url": "https://open.spotify.com/track/3qLrwfaXYmMj1k3qD8CRFN"
+    },
+    {
+      "album": {
+        "name": "First Night Back In Port",
+        "url": "https://open.spotify.com/album/0WX6iwjHalPm4xHbjEH1u2"
+      },
+      "artists": [
+        {
+          "name": "Ye Banished Privateers",
+          "url": "https://open.spotify.com/artist/16f8bHHqNwQWgqWMYyS9ij"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278173,
+      "name": "Annabel",
+      "url": "https://open.spotify.com/track/3g8pfAPuX46IY9krp3q7fX"
     },
     {
       "album": {
@@ -256,7 +328,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 236226,
       "name": "Barrels of Whiskey",
       "url": "https://open.spotify.com/track/3vM0IeRWC7BEfXEvC1mCCJ"
@@ -376,10 +448,28 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 75840,
       "name": "Billy Riley",
       "url": "https://open.spotify.com/track/1ZCIiSCc73CugkpWp7UYee"
+    },
+    {
+      "album": {
+        "name": "Heavy Mahogany",
+        "url": "https://open.spotify.com/album/0hdDkySDxGp1MoAC1mQpwG"
+      },
+      "artists": [
+        {
+          "name": "The Dread Crew of Oddwood",
+          "url": "https://open.spotify.com/artist/6zcmCjWWCCfegPGLlniQNg"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209920,
+      "name": "Binged and Purged",
+      "url": "https://open.spotify.com/track/1w9JcRR9B9NYyIShUjgIQF"
     },
     {
       "album": {
@@ -430,7 +520,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 193835,
       "name": "Bones in the Ocean",
       "url": "https://open.spotify.com/track/3axCgesL3rsjGzCX9ZJCTo"
@@ -455,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Staggers and Jags",
+        "url": "https://open.spotify.com/album/4QjOZSm3c3iRU4hbNd5gqC"
+      },
+      "artists": [
+        {
+          "name": "The Skullduggers",
+          "url": "https://open.spotify.com/artist/6dLRzaWUxI7MLmc50HFV8U"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203587,
+      "name": "Bonny Ship the Diamond",
+      "url": "https://open.spotify.com/track/1yu3I4wAqGMmvEaaqQRkBx"
+    },
+    {
+      "album": {
         "name": "Shanty Selects, Vol. 1 (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1dGCQcUtOUTNvbkFd1A6J2"
       },
@@ -466,7 +574,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 144284,
       "name": "Bosun Bill",
       "url": "https://open.spotify.com/track/40wVJcBuuWWIuUlITBmx9l"
@@ -524,6 +632,24 @@
       "duration_ms": 221564,
       "name": "BULLY IN THE ALLEY",
       "url": "https://open.spotify.com/track/14YMhhz4OzzkjUVJqSVHkX"
+    },
+    {
+      "album": {
+        "name": "Rats On Board",
+        "url": "https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw"
+      },
+      "artists": [
+        {
+          "name": "Paddy And The Rats",
+          "url": "https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158933,
+      "name": "Bully in the Alley",
+      "url": "https://open.spotify.com/track/7JyM7MpvjTbaRoDwcMsIX9"
     },
     {
       "album": {
@@ -646,7 +772,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 194453,
       "name": "Chip",
       "url": "https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL"
@@ -774,10 +900,28 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 67173,
       "name": "Dead Horse",
       "url": "https://open.spotify.com/track/7MSpEzjmxk6cTyd2Wl06IM"
+    },
+    {
+      "album": {
+        "name": "The Legend of Libertalia",
+        "url": "https://open.spotify.com/album/0SDCglWIjjK1aKje0aVcd5"
+      },
+      "artists": [
+        {
+          "name": "Ye Banished Privateers",
+          "url": "https://open.spotify.com/artist/16f8bHHqNwQWgqWMYyS9ij"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203695,
+      "name": "Dead Man's Song",
+      "url": "https://open.spotify.com/track/0otJQfmLnek9ApLFSBdikX"
     },
     {
       "album": {
@@ -799,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Pirate For The Rum",
+        "url": "https://open.spotify.com/album/7c4Wh9jvX4pSJT1M0VxlJg"
+      },
+      "artists": [
+        {
+          "name": "Stormfrun",
+          "url": "https://open.spotify.com/artist/5DuVbSyZIE7hh8pNoMEKiy"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Dividing The Plunder",
+      "url": "https://open.spotify.com/track/5wVwJqBLhoWV46Q4oqTuVS"
+    },
+    {
+      "album": {
         "name": "Roast Beef Of Old England",
         "url": "https://open.spotify.com/album/4KCfIyIyrl8YsiUzjQksWQ"
       },
@@ -814,7 +976,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 192293,
       "name": "Don't Forget Your Old Shipmate",
       "url": "https://open.spotify.com/track/7w7B0C7kT6CWLPGb0i4ArG"
@@ -850,7 +1012,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 202586,
       "name": "Drink",
       "url": "https://open.spotify.com/track/732EU1uX5FJmF9sG2AOfNq"
@@ -890,6 +1052,24 @@
       "duration_ms": 271880,
       "name": "Drink Up Me Hearties Yo Ho",
       "url": "https://open.spotify.com/track/0HewdQ1l9bckQXPfIO3CYH"
+    },
+    {
+      "album": {
+        "name": "Pirate For The Rum",
+        "url": "https://open.spotify.com/album/7c4Wh9jvX4pSJT1M0VxlJg"
+      },
+      "artists": [
+        {
+          "name": "Stormfrun",
+          "url": "https://open.spotify.com/artist/5DuVbSyZIE7hh8pNoMEKiy"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "Drink Up Your Rum",
+      "url": "https://open.spotify.com/track/52hI6OD1Zpp8528r7kiPAa"
     },
     {
       "album": {
@@ -960,7 +1140,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 208373,
       "name": "Drunken Sailor",
       "url": "https://open.spotify.com/track/0WR6Amta732nCZwBKtT8HN"
@@ -1008,7 +1188,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 176853,
       "name": "Drunken Sailor",
       "url": "https://open.spotify.com/track/5Su5ILFp6U83cnIXwfmlC5"
@@ -1026,7 +1206,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 144760,
       "name": "Drunken Sailor",
       "url": "https://open.spotify.com/track/4n5UwoPQn0tBlqxQjyEMdB"
@@ -1092,10 +1272,28 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 89253,
       "name": "Fish in the Sea",
       "url": "https://open.spotify.com/track/4gofFADVe6CBXoNQHuxwiF"
+    },
+    {
+      "album": {
+        "name": "Staggers and Jags",
+        "url": "https://open.spotify.com/album/4QjOZSm3c3iRU4hbNd5gqC"
+      },
+      "artists": [
+        {
+          "name": "The Skullduggers",
+          "url": "https://open.spotify.com/artist/6dLRzaWUxI7MLmc50HFV8U"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106364,
+      "name": "Flowers of Edinborough",
+      "url": "https://open.spotify.com/track/7ud5YhE4qH0jE9Nmrm1CR5"
     },
     {
       "album": {
@@ -1182,7 +1380,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 175988,
       "name": "Gangplank",
       "url": "https://open.spotify.com/track/5X2ImrKU0w2RjmZfK3Od9I"
@@ -1284,7 +1482,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 98440,
       "name": "Good Morning Ladies",
       "url": "https://open.spotify.com/track/0OBdHjWWIKHNKV3IQzDEUB"
@@ -1338,7 +1536,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 100520,
       "name": "Guilty of Being Innocent of Being Jack Sparrow - From \"Pirates of the Caribbean: On Stranger Tides\"/Score",
       "url": "https://open.spotify.com/track/0ahHgsbKvBEd3yYQmxHBoj"
@@ -1374,7 +1572,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 117466,
       "name": "Haul Away Joe",
       "url": "https://open.spotify.com/track/1Hq14hcGvFD2ocHX6UiJbf"
@@ -1396,6 +1594,24 @@
       "duration_ms": 176500,
       "name": "Haul Away Joe",
       "url": "https://open.spotify.com/track/7kXxpqMNTR0PdvwXZr3j3m"
+    },
+    {
+      "album": {
+        "name": "Lawful Evil",
+        "url": "https://open.spotify.com/album/2AKLKlE4qYur89nEMtEeeo"
+      },
+      "artists": [
+        {
+          "name": "The Dread Crew of Oddwood",
+          "url": "https://open.spotify.com/artist/6zcmCjWWCCfegPGLlniQNg"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Heavy Mahogany",
+      "url": "https://open.spotify.com/track/2G4N7ULdq0MbzmgRAmh1sc"
     },
     {
       "album": {
@@ -1438,7 +1654,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 155653,
       "name": "Here's a Health to the Company",
       "url": "https://open.spotify.com/track/4JUkdidM086v5Vl2xBQYt5"
@@ -1474,7 +1690,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 191693,
       "name": "High Barbary",
       "url": "https://open.spotify.com/track/6sguMb85rfhr4dUxbxduiN"
@@ -1591,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "I'm Shipping Up To Boston",
+      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+    },
+    {
+      "album": {
         "name": "Derina Harvey Band",
         "url": "https://open.spotify.com/album/3EG1VnKDsiUKjJe4I4RSCn"
       },
@@ -1656,7 +1890,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 195419,
       "name": "John Kanackanaka",
       "url": "https://open.spotify.com/track/50SKJ7ghPxA7JN8cP8wl8O"
@@ -1692,7 +1926,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 188000,
       "name": "Join The Riot",
       "url": "https://open.spotify.com/track/793DGXYpeAGUaPY9IdSQoK"
@@ -1710,7 +1944,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 222253,
       "name": "Keelhauled",
       "url": "https://open.spotify.com/track/2pnZVpeKqLrEto2X9vYF6s"
@@ -1746,7 +1980,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 122044,
       "name": "Leave Her Johnny",
       "url": "https://open.spotify.com/track/4APSKmljfj6XlCn4Myap0f"
@@ -1872,7 +2106,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 158562,
       "name": "Maiden Voyage - Original Game Soundtrack",
       "url": "https://open.spotify.com/track/6aYjVWuTtLWjRu1OYK9a6h"
@@ -1898,6 +2132,42 @@
       "duration_ms": 234814,
       "name": "Man the Cannons",
       "url": "https://open.spotify.com/track/4juncBlelkjGdlOtmP4yYW"
+    },
+    {
+      "album": {
+        "name": "Staggers and Jags",
+        "url": "https://open.spotify.com/album/4QjOZSm3c3iRU4hbNd5gqC"
+      },
+      "artists": [
+        {
+          "name": "The Skullduggers",
+          "url": "https://open.spotify.com/artist/6dLRzaWUxI7MLmc50HFV8U"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169374,
+      "name": "Maui",
+      "url": "https://open.spotify.com/track/4fudk5iAcdJk6uN0L8VW6X"
+    },
+    {
+      "album": {
+        "name": "Heavy Mahogany",
+        "url": "https://open.spotify.com/album/0hdDkySDxGp1MoAC1mQpwG"
+      },
+      "artists": [
+        {
+          "name": "The Dread Crew of Oddwood",
+          "url": "https://open.spotify.com/artist/6zcmCjWWCCfegPGLlniQNg"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170213,
+      "name": "Meat, Bread and Wine",
+      "url": "https://open.spotify.com/track/75VT0HGvrtvZI51j4LwB5k"
     },
     {
       "album": {
@@ -2000,6 +2270,24 @@
     {
       "album": {
         "name": "My Mother Told Me",
+        "url": "https://open.spotify.com/album/0k4f1zH1DsH2hp6hHy5B4G"
+      },
+      "artists": [
+        {
+          "name": "Peyton Parrish",
+          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130595,
+      "name": "My Mother Told Me",
+      "url": "https://open.spotify.com/track/2BP7n3hOf84uDo5dsAzyZy"
+    },
+    {
+      "album": {
+        "name": "My Mother Told Me",
         "url": "https://open.spotify.com/album/5mWOFaqjVrwpLLpH8BPx4r"
       },
       "artists": [
@@ -2028,7 +2316,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 100573,
       "name": "My Son John",
       "url": "https://open.spotify.com/track/6PxC0ilHOSZGO6ASrktNv4"
@@ -2072,7 +2360,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 289573,
       "name": "Northwest Passage",
       "url": "https://open.spotify.com/track/4WKs2iDdrR2fA8T3hlCanB"
@@ -2184,7 +2472,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 210493,
       "name": "Old Maui",
       "url": "https://open.spotify.com/track/6Z6Sk2YOLs4SSnf4fTtDaM"
@@ -2220,10 +2508,28 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 192175,
       "name": "On The Sea of Thieves",
       "url": "https://open.spotify.com/track/4WCHJ2K2xQ99Mb8h42k7RL"
+    },
+    {
+      "album": {
+        "name": "Pirate For The Rum",
+        "url": "https://open.spotify.com/album/7c4Wh9jvX4pSJT1M0VxlJg"
+      },
+      "artists": [
+        {
+          "name": "Stormfrun",
+          "url": "https://open.spotify.com/artist/5DuVbSyZIE7hh8pNoMEKiy"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307500,
+      "name": "Once A Sailor",
+      "url": "https://open.spotify.com/track/1v9wgh1IEBYJTQP1CGLfth"
     },
     {
       "album": {
@@ -2296,7 +2602,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 215720,
       "name": "Oublie-moi - Carry On",
       "url": "https://open.spotify.com/track/3lij9WKWJ1k89thmWGMaqr"
@@ -2340,6 +2646,42 @@
       "duration_ms": 184480,
       "name": "Palm Tree Escape - From \"Pirates of the Caribbean: On Stranger Tides\"/Score",
       "url": "https://open.spotify.com/track/4wKRWMaIUGJyrhVGdsmv0h"
+    },
+    {
+      "album": {
+        "name": "Below",
+        "url": "https://open.spotify.com/album/5v9Pj6yV8ro70nkL3p9zje"
+      },
+      "artists": [
+        {
+          "name": "Stormfrun",
+          "url": "https://open.spotify.com/artist/5DuVbSyZIE7hh8pNoMEKiy"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185249,
+      "name": "Pay what is due",
+      "url": "https://open.spotify.com/track/1NsdEnl4QtvST0zgcUeiar"
+    },
+    {
+      "album": {
+        "name": "The Triumph Of Piracy",
+        "url": "https://open.spotify.com/album/1MuJRhJquzXtVJrMTktplm"
+      },
+      "artists": [
+        {
+          "name": "Rumahoy",
+          "url": "https://open.spotify.com/artist/52aKFP2BnAa28POINNExhE"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "Pirateship",
+      "url": "https://open.spotify.com/track/70clLbYQAeYfh1QlJBLICs"
     },
     {
       "album": {
@@ -2494,7 +2836,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 95293,
       "name": "Randy Dandy Oh",
       "url": "https://open.spotify.com/track/6Fv0O8eHNcWO1DmF0EMrRc"
@@ -2512,7 +2854,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 126493,
       "name": "Randy Dandy-O",
       "url": "https://open.spotify.com/track/5j1afatmPZ6MxqpLdSWAGn"
@@ -2570,7 +2912,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 162105,
       "name": "Rockstar Sea Shanty",
       "url": "https://open.spotify.com/track/7k2t5SM7IsgEtKtRK8V2sm"
@@ -2588,7 +2930,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 183141,
       "name": "Roll the Old Chariot Along",
       "url": "https://open.spotify.com/track/1HpZmEGmT9Y658IUMyTPhB"
@@ -2618,7 +2960,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 115840,
       "name": "Roll, Boys, Roll!",
       "url": "https://open.spotify.com/track/78oB43ccLvINGO48J6E7j7"
@@ -2684,7 +3026,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 89880,
       "name": "Running Down to Cuba",
       "url": "https://open.spotify.com/track/7I5Io7uuk6kFvFe16Wm3xZ"
@@ -2761,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Bis ans Ende der Welt (Second Edition)",
+        "url": "https://open.spotify.com/album/5nM9xE7PbLZHI20GSeal61"
+      },
+      "artists": [
+        {
+          "name": "Santiano",
+          "url": "https://open.spotify.com/artist/6E9zde1CFsBtKI66OEHkk3"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "Santiano",
+      "url": "https://open.spotify.com/track/48iwF6sUOHYg2foDUPZWUd"
+    },
+    {
+      "album": {
         "name": "Rove and Go",
         "url": "https://open.spotify.com/album/5lsqVhsUlTstxeBwidBJmO"
       },
@@ -2772,7 +3132,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 199266,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/4qoY9d0fhLD6RzTAxk72fQ"
@@ -2794,6 +3154,24 @@
       "duration_ms": 234362,
       "name": "Sea Shanty Medley",
       "url": "https://open.spotify.com/track/5mkoR8mVrEwpDQc9y54sM2"
+    },
+    {
+      "album": {
+        "name": "Seventh Rum Of A Seventh Rum (Deluxe)",
+        "url": "https://open.spotify.com/album/6wCzeOFPJTsMuKo2x1vNJy"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201114,
+      "name": "Seventh Rum Of A Seventh Rum",
+      "url": "https://open.spotify.com/track/3sGhOKbvEl2ONozZJt0dUi"
     },
     {
       "album": {
@@ -2844,10 +3222,28 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 219217,
       "name": "Ship is Sinking",
       "url": "https://open.spotify.com/track/2a7ephjwhrpuwNhXKPBHhe"
+    },
+    {
+      "album": {
+        "name": "Pirate Scum",
+        "url": "https://open.spotify.com/album/28fktcVI1lMtdDv36DgkRr"
+      },
+      "artists": [
+        {
+          "name": "Storm Seeker",
+          "url": "https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228053,
+      "name": "Side by Side",
+      "url": "https://open.spotify.com/track/6ZCavaMoehoM5UV4Ipelcw"
     },
     {
       "album": {
@@ -2869,6 +3265,24 @@
     },
     {
       "album": {
+        "name": "Lawful Evil",
+        "url": "https://open.spotify.com/album/2AKLKlE4qYur89nEMtEeeo"
+      },
+      "artists": [
+        {
+          "name": "The Dread Crew of Oddwood",
+          "url": "https://open.spotify.com/artist/6zcmCjWWCCfegPGLlniQNg"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267640,
+      "name": "Siren's Song",
+      "url": "https://open.spotify.com/track/6ktSZDqdi032bmYIftBY3G"
+    },
+    {
+      "album": {
         "name": "Skull and Bones",
         "url": "https://open.spotify.com/album/2uwGcOiB2NsF6xlGHx3OSa"
       },
@@ -2880,10 +3294,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 220291,
       "name": "Skull and Bones",
       "url": "https://open.spotify.com/track/4Pj1PUBneNwBXQdSpZWaQD"
+    },
+    {
+      "album": {
+        "name": "Gringo Mariachi",
+        "url": "https://open.spotify.com/album/4CC3kQ3ZkNpQDbEQYlEMfq"
+      },
+      "artists": [
+        {
+          "name": "The Wages of Sin",
+          "url": "https://open.spotify.com/artist/6Hrxj4oIw4DVlrFQO0wJGV"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211213,
+      "name": "Skull Creek Logger",
+      "url": "https://open.spotify.com/track/5te8SEZyn5GAYIgOifGkDy"
     },
     {
       "album": {
@@ -2964,7 +3396,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 182160,
       "name": "Somnambule",
       "url": "https://open.spotify.com/track/3WDVDkBJNjTYT4XhchiDab"
@@ -3089,6 +3521,24 @@
     },
     {
       "album": {
+        "name": "The Ballad of Edward Kenway",
+        "url": "https://open.spotify.com/album/3ZAbWl1D718ArEk95fCFmP"
+      },
+      "artists": [
+        {
+          "name": "The Dread Crew of Oddwood",
+          "url": "https://open.spotify.com/artist/6zcmCjWWCCfegPGLlniQNg"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131983,
+      "name": "The Ballad of Edward Kenway",
+      "url": "https://open.spotify.com/track/301y7xVJwisUkHINfzHEBf"
+    },
+    {
+      "album": {
         "name": "Sole Mates",
         "url": "https://open.spotify.com/album/5DICj5jHVL7sACXXKtjvu4"
       },
@@ -3136,7 +3586,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 236000,
       "name": "The Captain\\'s Dead",
       "url": "https://open.spotify.com/track/0czy1YM0NE27PRIovGhwCn"
@@ -3154,7 +3604,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 108700,
       "name": "The Coast of High Barbary",
       "url": "https://open.spotify.com/track/7ijrqgBKg3BQ3P0lQpSvoK"
@@ -3172,7 +3622,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 187754,
       "name": "The Cruel Wars",
       "url": "https://open.spotify.com/track/6BadR8UdEijDv01ZafyO62"
@@ -3190,7 +3640,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 186746,
       "name": "The Curse",
       "url": "https://open.spotify.com/track/3uiINueubyLXa51Yns60ZG"
@@ -3244,7 +3694,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 243786,
       "name": "The Flying Dutchman",
       "url": "https://open.spotify.com/track/4m6d1gakr80NsDIOX4B43p"
@@ -3266,6 +3716,24 @@
       "duration_ms": 43146,
       "name": "The Forester",
       "url": "https://open.spotify.com/track/5umBVyJjhaz4ECIyFhUFsq"
+    },
+    {
+      "album": {
+        "name": "Dark Side of the Lagoon",
+        "url": "https://open.spotify.com/album/4iCybemZResHf54y0Rm0Zd"
+      },
+      "artists": [
+        {
+          "name": "Pirates For Sail",
+          "url": "https://open.spotify.com/artist/37Ev1TQw7FnzNvuN8Bg3SR"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336240,
+      "name": "The Gael...Time Flies",
+      "url": "https://open.spotify.com/track/4X2DqlFZsjqrNfiNegxcLC"
     },
     {
       "album": {
@@ -3356,7 +3824,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 226173,
       "name": "The Last Shanty",
       "url": "https://open.spotify.com/track/69HEUcXd73lvnQVb34m53L"
@@ -3439,6 +3907,24 @@
     },
     {
       "album": {
+        "name": "Akoustik Vol.I (chants)",
+        "url": "https://open.spotify.com/album/7pbCwjBVnMZyDKMRHagmeq"
+      },
+      "artists": [
+        {
+          "name": "Alpine Universe",
+          "url": "https://open.spotify.com/artist/2p2f0IoFel8v0mdBqGsw1C"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72750,
+      "name": "The Saptan - Acoustic",
+      "url": "https://open.spotify.com/track/6KDAI3ZUhTTHCF6aYXNQ0X"
+    },
+    {
+      "album": {
         "name": "The Summoning (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/6iMpim4d8639MOVftPj9cV"
       },
@@ -3468,7 +3954,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 247080,
       "name": "The Sunk'n Norwegian",
       "url": "https://open.spotify.com/track/21TXqJZz8Ogiz2Dc1BTKZg"
@@ -3545,6 +4031,24 @@
     },
     {
       "album": {
+        "name": "THE WORLD EP.2 : OUTLAW",
+        "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212105,
+      "name": "This World",
+      "url": "https://open.spotify.com/track/6QDcmN2Avrim8kNoCHkw9s"
+    },
+    {
+      "album": {
         "name": "Assassin's Creed 4: Black Flag (Sea Shanty Edition) [Original Game Soundtrack]",
         "url": "https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi"
       },
@@ -3612,7 +4116,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 256880,
       "name": "Tyme Flyes When You're Havin' Rum",
       "url": "https://open.spotify.com/track/5JmbyYWUukONvKsgdWmJyP"
@@ -3666,10 +4170,28 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 226333,
       "name": "Voodoo Man",
       "url": "https://open.spotify.com/track/5M6G1XgzbIafNm6vKu3KoW"
+    },
+    {
+      "album": {
+        "name": "Songs and Curses",
+        "url": "https://open.spotify.com/album/3xqo4Fm6W0b5niKL7W3IqO"
+      },
+      "artists": [
+        {
+          "name": "Ye Banished Privateers",
+          "url": "https://open.spotify.com/artist/16f8bHHqNwQWgqWMYyS9ij"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159474,
+      "name": "Waves Roll High",
+      "url": "https://open.spotify.com/track/507AEU0ZFtxm4ppjyF9xfA"
     },
     {
       "album": {
@@ -3702,7 +4224,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 122237,
       "name": "Welcome to Tortuga",
       "url": "https://open.spotify.com/track/5Ka2fQyqSyf3A8mU8DrDIp"
@@ -3720,7 +4242,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 136500,
       "name": "Wellerman",
       "url": "https://open.spotify.com/track/6ZblDQM0Gq0daaPAwuHOmD"
@@ -3738,7 +4260,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 134006,
       "name": "Wellerman",
       "url": "https://open.spotify.com/track/3sdmNB8uN6XK55A6pDO2yk"
@@ -3756,7 +4278,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 156160,
       "name": "Wellerman - Sea Shanty",
       "url": "https://open.spotify.com/track/0WoQSoNO40qdY3j6PxMy4b"
@@ -3898,7 +4420,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 126000,
       "name": "Yo Ho (A Pirate's Life for Me)",
       "url": "https://open.spotify.com/track/3LTsY6B9oBHFlrU3E2dM6Y"
@@ -3934,7 +4456,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 234752,
       "name": "You and Me and the Devil Makes Three",
       "url": "https://open.spotify.com/track/1FDs1EXSd8G62xuqYS0pNv"

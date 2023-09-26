@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover:  <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=7476425269ff490a">Pastor Mike Jr.</a>, <a href="https://www.thestellarawards.com/index.html">Stellar Awards'</a> Artist of the Year
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,227 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,246 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 99 | [Never Let Me Go](https://open.spotify.com/track/1z69IavRF0D3MXsdbvsPBE) | [Jason McGee & The Choir](https://open.spotify.com/artist/2a1U4XLduUgLzFErHznt9d), [Warryn Campbell](https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu) | [Never Let Me Go](https://open.spotify.com/album/5vGpKoJ12FjCFJUaaZeBtP) | 4:11 |
 | 100 | [Gotta Believe](https://open.spotify.com/track/6XQnntAqVSQkcaBQP7HIJO) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Gotta Believe](https://open.spotify.com/album/0oS2D0IgnyGkkaUVmdJ1Dv) | 2:50 |
 
-Snapshot ID: `MCxhOGE1ZDhjZDhhOGFhM2FmOWMwM2FjNDFiNGI2MGFkMTNhMzY0Y2Y3`
+Snapshot ID: `MCxkNjU0OTI0YTU1YjUzMmE3OTc2YWJlMTM3ZmVlNTE0YmRlZDYyNmFi`

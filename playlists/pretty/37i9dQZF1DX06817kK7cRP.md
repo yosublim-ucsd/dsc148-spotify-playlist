@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,404 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,508 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 99 | [little lies](https://open.spotify.com/track/3x8mCjdAaPtXtAPUkFX5wn) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Good feeling](https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s) | 2:16 |
 | 100 | [Heatwave](https://open.spotify.com/track/03gunYpOFHu4swpyry4QKX) | [Danny James](https://open.spotify.com/artist/2v04CAaxpr6sSELBPMOkoQ), [Es\-K](https://open.spotify.com/artist/0Ece4RFAFNTEpYaTHZWuhe), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Heatwave](https://open.spotify.com/album/5ifo18NW9f8DwVhvpTNJLg) | 3:11 |
 
-Snapshot ID: `MCxhYmIxNmIwNTFiYjcxY2ZhODY5MDljNGIzNjdmOTBlOGVkNmU1OTI0`
+Snapshot ID: `MCwxNTI2NDI2YzdjOTg5ZjNhZmEzODMzMGY5YWYxOTFjZDc4YTE1NTc4`

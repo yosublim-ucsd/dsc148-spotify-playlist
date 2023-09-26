@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,428 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,487 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [空蝉](https://open.spotify.com/track/512AumOSEWMM6zQXgohm0P) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 2:55 |
 | 50 | [Dead Metal](https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW) | [Rhys Lindsay](https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8) | [Exo One \(Original Game Soundtrack\)](https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme) | 1:05 |
 
-Snapshot ID: `MCw3NGUwM2EzYWNmOTg4Zjc2YWVkYjMxNzVmNTNjMzE3MTVjYzJhYmFi`
+Snapshot ID: `MCw4ZGJkMzU2MTUyOThiMjhiYmZmNGQ5OGU0YzExZWViYWJjZjhiODE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,158 likes - 120 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,215 likes - 120 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/track/6ZxiEkmFOQGA5xrLiV3yTS) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/album/3iALD5FS2raKNCjouli13t) | 5:01 |
 | 120 | [Sua Paz](https://open.spotify.com/track/6V0fI11nicirapOakPVLO4) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Sua Paz](https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y) | 3:25 |
 
-Snapshot ID: `MCwyZmZkMDU4ZWFiNWQyNDgxMTE3ZGRmYzUwZDNhZjhjOGJmN2E5Nzg2`
+Snapshot ID: `MCw4YjM2ZjM4ZTlkOTIyMjdmZmFiMzdkMDE2MjZhOGNhMjAyYTMzYTk1`

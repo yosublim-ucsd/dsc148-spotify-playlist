@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,323 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,339 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 86 | [Deed I Do](https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 2:49 |
 | 87 | [Lulu's Back in Town](https://open.spotify.com/track/5BaWh0PA2TqGv2WOj9VZgK) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Dek\-tette](https://open.spotify.com/artist/3LKTSEL1dpa0iAUVZmikcr) | [Mel Tormé with the Marty Paich Dek\-Tette \(Remastered 2013\)](https://open.spotify.com/album/7jburawWwnKP2O2kGIbYp8) | 3:05 |
 
-Snapshot ID: `MCwzZTQzODc4ZDg5Mjc0YmIwYjY4NjE0MTQzYzI0MzkxNzFjN2E2ZDdi`
+Snapshot ID: `MCw4ZDZmMzFiMTNhYjcyMTIyN2Q1Mjk5NzdhM2Y3MzczMzljYWVkNTlm`

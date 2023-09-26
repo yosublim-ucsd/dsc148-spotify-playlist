@@ -4,7 +4,7 @@
 
 > To the world, Here is NCT! Hi we are NCT!
 
-190 songs - 11 hr 4 min
+191 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Back 2 U \(AM 01:27\)](https://open.spotify.com/track/1HQMAMniSuhvBOpx5utxad) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT\#127 LIMITLESS \- The 2nd Mini Album](https://open.spotify.com/album/0S6GmG9lmbbgr61Hj4cadt) | 3:55 | 2021-12-16 | 2022-07-29 |
 | [Back 2 U \(AM 01:27\)](https://open.spotify.com/track/37SqctQhMp3MjvGDXKhnJ3) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT\#127 LIMITLESS \- The 2nd Mini Album](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) | 3:55 | 2021-12-16 | 2023-05-03 |
 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-08-28 |  |
+| [Bandit](https://open.spotify.com/track/3mQH4pXsnixxr8EDK7ZZVa) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Song of the Bandits \(Music from The Netflix Series\)](https://open.spotify.com/album/1TXOVlZGrd3KbphTcXN8vw) | 3:23 | 2023-09-26 |  |
 | [Be There For You](https://open.spotify.com/track/65aiZeH9Uld7iFC4w24tiR) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:43 | 2021-12-16 | 2023-05-03 |
 | [Beautiful](https://open.spotify.com/track/2TGniNBlW1mBJFxvSLZ4SA) | [NCT 2021](https://open.spotify.com/artist/5Qnl3RAtzne7J1dxRv1UBc) | [Universe \- The 3rd Album](https://open.spotify.com/album/3oc1LdV5V128z8fCtAX3Xs) | 4:21 | 2021-12-16 | 2022-07-29 |
 | [Beautiful](https://open.spotify.com/track/6NBbpQfD2MZcCNBOy7iE7Q) | [NCT 2021](https://open.spotify.com/artist/5Qnl3RAtzne7J1dxRv1UBc) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 4:21 | 2021-12-16 |  |

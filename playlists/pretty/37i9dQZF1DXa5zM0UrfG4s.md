@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,764 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,769 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 |
 | 70 | [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 |
 
-Snapshot ID: `MCw2NmUwNDk2Y2MyNmNjM2RiZDdiZmUxYmFlOTgxYmM4YmVlNDkxN2Iz`
+Snapshot ID: `MCxkNDQzY2U3NDM2MzlmNDBlYTUwMDk0ZTg5MmYyYzM5NGM5ZDgzMTRi`

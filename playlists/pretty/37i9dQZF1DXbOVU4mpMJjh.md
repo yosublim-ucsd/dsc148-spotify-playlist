@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,634 likes - 600 songs - 1 day 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,654 likes - 600 songs - 1 day 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 599 | [Dreamsville](https://open.spotify.com/track/24M4rafgMYq9b49CEYPpm9) | [David Halliday](https://open.spotify.com/artist/1tPE7mBsjG1eu2w2BikKry) | [Dreamsville](https://open.spotify.com/album/71Vzhdj0zMdTZKh2YNmld7) | 7:57 |
 | 600 | [Little Friends](https://open.spotify.com/track/1XG86L7eVEwRN5wuD6E26T) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Little Friends](https://open.spotify.com/album/31CEY462P9AKYSnixdu46b) | 3:03 |
 
-Snapshot ID: `MCw5YThhYjI4OTc0MTk2Y2ZhNjhlYTZlNzk2MjExMTEzMTRhNzNmYmUx`
+Snapshot ID: `MCw4M2VlYzczZWY3ZGNlNGVkNTI0NDEzMjM2ODFkYzUzZTQwZGYzMzI3`

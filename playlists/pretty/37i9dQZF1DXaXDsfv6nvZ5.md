@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,928 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,966 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 149 | [Forgive Them \- Live](https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6) | [Good Compenny](https://open.spotify.com/artist/4FKlCbh9ZcLpAstEEVsUR1), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Forgive Them \(Live\)](https://open.spotify.com/album/01HrHhWzdHjnhHzX57HUTa) | 4:03 |
 | 150 | [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 |
 
-Snapshot ID: `MCw1YWNkZWFhOGMzYWYyMzFlMDA3ZTc3OWNiNDJiOWM2NGMyM2U1M2Jm`
+Snapshot ID: `MCw3YjlkNmJlOWEwMDk0ZDNmYTEzMWNjOGI4NTQ4MjY0YzhhZjQwZDcx`

@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Song of the Bandits (Music from The Netflix Series)",
+        "url": "https://open.spotify.com/album/1TXOVlZGrd3KbphTcXN8vw"
+      },
+      "artists": [
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/3mQH4pXsnixxr8EDK7ZZVa"
+    },
+    {
+      "album": {
         "name": "Hot Sauce - The 1st Album",
         "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
       },

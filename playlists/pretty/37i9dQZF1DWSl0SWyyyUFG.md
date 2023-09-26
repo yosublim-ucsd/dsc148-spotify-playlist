@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,434 likes - 150 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,537 likes - 150 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 149 | [Por una Mujer Casada](https://open.spotify.com/track/1xheTAuldO0KID60sAQkIo) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 1: Por una Mujer Casada y Otras Rancheras](https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ) | 2:08 |
 | 150 | [Ojitos Verdes](https://open.spotify.com/track/2IQNiCvRnwTmd2Ddo2QR5Q) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme](https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm) | 2:22 |
 
-Snapshot ID: `MCw1NjQ4YTQzODAzNzRlMDBhMWVhZDgwNTUyMWE3YWZhMDM2NDFjYzIy`
+Snapshot ID: `MCw3YzJhNmY5MTZiYmFmZTdkNDUxYjdkYWEzMWNmNWYzZTVmNGEyNGRj`

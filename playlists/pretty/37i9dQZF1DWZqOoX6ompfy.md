@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 | 88 | [Lovely Intermission](https://open.spotify.com/track/22x0bKTXXitdbfuZUdhAAc) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Nocturnal \(Deluxe Edition\)](https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt) | 3:55 |
 | 89 | [Fears And Frustrations](https://open.spotify.com/track/6w9QevT88poB77qNzwy4LN) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8) | 4:34 |
 
-Snapshot ID: `MCw5MWI4MTljODlhYTU0NDNjMDU3NTJkZGI0ZDg5ZDYzNTUwODgyYTM2`
+Snapshot ID: `MCwwMDhjZGEzYWYwZDBmMjk3YzU2MDM0OTYyZjc3ODMxYWY0NWM1YTUw`

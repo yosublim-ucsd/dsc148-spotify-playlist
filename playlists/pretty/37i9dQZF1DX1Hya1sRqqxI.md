@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,305 likes - 150 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,367 likes - 150 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 149 | [Never Can Say Goodbye \- Single Version](https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Never Can Say Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u) | 2:59 |
 | 150 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué \(2018 Remaster\)](https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF) | 8:06 |
 
-Snapshot ID: `MCxlZmFjYmJjZjdiMjA3MGNlZDcxZmRlNmUxYmZmZmI3N2JjMDQyMjY0`
+Snapshot ID: `MCw0ZjdmY2VmMWQzZTQzZGYxZjg3ZDQ2MDg5MmU3N2RiMmMxMjQxNjI5`

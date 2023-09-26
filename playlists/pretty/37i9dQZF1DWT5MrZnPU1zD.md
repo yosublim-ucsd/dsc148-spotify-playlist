@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,677,371 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,677,379 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Rapper of the Year](https://open.spotify.com/track/6LlqdoSjvt0ANFOTIX5cn5) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [ROTY](https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi) | 2:09 |
 | 100 | [WISH I COULD TELL YOU](https://open.spotify.com/track/4VkyknxFWgVYBeoEoUJ3k6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [WISH I COULD TELL YOU](https://open.spotify.com/album/1DFuFMe8nuWMT0JivZrFq0) | 2:56 |
 
-Snapshot ID: `MCxmODg2MzgzY2I5ZTlkMDRkMDE0ZDU2NjE4MDJiZGNhYWQ0NTkzMDk3`
+Snapshot ID: `MCxlZjk0NzdkOTBiMDhiYWFmNTNmNDBkOGVhNTQ3NDU5MTA5Y2Q5ODYy`

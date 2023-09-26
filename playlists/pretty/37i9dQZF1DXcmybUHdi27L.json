@@ -1,6 +1,6 @@
 {
   "description": "Catch your biggest flex to these summer tunes.",
-  "num_followers": 42653,
+  "num_followers": 42762,
   "original_name": "Summer Flex",
   "owner": {
     "name": "Spotify",
@@ -251,26 +251,6 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "Laugh Now Cry Later (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 261492,
-      "name": "Laugh Now Cry Later (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -343,6 +323,26 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
         "name": "Monalisa",
         "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
       },
@@ -403,18 +403,38 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         }
       ],
-      "duration_ms": 243227,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
+      "duration_ms": 163173,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -439,42 +459,6 @@
       "duration_ms": 184633,
       "name": "People (feat. Ayra Starr & Omah Lay)",
       "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 216991,
-      "name": "It's Plenty",
-      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "Like That (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -515,18 +499,18 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
       "artists": [
         {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 142120,
-      "name": "22",
-      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -563,6 +547,22 @@
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "22",
+      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "Come Thru (with Usher)",
+      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
         "name": "Heavy Is The Head",
         "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 216706,
       "name": "Own It (feat. Ed Sheeran & Burna Boy)",
       "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 181013,
-      "name": "Come Thru (with Usher)",
-      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "Rema",
-        "url": "https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 179775,
-      "name": "Dumebi",
-      "url": "https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
         "name": "Munch (Feelin\u2019 U)",
         "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 104819,
       "name": "Munch (Feelin\u2019 U)",
       "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
+        "name": "Rema",
+        "url": "https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 179775,
+      "name": "Dumebi",
+      "url": "https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX"
     },
     {
       "added_at": "2023-05-15 01:15:13",

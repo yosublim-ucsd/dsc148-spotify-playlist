@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,834 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,900 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 79 | [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 |
 | 80 | [Vengo Del Futuro \- Remix](https://open.spotify.com/track/4fQkGF3euv3UIoOXEXsPZo) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 4:15 |
 
-Snapshot ID: `MCw1OWY4MzYxMmUyYTBkMTY2ZTQyZGFhODJmMGMwYzBmNWE2YjIzMDE5`
+Snapshot ID: `MCxjYTljNzkwMDM3OGJlM2JiNDg0YWQzMzZiZjAzY2IzYzM0YWQzYTQ0`

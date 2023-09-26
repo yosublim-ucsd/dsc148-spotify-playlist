@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Briston Maroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,503 likes - 125 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,522 likes - 125 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 124 | [Rubberneckers](https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Quitters](https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG) | 3:28 |
 | 125 | [Oh Canada](https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:47 |
 
-Snapshot ID: `MCxjOWZiZWNhNzJiZjM1NjQ3NmU2YzkxZjA0OWFiYzQ3NWI4MjJiMzRi`
+Snapshot ID: `MCxjMzAzMTM3MGE1NWZiYTA4ODM1YWQ5ZjQyZTkxYjkzNWMxMGEyMTZk`

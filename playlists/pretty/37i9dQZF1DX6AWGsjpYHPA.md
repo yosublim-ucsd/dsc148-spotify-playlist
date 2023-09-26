@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,650 likes - 75 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,690 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 |
 | 75 | [Koko](https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 2:35 |
 
-Snapshot ID: `MCwxNmI3NTcwMGViN2UzY2VmZjBkNWZkZDQ5ODI1MjlmOTQyZTM5ZTM2`
+Snapshot ID: `MCw0NmUxY2FiNjgxZTNkYTdjMzA5MzJiNTgyNTc1NmU4M2E4ZGE1ZmIw`

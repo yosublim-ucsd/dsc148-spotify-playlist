@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Ivandro e Bispo entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,275 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,591 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Soube a Pouco](https://open.spotify.com/track/6f6jz2h9wo7QUvowAXUr86) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Mercúrio EP](https://open.spotify.com/album/4lnfV64uRboc0VPKRl6uA8) | 3:56 |
 | 75 | [Ilustre Desconhecido](https://open.spotify.com/track/1Pe2d0QHU38GivyFJnZDCO) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG) | [Ilustre Desconhecido](https://open.spotify.com/album/6MUR4xZWGeYamjJkANAXZO) | 2:52 |
 
-Snapshot ID: `MCxkM2E2MDM4ZDBkYzhjNDUzZjU1Njk0MDNkNTAwMDkzNDI2MTQ4Mjlm`
+Snapshot ID: `MCxlMzUwMWQ2NzI0NjYzMjM4MzlkZGUyMmQ1YzE2ZTJmZWFiNzc1YjI2`

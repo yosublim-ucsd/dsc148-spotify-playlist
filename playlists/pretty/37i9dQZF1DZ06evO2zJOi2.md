@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,074 likes - 29 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,742 likes - 29 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 7 | [You Proof](https://open.spotify.com/track/5W4kiM2cUYBJXKRudNyxjW) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:37 |
 | 8 | [More Than My Hometown](https://open.spotify.com/track/5OELUCYgOHKFAvCERnAvfS) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:36 |
 | 9 | [Whiskey Glasses](https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:54 |
-| 10 | [Stand By Me \(feat\. Morgan Wallen\)](https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:39 |
+| 10 | [Spin You Around](https://open.spotify.com/track/1yj1ZztSGITJ5Nf4mfH92c) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 3:32 |
 | 11 | [Cowgirls \(feat\. ERNEST\)](https://open.spotify.com/track/7fveJ3pk1eSfxBdVkzdXZ0) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:01 |
-| 12 | [Spin You Around](https://open.spotify.com/track/1yj1ZztSGITJ5Nf4mfH92c) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 3:32 |
+| 12 | [Stand By Me \(feat\. Morgan Wallen\)](https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:39 |
 | 13 | [7 Summers](https://open.spotify.com/track/4obHzpwGrjoTuZh2DItEMZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:30 |
 | 14 | [The Way I Talk](https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:28 |
 | 15 | [Ain’t That Some](https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:38 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 28 | [Bandaid On A Bullet Hole](https://open.spotify.com/track/1RvoRAL612adAVrPUoAMHR) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album \(Bonus\)](https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX) | 3:54 |
 | 29 | [He Went To Jared \(HARDY feat\. Morgan Wallen\)](https://open.spotify.com/track/65IHmBagtQrYRcJd8a47zv) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 3:33 |
 
-Snapshot ID: `MjgyNTUwMDUsMDAwMDAwMDA5Yjc2M2Y3ODRmNmYxNjJjMDIzNDM1MzRiODcwZGFmNg==`
+Snapshot ID: `MjgyNjA3MzcsMDAwMDAwMDAyMWU0NzdmNDg5NDI3OGRlZmMwMTkzNDE5Y2ZjMjlkOQ==`

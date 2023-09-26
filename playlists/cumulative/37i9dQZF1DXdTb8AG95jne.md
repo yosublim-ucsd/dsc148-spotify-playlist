@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: An Shinae\(안신애\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Chosunblues\(조선블루스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-606 songs - 1 day 13 hr 7 min
+607 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [dolphin](https://open.spotify.com/track/4GM3fJA0hhvLK654hg5fXO) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [dolphin](https://open.spotify.com/album/14hlDO2H1pMIUVovoMpaQ8) | 3:04 | 2022-03-31 | 2022-04-19 |
 | [Domino](https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Domino](https://open.spotify.com/album/1wrsoN7rUsDBzAJqWQwP6e) | 3:07 | 2023-02-14 | 2023-03-01 |
 | [Don't be Disappointed](https://open.spotify.com/track/5NFUz1lKuetUhaRBPYuC6b) | [from all to human](https://open.spotify.com/artist/70ZE1v0UgSiInAfo8Xqjhj) | [Lief](https://open.spotify.com/album/39bo9FjkRsfe8kT63dAFez) | 3:07 | 2022-01-27 | 2022-06-07 |
-| [Don't be sad](https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc) | 3:30 | 2021-12-12 | 2023-09-20 |
+| [Don't be sad](https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc) | 3:30 | 2021-12-12 |  |
 | [Don't Hide](https://open.spotify.com/track/084FkT1AH865kzRCscjoCI) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [To You](https://open.spotify.com/album/6jxOP0K2d6c64iK9pzKrru) | 3:59 | 2022-03-31 | 2022-04-08 |
 | [Don't Know \(Prod\. CLAZZI\)](https://open.spotify.com/track/7i2G1Vhqgzb7P0qbYkgy7j) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:31 | 2022-02-10 | 2022-04-25 |
 | [Don’t go home](https://open.spotify.com/track/2ROP0upaRoZuU3WZAAv4d3) | [seoseo](https://open.spotify.com/artist/19fpoLzmPBNG4TdMQMSSc8) | [Don’t go home](https://open.spotify.com/album/5Z2DV5deJlPtSIgLPta6Hb) | 3:07 | 2023-01-05 | 2023-01-11 |
@@ -295,6 +295,7 @@
 | [lost](https://open.spotify.com/track/53zgUNqd4DCRSRQUn4J4aJ) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [lost](https://open.spotify.com/album/3IAAhPOt3Ui36lJQ93Y7x8) | 3:50 | 2022-03-31 | 2022-07-27 |
 | [lost](https://open.spotify.com/track/26niEovvgyaq9po2KubsJI) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [lost](https://open.spotify.com/album/131Eo9LOhFcv05gClAIpCT) | 4:34 | 2022-06-08 | 2022-10-16 |
 | [Lost in the City](https://open.spotify.com/track/5tZFCjvVbOuEKkeOi6GWZd) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Lost in the City](https://open.spotify.com/album/4cN9wky9XIVZqrAKTASmTe) | 3:23 | 2022-09-05 | 2022-09-21 |
+| [lost the love \(with\. KIM SU IN\)](https://open.spotify.com/track/73Y8wOmucnTu0lUgfR57xU) | [Chosunblues](https://open.spotify.com/artist/6mKicVKyt6CPmrvbGkge4G), [KIM SU IN](https://open.spotify.com/artist/1eD6xraivpnXUOr4eX9Rhj) | [lost the love](https://open.spotify.com/album/7tARiULOzmBxyYehOg0b6U) | 5:48 | 2023-09-26 |  |
 | [love in balcony](https://open.spotify.com/track/7BrlpynTrdHToVYs4uJSre) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 3:50 | 2023-02-01 | 2023-03-01 |
 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-03-31 | 2022-12-22 |
 | [Love like a bouquet,](https://open.spotify.com/track/7es4VhC71wFHRaVjkdQ5rK) | [CHOMINWOO](https://open.spotify.com/artist/1mISG0BUcXpI7kJKtRqthM), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Beautiful struggle](https://open.spotify.com/album/17X67myikY9mktuS1UHAyx) | 3:18 | 2022-08-19 | 2022-09-06 |
@@ -327,7 +328,7 @@
 | [MIMI](https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4) | 3:27 | 2021-12-12 |  |
 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 | 2022-08-12 | 2022-09-06 |
 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 | 2022-06-20 | 2022-07-05 |
-| [MISHMASH](https://open.spotify.com/track/7qBdRew80c7Di2CirI6XaO) | [Seen Hyun Hee](https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ) | [MISHMASH](https://open.spotify.com/album/77CBeZWS4hBgPqPCD6OkkY) | 3:35 | 2023-09-15 |  |
+| [MISHMASH](https://open.spotify.com/track/7qBdRew80c7Di2CirI6XaO) | [Seen Hyun Hee](https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ) | [MISHMASH](https://open.spotify.com/album/77CBeZWS4hBgPqPCD6OkkY) | 3:35 | 2023-09-15 | 2023-09-26 |
 | [Moment](https://open.spotify.com/track/3jYl9vCYKeVDawBCu5iHK5) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Moment](https://open.spotify.com/album/5UUtfxQNNJknc3HwxZRQTO) | 3:37 | 2022-03-31 | 2022-04-20 |
 | [Money like \(feat\. meenoi\)](https://open.spotify.com/track/5U5QitagofLaXFkoVO1oLF) | [HOSIN](https://open.spotify.com/artist/3XOcDV9I5btpQqBqkEQWuU), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Money like](https://open.spotify.com/album/67YuFY9QZKY3loKA6634Sv) | 4:02 | 2022-07-04 | 2022-07-09 |
 | [monochrome](https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [monochrome](https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx) | 4:21 | 2022-09-05 | 2022-09-21 |
@@ -423,7 +424,7 @@
 | [Regret of sigh](https://open.spotify.com/track/3MrEZH39g8BiIAkFo3FkQj) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:21 | 2021-12-12 | 2022-05-16 |
 | [reminiscence](https://open.spotify.com/track/2KAtg9W0pKiJh94jaQ5jDT) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [reminiscence](https://open.spotify.com/album/472g6HVeObaEweJ5RyNRtX) | 4:52 | 2021-12-21 | 2022-05-19 |
 | [Reminisces of A 10\-year\-old Journal](https://open.spotify.com/track/5uXV40HNeBMOvz7v3g6I5w) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Eco Bridge](https://open.spotify.com/artist/7yBoreZbMa2ljEwG76ZmNp) | [The Way You Keep Friendship \- SSaW Tribute Vol.5](https://open.spotify.com/album/10chjryncMprk7PAjttH67) | 4:36 | 2022-03-31 | 2022-04-19 |
-| [Respect](https://open.spotify.com/track/2b8wiA0rT5h1ONtW9HsXUt) | [Shinae An](https://open.spotify.com/artist/5tepoFUu7KqTFW7GLufuQQ) | [Respect](https://open.spotify.com/album/3oikuOBybmjw4rW7SBFWwD) | 3:01 | 2023-09-22 |  |
+| [Respect](https://open.spotify.com/track/2b8wiA0rT5h1ONtW9HsXUt) | [Shinae An](https://open.spotify.com/artist/5tepoFUu7KqTFW7GLufuQQ) | [Respect](https://open.spotify.com/album/3oikuOBybmjw4rW7SBFWwD) | 3:01 | 2023-09-22 | 2023-09-26 |
 | [Right Time and Right Place](https://open.spotify.com/track/3nYIZUYzPEgyGNjhQZvlx9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Chocolate,Pt.10\(Original Television Soundtrack\)](https://open.spotify.com/album/0YYLtuin5Xf0MB1vXHNtpD) | 3:53 | 2022-03-31 | 2022-04-11 |
 | [Rocket](https://open.spotify.com/track/1UZFUBCPJgHqLXgIVOfTGO) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Rocket](https://open.spotify.com/album/2ZoEBlx7O98lArGmUgfNof) | 3:15 | 2021-12-21 | 2022-04-27 |
 | [Roller Coaster](https://open.spotify.com/track/5JQMzYEIZsakVeVq7kVMub) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Pacemaker](https://open.spotify.com/album/2lVYVVjbyDmlSZeBjSnAfr) | 3:24 | 2022-04-12 | 2022-04-19 |

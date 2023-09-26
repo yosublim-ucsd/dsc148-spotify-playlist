@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,009 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,063 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Telefunken](https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7) | [VHS LOGOS](https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ) | [Street Smarts](https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp) | 1:26 |
 | 100 | [Harlequin](https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Harlequin](https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb) | 2:56 |
 
-Snapshot ID: `MCw4MmExYWRiMTQxYjM1YjY5NDNjMTljODQ4MzlhOTkyZDkwMTY4YWM1`
+Snapshot ID: `MCw0Nzc5YjYxYTU3OWU2N2MxNzA2MDYwN2MyYTRmYWY5YjRmMmJiMWE1`

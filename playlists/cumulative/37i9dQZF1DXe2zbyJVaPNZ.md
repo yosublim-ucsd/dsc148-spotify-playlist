@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-181 songs - 12 hr 2 min
+184 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Moon \(Nature Edit\)](https://open.spotify.com/track/1ZrCjCxP8OCQE9wfWJFS9k) | [Man from Mars](https://open.spotify.com/artist/45NDwPF1HHwxFI4BGDYJFn) | [Moon](https://open.spotify.com/album/4gjhs7ChmpQBXIEBV6a7PN) | 2:51 | 2022-11-11 |  |
 | [Moonbeam](https://open.spotify.com/track/4Atxi0lAF4TA1TkwHeutqT) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Peaceful Deep Dreaming](https://open.spotify.com/album/7oDgYZ3lACJLIlCu3LGA5t) | 2:37 | 2023-01-27 |  |
 | [Name Of The Call](https://open.spotify.com/track/1uAvCdU0SqENVeE7YychPF) | [Severard](https://open.spotify.com/artist/6vjU9QfC9H7ZvCrve6fC0E) | [Name Of The Call](https://open.spotify.com/album/4n0A10P0pDw8bIHED77Xfn) | 4:03 | 2022-08-05 |  |
+| [negiri](https://open.spotify.com/track/1HPSvgLLm4L8ybrqeAnUO5) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Muon](https://open.spotify.com/album/4fAQtnkKek0xvqFcbIeKDD) | 2:33 | 2023-09-22 |  |
 | [Night Shineth As the Day](https://open.spotify.com/track/48RJ1YNLNeqMlPtFkHcHRm) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [zakè](https://open.spotify.com/album/3r6FE0ZrYm1jOEEpd7GJLF) | 5:28 | 2022-08-05 |  |
 | [Novae](https://open.spotify.com/track/7sYaDAxaJiY7e0HALJOG2e) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Novae](https://open.spotify.com/album/2GjP1BHQaHhTz9mimNqiEf) | 3:37 | 2022-08-05 |  |
 | [Nuit](https://open.spotify.com/track/5h8fFUBRewjKWD6U5rBW8q) | [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Nuit](https://open.spotify.com/album/2IeN8ijnIdmyp1MSHc2u9M) | 5:25 | 2022-08-05 |  |
@@ -143,7 +144,7 @@
 | [Reflector](https://open.spotify.com/track/7KReeqzDWnzpz1jma5q5GM) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Parallel](https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX) | 8:22 | 2022-08-19 |  |
 | [Restful Petal](https://open.spotify.com/track/2TPxRTo03wfcB62GUiUjmK) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Restful Petal](https://open.spotify.com/album/7hZvHFA2dN8Xaus9NmhWrK) | 3:18 | 2023-03-24 |  |
 | [Sea Angel](https://open.spotify.com/track/0NJTbN4WsbZvEJAtXFuvfW) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [Dream Vibes](https://open.spotify.com/album/3UIy1t5U2AUDF22IvmKuPD) | 5:04 | 2022-12-20 |  |
-| [Second Sleep](https://open.spotify.com/track/27czMd5PkUmbowhIj70e52) | [Tom Salta](https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj) | [The Sleep Project](https://open.spotify.com/album/25ZJSTznISJssjpVmDu1hK) | 4:00 | 2022-08-05 |  |
+| [Second Sleep](https://open.spotify.com/track/27czMd5PkUmbowhIj70e52) | [Tom Salta](https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj) | [The Sleep Project](https://open.spotify.com/album/25ZJSTznISJssjpVmDu1hK) | 4:00 | 2022-08-05 | 2023-09-26 |
 | [Serenity](https://open.spotify.com/track/4PE18K21iBZ21BhAkMKuXx) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Serenity](https://open.spotify.com/album/54EJoYtWdVl2SJEwJgiLUc) | 3:52 | 2022-08-05 |  |
 | [Shinseki Main](https://open.spotify.com/track/1pHqS0YdK8x3UXlUqJAOzp) | [Purple Decades](https://open.spotify.com/artist/08lg5wRQNrKKJZzvWTynlv) | [Journey Test](https://open.spotify.com/album/45P14PPyN1or3llI8OH0jN) | 3:43 | 2023-03-24 |  |
 | [Signal](https://open.spotify.com/track/5CcPj0blox3jKcKagc3ljI) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Signal](https://open.spotify.com/album/6Hyis4NZ5UUXohlXaB2ia6) | 4:04 | 2022-10-14 |  |
@@ -171,10 +172,12 @@
 | [this world is sick](https://open.spotify.com/track/7JlX4yZgXB4pmdR2wbWJOV) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [this world is sick](https://open.spotify.com/album/2r358fWUeF3wtRtvuYsVjt) | 2:19 | 2022-10-10 | 2022-10-19 |
 | [this world is sick](https://open.spotify.com/track/7c4ut2xl3z0x0WKC4PpTow) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [this world is sick](https://open.spotify.com/album/2rvipmrgDLEirqK0gaZJAO) | 2:19 | 2022-10-14 |  |
 | [Timelapses](https://open.spotify.com/track/3M0p85lGZSAirN47876OKc) | [Evelyn Ferrera](https://open.spotify.com/artist/3lWlO9shOnzBgTxgHj3ani) | [Timelapses](https://open.spotify.com/album/6uP3uuCmDm2dd7ZQHNh0uW) | 2:35 | 2022-09-08 |  |
+| [Tranquilizar el Ser](https://open.spotify.com/track/3HMptEvLblLn7DbyRVaCLw) | [Slower Lover](https://open.spotify.com/artist/77gg1JUo3GX5h3JKWKZKeF), [Soothing Buzz](https://open.spotify.com/artist/7c6K2xsxh9HtmnzpNb4NIx), [Stilly Night](https://open.spotify.com/artist/6QIztxy4eQlPJxZGq0YS0z) | [Tranquilizar el Ser](https://open.spotify.com/album/6ZhrQdoRXpHnIapIxFfh5O) | 2:07 | 2023-09-22 |  |
 | [Transience](https://open.spotify.com/track/1FI8eE3rHivYy7fAL6KCAq) | [Arylith](https://open.spotify.com/artist/56XjeqEoAGHJDpHhGGnhwK) | [Aberration](https://open.spotify.com/album/2ZqOMsFOfI61ipnRimMmnb) | 2:23 | 2022-08-05 |  |
 | [Trying to Feel Everything](https://open.spotify.com/track/5MOWnM1AWOcDwC7wha1Lss) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ) | [Trying to Feel Everything](https://open.spotify.com/album/7A7gggXbZBfXN8Ft1CZqbI) | 3:32 | 2022-10-10 |  |
 | [tsukimi dango](https://open.spotify.com/track/6xFoMmZIkhOgRv7Zj3luYA) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tsukimi dango](https://open.spotify.com/album/3iof4fuNnejiULldVY8Z1R) | 3:02 | 2022-08-05 |  |
 | [Unwind](https://open.spotify.com/track/7qTEw3JXKGrDTYLqsM48gp) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Unwind](https://open.spotify.com/album/60msJvc1ioyo9RvJAlQ1dw) | 3:04 | 2022-10-14 |  |
+| [Viaje a la Serenidad Interior](https://open.spotify.com/track/0gSgvkA2ALIdMmYKWgwsfx) | [Siame](https://open.spotify.com/artist/6ZimDumlcobtV1cSRoIdo0), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Sleeping Eye](https://open.spotify.com/artist/7dMgnhd87CgdkOoh9V5p1t) | [Viaje a la Serenidad Interior](https://open.spotify.com/album/6fMohNmsajrIKNYYisZhkH) | 2:09 | 2023-09-22 |  |
 | [Vibrational Feeling](https://open.spotify.com/track/2cEFXCkHlUL2ZF3fr7jvZ4) | [Helios Relaxing Space](https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB) | [Raise Vibration](https://open.spotify.com/album/1qxPnzyY4QJ04MyIQ60xAm) | 7:45 | 2023-08-18 |  |
 | [Waiting for you in Utopia](https://open.spotify.com/track/7cI5rrvUPvZCHT7akwwGHB) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Waiting for you in Utopia](https://open.spotify.com/album/5zX5hruc8DfMpZIB2YN7Xx) | 2:54 | 2022-08-05 |  |
 | [Waiting..](https://open.spotify.com/track/62WZsVC65cpmJGVqzjjgDo) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [A Perfect Society](https://open.spotify.com/album/7wWLo4mYpOSXwlagXpIiB0) | 2:15 | 2022-08-05 |  |

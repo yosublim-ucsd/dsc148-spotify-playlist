@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: Sofía Campos
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,704 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,715 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 74 | [Pasarás](https://open.spotify.com/track/4jJ1iOeBNSBLhhtJhfxJxQ) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Pasarás](https://open.spotify.com/album/3lSjYPhPyPXIxOEYKIGi9e) | 4:16 |
 | 75 | [Recuerdo](https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Uno De Nosotros](https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N) | 3:29 |
 
-Snapshot ID: `MCwzMGJjODBhNDkxZWU2M2MxNzAwOGYzZWY4NmNhMjRhODg4N2ViY2Y0`
+Snapshot ID: `MCxhY2QxNmViODlhMDBlMjNhZDgxMTNhZWE5ZDNjODVjMWJkMDcyYWRh`

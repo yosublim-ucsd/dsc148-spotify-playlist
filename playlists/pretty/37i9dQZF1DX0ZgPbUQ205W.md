@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,181 likes - 200 songs - 13 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,196 likes - 200 songs - 13 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 199 | [Silenced Wings](https://open.spotify.com/track/6Jvz580uudC0WWdkJQAe8h) | [Volker Goetze](https://open.spotify.com/artist/4Po5wr0Ul3royQBHA8oZdm), [Nick Dunston](https://open.spotify.com/artist/3DN6nBMAIh7wmKkuP2KC05), [Oran Etkin](https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO), [Richie Barshay](https://open.spotify.com/artist/008APzwhx1PzECrQTNatRS) | [Secret Island](https://open.spotify.com/album/0fILKf7zaIvUdPf85OoFaA) | 3:23 |
 | 200 | [Jeg gik mig ud en Sommerdag](https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Stefan Pasborg](https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY) | [Painting Music](https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ) | 4:18 |
 
-Snapshot ID: `MCw3N2RiNDc2NWE5MTY5Zjg5ZDk4MjliNWFlZjk0ZjNlZTllM2YzNmVk`
+Snapshot ID: `MCwzNjNmN2EzYjhkMjQwNDk0ZWYxOTNlNzNhOGZiZDgxYTZjN2VlMDFm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=7587eb4fd9b141f9">KB</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,092 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,109 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [Go](https://open.spotify.com/track/6UCnERki2oEkXahKsfXVHU) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [J1W](https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM) | [Go](https://open.spotify.com/album/1Rtsel0lkAyFrsW1fvSBj6) | 2:38 |
 | 100 | [Up](https://open.spotify.com/track/3bY6606BZNDJsMJiFUQ9qj) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Up](https://open.spotify.com/album/339EY1xqT4QUJvGHDbCxCq) | 2:53 |
 
-Snapshot ID: `MCw3NTRkMzYyZDAyM2EwNzFiYzM5NDc3NjA4M2RkMTU3NDkzNWY5YWY5`
+Snapshot ID: `MCw0ZGVmNjhhMzEyZjU2ZTg4OWJlZTFiN2EyMmEwNmQ0MTYyN2M1YzBm`

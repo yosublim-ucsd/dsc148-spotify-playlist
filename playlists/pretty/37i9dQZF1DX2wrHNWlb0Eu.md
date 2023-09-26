@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,160 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,172 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 99 | [โลกอีกใบ](https://open.spotify.com/track/7cLkKf5GpXdHAx9fJA77JY) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [Oat Pramote](https://open.spotify.com/artist/6IjkVLH49YhlZiz4TOHJZv) | [LA LUNE](https://open.spotify.com/album/4llAtuHyR20CVWFbpdKPAq) | 3:14 |
 | 100 | [ฝันหวานอายจูบ](https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [SKY](https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM) | 3:24 |
 
-Snapshot ID: `MCxmZmU3YzA2Mjc2MDA2MzNjZGE0MTYxY2I4OWJhNmNiZmNhNjM3MjE0`
+Snapshot ID: `MCwxMDQ3MDM5YTliOTY4NWFlMjVhMmM2Y2E0ODNlNmE0YWM4OGU2YjYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,760 likes - 150 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,788 likes - 150 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 149 | [Blues in Pig Alley](https://open.spotify.com/track/0KH7vOWkGMs1IXgrllV20R) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [You're Driving Me Crazy](https://open.spotify.com/album/0BE0WOuZalUmHhg76lKup5) | 3:08 |
 | 150 | [Cousin Mary](https://open.spotify.com/track/6xXrlNoRO2huakbn56b88W) | [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [Four For Trane](https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n) | 7:14 |
 
-Snapshot ID: `MCxhZDcxNTRlNDJlODNmYzMxZTE5YTc5MTU3ODkxNGIwYmI4ZTNkOTQw`
+Snapshot ID: `MCwyNDBiNWJmZmU3YTg2ZTU0ZTM0NTY5M2MwOGQ2YjI3YTE4ZTMyMDBk`

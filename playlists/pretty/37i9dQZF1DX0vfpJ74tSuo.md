@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,515 likes - 150 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,520 likes - 150 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 149 | [Pickpocket Fingers \(feat\. James Harman & Kid Ramos\)](https://open.spotify.com/track/26J6ldiphWDHtSTOgFAeoF) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az) | 3:50 |
 | 150 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/483TCXJPMDIKqygdS0gBda) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:16 |
 
-Snapshot ID: `MCw2NjU5ZmJiMThhMTgwYjQ5ZDhiYWM1MzlkZGNlZmVlOTA2NzIyYWQ1`
+Snapshot ID: `MCxlMzc1OGUxMjExMDEyOTZjZTcxMDQyNzgxMTNiM2FmYzY5N2RlM2Nm`

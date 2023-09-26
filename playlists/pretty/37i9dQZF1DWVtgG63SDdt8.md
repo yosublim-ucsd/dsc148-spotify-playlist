@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,597 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,622 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Where I Could've Been](https://open.spotify.com/track/54nSanOV5Twg7uIBeHeDIV) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Where I Could've Been](https://open.spotify.com/album/2IXUzDtgt3xxWH9mvQpXYW) | 3:29 |
 | 100 | [He Got a Hold of Me](https://open.spotify.com/track/6TzjdXiUn6iPBX6LcyyoFP) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [He Got a Hold of Me](https://open.spotify.com/album/5IWDeyHcJ6CR6Y0bQxuRdN) | 3:40 |
 
-Snapshot ID: `MCw0NWMzYjRiOGY0OTY5NzM3NDZiNDQyMTQ3NzYzZjBiMTAxODFhZWQ5`
+Snapshot ID: `MCxlMTZlNGMzMGZhNzQwMWM0ZTQ1YTQ2M2JmMmRlNjNkYzE2MWIzNTM4`

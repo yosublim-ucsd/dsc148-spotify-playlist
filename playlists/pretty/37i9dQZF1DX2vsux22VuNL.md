@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Rô Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,109 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,119 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 79 | [Existe Vida Sem Você](https://open.spotify.com/track/4UDOZtOMOt9f26Ry1QiWzk) | [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb), [Tállia](https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj), [Cattê](https://open.spotify.com/artist/3zDcpCuml9h74aIOs8Gx2W) | [Existe Vida Sem Você](https://open.spotify.com/album/4lkLl3xtFHAWQ9jJrb71A9) | 3:57 |
 | 80 | [Calma Zé \(versão do mato\)](https://open.spotify.com/track/25j65WWQsSUhgbXGJSbxAi) | [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A) | [Calma Zé \(versão do mato\)](https://open.spotify.com/album/0ZDn9Z3IhB77qcNmM7ZI06) | 4:13 |
 
-Snapshot ID: `MCwyOWQ0ZmZiMTI2M2IwYTRmYTI3NTBiMzczMThhYTBjZTcwYjQxYThj`
+Snapshot ID: `MCxhMTM1NWIwMjFlNmQ3ZTZhNGMzNTIzNzEyOGRjMjUyNmI1NGY4ODkx`

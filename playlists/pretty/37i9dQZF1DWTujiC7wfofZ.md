@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 
 > All the indie disco platters that matter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,939 likes - 250 songs - 15 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,949 likes - 250 songs - 15 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 | 249 | [3D Feelings](https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:17 |
 | 250 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 |
 
-Snapshot ID: `MCw1MWM0MDhkNzM0YjY0MjBlYTBjNTdkNGNkNmI3ODkyZjY3N2Y0Nzdl`
+Snapshot ID: `MCxkZDg0NTc2ODg4ZWRlZjQ3MzBmNzkyNzYwMzU5ZmJiNmZmYjM0ZWJi`

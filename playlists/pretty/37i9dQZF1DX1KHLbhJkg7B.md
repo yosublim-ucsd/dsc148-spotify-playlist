@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Austin Snell
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,775 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,784 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
 | 100 | [Blue Bayou](https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Kellyoke](https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi) | 3:52 |
 
-Snapshot ID: `MCxmN2QxODIzOGU2ZDA1NGY5NWMzMmNhNGFhNzUyMGNhOGNiOWU0NGQ2`
+Snapshot ID: `MCxkM2E4MTQzMzEyNDc0YmFjOTIwZWFmYjM3MzNkNWQ5NjE4ZjI1YmM1`

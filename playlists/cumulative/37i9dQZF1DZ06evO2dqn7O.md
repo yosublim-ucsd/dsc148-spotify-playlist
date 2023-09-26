@@ -4,7 +4,7 @@
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 49 min
+65 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Collider](https://open.spotify.com/track/0eATgkWG5F2S0pLFK95ImZ) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [VHS 2.0](https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI) | 3:18 | 2023-05-12 | 2023-05-14 |
 | [Come On Up To The House \(feat\. X Ambassadors\) \- Spotify Singles](https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Spotify Singles](https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy) | 4:17 | 2022-10-26 |  |
 | [CONFIDENCE \(feat\. K.Flay\)](https://open.spotify.com/track/1fE6majCQyShaXTPqJsdar) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 2:53 | 2022-10-26 |  |
+| [Devastation \(with PAMÉ\)](https://open.spotify.com/track/6oxH7cP0JbbICm8DdVYta9) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [Devastation \(with PAMÉ\)](https://open.spotify.com/album/1yFtcNjSezziWM0lXQAT5h) | 3:22 | 2023-09-25 |  |
 | [Don't Stay](https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Don’t Stay](https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT) | 3:09 | 2022-10-26 |  |
 | [Down With Me](https://open.spotify.com/track/17FV9pZcXiJsFRn3McId1e) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 3:37 | 2023-02-24 | 2023-05-13 |
 | [Everything Sounds Like A Love Song](https://open.spotify.com/track/0TPsp6jaQHOcgL8bYUt4AT) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Belong EP](https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP) | 4:26 | 2022-10-26 | 2023-08-02 |
@@ -46,7 +47,7 @@
 | [Kerosene Dreams](https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS 2.0](https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI) | 3:53 | 2022-10-26 |  |
 | [leave flowers](https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:01 | 2023-08-31 |  |
 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 | 2022-10-26 |  |
-| [Love Is Death](https://open.spotify.com/track/67Ih4EE8YDNOXdJxz4NGmT) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 3:33 | 2022-10-26 |  |
+| [Love Is Death](https://open.spotify.com/track/67Ih4EE8YDNOXdJxz4NGmT) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 3:33 | 2022-10-26 | 2023-09-26 |
 | [Love Songs Drug Songs](https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 3:39 | 2022-10-26 |  |
 | [Low Life](https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 4:40 | 2022-10-26 |  |
 | [My Own Monster](https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 3:05 | 2022-10-26 |  |

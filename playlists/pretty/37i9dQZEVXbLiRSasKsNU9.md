@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Global.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,790,911 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,790,891 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 | 49 | [Neela Nilave \(From "RDX"\)](https://open.spotify.com/track/73rMD23ocpYxwQXJQJyRDv) | [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Manu Manjith](https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy) | [Neela Nilave \(From "Rdx"\)](https://open.spotify.com/album/5LXBbKAhhMqgj3rGOBWOah) | 4:13 |
 | 50 | [Calma Vai Devagar \(Feat\. Dj JR FELIX, DJ Yuri Chagas\)](https://open.spotify.com/track/1ewBd65QHljy6vRabdxjt1) | [Gilberto Vasconcelos](https://open.spotify.com/artist/7fmjbzBCbHyDrx8EmpgDOY), [MC Marsha](https://open.spotify.com/artist/6jlX5Md4XM8Qpz86CRnwxP), [DJ Yuri Chagas](https://open.spotify.com/artist/57ViLnr0EklP5uxd2Hd67c), [Dj JR FELIX](https://open.spotify.com/artist/0XGdltjBN4NhpM6TMyFu3G), [sim](https://open.spotify.com/artist/4jHW7pd30NKgVN7GFtRTQr) | [Calma Vai Devagar](https://open.spotify.com/album/59jmPN9aIqUNqCB0QbFG5V) | 1:58 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

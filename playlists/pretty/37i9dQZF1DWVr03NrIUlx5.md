@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,446 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,474 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [Supermassive Black Hole](https://open.spotify.com/track/7pT9u99sbT08043fPd6056) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Muse](https://open.spotify.com/album/5BAn2FOuJGILpS4B8xDY9y) | 3:34 |
 | 100 | [Nothing Else Matters](https://open.spotify.com/track/4S6Ib78sMFF0nOWVtpMJes) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Metallica](https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S) | 5:19 |
 
-Snapshot ID: `MCxmYmFiMTEzZGJhNDAxZWU4ZWU2NTRjZGQ0MGJmNGRmZjM5N2ZiNjIx`
+Snapshot ID: `MCwwMWI5MGRkYzFjMTgzMThhYTFmM2ViMjY2NWFmNTgxYTZlYjdlMzBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,170 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,174 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9) | 3:09 |
 | 80 | [I Miss Myself \(with HRVY\)](https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [I Miss Myself \(with HRVY\)](https://open.spotify.com/album/0G0ho2sdOWIRRAh1PDTVFd) | 3:11 |
 
-Snapshot ID: `MCwyNzQ0ZDgwZWUwZDI2NDMxODQyOThmNjQ3MjM1YTcxY2E5OWMzYWYz`
+Snapshot ID: `MCwyZTVlZjcxOTY1ZTg1NTJlODc2YTg0MWE2M2M5MDQxMDIzODEyOWJl`

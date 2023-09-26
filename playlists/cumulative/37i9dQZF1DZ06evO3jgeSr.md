@@ -4,7 +4,7 @@
 
 > This is Labi Siffre\. The essential tracks, all in one playlist.
 
-108 songs - 6 hr 43 min
+109 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Clinging to the Ledge](https://open.spotify.com/track/71KiSnfV0Q4ug0Pv1V83oK) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Last Songs](https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr) | 5:31 | 2023-05-26 | 2023-05-30 |
 | [Come on Michael](https://open.spotify.com/track/4eiQHWqJPu4iUFaVsUqzbm) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 2:57 | 2021-12-29 | 2023-09-19 |
 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:03 | 2021-12-28 |  |
-| [Doctor Doctor](https://open.spotify.com/track/5yIedMWjWmeooDaKLICaBd) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Music Of Labi Siffre](https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy) | 4:21 | 2021-12-28 |  |
+| [Doctor Doctor](https://open.spotify.com/track/5yIedMWjWmeooDaKLICaBd) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Music Of Labi Siffre](https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy) | 4:21 | 2021-12-28 | 2023-09-26 |
+| [Doctor Doctor](https://open.spotify.com/track/7rzCydzyXY6gtjFHVCy4SV) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Happy](https://open.spotify.com/album/17aYOCF5PDgv9TQaWFGNTu) | 4:21 | 2023-09-25 |  |
 | [Down \- 2006 Remaster](https://open.spotify.com/track/4xGy9REHUd7RPZOEhIl9Zu) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 5:48 | 2021-12-28 |  |
 | [Dreamer \- 2006 Remaster](https://open.spotify.com/track/4gV1QbhEUbgvHnvSSxyrZH) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 4:03 | 2021-12-29 | 2022-10-11 |
 | [Entertainment Value](https://open.spotify.com/track/0zEyPZnf4NRddO2lRWaC1g) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 4:05 | 2021-12-28 |  |
@@ -33,7 +34,7 @@
 | [Fool Me a Good Night](https://open.spotify.com/track/1GxCJ6QRoRv1BHUDto1mGn) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:44 | 2022-01-02 | 2022-08-28 |
 | [For the Children](https://open.spotify.com/track/2ZaJd8nlH68uGoTZ92QDBL) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 3:46 | 2022-02-04 | 2022-09-05 |
 | [For the Lovin'](https://open.spotify.com/track/6uJzAwwiuTfIKF5VL2KNlL) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 4:29 | 2022-01-08 | 2022-10-13 |
-| [Get to the Country](https://open.spotify.com/track/1HUCAIw6lVFNS17tTX1s9J) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song \(Deluxe Edition\)](https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w) | 2:59 | 2021-12-28 |  |
+| [Get to the Country](https://open.spotify.com/track/1HUCAIw6lVFNS17tTX1s9J) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song \(Deluxe Edition\)](https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w) | 2:59 | 2021-12-28 | 2023-09-26 |
 | [Gimme Some More](https://open.spotify.com/track/6VBoIw0kxcNgXDwNOTNXKn) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 2:54 | 2022-10-24 |  |
 | [Give Love](https://open.spotify.com/track/4MnM7lo6p63SIiSmvHGpgD) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 4:34 | 2022-02-12 | 2022-02-14 |
 | [Good Old Days](https://open.spotify.com/track/6hMOrk6GCHps5l9MPkQviM) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:09 | 2021-12-28 |  |
@@ -44,7 +45,7 @@
 | [Hot and Dirty in the City \- 2006 Remaster](https://open.spotify.com/track/2xrxYSteGfxNUfUROIgPFn) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 3:11 | 2022-01-22 |  |
 | [I Don't Know What's Happened to the Kids Today](https://open.spotify.com/track/4KxSVz2ckytVobzXNsEeHG) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre](https://open.spotify.com/album/0n2vxxav2CpuUL8LFL4jWz) | 3:13 | 2021-12-28 |  |
 | [I Got The..\. \- 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 6:35 | 2021-12-28 |  |
-| [I Love You](https://open.spotify.com/track/2q6fYv8J39MSzGRBbQpTIh) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:35 | 2021-12-28 | 2023-09-19 |
+| [I Love You](https://open.spotify.com/track/2q6fYv8J39MSzGRBbQpTIh) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:35 | 2021-12-28 |  |
 | [I Will Always Love You](https://open.spotify.com/track/1CjlMwVMrvWphUBZ3nCpyx) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 5:27 | 2021-12-28 |  |
 | [I'm Alright](https://open.spotify.com/track/5CQftpQA5NjF1aZbuZvXuR) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 5:08 | 2021-12-28 |  |
 | [If You Have Faith](https://open.spotify.com/track/3vbpYCQ1hVpzPTRAXX7KPT) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 4:10 | 2023-08-09 | 2023-08-20 |

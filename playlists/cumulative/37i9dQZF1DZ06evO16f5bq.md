@@ -4,7 +4,7 @@
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 50 min
+44 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Até o céu](https://open.spotify.com/track/0NRP5OIrTcgGvttJlSLO0n) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Até o céu](https://open.spotify.com/album/713q68xdmP3jOgkAdY0gd4) | 2:46 | 2023-09-18 |  |
 | [BEM MELHOR](https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 5:17 | 2023-09-18 |  |
 | [Carro Forte](https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 4:00 | 2023-09-18 |  |
+| [De Marola](https://open.spotify.com/track/29xj2LAbTtApESdBIQvfIp) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [De Marola](https://open.spotify.com/album/7xCEWCYlRzfNTTgYgbqEK5) | 2:49 | 2023-09-25 |  |
 | [Dinheiro e Putaria](https://open.spotify.com/track/3MGYvpoNOH3Tv5DywjJ0wA) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Nova Moda](https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN) | 3:13 | 2023-09-18 |  |
 | [ESSÊNCIA DE CRIA](https://open.spotify.com/track/1iaPDgTbsKrlznVu13EWIf) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:12 | 2023-09-18 |  |
 | [EU SOU O TREM](https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:45 | 2023-09-18 |  |

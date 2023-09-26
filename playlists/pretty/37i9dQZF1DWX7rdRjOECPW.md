@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer, Sonne, Lieblingshits  ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,532,978 likes - 90 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,533,011 likes - 90 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 89 | [Ein Traum](https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Ein Traum](https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo) | 2:49 |
 | 90 | [Good Morning \(feat\. YOU\)](https://open.spotify.com/track/2ODIVQXwaezpchs1LGE4CV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Good Morning \(feat\. YOU\)](https://open.spotify.com/album/1t4MBrJVFvOEPYt6fXf6r0) | 2:55 |
 
-Snapshot ID: `MCxlMWMwYTBkZmY1ZTY4ZTM5ODE4OGEwYTM0MDBiODViZDM5YzJmMDM0`
+Snapshot ID: `MCw2MjZlYWJjMWExNzVhOTNiZTg0ZWNmMWVmOTRhYWQwYTdkMTYxOTEw`

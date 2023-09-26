@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,095 likes - 250 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,097 likes - 250 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 249 | [two wheels north](https://open.spotify.com/track/3lHhDgHyTDL6A9WEss4GY4) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [two wheels north](https://open.spotify.com/album/0jqVQmWlVeyCnRu3zQPxKs) | 2:50 |
 | 250 | [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 |
 
-Snapshot ID: `MCwzZmE1MjlkM2I0M2FiM2IzM2U2Mzk1ZDBkMDYyY2VkYTU0NmZmYjgy`
+Snapshot ID: `MCxhNjJhZDVhOWNlZmNmNDNjYmQyYmI0YzRjNGFjOWZkOWI4NzY0NjAw`

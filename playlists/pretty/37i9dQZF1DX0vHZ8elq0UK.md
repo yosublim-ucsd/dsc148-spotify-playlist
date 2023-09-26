@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,831 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,897 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 | 149 | [Chasing The Sun](https://open.spotify.com/track/4b4c0oH7PtrPsI86drzgFs) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [The Wanted \(Special Edition\)](https://open.spotify.com/album/6FftnKauTntTYF5PBI0yOm) | 3:18 |
 | 150 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 |
 
-Snapshot ID: `MCxjZjUwOWZlOTg0NDg2MzI5MzhlNzEzYjRhODhiYjc5MmU5MTJkMzMx`
+Snapshot ID: `MCwyOTc1NDc1MjlkYTI5OGM5ZDUxMTAzYTFlYTlmZjg2YWZkOWQwMTg1`

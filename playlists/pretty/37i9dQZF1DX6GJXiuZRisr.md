@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,528,535 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,528,615 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 99 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 |
 | 100 | [Flame \- Edit](https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Flame](https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0) | 5:26 |
 
-Snapshot ID: `MCxlOTM1ZTViNjVhNTg5ODBjM2M5YTUwY2ZjYTJhMjdlNDMwNzI1NGZk`
+Snapshot ID: `MCw1YjlkZTE3YTY3NmUwYWVkZDhhOTkxNDE5NWZhYTAyMWM0YTc3ZjUy`

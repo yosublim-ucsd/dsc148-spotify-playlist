@@ -1,6 +1,6 @@
 {
   "description": "Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.",
-  "num_followers": 43401,
+  "num_followers": 43441,
   "original_name": "The Pop Lounge",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,26 @@
     {
       "added_at": "2023-09-21 17:52:19",
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 175636,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O"
+    },
+    {
+      "added_at": "2023-09-21 17:52:19",
+      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 212568,
       "name": "Oh Caroline",
       "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
-    },
-    {
-      "added_at": "2023-09-21 17:52:19",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        },
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 175636,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O"
     },
     {
       "added_at": "2023-09-21 17:52:19",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-09-21 17:52:19",
       "album": {
+        "name": "Courage to Change",
+        "url": "https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 292656,
+      "name": "Courage to Change",
+      "url": "https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA"
+    },
+    {
+      "added_at": "2023-09-21 17:52:19",
+      "album": {
         "name": "I'm So Happy",
         "url": "https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7"
       },
@@ -403,18 +419,18 @@
     {
       "added_at": "2023-09-21 17:52:19",
       "album": {
-        "name": "Courage to Change",
-        "url": "https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh"
+        "name": "Tomorrow EP",
+        "url": "https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Jack Curley",
+          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
         }
       ],
-      "duration_ms": 292656,
-      "name": "Courage to Change",
-      "url": "https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA"
+      "duration_ms": 184984,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
     },
     {
       "added_at": "2023-09-21 17:52:19",
@@ -431,22 +447,6 @@
       "duration_ms": 197586,
       "name": "Echo",
       "url": "https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm"
-    },
-    {
-      "added_at": "2023-09-21 17:52:19",
-      "album": {
-        "name": "Tomorrow EP",
-        "url": "https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X"
-      },
-      "artists": [
-        {
-          "name": "Jack Curley",
-          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
-        }
-      ],
-      "duration_ms": 184984,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
     },
     {
       "added_at": "2023-09-21 17:52:19",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-09-21 17:52:19",
       "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/2drxntzHlsigavFiTWYRvF"
+      },
+      "artists": [
+        {
+          "name": "Cris Cab",
+          "url": "https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "Liar Liar",
+      "url": "https://open.spotify.com/track/7c0tqRk43Y0QXTOYZ5lnkA"
+    },
+    {
+      "added_at": "2023-09-21 17:52:19",
+      "album": {
         "name": "never worry",
         "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 222624,
       "name": "Sometimes\u2026 (with Daya & Earthgang)",
       "url": "https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi"
-    },
-    {
-      "added_at": "2023-09-21 17:52:19",
-      "album": {
-        "name": "Where I Belong",
-        "url": "https://open.spotify.com/album/2drxntzHlsigavFiTWYRvF"
-      },
-      "artists": [
-        {
-          "name": "Cris Cab",
-          "url": "https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "Liar Liar",
-      "url": "https://open.spotify.com/track/7c0tqRk43Y0QXTOYZ5lnkA"
     },
     {
       "added_at": "2023-09-21 17:52:19",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-09-21 17:52:19",
       "album": {
-        "name": "girls like me don't cry (sped up)",
-        "url": "https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP"
-    },
-    {
-      "added_at": "2023-09-21 17:52:19",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/1gpYbPQu0GEuvimuN4guEn"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 243240,
       "name": "30",
       "url": "https://open.spotify.com/track/6xUlSA4dVkxCeSOb2GeYIt"
+    },
+    {
+      "added_at": "2023-09-21 17:52:19",
+      "album": {
+        "name": "girls like me don't cry (sped up)",
+        "url": "https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP"
     },
     {
       "added_at": "2023-09-21 17:52:19",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-09-21 17:52:19",
       "album": {
-        "name": "Trippin",
-        "url": "https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs"
-      },
-      "artists": [
-        {
-          "name": "Goldkimono",
-          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
-        },
-        {
-          "name": "DAO",
-          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
-        }
-      ],
-      "duration_ms": 190438,
-      "name": "Trippin",
-      "url": "https://open.spotify.com/track/6hURVOp7JtavNu11tfl912"
-    },
-    {
-      "added_at": "2023-09-21 17:52:19",
-      "album": {
         "name": "In The Middle",
         "url": "https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 221271,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw"
+    },
+    {
+      "added_at": "2023-09-21 17:52:19",
+      "album": {
+        "name": "Trippin",
+        "url": "https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs"
+      },
+      "artists": [
+        {
+          "name": "Goldkimono",
+          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
+        },
+        {
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+        }
+      ],
+      "duration_ms": 190438,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/6hURVOp7JtavNu11tfl912"
     },
     {
       "added_at": "2023-09-21 17:52:19",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2023-09-21 17:52:19",
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV"
+      },
+      "artists": [
+        {
+          "name": "Dion Cooper",
+          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
+        },
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw"
+    },
+    {
+      "added_at": "2023-09-21 17:52:19",
+      "album": {
         "name": "Room for Another",
         "url": "https://open.spotify.com/album/43Msz3c7nU5vKAsXPdRekM"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 179253,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO"
-    },
-    {
-      "added_at": "2023-09-21 17:52:19",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV"
-      },
-      "artists": [
-        {
-          "name": "Dion Cooper",
-          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
-        },
-        {
-          "name": "MAXINE",
-          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw"
     },
     {
       "added_at": "2023-09-21 17:52:19",

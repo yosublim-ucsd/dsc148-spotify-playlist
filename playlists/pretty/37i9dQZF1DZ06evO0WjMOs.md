@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,997 likes - 34 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,135 likes - 34 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 18 | [...What Are We?](https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:38 |
 | 19 | [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 |
 | 20 | [Stayin' Alive](https://open.spotify.com/track/1SveOKrBFiyneSj3Pd5Sup) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Stank Face](https://open.spotify.com/album/1pl9uWuNFtZ3eBcSpnmL9r) | 3:09 |
-| 21 | [erase me](https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:34 |
+| 21 | [orange show speedway](https://open.spotify.com/track/6Ngps97GnSV17gGxsYX1NZ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:46 |
 | 22 | [Let Light Be Light](https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:00 |
 | 23 | [Same Boat](https://open.spotify.com/track/4PCsSHOvnIXh2TBdEzb0pr) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:22 |
 | 24 | [Bored](https://open.spotify.com/track/6aIfPfQrAmgLnZOutU247J) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Bored](https://open.spotify.com/album/3yZNHcx9NsFD7CCv2KwpXa) | 2:39 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 33 | [Just the Two of Us](https://open.spotify.com/track/7kjvp3gUi1BzmcUsjk1k6I) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Just the Two of Us](https://open.spotify.com/album/6ppQvrvuJh7YAiAsz5IMp8) | 3:15 |
 | 34 | [Paranoia Purple](https://open.spotify.com/track/0kOq336SMTIa90VjHMutht) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Paranoia Purple](https://open.spotify.com/album/6nqblG53NdUSIoKLndjgL2) | 3:57 |
 
-Snapshot ID: `MjgyNTUwMDUsMDAwMDAwMDAyZjIxZWRlNGFlNWMzNDMzMzYwZDQ1ZThlODRmY2EyNw==`
+Snapshot ID: `MjgyNjA3MzcsMDAwMDAwMDBjN2Q0NTY4M2U2NzdmNjJlZTQ5N2JhYmYyMTk0NmMxNA==`

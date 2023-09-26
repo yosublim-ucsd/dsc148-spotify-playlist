@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLZ52XmnySJg.md) - [plain]
 
 > Your daily update of the most played tracks right now \- India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,180 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,219 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLZ52XmnySJg.md) - [plain]
 | 49 | [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 |
 | 50 | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo) | 3:48 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,839 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,855 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [No Tiene Sentido](https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP) | [Esencia Pr](https://open.spotify.com/artist/5OyUXzH1TSSG8e9ETUMieM), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [No Tiene Sentido](https://open.spotify.com/album/1o7jXsTfe2SrhI4HEPoaKO) | 4:13 |
 | 100 | [Un Call](https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Un Call](https://open.spotify.com/album/41skV30829DyjovTu9BPas) | 3:34 |
 
-Snapshot ID: `MCw5ZjVmMjA4ZmNlNWI5ZWZiYmU4ZGIwNTY3OWZmNGVmNjc0ZTExMGU0`
+Snapshot ID: `MCw5ZjdlNjQ5NmU1ZWE1M2UwOGJmZjY1YWE1MGQ2ZDY4ZGYwZGM3NGZj`

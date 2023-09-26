@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno, Big One & Rusherking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,642 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,671 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Me Duele Tu Nombre \(En Vivo\)](https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Me Duele Tu Nombre \(En Vivo\)](https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm) | 3:12 |
 | 100 | [Por Amarte](https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Summer Pack](https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm) | 3:56 |
 
-Snapshot ID: `MCw4MzlmZDQxODZlMDYxYjllOTAxNDJiZGNiOGUxOWNhYmFhOWRjMjYy`
+Snapshot ID: `MCwzZjBlM2FjMTNiNjlhOTZlY2MwMDY1YzUwYjljMDQxMTgwM2VhYWJj`

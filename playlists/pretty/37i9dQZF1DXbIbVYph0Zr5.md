@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 
 > It was Labor Day weekend he was 17..\. Tim McGraw is taking over Country Cookout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,694 likes - 120 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,718 likes - 120 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 119 | [Burnin' It Down](https://open.spotify.com/track/5HJqpDspKDKwQpLjvkcIsD) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Old Boots, New Dirt](https://open.spotify.com/album/5p3nTBqh8WCoQfRDAaVp68) | 3:39 |
 | 120 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 |
 
-Snapshot ID: `MCxhOGZlYTViZWVkNmUzYjk1ZDBiZDRjZWNkY2MzZTUzZTQ5YzIwOTE0`
+Snapshot ID: `MCw1ZmVlMDZmYWM4YWYwZDc2MzM5YjU5ODJhZmRmNTUzNzkzMmI4OTEw`

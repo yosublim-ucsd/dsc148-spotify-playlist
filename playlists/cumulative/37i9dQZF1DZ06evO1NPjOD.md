@@ -4,7 +4,7 @@
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 11 min
+67 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Double CC's](https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:11 | 2022-10-28 |  |
 | [Drip](https://open.spotify.com/track/6RApNG1hgOvOQvrVvkvWNh) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:32 | 2022-10-28 | 2023-01-14 |
 | [Ex For A Reason \(with JT from City Girls\)](https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:45 | 2022-10-28 |  |
-| [Face Down](https://open.spotify.com/track/3I90vgNPEkwXiUAyeb5aRy) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5SeAsHvDrYovJkWIX4Gdfk) | 2:07 | 2023-08-27 |  |
+| [Face Down](https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1) | 2:07 | 2023-09-25 |  |
+| [Face Down](https://open.spotify.com/track/3I90vgNPEkwXiUAyeb5aRy) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5SeAsHvDrYovJkWIX4Gdfk) | 2:07 | 2023-08-27 | 2023-09-26 |
 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 | 2022-10-28 |  |
 | [Flewed Out](https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:10 | 2022-10-28 |  |
 | [Fu\*k Dat Ni\*\*a](https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 3:14 | 2022-10-28 |  |
@@ -51,7 +52,7 @@
 | [Rodeo](https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:57 | 2022-10-28 |  |
 | [Said Sum \(feat\. City Girls & DaBaby\) \- Remix](https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:57 | 2022-10-28 |  |
 | [Scared \- from the "Bruised" Soundtrack](https://open.spotify.com/track/0xEIY4zMquic0MRv9lSekG) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W) | [Scared \(from the "Bruised" Soundtrack\)](https://open.spotify.com/album/1VuOFnoveM2MzoLSEeTEHk) | 2:39 | 2022-11-02 | 2023-01-02 |
-| [Season \(feat\. Lil Baby\)](https://open.spotify.com/track/6gqvCJJY8Sh4opRxXVO7A7) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 3:22 | 2022-10-28 |  |
+| [Season \(feat\. Lil Baby\)](https://open.spotify.com/track/6gqvCJJY8Sh4opRxXVO7A7) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 3:22 | 2022-10-28 | 2023-09-26 |
 | [She A Winner](https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62) | [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Thug Luv](https://open.spotify.com/album/3JgQJpOk0rmxql353Y3j2G) | 3:02 | 2022-10-28 |  |
 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 | 2022-10-28 |  |
 | [Supahood](https://open.spotify.com/track/0bhUCHVn9o7u6YZwYGLKwi) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [All Monsters Are Human](https://open.spotify.com/album/1Ds7Xoj5ihJkFvTKwXWaIA) | 3:32 | 2023-01-31 | 2023-07-30 |

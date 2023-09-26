@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,058 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,075 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 50 | [H.B.Y.](https://open.spotify.com/track/6B12vGcosQHeGcuXSNDjH6) | [Setwun](https://open.spotify.com/artist/2Qv1W2j1iK6SHjsDEsXST6) | [H.B.Y.](https://open.spotify.com/album/5M9C4VlFYEbRHI5qJhj57T) | 4:14 |
 | 51 | [Barley](https://open.spotify.com/track/1kccKNibPNlyCVqhdg8NYE) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Everyone's Crushed](https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr) | 3:29 |
 
-Snapshot ID: `MCw5MmQxZTFlM2M2MTEyNDg3ZTM0MzdmZTM3OWVhZjYwOWI5YjQ1MGRm`
+Snapshot ID: `MCw1MmFhMTM2OTNkMWEzNWYxYTMwZjFiZmYxMTRhZTA5NWE2MzhkZDlj`

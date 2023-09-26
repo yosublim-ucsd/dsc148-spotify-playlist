@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: juju <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,508 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,530 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 98 | [Electric Nights](https://open.spotify.com/track/5sLyvaZJjolG7bkePe9YOT) | [Emmrose](https://open.spotify.com/artist/1oBXXRTPzynCh1tLDOmlkI) | [Electric Nights](https://open.spotify.com/album/0PJOzuaH6GMDY3WGB1QJqD) | 3:41 |
 | 99 | [Escapades](https://open.spotify.com/track/2ujZ4AR85CdlS4zeTEK3u5) | [August James](https://open.spotify.com/artist/0rDjSI5RVCPaKNcd9tUdBH) | [Warm Air](https://open.spotify.com/album/30r2UJzqOEm0zFW2vZSWrC) | 2:12 |
 
-Snapshot ID: `MCxjMzY1N2RiNjI2NzM3NWVlZmEyZjk1ZDAzNmM0OGRmMmIzODNhN2Zh`
+Snapshot ID: `MCwyZDMzNmM3YzgxMjlkNzQzNWEyNTEwNjY2N2Y3YzhkODg0NDBlOTlj`

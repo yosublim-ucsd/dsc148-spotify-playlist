@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,979 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,013 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 99 | [The Sin and the Sentence](https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:49 |
 | 100 | [Cycle Of Hurting](https://open.spotify.com/track/4xLGcvIrAtVaN8FYhd6poT) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Cycle Of Hurting](https://open.spotify.com/album/2VpUANQDj0xi2A57MejBzy) | 3:49 |
 
-Snapshot ID: `MCw3Njg0NTBlYTM0NmI4ODA5Zjc0NjYwNmQ0ZDI1N2E1NTA3OWMxMzgx`
+Snapshot ID: `MCxhMGM1ODhiMmI5ZWE4MTE2YzBkODBhY2U4ZjUwNTZhNzYxZTFlOWYx`

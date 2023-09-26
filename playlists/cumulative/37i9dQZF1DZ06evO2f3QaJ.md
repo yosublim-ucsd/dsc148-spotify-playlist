@@ -4,7 +4,7 @@
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 35 min
+45 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Tempo Ruim](https://open.spotify.com/track/1g70vYJx7zcLVeOl4uxeRc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:40 | 2023-09-18 |  |
 | [Típico](https://open.spotify.com/track/2eGpy8NN1bc2UQbKGOtuX5) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Típico](https://open.spotify.com/album/2p6rscCysT7F72XxDZ4xks) | 2:23 | 2023-09-18 |  |
 | [Um Acorde](https://open.spotify.com/track/6O9HevRJcSKZC8RHZUlLm9) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Psicodelic](https://open.spotify.com/album/1JucoWh60Db48VQ8frRMiR) | 4:10 | 2023-09-18 |  |
+| [UZE](https://open.spotify.com/track/6iR8GlaEZuOjhIALbzmy8u) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [FEBRE AMARELA \(Deluxe Edition\)](https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL) | 4:46 | 2023-09-25 |  |
 | [Vibranium](https://open.spotify.com/track/273J7WTpMjavzzDKu8i5Lr) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Eloy Polemico](https://open.spotify.com/artist/4YbBYNU6hsYbEMtApK0WPc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Nabil](https://open.spotify.com/artist/40ZFGpZSOnRBpiAyuzJcR6), [Nego Max](https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8) | [Vibranium](https://open.spotify.com/album/2sPVR5oMt2K57ELzLcvz7w) | 4:34 | 2023-09-18 |  |
 
 \*This playlist was first scraped on 2023-09-19. Prior content cannot be recovered.

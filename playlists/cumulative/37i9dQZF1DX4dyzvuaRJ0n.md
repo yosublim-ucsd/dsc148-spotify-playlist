@@ -4,7 +4,7 @@
 
 > The world's biggest dance hits\. Cover: Martin Garrix & Lloyiso
 
-717 songs - 1 day 16 hr 4 min
+718 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,7 +560,8 @@
 | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Sadie Walker](https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV) | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI) | 3:52 | 2022-09-30 | 2023-02-11 |
 | [Shut Up](https://open.spotify.com/track/0oIeGuhmaT9nvA2bCG66Ft) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/3oTCD9IDNU5KLinnV9u7JF) | 2:12 | 2022-11-18 | 2022-11-30 |
 | [Shut Up](https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:12 | 2022-11-25 | 2023-02-18 |
-| [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-25 |  |
+| [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 | 2023-09-22 |  |
+| [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-25 | 2023-09-26 |
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-05-12 | 2023-07-08 |
 | [Signals](https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Signals](https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE) | 2:47 | 2021-12-17 | 2022-03-18 |
 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 | 2022-04-08 | 2022-07-02 |

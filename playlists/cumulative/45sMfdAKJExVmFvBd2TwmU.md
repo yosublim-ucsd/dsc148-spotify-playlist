@@ -4,7 +4,7 @@
 
 > Monsoon, Monsoon songs, Monsoon Hits, LOVE and SAD SONGS HINDI...🥺all time best hits ❤️‍🩹\(Hindi\), POV : you're in love, Emotional Songs, Love songs, 2023, 2022, Top Hits, Bollywood hits, Arijit Singh Hits, Hindi Songs, Lofi, Soothing songs, Night songs, Broken, Romance, All Time best Bollywood son
 
-150 songs - 11 hr 33 min
+151 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Samjhawan](https://open.spotify.com/track/4LO5DjN6Tp3UkUvgESuy2t) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Humpty Sharma Ki Dulhania \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE) | 4:29 | 2021-07-05 |  |
 | [Sanam Teri Kasam \(From "Sanam Teri Kasam"\)](https://open.spotify.com/track/5CUBl7fArpc1jJYeZ7jlxI) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Love \- From Him](https://open.spotify.com/album/2kjUMWW4I1jx0goTCa5Vxk) | 5:14 | 2022-06-09 |  |
 | [Sapna Jahan \(From "Brothers"\)](https://open.spotify.com/track/6uQkoo1UGWThtEpNEYc6Ga) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Sapna Jahan \(From "Brothers"\)](https://open.spotify.com/album/4kTUCS1HWZ7YjjbKofxUuz) | 5:41 | 2022-01-18 |  |
+| [Sapna Jahan \- Lofi Flip](https://open.spotify.com/track/6il0R178NIhSo2gIIkTtMn) | [Kritiman Mishra](https://open.spotify.com/artist/5OD147PIZedUodUrxiEqEX), [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Sapna Jahan \(Lofi Flip\)](https://open.spotify.com/album/2aSNCmVk4qqROAvWjxXXYY) | 2:35 | 2023-09-22 |  |
 | [Sham \- Sunset Edition By Nikhil Dsouza](https://open.spotify.com/track/6C6pDXNyAUTVkM1us9jApO) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Saba Azad](https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt) | [Sham \(Sunset Edition By Nikhil Dsouza\)](https://open.spotify.com/album/3v24ZyDKEepP51BboVRMLd) | 1:10 | 2022-11-18 |  |
 | [Shayad](https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr) | 4:07 | 2021-10-19 |  |
 | [Shayad \(Aaj Kal\) \- From "Love Aaj Kal"](https://open.spotify.com/track/3WXvr6rwl4I8U3ancJ08Yy) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Shayad \(Aaj Kal\) \[From "Love Aaj Kal"\]](https://open.spotify.com/album/2L3XNwkrdYWWi08k304lJM) | 3:40 | 2023-07-13 |  |

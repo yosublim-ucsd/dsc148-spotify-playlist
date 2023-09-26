@@ -4,7 +4,7 @@
 
 > A rock playlist filled with the biggest classic rock anthems from The Beatles, Queen and more!
 
-93 songs - 6 hr 32 min
+94 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Send Me on My Way](https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [Music From Party of Five](https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3) | 4:23 | 2022-05-18 |  |
 | [Shape Of My Heart](https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:39 | 2022-05-18 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/56Cub3qT0VhFQd2Wiblv2w) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/1ySR0W1hHxPDKCBWdvzRvc) | 5:01 | 2022-05-18 |  |
+| [Stairway to Heaven \(Live At The Kennedy Center Honors\)](https://open.spotify.com/track/6gOgTWY8trzXja4ZfmqFKt) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Stairway to Heaven \(Live At The Kennedy Center Honors\)](https://open.spotify.com/album/0R1bzKE9eDnJuozWK253BL) | 7:58 | 2023-09-22 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/50qma2LfxTfAILyNlZEnpP) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:56 | 2022-05-18 |  |
 | [The Invisible Man](https://open.spotify.com/track/0kf46oObVRf3L51fHIojEm) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9) | 3:55 | 2022-10-03 |  |
 | [The Long And Winding Road \- 2021 Mix](https://open.spotify.com/track/1GO1BHrYnc8dy623A4mDQA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Long And Winding Road \(2021 Mix\)](https://open.spotify.com/album/5MLKpsTKwnAlQgslJWdIyl) | 3:37 | 2022-05-18 |  |

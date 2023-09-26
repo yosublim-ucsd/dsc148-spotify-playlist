@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 692374,
+  "num_followers": 693757,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGM2NmU3ZDI5NmQ3NWQ0MzIxNGVkMGM2YjA1NjE0M2Y3NDZkZWE3",
+  "snapshot_id": "MCw4MmRmOWE2Yzc2YzU1MjI3NGQ5YjViODVkODkyMWM2N2FmY2ViMzYx",
   "tracks": [
     {
       "added_at": "2023-09-21 12:18:37",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
+    },
+    {
+      "added_at": "2023-09-21 12:18:37",
+      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -107,18 +123,18 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 284026,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
+      "duration_ms": 331560,
+      "name": "Enter Sandman (Remastered)",
+      "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
     },
     {
       "added_at": "2023-09-21 12:18:37",
@@ -155,22 +171,6 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 331560,
-      "name": "Enter Sandman (Remastered)",
-      "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
-    },
-    {
-      "added_at": "2023-09-21 12:18:37",
-      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
@@ -183,22 +183,6 @@
       "duration_ms": 220310,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
-    },
-    {
-      "added_at": "2023-09-21 12:18:37",
-      "album": {
-        "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 166360,
-      "name": "Ace of Spades",
-      "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
     },
     {
       "added_at": "2023-09-21 12:18:37",
@@ -219,6 +203,22 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 166360,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
+    },
+    {
+      "added_at": "2023-09-21 12:18:37",
+      "album": {
         "name": "Jailbreak (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
       },
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 168405,
-      "name": "Paranoid - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
-    },
-    {
-      "added_at": "2023-09-21 12:18:37",
-      "album": {
         "name": "Beggars Banquet (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 378146,
       "name": "Sympathy For The Devil - 50th Anniversary Edition",
       "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "added_at": "2023-09-21 12:18:37",
+      "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 168405,
+      "name": "Paranoid - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
     },
     {
       "added_at": "2023-09-21 12:18:37",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 265560,
-      "name": "Times Like These",
-      "url": "https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF"
-    },
-    {
-      "added_at": "2023-09-21 12:18:37",
-      "album": {
         "name": "Permission to Land",
         "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
       },
@@ -456,7 +440,7 @@
           "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
         }
       ],
-      "duration_ms": 217653,
+      "duration_ms": 216453,
       "name": "I Believe in a Thing Called Love",
       "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
     },
@@ -479,6 +463,22 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 265560,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF"
+    },
+    {
+      "added_at": "2023-09-21 12:18:37",
+      "album": {
         "name": "ATLAS",
         "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2023-09-21 12:18:37",
-      "album": {
         "name": "Superunknown (20th Anniversary)",
         "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 246920,
       "name": "Spoonman",
       "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
+    },
+    {
+      "added_at": "2023-09-21 12:18:37",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2023-09-21 12:18:37",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "Screaming For Vengeance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 310080,
-      "name": "You've Got Another Thing Coming",
-      "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"
-    },
-    {
-      "added_at": "2023-09-21 12:18:37",
-      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 269733,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC"
+    },
+    {
+      "added_at": "2023-09-21 12:18:37",
+      "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 310080,
+      "name": "You've Got Another Thing Coming",
+      "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"
     },
     {
       "added_at": "2023-09-21 12:18:37",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 177768,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
-    },
-    {
-      "added_at": "2023-09-21 12:18:37",
-      "album": {
         "name": "Garage, Inc.",
         "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
       },
@@ -907,22 +891,6 @@
       "duration_ms": 304893,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
-    },
-    {
-      "added_at": "2023-09-21 12:18:37",
-      "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
-      },
-      "artists": [
-        {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
-        }
-      ],
-      "duration_ms": 176306,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"
     },
     {
       "added_at": "2023-09-21 12:18:37",
@@ -951,6 +919,38 @@
       "duration_ms": 197234,
       "name": "Outlaws & Outsiders",
       "url": "https://open.spotify.com/track/2C2ExKriHRkD9qNilogjXn"
+    },
+    {
+      "added_at": "2023-09-21 12:18:37",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2023-09-21 12:18:37",
+      "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 176306,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"
     },
     {
       "added_at": "2023-09-21 12:18:37",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "Master of Reality (2014 Remaster)",
-        "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 317206,
-      "name": "Children of the Grave - 2014 Remaster",
-      "url": "https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk"
-    },
-    {
-      "added_at": "2023-09-21 12:18:37",
-      "album": {
         "name": "The Number of the Beast (2015 - Remaster)",
         "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 233506,
       "name": "Run to the Hills - 2015 Remaster",
       "url": "https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl"
+    },
+    {
+      "added_at": "2023-09-21 12:18:37",
+      "album": {
+        "name": "Master of Reality (2014 Remaster)",
+        "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 317206,
+      "name": "Children of the Grave - 2014 Remaster",
+      "url": "https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk"
     },
     {
       "added_at": "2023-09-21 12:18:37",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
+        "name": "Hunted",
+        "url": "https://open.spotify.com/album/6A0zg9omFxGDUqKLAC5Cog"
+      },
+      "artists": [
+        {
+          "name": "Egypt Central",
+          "url": "https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w"
+        }
+      ],
+      "duration_ms": 173398,
+      "name": "Hunted",
+      "url": "https://open.spotify.com/track/2o34ml66r7gmwmsIHcg6ym"
+    },
+    {
+      "added_at": "2023-09-21 12:18:37",
+      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "Hunted",
-        "url": "https://open.spotify.com/album/6A0zg9omFxGDUqKLAC5Cog"
+        "name": "Tyrannosaurus Hives",
+        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
       },
       "artists": [
         {
-          "name": "Egypt Central",
-          "url": "https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w"
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
         }
       ],
-      "duration_ms": 173398,
-      "name": "Hunted",
-      "url": "https://open.spotify.com/track/2o34ml66r7gmwmsIHcg6ym"
+      "duration_ms": 120506,
+      "name": "Two-Timing Touch and Broken Bones",
+      "url": "https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE"
     },
     {
       "added_at": "2023-09-21 12:18:37",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "Tyrannosaurus Hives",
-        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
+        "name": "Paradigm",
+        "url": "https://open.spotify.com/album/0WxqXKlhcm6ktQMFJ0emiZ"
       },
       "artists": [
         {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr"
         }
       ],
-      "duration_ms": 120506,
-      "name": "Two-Timing Touch and Broken Bones",
-      "url": "https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE"
+      "duration_ms": 191669,
+      "name": "Viva La Victoria",
+      "url": "https://open.spotify.com/track/2MC57MCOiCz2UGskL2uCVF"
     },
     {
       "added_at": "2023-09-21 12:18:37",
@@ -1207,22 +1223,6 @@
       "duration_ms": 287400,
       "name": "Last Day Under The Sun",
       "url": "https://open.spotify.com/track/6QrC8IQV29mwLgLMW1zGmm"
-    },
-    {
-      "added_at": "2023-09-21 12:18:37",
-      "album": {
-        "name": "Paradigm",
-        "url": "https://open.spotify.com/album/0WxqXKlhcm6ktQMFJ0emiZ"
-      },
-      "artists": [
-        {
-          "name": "Eclipse",
-          "url": "https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr"
-        }
-      ],
-      "duration_ms": 191669,
-      "name": "Viva La Victoria",
-      "url": "https://open.spotify.com/track/2MC57MCOiCz2UGskL2uCVF"
     }
   ],
   "unique_name": "Highway to Yell",

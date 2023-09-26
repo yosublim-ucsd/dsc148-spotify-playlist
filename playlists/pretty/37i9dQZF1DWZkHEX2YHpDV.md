@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Games We Play
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,004 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,015 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 99 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
 | 100 | [too young.](https://open.spotify.com/track/3odZxZFIrKMcYxH86UonVn) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [too young.](https://open.spotify.com/album/6M3vNH4T111GlOh17AYKFB) | 3:19 |
 
-Snapshot ID: `MCw0ODlkYjdjMTVkMTBjOTZhMTA2YzYxZDkzMzk2MjMyMDY3OTllNDNi`
+Snapshot ID: `MCwzYzhiMDBiMGM4ZmUyNGRlY2JlYTRhNzVjZjFiNDQzOWVjN2FjMzFh`

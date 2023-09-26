@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,803 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,819 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [I Need A Painkiller](https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Butter Rush](https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo) | [I Need A Painkiller \(Armand Van Helden Vs\. Butter Rush\)](https://open.spotify.com/album/0dTCxYvPkt9AbZ3oqHI2CJ) | 3:15 |
 | 50 | [Buggin' \- Edit](https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [8\-track](https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC) | 4:35 |
 
-Snapshot ID: `MCw4ZjA0NTc4ZmM0MDMwMmU0Njk4M2FmZjFhMDgyNTU1ZTVmYjA2NThi`
+Snapshot ID: `MCwyMjc5MWZmMzdkMzdlMTExNWM2NDA4ZjI4NWVmOTBlYjFmYTg1NDYz`

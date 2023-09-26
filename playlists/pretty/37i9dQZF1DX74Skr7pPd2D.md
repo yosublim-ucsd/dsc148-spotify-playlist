@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,897 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,906 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 99 | [Blue Moon](https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 4:00 |
 | 100 | [Close Your Eyes](https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:39 |
 
-Snapshot ID: `MCwyZjYyN2YzYzhmNzkwN2RhYjMwZDFkZjBhZDUzODAxMmJmZTRjODIw`
+Snapshot ID: `MCwxMWZhZTdiZmZkZWRmYWYwYjE1ZjgxOGIyMDM4ZjExYTMxNTMxMjNk`

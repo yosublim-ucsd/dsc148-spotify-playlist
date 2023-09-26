@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 
 > These artists changed the world by changing their tune\.  Their music not only grooved but moved the world with personal and political messages.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,082 likes - 22 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,094 likes - 22 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 | 21 | [Zoom](https://open.spotify.com/track/14Tj6yYXItEhy466a0yeR0) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 6:44 |
 | 22 | [O\-o\-h Child](https://open.spotify.com/track/4huOPF1DlqeSkF3PPcUYcJ) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Best Of The Spinners](https://open.spotify.com/album/1YtoIFW84QtpYVlkOR8xTe) | 3:13 |
 
-Snapshot ID: `MCw2ODAwYTkwMjcwZDVhN2Y1MDcxNGYzMGQ0NWYzNjhkZTc3MmU2Zjlk`
+Snapshot ID: `MCw2NTM0OTdlN2VlMjQ3ZjExZDg0OGVkOTFlMGJkNmVjNTgzNjc2YzI5`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-139 songs - 7 hr 43 min
+140 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Detour](https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 4:07 | 2022-03-27 |  |
 | [distance](https://open.spotify.com/track/24zaoEGmRjgA0zt47uLgRF) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 | 2021-12-27 |  |
 | [Don't Cry](https://open.spotify.com/track/0A472qovEW32nP2G0mkJoe) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:07 | 2021-12-27 |  |
-| [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2zy9TMoZlYGuCNY4TLqG24) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [7](https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit) | 3:03 | 2021-12-27 |  |
+| [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2zy9TMoZlYGuCNY4TLqG24) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [7](https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit) | 3:03 | 2021-12-27 | 2023-09-26 |
+| [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2M3g1eQZvnmsi8iMESZYY9) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [7: Anniversary Edition](https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7) | 3:04 | 2023-09-25 |  |
 | [Drink About](https://open.spotify.com/track/5r2kpjTJlJouxpESA1xEEY) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 3:02 | 2021-12-27 |  |
 | [Drive and Disconnect](https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:30 | 2021-12-27 |  |
 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 | 2023-06-09 |  |

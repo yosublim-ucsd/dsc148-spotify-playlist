@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,104 likes - 682 songs - 1 day 21 hr 56 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,120 likes - 682 songs - 1 day 21 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 93 | [Surfin' Bird](https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:17 |
 | 94 | [Discipline](https://open.spotify.com/track/0Z4pLlygCvkTHmeQtYAbNH) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Slip](https://open.spotify.com/album/6Et26zmZ0Gu4ocrxyU3dSp) | 4:19 |
 | 95 | [Is She Weird](https://open.spotify.com/track/3Ao3tTpiXLSmch1kTJZ7Fx) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Bossanova](https://open.spotify.com/album/60cRh5MCFNOrFeQykKnDej) | 3:01 |
-| 96 | [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 |
+| 96 | [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 |
 | 97 | [A Pain That I'm Used To](https://open.spotify.com/track/2pbZiAFyhKPmVyjIHipYLa) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Steve Fitzmaurice](https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY) | [Playing the Angel](https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz) | 4:10 |
 | 98 | [Magneto And Titanium Man \- 1993 Digital Remaster](https://open.spotify.com/track/1oHJqJn5Y7lwCqZNWEdaMe) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Venus And Mars](https://open.spotify.com/album/4P12KrXWSN8CspOvIuD4rl) | 3:16 |
 | 99 | [World’s Strongest Man](https://open.spotify.com/track/3OycLR3U65iIJXrIQYVpIK) | [Gaz Coombes](https://open.spotify.com/artist/6ho33Vt1tjZyf8m7Z5NZhx) | [World’s Strongest Man](https://open.spotify.com/album/3GNgyMVDg6PSVsOxFfHZsO) | 3:28 |
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 184 | [Dear Prudence \- 2018 Mix](https://open.spotify.com/track/21pC0RPgkThjHlwpmCtxGb) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 3:54 |
 | 185 | [Superblood Wolfmoon](https://open.spotify.com/track/7gQm8pZsxA5eXCZMBGV7CA) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 3:49 |
 | 186 | [Lake Superior](https://open.spotify.com/track/1s5wRbjKYS4PwvRiUDGtVt) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Lake Superior](https://open.spotify.com/album/6dgHJK6fVIUdzNMQ6hoAr1) | 4:49 |
-| 187 | [Serve The Servants](https://open.spotify.com/track/5aOwFdqFvIj4HYvgClYzqx) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 3:37 |
+| 187 | [Serve The Servants](https://open.spotify.com/track/5aOwFdqFvIj4HYvgClYzqx) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(Deluxe Edition\)](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 3:37 |
 | 188 | [53 Miles West of Venus](https://open.spotify.com/track/0D1b7W0tcPji8y9sZ5Xup3) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Wild Planet](https://open.spotify.com/album/1K4t7Jv7DuolDWnFLxKxkd) | 4:53 |
 | 189 | [No Plan](https://open.spotify.com/track/7zthczBbgCsnumcXWfNtXq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [No Plan \- EP](https://open.spotify.com/album/2zhmNj7DAfoHCLrApo7ipN) | 3:40 |
 | 190 | [The Importance of Being Idle](https://open.spotify.com/track/4SXgXYFbk3nmLVnWlxFZnx) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe the Truth](https://open.spotify.com/album/17ey4RhKTF2sqtr88d6Qfg) | 3:39 |
@@ -391,7 +391,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 381 | [Bajan](https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 3:24 |
 | 382 | [When I Get Older](https://open.spotify.com/track/1K7GbyDPeP5kEr8uq4JsSp) | [Bill Wurtz](https://open.spotify.com/artist/78cT0dM5Ivm722EP2sgfDh) | [When I Get Older](https://open.spotify.com/album/0Pw1csJGXXYU7WCokoteLL) | 3:15 |
 | 383 | [Mind Games \- Remastered 2010](https://open.spotify.com/track/3QmUhaY5KZiOuaUH8H71LG) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Mind Games](https://open.spotify.com/album/2GoiwFkRtErx0CHn6zaFJu) | 4:13 |
-| 384 | [Dumb](https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 2:31 |
+| 384 | [Dumb](https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 2:31 |
 | 385 | [A Lizard State](https://open.spotify.com/track/0KzFcd3gLfmsVEOqpOogBt) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [6 Feet Beneath the Moon](https://open.spotify.com/album/6DAL46eCFRxgj624atbOYY) | 4:19 |
 | 386 | [Bring on the Dancing Horses](https://open.spotify.com/track/5uh98HlgvoJd2zRWAduj2Y) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 3:55 |
 | 387 | [The Gnome](https://open.spotify.com/track/1GqRmuG89ILDLcuAdcli6r) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Piper at the Gates of Dawn](https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC) | 2:13 |
@@ -410,7 +410,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 400 | [Not The News](https://open.spotify.com/track/7ypjELqhyUT3BBCws8kzKN) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/1g4vEVvVVFvFju0gS0DMbh) | 3:57 |
 | 401 | [Help Me Stranger](https://open.spotify.com/track/4psuSgzXAkabslCkqWHoO6) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Help Us Stranger](https://open.spotify.com/album/12rfrkN4eZOpmJUmVzE84M) | 3:36 |
 | 402 | [Toreador](https://open.spotify.com/track/18fszHHqwRGC4oEO7U7IfN) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Himalayan](https://open.spotify.com/album/4XWbfiTYAP828RXQmkEkUd) | 4:00 |
-| 403 | [Lake Of Fire](https://open.spotify.com/track/4UJmPSJsBsIR1U0N79BU1g) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 2:55 |
+| 403 | [Lake Of Fire \- Live](https://open.spotify.com/track/4UJmPSJsBsIR1U0N79BU1g) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 2:55 |
 | 404 | [The Internet of Love \(That Way\)](https://open.spotify.com/track/10FFk6OGMIKbpUe89cTEAg) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/7c2Xfq7aQKzs0KdSI3K7Rc) | 4:56 |
 | 405 | [Organ Farmer](https://open.spotify.com/track/3iWIDz7QNa8OiMb1XXrF6r) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Organ Farmer](https://open.spotify.com/album/2ayiDrHYNnN4b702ez950O) | 2:39 |
 | 406 | [Ingenue](https://open.spotify.com/track/6jRAiWrKhURIcFGPEeMnsD) | [Atoms For Peace](https://open.spotify.com/artist/7tA9Eeeb68kkiG9Nrvuzmi) | [AMOK](https://open.spotify.com/album/6dJZDZMNdBPZrJcNv57bEq) | 4:30 |
@@ -440,7 +440,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 430 | [Self\-Immolate](https://open.spotify.com/track/1nFqtmhG07LiNfgxGWBaQA) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Self\-Immolate](https://open.spotify.com/album/3DUjrtRsgPmFQ9JjevUcAH) | 4:28 |
 | 431 | [Someone's Missing](https://open.spotify.com/track/3oxFVT3NByUX7qeQZGivGF) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Congratulations](https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL) | 2:29 |
 | 432 | [Theme From Shaft \- Remastered 2009](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 |
-| 433 | [Milk It](https://open.spotify.com/track/4rtZtLpriBscg7zta3TZxp) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:54 |
+| 433 | [Milk It](https://open.spotify.com/track/4rtZtLpriBscg7zta3TZxp) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:54 |
 | 434 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 |
 | 435 | [All We Have Is Now](https://open.spotify.com/track/2cVj88Q5SL5bZa8O2iFrDL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:53 |
 | 436 | [The Youth](https://open.spotify.com/track/5nv854ey1k43KaZ0kHmE4Z) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:48 |

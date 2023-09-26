@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: C.R.O.
 
-201 songs - 9 hr 42 min
+202 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Me Enseñaste \- Remix](https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Me Enseñaste \(Remix\)](https://open.spotify.com/album/3TNDvI62UbwgzEK0RZ99Rt) | 4:00 | 2022-07-28 |  |
 | [Me Equivoqué](https://open.spotify.com/track/6QqJcOLFsdSLDuc4tcgSob) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Me Equivoqué](https://open.spotify.com/album/1FuHgxh8TQXF6EbmpR2Rbb) | 2:06 | 2023-03-10 |  |
 | [Me Prefiere](https://open.spotify.com/track/1pWr82d4ODrCxNnpvJt2kO) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [Valentin Reigada](https://open.spotify.com/artist/4E1vcDCiROPP3muKybizHO) | [Me Prefiere](https://open.spotify.com/album/1giWkBz9s2Fc9Jb8K1Yfp1) | 2:32 | 2022-05-24 |  |
+| [MENTIAS](https://open.spotify.com/track/2qrhMSU7xQxgeTu1orQ9RF) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi), [Berti AKA](https://open.spotify.com/artist/6jpzEAn94Jb5ZLkQcgjQPV) | [MENTIAS](https://open.spotify.com/album/6uRGjkizGubLymcHsU0dcD) | 2:53 | 2023-09-22 |  |
 | [Mi Debilidad](https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mi Debilidad](https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz) | 2:45 | 2022-05-24 | 2022-11-19 |
 | [Mi Nena](https://open.spotify.com/track/3qBKuh7RPdibZ5K9I5xQdb) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj) | [Mi Nena](https://open.spotify.com/album/1eVX7OilmIFL8ZL9x3Db5t) | 3:08 | 2022-05-24 | 2023-01-06 |
 | [Modo Avión](https://open.spotify.com/track/4qMAWw30CdPVCS6adU1QLi) | [POLI](https://open.spotify.com/artist/58bKHK6LvPOSZJmHOozjfz), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Modo Avión](https://open.spotify.com/album/1W1IyRqoLR1WsZPIMVYDQw) | 3:11 | 2022-06-17 | 2022-08-06 |

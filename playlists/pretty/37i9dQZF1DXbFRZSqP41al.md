@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,433,963 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,434,012 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 49 | [Skeletons](https://open.spotify.com/track/7klR0a6pWaMiRanIkwg1vy) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Skeletons](https://open.spotify.com/album/42wOkbQaZa1jnpBpUmk5Zv) | 3:29 |
 | 50 | [Don't Back Down](https://open.spotify.com/track/4f74h9bcuHOroCaVsKIr4F) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH](https://open.spotify.com/album/116n80nAqikTC624dsTHhI) | 3:45 |
 
-Snapshot ID: `MCw1NjUxMGQ0NmMxYmE1YzUwZTcyZTZhMmVlYWQ3YWM3ZjFhN2M3YTY4`
+Snapshot ID: `MCwzNzc1MjI1YjVmOTliMzI3Y2RjYjM5NTg3ZTAwZmRiMTdlMGZmMzJi`

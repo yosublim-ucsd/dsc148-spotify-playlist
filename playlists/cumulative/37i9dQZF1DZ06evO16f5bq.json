@@ -261,6 +261,36 @@
     },
     {
       "album": {
+        "name": "De Marola",
+        "url": "https://open.spotify.com/album/7xCEWCYlRzfNTTgYgbqEK5"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "De Marola",
+      "url": "https://open.spotify.com/track/29xj2LAbTtApESdBIQvfIp"
+    },
+    {
+      "album": {
         "name": "Nova Moda",
         "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
       },

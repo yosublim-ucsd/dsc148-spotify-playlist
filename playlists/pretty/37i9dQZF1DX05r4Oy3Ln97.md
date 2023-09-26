@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,473 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,559 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg) | [LAUWE](https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK), [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U) | 2:24 |
 | 60 | [I Feel Fine](https://open.spotify.com/track/0uNyb8YPD5LDM4gpb4hqry) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [I Feel Fine](https://open.spotify.com/album/27XW2QTeqZGOKlm2Dt0PvN) | 3:18 |
 
-Snapshot ID: `MCw1M2E4OWRkYzAyN2YxMWVlODA3MTZiMTMwM2RhOWY1OTU4NWVmZWY1`
+Snapshot ID: `MCwyNDFjMjFjOThlY2JlZjhkOTNhOThmMzdiNWRjNjc4N2EzZmMyZjAz`

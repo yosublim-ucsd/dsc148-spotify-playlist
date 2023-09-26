@@ -1,12 +1,12 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 136016,
+  "num_followers": 136401,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzYxYmViMDg5NmY3MThmNTAzYTQ2ZTgxNjA4Mjc2MWEzZDgyZjMx",
+  "snapshot_id": "MCwzMjhhNzFjN2U3YTdlYzc5ZGEzOGMyMjhjYmQ4NmNkZWZmOTQ2MGZk",
   "tracks": [
     {
       "added_at": "2023-09-01 16:42:45",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 240120,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Viaje Por Lo Eterno",
         "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 205000,
       "name": "Nunca Me Dejes",
       "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -343,38 +343,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Aquamosh",
-        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Mr. P-Mosh",
-      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "D\u00edas De Fuego",
-        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "D\u00edas De Fuego",
-      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea",
         "url": "https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG"
       },
@@ -387,6 +355,22 @@
       "duration_ms": 248133,
       "name": "V\u00eda L\u00e1ctea",
       "url": "https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Aquamosh",
+        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Mr. P-Mosh",
+      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -407,6 +391,22 @@
       "duration_ms": 221390,
       "name": "Respiro (Cap. 8)",
       "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "D\u00edas De Fuego",
+        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "D\u00edas De Fuego",
+      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "All U Need Is Mosh",
-        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 244280,
-      "name": "Pervert Pop Song (Castigame)",
-      "url": "https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "No Conf\u00edes en M\u00ed",
         "url": "https://open.spotify.com/album/5gGuyWPDktZv2xu9R0vGIS"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 249666,
       "name": "No Conf\u00edes en M\u00ed",
       "url": "https://open.spotify.com/track/7zZeubbxso576F3fKIBeUz"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "All U Need Is Mosh",
+        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 244280,
+      "name": "Pervert Pop Song (Castigame)",
+      "url": "https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "The Room",
-        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "\u00d3leos",
         "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 230640,
       "name": "Eres",
       "url": "https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Correspondencia",
-        "url": "https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa"
-      },
-      "artists": [
-        {
-          "name": "Tessa Ia",
-          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Acic\u00e1lame",
-      "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Sweet & Sour - Hot & Spicy",
         "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
@@ -703,8 +687,24 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Blanco F\u00e1cil",
-        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
+        "name": "Correspondencia",
+        "url": "https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa"
+      },
+      "artists": [
+        {
+          "name": "Tessa Ia",
+          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Acic\u00e1lame",
+      "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Efecto Domin\u00f3",
+        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
         }
       ],
-      "duration_ms": 263838,
-      "name": "Completamente",
-      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
+      "duration_ms": 217911,
+      "name": "Querer",
+      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Blanco F\u00e1cil",
+        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 263838,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "N\u00e1ufrago",
         "url": "https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 149002,
       "name": "Mi Castillo de Blanca Arena",
       "url": "https://open.spotify.com/track/2WFKRQJeQMCUatF7ufzfCs"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Efecto Domin\u00f3",
-        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 217911,
-      "name": "Querer",
-      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "\u00c9pocas",
+        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "\u00c9pocas",
+      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Bengala",
         "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 187600,
       "name": "Miente",
       "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Border Revolver",
-        "url": "https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN"
-      },
-      "artists": [
-        {
-          "name": "Nortec Collective",
-          "url": "https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK"
-        }
-      ],
-      "duration_ms": 170438,
-      "name": "Sastre Del Diablo",
-      "url": "https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "\u00c9pocas",
-        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+        "name": "Border Revolver",
+        "url": "https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN"
       },
       "artists": [
         {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+          "name": "Nortec Collective",
+          "url": "https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK"
         }
       ],
-      "duration_ms": 221853,
-      "name": "\u00c9pocas",
-      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
+      "duration_ms": 170438,
+      "name": "Sastre Del Diablo",
+      "url": "https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "El Micr\u00f3fono",
-      "url": "https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Kiosko",
         "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 253501,
       "name": "Kiosko",
       "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "El Micr\u00f3fono",
+      "url": "https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 295800,
-      "name": "Pesadilla",
-      "url": "https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Bulevar 2000 (Nortec Collective Presents: Bostich+Fussible)",
         "url": "https://open.spotify.com/album/1CAHCaHt10RshLU6sgDeAH"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 229466,
       "name": "I Count the Ways",
       "url": "https://open.spotify.com/track/37AXEkCvxD0rAUSkmjbem8"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 295800,
+      "name": "Pesadilla",
+      "url": "https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1335,38 +1335,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "All U Need Is Mosh",
-        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 369866,
-      "name": "Paso Fino",
-      "url": "https://open.spotify.com/track/7wt8zQKmeiRadOqWci0q7p"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "LeBaron",
-        "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
-      },
-      "artists": [
-        {
-          "name": "LeBaron",
-          "url": "https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "Inm\u00f3vil (Wrong I.D.)",
-      "url": "https://open.spotify.com/track/34sDl5mMIrTKf1uQJuqKuU"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "No Es un Adi\u00f3s",
         "url": "https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn"
       },
@@ -1383,6 +1351,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "All U Need Is Mosh",
+        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 369866,
+      "name": "Paso Fino",
+      "url": "https://open.spotify.com/track/7wt8zQKmeiRadOqWci0q7p"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Mediocre",
         "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 253600,
       "name": "No vuelvo m\u00e1s",
       "url": "https://open.spotify.com/track/2rpLnBl2ktVU7ZtjgCXGVZ"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "LeBaron",
+        "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
+      },
+      "artists": [
+        {
+          "name": "LeBaron",
+          "url": "https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "Inm\u00f3vil (Wrong I.D.)",
+      "url": "https://open.spotify.com/track/34sDl5mMIrTKf1uQJuqKuU"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Happy-fi Compilaci\u00f3n Vol. 5 Coyote Nights",
-        "url": "https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F"
+        "name": "Vidas Paralelas",
+        "url": "https://open.spotify.com/album/6Vghn6zs5r9r8XFnxRMPZN"
       },
       "artists": [
         {
-          "name": "Quiero Club",
-          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 277626,
-      "name": "Minutos de Aire (feat. Jorge Gonzalez)",
-      "url": "https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj"
+      "duration_ms": 237386,
+      "name": "Vidas Paralelas",
+      "url": "https://open.spotify.com/track/3PLbGRy1TcQJd8AGnw9TdD"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Happy-fi Compilaci\u00f3n Vol. 5 Coyote Nights",
+        "url": "https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F"
+      },
+      "artists": [
+        {
+          "name": "Quiero Club",
+          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
+        }
+      ],
+      "duration_ms": 277626,
+      "name": "Minutos de Aire (feat. Jorge Gonzalez)",
+      "url": "https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/0blCS4K4dzy4hfLa6xOwUb"
       },
@@ -1507,38 +1523,6 @@
       "duration_ms": 207256,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/2Dsc3Cx6d9qr19aoXi6Fqm"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Plant a Seed",
-        "url": "https://open.spotify.com/album/7rYk9RlD0N8b4r5kslGie8"
-      },
-      "artists": [
-        {
-          "name": "Songs for eleonor",
-          "url": "https://open.spotify.com/artist/5C7xSI0tTUDRgF0Lvs7zNj"
-        }
-      ],
-      "duration_ms": 203337,
-      "name": "Tienes Miedo",
-      "url": "https://open.spotify.com/track/2vnR5qteOcCrHjaozA9I2Q"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Vidas Paralelas",
-        "url": "https://open.spotify.com/album/6Vghn6zs5r9r8XFnxRMPZN"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Vidas Paralelas",
-      "url": "https://open.spotify.com/track/3PLbGRy1TcQJd8AGnw9TdD"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1571,6 +1555,22 @@
       "duration_ms": 160013,
       "name": "Tarde O Temprano",
       "url": "https://open.spotify.com/track/4XA2bWf1gbyETv4p0x3KHF"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Plant a Seed",
+        "url": "https://open.spotify.com/album/7rYk9RlD0N8b4r5kslGie8"
+      },
+      "artists": [
+        {
+          "name": "Songs for eleonor",
+          "url": "https://open.spotify.com/artist/5C7xSI0tTUDRgF0Lvs7zNj"
+        }
+      ],
+      "duration_ms": 203337,
+      "name": "Tienes Miedo",
+      "url": "https://open.spotify.com/track/2vnR5qteOcCrHjaozA9I2Q"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "S\u00faper Tigre",
-        "url": "https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3"
+        "name": "Corridos Urbanos",
+        "url": "https://open.spotify.com/album/0B3SqGuOGULuzYrzBu0s9g"
       },
       "artists": [
         {
-          "name": "S\u00faper Tigre",
-          "url": "https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3"
+          "name": "Clorofila",
+          "url": "https://open.spotify.com/artist/5ns1lY8egNoPsITbbNpli6"
         }
       ],
-      "duration_ms": 206673,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh"
+      "duration_ms": 280106,
+      "name": "\"Babyrock\" Rock",
+      "url": "https://open.spotify.com/track/6ww4rsVsG3tVLyzb8fWgNA"
     }
   ],
   "unique_name": "Indie Mexicano: Cl\u00e1sicos",

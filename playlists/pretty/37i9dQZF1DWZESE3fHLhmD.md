@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > Endlich wieder Strickpullover & Gemütlichkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,445 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,522 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 69 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 |
 | 70 | [Subside](https://open.spotify.com/track/3Lqsck2T1MyyRmK1993Obk) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/2TwdfXTB6TUMObapDUysmW) | 3:08 |
 
-Snapshot ID: `MCwzMWQ1NmZiZDIxNDViNTFjODdmN2E3Y2Y1MTkwMzZhODBmOGNlMGYy`
+Snapshot ID: `MCwwZjBiZDM1ZTNmMWYxZmU2MDA3NmEzYjU2YzRiY2UzODY1NWY0NzNh`

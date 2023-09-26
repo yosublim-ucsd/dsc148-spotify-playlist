@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,275 likes - 120 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,291 likes - 120 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 119 | [Empire State Express](https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Empire State Express](https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh) | 4:30 |
 | 120 | [Rainy Day Blues](https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Singles](https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A) | 2:14 |
 
-Snapshot ID: `MCwxNThlZjY4OTQwZmE0ODU0MDA5MTIzYjJmNzQ1NGI4YzUwM2JiYjMz`
+Snapshot ID: `MCwwZjMzZWJhNDZkNzZkMzBlZmNmNTUxYWIwM2M0MzRkOGY5NTI5ODM0`

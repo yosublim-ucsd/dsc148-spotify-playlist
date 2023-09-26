@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,193 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,198 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 |
 | 60 | [Sangre de Prófugo](https://open.spotify.com/track/7qSncGfwAdAyTQBVYZeFGS) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/61o65DJK9QHOg8LWIJ279k) | 3:31 |
 
-Snapshot ID: `MCxiNWM1MWM3NjE3YTgzNWE2OTk4NTA5NTk2YzdkY2U2ZDUzODY1MTY3`
+Snapshot ID: `MCw2MzJkNTY2NDJmOGU4OWRlYWQyNTE5MmE0YmM5YzNjOTQ3ZmMxNWYy`

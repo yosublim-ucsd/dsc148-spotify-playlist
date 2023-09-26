@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: aiai\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,986 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,997 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 99 | [코코넛 러브 Coconut Love](https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [코코넛 러브 Coconut Love](https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk) | 3:14 |
 | 100 | [Starry Night](https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Starry Night](https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N) | 3:11 |
 
-Snapshot ID: `MCxlMTFjMTNlYTU4MjVhNWUxNDYxNmJkMGUzZGY1M2RiZWY1OGNhMWJj`
+Snapshot ID: `MCwxNWYzMDM3MzFlZDg1MDhjNDAwYWI2YzM5MjNhYjk2MDk5NTZmZjQ3`

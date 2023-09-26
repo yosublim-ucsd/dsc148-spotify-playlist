@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: SIX LOUNGE
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,043 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,165 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [baby blue eyes](https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [baby blue eyes](https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue) | 3:11 |
 | 50 | [Best Way 2 Die](https://open.spotify.com/track/2Z98lKrvtMjVrPLlajm4MY) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [YOUNGBONG](https://open.spotify.com/artist/1hvu40N8E6jm8OtwgCo6q1) | [GOLDEN ROUTE](https://open.spotify.com/album/7g8P5rDMl5Y0n5hSVYImn4) | 3:32 |
 
-Snapshot ID: `MCwxZTc2ZDU4NmRiOGQ0MWMxMDc2NDMzNzMwMjY3OTQ1MGUxMGUxMDNm`
+Snapshot ID: `MCw3OGZmNjUzYTQ4ZWViMDMzZGRiOTM2NzNjMTY0ODg3NWNiYmFlNjY3`

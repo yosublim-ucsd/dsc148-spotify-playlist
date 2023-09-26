@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,807 likes - 150 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,816 likes - 150 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 149 | [Falleg](https://open.spotify.com/track/7Bbe8uzyDk0116JNAQchFN) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Falleg](https://open.spotify.com/album/3JJ73fI9i4yPREvaTcvPiv) | 2:15 |
 | 150 | [Hati](https://open.spotify.com/track/6R3OaZqWKiDIhTR5mvUazQ) | [Asta Meta](https://open.spotify.com/artist/10BR4J0WGz3qMPLOwqGrTX) | [Flow](https://open.spotify.com/album/7c6bdmNy4Q2j4sDkc2j8nv) | 2:43 |
 
-Snapshot ID: `MCxiNzA5M2MyNWExZjkyZWY2NTgzOGY0YjkzM2Q3ZmVlMWZkNTI4NzAx`
+Snapshot ID: `MCw2MDVmNWY0NzhlNmYzNzBlZGNkYzMzYTk0MWQ0YWE2MWQ2OWQ5YmVl`

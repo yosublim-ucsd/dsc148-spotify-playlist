@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 
 > The summer needs dance hits 😎☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,956 likes - 120 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,051 likes - 120 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 | 119 | [Fever](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Hight](https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI) | [Fever](https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr) | 2:26 |
 | 120 | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/track/0AH3qQFtYXEoCJrc1vysel) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1) | 2:50 |
 
-Snapshot ID: `MCw3ZjhhMzRlMWMxMzQ2ZmMzYWIxYjRiOTdhMDg0MGVmNmNiOTdkZDRh`
+Snapshot ID: `MCwyMGI1Y2YzOWNiNDYxZjJkNzk4NzQ0NjE4YzdjMzg3OWMyMjFkNTc5`

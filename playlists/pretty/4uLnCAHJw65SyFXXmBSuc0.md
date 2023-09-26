@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4uLnCAHJw65SyFXXmBSuc0.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 951 likes - 20 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 950 likes - 20 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/4uLnCAHJw65SyFXXmBSuc0.md) - [plain]
 | 5 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3wV9G5BhrJ1ntlCQYko0if) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [Fairytale of New York](https://open.spotify.com/album/2MJV1Nr37QoEDeAo9cz6mr) | 4:32 |
 | 6 | [All I Want For Christmas Is You \- Original Version](https://open.spotify.com/track/5KdPyhcsQ5PvkvPBq6lLti) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/3IHHgu4yckplK0XcoJampX) | 4:01 |
 | 7 | [New Year's Day](https://open.spotify.com/track/7w3klLQ4XYHxEdYL50qX9M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [U218 Singles \(Deluxe Version\)](https://open.spotify.com/album/7k7aHoW1MGWWQR0KXvswkx) | 4:18 |
-| 8 | [Sexy And I Know It \- Mord Fustang](https://open.spotify.com/track/6lDFCh4v5nQrYiDpQ8WJ54) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Mord Fustang](https://open.spotify.com/artist/34hwBP1esafQoCVtLz7F6K) | [Sexy And I Know It \(Remixes\)](https://open.spotify.com/album/7BfLW29u9eA2c4sAd5uE10) | 5:19 |
+| 8 | [Sexy And I Know It \- Mord Fustang](https://open.spotify.com/track/6lDFCh4v5nQrYiDpQ8WJ54) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Mord Fustang](https://open.spotify.com/artist/0eGG8QTo4Yifq5FrDF11WG) | [Sexy And I Know It \(Remixes\)](https://open.spotify.com/album/7BfLW29u9eA2c4sAd5uE10) | 5:19 |
 | 9 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/1R2SZUOGJqqBiLuvwKOT2Y) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/2oKzsLJeOGZ5bMXDPuWCxe) | 3:39 |
 | 10 | [White Christmas](https://open.spotify.com/track/5PybR3wmpl2bJaOZED0caY) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Polar Express \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4iEg2hitHOT0fRpsReCqAH) | 3:04 |
 | 11 | [Lead Me To The Cross](https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [From The Inside Out](https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC) | 4:16 |

@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-193 songs - 17 hr 22 min
+194 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Ab Mori Chhaad De](https://open.spotify.com/track/07Ssi0muLx96jEPFDqTNPf) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Ab Mori Chhaad De](https://open.spotify.com/album/5pf1eQ4E1YMSJvVLBecgVx) | 4:17 | 2022-12-13 | 2023-06-03 |
 | [Adaaein](https://open.spotify.com/track/5DrVb38NSe9h0R1aNbNaDO) | [Aakash Aman](https://open.spotify.com/artist/0QO3f7rvsqC3tw1KnHu8oK) | [Adaaein](https://open.spotify.com/album/2nsN1K7V7l2QrxsLcwzAty) | 4:09 | 2023-07-21 |  |
 | [Ae Ri Sakhi](https://open.spotify.com/track/5p54INLXgza6Do7nTsFPpG) | [kSaya](https://open.spotify.com/artist/4N8z2CTrbGkT50OoGj3Z2P), [Pooja Gaitonde](https://open.spotify.com/artist/7h7RCEJXdzbsEulBquEQJW), [Prasad Gaitonde](https://open.spotify.com/artist/6OKKST2lo5Q4zOpmOLS7ja) | [Ae Ri Sakhi](https://open.spotify.com/album/4AZg2InQrYXVO1LZOK7zuH) | 4:14 | 2022-05-17 | 2023-05-24 |
-| [Aeri Sakhi](https://open.spotify.com/track/5pIoYxBjHCaO0M0gl1KOmP) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:39 | 2023-08-01 |  |
+| [Aeri Sakhi](https://open.spotify.com/track/5pIoYxBjHCaO0M0gl1KOmP) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:39 | 2023-08-01 | 2023-09-26 |
 | [Aeri Sakhi \(An Eternal Poem of Love\)](https://open.spotify.com/track/5a40BRFDUlmbv5P9F6IIXs) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Aeri Sakhi \(An Eternal Poem of Love\)](https://open.spotify.com/album/4r8Xz5RxDO7MV0oG50tSdQ) | 3:08 | 2022-05-17 |  |
 | [Aerii Sakhi Morae \- Qawwaali Remake](https://open.spotify.com/track/6yDxb6X3NJbvDIRRlAypQZ) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [The Story Now](https://open.spotify.com/album/2g3LlbaNuDG4erK9gJSKTm) | 5:03 | 2022-05-17 | 2023-07-29 |
 | [Aja Sawariya \- Remix](https://open.spotify.com/track/2c8olBjlarZbL6nUKn0vGM) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [The Spindoctor](https://open.spotify.com/artist/2bUONMhpskrzUmRkpZUVu3) | [Aja Sawariya \(Remix\)](https://open.spotify.com/album/0EfCp9ysBs6OCmckczM2lf) | 2:56 | 2023-08-30 |  |
@@ -24,6 +24,7 @@
 | [Baadal](https://open.spotify.com/track/4NliS6MtHE2VJC3Pu495nv) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Baadal](https://open.spotify.com/album/6vbTqEOFjaiDJy6WdcpZkt) | 4:14 | 2023-08-03 |  |
 | [Badi Dheere Jali](https://open.spotify.com/track/2VgmwOgWxNkfT4vvA7eJ5E) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Ishqiya](https://open.spotify.com/album/6w5XtnPBTeOUFvwGi93lgB) | 7:01 | 2022-05-17 | 2023-03-23 |
 | [Badra Chhaaye](https://open.spotify.com/track/0xaocSiKSgZdetM5onBTvz) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Badra Chhaaye](https://open.spotify.com/album/4Q4LYEVYMZZbOgEiksRxLa) | 2:50 | 2023-07-13 |  |
+| [Baiyaan](https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC) | [Aniket Kar](https://open.spotify.com/artist/165EyV5h6zZ2ml6ZJVEg7s), [Parul Mishra](https://open.spotify.com/artist/70706ST5lkFhPr9lgea7SU), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Baiyaan](https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V) | 5:26 | 2023-09-26 |  |
 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 | 2022-05-17 |  |
 | [Baras](https://open.spotify.com/track/2eJeQraCbVdmkFsLqPkBHP) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Elements](https://open.spotify.com/album/4PDXWMxlqPHO4Ox9KCvoJ8) | 4:58 | 2022-05-17 | 2023-03-23 |
 | [Bargat Ke Pedo Pe Shakhe Purani](https://open.spotify.com/track/1gFDuN2HElEtr030D5yDRs) | [Piyush Mishra](https://open.spotify.com/artist/0kttITJItx4bssbq6EcXCS) | [Jalpari \- The Desert Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ygwH3yJqtGFDozsANxJoF) | 6:40 | 2023-02-01 |  |

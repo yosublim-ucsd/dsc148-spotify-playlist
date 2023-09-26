@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cover: Hannah Diamond
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,827 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,849 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 26 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
 | 27 | [leaving shibuya for once \[>﹏< \]](https://open.spotify.com/track/4qTUJy6jQ36THWBxJOV1QN) | [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [leaving shibuya for once \[>﹏< \]](https://open.spotify.com/album/0bsHDJkudQlYyNJRLiadQl) | 2:46 |
 | 28 | [whiplash](https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [whiplash / cliche](https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX) | 2:47 |
-| 29 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 |
+| 29 | [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 |
 | 30 | [No Body](https://open.spotify.com/track/3iZt8KJvoKxOYj0cLXGluK) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 2:44 |
 | 31 | [halo](https://open.spotify.com/track/3S98DaraI3lEwWBCVaEDnn) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [halo](https://open.spotify.com/album/0tnFLnIqnt052ZMWWiif9M) | 3:03 |
 | 32 | [Perfect Picture](https://open.spotify.com/track/22V4BZlNonTO0EbWrq1zSb) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Perfect Picture](https://open.spotify.com/album/33ltmTvbMZ7OaM8ul5MlOW) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [poison](https://open.spotify.com/track/6uTNwwSVJoaJbOjVkZ4Iit) | [lieu](https://open.spotify.com/artist/0MliYj4eUtEoxXU56zBOqx) | [poison](https://open.spotify.com/album/7ClOXODZighfFZmOXW9ffE) | 1:41 |
 | 100 | [Person](https://open.spotify.com/track/41ooYpJZt6Te6wP1uLm2hP) | [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [Person](https://open.spotify.com/album/5K3fLIzPQz3XlvCKquqHkE) | 3:30 |
 
-Snapshot ID: `MCxjOTIwMDcxZTA0NWFlZDlhMzAyMTAzMjUzNzQyNGI0Zjc3NTk0ODZi`
+Snapshot ID: `MCw4YzE5MzI3N2Y4OGY5MmQzMzRjZTkwMTEwY2YxNGI4M2IwNDM3YmE1`

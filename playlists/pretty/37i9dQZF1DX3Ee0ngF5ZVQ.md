@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,868 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,882 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [Sound of You Gone](https://open.spotify.com/track/1Ezm2kChBPSkNRbeL8zwJV) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Sound of You Gone](https://open.spotify.com/album/0WbLRjZ0z3dhov2EU0zjzf) | 3:30 |
 | 100 | [Even The River](https://open.spotify.com/track/3QpZzgamq59V4Z3buWWYGj) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Even The River](https://open.spotify.com/album/0cF94TWd8oSo6LWzP4zpUN) | 3:17 |
 
-Snapshot ID: `MCxiNzI5Njk2YzI0OTA0ZGU2NzlkYzdlZTc0NjRjNjIxYzdmZjY3ODVm`
+Snapshot ID: `MCw3NDBiMzdmZTNjOWFhYmI5YzI5NDY3NmNmZjA3OWM5MjQxZmExOTBi`

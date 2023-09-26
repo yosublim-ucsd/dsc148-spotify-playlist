@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,367 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,445 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [1x1](https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1](https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2) | 2:19 |
 | 50 | [Rock My Body \(with INNA\) \[Sam Feldt Remix\]](https://open.spotify.com/track/7iLximGIlwAFgB5J7KG7pJ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Rock My Body \(with INNA\) \[Sam Feldt Remix\]](https://open.spotify.com/album/5AD2PA4Cef5qsJZGsyj0xZ) | 2:49 |
 
-Snapshot ID: `MCwzN2U2N2RkMzFmOGQ1YTFjYTdkMjNhMWQ3M2U2OTgzOWM4ZGIwODlj`
+Snapshot ID: `MCxlMmNjZDcwZWRjYTE3OWRmNzdjZjczNWFkNzI5MjkxYWEwNDM1Nzdj`

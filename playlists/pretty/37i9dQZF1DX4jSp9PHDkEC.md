@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,589 likes - 300 songs - 20 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,608 likes - 300 songs - 20 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 | 299 | [Lost Moon](https://open.spotify.com/track/5uyTTYvJ820qJUan2gNTXI) | [Nightlands](https://open.spotify.com/artist/6j1PJ7qiMlHAzkyPN3ldN6) | [I Can Feel the Night Around Me](https://open.spotify.com/album/58idVWfPZQgTcAXcDw2REd) | 5:56 |
 | 300 | [Dive](https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7) | [The Soft Cavalry](https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ) | [The Soft Cavalry](https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ) | 4:15 |
 
-Snapshot ID: `MCxkZWYyZDM5ODE5ZDY2ZjA3OWI3N2M1NmU2MDFmNTEyNGZhOGE1Nzlh`
+Snapshot ID: `MCw0MmRiMGM4NzA3ZDMxMzZiYmU3MTg0MjQzZjA1NDJiMzJhNGI2NzJh`

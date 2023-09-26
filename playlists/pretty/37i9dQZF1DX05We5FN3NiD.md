@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > 2019 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,665 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,668 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 99 | [Sunlight](https://open.spotify.com/track/65eQZ65gCurZX0SXTfeBnc) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Sunlight](https://open.spotify.com/album/3g2V8aC3c2ytEKHLeMhKBX) | 3:32 |
 | 100 | [Drunk II](https://open.spotify.com/track/4j1OTpSF5ejqYPKwqHvlzM) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Patience](https://open.spotify.com/album/1X0Na8DRV5U6G9grTPDWKF) | 4:28 |
 
-Snapshot ID: `MCw1NDNlZGU4OTI2ZTkzNzZkYjQ2MzkxMmY0ZTlhYTU4NjRjNTA1OTBm`
+Snapshot ID: `MCwzNmQyZTBlZDkxOWIyMGY5ZGQxZDg4ZGNhMDdkYzI4NWY2ZGNiMTEx`

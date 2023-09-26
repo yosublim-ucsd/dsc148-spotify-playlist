@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Poland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,483 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,495 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 | 49 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 50 | [Lustro](https://open.spotify.com/track/3WX6nwhznaVTD9CazfMV4F) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a), [Hotel Torino](https://open.spotify.com/artist/0JJmkwOSEGhFj7sLL3AYXN) | [Lustro](https://open.spotify.com/album/1vOpHLnuZtKDrAvARaft9Q) | 2:42 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

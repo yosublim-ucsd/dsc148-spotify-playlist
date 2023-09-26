@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,344 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,367 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 59 | [Playlist Transante](https://open.spotify.com/track/2qCps28vIziXwOKmici1g7) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Playlist Transante](https://open.spotify.com/album/5kU7Es6oEU01pfXhkG9YBS) | 3:17 |
 | 60 | [Um Dia Qualquer](https://open.spotify.com/track/5yuENyM88tUfheNVoBoMo3) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Talismã](https://open.spotify.com/album/7mX006mcnDcQgyT1VwbgVd) | 3:09 |
 
-Snapshot ID: `MCwxYTUxMTM5ODUwMTM3MjMwMTI5YTU0ZDdiZjJkY2Y5ODRjYjc3OTgx`
+Snapshot ID: `MCw4YjQ3NDEyMmU2MmNjNDdjMDUxYTFmOGI2ZGE5ZmNmZWVjNGNjYTY3`

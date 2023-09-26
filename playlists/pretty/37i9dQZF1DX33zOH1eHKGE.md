@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 
 > Move your way through the day with the dance tracks you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,371 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,380 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 | 99 | [FLUTE](https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO) | [MONSS](https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz) | [FLUTE](https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF) | 3:17 |
 | 100 | [The Parade](https://open.spotify.com/track/0B3H6se7MYo3D7BmzfvdVN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [The Parade](https://open.spotify.com/album/6OV7KH6OamCkgFzgD7ijEa) | 2:38 |
 
-Snapshot ID: `MCxiOTcxYThiZDdhMzcwNDU2OGExMWI1ZTYyOTc5MmE0MTc1YTBiNWYx`
+Snapshot ID: `MCw2MjQ5MTBiNzVkY2EzMmQ3YzM0Y2UwNGM5YzZjMDQ3Yjk2NmMxNmMx`

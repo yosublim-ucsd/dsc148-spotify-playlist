@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,426 likes - 41 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,748 likes - 41 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 4 | [Revolution Is My Name](https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:16 |
 | 5 | [Mouth for War](https://open.spotify.com/track/6rkeaQRCWZxwkjhyqgxjXi) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 3:57 |
 | 6 | [Cemetery Gates](https://open.spotify.com/track/4vJr55lngvhSM8WIh9CjQc) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 7:02 |
-| 7 | [5 Minutes Alone](https://open.spotify.com/track/5SAEMjVQbmin3g7b0RG6me) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 5:47 |
+| 7 | [Becoming](https://open.spotify.com/track/3iV11AiIEDIOVjKy3kgjld) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:05 |
 | 8 | [Floods](https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 6:59 |
 | 9 | [This Love](https://open.spotify.com/track/0Yfpc5zHc9pElVCQ1bPlF4) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 6:33 |
 | 10 | [Domination](https://open.spotify.com/track/769cLRTw2y6KRdkFWFkxtu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 5:05 |
-| 11 | [Becoming](https://open.spotify.com/track/3iV11AiIEDIOVjKy3kgjld) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:05 |
+| 11 | [5 Minutes Alone](https://open.spotify.com/track/5SAEMjVQbmin3g7b0RG6me) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 5:47 |
 | 12 | [Drag the Waters](https://open.spotify.com/track/5t8sFMJ2aQaHqLnrAd4Q40) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:55 |
 | 13 | [Hollow](https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:45 |
 | 14 | [Primal Concrete Sledge](https://open.spotify.com/track/6lJJcUjhsp0TJRuzUIPOYO) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 2:13 |
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 29 | [Goddamn Electric](https://open.spotify.com/track/5b3mIPS9eqmMfuoOr7JNkp) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 4:56 |
 | 30 | [War Nerve](https://open.spotify.com/track/5smduZ8tFJFfCOZAl0SenA) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:53 |
 | 31 | [The Badge](https://open.spotify.com/track/3HO3nXKWRhvkibVvsONrle) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:54 |
-| 32 | [Where You Come From \- 2003 Remaster](https://open.spotify.com/track/1PWEA4Uq0fuwHv7yILK0G4) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits](https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH) | 5:12 |
+| 32 | [I Can't Hide](https://open.spotify.com/track/2SHJINY5mfK79Ms7dACUBD) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 2:16 |
 | 33 | [Death Rattle](https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 3:17 |
 | 34 | [Suicide Note, Pt\. 1](https://open.spotify.com/track/0CcmoDwo2KAACTPoy87F8V) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:44 |
-| 35 | [I Can't Hide](https://open.spotify.com/track/2SHJINY5mfK79Ms7dACUBD) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 2:16 |
-| 36 | [Hole in the Sky \- 2003 Remaster](https://open.spotify.com/track/2jjzYGxHwPUEajef0NbOw7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits](https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH) | 4:16 |
+| 35 | [Where You Come From \- 2003 Remaster](https://open.spotify.com/track/1PWEA4Uq0fuwHv7yILK0G4) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits](https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH) | 5:12 |
+| 36 | [Immortally Insane](https://open.spotify.com/track/2tbdpZIOkV8kK0pZDBxXRQ) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \- 20th Anniversary Deluxe Edition](https://open.spotify.com/album/2nhNrmeayyt111lqj6Om4L) | 5:11 |
 | 37 | [We'll Grind That Axe for a Long Time](https://open.spotify.com/track/1vIWmTJEagdqfcrVe5MIKl) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 3:44 |
-| 38 | [Immortally Insane](https://open.spotify.com/track/2tbdpZIOkV8kK0pZDBxXRQ) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \- 20th Anniversary Deluxe Edition](https://open.spotify.com/album/2nhNrmeayyt111lqj6Om4L) | 5:11 |
-| 39 | [Avoid the Light](https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 6:26 |
+| 38 | [Avoid the Light](https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 6:26 |
+| 39 | [Hole in the Sky \- 2003 Remaster](https://open.spotify.com/track/2jjzYGxHwPUEajef0NbOw7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits](https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH) | 4:16 |
 | 40 | [Hostile \- Live](https://open.spotify.com/track/4XDQGvmsZ0I3lANxJuhegH) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 3:56 |
 | 41 | [Sandblasted Skin \- Live](https://open.spotify.com/track/7A3ZvT0Pb1ib9w4yVnORNp) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 4:29 |
 
-Snapshot ID: `MjgyNTUwMDQsMDAwMDAwMDA4YzkxNzZkNGY1YzA5MDY0MTM4MmU0NGRiYmMyMzFjNg==`
+Snapshot ID: `MjgyNjA3MzYsMDAwMDAwMDBkNDk3OGU1NmFiZWRkMTkwZTk5OWE3ZjAyMmI4OGYyMg==`

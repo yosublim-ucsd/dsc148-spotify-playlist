@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,194 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,208 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 59 | [King of Pop](https://open.spotify.com/track/6IvgXou1CDNFO1cuILIqsf) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [The More The Better](https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I) | 2:21 |
 | 60 | [Cough](https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Cough](https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx) | 2:57 |
 
-Snapshot ID: `MCxjN2I5OGM2YmRkMzI5YTIyZGYwN2M5ODIxZjA1YmYyM2NiMDEwZTgw`
+Snapshot ID: `MCw3MmNiZDk0N2I4NDQ5ZTI0OTA0M2Y1YzNmOGUzZTNjZjgzMzlmNDRm`

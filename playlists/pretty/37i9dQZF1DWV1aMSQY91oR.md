@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Lola Brooke, Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,881 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,887 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 |
 | 50 | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/album/0kFq7Bvlr9eiE3Za6kx1Ub) | 2:52 |
 
-Snapshot ID: `MCxmMWEzOTQwNTQ2NzU4NzdlOTllYzMwMjYwNTFmNzFjNjRiY2RiYWQy`
+Snapshot ID: `MCw3MWJiOGYzY2ZkNmI5YTBjNDVkYTVkNWRlMmM1YWEwYWU3Y2U3NmQx`

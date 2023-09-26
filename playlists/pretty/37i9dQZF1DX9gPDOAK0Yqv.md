@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through Melodic Techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,262 likes - 125 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,302 likes - 125 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 124 | [Loneliness \- Original Mix](https://open.spotify.com/track/00IWep1lbWW2wJog8Ewgsj) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Loneliness](https://open.spotify.com/album/48wWbXN8jBw4KCDeF70Zwj) | 6:09 |
 | 125 | [Samum \- 8Kays Remix](https://open.spotify.com/track/1h7E73gjm0VELmrT4TcLHo) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Samum \(8Kays Remix\)](https://open.spotify.com/album/52VrTYzvEmiccQ8vMacUvM) | 6:27 |
 
-Snapshot ID: `MCw3YmQ1YzI3MTBjZDkzMzI1NWVlMzA2NGU3NmU3ZjY4MGM2ZTVlMzI4`
+Snapshot ID: `MCwzYjZiNDgyOGRiNTljM2ExZDU0OGU3MDQ1NWQzODRmZDM2MTgwZmM3`

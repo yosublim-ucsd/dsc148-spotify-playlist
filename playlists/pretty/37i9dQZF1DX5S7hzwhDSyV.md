@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,529 likes - 125 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,544 likes - 125 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 124 | [Old Devil Moon](https://open.spotify.com/track/551EJFvoCz8P80pFeyx9e0) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [A Night At The Village Vanguard \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3n8HGJWCilq2qvLOPEzFoK) | 8:21 |
 | 125 | [Alice In Wonderland \- Live At The Village Vanguard, 1961 / Take 2](https://open.spotify.com/track/7aHMuaIUsIS6p3wKuoPxnN) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Sunday At The Village Vanguard](https://open.spotify.com/album/20ONXWjxrJhlX3rfNeAbS0) | 8:35 |
 
-Snapshot ID: `MCw1MjgwODQyMzAzNGM4ODk4YzNlMmJmZmU5MjliMWY3OTJkOTI0MmUz`
+Snapshot ID: `MCw1ZTQ4ZTcwMDQzYWNmYTgyN2JkMTNkZGZiMjczYTQ4ZTAwYjU4OWE5`

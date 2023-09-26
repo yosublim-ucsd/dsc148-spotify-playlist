@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > Vibey indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,055 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,090 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 99 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
 | 100 | [T Love \- Extended](https://open.spotify.com/track/1qmBJijlYA148svgU0herL) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift \(Deluxe\)](https://open.spotify.com/album/19ozV4Q1V0zC1KYBlnwbHU) | 5:59 |
 
-Snapshot ID: `MCwxYTJiYTY5MzBhYzIzY2IyZjljMWY5NTNmNDQ1NTdlNzc3Yjc2ZDQ4`
+Snapshot ID: `MCw0MmExMWQ1ZWU0ZmEwZTJhNzA1NjlhOWY2NDRjMzdjODdlZjU5YmRk`

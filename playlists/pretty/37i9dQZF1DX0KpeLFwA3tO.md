@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Grrrl Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,017 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,026 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [THE OUTSIDE](https://open.spotify.com/track/6y8p0dDbtPOfAPoTdNv2xi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [THE OUTSIDE](https://open.spotify.com/album/6SjNzyDPzCXbCyerVUvQQN) | 4:04 |
 | 100 | [MR IRRELEVANT](https://open.spotify.com/track/1ntq86lAohTY35bo8vJGZL) | [Josh Lambert](https://open.spotify.com/artist/3KOYBzBNdAbppX8MCcVxSO) | [MR IRRELEVANT](https://open.spotify.com/album/1HLgzLq7VkzMWCy1wTRBSg) | 2:57 |
 
-Snapshot ID: `MCxiYzA0YWYxYjQyZDExMDkwNmU2MjM3OTk5MTBkZTY1MmUzNTM3ZDU1`
+Snapshot ID: `MCxkYmM3OTc3NDNhNGIwYzkyZmZmZWEwNTlhYzQ3YTU4MWI3YTg4Yzdj`

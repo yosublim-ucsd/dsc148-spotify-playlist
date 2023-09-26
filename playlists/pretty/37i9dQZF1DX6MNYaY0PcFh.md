@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,391 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,407 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 59 | [Closer \(Higgo Remix\)](https://open.spotify.com/track/46JCxxgxODSbbMvz8eR8sF) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ), [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Closer \(Higgo Remix\)](https://open.spotify.com/album/5RlEEIkT3FV1DcpR9iV9nb) | 2:15 |
 | 60 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
 
-Snapshot ID: `MCwyMDFjZDE0YThjMTU0NGJhOTJmMTg3M2Q4MjExMzUwOTI5NDBlZmM4`
+Snapshot ID: `MCxjMTE0ZGU1ZDFiY2M2OGM4ZmUyMGZlZDZlMzJjYzZlMDdiMzVmMDg4`

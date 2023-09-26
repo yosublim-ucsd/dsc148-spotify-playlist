@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。Cover: オレンジスパイニクラブ
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,078 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,079 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 99 | [未成人](https://open.spotify.com/track/1QOHvuqSmCEPqRsEGvLgXD) | [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [未成人](https://open.spotify.com/album/3iLUblYEUlFp5A5RV6bTLe) | 4:01 |
 | 100 | [私へ](https://open.spotify.com/track/6tUoqX3OCNbC2t55e5kvcR) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [私へ](https://open.spotify.com/album/3cLc1mbVLswt6j96bGXsN1) | 4:13 |
 
-Snapshot ID: `MCwzOTIzZTMwZjMzOWNhNDhhMTgxNTEwNmRiYjEyMjQ0YTMyMjk3OTdm`
+Snapshot ID: `MCwyNjM1NTllNjU5NmM5Y2RiZDJlNmRlNjY1ZTMxNTNmZDc3OWJmOTgz`

@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: SPRINTS",
-  "num_followers": 50580,
+  "num_followers": 50715,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjFjNDY2NTJjODY1NzJjMzhiMzc2MjRmODMyNTgyYzIwZjFlNmQ4",
+  "snapshot_id": "MCxiM2U5OWI2YjY4NjlhOTllZjAyMzc2M2I4NmY3YzhlOTViY2E5NGUz",
   "tracks": [
     {
       "added_at": "2023-09-22 00:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "HAMMS IN A GLASS",
-        "url": "https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM"
-      },
-      "artists": [
-        {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "HAMMS IN A GLASS",
-      "url": "https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 199198,
       "name": "Ruin My Life (feat. Deryck Whibley)",
       "url": "https://open.spotify.com/track/0g4Nl4tH0jef0wApjV5sfH"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "HAMMS IN A GLASS",
+        "url": "https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "HAMMS IN A GLASS",
+      "url": "https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "INTELLECTUAL PROPERTY",
-        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "SELF-SABOTAGE",
-      "url": "https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Get Fucked",
         "url": "https://open.spotify.com/album/2TgXc0KeZDRjb9AsnSED7M"
       },
@@ -303,18 +287,18 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
         }
       ],
-      "duration_ms": 160380,
-      "name": "hair out",
-      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
+      "duration_ms": 157053,
+      "name": "SELF-SABOTAGE",
+      "url": "https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -331,6 +315,22 @@
       "duration_ms": 216474,
       "name": "Wake Me Up (When This Nightmare\u2019s Over)",
       "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 160380,
+      "name": "hair out",
+      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "How To Live With Yourself / Smoke Screen",
-        "url": "https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "How To Live With Yourself",
-      "url": "https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Groundhog Day",
         "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Sick Day",
-        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+        "name": "How To Live With Yourself / Smoke Screen",
+        "url": "https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv"
       },
       "artists": [
         {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
         }
       ],
-      "duration_ms": 123337,
-      "name": "Sick Day",
-      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
+      "duration_ms": 165173,
+      "name": "How To Live With Yourself",
+      "url": "https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -543,6 +527,22 @@
       "duration_ms": 218400,
       "name": "New England",
       "url": "https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Sick Day",
+        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 123337,
+      "name": "Sick Day",
+      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
+        "name": "my little tony",
+        "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 179562,
+      "name": "my little tony",
+      "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
         "name": "The King and Queen of Gasoline",
         "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
       },
@@ -599,6 +615,22 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
+        "name": "Here's What You Could Have Won",
+        "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "I.N.V.U.",
+      "url": "https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
         "name": "Expert In A Dying Field",
         "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
       },
@@ -611,6 +643,22 @@
       "duration_ms": 219133,
       "name": "Knees Deep",
       "url": "https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "UK GRIM",
+        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 198542,
+      "name": "UK GRIM",
+      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -647,18 +695,50 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "UK GRIM",
-        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
+        "name": "Pah!",
+        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
       },
       "artists": [
         {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
         }
       ],
-      "duration_ms": 198542,
-      "name": "UK GRIM",
-      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
+      "duration_ms": 105000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "USA",
+        "url": "https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "USA",
+      "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Black Rainbows",
+        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 166405,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -675,54 +755,6 @@
       "duration_ms": 227000,
       "name": "Gold Chain Punk (whogonbeatmyass?)",
       "url": "https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "Here's What You Could Have Won",
-        "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "I.N.V.U.",
-      "url": "https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "LIVING PROOF",
-        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "FTS (KYS)",
-      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "I Gotta Feeling",
-        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -747,18 +779,34 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Pah!",
-        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
+        "name": "I Gotta Feeling",
+        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
       },
       "artists": [
         {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 105000,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
+      "duration_ms": 197648,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "LIVING PROOF",
+        "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "FTS (KYS)",
+      "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -775,6 +823,38 @@
       "duration_ms": 232058,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "BURN THE WITCH",
+      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Girl God Gun",
+        "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "duration_ms": 205854,
+      "name": "Girl God Gun",
+      "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -811,54 +891,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Girl God Gun",
-        "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
-      },
-      "artists": [
-        {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
-        }
-      ],
-      "duration_ms": 205854,
-      "name": "Girl God Gun",
-      "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "BURN THE WITCH",
-      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "USA",
-        "url": "https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG"
-      },
-      "artists": [
-        {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "USA",
-      "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Night Gnomes",
         "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
       },
@@ -871,38 +903,6 @@
       "duration_ms": 190543,
       "name": "Bubblegum Infinity",
       "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "Black Rainbows",
-        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 166405,
-      "name": "Erasure",
-      "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "THE UNRAVELING OF PUPTHEBAND",
-        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "Totally Fine",
-      "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Formal Growth In The Desert",
-        "url": "https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB"
-      },
-      "artists": [
-        {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
-        }
-      ],
-      "duration_ms": 177559,
-      "name": "Make Way",
-      "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "3 Days Sober",
         "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
       },
@@ -959,6 +943,38 @@
       "duration_ms": 177209,
       "name": "3 Days Sober",
       "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "THE UNRAVELING OF PUPTHEBAND",
+        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "Totally Fine",
+      "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Formal Growth In The Desert",
+        "url": "https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "duration_ms": 177559,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 156430,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1131,6 +1147,22 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
+        "name": "Adore Adore Adore",
+        "url": "https://open.spotify.com/album/0hNw5wk6iWSH4wnsCKEMfi"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 157766,
+      "name": "Adore Adore Adore",
+      "url": "https://open.spotify.com/track/7cbHLDW7Iir9IZKWgHJuuI"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
         "name": "Nah, That Ain't It / Phone Lines Down",
         "url": "https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P"
       },
@@ -1143,22 +1175,6 @@
       "duration_ms": 123205,
       "name": "Phone Lines Down",
       "url": "https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "Slip",
-        "url": "https://open.spotify.com/album/76bNx7PEK7pqPCBST2Nkmj"
-      },
-      "artists": [
-        {
-          "name": "Bearings",
-          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
-        }
-      ],
-      "duration_ms": 163600,
-      "name": "Slip",
-      "url": "https://open.spotify.com/track/29ARSUD6mqI5Wjk6A6qEuL"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1191,42 +1207,6 @@
       "duration_ms": 283187,
       "name": "It Ain't Enough",
       "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "Adore Adore Adore",
-        "url": "https://open.spotify.com/album/0hNw5wk6iWSH4wnsCKEMfi"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 157766,
-      "name": "Adore Adore Adore",
-      "url": "https://open.spotify.com/track/7cbHLDW7Iir9IZKWgHJuuI"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "Imposter",
-        "url": "https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        },
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 183491,
-      "name": "Imposter",
-      "url": "https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1267,6 +1247,42 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/76bNx7PEK7pqPCBST2Nkmj"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "duration_ms": 163600,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/29ARSUD6mqI5Wjk6A6qEuL"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Imposter",
+        "url": "https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        },
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 183491,
+      "name": "Imposter",
+      "url": "https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
         "name": "Your Turn",
         "url": "https://open.spotify.com/album/6H0dHLT0ZCo2Gymy5Fey59"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Congregation",
-        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 160185,
-      "name": "At The Core",
-      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Little Fix",
         "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
       },
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "my little tony",
-        "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
+        "name": "Congregation",
+        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
       },
       "artists": [
         {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
         }
       ],
-      "duration_ms": 179562,
-      "name": "my little tony",
-      "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
+      "duration_ms": 160185,
+      "name": "At The Core",
+      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
     }
   ],
   "unique_name": "The Punk List",

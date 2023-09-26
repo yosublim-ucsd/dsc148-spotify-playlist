@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,313 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,346 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 99 | [How Long Has This Been Going On? \- Instrumental](https://open.spotify.com/track/1pRlbZOrK4SzYLqOKxvgZY) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [The Cats](https://open.spotify.com/album/7aW9SO9EQ569LB2SwpaIYQ) | 5:55 |
 | 100 | [Two Bass Hit \- Remastered 2001/Rudy Van Gelder Edition](https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe) | [Sonny Clark Trio](https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw) | [Sonny Clark Trio \(Remastered 2001/Rudy Van Gelder Edition\)](https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH) | 3:45 |
 
-Snapshot ID: `MCxmZjk2YmJmN2RkNTgwNGNlMDRiZTZhZWU0NWUzNWI4Zjg4MDgwODgx`
+Snapshot ID: `MCw3YmE1NTE2ZTkyMjQyM2RlMzYxZTlhMzZmN2UxYzJmOWRjNmY4NDRl`

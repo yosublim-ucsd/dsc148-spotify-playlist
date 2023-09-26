@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,263 likes - 600 songs - 1 day 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,269 likes - 600 songs - 1 day 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 | 599 | [Last Dance](https://open.spotify.com/track/45KFIbVRCAfxYzOogbaRPx) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Waltz At Midnight](https://open.spotify.com/album/2qKhcF6JaeTuNcr1uzrcY8) | 3:28 |
 | 600 | [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 |
 
-Snapshot ID: `MCwzMWJiNTU2MjIyMDBmNTgyMzk0ZDVjNWY3YjQ0YTI2ZGE5NzI3M2Rm`
+Snapshot ID: `MCxjMWI0NmUxZTkwZmU1NGFiYzNkMmUyNDIzODUwNTQwZDYyZDgyNTEy`

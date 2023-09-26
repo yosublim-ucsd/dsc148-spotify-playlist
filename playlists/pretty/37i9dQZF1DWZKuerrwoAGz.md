@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKuerrwoAGz.md) - [plain]
 
 > Put a smile on your face with these happy tunes from the last 30 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,843 likes - 150 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,922 likes - 150 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKuerrwoAGz.md) - [plain]
 | 149 | [Call You Mine](https://open.spotify.com/track/2oejEp50ZzPuQTQ6v54Evp) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:37 |
 | 150 | [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 |
 
-Snapshot ID: `MCwyODY5OGEyMmJkYzFkMDA3NTRkZGFlMTk5MWU5MDA3NTA0ZGJhMjk1`
+Snapshot ID: `MCwyNDA1MjQ0MDBjNWFkYjk5MjY4YTE2N2EwODNlMGYxYzVjNDMwZTI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,003 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,000 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 99 | [REWIND DOIS](https://open.spotify.com/track/7E7cd7fZV1ZsLjBO1rQAeK) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [REWIND DOIS](https://open.spotify.com/album/2S4ZruzfwuQWkoVYk4ibrZ) | 3:04 |
 | 100 | [WDIA \(Would Do It Again\)](https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [WDIA \(Would Do It Again\)](https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB) | 3:11 |
 
-Snapshot ID: `MCw3MGI3NzliNTdiNzg1ZmM2MjYxNzNkZTNhMzIzN2Y4YjRhOTE2OGVh`
+Snapshot ID: `MCw5NjU2YjU1MDQzODYwM2Q3YjcwZmJhNTQzZmI1ZTU0OWNiYjcxZjA5`

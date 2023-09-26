@@ -4,7 +4,7 @@
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-98 songs - 7 hr 18 min
+99 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/5EUtFLXes038LFd4InLWeX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Shadow Kingdom](https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE) | 3:04 | 2023-06-06 | 2023-08-20 |
 | [I've Made Up My Mind to Give Myself to You](https://open.spotify.com/track/5JqAHgYG2j9hwqCwKZpBUI) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 6:32 | 2022-10-12 | 2022-12-30 |
 | [If Not for You](https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:41 | 2022-09-24 |  |
-| [If You See Her, Say Hello](https://open.spotify.com/track/3xNO6JUk9ySYjxuqzcZYRB) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:48 | 2022-09-24 |  |
+| [If You See Her, Say Hello](https://open.spotify.com/track/3xNO6JUk9ySYjxuqzcZYRB) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:48 | 2022-09-24 | 2023-09-26 |
 | [Isis](https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 6:58 | 2022-09-24 | 2023-05-09 |
 | [It Ain't Me Babe](https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Another Side Of Bob Dylan](https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0) | 3:34 | 2022-09-24 |  |
 | [It's All Over Now, Baby Blue](https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 4:12 | 2022-09-24 |  |
@@ -57,7 +57,7 @@
 | [Love Minus Zero](https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:51 | 2022-11-06 | 2023-09-01 |
 | [Love Sick \- Version 2](https://open.spotify.com/track/2faGmidIwyUHhBafWzwocg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Love Sick \(Version 2\)](https://open.spotify.com/album/3TfZy4IYawdOfA2bNVq4Rr) | 6:46 | 2022-11-20 | 2023-02-06 |
 | [Make You Feel My Love](https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Time Out Of Mind](https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt) | 3:31 | 2022-09-24 |  |
-| [Man Gave Names to All the Animals](https://open.spotify.com/track/5mGq3cybgQDZgTEbu9ldV9) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | 4:27 | 2023-01-03 | 2023-08-31 |
+| [Man Gave Names to All the Animals](https://open.spotify.com/track/5mGq3cybgQDZgTEbu9ldV9) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | 4:27 | 2023-01-03 |  |
 | [Man in the Long Black Coat](https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 4:33 | 2022-09-25 |  |
 | [Masters of War](https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 4:31 | 2022-09-24 |  |
 | [Meet Me in the Morning](https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:18 | 2022-09-24 |  |
@@ -83,7 +83,7 @@
 | [Ring Them Bells](https://open.spotify.com/track/1Y3VFY4mkLqMIkqxC51p6l) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 3:00 | 2022-11-28 | 2023-02-23 |
 | [Romance in Durango](https://open.spotify.com/track/1OT1G66Lt9EpKFWkwK8i9z) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 5:44 | 2022-09-24 | 2022-10-13 |
 | [Sara](https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 5:31 | 2022-09-24 | 2023-01-14 |
-| [She Belongs to Me](https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:46 | 2022-09-24 |  |
+| [She Belongs to Me](https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:46 | 2022-09-24 | 2023-09-26 |
 | [Shelter from the Storm](https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:01 | 2022-09-24 |  |
 | [Simple Twist of Fate](https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:16 | 2022-09-24 |  |
 | [Song to Woody](https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 2:40 | 2022-09-25 |  |
@@ -106,5 +106,6 @@
 | [When I Paint My Masterpiece](https://open.spotify.com/track/43Wx5R35qqNVNOuk6GrRKR) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Shadow Kingdom](https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE) | 4:25 | 2023-06-08 | 2023-09-22 |
 | [Winterlude](https://open.spotify.com/track/6h8laPks98zPizQ5qahy40) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:22 | 2022-12-12 | 2023-02-17 |
 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/5WeQHNrOlxBv9NZTrz6xgE) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Basement Tapes](https://open.spotify.com/album/6BOlD6UGUg45IsUXPSplkY) | 2:42 | 2023-04-02 |  |
+| [You're Gonna Make Me Lonesome When You Go](https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 2:54 | 2023-09-25 |  |
 
 \*This playlist was first scraped on 2022-09-25. Prior content cannot be recovered.

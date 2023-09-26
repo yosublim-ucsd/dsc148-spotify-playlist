@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMnz8KIWsvf9.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,725 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,737 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMnz8KIWsvf9.md) - [plain]
 | 49 | [17](https://open.spotify.com/track/3LejSFG20mSl4IzORHa7Ya) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Ceramics Runway](https://open.spotify.com/album/1seGyT8ATQOf4G8c9QR8sP) | 3:30 |
 | 50 | [ทิ้งไว้อย่างพอใจ\(Consoled\)](https://open.spotify.com/track/6ErAsIiAY6I44yW5d3WXFM) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ทิ้งไว้อย่างพอใจ\(Consoled\)](https://open.spotify.com/album/11DE8UFzSfYEjLX8OC7aGb) | 5:18 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

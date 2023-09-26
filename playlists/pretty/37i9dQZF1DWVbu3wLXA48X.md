@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: The National
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,280 likes - 92 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,286 likes - 92 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 91 | [Losing You](https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Losing You](https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t) | 3:02 |
 | 92 | [Better Than Life](https://open.spotify.com/track/1W7Gfi0JgMORjjPZkhNRlj) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB) | 1:29 |
 
-Snapshot ID: `MCw3ZmY0MDRlMjcyMjAzYTUzNTY4MjMyNjQ2ZTUwZTJjMTI5YWIyMjQ0`
+Snapshot ID: `MCwzYzkxOTE5MjdhMmNlZDMwMWE1YzU2ZWQ1Y2VlNzcwYjc0MDZkMGQ2`

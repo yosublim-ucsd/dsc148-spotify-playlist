@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,092 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,094 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 99 | [Qué Lástima](https://open.spotify.com/track/0NvO81WDJmJ1aorQ4Of2i9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:21 |
 | 100 | [Hoy Decidí Olvidarte \(Aunque No Estés Conmigo\) \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/19AnCk8PLWof2cQmTenZof) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 4:17 |
 
-Snapshot ID: `MCw0ODQ0ZWI3MGI4YWQ3MWNiOTNlNDMzN2JhZTUzMDVjMzAyZTI2MzNi`
+Snapshot ID: `MCxiMDMyNDQ5NjkwNjVjZWE4YWVjMDI2YTBjNmEyMWMwMzU0OGIxOWIz`

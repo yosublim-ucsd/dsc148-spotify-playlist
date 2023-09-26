@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,943 likes - 61 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,004 likes - 61 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 60 | [O Little Town Of Bethlehem](https://open.spotify.com/track/7lFGTWPpGaBMxX8vjHLmLT) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC) | 3:16 |
 | 61 | [In Dulce Jubilo](https://open.spotify.com/track/7j2B1yYjSxVg9MGEQLIBqn) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [It's Snowing on My Piano](https://open.spotify.com/album/2GVRqMDD7XThNuI6pxqlAX) | 6:05 |
 
-Snapshot ID: `MCxhYWEwODVhYzUyOGYxNzUyYjE0NDRlODNmN2Y2ZTY1ZGRlZGQxYzdl`
+Snapshot ID: `MCw5MmExMjY1MjQwNDY0MTM5MTQzNTFlZTMzZWVkYjUxMTk2NjFlZThh`

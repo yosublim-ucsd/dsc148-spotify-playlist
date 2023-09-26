@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,092 likes - 60 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,131 likes - 60 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Torii](https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Torii](https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4) | 2:50 |
 | 60 | [Balloons](https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [Froozen / Balloons](https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT) | 3:54 |
 
-Snapshot ID: `MCw1MDFiNGY3MzE4NTg3MDNiZDNhNjc2NTE3Mzk3ZWQwYTUxYmJkNmRl`
+Snapshot ID: `MCxlYThiYmYyMzY1YjE4NGI2MzUwMzkzN2JlZDkyYjYwYTRjYTBkYTEy`

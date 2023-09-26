@@ -2313,6 +2313,28 @@
     },
     {
       "album": {
+        "name": "MENTIAS",
+        "url": "https://open.spotify.com/album/6uRGjkizGubLymcHsU0dcD"
+      },
+      "artists": [
+        {
+          "name": "C\u00edgaro",
+          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+        },
+        {
+          "name": "Berti AKA",
+          "url": "https://open.spotify.com/artist/6jpzEAn94Jb5ZLkQcgjQPV"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "MENTIAS",
+      "url": "https://open.spotify.com/track/2qrhMSU7xQxgeTu1orQ9RF"
+    },
+    {
+      "album": {
         "name": "Mi Debilidad",
         "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
       },

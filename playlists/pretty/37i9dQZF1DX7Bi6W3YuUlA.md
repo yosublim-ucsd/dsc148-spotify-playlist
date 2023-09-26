@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,272 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,283 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 |
 | 100 | [Fight for It](https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Fight for It](https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM) | 2:33 |
 
-Snapshot ID: `MCw1NmQ5NmU4ZTI4MTJkMmZiZTYwMmI2M2UxZmRkYTU1MzliOTE3MTA0`
+Snapshot ID: `MCw3YTQyODZiYWI1YzI0MDZhN2ZjOGQyOTA3MDBkZmJmZWQ0YTlhMGY1`

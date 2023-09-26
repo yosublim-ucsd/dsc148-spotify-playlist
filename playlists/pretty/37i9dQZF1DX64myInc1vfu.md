@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: La Isla Centeno
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,450 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,464 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 59 | [Para No Olvidar](https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Para No Olvidar](https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy) | 4:04 |
 | 60 | [Lo Mismo Que Usted](https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 3:09 |
 
-Snapshot ID: `MCxkZTZjNWZkYWQyZThmMGZhODNkMjA2MjNkYjExNmJhZjk3ZWUyZTEy`
+Snapshot ID: `MCxjODBiY2E5YjVhNzgwM2E2OGY1Y2E2YmY2ODkwZDE2MmVjMDU4Mzg1`

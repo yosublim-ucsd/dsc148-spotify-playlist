@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,266,179 likes - 110 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266,303 likes - 110 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 109 | [Ohne dich](https://open.spotify.com/track/4Hruh5C0Ef3y8mIcns5Y1O) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ) | 4:31 |
 | 110 | [You're All I Need](https://open.spotify.com/track/2aLLt6mqBrPO1gnwTju82L) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(2021 \- Remaster\)](https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0) | 4:33 |
 
-Snapshot ID: `MCw4ZWY0OGJhOGI1NTllOTdmZDRjNWQwYTQ3NTdlNjU0ODk5MmVjM2Zj`
+Snapshot ID: `MCxkZWE2MjBjNjllZmNkYmNjNDVjMzNiZTQxNmY2NjExNmFjMTJjMGM3`

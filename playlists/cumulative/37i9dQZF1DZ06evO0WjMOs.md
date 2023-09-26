@@ -4,7 +4,7 @@
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 21 min
+60 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Dancing Queen](https://open.spotify.com/track/1dHbjQmKlr15e6xP7VDfWi) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Dancing Queen](https://open.spotify.com/album/7kPywVWHVzRTrlzPMXFIWq) | 3:05 | 2022-09-16 | 2023-08-31 |
 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 | 2022-10-29 |  |
 | [doomsday](https://open.spotify.com/track/6bpZMLiRQDm2XcjZudu3xV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 4:28 | 2022-09-16 | 2022-10-30 |
-| [erase me](https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:34 | 2022-10-28 |  |
+| [erase me](https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:34 | 2022-10-28 | 2023-09-26 |
 | [erase me \(feat\. Jacob Collier\)](https://open.spotify.com/track/3WP4iglY7SPmXucvNLJq2G) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:34 | 2022-10-12 | 2022-10-29 |
 | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/track/5f2aqqLjBh5xRt35Ji2xq7) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/album/1TItTZNumF7HQTkxXoNROA) | 2:13 | 2023-06-24 |  |
 | [False Art](https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [False Art](https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ) | 3:03 | 2022-09-16 |  |
@@ -49,6 +49,7 @@
 | [Means Something](https://open.spotify.com/track/5L3FlmnCvJY2SN2jzvUwxL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:24 | 2022-10-29 |  |
 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 | 2022-09-16 |  |
 | [orange show speedway](https://open.spotify.com/track/25Q51oxy3Rf8fU9BHo863S) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:46 | 2022-09-16 | 2022-10-13 |
+| [orange show speedway](https://open.spotify.com/track/6Ngps97GnSV17gGxsYX1NZ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:46 | 2023-09-25 |  |
 | [Over\-the\-Ocean Call](https://open.spotify.com/track/6Kd3udS3G5mQq4Nt51mCKh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Over\-the\-Ocean Call](https://open.spotify.com/album/70OpmX87dKDQK5sq8xh5rq) | 4:04 | 2022-09-16 | 2022-11-01 |
 | [Over\-the\-Ocean Call](https://open.spotify.com/track/7I8qPfmUT4kofEFX0FlkLS) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Over\-the\-Ocean Call](https://open.spotify.com/album/3ZRKmyXa55zoOuiToUzzfg) | 4:04 | 2022-10-31 |  |
 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 | 2022-10-29 |  |

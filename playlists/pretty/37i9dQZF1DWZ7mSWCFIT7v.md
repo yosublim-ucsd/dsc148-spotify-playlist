@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,873 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,885 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 99 | [Los muertos no lloran](https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS) | [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Los muertos no lloran](https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG) | 5:40 |
 | 100 | [Twilight Sea](https://open.spotify.com/track/4dHxCO4kzAtcoki383YV0v) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/0ivDCaGwBmUHHatP2XDe0Y) | 6:05 |
 
-Snapshot ID: `MCwzNzNhZDcyMDM3NzRlODVmNTU0OTAyNGViMTczN2Y4NTE5Mzk1Mjg5`
+Snapshot ID: `MCwxNWNjZTk1MmFjNzdhMWZkNmFhY2UxOTQzMGNjMTFmNzk1YmU3MzJm`

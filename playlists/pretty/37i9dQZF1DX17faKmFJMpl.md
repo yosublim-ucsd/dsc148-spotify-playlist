@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,875 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,878 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [P\-TYPE the Big Cat](https://open.spotify.com/track/7vy8urTi3DY2845ApsXlHG) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [Heavy Bass](https://open.spotify.com/album/3fSQ0q58tU7ENEzGC3MsuK) | 3:07 |
 | 100 | [Hiphop Beginner Class \(4 Beginners\)](https://open.spotify.com/track/4rZ652DdqI6n3mRqNwoScD) | [Da Crew](https://open.spotify.com/artist/1pxWngQhTWdOpwE8CBCfjo), [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:18 |
 
-Snapshot ID: `MCwwMTBmOWNjNmNlZWNkMGM4OTdlODc5ZWZmNjBkYzZlOWQ5YzY5ZDVh`
+Snapshot ID: `MCxmNjE1NTNiNWZhZmZiMDgyYjJlOWNiMDlkN2IzZTc5NmYwZmQyNmFh`

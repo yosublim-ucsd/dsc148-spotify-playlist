@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: ProfJam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,172 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,179 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 74 | [Morte do Artista](https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Morte do Artista](https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL) | 3:27 |
 | 75 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 |
 
-Snapshot ID: `MCxkNzY3NThlZjcwNjBiNjYzNmMwZjhkNmU1OGJmYzNkMzMxM2ZmMDc3`
+Snapshot ID: `MCw0ZjU4ZGZiZmJkMmUwMDdmNjk0YmZiYmIzZDlhYWE0NjU4NDg2ZGEw`

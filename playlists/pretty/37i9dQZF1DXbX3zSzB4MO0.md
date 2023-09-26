@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 
 > Club vibes wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,895 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,938 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 | 74 | [Freedom](https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Freedom](https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1) | 2:38 |
 | 75 | [Day 'N' Night](https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Day 'N' Night](https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0) | 3:20 |
 
-Snapshot ID: `MCwwMTI4Yzk0YmFmMmU3MzRhMmI3YmQ4ZDViNjljYWZlZDhiYmY5MDVj`
+Snapshot ID: `MCw1ZTNhMzVhZjEzZWNmNTkxZGYzZGQ3YWMyYWY0ZmJlNWVmZTQwZGQx`

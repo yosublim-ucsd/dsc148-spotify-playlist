@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Abbot
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,837 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,840 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Sereno](https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Did Brock](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Sereno](https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ) | 2:16 |
 | 50 | [Bae](https://open.spotify.com/track/3BMQsF20h5sXE9wWDgx4xH) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Agacê](https://open.spotify.com/artist/2oGAUpX07Hfv4u8ekuq4rg) | [Drip Sesh, Vol\. 1](https://open.spotify.com/album/07j32H5r7zVrkEzUYb62AK) | 2:51 |
 
-Snapshot ID: `MCw3MzdjYmNkMGY2NDA3MTRhYjdmNzgzZjgwNmMzNGNkZDNmNzI5MWQ2`
+Snapshot ID: `MCw5NzQ4NGE5ZWIyYWU4Y2FmMDM4ZTNkZmVmNDUwNDMxNWMxYTY0NjJj`

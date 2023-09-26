@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: blink\-182
 
-4,517 songs - 10 day 16 hr 15 min
+4,518 songs - 10 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3377,7 +3377,8 @@
 | [Shame](https://open.spotify.com/track/2MVVtBE7WkhmbbSYaUwZaZ) | [Puppy](https://open.spotify.com/artist/1k7YEgitylDPEwY0oLo8lH) | [Shame](https://open.spotify.com/album/3uoU0mPGRYKKDhnJIRKmhM) | 3:11 | 2022-03-03 | 2022-03-11 |
 | [Shame On You](https://open.spotify.com/track/6sVs6TJapaC9piCpAgZyZc) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Shame On You](https://open.spotify.com/album/7rAfGUGoGPQNYM9RK0musY) | 3:20 | 2022-01-07 | 2022-01-14 |
 | [Shards](https://open.spotify.com/track/1xanHHpbqh1EyiP8Gop2Az) | [THE NEW DEATH CULT](https://open.spotify.com/artist/5Dk6zcL9tazwRLrMZt4jll) | [Super Natural](https://open.spotify.com/album/4NSH2F7PPhELX6J9QiddSB) | 3:12 | 2023-03-17 | 2023-03-25 |
-| [Share My Heat \- Radio Edit](https://open.spotify.com/track/4ixsbdxwitoz34mmHYGgvn) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Share My Heat](https://open.spotify.com/album/0iXdDGlsEX0Tjwx0MNle13) | 3:49 | 2023-09-22 |  |
+| [Share My Heat \- Radio Edit](https://open.spotify.com/track/4ixsbdxwitoz34mmHYGgvn) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Share My Heat](https://open.spotify.com/album/0iXdDGlsEX0Tjwx0MNle13) | 3:49 | 2023-09-22 | 2023-09-26 |
+| [Share My Heat \- Radio Edit](https://open.spotify.com/track/5ptBJqextFdSQAUjvQdvZs) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Share My Heat](https://open.spotify.com/album/0s6LEJNKhuO0HM8pTWTNsN) | 3:49 | 2023-09-22 |  |
 | [Share Ur Feelings](https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Share Ur Feelings](https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X) | 3:00 | 2022-05-05 | 2022-05-13 |
 | [SHARK!](https://open.spotify.com/track/24cdfI9A4k2UTZcr0gTHPM) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [SHARK!](https://open.spotify.com/album/1nRTkXBGGGVEfWrWn7DzdW) | 2:43 | 2023-09-08 | 2023-09-16 |
 | [Sharks](https://open.spotify.com/track/4QZa3y2uKeSl92MkYKZLlf) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/6f2DJDgxBufS0JVEcHUDhL) | 2:48 | 2022-04-22 | 2022-04-29 |

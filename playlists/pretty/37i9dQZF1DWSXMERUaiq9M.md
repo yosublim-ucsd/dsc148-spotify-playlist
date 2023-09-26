@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,941 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,188 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [Heartbreak Repair System](https://open.spotify.com/track/2Vl7tpgcrVNT2FlAFs9oPm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Heartbreak Repair System](https://open.spotify.com/album/2kuCtLukAviIdRfqsYUfoV) | 2:50 |
 | 50 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 |
 
-Snapshot ID: `MCwyYWZiODMxZTcwOTc5ZGQ5ZGU4Yzk0ZmVlZjMxY2VjZmE4YzI0YTc4`
+Snapshot ID: `MCw1MWU3OGFhODdlYTU0ZDQ5ZTRlYTkyZTVkOTFkZWEzNDc1NDY1NjY2`

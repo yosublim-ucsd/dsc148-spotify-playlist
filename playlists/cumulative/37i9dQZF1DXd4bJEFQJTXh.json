@@ -199,6 +199,28 @@
     },
     {
       "album": {
+        "name": "Bark to the Beat (with blackbear) [From PAW Patrol: The Mighty Movie]",
+        "url": "https://open.spotify.com/album/3hu5KuXIyZSuK02jA80jVI"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123058,
+      "name": "Bark to the Beat (with blackbear) [From PAW Patrol: The Mighty Movie]",
+      "url": "https://open.spotify.com/track/5k0Vd1kLeUFRozn6GiC8m1"
+    },
+    {
+      "album": {
         "name": "The Peanuts Movie - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0YEI8tlvSXBOI5sy4WL4zF"
       },

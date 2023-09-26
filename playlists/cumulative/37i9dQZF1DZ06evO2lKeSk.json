@@ -976,7 +976,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 209093,
       "name": "Solo Quiero Ser Amada",
       "url": "https://open.spotify.com/track/3hHZV1O1yWYzxSczYEow2d"
@@ -1052,6 +1052,24 @@
       "duration_ms": 194066,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
+    },
+    {
+      "album": {
+        "name": "La Reina Canta A Mexico",
+        "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245266,
+      "name": "Voy a Ser",
+      "url": "https://open.spotify.com/track/0WaCinH2B4I2m2XuM5ULKM"
     },
     {
       "album": {

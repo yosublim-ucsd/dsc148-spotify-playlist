@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the vocalists representing Korea! \(Cover:Sion\(시온\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,483 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,489 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 99 | [Diamond](https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Diamond](https://open.spotify.com/album/58T3Mkgs37IjcximP129MP) | 2:59 |
 | 100 | [Anymore \(Feat\. Whee In of MAMAMOO\)](https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 4:18 |
 
-Snapshot ID: `MCw5Yzg3MDUxNTYyMzdhZGI0NDY0ODg1NDg3YWI4NDNiMDRjYTIzNWI4`
+Snapshot ID: `MCw3NWE5MGE4MTVkMGMwMDA3MWZlMWM3YTc1ZDQ2ZDBhZGFjYjhjMjI5`

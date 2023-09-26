@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,088 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,095 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 49 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 |
 | 50 | [Chérie](https://open.spotify.com/track/0GTO1m0ZbLNvsl6EAMXpj7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 3:08 |
 
-Snapshot ID: `MCxjN2U1OWM4NmIwMTZhNjRiMTMwZjEwNmMwY2RlYWQxMDc3ODU4MGEw`
+Snapshot ID: `MCw1MDA0N2M1NmYzM2Y4NDQ2YmRhNWVkNWRjZDNlMzMwNGRmNmVmNzgz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover:KANA\-BOON
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,555 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,621 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 49 | [the WORLD](https://open.spotify.com/track/2pe0UjA7U2F01djWeOtvS3) | [Nightmare](https://open.spotify.com/artist/11CxpTfZC60MYKjL7HESKR) | [the WORLD Ruler](https://open.spotify.com/album/6fkESSJokXRGeL4JTZdMjB) | 3:48 |
 | 50 | [熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:43 |
 
-Snapshot ID: `MCxmNDExMTZjMGZhZDcxOGI0NDUzOTVlZjg0MGU2ZWJlNGEyNDM3YTc2`
+Snapshot ID: `MCw1ODNiMDIwMmVlOWQzNDFhZWYxOTA2NzI4MDdmNTFmMjYxNzg1OWNh`

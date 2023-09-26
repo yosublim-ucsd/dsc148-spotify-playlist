@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,738 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,724 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 | 49 | [MTG BCT NO CABEÇÃO x QUERIA MORDER ESSA BOQUINHA](https://open.spotify.com/track/307XeDy2HCpVtl5IJgkOfk) | [DJ BETIM ATL](https://open.spotify.com/artist/1MSe9dn8Q5rGo2vJxkuw9J) | [MTG BCT NO CABEÇÃO x QUERIA MORDER ESSA BOQUINHA](https://open.spotify.com/album/4Wqx5zHsDgRRYo9Ip9yi4y) | 3:32 |
 | 50 | [Ritmada da Laura](https://open.spotify.com/track/4MFGqdbmN23Doa9cHATo4V) | [DJ VINI ORIGINAL](https://open.spotify.com/artist/0veIDjfOwkxKOzABHbUHqu), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm) | [Ritmada da Laura](https://open.spotify.com/album/37RCdDr57J1BYsYI9denZV) | 2:57 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

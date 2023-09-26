@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,692 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,693 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [Live Out Loud](https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Live Out Loud](https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT) | 3:23 |
 | 100 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 |
 
-Snapshot ID: `MCw3MjFiNzMwOWExZTE2NTdjODNhMGVjMTczOWEwOGVlMTQyNGRkYmYw`
+Snapshot ID: `MCw1YTYzY2MxMGI1NzA2MmQ5NDVlYzc1YjkwNjJhODE0MjliYmVmMTU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 
 > Turn traffic stops into jam sessions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,199 likes - 79 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,220 likes - 79 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 | 78 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 |
 | 79 | [Testimony](https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Testimony](https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY) | 2:26 |
 
-Snapshot ID: `MCw3MDJmZGY3M2E2YTA4YzZhNDAwYTJkNzk4YTk0M2ZlMWY2YTQxOGJl`
+Snapshot ID: `MCxhNzE3MjZkYjY1ZDM2YTJkOGFiN2EyNmRjNWRkODJiOThmZTJjZDUz`

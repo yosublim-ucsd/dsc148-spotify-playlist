@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Gaab
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,627 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,641 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Caixa Postal](https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Caixa Postal](https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR) | 3:03 |
 | 75 | [Bad Girl](https://open.spotify.com/track/1whJBnBLwZcpMl9II6rOfB) | [Adi](https://open.spotify.com/artist/4AnpI5Laz6YeM09dMJNTaW) | [TRILOGIA](https://open.spotify.com/album/6nT5ttYMKVRMpEmNZTIL8H) | 2:15 |
 
-Snapshot ID: `MCxjOWJjMjAyODdmMGZmYzhmZTJhNDUzOWExNjRkN2NiZWU4YWEwZDU2`
+Snapshot ID: `MCxmN2Y2ZDFhYmIxYzM4YjZmNmY3ZWJjNzhjM2UxY2EwYjY1Y2Y2OWRj`

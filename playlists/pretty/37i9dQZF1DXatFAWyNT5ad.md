@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it\. Cover: Nightly
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,065 likes - 125 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,078 likes - 125 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 124 | [Reborn](https://open.spotify.com/track/24PrTycumc8Itm3ksXF0jP) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [When Everything Went Dark](https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v) | 2:38 |
 | 125 | [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 |
 
-Snapshot ID: `MCwyOGUyZWFkYjE3YzA1NjEzYmU0OWZkMzRjNTRkMWNkMWFiNWY1Yzll`
+Snapshot ID: `MCxjOGNiNTZhYjZjODNhM2M4MjA5MGI1YzkwOTY0N2UyYjliOTYxYzAz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Tyler Childers
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,297 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,338 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Higher \(feat\. David Rawlings\)](https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Higher](https://open.spotify.com/album/5SEcw1vkEs9avEUReaz6G8) | 3:23 |
 | 100 | [Maritime](https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI) | 4:38 |
 
-Snapshot ID: `MCw4YTRjZjYzNzJmNTdmY2E2N2EwYzNhODk1MjlmNWJmYzczMmMxM2M4`
+Snapshot ID: `MCwzM2MxZTk0ZTBlNGI0MGFjMjljZDcwZjRlZWRmMzUyMmI4ZDBiOWM2`

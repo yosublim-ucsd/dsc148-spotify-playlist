@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Camila Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,796 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,804 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 99 | [Me lo vas a agradecer](https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Me lo vas a agradecer](https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a) | 3:10 |
 | 100 | [Las Rejas No Matan](https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Las Rejas No Matan](https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9) | 2:58 |
 
-Snapshot ID: `MCxmMzJmYWE5NmYyM2E3MGJkNzNkZjdlMTEyNDliY2NhZGNhODlmNmNk`
+Snapshot ID: `MCw2NzdhNjdkOTAzYWNkNjA2YjViOWE3ZTRjMmM5YTVlMjIyZmEyMGI3`

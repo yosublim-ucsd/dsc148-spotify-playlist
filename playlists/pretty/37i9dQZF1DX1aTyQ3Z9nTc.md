@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,829 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,836 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 99 | [Lover Loaded Fantasy](https://open.spotify.com/track/1I0TJSqkMgFHaS9foB6OJ1) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [Cascade](https://open.spotify.com/album/3NhcazJqCvUZ4UZxB1eUnJ) | 2:34 |
 | 100 | [Part Of Me](https://open.spotify.com/track/5Y8LjJ9Riiw8i5d6D06fYS) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa) | 2:09 |
 
-Snapshot ID: `MCxhMjRiOWFhZGU1Y2M1NTU0MTM2Y2E3MTdlMTU2ZWQ1ZjIzZjcwY2Vj`
+Snapshot ID: `MCxlZjk3ODY2M2YzZmIwNmZiOTRhMjgxOTVkMmRjM2FkM2JmNWI0NDI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,044 likes - 20 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,154 likes - 20 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 5 | [I Wonder](https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:34 |
 | 6 | [Silver Words?](https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 2:04 |
 | 7 | [I'll Slip Away](https://open.spotify.com/track/5TFaVFcq4sblM4fW5wzG2Y) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 2:51 |
-| 8 | [Just One of Those Things](https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:02 |
+| 8 | [Learnin' the Blues](https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 2:32 |
 | 9 | [Hate Street Dialogue](https://open.spotify.com/track/3Y0iZyngvwiGF15eLRttN7) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:33 |
 | 10 | [Cause](https://open.spotify.com/track/1Qyt1vzKvsNlZhMepIxpbo) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 5:30 |
 | 11 | [Street Boy](https://open.spotify.com/track/1qckRGY4rDziXQv86ofYzW) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 3:47 |
-| 12 | [Learnin' the Blues](https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 2:32 |
+| 12 | [Just One of Those Things](https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:02 |
 | 13 | [Forget It](https://open.spotify.com/track/3hgVJGSwCFY8M84FavQwdD) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 1:50 |
 | 14 | [Climb Up On My Music](https://open.spotify.com/track/2Gu7LqbawC5nQ4pQBJHNeQ) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 4:54 |
 | 15 | [Can't Get Away](https://open.spotify.com/track/6pmDqTidfGwyMtUXPogaOM) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 3:56 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 19 | [Rich Folks Hoax](https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:05 |
 | 20 | [Halfway Up The Stairs](https://open.spotify.com/track/3g9vVwKpMzMsMa9t4u1WgT) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 2:27 |
 
-Snapshot ID: `MjgyNTUwMDUsMDAwMDAwMDBiYmMyMjg5NmZlMDE3ZGI5MTQ3NjQ1YmFlYzkwNDIxNQ==`
+Snapshot ID: `MjgyNjA3MzcsMDAwMDAwMDBjZTYyZDBjNjgyMjQ0OGE4ZjNiMTZhYWYyYmIwNWQ1NQ==`

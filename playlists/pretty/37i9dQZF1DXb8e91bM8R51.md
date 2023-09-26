@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,352 likes - 120 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,362 likes - 120 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 119 | [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 |
 | 120 | [Do It For The Ghetto \(feat\. Big K.R.I.T\. & Lakeith Rashad\)](https://open.spotify.com/track/2FEogrV44RFFVrUhyDSiJ1) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Termanology](https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Lakeith Rashad](https://open.spotify.com/artist/1C3dllNDuRNi0rI7GVJwVx) | [Do It for the Ghetto](https://open.spotify.com/album/5VJ8Z1Y4UYfWjzFM9TjYyd) | 3:41 |
 
-Snapshot ID: `MCxiMjBkNzBlNWU0MmQ2ZDg0M2YwYWUxZTNlMmQxNjM4YmQ3YWI0MTcy`
+Snapshot ID: `MCwxOTFkMjQ1ODk0MDhjZTM3NzkzYWI0MWFhN2FiM2FhNjZiYWE2MjJi`

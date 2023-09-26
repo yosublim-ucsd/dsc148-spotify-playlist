@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,103,385 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,103,825 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 99 | [Doin' It](https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Leshaun](https://open.spotify.com/artist/0vHAWbRVMR4fNF1ABEe8D2) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 4:53 |
 | 100 | [Invocation](https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [One Day It'll All Make Sense](https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE) | 2:14 |
 
-Snapshot ID: `MCw3OWQ0MTJiNDE4MDYxMGJkOGY1ZTA0MTJhMzhlMDE4YjgxZDAyMDg0`
+Snapshot ID: `MCw0NmY4ZmRkNjBiYTgxYjJjYTBlNTlkNzY2YTczMzhiMzIxZjllNGU1`

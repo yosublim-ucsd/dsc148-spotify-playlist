@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,201 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,206 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 49 | [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/4EAP4yIQlIwowyqTKKBLXv) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0Gh6wdhrgzwGeTYsiz9qTY) | 5:16 |
 | 50 | [Guided Meditation and Positive Affirmations, Pt\. 1](https://open.spotify.com/track/6qh2KnPtlLsd421MywfYXs) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [Whispering Things Your Brain Needs To Hear](https://open.spotify.com/album/2uxS4hwrZPnUlUpPkGix99) | 15:09 |
 
-Snapshot ID: `MCw0NzJiYjg1Y2ViZWIxMWNhZTEwOGU0NjdhNDNkMWFkYWY5OTI5NmU0`
+Snapshot ID: `MCwzNjY1YjViNGJlNzA3NDk0OTBiMDIyYjJiZjUzZTc3OTRmODRjYTQw`

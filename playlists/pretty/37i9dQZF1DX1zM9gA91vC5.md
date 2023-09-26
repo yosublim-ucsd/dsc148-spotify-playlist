@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,508 likes - 250 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,517 likes - 250 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 249 | [Trei](https://open.spotify.com/track/5bHQg9Zu5BjBcwwtKWL8JK) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Trei](https://open.spotify.com/album/4lm7RojcsLs6xVCVmKuH5k) | 2:31 |
 | 250 | [Vaguely Reminiscent](https://open.spotify.com/track/6iK4gKiROE3gw0jfHxgBjU) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Kraal Total](https://open.spotify.com/album/10TgvyPmbBmRjNA2j2w4jU) | 3:18 |
 
-Snapshot ID: `MCw3MThhMWM5MThjOTc5MDM4YTAxMWM0MjBmMWYxOGMyZjFiYzYwNzc5`
+Snapshot ID: `MCxmZDEyYzg4ZDQxZjdkM2E3NzUwYjI0MWE0ZTA2OGE2M2ZlMzFmMGU0`

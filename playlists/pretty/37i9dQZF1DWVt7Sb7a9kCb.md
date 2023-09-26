@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,590 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,596 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 99 | [Kaprichosa](https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Kaprichosa](https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o) | 3:20 |
 | 100 | [POKE FREESTYLE](https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [POKE FREESTYLE](https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3) | 3:23 |
 
-Snapshot ID: `MCw3OWE0MzBhOTE1ZDIxZmQ5ZmY3MmQ5MGU0MDZkZWYxNjg3NGFlODY5`
+Snapshot ID: `MCxjN2MyNTZmMzE0OGY3ODEzYTc4OTBlYmNjYTgzM2YyZDM1MWRmYWVk`

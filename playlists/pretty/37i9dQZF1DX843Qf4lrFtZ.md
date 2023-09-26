@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,770,135 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,770,150 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 | 99 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
 | 100 | [Dive](https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Dive](https://open.spotify.com/album/0kCeC3O3QGbCYDJGCGUIce) | 2:44 |
 
-Snapshot ID: `MCw4NTE3MjI2NWFmYmIwZGYzNmExNGJlM2EzOTk4NGVhYWYwOTg4Yjcz`
+Snapshot ID: `MCxhZDU2OGM4YWIyYTFhOTI2ZDY0ZmJlMzkyMmQ3MjA3ZmYyNjJiZjFh`

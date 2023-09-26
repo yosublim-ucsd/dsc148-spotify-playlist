@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,813 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,816 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [View](https://open.spotify.com/track/1SL78CgHakGfPKxS976MIX) | [リョウコ2000](https://open.spotify.com/artist/0gkebBA1I3f7BTYqaDDK48) | [Unknown Things](https://open.spotify.com/album/1DcXSJpJUNw8nUa016KZoH) | 3:51 |
 | 60 | [We Could Be Falling In Love \- Edit](https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [We Could Be Falling In Love](https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L) | 2:59 |
 
-Snapshot ID: `MCw2NDEyYzc4ODI0NTBmZDc4YzdhZWRlZWIxYTdiNDZmYjg3MmQ2OWUw`
+Snapshot ID: `MCxiMTI1YTE3YmYwMjU5YjBhY2M1MDJmZTAzMmQ1MjlmZTRkYWMwODVl`

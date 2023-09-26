@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,612 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,639 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 99 | [Get Here](https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f) | 4:36 |
 | 100 | [I Can’t Let Go \- Remastered](https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Color Rit \(Remastered\)](https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ) | 4:16 |
 
-Snapshot ID: `MCxjNWI1Zjc3ZjE1NTU5ODc1ZmFiZTJmNjU2Mzk2Mzk0ZjNlYjBmMTRi`
+Snapshot ID: `MCw0OWEyNDAzZTdhMWZhNmYxYjI3ODdhOTY5YWRmM2M3MzZjYzVmNmQz`

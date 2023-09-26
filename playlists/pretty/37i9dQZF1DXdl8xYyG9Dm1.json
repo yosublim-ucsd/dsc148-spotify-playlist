@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=cKqSPpFTTJy8a5NrxeTczA\"> Nasty C </a>",
-  "num_followers": 128079,
+  "num_followers": 128411,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTY2ZTFlMjllM2M3NGJiNDhjNDJjMGM0ZWIxNjQ2ZjVlZGE1ZGIw",
+  "snapshot_id": "MCxjNmRhMmMxNjFmNjJlZDUxZTlmMTA1OTlmODE4MGJjMjI2MjcyZDZj",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -191,18 +191,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Advice",
-        "url": "https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM"
+        "name": "FIREGUN (feat. Fireboy DML)",
+        "url": "https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 165995,
-      "name": "Advice",
-      "url": "https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA"
+      "duration_ms": 194400,
+      "name": "FIREGUN (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -227,22 +231,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "FIREGUN (feat. Fireboy DML)",
-        "url": "https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj"
+        "name": "Advice",
+        "url": "https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 194400,
-      "name": "FIREGUN (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9"
+      "duration_ms": 165995,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -263,42 +263,6 @@
       "duration_ms": 154957,
       "name": "Always (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "Longtime (feat. Skepta)",
-      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "45",
-      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -339,22 +303,58 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Guy Man",
-        "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Guy Man",
-      "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
+      "duration_ms": 239893,
+      "name": "Longtime (feat. Skepta)",
+      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "45",
+      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 207473,
+      "name": "FYN",
+      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -383,22 +383,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 207473,
-      "name": "FYN",
-      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
+      "duration_ms": 214615,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -467,42 +467,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "5th Dimension",
-        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 185257,
-      "name": "Life & Money",
-      "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "First Sermon",
-        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185362,
-      "name": "First Sermon",
-      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Prosper In Peace",
         "url": "https://open.spotify.com/album/6bZjEoMqtFYT8hXO3Fjr1m"
       },
@@ -523,8 +487,28 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 185257,
+      "name": "Life & Money",
+      "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Guy Man",
+        "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
       },
       "artists": [
         {
@@ -532,13 +516,29 @@
           "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 214615,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
+      "duration_ms": 166956,
+      "name": "Guy Man",
+      "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -647,30 +647,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Most High",
-        "url": "https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5"
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
       },
       "artists": [
         {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
-        },
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 176770,
-      "name": "Oh Ma Linda",
-      "url": "https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb"
+      "duration_ms": 142080,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -695,6 +683,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "Winning",
         "url": "https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N"
       },
@@ -715,58 +719,30 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Jack",
-        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
+        "name": "Most High",
+        "url": "https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Jack",
-      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Young Preacher",
-        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
         },
         {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
         },
         {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         }
       ],
-      "duration_ms": 181250,
-      "name": "FAKE NIKES (feat. Blxckie & Cheque)",
-      "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
+      "duration_ms": 176770,
+      "name": "Oh Ma Linda",
+      "url": "https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -823,22 +799,26 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "031 To The World 2.0",
-        "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
+        "name": "Young Preacher",
+        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
       },
       "artists": [
         {
-          "name": "Lucasraps",
-          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
         }
       ],
-      "duration_ms": 186240,
-      "name": "The Views",
-      "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
+      "duration_ms": 181250,
+      "name": "FAKE NIKES (feat. Blxckie & Cheque)",
+      "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -859,6 +839,26 @@
       "duration_ms": 186923,
       "name": "Afro Jigga",
       "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "031 To The World 2.0",
+        "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
+      },
+      "artists": [
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "The Views",
+      "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "BACK IN UNI",
-        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "BACK IN UNI",
-      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Soja",
         "url": "https://open.spotify.com/album/0WrpYqyMi0ZU8EY9AzCdht"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 202886,
       "name": "Bigger (feat. Olamide & Nas)",
       "url": "https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "BACK IN UNI",
+        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "BACK IN UNI",
+      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1031,42 +1031,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
-      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Penny",
-        "url": "https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Penny",
-      "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Tujiangalie - EP",
         "url": "https://open.spotify.com/album/0L6Djo1F3h7l0UPtLdwAJu"
       },
@@ -1083,6 +1047,22 @@
       "duration_ms": 218666,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/6P8ePyea7qMtpepDXBNkIO"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Penny",
+        "url": "https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Penny",
+      "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1159,6 +1139,26 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
+      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
         "url": "https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 122958,
       "name": "Next Up",
       "url": "https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 132765,
-      "name": "4 Door Jeep",
-      "url": "https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1315,6 +1299,22 @@
       "duration_ms": 220434,
       "name": "Midf (Money I Dey Find)",
       "url": "https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 132765,
+      "name": "4 Door Jeep",
+      "url": "https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso"
     },
     {
       "added_at": "2023-09-14 23:00:00",

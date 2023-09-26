@@ -4,7 +4,7 @@
 
 > This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 2 min
+55 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Llamada De Mi Ex](https://open.spotify.com/track/4CV3GcAHLsYhWCQAoooQZW) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:06 | 2023-08-08 |  |
 | [Lo Hiciste Otra Vez](https://open.spotify.com/track/3ddqNG2bohXWZaHZ8a4Tqx) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 3:37 | 2023-08-08 |  |
 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 | 2023-08-08 |  |
-| [Lucio Vazquez](https://open.spotify.com/track/7xygLT3mUqdhdz80VfsN3f) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 2:21 | 2023-08-13 |  |
+| [Lucio Vazquez](https://open.spotify.com/track/7xygLT3mUqdhdz80VfsN3f) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 2:21 | 2023-08-13 | 2023-09-26 |
 | [Media Naranja](https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 2:31 | 2023-08-08 |  |
 | [Mi Segunda Vida](https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:07 | 2023-08-08 |  |
 | [Más Adelante](https://open.spotify.com/track/56xpQv8NgsV68PPYpEVDr4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:32 | 2023-08-08 |  |
@@ -61,6 +61,7 @@
 | [Ya Es Muy Tarde](https://open.spotify.com/track/64my6WOkrygcpXKMLxxpi9) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:01 | 2023-08-08 |  |
 | [Ya No Te Buscaré](https://open.spotify.com/track/7LRYw74nztDptYIStswo9K) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:11 | 2023-08-08 |  |
 | [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 | 2023-08-08 |  |
+| [Yo Me Confié](https://open.spotify.com/track/12cRDWVrxI7Wf0KHiVr3fH) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 2:42 | 2023-09-25 |  |
 | [¿Qué Me Vas a Dar?](https://open.spotify.com/track/6noag39xc1z1VuHLm9CSA5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Simplemente Arrolladora](https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv) | 3:27 | 2023-08-08 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,896 likes - 70 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,903 likes - 70 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 69 | [Weird Flex](https://open.spotify.com/track/3DtiBVOc1FGJMgN1ygCu10) | [TMSV](https://open.spotify.com/artist/3gy5cNrDadVI5kDFcYgelE), [Danny Scrilla](https://open.spotify.com/artist/4bmJFapr7wQD6xdjcqWjcL) | [Weird Flex](https://open.spotify.com/album/2mWG078wkJMmjUQ8iqhhWT) | 3:51 |
 | 70 | [Suez \- version](https://open.spotify.com/track/5mnGUzn98Zom7mwYOpV63N) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW), [Konrad Sprenger](https://open.spotify.com/artist/5bGmvl9eY8jOszonS9d6OT), [Phillip Sollmann](https://open.spotify.com/artist/2Kl28Zn5AWddccJZk1KDFr) | [Panama / Suez](https://open.spotify.com/album/7vsMhEZkgYiWssccHHCdqk) | 11:33 |
 
-Snapshot ID: `MCw4Y2JjNjYzMjNjYTE3MmUwOTVlOGQzMzI1NDU5NWIxYjA3YzQ5MmZh`
+Snapshot ID: `MCwxYTAwMGIzNjI4NThiNzZmNGVkNDRiYWUxYjEzOGZmZTJjMDUzN2Nl`

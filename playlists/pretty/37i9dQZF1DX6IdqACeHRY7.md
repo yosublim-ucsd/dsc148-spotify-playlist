@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,274 likes - 114 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,290 likes - 114 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Silence](https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Why Her Not Me \- EP](https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY) | 3:39 |
 | 114 | [Call Your Girlfriend](https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Call Your Girlfriend](https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu) | 3:14 |
 
-Snapshot ID: `MCxlMmI4ZWRiNjVkZjhjNWRkODkwYThkNTQwZTg5NTVmYWVlY2QwMzJi`
+Snapshot ID: `MCxjMGQxNGFlNjcyZWJmODVlYjkxYWU1MjNjMmVlNzc4YzJjNWQ2YTAz`

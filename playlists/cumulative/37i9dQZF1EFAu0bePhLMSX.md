@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-156 songs - 10 hr 12 min
+157 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Take Your Chances On Me](https://open.spotify.com/track/75I4uu5Jas0T6r6qpc6G3Y) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:02 | 2021-12-27 |  |
 | [Tears Will Dry](https://open.spotify.com/track/3IBCq3u9WlzoRoeBWVyfvo) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Love Shot Me Down](https://open.spotify.com/album/3pCVtlLvg9OYVOUvr4Gfuv) | 3:09 | 2021-12-27 |  |
 | [Tell Me What You Dream](https://open.spotify.com/track/1lSSqcVfpoFAHyhSb8odzR) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/0UdmyRJgaoe92dHgMit5bT) | 4:02 | 2021-12-27 |  |
+| [Tension](https://open.spotify.com/track/3hI2qkKUtxDwKakeF9hzH7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 3:36 | 2023-09-25 |  |
 | [The One](https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:59 | 2021-12-27 |  |
 | [The Sea](https://open.spotify.com/track/7r0PLMmHLocjY4PiNaeKUx) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [The Sea](https://open.spotify.com/album/5XaJ2HgoLfKLdQ8SQ2uY1n) | 4:49 | 2021-12-27 |  |
 | [The Way Love Goes](https://open.spotify.com/track/2A5atyBnmtDPfRBDjOMtOp) | [Lemar](https://open.spotify.com/artist/7uztWv5UVx4hwcJXCtRyDV) | [The Hits](https://open.spotify.com/album/0sAb0OzmqQ7PowGSgO6JKP) | 3:31 | 2021-12-27 |  |

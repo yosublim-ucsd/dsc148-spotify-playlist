@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3rMnCpY0WEROlje2b8Bjdn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 457 likes - 69 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 456 likes - 69 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/3rMnCpY0WEROlje2b8Bjdn.md) - [plain]
 | 32 | [Half A Moon \(Is Better Than No Moon\)](https://open.spotify.com/track/59RmJ4pnF478zWV0oeC5y4) | [Nat Shilkret & The Victor Orchestra](https://open.spotify.com/artist/4t27GMbk5ZWdvzxvZqui7h) | [That Was The Year \- 1926](https://open.spotify.com/album/119QQzGYMDmaMIH4BK5WBL) | 3:10 |
 | 33 | [Breezin' Along With The Breeze](https://open.spotify.com/track/51XjBjNXipjsTDGyW8A8pw) | [Johnny Marvin "The Ukulele Ace"](https://open.spotify.com/artist/6NA96NRfoh3QxLflata89P) | [50 \#1 Hits Of The '20s & '30s](https://open.spotify.com/album/3lb9NMRkjgkIHQCRLEpNqb) | 3:26 |
 | 34 | [Come On Boys Let's Do That Messin' Around](https://open.spotify.com/track/0w0qH6keqGrU9EhzmI6phr) | [Blind Blake](https://open.spotify.com/artist/6Y9Eaqa5gdLvTj6dBTqGXS) | [All the Published Sides](https://open.spotify.com/album/7AgBWTMKOwcXLKkZSSIOXE) | 2:46 |
-| 35 | [Birmingham Breakdown](https://open.spotify.com/track/5V4q2wEogizTcTMRUNovaH) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Black Love](https://open.spotify.com/album/3RUFqJuz2ZvjL44uPgd2Qt) | 2:41 |
+| 35 | [Soliloquy](https://open.spotify.com/track/5V4q2wEogizTcTMRUNovaH) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Black Love](https://open.spotify.com/album/3RUFqJuz2ZvjL44uPgd2Qt) | 3:05 |
 | 36 | [Turkey in the Straw](https://open.spotify.com/track/4DBvpn35SOVAquzqSm55qR) | [Gid Tanner And The Skillet Lickers](https://open.spotify.com/artist/1SEvBXE6LtCN9kZH1CyovY) | [And The Skillet Lickers Vol\. 2](https://open.spotify.com/album/7kji793X9DAe9RXQH4SrDW) | 3:18 |
 | 37 | [That Night in Araby](https://open.spotify.com/track/3jORAhpRCsYB7SEf5JtLMf) | [Washboard Serenaders](https://open.spotify.com/artist/2SQwVAFaJggr4vM83PAu1G) | [British Jazz At Its Very Finest 1920\-1960](https://open.spotify.com/album/3qWo2CB9Erov374U0QByyk) | 2:28 |
 | 38 | [Thank God for a Garden](https://open.spotify.com/track/6dKBv4aNOOcpzey8HCEIMo) | [Teresa Del Riego](https://open.spotify.com/artist/49isMVfusbtbxYUybMSMGF), [John McCormack](https://open.spotify.com/artist/0uqddFnkR5VFHepMk9NEz3), [Francis Lapitino](https://open.spotify.com/artist/3t9zBMX6OvzDJFdR28mR4q), [Rosario Bourdon](https://open.spotify.com/artist/1UmXXzLSgZlX1gh7zjT730), [Victor Orchestra](https://open.spotify.com/artist/3ZTHUZlbKmy27WrkiFzZD8), [Josef Pasternack](https://open.spotify.com/artist/7fgZhcAJQydaSbwITBxXW4) | [The McCormack Edition, Vol\. 8: The Acoustic Recordings \(1918\-1920\)](https://open.spotify.com/album/58e66Lx1fRtoimScoj8Ino) | 2:20 |

@@ -777,6 +777,36 @@
     },
     {
       "album": {
+        "name": "Chaleya (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/7zAITOBN6eG4UBm4IapAik"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "Chaleya (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/4nc6XiUze2Yh7wFueGOPv7"
+    },
+    {
+      "album": {
         "name": "Chandigarh Mein (From \"Good Newwz\")",
         "url": "https://open.spotify.com/album/5HjF2YHiOiQWQDeTsSXhnM"
       },
@@ -2123,6 +2153,28 @@
     },
     {
       "album": {
+        "name": "Hamari Adhuri Kahani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM"
+      },
+      "artists": [
+        {
+          "name": "Ami Mishra",
+          "url": "https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272668,
+      "name": "Hasi - Male Version",
+      "url": "https://open.spotify.com/track/32765xcLM1fd6wQIpkN9A0"
+    },
+    {
+      "album": {
         "name": "Hasi Ban Gaye",
         "url": "https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh"
       },
@@ -2712,7 +2764,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 222054,
       "name": "Jehda Nasha (From \"An Action Hero\")",
       "url": "https://open.spotify.com/track/45C7tXCrmp3R5E65XUtLLj"
@@ -3480,7 +3532,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 63000,
       "name": "Made In Heaven - Theme",
       "url": "https://open.spotify.com/track/5uSgmJU6MeoFTIYaJQOV5K"
@@ -4448,7 +4500,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 151666,
       "name": "Palpita",
       "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
@@ -5349,6 +5401,32 @@
     },
     {
       "album": {
+        "name": "Shayad (Film Version) [From \"Love Aaj Kal\"]",
+        "url": "https://open.spotify.com/album/3IbTgvx8roeABgl7i4d2TV"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245732,
+      "name": "Shayad (Film Version) - From \"Love Aaj Kal\"",
+      "url": "https://open.spotify.com/track/72s1xrc7E27aATdCMbFMC6"
+    },
+    {
+      "album": {
         "name": "Shayad (From \"Love Aaj Kal\")",
         "url": "https://open.spotify.com/album/3Q6oDVihOpQVi2FC0Mfjlm"
       },
@@ -5858,10 +5936,6 @@
       },
       "artists": [
         {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
           "name": "Gippy Grewal",
           "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
         },
@@ -5870,12 +5944,12 @@
           "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
         },
         {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         },
         {
-          "name": "Abrar Ul Haq",
-          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
         }
       ],
       "date_added": "2022-07-15",
@@ -6098,6 +6172,24 @@
       "duration_ms": 213611,
       "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/4uNxdQ1L4Xa52MWX864QhW"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154554,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
     },
     {
       "album": {

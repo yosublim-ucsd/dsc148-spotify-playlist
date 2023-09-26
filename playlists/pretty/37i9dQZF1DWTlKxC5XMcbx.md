@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,344 likes - 75 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,357 likes - 75 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 74 | [Alone And I \- Remastered 2007](https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:29 |
 | 75 | [Everytime around](https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Everytime around](https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ) | 5:25 |
 
-Snapshot ID: `MCw1YmQ5OTZkZjEzOTIwYmRiZTBmNDg0YWRjMDY0MjljNjlkYjRiNDI1`
+Snapshot ID: `MCw5YTEwNjA5YTYxMTVjYTIzZjI1ODM2OGJlMGQwOThlNmUyYjc2NGYx`

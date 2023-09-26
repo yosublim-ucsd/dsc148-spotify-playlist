@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > The soundtrack to lazing around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,543 likes - 65 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,564 likes - 65 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 64 | [Secrets from a Girl \(Who's Seen it All\)](https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:38 |
 | 65 | [I'll Be Seeing You](https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/3QUlMH61fQz93W2uVNU5CF) | 4:45 |
 
-Snapshot ID: `MCw4NWVmMGFiMDc3MTkyMjUyNWZmODIyZGQ0ZTIyYzFjNjUxYThjNzZm`
+Snapshot ID: `MCw3YTEwMTRmOGIzMGJiZjBlZjg2NzkxY2RmYTdkZTkwMDY1NThjODgx`

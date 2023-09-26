@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda Carnaval en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,196 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,244 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 124 | [Mi Destino Es Ser Borracho](https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mi Destino Es Ser Borracho](https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt) | 3:19 |
 | 125 | [Made In Culiacán](https://open.spotify.com/track/2agwS63hLGGke66GxSH3BL) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Made In Culiacán](https://open.spotify.com/album/7imq6EzxyDQqHDWOemSj7s) | 2:21 |
 
-Snapshot ID: `MCxiMjllZTE0ZjI2OTFkY2JkMzc1YmFkNDdhYjUyM2NjYzFkNGU2M2Q1`
+Snapshot ID: `MCxlYjRmZGZmOGJhY2M0OTgxYmE1Y2E0ZGY1M2UwYWRjM2QzN2RhYzZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Acoustic and roots music gems\. Cover: Trousdale
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,139,538 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,139,540 likes - 160 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [Sorrow \- Acoustic](https://open.spotify.com/track/723gxwUYsB0XH2MTzYNiMB) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Favors EP \(Acoustic\)](https://open.spotify.com/album/1dSQSvPzdvdoOe8jYTrZk4) | 3:00 |
 | 160 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 |
 
-Snapshot ID: `MCwyMmUyNmQ5ZTkyNWMyNWYwMWUwYWQwNDRhYzdmNDE5ODVlZjEwNWEx`
+Snapshot ID: `MCxiMjQ5MzZjZTc1NDhhNDA3ZjM4NmJkNDFkMGNiNjAzMzEzYmZlZDc2`

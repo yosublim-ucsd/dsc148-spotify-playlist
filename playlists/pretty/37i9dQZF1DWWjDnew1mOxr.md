@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: JAMIE WEBSTER
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,568 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,570 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 99 | [Boys Like Me](https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS) | [Retro Video Club](https://open.spotify.com/artist/3QLuhvmgX4ActVP2adB2l3) | [SITUATIONS](https://open.spotify.com/album/6gfhQtGei00j0uin1FSVm5) | 2:59 |
 | 100 | [Slowly Break My Heart](https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD) | [Frankie Beetlestone](https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH) | [Slowly Break My Heart](https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF) | 3:14 |
 
-Snapshot ID: `MCwwNTgwMjNhYzdlZWNhMzg0NGZjYjgxNzQ4YTliMDUyN2YyYTI3NWEx`
+Snapshot ID: `MCw2NzI4ODM4MTgxMTY5MGIzNDJhZGExZDI5MWE5MGE5ZjI2MTViMDE5`

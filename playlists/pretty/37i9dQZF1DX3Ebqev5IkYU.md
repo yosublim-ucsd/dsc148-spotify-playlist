@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 
 > Schlechte Laune? Drück den Play Button!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,978,521 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,978,563 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 79 | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU) | 2:50 |
 | 80 | [Lightning](https://open.spotify.com/track/1mreBnJEA5A6uIOTzkKq8Z) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lightning](https://open.spotify.com/album/1H6XatdVMrvJMvokzH2Kef) | 2:57 |
 
-Snapshot ID: `MCxhOWJhYmIwZTlmNzA3MWVlMTkyYTdkMmU5OTBmODY4MzkzYmIxZmQ1`
+Snapshot ID: `MCxlODM0YWMzMjc3NTE3ZTI2MTQ2ZjJjMTQyYWUwOWUzZGI2OWQ3MGMz`

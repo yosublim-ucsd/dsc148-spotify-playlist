@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,115 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,116 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 49 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 |
 | 50 | [Morning Dancing](https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 9:52 |
 
-Snapshot ID: `MCw1MWQ2YmIxYWVmNzBlMWZiYjFkNTFkOTdiMDcxNmE3MzFkYWExZmIw`
+Snapshot ID: `MCw2NzU1MTU4NDJjOTBkNGVmNjUwODc3NjJiYzE5MzM4YWFkN2M2ZmY2`

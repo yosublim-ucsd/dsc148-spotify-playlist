@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Cannibal Corpse
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,128 likes - 150 songs - 12 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,193 likes - 150 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 149 | [Immer Treu](https://open.spotify.com/track/04yFun0kpmuxmfP8z4Gve3) | [Varg](https://open.spotify.com/artist/4QjcHVaUB35395GeUoRIfZ) | [Immer Treu](https://open.spotify.com/album/56md3R00zHzNSpWvQqIkv7) | 4:19 |
 | 150 | [Svart Industriell Olycka](https://open.spotify.com/track/5xltwwuGP4FKjUQkEMtWxO) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III: Angst](https://open.spotify.com/album/0bmWUXx7WGseDggqGUFgTt) | 8:05 |
 
-Snapshot ID: `MCxjODBiZWEwNTM1MzE5YTZkNzNhNjNiZTU1YTBiYWJmMmMzZDJkYjBi`
+Snapshot ID: `MCxjMmVlM2NkNWI5MTEwMGY0ZDA1NTc5YTllZjdkMjY5ZWE4N2I2ZDlm`

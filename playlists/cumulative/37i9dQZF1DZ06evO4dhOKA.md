@@ -4,7 +4,7 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-100 songs - 5 hr 3 min
+101 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Deep](https://open.spotify.com/track/5jYzfyCzZcddj4gwqIv85f) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Deep](https://open.spotify.com/album/3E1CxrVvYxSjqeDfBopHdk) | 2:34 | 2022-06-01 | 2022-07-09 |
 | [Dicomoz](https://open.spotify.com/track/4LByBaP3YMsvNgba2fJ6JL) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Dicomoz](https://open.spotify.com/album/3iWsOYQEblNVbc1X0seuT2) | 4:05 | 2022-06-01 | 2022-07-14 |
 | [Dicomoz](https://open.spotify.com/track/7ydAQr1HQYaGu3Q8uupaFc) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Dicomo](https://open.spotify.com/album/7uKXXhGd73QD8tDsztI3h3) | 4:05 | 2022-09-19 | 2022-10-19 |
+| [El Asesino](https://open.spotify.com/track/3JMtn4ZzixtX8buL6jClUW) | [Lupe Mendoza](https://open.spotify.com/artist/7AV7uwxrICf5QVYXqWow9r), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Lupe Mendoza y Lalo Mora 15 Exitos, vol\. 1](https://open.spotify.com/album/4B6xwGhnwh5pdsh0S58sVj) | 2:10 | 2023-09-25 |  |
 | [El Columpio](https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [12 Éxitos Con Sax al Estilo De: Lalo Mora](https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS) | 3:22 | 2022-06-01 |  |
 | [El Corrido De Monterrey](https://open.spotify.com/track/1CTIs7OmI0qaYjmX1c8DKU) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Ilumina Señor A México](https://open.spotify.com/album/1xSrVuzjzj8yoSrB4WAH3V) | 3:43 | 2022-06-24 | 2022-09-29 |
 | [El Corrido de Ramiro Quiroz](https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las + Tocadas](https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv) | 3:00 | 2022-06-01 |  |
@@ -70,7 +71,7 @@
 | [Mi Cruz de Dolor](https://open.spotify.com/track/20E4GJqIyCVjNW9UiCmvoE) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Norteñas Consentidas en la Voz de Lalo Mora](https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU) | 3:37 | 2022-06-01 |  |
 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/4bSkZ266UEFGDDeAjyqu2G) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Ama a Su Público \(En Vivo\)](https://open.spotify.com/album/41u7D6sCeN75276OJs8FgM) | 3:33 | 2022-06-01 |  |
 | [Mi Recaída en Los Excesos](https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mi Recaída en Los Excesos](https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9) | 3:03 | 2023-06-17 |  |
-| [Mil Pedazos](https://open.spotify.com/track/4kRTaSby9ON4sBp9WsP0z6) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:50 | 2022-06-01 |  |
+| [Mil Pedazos](https://open.spotify.com/track/4kRTaSby9ON4sBp9WsP0z6) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:50 | 2022-06-01 | 2023-09-26 |
 | [Muchacha Bonita](https://open.spotify.com/track/2wJwbI9zDg7Mmm6uUFjW8s) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 3:15 | 2022-08-01 | 2022-08-03 |
 | [Muriendo Por Ella](https://open.spotify.com/track/7D63GyavsqDG7i9JzlZDr7) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:11 | 2022-10-26 | 2022-11-08 |
 | [Nadie Como Ella](https://open.spotify.com/track/5x6ZJ3RkIKCcIFdQtgKq8J) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:53 | 2022-06-01 | 2022-11-02 |

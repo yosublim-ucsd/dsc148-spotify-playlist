@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,522 likes - 83 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,521 likes - 83 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 82 | [Christmas Date Blues](https://open.spotify.com/track/17mU6BYWxyzk9Y7nquICGZ) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:34 |
 | 83 | [Christmas Blues](https://open.spotify.com/track/3E9ZTLhHcpn6KJVvSiBf2w) | [Larry Darnell](https://open.spotify.com/artist/1UedlcCVqk3Zjq2UQocScS) | [Christmas Blues](https://open.spotify.com/album/02daPiQEjrb6T9GkU0NVKN) | 2:52 |
 
-Snapshot ID: `MCxmMTdiODY5MzIzODQ1NDQzNjJkZjMyMjBmMDFkZTcwYzFjMmZjYTJk`
+Snapshot ID: `MCxiMjJhZTQzNDg2YTk2ZWNjZjg2ZTU4ZjJlYjU5MmQ2Mzk3NWFiNjc5`

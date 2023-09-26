@@ -388,6 +388,10 @@
         {
           "name": "Shilpa Rao",
           "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
       "date_added": "2023-09-05",
@@ -1362,7 +1366,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 228969,
       "name": "Jeena Jeena",
       "url": "https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE"
@@ -1404,6 +1408,32 @@
       "duration_ms": 227736,
       "name": "Jeena Jeena",
       "url": "https://open.spotify.com/track/4eeDAXH1ys2WncSXO7qwqx"
+    },
+    {
+      "album": {
+        "name": "Jeena Jeena",
+        "url": "https://open.spotify.com/album/4qBH6thoW5xgNIumimUVvD"
+      },
+      "artists": [
+        {
+          "name": "Eser Inc.",
+          "url": "https://open.spotify.com/artist/1xYwO3igKogfuoti47VcRO"
+        },
+        {
+          "name": "Konina",
+          "url": "https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj"
+        },
+        {
+          "name": "BazukaBeko",
+          "url": "https://open.spotify.com/artist/3K1AAnD5alr3OR8SClyBmc"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235148,
+      "name": "Jeena Jeena",
+      "url": "https://open.spotify.com/track/0HEIct25CX0hhLucnhTkUr"
     },
     {
       "album": {

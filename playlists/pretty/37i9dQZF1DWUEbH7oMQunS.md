@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,903 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,931 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 99 | [I Won't Let Go](https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [I Won't Let Go](https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn) | 3:52 |
 | 100 | [God Keep Us](https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr) | [Gamie](https://open.spotify.com/artist/4D67gN8zIZf4jztCnjCn6G) | [SEVEN](https://open.spotify.com/album/10fgRN0jhULCS8KZridQ4n) | 3:07 |
 
-Snapshot ID: `MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy`
+Snapshot ID: `MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2`

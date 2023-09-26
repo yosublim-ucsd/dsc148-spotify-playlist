@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Tony Kakkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,643 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,656 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 2 | [Doriyaan](https://open.spotify.com/track/3ZNY9KaznDbVY518pumhEJ) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Jaane Jaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DdFhbmU3jierIxd7sqQLe) | 3:35 |
 | 3 | [Jaane Jaan \- Title Track \(From "Jaane Jaan"\)](https://open.spotify.com/track/5rFTcUfO3ZPztJHEmFOdvM) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax), [Rajendra Krishan](https://open.spotify.com/artist/0wfdmeqX8y9eyNIX9lV0Or) | [Jaane Jaan Title Track \(From "Jaane Jaan"\)](https://open.spotify.com/album/5xDXicz8xdAi6jvSH4BrxY) | 2:20 |
 | 4 | [Barsaat Aa Gayi \- Acoustic](https://open.spotify.com/track/3u2TfgGswNKiTuBMB8cIXe) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Hina Khan](https://open.spotify.com/artist/4xKss8ZlA5A4abTQpqynah) | [Barsaat Aa Gayi \(Acoustic\)](https://open.spotify.com/album/1nOjUyG49pdq4P20pv7Nam) | 3:36 |
-| 5 | [Nazar Na Lage](https://open.spotify.com/track/0AQmKOQ3efDoyXRqsIXYRH) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Manisha Rani](https://open.spotify.com/artist/0FUk91fuR7n3XMjRHHqMcJ) | [Nazar Na Lage](https://open.spotify.com/album/28GlsjpSTySBgdqZhOagrt) | 2:31 |
+| 5 | [Nazar Na Lage](https://open.spotify.com/track/0AQmKOQ3efDoyXRqsIXYRH) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Manisha Rani](https://open.spotify.com/artist/3JMWg3hGtmHe3cZBucdgZ9) | [Nazar Na Lage](https://open.spotify.com/album/28GlsjpSTySBgdqZhOagrt) | 2:31 |
 | 6 | [Tum Mere Kya Ho](https://open.spotify.com/track/59S0sPZf1q48PvmeeXN0bj) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tum Mere Kya Ho](https://open.spotify.com/album/65xBCpWtwwZ3PoloPQzTum) | 2:55 |
 | 7 | [Tere Siva](https://open.spotify.com/track/6z8CuL6ElapwI5zKUFTsj3) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z) | [Tere Siva](https://open.spotify.com/album/6ynbNczzqeB7Zf47ghecOJ) | 3:20 |
 | 8 | [Khidkiyaan](https://open.spotify.com/track/42knAvExr0msLmEiq6o4PN) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Khidkiyaan](https://open.spotify.com/album/0v2XGID4NlBUFEvb97TEv4) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Barbaad Kar Diya Tere Pyaar Ne](https://open.spotify.com/track/71JppswenQSDBxsGw7H0DX) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj) | [Barbaad Kar Diya Tere Pyaar Ne](https://open.spotify.com/album/4RMGzKcfpJDHglBRJ88ukK) | 4:21 |
 | 50 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
 
-Snapshot ID: `MCw4MjBmZDU0OGE5ZDlmOTUwZTZmZWE0ZDA3ZjBiZDc1MmFkZmJhM2I2`
+Snapshot ID: `MCwzNjdhNmM2ZWE2OTU5YjBhMTcxMjAzMjFjZjE2ODA2MmY4NWQwMGRh`

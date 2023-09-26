@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 10217,
+  "num_followers": 10330,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWQ1ZjU2ZWEwYmI3NjM4OGYxYTY5MDgxMjljMTFmMzA1MzgzMjgw",
+  "snapshot_id": "MCwyYjRkYTc1MjEwMDc5YTQwZGRlNTI0ZDdmMDQ5ZjQ1MTViYThkYjdm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/1PcbJ1DL1tFKjAzsBEoEVe"
-      },
-      "artists": [
-        {
-          "name": "Gordon Mote",
-          "url": "https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Faith Like That",
-      "url": "https://open.spotify.com/track/1cxxA1gqowDgJTwCGDZsi9"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "A Pioneer Legacy",
         "url": "https://open.spotify.com/album/2qqnHI9X0Wlv5KIBe9HfPQ"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Thinking 'Bout Home (Live)",
-        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/1PcbJ1DL1tFKjAzsBEoEVe"
       },
       "artists": [
         {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+          "name": "Gordon Mote",
+          "url": "https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG"
         }
       ],
-      "duration_ms": 245825,
-      "name": "Thinking 'Bout Home - Live",
-      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
+      "duration_ms": 219560,
+      "name": "Faith Like That",
+      "url": "https://open.spotify.com/track/1cxxA1gqowDgJTwCGDZsi9"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -403,6 +387,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Thinking 'Bout Home (Live)",
+        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 245825,
+      "name": "Thinking 'Bout Home - Live",
+      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "When God Ran",
         "url": "https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 312746,
       "name": "When God Ran",
       "url": "https://open.spotify.com/track/78bkWzaZ616DTt9HdkM0MN"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Bigger Than Sunday",
-        "url": "https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19"
-      },
-      "artists": [
-        {
-          "name": "Triumphant Quartet",
-          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
-        }
-      ],
-      "duration_ms": 197240,
-      "name": "Best Thing",
-      "url": "https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -451,6 +435,22 @@
       "duration_ms": 208893,
       "name": "Matchless (feat. Point Of Grace)",
       "url": "https://open.spotify.com/track/1iiheCt1EQk8br6NV3f7Y1"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Bigger Than Sunday",
+        "url": "https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19"
+      },
+      "artists": [
+        {
+          "name": "Triumphant Quartet",
+          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
+        }
+      ],
+      "duration_ms": 197240,
+      "name": "Best Thing",
+      "url": "https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP"
-      },
-      "artists": [
-        {
-          "name": "The Browders",
-          "url": "https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Lift up His Name",
-      "url": "https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Songs for the Times",
         "url": "https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP"
+      },
+      "artists": [
+        {
+          "name": "The Browders",
+          "url": "https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Lift up His Name",
+      "url": "https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "The Stories We Tell",
         "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
       },
@@ -555,6 +555,70 @@
       "duration_ms": 181000,
       "name": "Good in the Good Times",
       "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Pray Now",
+        "url": "https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3"
+      },
+      "artists": [
+        {
+          "name": "Karen Peck & New River",
+          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Pray Now",
+      "url": "https://open.spotify.com/track/6BT4eCTe1MiGwAGgf5ezpJ"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Plenty Good Room",
+        "url": "https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA"
+      },
+      "artists": [
+        {
+          "name": "Lynda Randle",
+          "url": "https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "Plenty Good Room",
+      "url": "https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Love Is the Voice",
+        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
+      },
+      "artists": [
+        {
+          "name": "The Taylors",
+          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "God, Do it Again",
+      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "How Great Thou Art",
+        "url": "https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU"
+      },
+      "artists": [
+        {
+          "name": "John Berry",
+          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
+        }
+      ],
+      "duration_ms": 210161,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -579,54 +643,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Plenty Good Room",
-        "url": "https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA"
-      },
-      "artists": [
-        {
-          "name": "Lynda Randle",
-          "url": "https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "Plenty Good Room",
-      "url": "https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Pray Now",
-        "url": "https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3"
-      },
-      "artists": [
-        {
-          "name": "Karen Peck & New River",
-          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Pray Now",
-      "url": "https://open.spotify.com/track/6BT4eCTe1MiGwAGgf5ezpJ"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Love Is the Voice",
-        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
-      },
-      "artists": [
-        {
-          "name": "The Taylors",
-          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "God, Do it Again",
-      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Reckless Love",
         "url": "https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "How Great Thou Art",
-        "url": "https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU"
+        "name": "2: 22",
+        "url": "https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7"
       },
       "artists": [
         {
-          "name": "John Berry",
-          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
+          "name": "Karen Peck & New River",
+          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
         }
       ],
-      "duration_ms": 210161,
-      "name": "How Great Thou Art",
-      "url": "https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6"
+      "duration_ms": 194198,
+      "name": "Future Glory",
+      "url": "https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -671,22 +687,6 @@
       "duration_ms": 276000,
       "name": "On Jordan's Stormy Banks",
       "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
-      },
-      "artists": [
-        {
-          "name": "Triumphant Quartet",
-          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -711,18 +711,34 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "2: 22",
-        "url": "https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7"
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57"
       },
       "artists": [
         {
-          "name": "Karen Peck & New River",
-          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
+          "name": "Ernie Haase & Signature Sound",
+          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
         }
       ],
-      "duration_ms": 194198,
-      "name": "Future Glory",
-      "url": "https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr"
+      "duration_ms": 218655,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
+      },
+      "artists": [
+        {
+          "name": "Triumphant Quartet",
+          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -743,38 +759,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57"
-      },
-      "artists": [
-        {
-          "name": "Ernie Haase & Signature Sound",
-          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
-        }
-      ],
-      "duration_ms": 218655,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Shut Him Up",
-        "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
-      },
-      "artists": [
-        {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Shut Him Up",
-      "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Give Me Jesus",
         "url": "https://open.spotify.com/album/2AWZoRFVr5aZTl374dbufg"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 197760,
       "name": "Give Me Jesus",
       "url": "https://open.spotify.com/track/1A0hWOgHJZhfmU0Jz27XsB"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Shut Him Up",
+        "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Shut Him Up",
+      "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Glorious Appearing",
-        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
-      },
-      "artists": [
-        {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
-        }
-      ],
-      "duration_ms": 228997,
-      "name": "Glorious Appearing",
-      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "My Name Is Victory",
         "url": "https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl"
       },
@@ -1003,22 +987,6 @@
       "duration_ms": 202710,
       "name": "The Spirit and the Bride",
       "url": "https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Front Porch Singin'",
-        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 108145,
-      "name": "Rock My Soul",
-      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1039,6 +1007,38 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Front Porch Singin'",
+        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 108145,
+      "name": "Rock My Soul",
+      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Glorious Appearing",
+        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
+      },
+      "artists": [
+        {
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        }
+      ],
+      "duration_ms": 228997,
+      "name": "Glorious Appearing",
+      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Not For Long",
         "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 230013,
       "name": "Not For Long",
       "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Heritage, Vol. 3",
+        "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
+      },
+      "artists": [
+        {
+          "name": "Legacy Five",
+          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
+        }
+      ],
+      "duration_ms": 154932,
+      "name": "Praise Medley",
+      "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Heritage, Vol. 3",
-        "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
+        "name": "In a Moment",
+        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
       },
       "artists": [
         {
-          "name": "Legacy Five",
-          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
+          "name": "Hebron Road",
+          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
         }
       ],
-      "duration_ms": 154932,
-      "name": "Praise Medley",
-      "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
+      "duration_ms": 306462,
+      "name": "Every Other Throne",
+      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "In a Moment",
-        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
+        "name": "Grace Ain't Fair (Acoustic Version)",
+        "url": "https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17"
       },
       "artists": [
         {
-          "name": "Hebron Road",
-          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
+          "name": "The Nelons",
+          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
         }
       ],
-      "duration_ms": 306462,
-      "name": "Every Other Throne",
-      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
+      "duration_ms": 214238,
+      "name": "Grace Ain't Fair - Acoustic Version",
+      "url": "https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1135,6 +1151,22 @@
       "duration_ms": 262212,
       "name": "The Lighthouse - 50 Year Celebration",
       "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Good News From Jerusalem (Made Popular by Tribute Quartet) [Performance Track]",
+        "url": "https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Performance Tracks",
+          "url": "https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "Good News From Jerusalem (Demonstration in C-C#-D)",
+      "url": "https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1175,38 +1207,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Grace Ain't Fair (Acoustic Version)",
-        "url": "https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17"
-      },
-      "artists": [
-        {
-          "name": "The Nelons",
-          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
-        }
-      ],
-      "duration_ms": 214238,
-      "name": "Grace Ain't Fair - Acoustic Version",
-      "url": "https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Good News From Jerusalem (Made Popular by Tribute Quartet) [Performance Track]",
-        "url": "https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H"
-      },
-      "artists": [
-        {
-          "name": "Crossroads Performance Tracks",
-          "url": "https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "Good News From Jerusalem (Demonstration in C-C#-D)",
-      "url": "https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Sings Greatest Country Gospel Hits",
         "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
       },
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "I Am Not Alone",
-        "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
-      },
-      "artists": [
-        {
-          "name": "Jack Greene",
-          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "King of Kings",
-      "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Lord's Prayer",
         "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 235328,
       "name": "Lord's Prayer",
       "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "I Am Not Alone",
+        "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
+      },
+      "artists": [
+        {
+          "name": "Jack Greene",
+          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "King of Kings",
+      "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1323,8 +1323,8 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Come and Dine",
-        "url": "https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC"
+        "name": "Old Country Church",
+        "url": "https://open.spotify.com/album/3cB6hCmC0xKRj0M9kDiPcS"
       },
       "artists": [
         {
@@ -1333,8 +1333,8 @@
         }
       ],
       "duration_ms": 149213,
-      "name": "Come and Dine",
-      "url": "https://open.spotify.com/track/6tf81aaHf2TumDPjrkPlr6"
+      "name": "Come & Dine",
+      "url": "https://open.spotify.com/track/1EVDgJXZpD3DXKH1PLXWtq"
     }
   ],
   "unique_name": "Streets Of Gold",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Abbey Cone\. Updates every Wednesday\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,370 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,348 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Changes](https://open.spotify.com/track/3jhHrxY2eyV4zciR8WfzIc) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i) | [Changes](https://open.spotify.com/album/0RS8mVII3i0aAhTWcsMpG2) | 3:59 |
 | 100 | [Right On](https://open.spotify.com/track/1qwoi0kB61lGNoqhwcdku4) | [Mango Foo](https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV) | [Right On](https://open.spotify.com/album/19GvsHXcCBd8ezOb6vNNp3) | 2:02 |
 
-Snapshot ID: `MCw5ZTQxNzUxYTc1NGNiNmNjMjMzNThiZmYyNjdiZmMyYjA3ZjI3Y2Uw`
+Snapshot ID: `MCwzNmFlMzYwMDZhYjFlZjQ1OGQ4MjZiMTQzMzgwNDUwMDQ3MTkyN2Mz`

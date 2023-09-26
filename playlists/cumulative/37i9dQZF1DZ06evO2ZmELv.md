@@ -4,10 +4,11 @@
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 28 min
+47 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Acuerdate de Mi](https://open.spotify.com/track/37L1nLzyyha7aBEasI5hOD) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:13 | 2023-09-25 |  |
 | [Acá Entre Nos \- En Vivo](https://open.spotify.com/track/4oX6dB6XekjdF63marhlLo) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:29 | 2023-03-10 |  |
 | [Amor Ranchero](https://open.spotify.com/track/1trn4GJEVc1fUJ6QPt47Q8) | [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Herencia de Reyes](https://open.spotify.com/album/41jebnJTjXLJUPccmutiXa) | 3:18 | 2023-03-10 |  |
 | [Anillo Grabado \- En Vivo](https://open.spotify.com/track/1rdWXDbnI7jK584fjIuJe1) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 2:49 | 2023-09-15 |  |
@@ -23,7 +24,7 @@
 | [En Mi Destino Estabas Tu](https://open.spotify.com/track/6tyczwNk5TqYt9WdSZcZ1x) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [En Mi Destino Estabas Tu](https://open.spotify.com/album/4DAa9X3K3EywDoKc7Z3LS2) | 3:19 | 2023-03-10 |  |
 | [Extraña Manera \- En Vivo](https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:20 | 2023-03-10 |  |
 | [Golpes En El Corazon \- En Vivo](https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX) | [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [DEL Records Presenta \- En Vivo Desde La Finca El Cielo](https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq) | 3:55 | 2023-03-10 |  |
-| [Haré de Cuenta](https://open.spotify.com/track/28JoiRZEHQRpYC1ofiOYpO) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:29 | 2023-06-14 |  |
+| [Haré de Cuenta](https://open.spotify.com/track/28JoiRZEHQRpYC1ofiOYpO) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:29 | 2023-06-14 | 2023-09-26 |
 | [Hoy Que Te Vas](https://open.spotify.com/track/0O6zTZ5GqM9MPNgwXYt6Vb) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Hoy Que Te Vas](https://open.spotify.com/album/4JfKXEJo0tqcyDTcWRT0Sj) | 3:06 | 2023-03-10 |  |
 | [La Diferencia \- En Vivo](https://open.spotify.com/track/1V1vXXWGYfbDW56TSbMAmb) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:13 | 2023-03-10 |  |
 | [Las Cuentas Claras \- Versión Norteño En Vivo](https://open.spotify.com/track/3nlTZwaA4blF3UQyCUpxX2) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 4:31 | 2023-07-30 | 2023-08-02 |

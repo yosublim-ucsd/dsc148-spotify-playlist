@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 
 > The songs of the 1990s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,678 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,711 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 99 | [The Power](https://open.spotify.com/track/0nQLxiNGbbUoSGrxksETLm) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [World Power](https://open.spotify.com/album/40dT7brCvniJawDHpBCE4A) | 3:48 |
 | 100 | [My Boo \- Hitman's Club Mix](https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU) | [Ghost Town DJs](https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT) | [My Boo \(Hitman's Club Mix\)](https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi) | 5:46 |
 
-Snapshot ID: `MCwxOTRjYzM2ZWNjOTMwNDZhNDE2ZmZkYzNmNGVkZTRiYjU4OWE1ZWY5`
+Snapshot ID: `MCw3YjdhYzExNjljMGEyMDdiMmNlYjQ1NDgyMmI3NTllMmQ3YjNjZGM5`

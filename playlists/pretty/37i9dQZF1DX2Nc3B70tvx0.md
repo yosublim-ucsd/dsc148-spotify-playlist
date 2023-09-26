@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > Newsworthy indie of 2023: Mitski's album is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,230,698 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,230,741 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 99 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 |
 | 100 | [Bioluminescence](https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Bioluminescence](https://open.spotify.com/album/3ljdLdZzfpPaaz95B1xGG9) | 5:12 |
 
-Snapshot ID: `MCw0YTdmYmQ0NzRiN2I1Yjk2YjllZTJjODZhYTE1ZGViMDJjOTgyZWMx`
+Snapshot ID: `MCxlZmE2MTNhZjAwZmZhM2YwOTQ4YTUyNGFkOTc2OGIwM2QyMGE0ODli`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 
 > Indie music to keep your gaming session properly soundtracked.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,551 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,639 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 99 | [Back to the Start](https://open.spotify.com/track/5TdgnDOtgNJRCxjrTVAwks) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Back to the Start](https://open.spotify.com/album/7cZsw4SlFBI5SzgaagTQe1) | 3:23 |
 | 100 | [thankful](https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/7CYCQNeHoMWXQXg9NzqTyM) | 2:26 |
 
-Snapshot ID: `MCwxYzkzNzA4MGFjNjRjZWVkNmE2OWVhYjhjNDRjMjA4YWJhYzdiZjU5`
+Snapshot ID: `MCw5NjdjZTUzMDc3MTA1ZTE3NWYwM2Y0NmQ2ODVlZThkMDM1ZTNlZTA5`

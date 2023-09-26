@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,152 likes - 45 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,154 likes - 45 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Up & Down](https://open.spotify.com/track/11DRarpv190YnCAXt85uFA) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 6:49 |
 | 45 | [Queen of Hearts](https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Queen of Hearts](https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque) | 3:56 |
 
-Snapshot ID: `MCxmNzgyM2FlODkyMzkyMmZiM2JiNTU2MzY1MmMwOTAyYjJlY2IwOGU4`
+Snapshot ID: `MCw3NmExMWUyMTJjYjk0MDlkOGZiZjg5YmI1YzE3NmY0OGE1N2YyOGNj`

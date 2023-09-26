@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,874 likes - 80 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,888 likes - 80 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 79 | [Chipek](https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0), [Juan Carlos Montiel Rangel](https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 4:00 |
 | 80 | [México Mágico](https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp) | [Stc Beats VB](https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:38 |
 
-Snapshot ID: `MCwyYTg3NmZlZGI5ODQ5OTJjNGEyYWEwOGM3MjNmNGM0ZWJiNzVlODg2`
+Snapshot ID: `MCxjNTJiNzJjZmEwYjA0OGQ5MTgyYmMwODg2MmRmNDE3ZmVkOGQ5YTM1`

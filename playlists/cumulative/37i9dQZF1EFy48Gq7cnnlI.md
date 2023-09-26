@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-105 songs - 5 hr 55 min
+106 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Say](https://open.spotify.com/track/5VjTlCuX8C11QDunDwvyNh) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Ready](https://open.spotify.com/album/4iosTZ1wD4C0psaI0E2pS5) | 3:47 | 2021-12-27 |  |
 | [Scares Me](https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:02 | 2022-11-17 |  |
 | [sicker](https://open.spotify.com/track/0HeMyHfORSIy1GKmuqH1rt) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [lonesome](https://open.spotify.com/album/5tvGgatnybABXI9xao61yZ) | 3:13 | 2021-12-27 |  |
-| [Silver Second](https://open.spotify.com/track/7xQWEbfhhw60STdzIar6dP) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Theia](https://open.spotify.com/album/0JlZC7e9FLo1bgQ0stvEbM) | 3:09 | 2021-12-27 |  |
+| [Silver Second](https://open.spotify.com/track/1I8gOO0zGDwOarYwmFIuHh) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Silver Second](https://open.spotify.com/album/0PoEgxs2gvopvFD6R2z2hb) | 3:09 | 2023-09-25 |  |
+| [Silver Second](https://open.spotify.com/track/7xQWEbfhhw60STdzIar6dP) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Theia](https://open.spotify.com/album/0JlZC7e9FLo1bgQ0stvEbM) | 3:09 | 2021-12-27 | 2023-09-26 |
 | [something](https://open.spotify.com/track/1cJ5ZXrClkc5sJElFQGKKC) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [something](https://open.spotify.com/album/7nmHTnA1cngSTs4HHmCBnw) | 2:48 | 2021-12-27 |  |
 | [sponge](https://open.spotify.com/track/2Q1gYW8vmpyab71NbBhy4D) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [hues](https://open.spotify.com/album/5yAz9TahH5ruPBVeHJfhH7) | 3:36 | 2021-12-27 | 2022-10-14 |
 | [sponge](https://open.spotify.com/track/2Z3JlrOjcC6XITyxFEgbHT) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [hues](https://open.spotify.com/album/6f5Z2SBhrecKukyZDLX1vU) | 3:36 | 2022-10-13 |  |

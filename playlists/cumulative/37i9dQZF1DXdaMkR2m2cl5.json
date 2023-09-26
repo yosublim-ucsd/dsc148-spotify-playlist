@@ -3171,6 +3171,24 @@
     },
     {
       "album": {
+        "name": "A Light Left On",
+        "url": "https://open.spotify.com/album/1AexYaxNPcGb3PY3icXXIX"
+      },
+      "artists": [
+        {
+          "name": "The Western Den",
+          "url": "https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231893,
+      "name": "Spark, Set Fire",
+      "url": "https://open.spotify.com/track/0TK8SoeO0GVmUV1060bA4T"
+    },
+    {
+      "album": {
         "name": "Olympic Girls",
         "url": "https://open.spotify.com/album/2fXjFuPIS8mmNjzrm20t4k"
       },
@@ -3784,7 +3802,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 223613,
       "name": "This Sweet Love",
       "url": "https://open.spotify.com/track/1aPIOiggxmM2pjDBky1HIo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,168 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,189 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
 | 100 | [Bankrupt](https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 3:21 |
 
-Snapshot ID: `MCxhY2VmNzQ5MjllMjQ5YzM3ZGQyOWNmNDQ2M2U3YjA0MjQ1NDhhM2E5`
+Snapshot ID: `MCxmMGFiM2UwNDhhMTczNmY2ZDQ0Njk3MzgyZjI4ZjEwMmY0Yjc4YzBm`

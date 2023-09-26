@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Rocco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,702,949 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,702,979 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 99 | [Next Best Exit](https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Next Best Exit](https://open.spotify.com/album/5BaqyXWFe7128CZfNaMISB) | 2:46 |
 | 100 | [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 |
 
-Snapshot ID: `MCxlZjYxMTA3OTY1MmUyY2Q1NDhkMDQ4MWQ0NmVkNzViMWJjODBkNDY1`
+Snapshot ID: `MCxiNTUyY2ZiMTc4ODY3MTViYmFmZDM0Y2VmYmI5MGMzZDY5YzQ5NjY4`

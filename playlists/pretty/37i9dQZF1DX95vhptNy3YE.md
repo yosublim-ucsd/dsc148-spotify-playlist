@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Sued Nunes e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,898 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,896 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Solteira Desapegada](https://open.spotify.com/track/2VA2YomrRj8hHJ7wmpoDeZ) | [Vulgo Junet](https://open.spotify.com/artist/3127oLqTIUfvCVr5y8RZ4M), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Solteira Desapegada](https://open.spotify.com/album/0nN1rl6bAR0Wocif2BkNUf) | 2:47 |
 | 50 | [IMAGINA](https://open.spotify.com/track/5ZtyZDWL1HGtLhFQpGC0PD) | [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD) | [AMOR É ARTE \(DELUXE\)](https://open.spotify.com/album/3b0seNILUwFDSugWj6CpCB) | 3:08 |
 
-Snapshot ID: `MCw3NTc0OGVhMTRmMmIwZjU0MjY5OWRiZTcwMDQ0MjVmNmYzMmE0ODRj`
+Snapshot ID: `MCw0YTgwNzA5MGQyNDEwMjBiMjc4NzcyY2RjN2EzNjRmYTgxYmZlMGM1`

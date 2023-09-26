@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "No S\u00e9 Qu\u00e9 Pasa",
+        "url": "https://open.spotify.com/album/1HCrI1y6xGB7HPrfB4Tt6f"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182258,
+      "name": "No S\u00e9 Qu\u00e9 Pasa",
+      "url": "https://open.spotify.com/track/5YmbEstKMg7zofgLXvbSAN"
+    },
+    {
+      "album": {
         "name": "Boleros Volumen 2",
         "url": "https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k"
       },

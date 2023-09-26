@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/78m3qQF3Q7KRGIsXzQkREU">Ines Dunn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-17 songs - 50 min 11 sec
+18 songs - 53 min 31 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Get Better](https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Get Better](https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU) | 2:51 | 2023-04-16 |  |
 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 | 2023-06-04 |  |
 | [House On Fire](https://open.spotify.com/track/0Le4FRrPfbFzpyy8SsaCLf) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:19 | 2023-04-03 |  |
-| [Mama's Eyes](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [Mama's Eyes](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 | 2023-04-03 |  |
+| [MAMA'S EYES](https://open.spotify.com/track/5cW2aVfOGvbnxlXm8POXLR) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 3:20 | 2023-09-25 |  |
+| [Mama's Eyes](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [Mama's Eyes](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 | 2023-04-03 | 2023-09-26 |
 | [Not Another Rockstar](https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Not Another Rockstar](https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn) | 2:29 | 2023-04-03 |  |
 | [Run](https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:49 | 2023-06-25 |  |
 | [Stormy Skies \(Diamonds\)](https://open.spotify.com/track/2bltEK2s3RtxoYMSMiSwX1) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Stormy Skies \(Diamonds\)](https://open.spotify.com/album/0bVupaVa9nDw44G0kBCDlv) | 3:33 | 2023-04-03 |  |

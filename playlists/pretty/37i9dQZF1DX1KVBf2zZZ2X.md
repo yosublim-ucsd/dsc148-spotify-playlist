@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,712 likes - 90 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,740 likes - 90 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 89 | [Hygrometer](https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Hygrometer](https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C) | 2:26 |
 | 90 | [Wave](https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF) | [The Lagoon](https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA) | [Wave](https://open.spotify.com/album/16S959NluCJSWVpybU2jb8) | 3:51 |
 
-Snapshot ID: `MCw3ODg1NmM5Y2JkMzEzNGFhOWUwMWI4NjZhODk1OWFkOTNlNmQ5YzNh`
+Snapshot ID: `MCxiNWNjZmJhOGQ0ZjFjNDYzZWM4MWFlYmRlODA4OTBhNjZmYTEyNDNk`

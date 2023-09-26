@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,613 likes - 90 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,650 likes - 90 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Look Inside](https://open.spotify.com/track/55vLT3xEExIooTieCfLjUQ) | [4hero](https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L), [Face](https://open.spotify.com/artist/7rAHyyAugNjIUBYTwoHHMg) | [Play With the Changes](https://open.spotify.com/album/5F4ERW3zwBLDTC4dYxaplL) | 4:06 |
 | 90 | [Whatchugot](https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Groove Collective](https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N) | 6:34 |
 
-Snapshot ID: `MCw2YmE4Yjg3MDdjYTM1ZGI1Mzg1MGM2NTEzMGVlOTBjNzllYTU4ZWYx`
+Snapshot ID: `MCxkZjgyM2Q1ZjYxMDIzYWE4NDg2NjY2NTA4MGZiZmNlODQ0MWI1NWVi`

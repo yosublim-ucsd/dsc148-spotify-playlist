@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,720 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,739 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 149 | [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 |
 | 150 | [Please Don't Make Me Cry \- Jordan Rakei Remix](https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Please Don't Make Me Cry \(Jordan Rakei Remix\)](https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s) | 4:22 |
 
-Snapshot ID: `MCwzYmRiZWIxZjI2ZTJkOWU0YjBiMWVmNDNjNDhiNGNlZjZjZjc2YTMy`
+Snapshot ID: `MCxkOTBmZGY0NTE3MDg3Y2IxM2RhZmExYjgyMzZiYzkzYzFmOGU5MmI3`

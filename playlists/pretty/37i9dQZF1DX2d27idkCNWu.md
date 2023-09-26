@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,975 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,977 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 89 | [America](https://open.spotify.com/track/7AH9uEJp62zFAs2E8hvqEk) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 4:03 |
 | 90 | [New Rules \- Piano, Acoustic; Live](https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 3:29 |
 
-Snapshot ID: `MCw3NGY5ZDA0ZTYwNzE3MTM1NTZkYzAwYmI5Mzg0MzY3ZjZiYTU2Zjgw`
+Snapshot ID: `MCwwMGMwMWY1ZTU3YzdmMWE1ODE3YTRlNTY0MTgyMjRkMDhjMGJkY2Ji`

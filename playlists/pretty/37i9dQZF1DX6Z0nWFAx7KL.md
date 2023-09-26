@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,512 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,533 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 79 | [Eyes](https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Eyes](https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw) | 2:47 |
 | 80 | [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM) | 2:37 |
 
-Snapshot ID: `MCw3ZWNiNGNhYTdlNDQ2MTQzOTQ3MmJhZWZiYjI2MTA1Yzk0NDllNjA2`
+Snapshot ID: `MCw3YjUzNTRiNWQ5NDJjODA1MGE2YWY1OTE3OTJlNDFjNjQ1MzA3NmVk`

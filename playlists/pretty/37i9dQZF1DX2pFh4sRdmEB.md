@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 
 > Éxitos del Regional Mexicano de ayer y hoy para acompañarte en la troca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,514 likes - 150 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,561 likes - 150 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 | 149 | [La Loca \(En Vivo\)](https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [La Loca \(En Vivo\)](https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq) | 4:06 |
 | 150 | [Te Amo \(Para Siempre\)](https://open.spotify.com/track/6IL4kE0WnD4CfKp2me7vCa) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [En Peligro De Extinción](https://open.spotify.com/album/0nKSgzMBxxghnjJATsPm2Z) | 4:34 |
 
-Snapshot ID: `MCxhOTdmYzU1ODI4ODQ3NzBhZWUyZTVkYjNkYmEwOTEyMTVjZGViYWM2`
+Snapshot ID: `MCwzNmUyYjBiNDNhNWRkODRlMjYwYjI4NGYxN2JjODAzYjZlMDI5Y2U5`

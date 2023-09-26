@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-233 songs - 14 hr 37 min
+234 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bocadito](https://open.spotify.com/track/65RtPQhhs5tHO41skjySmV) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Bocadito](https://open.spotify.com/album/0SqDdPzU0ZW9RBLUSNiXZi) | 2:59 | 2023-01-02 | 2023-05-13 |
 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 | 2021-10-16 | 2022-07-27 |
 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 | 2022-08-19 | 2022-09-27 |
+| [Buscarte en el Tiempo](https://open.spotify.com/track/6bQwL5XYogjLGbMlbHcWx2) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Buscarte en el Tiempo](https://open.spotify.com/album/2Gb7Ntf6xZjy2l0uN5DgS3) | 4:11 | 2023-09-24 |  |
 | [Café](https://open.spotify.com/track/0J56BoNc7pCnE68bAt7ycz) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Echando pa'lante](https://open.spotify.com/album/3vA5NsIAd6UKzU4f1ooAzr) | 6:32 | 2021-10-16 | 2022-09-13 |
 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 | 2022-04-29 | 2022-07-26 |
 | [Caguamita Banquetera](https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Caguamita Banquetera](https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG) | 2:35 | 2022-09-03 | 2022-10-29 |
@@ -46,7 +47,7 @@
 | [Canto Guajiro \- Original Mix](https://open.spotify.com/track/5Hg1zZo4zCwUaTmTWmK4n4) | [Duo Marfil Morales](https://open.spotify.com/artist/27pHGWKmW80mPVIQQ47cgw) | [Canto Guajiro](https://open.spotify.com/album/5C3tu3eiuhVuGwJbeWexXW) | 3:03 | 2021-10-16 | 2022-07-24 |
 | [Caracoles](https://open.spotify.com/track/62LPrFrViLGhC31j3DWNJj) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [La Familia de Ukeleles](https://open.spotify.com/album/2dX9HpUx7txushCURxvQAj) | 3:58 | 2021-10-16 | 2022-07-29 |
 | [Chan Chan](https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Chan Chan](https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp) | 4:20 | 2022-02-11 |  |
-| [Chango](https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt) | 3:38 | 2021-10-16 |  |
+| [Chango](https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt) | 3:38 | 2021-10-16 | 2023-09-26 |
 | [Chango](https://open.spotify.com/track/41AxtTlR7ir3W9skTWyrOB) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/2eWZWaeg03fmtSWUoWYQHn) | 3:38 | 2021-10-16 | 2022-07-29 |
 | [Chango](https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA) | 3:38 | 2021-10-16 | 2022-12-14 |
 | [Chau Chau](https://open.spotify.com/track/1mLzfYBB9615JuweCqSyov) | [Chalanes del Amor](https://open.spotify.com/artist/1bRwLJQkhtCpWz5YHxPCJK) | [Zafarranchos y Aires de la Costa](https://open.spotify.com/album/4kTvoDMHSAEP2VqBdDkBJk) | 3:27 | 2021-10-16 | 2022-07-22 |

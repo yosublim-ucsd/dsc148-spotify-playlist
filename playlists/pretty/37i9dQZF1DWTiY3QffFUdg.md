@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,581 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,711 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 | 49 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 |
 | 50 | [The Parade \(Techno Remix\)](https://open.spotify.com/track/3j9RucX8VImndwic630g9w) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D) | [The Parade \(Techno Remix\)](https://open.spotify.com/album/7phtUgPQObPbFNrWOMyyiK) | 1:55 |
 
-Snapshot ID: `MCxiNWI3MGY3NWY3ZmQzNDIyOTVhOWYxZGUyYTgyMWY4YTQ3NmY3YzBi`
+Snapshot ID: `MCxhMDA1ZjVmMzMyNGM3YzU5ODYzNDYwODlmMmIwODhiNmUxNmYxOGJh`

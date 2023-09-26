@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,108 likes - 200 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,109 likes - 200 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 | 199 | [I Don't Love You](https://open.spotify.com/track/7neOIVKDsLaUXV5y84jGuY) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [STILL](https://open.spotify.com/album/58TmgciyuB1FVBk6pP18ZU) | 4:14 |
 | 200 | [Yanghwa BRDG](https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4) | 3:49 |
 
-Snapshot ID: `MCwwZTZmZjgxYjg2NjRhNThiNzdhNmQ3ODVhYWQyNzZmNDI2ZDViNzgx`
+Snapshot ID: `MCxhNWU2NDM4N2RiM2VmZGVhOGE1YTkyZmJkMDEyZWM4ODE3Zjg4OThj`

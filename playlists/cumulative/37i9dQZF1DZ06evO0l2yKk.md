@@ -4,7 +4,7 @@
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 32 min
+70 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Con Dinero Puedes](https://open.spotify.com/track/5azatzKtdWzP6EdJgRYdH4) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [La Cosecha](https://open.spotify.com/album/2wxqA2oR1vaJMJ4wRwcUW6) | 3:23 | 2022-06-01 |  |
 | [Corazón Necio](https://open.spotify.com/track/46JLfXmPxwtZQvxi3oZgvy) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [45 Éxitos \(Versiones Originales\)](https://open.spotify.com/album/23XKDOStC3Sljfjr1SjmUq) | 3:30 | 2022-06-01 |  |
 | [Cómo Te Llamas Paloma](https://open.spotify.com/track/2lUdyrpCivpQ68urv8NOhS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 3:23 | 2022-06-01 |  |
-| [De Norte a Sur](https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Desde el Sur Hasta el Norte](https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050) | 2:52 | 2022-06-01 | 2023-09-16 |
+| [De Norte a Sur](https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Desde el Sur Hasta el Norte](https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050) | 2:52 | 2022-06-01 |  |
 | [Deténgase Señora](https://open.spotify.com/track/1DLWpCeL9VvXDSrR845XFg) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Desde el Sur Hasta el Norte](https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050) | 3:04 | 2022-06-01 | 2023-03-22 |
 | [El Cariño Que Perdí](https://open.spotify.com/track/7qNOL12F5wmau4XjobGn9x) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 2:54 | 2022-06-02 |  |
 | [El Primer Tonto](https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:50 | 2022-06-01 |  |
@@ -31,7 +31,7 @@
 | [Fuego Contra Fuego](https://open.spotify.com/track/5cVL7qtcdQckPw3eHzAflP) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego \(Clásicos Digitalizados\)](https://open.spotify.com/album/5gFXqopK0GNNAwBii345i2) | 3:06 | 2022-06-01 |  |
 | [Hermoso Amor](https://open.spotify.com/track/1xJ0qqQGrsLtvgvKaGDIcd) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [El Juramento \(Edited Version\)](https://open.spotify.com/album/0JnWi3NteqjiT3bLOfxpsp) | 3:06 | 2022-06-03 | 2022-06-12 |
 | [Imposible Olvidarte](https://open.spotify.com/track/6I2krZPFigKg4hSwdMZONL) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Nuestras Favoritas](https://open.spotify.com/album/07vZR5mUrDJ84N72NuQN1u) | 2:43 | 2022-06-01 | 2022-10-26 |
-| [La Baraja](https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Espejo De Cantina](https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr) | 3:19 | 2022-06-01 |  |
+| [La Baraja](https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Espejo De Cantina](https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr) | 3:19 | 2022-06-01 | 2023-09-26 |
 | [La Chica Está Enojada](https://open.spotify.com/track/4AqXQptYKEAwnuVtGk3zyR) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 2:36 | 2022-06-11 |  |
 | [La Chica Está Enojada](https://open.spotify.com/track/4jJ8ZEnYufMHHEYOy5VmJi) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:36 | 2022-06-02 | 2022-06-12 |
 | [La Pera Madura](https://open.spotify.com/track/6W6JxljtkC2FXMMPGAI6bd) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fiesta Norteña Puras Cumbias](https://open.spotify.com/album/7dKTUMDMyCyUnAHF1L1VKG) | 2:24 | 2022-06-01 | 2022-08-17 |
@@ -53,10 +53,11 @@
 | [No Te Extraño](https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Renta Un Corazón \(Reissue\)](https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t) | 3:23 | 2022-06-01 |  |
 | [Nuevamente El Amor](https://open.spotify.com/track/3ADa5NLyUgz1mUGpJZ8ZGh) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Nuevamente El Amor](https://open.spotify.com/album/7qFy8pz6riHrOQLtFHjXcF) | 2:55 | 2023-01-05 |  |
 | [Para Olvidarme De Ti](https://open.spotify.com/track/5EF19tsYnIdHOgbbZM5muy) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:57 | 2022-06-01 |  |
-| [Paso A La Reina](https://open.spotify.com/track/3CosMMnSSNSliFKYXprv3F) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 3:31 | 2022-06-01 |  |
+| [Paso A La Reina](https://open.spotify.com/track/3CosMMnSSNSliFKYXprv3F) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 3:31 | 2022-06-01 | 2023-09-26 |
 | [Petalo Y Espinas](https://open.spotify.com/track/0wvszUhJLVAlVlVldbwBqr) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Frente A Frente "Los Grandes De Nuevo Leon Y San Luis](https://open.spotify.com/album/6e2k4pvYC1qqez6yVC4y4p) | 3:34 | 2022-10-14 | 2023-05-04 |
 | [Por Las Damas](https://open.spotify.com/track/3yg2klWupt24TGYuxeOhjS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0) | 3:08 | 2022-06-01 |  |
 | [Por las Damas Caballero](https://open.spotify.com/track/5O5Ys0jXCp1jFcrqkq54yj) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Que Nadie Sepa](https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr) | 2:47 | 2022-06-01 |  |
+| [Que Lástima](https://open.spotify.com/track/2lU7cYhoywOeIor2ksGzOY) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:52 | 2023-09-25 |  |
 | [Que Nadie Sepa](https://open.spotify.com/track/3Pj5wV8ftxWXRPK4qQbpiy) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Que Nadie Sepa](https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr) | 3:31 | 2022-06-01 |  |
 | [Quiero Que Sepas](https://open.spotify.com/track/3aeYcDlH6mSwx7Nx63D7zS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Ranchero](https://open.spotify.com/album/0AUmIwAzAwUXppgN2c7ceA) | 2:50 | 2022-06-01 |  |
 | [Qué Daría Yo](https://open.spotify.com/track/1lEWx3aB3qQJOcO6tsHZv2) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 3:32 | 2022-06-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Manuel Medrano
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,452 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,466 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Amor](https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Amor](https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu) | 2:52 |
 | 50 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 |
 
-Snapshot ID: `MCxlMTU0NzRlZGUyZDM4NmI1MzNmMGZmYjRmZmVlNDNkMTdhZjk5ODJl`
+Snapshot ID: `MCxkNjE4ZThkZGY4ODJmNDExYjQzYjcxMGU3M2ViZDM2MTFlMjI4ZjI5`

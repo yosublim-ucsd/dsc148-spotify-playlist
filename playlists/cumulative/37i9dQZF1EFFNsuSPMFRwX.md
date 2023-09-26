@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-31 songs - 1 hr 52 min
+32 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Paid In Full](https://open.spotify.com/track/1RQ38nLe5BiB6SneqIPCpZ) | [DJ Bubba](https://open.spotify.com/artist/38hnmRmRWrRibnjmtQQ91Y), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [P1](https://open.spotify.com/artist/5JsVRWPRBOzxoPOWPIdGTc), [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv) | [Paid In Full](https://open.spotify.com/album/6U0isZJ2ryGi3YfoH6shvG) | 2:51 | 2023-03-19 |  |
 | [Power of Money \(feat\. Ink\)](https://open.spotify.com/track/26z0PyPWLQNDByatk2GRuJ) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Ink](https://open.spotify.com/artist/3Fv2hilkIgkziuz8U1LeJk) | [White Friday \(CM9\)](https://open.spotify.com/album/2NLkWfzw3YmRGBhqPqtAvW) | 3:44 | 2023-07-13 |  |
 | [Pressure](https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Pressure](https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU) | 2:36 | 2022-05-25 |  |
-| [Real Hitta \(feat\. Kodak Black\)](https://open.spotify.com/track/1fnRwgZLgAYMM1dVL1oqwG) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Real Hitta \(feat\. Kodak Black\)](https://open.spotify.com/album/2WrruSvj5i3k5j7xlQEaX6) | 3:51 | 2022-10-25 |  |
+| [Real Hitta](https://open.spotify.com/track/2fV5eoefzQlpRBpIGiRbeo) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [FEMA \(Finesse Elevate Motivate Achieve\)](https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0) | 3:51 | 2023-09-25 |  |
+| [Real Hitta \(feat\. Kodak Black\)](https://open.spotify.com/track/1fnRwgZLgAYMM1dVL1oqwG) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Real Hitta \(feat\. Kodak Black\)](https://open.spotify.com/album/2WrruSvj5i3k5j7xlQEaX6) | 3:51 | 2022-10-25 | 2023-09-26 |
 | [Ride](https://open.spotify.com/track/5hJb8AP76Z82b8ThCDJeOq) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [The Golden Child](https://open.spotify.com/album/52iN0AN48yBH5pF6C65ZmI) | 3:25 | 2022-05-25 |  |
 | [Sho Nuff](https://open.spotify.com/track/7BGgytgNrpGXHh00yzOHGx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:07 | 2022-05-25 |  |
 | [Smokey Mirrors](https://open.spotify.com/track/595nKxCNnFgftXqRFNy7E0) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:10 | 2022-05-25 |  |

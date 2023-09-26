@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,496 likes - 125 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,512 likes - 125 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 124 | [Circle Game](https://open.spotify.com/track/1nznIr3ZHzQFYoQZ6s98ri) | [Lauren Bush](https://open.spotify.com/artist/0voLSXF4pGAKwcDXctLdLD) | [Circle Game](https://open.spotify.com/album/1zI5sP4mAW9p0eQsEMQSNi) | 5:49 |
 | 125 | [Simple Twist Of Fate](https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 3:49 |
 
-Snapshot ID: `MCxlZDg5MzBmZTBhMzYxODk3MmJjMDQ5NTM2ZDE2NjIzOWUyYTkwOGVj`
+Snapshot ID: `MCw0YmQxYjUyYTQ5YzRiZjhiNGRmNDEyMTk5ZTc4YWJhMmIwNzcwODFh`

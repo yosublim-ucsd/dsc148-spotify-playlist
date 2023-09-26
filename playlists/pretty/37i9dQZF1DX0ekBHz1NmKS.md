@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,925 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,931 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Say That Everything Will Be Alright \(Music for ''Thin Blue Line''\)](https://open.spotify.com/track/0EA61Q5q4scc29VfvnmAgO) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7), [Irya Gmeyner](https://open.spotify.com/artist/3No4e9xTmvsjOeORRfPi6x) | [Say That Everything Will Be Alright \(Music for ''Thin Blue Line''\)](https://open.spotify.com/album/0XmKdoMNtmqDp5oYJrXhMm) | 3:32 |
 | 100 | [Grammofon](https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Grammofon](https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2) | 3:09 |
 
-Snapshot ID: `MCxhNjQ0ZjFkMTQwNzMyODM1M2I5NTU0YTFkNTk0NGNiYzBkODAyOTU5`
+Snapshot ID: `MCwxYzllMjg0MGExYjRlNGM3ODI4NTk5YjYyYTJiZjk1MDg4ZmE0ODYz`

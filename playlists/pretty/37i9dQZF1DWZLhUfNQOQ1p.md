@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un Negroni in mano\. 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,655 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,686 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 99 | [Closer](https://open.spotify.com/track/7mJvI2K63TtchC9Eyiia9W) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Beaubien Dream](https://open.spotify.com/album/1LEWPND2aRAZNw0U8qyqGJ) | 6:57 |
 | 100 | [Mandala](https://open.spotify.com/track/2gSQxp5MPT7O25IZh8xcGO) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 3:01 |
 
-Snapshot ID: `MCxhOWZjOWU5NTNkMWM1Yzk4OTNlODQyN2RmOThlNTdlZWIxNGZjZDhm`
+Snapshot ID: `MCxiZWZiODY5NTEzMzZhZWE4NWY5MzEzNTc5YzlkMTc0YTMzODkxNDgz`

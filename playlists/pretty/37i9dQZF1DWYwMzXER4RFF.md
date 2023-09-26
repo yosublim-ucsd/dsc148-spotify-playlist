@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,321 likes - 55 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,342 likes - 55 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Pour Another](https://open.spotify.com/track/5BvpTVOBtKADtK5LAOgX4g) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:20 |
 | 55 | [Nah, That Ain't It](https://open.spotify.com/track/38TaGhJuDI9mXDCCA3FxyI) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:46 |
 
-Snapshot ID: `MCwwODEzYzQzMWNhNDkwYzE0MDMzMWY2Y2IwZTA4NmI0ZDE1Y2UzNDFj`
+Snapshot ID: `MCxkYjU3MTdiNTM3ZTU1YTIyOWY0MjdmYjJiNGE0NWQyZDZlNjhiOGM3`

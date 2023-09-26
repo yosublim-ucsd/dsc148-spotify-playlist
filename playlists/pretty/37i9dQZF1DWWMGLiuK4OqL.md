@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,015 likes - 200 songs - 13 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,034 likes - 200 songs - 13 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Careless Whisper](https://open.spotify.com/track/3ye2omDBPm3MpR3aQDbfA7) | [Julio Iglesias Jr](https://open.spotify.com/artist/3GjoS8zAETCfiBvgfvlpGm), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Under the Covers](https://open.spotify.com/album/2n1QUTdi2StG378HUORudq) | 4:56 |
 | 200 | [Midnight Sun](https://open.spotify.com/track/0EHpaJqVGopZF1FDCqGHRn) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Kelly Green](https://open.spotify.com/artist/6MGNhzLevHtkeVTcwNpTmZ) | [AURORA BOREALIS](https://open.spotify.com/album/1oAE9OBFqOn0ZJbSkEVynT) | 4:42 |
 
-Snapshot ID: `MCxmNGRmMGRkNTZmYWE4Mzc2NDA4NThhOTViYWUwMWFmYTgzMmNiZGU4`
+Snapshot ID: `MCxiNGYzMDZlOTlmM2E1MDdhNzQwYjY4OGM5N2UxMWU4ZjI4YWU5Mzc0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass\. Cover: JVNA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,705 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,727 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 149 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 |
 | 150 | [Dystopia](https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Hope In Chaos](https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt) | 3:13 |
 
-Snapshot ID: `MCw3NjUxZjEwNTAwNjY5MGMwNjliMmY0MjUzMDVkMmY3ODljNzc3YTA3`
+Snapshot ID: `MCxmNGU2MDkyMmVhMDNmZWM2ZTBhN2Y0NGZjYWExODUxMTBmNDdkMjg3`

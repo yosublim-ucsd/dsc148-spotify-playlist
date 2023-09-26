@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: ENZO
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,645 likes - 93 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,662 likes - 93 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 92 | [KEEP IT SIMPLE STUPID.](https://open.spotify.com/track/73cpGMjBQ72ZTKWR5HKFJN) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [KEEP IT SIMPLE STUPID.](https://open.spotify.com/album/60rjnM5uwVnhfmnssO5GwY) | 2:28 |
 | 93 | [MR LUCKY](https://open.spotify.com/track/3QyF6ighoWEbCubJ4E0TuM) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [MR LUCKY](https://open.spotify.com/album/7M51f0iWJMOsBYWShOVYkb) | 2:38 |
 
-Snapshot ID: `MCwyNDFkYTY3ODk4NWYwZmZkM2EyMzIzZmVkYTNjZjFmZmU2YWIwZDI1`
+Snapshot ID: `MCw2NmIzYWU0ZGU1MGJmNTBmMGNkZjQ4M2U1ODEzMTdiZjdmYzdhNzdm`

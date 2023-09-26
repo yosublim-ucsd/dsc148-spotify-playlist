@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWiyE9VDkCO.md) - [plain]
 
 > Hits zum Tanzen und Mitsingen \- von damals bis heute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,482 likes - 150 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,473 likes - 150 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWiyE9VDkCO.md) - [plain]
 | 149 | [What's Love Got to Do with It](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It](https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno) | 3:28 |
 | 150 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 |
 
-Snapshot ID: `MCxiMmYyN2Q4ZjQ1NzZhZWUxNTJjZTlmMzVhOTZiY2E5NTNmZGM2YmE0`
+Snapshot ID: `MCwzYTc0OTUzOTI2YTc4YzJiZjY0NzJiMjc1Mzc0NDgwYTNmODJiYTVj`

@@ -4,7 +4,7 @@
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-68 songs - 5 hr 53 min
+69 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Amandrai \(with Ry Cooder\)](https://open.spotify.com/track/4wHbmF84ypSrqSdOBVHPLR) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 9:23 | 2022-06-22 | 2022-10-06 |
 | [ASCO](https://open.spotify.com/track/21blxUn7Ttcrj5iPpNz1DH) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 5:49 | 2021-12-28 |  |
 | [Bandolobourou \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/08GUN9ZldEFK7tUjEE4wcA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 6:32 | 2023-03-12 |  |
+| [Banga \(with Ry Cooder\)](https://open.spotify.com/track/5vVCBgdymto1nkFyTOHEO4) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 2:32 | 2023-09-25 |  |
 | [Be Mankan](https://open.spotify.com/track/7CA7jcMHe5pnXA7QQmgGBR) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 5:06 | 2021-12-28 |  |
 | [Beto](https://open.spotify.com/track/3Jzc8txMyjGj0OQU1DsEl6) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 4:45 | 2021-12-28 | 2023-03-20 |
 | [Bonde \(with Ry Cooder\)](https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 5:24 | 2021-12-28 |  |
@@ -44,7 +45,7 @@
 | [Kenouna](https://open.spotify.com/track/7duw8z4D3A66llLyquL7ra) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 3:23 | 2023-03-12 |  |
 | [Kenouna](https://open.spotify.com/track/3Ddx0d6CGil3D7AfvrwTV4) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 5:02 | 2021-12-28 | 2023-03-06 |
 | [Kombo Galia](https://open.spotify.com/track/05cF4pOa6TdLPG153zWJif) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 4:27 | 2023-03-12 | 2023-03-18 |
-| [Lasidan \(with Ry Cooder\)](https://open.spotify.com/track/6Yq9dTtHeuMkvnfcEZZFex) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 6:06 | 2021-12-28 |  |
+| [Lasidan \(with Ry Cooder\)](https://open.spotify.com/track/6Yq9dTtHeuMkvnfcEZZFex) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 6:06 | 2021-12-28 | 2023-09-26 |
 | [Ledi Coumbe](https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 3:14 | 2021-12-28 |  |
 | [Mahini Me \(feat\. Taj Mahal\) \- 2017 Remastered Version](https://open.spotify.com/track/1No6xpDnfTqDIpON5Zqnmd) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 5:24 | 2021-12-28 |  |
 | [Malahani](https://open.spotify.com/track/0cW9utrnFumH3YpcBNVAYC) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 3:59 | 2023-03-11 |  |

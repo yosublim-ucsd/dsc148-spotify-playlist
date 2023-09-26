@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: FRVRFRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,702 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,704 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Repeat](https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Repeat](https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG) | 3:28 |
 | 75 | [Alejandro Sosa](https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Alejandro Sosa](https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF) | 2:43 |
 
-Snapshot ID: `MCxiZDMxMGY4ZDc2MjUwMjk2YWYzMWY5M2NiZTE1Yjk5YzM0Y2UwZjM3`
+Snapshot ID: `MCxhMmFkMjBkMDMyODdlNTIxYmZjMDc3NzVkODFlNWQ0N2I1ZDlkOWZm`

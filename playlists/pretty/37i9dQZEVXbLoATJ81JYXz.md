@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLoATJ81JYXz.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,308 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,311 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLoATJ81JYXz.md) - [plain]
 | 49 | [En lampa i mässing](https://open.spotify.com/track/4BJP5hoJG1UXiPTnyEQNFg) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Neutronstjärnan](https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx) | 4:16 |
 | 50 | [Vill va med dig](https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Vill va med dig](https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI) | 2:48 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

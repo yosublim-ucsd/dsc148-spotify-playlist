@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,219 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,225 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 99 | [Querida](https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Querida](https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7) | 3:13 |
 | 100 | [Se Me Olvido Otra Vez](https://open.spotify.com/track/2BJXH3hopfuJy4dTrb1gwj) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 3:01 |
 
-Snapshot ID: `MCw0YjIxOTFiNGE3ZDQwZGU3YWFlZmI2YmRhN2FkNzYxYTlhYzYyNTU2`
+Snapshot ID: `MCxjODBlM2E0MmY1YmEwMDAyZTVlYjgyNTUxMGVmMzg3YmQwMTlkOTUw`

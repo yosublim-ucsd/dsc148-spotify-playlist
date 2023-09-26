@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,860 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,872 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 99 | [Rottami](https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau) | [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax), [Redys](https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1) | [Rottami](https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U) | 3:19 |
 | 100 | [Fragili](https://open.spotify.com/track/6Y1wgVdi0sJ6JVM9rnL26K) | [Hoomor](https://open.spotify.com/artist/4cNN5QXGRFL9VBGGpO85O8), [Nidya](https://open.spotify.com/artist/0lgeMbRvndhRe5ViRT1h3S) | [Fragili](https://open.spotify.com/album/6ixktzZ4cFQkeewHAY8fjY) | 2:47 |
 
-Snapshot ID: `MCxmYzA1N2E4YmZhNzZiYmY1MTA4YTg0NjU1NzRkNmM1OWM4ZmM0ZTg3`
+Snapshot ID: `MCxmOWJkMGY5MmEyNzljMGY1NmYxZWU5MDc1ZWE0YWIwMDJkZTg0NTAx`

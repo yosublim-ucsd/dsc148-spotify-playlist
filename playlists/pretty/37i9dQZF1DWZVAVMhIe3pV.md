@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,436 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,471 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 74 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 |
 | 75 | [Whatever](https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Godsmack](https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM) | 3:26 |
 
-Snapshot ID: `MCwxZTIxZmJlMDgyOTY4NDA1MjU2MThlZjE3MWZhNDY4MjJhN2NkNDMz`
+Snapshot ID: `MCwzZGU2NTQ1NTg4MzVkNWI0NWI3MWNjMmI2ZTM5ODMzOGRkMTMzNTRl`

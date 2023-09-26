@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,394 likes - 69 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,444 likes - 69 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 68 | [Acapulco, dos de la tard](https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap) | [Coopers](https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph) | [Heavenly Sweetness Sampler \#3](https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX) | 3:04 |
 | 69 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 |
 
-Snapshot ID: `MCxlNjM1MDg5MGY5Nzg3ZTIwMzNjM2ViMzEwNTRjMzY3MTcxZWU5YWVi`
+Snapshot ID: `MCw2MmJkZjM2ZDllYzAzY2U1NTNhNTY1MjFjZmE3ODNhNDMwZTFkODYy`

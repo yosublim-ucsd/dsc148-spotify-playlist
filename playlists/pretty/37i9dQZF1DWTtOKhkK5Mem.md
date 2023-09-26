@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,865 likes - 150 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,900 likes - 150 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 149 | [Tuesdays](https://open.spotify.com/track/7r5cRFkwHuPy7HlzvuovLD) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Tuesdays](https://open.spotify.com/album/3DIMaIqQvaGXaYJMFT9LbD) | 3:36 |
 | 150 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 
-Snapshot ID: `MCw1YzEyNzBhZDYyMDFlMWQ0MmRkN2ViOWNjNjNkNjU0MDQwNzgyN2Ri`
+Snapshot ID: `MCw1YWNkY2IwMGFkMzA0NjFiYzU2ZWU3OGJiNjE4YTRlMDViMzhkZmQ4`

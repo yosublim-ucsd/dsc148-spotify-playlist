@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,890 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,905 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 99 | [Welk](https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Dolores](https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79) | 6:18 |
 | 100 | [Ripple and Fade](https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:17 |
 
-Snapshot ID: `MCxmNDc3ZWJjYzFmYjhiY2Y4MGZlYTMyYjNhMTY5OGUxM2RhOWI3NjQ5`
+Snapshot ID: `MCxiZTljOWYxNjA4YTAzMzNmYTM5ZDY0NTkxZDMxODExZTEyMWJiODc5`

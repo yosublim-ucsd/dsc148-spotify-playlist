@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=bfXr3vDaTPC87asGTsjBnQ"> Ayra Starr </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,193 likes - 69 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,305 likes - 69 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 68 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 |
 | 69 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 |
 
-Snapshot ID: `MCxmNTJkOTAzNGU1ZDk5ZjBhNzRmNDg5N2EzMWQ3YzY5N2M3YjcxMWMz`
+Snapshot ID: `MCw1YmRiZTMxNDU5NTRkMDlhMGM3NDBmZGYwMDFjNmMyMjFjNWI2YTc2`

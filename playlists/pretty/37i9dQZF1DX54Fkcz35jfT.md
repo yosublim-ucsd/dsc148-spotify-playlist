@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: NOISEMAKER
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,138 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,148 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 99 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 |
 | 100 | [Futurism](https://open.spotify.com/track/0JsP5I1JItAZYlOfCXnaax) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Futurism](https://open.spotify.com/album/6xj3q3QLSFJkqaBX3B9CYM) | 3:26 |
 
-Snapshot ID: `MCw4YjJhOWU1M2IxODlkODYyMGM0ZGRmMmZkZDRkOTY3YmRiNmI5YzFi`
+Snapshot ID: `MCwzNWY5ZDBkZmM2ODYzOTc5NmRmOTA3NDk2YTY3YmViOTFkZDM4ZTg1`

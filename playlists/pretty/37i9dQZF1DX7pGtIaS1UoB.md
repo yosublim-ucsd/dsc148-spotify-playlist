@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,921 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,932 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 74 | [星星都聽懂 \(W劇場《因為你如此耀眼》插曲\)](https://open.spotify.com/track/5uvleLnm4RYiJvoMwZtziI) | [九澤CP](https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR) | [星星都聽懂](https://open.spotify.com/album/7JBgAdKg5VOiQAf0d0jX0s) | 3:08 |
 | 75 | [借你的肩膀躺一下](https://open.spotify.com/track/3kco33fBIV5l0OLAOzfUXT) | [Jestinna Kuan](https://open.spotify.com/artist/35UUUH8eyqBKGB8iS2eXz2), [Danny Lee](https://open.spotify.com/artist/5FIJ4cSTtEIEyqyzuhP6W6) | [借你的肩膀躺一下](https://open.spotify.com/album/4VvEvvuu0FCPWwyljSkIne) | 3:08 |
 
-Snapshot ID: `MCw5ZGZhY2QyODY3ZDRlMzc5NjM0MWZiZGVjZDliYjcxYTU2ZTQ4NDE5`
+Snapshot ID: `MCw5MTc3OGJjNDUyYWFkNDNmMzkxYjc1ZjVkNGE1YjExNzkzYjkzY2Q3`

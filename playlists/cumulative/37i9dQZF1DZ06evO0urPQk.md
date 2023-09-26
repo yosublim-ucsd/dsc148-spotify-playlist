@@ -4,7 +4,7 @@
 
 > This is Nana Mizuki\. The essential tracks, all in one playlist.
 
-98 songs - 6 hr 58 min
+99 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [STARTING NOW!](https://open.spotify.com/track/3hAyDY3024JUVmiIaBpcz0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 3:28 | 2022-06-09 | 2022-12-30 |
 | [still in the groove](https://open.spotify.com/track/2s7GsHpgF9GTA6Hfc53FUK) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DREAM SKIPPER](https://open.spotify.com/album/38Va1ns3qc0w6juNJeEaWs) | 4:30 | 2023-09-12 |  |
 | [suddenly\~巡り合えて\~](https://open.spotify.com/track/3Vmcy6TdOR1zYQeNDFzTcV) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM](https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT) | 4:31 | 2022-06-09 | 2022-09-17 |
+| [Sweet Dealer](https://open.spotify.com/track/4IjnYMOjXRejldCjJrKk8A) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 3:46 | 2023-09-25 |  |
 | [Synchrogazer](https://open.spotify.com/track/69QNXJNXFddfmzcz0mDB6m) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:27 | 2022-06-09 |  |
 | [Synchrogazer\-Aufwachen Form\-](https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ROCKBOUND NEIGHBORS](https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP) | 5:21 | 2023-02-05 |  |
 | [Take a shot](https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ALIVE&KICKING](https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i) | 4:10 | 2022-06-09 |  |
@@ -95,7 +96,7 @@
 | [天空のカナリア](https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [夢幻](https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF) | 3:59 | 2022-06-09 |  |
 | [恋の抑止力\-type EXCITER\-](https://open.spotify.com/track/4THfcBq4kEdHsTOEqcbrmW) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [IMPACT EXCITER](https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA) | 4:56 | 2022-06-09 |  |
 | [恋想花火](https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [STARTING NOW!](https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS) | 5:06 | 2023-07-15 |  |
-| [残光のガイア](https://open.spotify.com/track/63dhwEm9fMJBnjyZ8dTJaT) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [HYBRID UNIVERSE](https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk) | 4:05 | 2023-09-18 |  |
+| [残光のガイア](https://open.spotify.com/track/63dhwEm9fMJBnjyZ8dTJaT) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [HYBRID UNIVERSE](https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk) | 4:05 | 2023-09-18 | 2023-09-26 |
 | [深愛](https://open.spotify.com/track/0gsI8ofrtQ7EWU2LTHlhmd) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:56 | 2022-06-09 |  |
 | [禁断のレジスタンス](https://open.spotify.com/track/1Ri399EucsujfZgNZ6jyfe) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:25 | 2022-06-09 |  |
 | [粋恋](https://open.spotify.com/track/4QnAK7vQVJ6IV7RHWuTD6Q) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 5:03 | 2022-08-05 | 2022-08-20 |

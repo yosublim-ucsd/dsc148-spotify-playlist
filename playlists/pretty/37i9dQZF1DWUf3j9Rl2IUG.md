@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ?si=prRrjUtGQxujNJuF3xT1rA">Sarz </a> and <a href="https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb?si=QFltAuFqR8\-u3XDwv85AeQ"> Crayon </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,054 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,081 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 79 | [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 |
 | 80 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 |
 
-Snapshot ID: `MCxkNDMzMDI2ZjBiYjhmMWZiMWQ3ODM3YTA5MDM5ZjdkN2I3MDRmMTQ0`
+Snapshot ID: `MCxlZDMxZjI4OGVhNTUzMTc5ZGRmNzlmZTFmYzQ2NDU1M2Q1MWE1NzFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,652 likes - 150 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,653 likes - 150 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/track/15iXq47g33NYpcjIvA5Phr) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/album/6DM0NT7VUfcnSHX14gGMSP) | 4:39 |
 | 150 | [Glory To You In The Highest \(O Come Let Us Adore\)](https://open.spotify.com/track/0QRDvMDcInrXSODsTQ6h7O) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [These Christmas Lights](https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a) | 5:16 |
 
-Snapshot ID: `MCw2ZDA4NmNlOGEyNmY5MzhmYmNiYTgxYWE5YjVkZDNiZjMxNTI0NTkw`
+Snapshot ID: `MCwzZjU3MGM0YzAyOWU2ZmZmMmQ3OWIwYjlmZTVlZjcxN2U0Y2IzY2Ex`

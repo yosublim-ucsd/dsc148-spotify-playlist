@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music bangers for your gaming session! Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,902 likes - 150 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,920 likes - 150 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 | 149 | [Aprendí](https://open.spotify.com/track/2TfTcErMx9XRqbOIt1nJvS) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Aprendí](https://open.spotify.com/album/2iH6PY5UmsbSumzhHvfjk1) | 4:08 |
 | 150 | [Guaro](https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Guaro](https://open.spotify.com/album/1D8eQxCxhoMcNB7XwNl468) | 1:58 |
 
-Snapshot ID: `MCxjYzEzYjU4OGE3OGUwMjJjNDgxZGI4MTkxMTc2NjUwODY5YTI3OTQ4`
+Snapshot ID: `MCxhYzhjOGQ3ZmYwN2M2MmI4MTg0MDhhZjMwY2VjZGQxM2FhMDg5OWM2`

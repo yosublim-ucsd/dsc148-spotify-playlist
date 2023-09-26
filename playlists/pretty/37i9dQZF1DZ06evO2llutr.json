@@ -1,15 +1,35 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 263253,
+  "num_followers": 267129,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNTUwMDUsMDAwMDAwMDAwNTI0MjkzMDA5ODYyMTJjZjBkMjQ0YzJlYWVjMjg1ZQ==",
+  "snapshot_id": "MjgyNjA3MzcsMDAwMDAwMDBhYzdmNjY0NmQ0MTk1OWRkN2U5YjJjNTMyZWJjZWI5NQ==",
   "tracks": [
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1vhbThkFnqAHbZp0fEjXE4"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -29,23 +49,7 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 189053,
-      "name": "Tourniquet",
-      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
@@ -61,23 +65,7 @@
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "East Side of Sorrow",
-      "url": "https://open.spotify.com/track/00syWkRGIVQvYsg2OwfBUw"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Heading South",
         "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
@@ -93,7 +81,7 @@
       "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "American Heartbreak",
         "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
@@ -109,7 +97,23 @@
       "url": "https://open.spotify.com/track/1SjsVdSXpwm1kTdYEHoPIT"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "Tourniquet",
+      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
@@ -125,27 +129,7 @@
       "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 227466,
-      "name": "Hey Driver (feat. The War and Treaty)",
-      "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Dawns (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
@@ -165,7 +149,7 @@
       "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Burn, Burn, Burn",
         "url": "https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR"
@@ -181,7 +165,23 @@
       "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "East Side of Sorrow",
+      "url": "https://open.spotify.com/track/00syWkRGIVQvYsg2OwfBUw"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Elisabeth",
         "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
@@ -197,7 +197,111 @@
       "url": "https://open.spotify.com/track/2QfX9Pdz3q66fN3kCXl0Js"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 161799,
+      "name": "Motorcycle Drive By",
+      "url": "https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "The Greatest Day of My Life",
+        "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 178151,
+      "name": "Fifth of May",
+      "url": "https://open.spotify.com/track/1wLNEMiUzwvRZz9XHCXhAE"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 227466,
+      "name": "Hey Driver (feat. The War and Treaty)",
+      "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 211315,
+      "name": "The Good I'll Do",
+      "url": "https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 170824,
+      "name": "Boys Of Faith (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/6pRRHgDjfIGhTUCGlHX2p8"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 174673,
+      "name": "Condemned",
+      "url": "https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -217,103 +321,7 @@
       "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 161799,
-      "name": "Motorcycle Drive By",
-      "url": "https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "The Greatest Day of My Life",
-        "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 178151,
-      "name": "Fifth of May",
-      "url": "https://open.spotify.com/track/1wLNEMiUzwvRZz9XHCXhAE"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 211315,
-      "name": "The Good I'll Do",
-      "url": "https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 171426,
-      "name": "Fear and Friday's",
-      "url": "https://open.spotify.com/track/0GMiRrUnQuoGddKMsxGPIZ"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "DeAnn",
-        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 174673,
-      "name": "Condemned",
-      "url": "https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "All the Time",
-      "url": "https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "American Heartbreak",
         "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
@@ -329,10 +337,10 @@
       "url": "https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
       },
       "artists": [
         {
@@ -340,28 +348,12 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 242200,
-      "name": "Ticking",
-      "url": "https://open.spotify.com/track/1HwDRgozGBMyfJTQUfz09A"
+      "duration_ms": 169940,
+      "name": "Nine Ball",
+      "url": "https://open.spotify.com/track/3xOi0YhDREKRURFHoNaAOQ"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "DeAnn",
-        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Snow",
-      "url": "https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
@@ -372,12 +364,28 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 220885,
-      "name": "Quittin' Time",
-      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+      "duration_ms": 199500,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 171426,
+      "name": "Fear and Friday's",
+      "url": "https://open.spotify.com/track/0GMiRrUnQuoGddKMsxGPIZ"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "American Heartbreak",
         "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
@@ -393,10 +401,10 @@
       "url": "https://open.spotify.com/track/6k07Z7rd9og1FvRJD2n9E8"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
       },
       "artists": [
         {
@@ -404,15 +412,15 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 186186,
-      "name": "Summertime's Close",
-      "url": "https://open.spotify.com/track/7eOuUmpnHBlg5zsm8Cs7c3"
+      "duration_ms": 211194,
+      "name": "Deep Satin",
+      "url": "https://open.spotify.com/track/1u2Fe70Qm9VFCIMPWFlfc1"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
       },
       "artists": [
         {
@@ -420,12 +428,12 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 209089,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d"
+      "duration_ms": 178573,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
@@ -436,12 +444,12 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 166341,
-      "name": "Us Then",
-      "url": "https://open.spotify.com/track/6K155OgCAeWxx4Be2kHkym"
+      "duration_ms": 220885,
+      "name": "Quittin' Time",
+      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "American Heartbreak",
         "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
@@ -457,7 +465,23 @@
       "url": "https://open.spotify.com/track/1TsiwVwHhLgVK8sxBchINM"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 209089,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/5k7tvONUJjP2aTxI6BBCo0"
@@ -473,10 +497,10 @@
       "url": "https://open.spotify.com/track/0qoSVsQJOTINFkkux2lbJj"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
       "artists": [
         {
@@ -484,12 +508,12 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 243709,
-      "name": "November Air",
-      "url": "https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm"
+      "duration_ms": 166341,
+      "name": "Us Then",
+      "url": "https://open.spotify.com/track/6K155OgCAeWxx4Be2kHkym"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "DeAnn",
         "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
@@ -505,7 +529,23 @@
       "url": "https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 243709,
+      "name": "November Air",
+      "url": "https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "American Heartbreak",
         "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
@@ -521,7 +561,7 @@
       "url": "https://open.spotify.com/track/6b8LUVmacXlMUl4wRtCD2S"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Elisabeth",
         "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
@@ -537,23 +577,7 @@
       "url": "https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 197211,
-      "name": "Traveling Man",
-      "url": "https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "DeAnn",
         "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
@@ -569,7 +593,23 @@
       "url": "https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 197211,
+      "name": "Traveling Man",
+      "url": "https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "The Greatest Day of My Life",
         "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
@@ -585,7 +625,7 @@
       "url": "https://open.spotify.com/track/2leovgVrJjIhnm85tKTemI"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Elisabeth",
         "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
@@ -601,23 +641,7 @@
       "url": "https://open.spotify.com/track/4cA2NmoE75r4yU7oeq4QGG"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Crooked Teeth",
-      "url": "https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "DeAnn",
         "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
@@ -633,7 +657,23 @@
       "url": "https://open.spotify.com/track/7oPTiW1fZyvIPeYOZTY4Wh"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Crooked Teeth",
+      "url": "https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
@@ -649,7 +689,7 @@
       "url": "https://open.spotify.com/track/6W2PvnTNWUgxCJxRh84ALu"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Elisabeth",
         "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
@@ -665,23 +705,7 @@
       "url": "https://open.spotify.com/track/6N7FFwu2DQer3wB7rEmm6u"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 206416,
-      "name": "Birmingham",
-      "url": "https://open.spotify.com/track/7DyMTd5uNSi6ioB6z5BGtG"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "DeAnn",
         "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
@@ -697,7 +721,23 @@
       "url": "https://open.spotify.com/track/1lGtn2Y4XarLIKdgoAeUdU"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 206416,
+      "name": "Birmingham",
+      "url": "https://open.spotify.com/track/7DyMTd5uNSi6ioB6z5BGtG"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Studio A Recordings (Live)",
         "url": "https://open.spotify.com/album/6K77XaXUfKyBHyow6u7XPl"
@@ -713,7 +753,23 @@
       "url": "https://open.spotify.com/track/3y8HeC82z6JzIcnLEj0GcO"
     },
     {
-      "added_at": "2023-09-21 12:45:18",
+      "added_at": "2023-09-25 12:17:18",
+      "album": {
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 195739,
+      "name": "Pain, Sweet, Pain",
+      "url": "https://open.spotify.com/track/4KaCwku7yZUrDRcOc9rMmQ"
+    },
+    {
+      "added_at": "2023-09-25 12:17:18",
       "album": {
         "name": "Elisabeth",
         "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
@@ -727,22 +783,6 @@
       "duration_ms": 285885,
       "name": "Come as You Are",
       "url": "https://open.spotify.com/track/3j611OSMDlz3IYsJNGj0BY"
-    },
-    {
-      "added_at": "2023-09-21 12:45:18",
-      "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 174255,
-      "name": "Quiet, Heavy Dreams",
-      "url": "https://open.spotify.com/track/3JGqdP88wrRe9QEVCDHQv9"
     }
   ],
   "unique_name": "This Is Zach Bryan",

@@ -779,6 +779,28 @@
     },
     {
       "album": {
+        "name": "cartulinas de colores",
+        "url": "https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159765,
+      "name": "cartulinas de colores",
+      "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
+    },
+    {
+      "album": {
         "name": "Casa en Llamas",
         "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
       },
@@ -2694,7 +2716,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 180400,
       "name": "Lenguaje Universal",
       "url": "https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit"
@@ -2831,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Jard\u00edn de las Almas",
+        "url": "https://open.spotify.com/album/6qNDuK7TXMUK0aTKsyevYT"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224727,
+      "name": "Mandala",
+      "url": "https://open.spotify.com/track/3Lebs7ERP0ILzr80u9UReL"
+    },
+    {
+      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/70Z8xKdGHaTHiBjW0aF6rP"
       },
@@ -2904,7 +2944,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 182406,
       "name": "Me Gustas Tanto",
       "url": "https://open.spotify.com/track/7fMshHtynGehLu7eVQj1hO"
@@ -3931,6 +3971,28 @@
     },
     {
       "album": {
+        "name": "Prendas Nuevas",
+        "url": "https://open.spotify.com/album/0dRuyWtNthFiwfM054JJ10"
+      },
+      "artists": [
+        {
+          "name": "k onda",
+          "url": "https://open.spotify.com/artist/71W0pSc6iDkFYwoFL7fUJE"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Prendas Nuevas",
+      "url": "https://open.spotify.com/track/39e0dif18KfsiW3XI7CLlN"
+    },
+    {
+      "album": {
         "name": "Prometimos No Hablar",
         "url": "https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU"
       },
@@ -4036,7 +4098,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 203761,
       "name": "Quiz\u00e1s (La Historia de Nosotros)",
       "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"

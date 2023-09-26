@@ -9,8 +9,8 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [8](https://open.spotify.com/track/45iu2YJlNayNlBaJjZWJ2z) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 3:08 | 2022-10-25 | 2022-12-27 |
-| [Abandoned Driveways](https://open.spotify.com/track/0PBhQRL2CdOZhBgIL3dzqK) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 2:42 | 2023-04-25 | 2023-09-19 |
-| [Bad Frequencies](https://open.spotify.com/track/29v2Qn7tZmePBZQ6J4OwNt) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 2:49 | 2022-10-25 |  |
+| [Abandoned Driveways](https://open.spotify.com/track/0PBhQRL2CdOZhBgIL3dzqK) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 2:42 | 2023-04-25 |  |
+| [Bad Frequencies](https://open.spotify.com/track/29v2Qn7tZmePBZQ6J4OwNt) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 2:49 | 2022-10-25 | 2023-09-26 |
 | [Blue Burns Orange](https://open.spotify.com/track/5w2Y1wj3QU8jHNj3WLei02) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 3:19 | 2022-10-25 |  |
 | [Bring You Back](https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 3:22 | 2022-10-25 |  |
 | [Broken Man](https://open.spotify.com/track/4xAfOFbarKIYjpoQCXAMRP) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 2:51 | 2022-10-25 |  |

@@ -1,31 +1,15 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 19262,
+  "num_followers": 19300,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNTUwMDQsMDAwMDAwMDA3NjIxMDY4MTYzMWNjZDM2OTQ4NGMzMTI1NTVkYjgxZA==",
+  "snapshot_id": "MjgyNjA3MzYsMDAwMDAwMDA5Y2M0NTg2MjM2NDZjMzEzODlkNmY0M2UxNGNjMjg5Yg==",
   "tracks": [
     {
-      "added_at": "2023-09-21 12:44:46",
-      "album": {
-        "name": "Old Man Emu",
-        "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "True Blue",
-      "url": "https://open.spotify.com/track/2MGZFL6kqsXxXojlm64BUn"
-    },
-    {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "J.W.'s Family Album",
         "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/3FYDkfPfPwFREohfO9uUel"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
+      "album": {
+        "name": "Old Man Emu",
+        "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/2MGZFL6kqsXxXojlm64BUn"
+    },
+    {
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Warragul",
         "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2b56dVNyNzRDP01lM3b8n0"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
@@ -73,23 +73,7 @@
       "url": "https://open.spotify.com/track/4RZXrZvFHCZY8BOQG2JzAK"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
-      "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Goondiwindi Pork",
-      "url": "https://open.spotify.com/track/0dvoVIjcF2xszyR0A4gfx8"
-    },
-    {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "J.W.'s Family Album",
         "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
@@ -105,7 +89,23 @@
       "url": "https://open.spotify.com/track/6CdOcSuE9dHBzPAL8obZkj"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
+      "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Goondiwindi Pork",
+      "url": "https://open.spotify.com/track/0dvoVIjcF2xszyR0A4gfx8"
+    },
+    {
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/0K8bNqCPf3DzxWOpS9U1Wc"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/2MVhIpEf23BMw7NxlU3AGZ"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "The Big Red",
         "url": "https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/1ermlRf4ZAH6d4efJNi1yO"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/3MHWH1UtxXtRyVm6m1DkNR"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Anthems - A Celebration of Australia",
         "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/72NkwThw0PDHasUu7WomDm"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Chandelier of Stars",
         "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/6BrNnnYSe3a0xSRe9nxiqo"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/3cRRh344Xx0FD1y7ZplP6Y"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/0gyWlfuZqPzfBdbE5sF3kM"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Looking for a Story",
         "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/7oPSc8krbyi0YMrxWGmmla"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "A Hell of a Career",
         "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
@@ -301,39 +301,7 @@
       "url": "https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
-      "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Cydi",
-      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
-    },
-    {
-      "added_at": "2023-09-21 12:44:46",
-      "album": {
-        "name": "Mallee Boy",
-        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "Three Rivers Hotel",
-      "url": "https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg"
-    },
-    {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "J.W.'s Family Album",
         "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
@@ -349,39 +317,7 @@
       "url": "https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
-      "album": {
-        "name": "Anthems - A Celebration of Australia",
-        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "This Is Australia Calling",
-      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
-    },
-    {
-      "added_at": "2023-09-21 12:44:46",
-      "album": {
-        "name": "Boomerang Caf\u00e9",
-        "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "The Truckies Wife",
-      "url": "https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ"
-    },
-    {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
@@ -392,12 +328,28 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 250693,
-      "name": "Galleries of Pink Galahs",
-      "url": "https://open.spotify.com/track/6nn65PSai61Mh8eWEC6Yit"
+      "duration_ms": 189733,
+      "name": "Three Rivers Hotel",
+      "url": "https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
+      "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Cydi",
+      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
+    },
+    {
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Looking for a Story",
         "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
@@ -413,10 +365,10 @@
       "url": "https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+        "name": "Boomerang Caf\u00e9",
+        "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
       },
       "artists": [
         {
@@ -424,12 +376,28 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 192240,
-      "name": "Amazing Day",
-      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
+      "duration_ms": 305000,
+      "name": "The Truckies Wife",
+      "url": "https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
+      "album": {
+        "name": "Mallee Boy",
+        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Galleries of Pink Galahs",
+      "url": "https://open.spotify.com/track/6nn65PSai61Mh8eWEC6Yit"
+    },
+    {
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Waratah St.",
         "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
@@ -445,7 +413,39 @@
       "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
+      "album": {
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "This Is Australia Calling",
+      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
+    },
+    {
+      "added_at": "2023-09-25 12:16:47",
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Dingo",
+      "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
+    },
+    {
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "A Hell of a Career",
         "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/1ly3rS7ZDDSh8Fmk59Utbq"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Road Thru The Heart",
         "url": "https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i"
@@ -493,10 +493,10 @@
       "url": "https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
       "artists": [
         {
@@ -504,12 +504,12 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 215293,
-      "name": "Campfire on the Road",
-      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
+      "duration_ms": 192240,
+      "name": "Amazing Day",
+      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/2SRV54FM0bJbByaAWezRLL"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "A Hell of a Career",
         "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
@@ -541,7 +541,71 @@
       "url": "https://open.spotify.com/track/7HBaB4e77Q1Vcg16y8ft6K"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Campfire on the Road",
+      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
+    },
+    {
+      "added_at": "2023-09-25 12:16:47",
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Why They Call Him Sundown",
+      "url": "https://open.spotify.com/track/2biGoEHo1LIcddn2NeXvXm"
+    },
+    {
+      "added_at": "2023-09-25 12:16:47",
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Hang My Hat in Queensland - Orchestra Version",
+      "url": "https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa"
+    },
+    {
+      "added_at": "2023-09-25 12:16:47",
+      "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Australia Is Another Word for Free",
+      "url": "https://open.spotify.com/track/12GHwnYl5kQOCIxKDLuvEZ"
+    },
+    {
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
@@ -561,71 +625,7 @@
       "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
-      "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Why They Call Him Sundown",
-      "url": "https://open.spotify.com/track/2biGoEHo1LIcddn2NeXvXm"
-    },
-    {
-      "added_at": "2023-09-21 12:44:46",
-      "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Australia Is Another Word for Free",
-      "url": "https://open.spotify.com/track/12GHwnYl5kQOCIxKDLuvEZ"
-    },
-    {
-      "added_at": "2023-09-21 12:44:46",
-      "album": {
-        "name": "His Favourite Collection",
-        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Hang My Hat in Queensland - Orchestra Version",
-      "url": "https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa"
-    },
-    {
-      "added_at": "2023-09-21 12:44:46",
-      "album": {
-        "name": "Mates on the Road",
-        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 71520,
-      "name": "Chain Around My Ankle",
-      "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
-    },
-    {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Warragul",
         "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/4OGlxdoxuVUIrYVUY6x3vs"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Waratah St.",
         "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Hillbilly Road",
         "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "A Hell of a Career",
         "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
@@ -689,10 +689,10 @@
       "url": "https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+        "name": "Mates on the Road",
+        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
       },
       "artists": [
         {
@@ -700,12 +700,12 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 217800,
-      "name": "Drovers Boy",
-      "url": "https://open.spotify.com/track/1xHzFR5aBiIJH0IhWuJAxY"
+      "duration_ms": 71520,
+      "name": "Chain Around My Ankle",
+      "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Waratah St.",
         "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
@@ -721,10 +721,10 @@
       "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
-        "name": "Chandelier of Stars",
-        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
       "artists": [
         {
@@ -732,12 +732,12 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Keeper of the Stones",
-      "url": "https://open.spotify.com/track/6PYxwr2xxfwbH73yWFxfxt"
+      "duration_ms": 217800,
+      "name": "Drovers Boy",
+      "url": "https://open.spotify.com/track/1xHzFR5aBiIJH0IhWuJAxY"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "A Hell of a Career",
         "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
@@ -753,7 +753,23 @@
       "url": "https://open.spotify.com/track/3fAEJ8DRvfoByUrC0oo6qb"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
+      "album": {
+        "name": "Chandelier of Stars",
+        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Keeper of the Stones",
+      "url": "https://open.spotify.com/track/6PYxwr2xxfwbH73yWFxfxt"
+    },
+    {
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/1x2KFbCFp8k3MFBMrz7eXA"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
         "name": "Old Farts in Caravan Parks",
         "url": "https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu"
@@ -785,10 +801,10 @@
       "url": "https://open.spotify.com/track/6xwtfMFUuqJPsfAtWcNwP5"
     },
     {
-      "added_at": "2023-09-21 12:44:46",
+      "added_at": "2023-09-25 12:16:47",
       "album": {
-        "name": "Butcherbird",
-        "url": "https://open.spotify.com/album/58QlinFcLAkRng01NJ5RYk"
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
       },
       "artists": [
         {
@@ -796,25 +812,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 142440,
-      "name": "Please Don't Forget Me",
-      "url": "https://open.spotify.com/track/4MXQODzOgncAf1nZ5ViEXH"
-    },
-    {
-      "added_at": "2023-09-21 12:44:46",
-      "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 272066,
-      "name": "Ancient Mountains",
-      "url": "https://open.spotify.com/track/0WC3plwALutG6Rd5nWFNW9"
+      "duration_ms": 75533,
+      "name": "Advance Australia Fair",
+      "url": "https://open.spotify.com/track/58pM9ynyyEXzrFFsmM4olc"
     }
   ],
   "unique_name": "This Is John Williamson",

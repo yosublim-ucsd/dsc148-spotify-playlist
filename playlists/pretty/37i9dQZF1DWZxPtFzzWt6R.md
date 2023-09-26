@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: André e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,577 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,582 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 |
 | 60 | [Surpresas](https://open.spotify.com/track/4om9ARGmgO7LGViqZoGyav) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Surpresas](https://open.spotify.com/album/4Xd5WSqlGucQbmi9qfn214) | 3:38 |
 
-Snapshot ID: `MCw1ODdlYTZkOWY2ODllMjVhNzE3NWM4MzJjMDNiMGI2ODY1OWUzNmQw`
+Snapshot ID: `MCwzZWRmYzczY2EyZjZiMWJlZWM5NTAwZDk4MzU5YzQyMTQ1MDkwMzNi`

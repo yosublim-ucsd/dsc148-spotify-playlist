@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: Aimer
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,499 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,507 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 |
 | 50 | [courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM) | 4:13 |
 
-Snapshot ID: `MCwyNTQ0NGViOTc3OTQwYjg4Mjc3NDJhODhkNzgzODRkMmIyMmM5ZTRi`
+Snapshot ID: `MCxlYzMxYWMzMzZhOGU0YWI5ZDE2MWZjZmM0NDFiYTI3MDAzNDYwNTUw`

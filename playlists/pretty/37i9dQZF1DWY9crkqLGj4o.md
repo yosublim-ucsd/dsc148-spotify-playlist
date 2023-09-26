@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,460 likes - 70 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,493 likes - 70 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
 | 70 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Preciso de Ti \- Diante do Trono 4 \(Ao Vivo\)](https://open.spotify.com/album/5vrfIrq5JvyIo3rjtO9BTN) | 15:19 |
 
-Snapshot ID: `MCxlYWNkMGI2NzA2NzBmYjUwZGViMjNmMGQyY2YyNDNhMTVmNTY0ZTdm`
+Snapshot ID: `MCw4MDRlODJlNTlkOGYxNDUzMzY3OTZiYzg5NDk1ZWEwOGVhZTZiOTYw`

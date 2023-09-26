@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,018 likes - 150 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,044 likes - 150 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 149 | [Ride Out](https://open.spotify.com/track/5NjFTKQe08qkzfYIYg2hMf) | [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Ride Out](https://open.spotify.com/album/0g6JAuSxiBOAYvCsjTEG0m) | 4:20 |
 | 150 | [Outside The Simulation](https://open.spotify.com/track/6o2TVUSE4MPA55BfqggYv3) | [Yheti](https://open.spotify.com/artist/5FvtVMNjZKDtEiMFEvrSvJ) | [Outside The Simulation](https://open.spotify.com/album/1ei34VmUQzyA6eXQG85kTl) | 3:40 |
 
-Snapshot ID: `MCwwZTgxMDdjM2UxNDRiYmIwNzUxOTBkMGJmOThjYzhlNDNkMDQ2OGM1`
+Snapshot ID: `MCxkZDljZGMzOGE4NWFlMGEwNThiNjI4ZTU2ZWZjNTU1OTJmNTA4MzJh`

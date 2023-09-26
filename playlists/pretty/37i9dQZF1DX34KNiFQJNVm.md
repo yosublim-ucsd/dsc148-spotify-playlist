@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel & Rodolffo com Mc Don Juan e João Gomes, Alok e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922,460 likes - 102 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922,489 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 101 | [Sentada Da Malvadona](https://open.spotify.com/track/6ZNzEuzqOU8Yn5TQgIdztO) | [Biel Rocha](https://open.spotify.com/artist/2oHZ8zd8mZpSO8UMoi9NBj) | [Sentada Da Malvadona](https://open.spotify.com/album/412j8v0VyPSxdc2jTL8zz3) | 2:12 |
 | 102 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 
-Snapshot ID: `MCxiMTAzOTY0MjhlYThkYTBiZjJhMGY4ZWQ1MmFmNWJlYmU3Y2M4MDdm`
+Snapshot ID: `MCxkODNmNmYzNDAyZjM5Y2FkMjI5NGFhZmMwNzNlN2MzNDYxN2U2OTg5`

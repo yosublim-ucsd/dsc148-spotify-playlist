@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJ6IpvItkve3.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Israel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,838 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,845 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJ6IpvItkve3.md) - [plain]
 | 49 | [ילד מטריה](https://open.spotify.com/track/29ZGOiRf0t8zjvz5JwwdM4) | [עטרה אוריה](https://open.spotify.com/artist/2B5CIVuJLzMYbtw6ViL85R) | [ילד מטריה](https://open.spotify.com/album/0RMHBV15CrRX9qvub7MjwN) | 3:10 |
 | 50 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

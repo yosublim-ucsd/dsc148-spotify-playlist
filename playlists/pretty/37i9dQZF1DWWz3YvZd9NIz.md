@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,526 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,596 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/track/5LjjFLhe4QChEtBCnZBn1O) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Hixxy](https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN), [Jelle van Dael](https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI) | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/album/1JLEsIAfoxoHV65Lq6NUAL) | 3:07 |
 | 70 | [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 |
 
-Snapshot ID: `MCwwZGUyMDY1OWZhN2YzODA0MDAyMzNhNDY3YzY4YWU2Mzg4Y2ZhNTNl`
+Snapshot ID: `MCwzYzZhMjcyYTkzODUwNzBiM2JmMTNhMzYxOWUzMGQ2OTk4OTJmYzY0`

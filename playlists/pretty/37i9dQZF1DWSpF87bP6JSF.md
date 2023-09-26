@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino featuring Shakira.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,200,213 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,200,743 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 | 49 | [Déjalo En Visto](https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe) | 3:09 |
 | 50 | [69](https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [69](https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2) | 3:41 |
 
-Snapshot ID: `MCxmYWRjMGZiNTljZTMzMjU3NzU1OTkyODc2YTJlY2ZjOTNiNDcyNzBl`
+Snapshot ID: `MCw4MmViOGUxZTE0YjI1NGY0ZTZhMDI0Mjk0ZDNlODA2YmZjOTM4YmQ2`

@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 167213,
       "name": "Big River",
       "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 158760,
       "name": "Devil in a Sleepin' Bag",
       "url": "https://open.spotify.com/track/7JSIPdukJ1MCWWa2sOBuWi"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 257040,
       "name": "Georgia on My Mind",
       "url": "https://open.spotify.com/track/4Mckv604NWFSw11g4iCgG0"
@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Bluegrass",
+        "url": "https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264066,
+      "name": "Home Motel",
+      "url": "https://open.spotify.com/track/0NlJXMA4HHqc1eJ2jG286Q"
+    },
+    {
+      "album": {
         "name": "Talk About",
         "url": "https://open.spotify.com/album/0h0xcptCUMCyElJRI81KgT"
       },
@@ -732,7 +750,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 130733,
-      "name": "I Gotta Get Drunk (with Willie Nelson)",
+      "name": "I Gotta Get Drunk",
       "url": "https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4"
     },
     {
@@ -820,7 +838,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 242280,
-      "name": "Just Breathe (feat. Lukas Nelson)",
+      "name": "Just Breathe",
       "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
     },
     {

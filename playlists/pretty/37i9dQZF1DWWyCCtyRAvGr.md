@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,222 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,232 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 99 | [I Need Love So Bad](https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 2:36 |
 | 100 | [Gone For Good](https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 2:58 |
 
-Snapshot ID: `MCw5Y2FhNGM2ZDE0YmE5MjViYmUzYjFjNjJjNDBmNWUwZWZhMzkwZDkw`
+Snapshot ID: `MCw3MzhmNDNhZGY2MjA3MmQ0MThmNzE5NGM4ODM5YjZlYjBlYjQzNDg5`

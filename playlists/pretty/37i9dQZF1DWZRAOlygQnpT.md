@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,805 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,820 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 99 | [La Respuesta Está En El Viento](https://open.spotify.com/track/50NUNjnzD6sXh54NpMLujS) | [Vianey Valdez](https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 3:16 |
 | 100 | [El Boogie de la Guitarra](https://open.spotify.com/track/7xBPsrdhuTa6R9lQlBVGzJ) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 3:04 |
 
-Snapshot ID: `MCwwZDZjN2VhMTMyODM5ZTYyNTE3YTg2ZDAyMzA5NmUwNGUwNTczODE2`
+Snapshot ID: `MCw0YjE4MjIyM2JjNTEwMTlhNDZlOWM1M2RmNDljMzA5YjgxMmU2NjMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Loossemble\(루셈블\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,924 likes - 57 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,944 likes - 57 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 56 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 |
 | 57 | [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 |
 
-Snapshot ID: `MCw0ZDUyMTZhZGRiMGJmZjFlZTFiZTY5NTFiYjljMGI0NGNkNWEwMGUz`
+Snapshot ID: `MCwwN2UxZDdiMjkzZDdjNzdmMzI2YTVhN2VlZjhjZTQyMGEyNmZiMzg4`

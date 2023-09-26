@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Laurence\-Anne
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,898 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,900 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 74 | [Voiture de course](https://open.spotify.com/track/5AbHwqS90lmbvhNX733j0z) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Voiture de course](https://open.spotify.com/album/7m2z2S45pCXwA8tzDV8pdK) | 3:25 |
 | 75 | [Coin coin](https://open.spotify.com/track/2EeKut39BXmeuZSeDn2Pmw) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/3XSN53ondDCSSLeIXXvNrK) | 3:29 |
 
-Snapshot ID: `MCw2OTFhMWE0OTNiODg5MzRlMjFiYmRmMTg3ZDg2M2RlNjE4ODFhMTg4`
+Snapshot ID: `MCxhNWVmM2FhOTliZmZkYjM3YmI4YjA2NjJmNzA1MDRhYTY4MTRmZWVm`

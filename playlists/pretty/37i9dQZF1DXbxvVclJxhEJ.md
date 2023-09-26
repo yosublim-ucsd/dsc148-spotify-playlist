@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,104 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,114 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 74 | [Romance In The Dark](https://open.spotify.com/track/5eLdg6SFlue27XADwrAxzS) | [Lilgreen](https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7) | [Lil's Big Hits](https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08) | 3:22 |
 | 75 | [Country Boy Blues](https://open.spotify.com/track/3aidj13SWwc9o63JMdFyva) | [Lilgreen](https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7) | [Lil's Big Hits](https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08) | 2:56 |
 
-Snapshot ID: `MCwwMzRmNWZjNjRjYjhkZDUzNDhmNTM2MGNlMWRhMTRlZTEyNTlmYTMy`
+Snapshot ID: `MCxkODRlYmZkMWUxMmFlOThlODQ1NDY2NTI1ODZlNWY1ZTU2ZmIxYTE3`

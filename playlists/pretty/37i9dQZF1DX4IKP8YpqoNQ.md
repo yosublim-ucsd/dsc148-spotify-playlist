@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,845 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,851 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [Feeling Good \- Live](https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Live](https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr) | 3:56 |
 | 100 | [Nakamarra \- Live from Spotify Sydney](https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Spotify Sessions](https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw) | 4:56 |
 
-Snapshot ID: `MCw2MTZhNThmZDk0NzdhYjZhZDJlZGFiMjNjNGI1MjdiZWEzNWUyNTVj`
+Snapshot ID: `MCw0NDM1MzZhZjA0NmNlYmJjNDQ5OGZiMzcyOTdhNTRkOTdhYjU2ZmM4`

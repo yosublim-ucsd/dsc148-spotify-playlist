@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,641 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,671 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 99 | [I Wish I Never Met You](https://open.spotify.com/track/12l2XM75QCGVCXM37Ktxzs) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/5ZII0xlYQqaeLrnsflv5DU) | 3:31 |
 | 100 | [The Mother We Share](https://open.spotify.com/track/2FV7Exjr70J652JcGucCtE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/5RXMsB6VV6NfaspYWsdPyD) | 3:11 |
 
-Snapshot ID: `MCw4MWJlYTNmMTU4OWE3YWNiMjFkZmMzZDBjYjUzZWI0NDhiNWJjODgz`
+Snapshot ID: `MCw0MTRlMTg0N2VkYzZjNzNkOTg0ZmQ3MmQzYjJlNTI4ZmFmMDEzZWUx`

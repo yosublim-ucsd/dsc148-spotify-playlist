@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 
 > Timeless Latin pop hits through the decades! Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,983,314 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,983,369 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 | 99 | [Si Tú Te Vas](https://open.spotify.com/track/7A1V7IEbwn2nuFGreV8DNv) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:04 |
 | 100 | [Más Que Amigos](https://open.spotify.com/track/06PcFr42yEwK5Dv2cdkcC0) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Sube](https://open.spotify.com/album/4G2BGiu4lG5GNW6LR9oWb0) | 2:57 |
 
-Snapshot ID: `MCwwZWNhM2RkMzY1NTIwOWU1NzRjNmRjNTY0OWE1NjhlNDYwMjZhZTBj`
+Snapshot ID: `MCw2OTE3YjJhYTMzZTIwOWEwNzZiOWEyZWIzYzA1ODIxNTYwOGFmMjli`

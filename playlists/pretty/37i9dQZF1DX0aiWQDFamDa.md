@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad and gloomy instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,777 likes - 125 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,793 likes - 125 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 124 | [The Art of Losing Isn't Hard to Master](https://open.spotify.com/track/5VHKQiMstyF28VfcN18whs) | [Yuri Honing Acoustic Quartet](https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN) | [Bluebeard](https://open.spotify.com/album/7bcJhX13orgLxahPE038Gi) | 5:01 |
 | 125 | [Easy To Remember](https://open.spotify.com/track/6gW8WmLAWrjH857ZxVBrxK) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Diamond In The Rough](https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf) | 6:10 |
 
-Snapshot ID: `MCxjYTEzMTAxYzY5NDdkNDcxMWZiZGExMzNkYzI5NzNmMDE0ZDJmZDI2`
+Snapshot ID: `MCxkMjljYmFmOWExNTdlZjg3OTBhZmI4NGM5YWYxNjBkMGVkZDdiYjM4`

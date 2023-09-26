@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,179 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,189 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [O Amor é o Segredo \- Dre Guazelli Remix Radio Edit](https://open.spotify.com/track/3AUwUpkVKa1gQ74gxxV49z) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Dre Guazzelli](https://open.spotify.com/artist/4NnfyZ8ExJjtf6vuWHPoNl) | [O Amor é o Segredo \(Dre Guazelli Remix Radio Edit\)](https://open.spotify.com/album/4Ed15mSBTFC3isoPAijpcR) | 2:48 |
 | 70 | [O Descobridor dos Sete Mares](https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E) | [WhyNot Music](https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m), [Rodrigo Sá](https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho) | [O Descobridor dos Sete Mares](https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd) | 3:32 |
 
-Snapshot ID: `MCxhZmEyNjg4NDQwODZlZjAxNzU4ODkzMzhiMjY4NzdmODAxMzYyMWM5`
+Snapshot ID: `MCwyOWI3YTMzNDUxOTBhNzEyMWNkZjBlNWRkNmZhOTdkMjdhZjE4YzI1`

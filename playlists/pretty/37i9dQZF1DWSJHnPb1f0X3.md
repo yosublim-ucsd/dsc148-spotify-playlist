@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,078,933 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,079,063 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 |
 | 100 | [Running Out Of Roses](https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 2:16 |
 
-Snapshot ID: `MCwzNjYwMDliMzI2OTA5MDY3Zjc3YzI5ZmFmZGNlNDUxYzE1ZDEyMWI2`
+Snapshot ID: `MCw2ODUyNjExN2FlZDljYjNjY2FiMTA0YThiMTI0MmFlMmQxODhjZGJk`

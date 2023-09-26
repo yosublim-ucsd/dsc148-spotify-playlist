@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > o toque de malandragem do bololô, mc ryan sp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,255,559 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,255,631 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 64 | [Movimento \- Spotify Singles](https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Movimento \- Spotify Singles](https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ) | 2:38 |
 | 65 | [Londres Freestyle](https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Londres Freestyle](https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU) | 2:08 |
 
-Snapshot ID: `MCwzODIxZDJmYzliZGVlNzA5OTcxYWQxMjRkYWMyMWJhYTVmM2Y4YjY1`
+Snapshot ID: `MCw1M2NmNTliNGRlMTljZjE1NDYyY2ZkNGFkZDk3MjI5OTZlZGZiYzc3`

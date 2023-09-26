@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4MkRES9UEFwJnvM571eiWt">Gloria Trevi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,469 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,515 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 8 | [Grande](https://open.spotify.com/track/17VbSbtrl7X64bNnTTQlFG) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:52 |
 | 9 | [Vas A Recordarme](https://open.spotify.com/track/4SRsV7HX2nxgM9XMWhXIvm) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Diosa De La Noche](https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q) | 3:55 |
 | 10 | [Mudanza de Hormiga](https://open.spotify.com/track/5k380k6DE6SbYlYBKMRd9m) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 2:31 |
-| 11 | [Pruébamelo](https://open.spotify.com/track/0WOeX9LgOxZSDxHnspMtu5) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC) | 3:21 |
-| 12 | [Habla Blah Blah](https://open.spotify.com/track/1ki575hbZbZ6nkBrfpzD0b) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:49 |
+| 11 | [Habla Blah Blah](https://open.spotify.com/track/1ki575hbZbZ6nkBrfpzD0b) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:49 |
+| 12 | [Pruébamelo](https://open.spotify.com/track/0WOeX9LgOxZSDxHnspMtu5) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC) | 3:21 |
 | 13 | [Ellas Soy Yo](https://open.spotify.com/track/0kmic2hjWupbMVSM5PtaKJ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Diosa De La Noche](https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q) | 3:46 |
 | 14 | [Psicofonía](https://open.spotify.com/track/593jvsVjjnD2ufgxf0aRs1) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/4VzxQe0r3lY0JZ5edFaHli) | 3:45 |
 | 15 | [Rómpeme El Corazón](https://open.spotify.com/track/2dNjo3KBW38Yea8XygWPpb) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Diosa De La Noche](https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q) | 3:30 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 20 | [Despiértame](https://open.spotify.com/track/7qzvFgCueFG0T3qJDC4GlV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:20 |
 | 21 | [Yo Soy Su Vida](https://open.spotify.com/track/5KkXuQaCuB2tAGpCRY6suu) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Diosa De La Noche](https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q) | 3:39 |
 | 22 | [Y Ahora Te Sorprendes](https://open.spotify.com/track/4HyPqj0BvhLpwnzf0VAYwD) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:36 |
-| 23 | [Inmortal](https://open.spotify.com/track/7GD5WRuBP0h3eDQxV6q8Im) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Amor](https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE) | 4:47 |
-| 24 | [Como Si Fuera La Primera Vez Aka La Primera Vez](https://open.spotify.com/track/2pgrKsTEqeKrNlN1fZqs7c) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Amor](https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE) | 4:32 |
+| 23 | [Como Si Fuera La Primera Vez Aka La Primera Vez](https://open.spotify.com/track/2pgrKsTEqeKrNlN1fZqs7c) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Amor](https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE) | 4:32 |
+| 24 | [Inmortal](https://open.spotify.com/track/7GD5WRuBP0h3eDQxV6q8Im) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Amor](https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE) | 4:47 |
 | 25 | [La Recaída](https://open.spotify.com/track/43st7PU7lsyijDteZsNbXS) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Timo Nuñez](https://open.spotify.com/artist/3mBGlxPk87CGMb5So8yN9t) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:17 |
 | 26 | [Cómo Nace el Universo](https://open.spotify.com/track/61iFl8BwgJz0YhJBuChRGV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Como Nace El Universo](https://open.spotify.com/album/0NRY0pYDpVoxZWF4s3E2en) | 4:52 |
 | 27 | [La Noche](https://open.spotify.com/track/1WWXstIGQnp5MrxDnPZpme) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:34 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 51 | [Ojos De Fuego](https://open.spotify.com/track/2CD3R2whD46r746lsyvfBc) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:20 |
 | 52 | [Aurora](https://open.spotify.com/track/3wUKXujHMVw2HzSEqTRMwe) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9) | 3:54 |
 
-Snapshot ID: `MjgyMjU1NzAsMDAwMDAwMDAzYzUyODQ3YWNkM2M5MDY2ZDNkZjJiMjAxOWQ2MGQ0Yw==`
+Snapshot ID: `MjgyNjE5MzAsMDAwMDAwMDBkYTdlMzliNTU0ZjUzZWUyMTNiNjU5MDNlMWIyMDQ3YQ==`

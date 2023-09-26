@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Yot Club & Jordana
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,808 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,853 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [i don't need to understand](https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [i don't need to understand](https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3) | 2:26 |
 | 100 | [Good For You](https://open.spotify.com/track/3LuvpnAcuxPn2dV00C9Rxt) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Good For You](https://open.spotify.com/album/3j4P5XClGIWJhnXT6NTix2) | 3:35 |
 
-Snapshot ID: `MCw2ZWUzMTdmYjk3ZjVhMjRlOGRmZGZjNDU3N2Q4NTNjMTM4NjAwOWVl`
+Snapshot ID: `MCxlZjA5N2Y2YjFiMDZhZmM3YzJiZTk0NGZmZGEzYTA1NTE2NmRjNWY3`

@@ -4,7 +4,7 @@
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-110 songs - 7 hr 16 min
+111 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [スーパーアイドル\(笑\)](https://open.spotify.com/track/4qbHYNkIDsOeYvJL9oBH8P) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [冒険のVLOG](https://open.spotify.com/album/1mCByfIZcBllKkPmG11r3h) | 4:17 | 2022-06-22 | 2022-11-06 |
 | [スーパーアイドル\(笑\)](https://open.spotify.com/track/6pU09WpP6VxX8mPYd3hxo1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 4:14 | 2022-11-05 | 2023-09-22 |
 | [ツインズ](https://open.spotify.com/track/03NKMpabqVFe6hy5UUcs5j) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:57 | 2022-06-11 | 2023-09-22 |
+| [ツインズ](https://open.spotify.com/track/6fYZ2UNLothZLHd8B1zfrS) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/56h6iaj51zfHqPMF9tVmwg) | 3:57 | 2023-09-25 |  |
 | [ノスタルジックレインフォール](https://open.spotify.com/track/5mwLIUyGIg6QioPbyHgt2s) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:58 | 2022-06-09 | 2023-09-22 |
 | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/track/53HiUwUvy5qmTFngDhCZre) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/album/5yBSeYrYn3NPpMebZ4GanO) | 1:30 | 2023-09-21 |  |
 | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/track/5hlg8974tilNuXIrwWiVKH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/album/15DJ4J10gLGb4eELHikgB1) | 1:30 | 2022-06-09 | 2023-09-22 |
@@ -93,7 +94,7 @@
 | [世界は恋に落ちている TV size Instrumental](https://open.spotify.com/track/7HumtM8md3Npksr8FY1Qe3) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界は恋に落ちている TVサイズver.](https://open.spotify.com/album/5LoYqCcX0EJGYlKXzqIVAe) | 1:32 | 2023-09-21 |  |
 | [乙女どもよ。](https://open.spotify.com/track/2ZZx0Pss7zgl9XRIMax5IL) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:12 | 2022-06-09 | 2023-09-22 |
 | [乙女どもよ。](https://open.spotify.com/track/3VNkBDBVZVx9h1e9eev7yH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [乙女どもよ。](https://open.spotify.com/album/4XGW9c5LIcnUAN0m1XcUio) | 4:13 | 2023-09-21 |  |
-| [今日もサクラ舞う暁に](https://open.spotify.com/track/4jGWtj6EaWt7n0zBwaPzcB) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:15 | 2023-09-21 |  |
+| [今日もサクラ舞う暁に](https://open.spotify.com/track/4jGWtj6EaWt7n0zBwaPzcB) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:15 | 2023-09-21 | 2023-09-26 |
 | [今日もサクラ舞う暁に](https://open.spotify.com/track/50m9OQ3M9AEdJAoTHGWdVt) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:15 | 2022-06-09 | 2023-09-22 |
 | [冒険のVLOG](https://open.spotify.com/track/6KtkYlgZoBno6Ai894zfSD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [冒険のVLOG](https://open.spotify.com/album/6GptwTcu5mCv9YkfXpJZVs) | 4:22 | 2022-06-09 | 2023-09-22 |
 | [可愛くなりたい](https://open.spotify.com/track/1XA0rFBVY3VouEigL2a5b1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:15 | 2023-09-21 |  |

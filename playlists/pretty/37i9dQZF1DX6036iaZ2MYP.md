@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Yemi Alade
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,653 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,660 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [Bottles](https://open.spotify.com/track/331ZKCTgF27kBC2W5vmRmV) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Bottles](https://open.spotify.com/album/1EhfKYJkIdRS5yYDnb3OKq) | 2:40 |
 | 49 | [Chanjé](https://open.spotify.com/track/0koJoqB4PwaAcCtFGssnA2) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN) | [Chanjé](https://open.spotify.com/album/3iIOfM4ooNNBxufKmAHoeV) | 3:43 |
 
-Snapshot ID: `MCwxNjFlODk1YjcxMWFkZjdhOWFjNjI1NjY5ZDcxMDAxNTQ3NDlhNWU0`
+Snapshot ID: `MCxiYThjMjZhNzc3MzBjNGNkMWFhNDNkZWQ4OTc5ODAzNTZiZmRiZWRh`

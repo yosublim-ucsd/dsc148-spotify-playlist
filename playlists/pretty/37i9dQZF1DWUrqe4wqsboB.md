@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Buscabulla
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,327 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,329 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [La Nueva Ciudad](https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC) | [Balún](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU) | [Prisma Tropical](https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU) | 4:53 |
 | 50 | [Me Levanté Hoy](https://open.spotify.com/track/4Hmae2vybwrNtxTyE3c7Oe) | [CANDE](https://open.spotify.com/artist/41e5QAfoWQhKQEmqqbDgBp) | [EVEVerTé \(\*XOXO 2\)](https://open.spotify.com/album/0sQwqf70LMb007dswR3Em3) | 2:40 |
 
-Snapshot ID: `MCxlMmRjZmUxNzc0OGQ0YjU4MDQ0NDA1YzAzNGQ5ZjBmODRiZGEyYTIx`
+Snapshot ID: `MCw5MjZlMTBkMjJlYWY3OGM5MWRhNDNkMTMxOTI4M2RmYjI0ZTkxNjZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,002 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,004 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 79 | [Amor Condicional](https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd) | [Hilda Lamas](https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG) | [Amor Condicional](https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK) | 4:17 |
 | 80 | [Los Laureles](https://open.spotify.com/track/4X934GVbVTB738dLh2fsDG) | [Grupo Rumores](https://open.spotify.com/artist/7yTayx79xvmK2D61aPGprO) | [La Faldita](https://open.spotify.com/album/3PloZ7lDWnocn5J8b8qIYd) | 3:12 |
 
-Snapshot ID: `MCw3NTYyZTVmNzg5ODQwMzg2YWM0MGNiMWE5ZWI2ODM1M2FmNWU4OTEy`
+Snapshot ID: `MCxmMDU2YTM1YTdkZTg5YzdiYzUzMGJjNjU3NDMwZDcxODg0NGU2ODA0`

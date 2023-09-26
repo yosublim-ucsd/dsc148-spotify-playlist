@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Valesca Mayssa
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,048 likes - 100 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,124 likes - 100 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [De Ti Preciso \- Ao Vivo](https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [De Ti Preciso \(Ao Vivo\)](https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0) | 5:13 |
 | 100 | [O Grande Eu Sou](https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Grande Eu Sou](https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89) | 6:28 |
 
-Snapshot ID: `MCw4YjZmMDNmZWEzOTUwZmM5OTJmMGM0OTgxOTY5NDUzMDU0YzA0NTJh`
+Snapshot ID: `MCwwODA2OThmOGFjNzIxZTYxNTIyNzUwNjNmMDhhOTE1MWVlMjViZjU2`

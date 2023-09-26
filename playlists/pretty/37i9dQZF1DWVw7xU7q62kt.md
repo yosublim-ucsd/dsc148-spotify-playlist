@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 
 > Beats with a flavour of Jazz\. Cover: James Francis
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,266 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,279 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 | 99 | [Hejdå Kalvsnäs](https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp) | [Ivan Blomqvist](https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm) | [Bror](https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9) | 6:59 |
 | 100 | [Annie's Tune](https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Annie's Tune](https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP) | 4:23 |
 
-Snapshot ID: `MCw3MjEwZGNjYTJhN2E3Y2IzMDQwMjQ3NmI1MzgxYTIyZjVjZDMzNTVi`
+Snapshot ID: `MCxkN2UxYjkzODI4YmRmY2QyYTg5OWY2NzNmMjEzNzI3ODVkMzhiMzQw`

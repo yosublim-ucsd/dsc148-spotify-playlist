@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 
 > nothing but bangers to help you with the grind
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,769 likes - 200 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,785 likes - 200 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 | 199 | [casamigos](https://open.spotify.com/track/3czkIbLcTQRuLXLEqRc1jH) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [life gets interesting...](https://open.spotify.com/album/1ZtmhKNUMADdqhRFHYvdMo) | 3:16 |
 | 200 | [Already Mine](https://open.spotify.com/track/2KxD6ttxiW1d7x0qpUmWfK) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Already Mine](https://open.spotify.com/album/6NWCgWQdIoR3lKCfhUXgIm) | 2:25 |
 
-Snapshot ID: `MCw1NWNlMWQzZmE3N2IzMDMzZjBlNjUwMWM1ZjdlMThlNzUwMzYzZjNi`
+Snapshot ID: `MCwwMDRhOTMyYWIzNmY3MTMwNzVhYWQ3YTM3YmU5NTExMGFiMTkxZjU2`

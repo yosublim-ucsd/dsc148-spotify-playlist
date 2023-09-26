@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,078 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,090 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Keyboard Concerto in G Major, Wq\. 44: II\. Andantino](https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM) | [Carl Philipp Emanuel Bach](https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb), [Michael Rische](https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia), [Kammersymphonie Leipzig](https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa) | [C.P.E\. Bach: Keyboard Concertos, Wq\. 26, 44 & 20](https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08) | 3:18 |
 | 60 | [Le Rossignol\-en\-Amour: 14ème ordre, 3ème livre](https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Iddo Bar\-Shaï](https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW) | [Couperin: Les Ombres Errantes](https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB) | 2:36 |
 
-Snapshot ID: `MCxiZTk3YTQyYmNlYTNlODU4ZmE5M2ZjMzBkMDlkNjE5ZDQwY2JkZjUy`
+Snapshot ID: `MCw3OWRhNjNmMzc2OGNkNTRjYzJmOThkNjFhNDdmMmVjMjIwNmE5NTVi`

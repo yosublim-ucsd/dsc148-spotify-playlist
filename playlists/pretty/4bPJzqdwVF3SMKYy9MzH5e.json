@@ -6,7 +6,7 @@
     "name": "\u2606 maria \u2605",
     "url": "https://open.spotify.com/user/yom8mary"
   },
-  "snapshot_id": "NjQ5LDM2NmJiZmVjNGQzZTk1YjcxNmJjYjQwMmFiMTIwYjUxYzljN2QwYTA=",
+  "snapshot_id": "NjU2LDBjMDllZTAyZmJmOTE4MjZhOGIxNGVhMzM1N2Q0YzcxNjZiZmZkMjg=",
   "tracks": [
     {
       "added_at": "2021-08-05 02:05:05",
@@ -6225,7 +6225,7 @@
         }
       ],
       "duration_ms": 163173,
-      "name": "Like That (feat. Gucci Mane)",
+      "name": "Like That",
       "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
     },
     {
@@ -11559,7 +11559,7 @@
     {
       "added_at": "2021-08-05 02:05:09",
       "album": {
-        "name": "In Utero - 20th Anniversary Remaster",
+        "name": "In Utero",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
       "artists": [
@@ -12100,7 +12100,7 @@
       },
       "artists": [
         {
-          "name": "Ghum",
+          "name": "GHUM",
           "url": "https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs"
         }
       ],
@@ -12323,7 +12323,7 @@
     {
       "added_at": "2021-08-05 02:05:09",
       "album": {
-        "name": "In Utero - 20th Anniversary Remaster",
+        "name": "In Utero",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
       "artists": [
@@ -12355,7 +12355,7 @@
     {
       "added_at": "2021-08-05 02:05:09",
       "album": {
-        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "name": "In Utero (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
       },
       "artists": [
@@ -23876,7 +23876,7 @@
       },
       "artists": [
         {
-          "name": "Ghum",
+          "name": "GHUM",
           "url": "https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs"
         }
       ],
@@ -28589,7 +28589,7 @@
         }
       ],
       "duration_ms": 228173,
-      "name": "Twinz (feat. Fat Joe)",
+      "name": "Twinz",
       "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
     },
     {
@@ -30383,7 +30383,7 @@
     {
       "added_at": "2023-08-27 04:35:30",
       "album": {
-        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "name": "In Utero (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
       },
       "artists": [
@@ -30427,6 +30427,70 @@
       "duration_ms": 354640,
       "name": "Screaming",
       "url": "https://open.spotify.com/track/611WshW3yQKLCQ2pTCOii4"
+    },
+    {
+      "added_at": "2023-09-13 02:35:45",
+      "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 157973,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/3poJLRLGViMX3gicX9UYtD"
+    },
+    {
+      "added_at": "2023-09-16 02:19:49",
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/28GJnnbJ7fOKi2YBqlxWb9"
+    },
+    {
+      "added_at": "2023-09-16 02:23:00",
+      "album": {
+        "name": "We're Not Here to Be Loved",
+        "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "duration_ms": 203199,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/4DNydDiMCbptxZkGq0TQ0V"
+    },
+    {
+      "added_at": "2023-09-17 20:10:46",
+      "album": {
+        "name": "pg.4 a picture of three hedges/through your window",
+        "url": "https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB"
+      },
+      "artists": [
+        {
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+        }
+      ],
+      "duration_ms": 224565,
+      "name": "through your window",
+      "url": "https://open.spotify.com/track/0Kw8SXw92PXokAfPPaP2Ot"
     }
   ],
   "unique_name": "\ud835\ude5b\ud835\ude68\ud835\ude5d \ud835\ude63\ud835\ude59 \ud835\ude58\ud835\ude5d\ud835\ude65 \ud835\ude5f\ud835\ude62\ud835\ude68 ",

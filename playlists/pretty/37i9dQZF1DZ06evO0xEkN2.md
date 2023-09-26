@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 
 > This is Panteon Rococo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,689 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,942 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 24 | [La Distancia](https://open.spotify.com/track/2oNMhDpqWkI3oIjOGmqV0z) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 4:26 |
 | 25 | [Hasta Que Te Conocí](https://open.spotify.com/track/7f2Rpazz6GxPwKKGcTK3LA) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 5:22 |
 | 26 | [Hostilidades \- En Vivo](https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 2:41 |
-| 27 | [Nada Pasó](https://open.spotify.com/track/4GO7nRMoH2XnvXSIUqNMqg) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:39 |
-| 28 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
+| 27 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
+| 28 | [Nada Pasó](https://open.spotify.com/track/4GO7nRMoH2XnvXSIUqNMqg) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:39 |
 | 29 | [Cuando Estoy Contigo \(feat\. Flavio Cianciarulo\)](https://open.spotify.com/track/0donCfhuT3BIjytI3Nqsak) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 3:12 |
 | 30 | [Cumbia del Olvido](https://open.spotify.com/track/3OJ9kFQsKJxyx4aqFXZuHr) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 4:20 |
 | 31 | [Buscándote \(Paraguayito Dub\)](https://open.spotify.com/track/3APFukPC9NZHmBxbNf3u0n) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Tres Veces Tres](https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS) | 4:19 |
 | 32 | [Si Una Vez](https://open.spotify.com/track/7ljTI8Yt1JkumFmjTcvnGf) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Si Una Vez](https://open.spotify.com/album/1p8yftJjT6mj2K9dcZ5ht0) | 3:48 |
 | 33 | [El Lado Oscuro](https://open.spotify.com/track/4LHCmlYZJ9LGQa62C2kolH) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 2:59 |
-| 34 | [Sobreviviré](https://open.spotify.com/track/6gVV28leSTAI70fV8fVP7L) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Sobreviviré](https://open.spotify.com/album/0QStKql1TfAGFQhHbt9cUF) | 3:57 |
-| 35 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 |
+| 34 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 |
+| 35 | [Sobreviviré](https://open.spotify.com/track/6gVV28leSTAI70fV8fVP7L) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Sobreviviré](https://open.spotify.com/album/0QStKql1TfAGFQhHbt9cUF) | 3:57 |
 | 36 | [Borracho Drunk Steady Beer](https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 3:47 |
 | 37 | [Cómo Quisiera Decirte](https://open.spotify.com/track/1q7SnztoC6TIUP9wxDVFiB) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 2:45 |
 | 38 | [Infiernos](https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Infiernos](https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 49 | [Los Viejos Vinagres](https://open.spotify.com/track/3qGkFTw5nEDmBn8bgwFN1H) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Los Viejos Vinagres](https://open.spotify.com/album/0HPyIrvLK6bMIjA9q8HSFC) | 3:38 |
 | 50 | [No Sé Porque](https://open.spotify.com/track/3aElJpnMXSNwF2SmjiDFSA) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Ni Carne Ni Pescado](https://open.spotify.com/album/04HBP9fEv4mvhtBV0DPrm6) | 2:40 |
 
-Snapshot ID: `MjgyNTUwMDQsMDAwMDAwMDBjNGNhZmFkM2I1Nzg3NjVhNjdlMDEwNTQzMjlmZjI4ZA==`
+Snapshot ID: `MjgyNjA3MzYsMDAwMDAwMDA1YWFhNmUwYWU4MTgwYjg4MmYzZGQxNzY2MTQ4ODBjZg==`

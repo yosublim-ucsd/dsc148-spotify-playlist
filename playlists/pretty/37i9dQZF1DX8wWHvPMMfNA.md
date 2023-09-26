@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental jazz for working or studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,909 likes - 500 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,948 likes - 500 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 499 | [Around six thirty](https://open.spotify.com/track/1rlb8YcKIlMB0RkHcs66El) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Around six thirty](https://open.spotify.com/album/2VFpIdwjRZtDUBm5MxNGza) | 3:23 |
 | 500 | [What Is This Thing Called Love?](https://open.spotify.com/track/6kpocYwFqMxws72HV8iVj3) | [J for Jazz](https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3) | [What Is This Thing Called Love?](https://open.spotify.com/album/5UVZ4s0KCXmafIb6IqkNeB) | 3:49 |
 
-Snapshot ID: `MCw2YWI0YzMwNDAzYTM3NmUxNjM0MWRkYWE2YzA3ZWI3ZjQwZGY5N2Nl`
+Snapshot ID: `MCwwMzBhY2E1ZTI1ZDYyOWZkYzJmY2Q3OWRiNzQ1NTRkOGEyY2I2ZWJh`

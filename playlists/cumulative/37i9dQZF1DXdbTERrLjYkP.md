@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Debbii Dawson
 
-536 songs - 1 day 4 hr 33 min
+539 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Again and Again](https://open.spotify.com/track/2ZvlfOqzdSDPpXFJL6ETNj) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Again and Again](https://open.spotify.com/album/3wxJOOmjsc7CMeCHnjo20b) | 3:27 | 2023-08-11 |  |
 | [Age Of Depression](https://open.spotify.com/track/1oIFiHEu2tmfA99YrcdgZ2) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/6KEkHT3JThHci5q284JqYk) | 2:52 | 2023-06-12 |  |
 | [Age Of Depression](https://open.spotify.com/track/5ZMHrSgqn8FzhulpGdd0vg) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx) | 2:52 | 2023-06-12 | 2023-06-18 |
+| [alien](https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 2\)](https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q) | 3:18 | 2023-09-22 |  |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-11 | 2022-04-29 |
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-20 | 2022-06-25 |
 | [All my favorite songs](https://open.spotify.com/track/5JG7dSDKuy5tSM77KLnCzY) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [20mg of Happiness](https://open.spotify.com/album/338Td52uBRdtXDqIZiOo6D) | 2:56 | 2022-01-14 | 2022-03-05 |
@@ -147,7 +148,7 @@
 | [Elephant In The Room](https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Elephant In The Room](https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA) | 2:41 | 2023-01-27 | 2023-06-13 |
 | [elsie](https://open.spotify.com/track/5dSAVONexmt8XipPux7QjZ) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [elsie](https://open.spotify.com/album/4pWfJR7DS0DMbpU4dh3U4Y) | 3:23 | 2023-02-03 | 2023-04-09 |
 | [Emerald City](https://open.spotify.com/track/2qeO8zNYrzTBs4Nxlkz007) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Emerald City](https://open.spotify.com/album/3e0LG2rn8nvgZZNsPKn3Tj) | 2:46 | 2022-01-14 | 2022-04-09 |
-| [emergency contact](https://open.spotify.com/track/1H9PD84EannawT2KAeBlul) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [emergency contact](https://open.spotify.com/album/7i00KyYeAxeJu9UXLsv6N0) | 3:28 | 2023-09-03 |  |
+| [emergency contact](https://open.spotify.com/track/1H9PD84EannawT2KAeBlul) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [emergency contact](https://open.spotify.com/album/7i00KyYeAxeJu9UXLsv6N0) | 3:28 | 2023-09-03 | 2023-09-26 |
 | [Emma](https://open.spotify.com/track/3KDJyASCak07xkgxvKhjB2) | [Andrew Barth Feldman](https://open.spotify.com/artist/5ulESxWZSX8cw4PI6xgdDG) | [Emma](https://open.spotify.com/album/158IZZsGeaxebU5MMKUF8i) | 4:08 | 2022-01-14 | 2022-03-12 |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 | 2023-01-14 |
 | [End of the Day](https://open.spotify.com/track/1piMjMBuN0NRkoDy9aMD4u) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [End of the Day](https://open.spotify.com/album/2xBbejBQKutWWyCjlJ17Nf) | 3:56 | 2022-06-08 | 2022-08-06 |
@@ -334,6 +335,7 @@
 | [Megan’s Song](https://open.spotify.com/track/71eVKx9MDUBpGChmV98Hiu) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Megan’s Song](https://open.spotify.com/album/6ZP7zOFmqA5NyjKLd2mhR2) | 3:10 | 2022-08-19 | 2022-12-24 |
 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 | 2022-01-14 | 2022-05-07 |
 | [Mess](https://open.spotify.com/track/1502aGzxNUgwcv2r1rG91S) | [Alaina Ray](https://open.spotify.com/artist/2hcq1PIq9XzXVmrab7mfXr) | [Mess](https://open.spotify.com/album/0WtLqYqc87OEDZ7kFJXjJu) | 2:15 | 2022-12-09 | 2022-12-24 |
+| [MESS](https://open.spotify.com/track/21yX9e6vaRE8dfsptqFqKf) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [MESS](https://open.spotify.com/album/3onqYrRIrhwsE9reWrFtlH) | 2:25 | 2023-09-22 |  |
 | [messy](https://open.spotify.com/track/1rL0K2uvyWRGvqvf0VI719) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [messy](https://open.spotify.com/album/161GbVxhgPvPoNFsoGBnEn) | 2:09 | 2023-07-14 | 2023-08-05 |
 | [Midnight Train From Marylebone](https://open.spotify.com/track/4AE4FWams3vyYkcObRAn7o) | [Isaac Stuart](https://open.spotify.com/artist/7vqrMptsKefoZat5ztYapE) | [Skyline](https://open.spotify.com/album/1FHfPh4tGlzWrnY6Yw6iZ2) | 3:21 | 2023-05-05 |  |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-11 | 2022-04-29 |
@@ -511,6 +513,7 @@
 | [walls](https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [character development](https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj) | 0:55 | 2023-06-16 |  |
 | [Watching the Moon](https://open.spotify.com/track/2wdxWnALQ3ub0mnPNGBBVr) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG) | [Watching the Moon](https://open.spotify.com/album/1DGfDkUJyyyo90vRAHnySI) | 3:53 | 2022-11-04 | 2022-12-24 |
 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 | 2022-12-24 |
+| [Watercolor Flowers](https://open.spotify.com/track/6l9MmERiCcHyTIU3fZI9Gt) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 4: The End](https://open.spotify.com/album/1I3cIvKGqoFQKnlLFhT9Lx) | 2:48 | 2023-09-22 |  |
 | [Way Up](https://open.spotify.com/track/0oCnBvlZRGf5xJQfiJRMLI) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Way Up](https://open.spotify.com/album/1O8oAeo6twKIsRW6PLDUuX) | 2:30 | 2022-02-11 | 2022-02-26 |
 | [we were girls together](https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [we were girls together](https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj) | 2:17 | 2023-06-30 |  |
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-03-28 | 2022-10-29 |

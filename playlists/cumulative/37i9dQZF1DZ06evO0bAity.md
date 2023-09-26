@@ -4,7 +4,7 @@
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 7 min
+80 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Over It](https://open.spotify.com/track/0g3IOrs9DNu9OYx8uZxKw7) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:30 | 2022-09-16 | 2022-10-13 |
 | [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 | 2022-11-24 | 2023-06-14 |
 | [Paranoid](https://open.spotify.com/track/6nX2HXWLt2I5AM6kHm64zI) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:19 | 2023-07-12 | 2023-09-13 |
+| [Paranoid \- NERVE Remix](https://open.spotify.com/track/2n9EcqhwgDO5cgGIMMCHHb) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Paranoid \(NERVE Remix\)](https://open.spotify.com/album/31WrHIA3RqdOrJMV7whBHA) | 3:57 | 2023-09-25 |  |
 | [Play Dead Until You're Dead](https://open.spotify.com/track/44pxIxvtCEQDFAnQ8Mmoje) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:02 | 2022-09-16 | 2023-02-25 |
 | [Pollyanna](https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Pollyanna](https://open.spotify.com/album/4kQSRFsF773glePY10mDpr) | 2:41 | 2022-09-16 |  |
 | [Rad Solar](https://open.spotify.com/track/6pQb4fJwH1WY21wfiYiSB9) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Brutal Tapes](https://open.spotify.com/album/1I1o9EWBFxbWkY1wO4tTGu) | 1:45 | 2022-09-16 |  |

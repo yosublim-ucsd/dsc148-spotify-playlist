@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Avenged Sevenfold
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,230 likes - 150 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,330 likes - 150 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 149 | [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 |
 | 150 | [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 |
 
-Snapshot ID: `MCwxZGE5NjBhNmVhNDA4Yzg5NTYwNWNkMmNiZGQ0OTEyODQ2ODZhYmFj`
+Snapshot ID: `MCw3MjQ0YTdkYWZkYjNjYmI1ZGI2OGFkOTNjMDQzZGM5ZGUyYzY1ZTgz`

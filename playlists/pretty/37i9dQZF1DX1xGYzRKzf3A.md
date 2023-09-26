@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,176 likes - 125 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,220 likes - 125 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 124 | [Fanny](https://open.spotify.com/track/684lurkv01qxJbEt6oGM5I) | [Vallenatos De La Cumbia](https://open.spotify.com/artist/5t77bXrErzIDWoU6cHwdEX) | [Por El Mundo](https://open.spotify.com/album/6t0JkXAwiSnIamjMWUDAwx) | 3:54 |
 | 125 | [Hiereme](https://open.spotify.com/track/0VALO2mJCnpzv8OSHlMlSq) | [La Verbena Popular](https://open.spotify.com/artist/3Ht1isc7k5xuQuNvb2K6yI) | [El Tercer Viento Norestense](https://open.spotify.com/album/27YjX3Hnv6yGXgATY42GQp) | 4:01 |
 
-Snapshot ID: `MCw5MTM5NzgwYmMwZGIzYjI3NzIzYWNhYjlkNzdhZjAxY2QxOTVhODcw`
+Snapshot ID: `MCw3ZDQ1NTE1OWJlYjJmNjc4N2E5Mjk1MDE4MzkzNTA1YmQ4ZTYwNDJh`

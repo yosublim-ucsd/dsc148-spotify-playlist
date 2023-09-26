@@ -4,7 +4,7 @@
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 1 min
+56 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Hammerhead \- Live At Hellfest 2022](https://open.spotify.com/track/60KWofPwiHxnopbv834Qo4) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace \(15th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1ZvLzeszidFikHrWgsaWXf) | 5:37 | 2023-06-17 | 2023-07-15 |
 | [Have You Ever](https://open.spotify.com/track/2fIpea5Sh5celp8JRI7Z4U) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:56 | 2022-09-16 | 2022-10-28 |
 | [Hit That](https://open.spotify.com/track/3lfmqF0ULXRHlWxBeaHo3t) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 2:49 | 2022-09-16 |  |
-| [I Choose](https://open.spotify.com/track/19cjuo0y4w2my2GcybUunG) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 3:54 | 2022-09-16 |  |
+| [I Choose](https://open.spotify.com/track/19cjuo0y4w2my2GcybUunG) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 3:54 | 2022-09-16 | 2023-09-26 |
 | [Kick Him When He's Down](https://open.spotify.com/track/5r5pPZLoablansl2iYPohk) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ignition](https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3) | 3:16 | 2022-10-26 |  |
 | [Kristy, Are You Doing Okay?](https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:42 | 2022-09-16 |  |
 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 | 2022-09-16 |  |
@@ -47,6 +47,7 @@
 | [Secrets From The Underground](https://open.spotify.com/track/1KblaMkte0ZEyk9k6kLW92) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 3:09 | 2022-09-16 |  |
 | [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 4:17 | 2022-09-16 |  |
 | [Session \- 2008 Remaster](https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ignition \(2008 Remaster\)](https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF) | 2:32 | 2022-10-12 |  |
+| [she's got issues \- lofi](https://open.spotify.com/track/5fxZUjE2FwWMyOvCPEcphq) | [lonelyboy](https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc), [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [americana, but lofi](https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS) | 2:05 | 2023-09-25 |  |
 | [Slim Pickens Does The Right Thing And Rides The Bomb To Hell](https://open.spotify.com/track/1feH81BVs89SplmcJzuh1F) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 2:36 | 2022-09-16 |  |
 | [Spare Me The Details](https://open.spotify.com/track/2mZ2h6VPJK2Xf2Nkik5r65) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 3:24 | 2022-09-16 |  |
 | [Staring At The Sun](https://open.spotify.com/track/0D2A4Rid7gnlcwlspLTkx0) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 2:13 | 2022-09-16 |  |

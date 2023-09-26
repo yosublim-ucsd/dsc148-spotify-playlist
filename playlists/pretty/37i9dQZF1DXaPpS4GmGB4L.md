@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,443 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,449 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 149 | [Pony Boy](https://open.spotify.com/track/0FuaUNYkcuu8DyXm3UDxA0) | [Jon Cleary](https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX) | [So Swell](https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO) | 2:20 |
 | 150 | [Fools for Love](https://open.spotify.com/track/65oJF7sCSUj1Bzlox3lRdU) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [No Entry](https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD) | 4:10 |
 
-Snapshot ID: `MCxlZjdiZjJlMmM1ODlmMDhiZWJjODYxZDVkYmNiMjNhMmRlNDQ0ZDQy`
+Snapshot ID: `MCxjNmUxMmQ5NzliZjk4MzI0MjYwM2VmM2QxNDU0Y2ExYjAxZjJkNjE0`

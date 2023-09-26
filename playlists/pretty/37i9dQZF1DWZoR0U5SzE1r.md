@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,090 likes - 100 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,138 likes - 100 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [Take Courage \(Live\)](https://open.spotify.com/track/64Gil9pakWkRHqnXZSSbrm) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Every Nation](https://open.spotify.com/album/5bO5rv7fN82wztgC4Q4TZv) | 5:50 |
 | 100 | [Inhabit \- Live](https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word \(Live\)](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 5:51 |
 
-Snapshot ID: `MCwyOTAzMDE0ZTFlZDMzZTgwMDNlYTFhMTgwZTkyYmFiMTNlYjZkN2Uy`
+Snapshot ID: `MCwxMGJjZGU3MWM3NzkwYTY4YmNhZGRiM2JjY2FkNTY0OGYxNjFjZWMz`

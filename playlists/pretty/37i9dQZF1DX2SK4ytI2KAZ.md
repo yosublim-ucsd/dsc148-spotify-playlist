@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > K\. Flay celebrates her new album <a href="http://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM">MONO</a> and highlights some of her favorite alternative tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,981 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,989 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 99 | [Live A Little](https://open.spotify.com/track/4TMVC63HZDYaTGtlhbM95i) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Live A Little](https://open.spotify.com/album/6t3du226nIyJNEHTuYPBdK) | 2:49 |
 | 100 | [6 Pack and Cigarettes](https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Gutter](https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe) | 2:54 |
 
-Snapshot ID: `MCwxZTVhNDM5YmViZDk0ZDU2NGJlZGZkNDA3M2Q4MmVjOGZkZTQxNGYx`
+Snapshot ID: `MCw2NDk3NTUzOWU1OGU4ZDQxNDM3ZjZkOTQwMzRlYTA2ZmZkYWNkYTUx`

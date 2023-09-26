@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Vitória Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,654 likes - 60 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,665 likes - 60 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 59 | [Não Serei o Mesmo \- Ao Vivo](https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6) | [Renata Reis](https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS) | [Não Serei o Mesmo](https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN) | 6:37 |
 | 60 | [Coração Cansado de Partir](https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Coração Cansado de Partir](https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc) | 4:51 |
 
-Snapshot ID: `MCxlYjM0ZjQzNzE1YzMxNjkyYzRlNWRhMTBjNDQ5OGVmNzhlM2NhYjUx`
+Snapshot ID: `MCxhODAzZDQ5ODgwZTY5NTQ4NzY1MDkwNmE0Y2QyYjE1ZjA2NjExYzUw`

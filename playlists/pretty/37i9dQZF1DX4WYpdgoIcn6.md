@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 
 > Kick back to the best new and recent chill hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,822,730 likes - 130 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,823,019 likes - 130 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 | 129 | [Trampoline \(with ZAYN\)](https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Trampoline \(with ZAYN\)](https://open.spotify.com/album/5QqqBZmdQmY1MvlnpBkagB) | 3:04 |
 | 130 | [Life's A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Life’s A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR) | 3:26 |
 
-Snapshot ID: `MCw3OTMwNmYwZjMyYTI2NGRkYzFlYjRkMGQ3MGJmNzc0MmYwZDE5MGYz`
+Snapshot ID: `MCxiMGIxMzA4OTllODBjZDFjZDRjMzI4MGZmZTVkYzYzM2I1MDY5NzU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: All Time Low, Abril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,474 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,473 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 |
 | 75 | [Carnivore](https://open.spotify.com/track/6nKI1hpBkx80u2fs57eG09) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:11 |
 
-Snapshot ID: `MCw5ODA1ZDg5ZmNkMjk4MzJmYWM5YThkMzZkMGNjNGRmMzY2NWIzZDAx`
+Snapshot ID: `MCxhZjA2NTVjMDFiODBkMTIwMmQ1M2U2Mzk0MDE2OTJkOWUzNmFhMDU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,866 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,886 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [El Funeral De Tacho](https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:14 |
 | 100 | [Dia De Los Muertos](https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1) | [El Haru Kuroi](https://open.spotify.com/artist/683Jz9L8U9Ba2lGOBuRgj8) | [Sabung](https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA) | 3:10 |
 
-Snapshot ID: `MCwwODNiMTlkMGM4YzhlNGZkZGZmMTM4OWNkOTg3NGY5MzdiNTA0ODRi`
+Snapshot ID: `MCwxM2UwNGQ0MzBkZWNiYzgxZWY5M2FmYzEyZTIyMGEzMDVjY2Y2NjM0`

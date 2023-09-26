@@ -4,7 +4,7 @@
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 34 min
+68 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Radio](https://open.spotify.com/track/3VVstQ0fpj4pdSPe2QZT5z) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m) | 4:41 | 2022-09-16 |  |
 | [Radio Violence](https://open.spotify.com/track/5N65GlSHozEZomgqNyOV6J) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 3:06 | 2022-09-16 | 2022-10-13 |
 | [Sadie](https://open.spotify.com/track/5KwPQNnzA87NSBilvBBDr1) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY) | 4:38 | 2022-09-18 | 2023-02-05 |
+| [San Francisco](https://open.spotify.com/track/0KL9AAHQythSFxCXGkH7di) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 3:52 | 2023-09-25 |  |
 | [She Lied To The FBI](https://open.spotify.com/track/3rQWKxOJtn2EXr6j3KfHdO) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 2:48 | 2022-09-16 |  |
 | [Smokestack](https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 2:36 | 2022-09-16 |  |
 | [Stupid Kid](https://open.spotify.com/track/504aMSptpjhMNdtYvbXzjv) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4) | 2:23 | 2022-09-16 |  |
@@ -71,7 +72,7 @@
 | [Time to Waste](https://open.spotify.com/track/0imHRp0dntswjXWQxkWhZP) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY) | 4:11 | 2022-09-16 |  |
 | [Trouble Breathing](https://open.spotify.com/track/0qx04qNqo0YmBoqdISK9Be) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 3:55 | 2022-09-16 | 2022-09-19 |
 | [Warbrain](https://open.spotify.com/track/6M8UhCdVuWxKwVRhe3sWQa) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H) | 2:28 | 2022-09-16 |  |
-| [Wash Away](https://open.spotify.com/track/6SInb5FLqUK8NmlAtXUNaJ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Tony Hawk's American Wasteland Soundtrack](https://open.spotify.com/album/1ttszNk2tbxuzeln1Ib7e0) | 3:27 | 2022-09-16 |  |
+| [Wash Away](https://open.spotify.com/track/6SInb5FLqUK8NmlAtXUNaJ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Tony Hawk's American Wasteland Soundtrack](https://open.spotify.com/album/1ttszNk2tbxuzeln1Ib7e0) | 3:27 | 2022-09-16 | 2023-09-26 |
 | [We've Had Enough](https://open.spotify.com/track/5I1ZxztCi4MdwQYFQgYJel) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l) | 2:51 | 2022-09-16 |  |
 | [You've Got So Far To Go](https://open.spotify.com/track/03EV0UHtbLLZxRMk2k638B) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m) | 3:14 | 2022-09-16 |  |
 | [Young Lovers](https://open.spotify.com/track/746Rz8yr8nn5TGka9o4Vog) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:31 | 2022-09-29 | 2022-10-11 |

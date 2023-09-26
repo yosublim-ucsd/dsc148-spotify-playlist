@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,510 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,511 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [Christmas by the Phone](https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N) | 3:01 |
 | 75 | [Things I Want](https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Christmas Calling](https://open.spotify.com/album/3dxUAJGxReRRdWdDGze7EL) | 3:54 |
 
-Snapshot ID: `MCwyMzM0NWViN2EwNTdmY2JiZWNkZGMxYjQ0MTQ3NTQ3MmM1ZTM0NzRk`
+Snapshot ID: `MCw1MzU2Nzg3Y2E2ZmU2NjZiMDY2NWY1OGU4ZWE3ZWRkMzJmMzBlYjky`

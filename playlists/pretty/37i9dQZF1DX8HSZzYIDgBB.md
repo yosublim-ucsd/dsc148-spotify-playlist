@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Immasoul en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,370 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,372 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 74 | [Nubecita](https://open.spotify.com/track/5RR90wjPUyoG8nQcvJkjMz) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Nubecita](https://open.spotify.com/album/0hG60eOpUIfy9ERatkO3wt) | 3:17 |
 | 75 | [Towards The Mountain](https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5) | 3:20 |
 
-Snapshot ID: `MCw0ODdmNGI5N2FjYmJkZjQ5YjQ5NTVmNWU2MjM0NzNhMjI3MTYzNzc5`
+Snapshot ID: `MCxiMTM0MzU2OGU4ZTc3ZjMzMWE2YzBlZWE5NmI3MzZmY2EwNDUyMzY0`

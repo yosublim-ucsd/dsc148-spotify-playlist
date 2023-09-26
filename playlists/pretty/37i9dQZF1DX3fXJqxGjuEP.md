@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,258 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,275 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 99 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 |
 | 100 | [Temes](https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:16 |
 
-Snapshot ID: `MCw1MzEzY2MzYzcwNWUzNGY3M2YxZWZlZTIzN2M2NzI0M2I5MGZlODI4`
+Snapshot ID: `MCw3OThjOTVmNTI2ZmZkY2VhMGRjNmQ5MTRhZmNhOWY1YmUwYjJlODk5`

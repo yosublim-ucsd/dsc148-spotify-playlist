@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Laid back sounds to see you through your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,839 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,850 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 99 | [Face in the Crowd](https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Face in the Crowd](https://open.spotify.com/album/5e811Cmtlnt225AQO1tIiu) | 3:24 |
 | 100 | [Room Service](https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:46 |
 
-Snapshot ID: `MCxjZTgzYjYwOTQxYjQ3ODkxYTRlZjdkNzg0NDUyMjU5MDMyOGIwYjNi`
+Snapshot ID: `MCxiMTZjOWViODkzNTM4ZDM0Y2JmMmMzZmRjMWFjNWM1YmJkOWI3NjA0`

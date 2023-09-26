@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,558 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,628 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 99 | [Si Me Muero](https://open.spotify.com/track/6iPwLPlliVlCtrhghwZ6es) | [Pepe Quintana](https://open.spotify.com/artist/7LXdYckhvHWU4ejXbkHa3N), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Si Me Muero \(feat\. Farruko, Lary Over, Nengo Flow & Darell\)](https://open.spotify.com/album/6pL4zBmPeNUAyCxCJnVR42) | 4:53 |
 | 100 | [PURPURA](https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PURPURA](https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2) | 3:14 |
 
-Snapshot ID: `MCw0Yjg1MTNiM2YzZmQxMzg5MDY3MjY0ZWVhZDVhODU1MmExMzk4M2Q2`
+Snapshot ID: `MCw2N2M1Yjg1MGYzYTkyMzBjNDUxYjQ0NzU3ZWRiMmU0ODY3ODgwZWE0`

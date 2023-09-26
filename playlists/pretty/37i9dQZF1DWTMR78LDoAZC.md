@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,190 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,202 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 74 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 |
 | 75 | [California Girl](https://open.spotify.com/track/0nQih7s8hEqAeQQZb44M24) | [Lo Knowles](https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ) | [California Girl](https://open.spotify.com/album/6JI9ahGVM3OofcDbQjhkSl) | 3:57 |
 
-Snapshot ID: `MCxjYmNjZGU4Y2E1MTM0MDkyNGIwMDI5NTgxNmE1OWYxY2E4YjE3NTMy`
+Snapshot ID: `MCxiYzJkZDVmYzM5ZGJlNTQzMjUwYTU3MmE2YzNhMTMxMGY2NGEyMDlk`

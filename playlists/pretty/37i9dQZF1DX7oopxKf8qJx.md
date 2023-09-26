@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,017 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,043 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 69 | [A Lovely Way To Spend An Evening](https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT) | [Frank Chacksfield](https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF) | [Lovely Lady](https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy) | 3:30 |
 | 70 | [Melancholy Serenade](https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [And Awaaay We Go! \(Expanded Edition\)](https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP) | 3:16 |
 
-Snapshot ID: `MCxiY2QxMzA5MTFlZTgxNWJmNjc2YjE1MDkwNDkxNGMxOWQ1OTk1NTlh`
+Snapshot ID: `MCxjNTAwZjA4NTAzNjYzZjIyMmQ5NzhkODQzNzEzY2I3ZTkzMDdkM2E1`

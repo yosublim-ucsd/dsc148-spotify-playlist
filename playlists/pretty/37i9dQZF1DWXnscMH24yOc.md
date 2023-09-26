@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,823 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,842 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Latch](https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Latch](https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi) | 3:29 |
 | 100 | [Higher Love](https://open.spotify.com/track/3NiHRFN1Wvx9c2IYRPD1Zf) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [Higher Love](https://open.spotify.com/album/0qpOhvO4u3yCRQbtrGiHMG) | 3:15 |
 
-Snapshot ID: `MCwzYWIzN2NmNGM3OWYyMzI3YTU1MmRhN2I3MTY1NDAzODliMTFlNWZj`
+Snapshot ID: `MCwyMWIxNGQ3ZjAwNmZlNGE0MGZkODQ1YjM4MDlkNDIxNTgxMGU2Mjc4`

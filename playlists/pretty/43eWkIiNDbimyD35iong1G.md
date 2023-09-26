@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > Celebrate your wedding with over 100 favorite love songs perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 100,274 likes - 130 songs - 7 hr 45 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 101,354 likes - 130 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,15 +99,15 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 | 89 | [Never Gonna Give You Up](https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6N9PS4QXF1D0OWPk0Sxtb4) | 3:33 |
 | 90 | [Let's Dance \- Single Version, 2014 Remaster](https://open.spotify.com/track/36umtbUVPKxlgJzKcrQIwI) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Nothing Has Changed \(The Best of David Bowie\) \[Deluxe Edition\]](https://open.spotify.com/album/5CeaUy7mAbMw3nMI3ezmie) | 4:08 |
 | 91 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
-| 92 | [The Best \(Edit\)](https://open.spotify.com/track/5nenaH7uVgLOGnFakPxHAw) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 4:10 |
+| 92 | [The Best \- Edit](https://open.spotify.com/track/5nenaH7uVgLOGnFakPxHAw) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 4:10 |
 | 93 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 |
-| 94 | [That's the Way \(I Like It\) \[Edited Version\]](https://open.spotify.com/track/6x6jtNmUTxLQx2grY7FzI6) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:03 |
+| 94 | [That's the Way \(I Like It\) \- Edited Version](https://open.spotify.com/track/6x6jtNmUTxLQx2grY7FzI6) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:03 |
 | 95 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 |
 | 96 | [Respect](https://open.spotify.com/track/6wrxu9FiChdiaZ3P7MenNW) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 2:27 |
 | 97 | [Want to Want Me](https://open.spotify.com/track/12XegSqU3PDSl8X5tXVLA4) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:26 |
 | 98 | [I'm a Believer](https://open.spotify.com/track/3esdHrYyccagxfjWKiaFBX) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 2:47 |
 | 99 | [Everything](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:32 |
-| 100 | [Le Freak \(Single Edit\)](https://open.spotify.com/track/0DhWVAbb00MiXhD5Iw1VTl) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:35 |
+| 100 | [Le Freak \- Single Edit](https://open.spotify.com/track/0DhWVAbb00MiXhD5Iw1VTl) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:35 |
 | 101 | [He's the Greatest Dancer \- Edit Version](https://open.spotify.com/track/10SfRsGOylSFoJEmGWeM1Q) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \- The Essential Sister Sledge](https://open.spotify.com/album/301hOmy7iUqutT7MMrBHR8) | 3:34 |
 | 102 | [Soul Man](https://open.spotify.com/track/63lQg9WqNq3glQ4QhDoydT) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 2:36 |
 | 103 | [Hold My Hand](https://open.spotify.com/track/41RT2V9v3oh5YqEoDcBmzC) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:47 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 | 129 | [Euphoria \- Single Version](https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi) | 3:01 |
 | 130 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 |
 
-Snapshot ID: `ODMwLDljNTY1N2ZkZGNlZWNjNDhmYmQ3ZWEyOGZmOWY2NDEzNThmYWUxMjc=`
+Snapshot ID: `ODQyLGU2ZjE4OTM2MDUwZGYyNjM5OWZkOTdlMGRkNjJmMTU0OTJlZjMxMTA=`

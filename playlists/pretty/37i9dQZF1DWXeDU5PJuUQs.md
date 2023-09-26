@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,074 likes - 64 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,090 likes - 64 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:04 |
 | 64 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
 
-Snapshot ID: `MCxiZjZiMDNlMjcxZmJjYWRkMjA1ZjMyZjBjMTNiZmE3NDAyNTU2YmFi`
+Snapshot ID: `MCxmYWIyYWU0NWUyODhmNTA5NDY4ZmIyMTE4MTQ0NTg0ZmEzOWVmZWZj`

@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/1sF44ZsrgWPrJ2imXUCcDB"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196399,
+      "name": "More",
+      "url": "https://open.spotify.com/track/43AkwjzRPBKbFrGM7Rn9JF"
+    },
+    {
+      "album": {
         "name": "New Girlfriend",
         "url": "https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7"
       },

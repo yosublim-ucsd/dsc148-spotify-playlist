@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,064 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,083 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Drops \- Kanine Remix](https://open.spotify.com/track/3okcBYUuR2VRbygL9kYb5k) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Drops Remixes](https://open.spotify.com/album/6WkDq5hrKzwxDY4fdgjFEq) | 4:22 |
 | 75 | [Take You Higher](https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Lazers Not Included](https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB) | 4:47 |
 
-Snapshot ID: `MCw2MDVjNmYwOWYyNDA0NmY1NGU5OGFmNGU5N2NhNDhjYTQ2NmIyYzRh`
+Snapshot ID: `MCw3ZjkzNzEyMzU5NTcyMTBhMmM1NGRmZjllOGUyMGFkMmY3YzBiMDg1`

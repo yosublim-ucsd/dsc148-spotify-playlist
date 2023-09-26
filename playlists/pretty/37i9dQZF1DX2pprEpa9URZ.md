@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,521 likes - 75 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,556 likes - 75 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 74 | [Voodoo Guitar \- Timboletti Remix](https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Max Clouth](https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1), [Timboletti](https://open.spotify.com/artist/4i0bLWWYQMI3P1KFrTWsHG) | [Voodoo Guitar](https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI) | 10:37 |
 | 75 | [Afro Sambroso \- Rampa Version](https://open.spotify.com/track/23IBJoNkMZNL286OoJobc9) | [Lokkhi Terra](https://open.spotify.com/artist/4zKtfAo8kdCOsOn7uVrh2u), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc), [Francesco Chiocci](https://open.spotify.com/artist/35k3bqKmhJDhThkCQZH6Ft), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Version](https://open.spotify.com/album/5PpbFirZsHSSonZhxWx500) | 5:29 |
 
-Snapshot ID: `MCxmZjZlZTBhMGRhMGUwYmU2NTI4OTdiNzY2ZTVjYjVjMTM2ZDE5OThk`
+Snapshot ID: `MCw3ZGUzMzJjYTIyZGIwMDE0Mjk4NmJjNWEzZmZlOWRjYWEyOGZiYzFm`

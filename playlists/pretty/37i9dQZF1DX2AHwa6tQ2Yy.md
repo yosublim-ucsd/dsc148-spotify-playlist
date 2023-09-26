@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,222 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,240 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 69 | [Find You](https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 5:03 |
 | 70 | [No Flowers](https://open.spotify.com/track/3LhW1olpSXYzzQta9OpTSl) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [No Flowers](https://open.spotify.com/album/6XGqMVKj10Cq6Du0NpnIGo) | 3:04 |
 
-Snapshot ID: `MCw2MGY2MDNiZThjOWNjMGM4NmFjMjM0ZTQzYzhkNGU2ZjBhNDkyNWQy`
+Snapshot ID: `MCwyOGQyYmM4YjNmZmZjYTI5YzIwM2NhZTBmNTNmOWJiMjRmZDIyMTE5`

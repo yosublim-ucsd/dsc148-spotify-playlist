@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L93gfg5cPa.md) - [plain]
 
 > El mejor pop de todos los tiempos\. Foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,837 likes - 200 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,855 likes - 200 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L93gfg5cPa.md) - [plain]
 | 199 | [Una Vaina Loca](https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca](https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM) | 3:46 |
 | 200 | [Laura no està](https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Nek \(spanish version\)](https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP) | 3:45 |
 
-Snapshot ID: `MCxlODE0MDRjMDJlY2IwYTRmNjdjMWE5Yjc5ZmVkMWM5YmJkODgxMTAz`
+Snapshot ID: `MCxkMzQxOTZhYzY2NzYxNWQ4MjA2Y2ZhMGRhYWQ5N2VmMDIwZjk3NjU1`

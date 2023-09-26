@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. El Tri en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,013,164 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,210 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 99 | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/track/4M8TgQwfRVsLEJfrd0kxkm) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr) | 2:20 |
 | 100 | [En la Ciudad de la Furia](https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tropiplop](https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG) | 4:24 |
 
-Snapshot ID: `MCwwY2JhOTI3ZGE3YjA4ZWI3OWFlMTkxNWVmNGRkZmE4YzVlZDRjNjg3`
+Snapshot ID: `MCxkODVhNzEwNDE3NTU1MWEyNzNkMTNlMTdjZjgxYTUyZTBlNzQ4MGNk`

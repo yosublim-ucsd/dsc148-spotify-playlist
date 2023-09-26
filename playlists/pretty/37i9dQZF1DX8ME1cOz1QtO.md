@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,735 likes - 100 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,752 likes - 100 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Inside Celeste](https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S) | 2:57 |
 | 100 | [Mirador](https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 15:36 |
 
-Snapshot ID: `MCxhNjU3ZWI0MjM1NjJkZTZiOTJlNjdjNGQ4OGEwMmFkMmFjMDA5NWU2`
+Snapshot ID: `MCxlNjIwZWIwNzk1MDRjOWQzNzZiNGZkNTVhNGE3NDJiNjI5NGU1ZmE2`

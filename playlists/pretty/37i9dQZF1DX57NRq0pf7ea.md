@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57NRq0pf7ea.md) - [plain]
 
 > ¡Estos son los hits que acompañan la fiesta! Con Shakira en la portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,731 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,751 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57NRq0pf7ea.md) - [plain]
 | 99 | [SPANISH TETEO](https://open.spotify.com/track/5qYEnemubz0o1cXwdhaQel) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [SPANISH TETEO](https://open.spotify.com/album/5LcKv1TwB32BLjtvkKYbA0) | 3:01 |
 | 100 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 |
 
-Snapshot ID: `MCw1MzBlYzI2NDEwMzc2NWNlNTJjYmZjNjY4NDMwMmM4Yjg2ZWZmODM5`
+Snapshot ID: `MCxhMjA5Njg4NDAwMzQ4ZjdmNmIwYmMzNzQ2NWQzZDdlMTFhYzg1ZGQ4`

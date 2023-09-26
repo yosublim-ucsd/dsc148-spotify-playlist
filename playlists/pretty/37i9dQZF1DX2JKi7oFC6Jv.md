@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,669 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,671 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 59 | [Funky Flex vs Pulse](https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Funky Flex vs Pulse](https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf) | 6:01 |
 | 60 | [Hooligans](https://open.spotify.com/track/3HgL89b9l6Iwt06BH01r9s) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 5:38 |
 
-Snapshot ID: `MCxjOWVhYzlmODNmODU2YWYxZWRiZGY5YWNlMjNjZDc2NDNmZjAwODlm`
+Snapshot ID: `MCwxZDZlYTBiMGY3NjU5NGEzZWVkMTY1MmNiYzdkOTZkNTMwMGY0YTQ0`

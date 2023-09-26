@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8HCIPoGGKp.md) - [plain]
 
 > Calming green frequencies and nature sounds to help you relax and sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,952 likes - 186 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,058 likes - 186 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8HCIPoGGKp.md) - [plain]
 | 185 | [Smooth Waves](https://open.spotify.com/track/1EoIIM5NUOuRUmT8nS6X7Q) | [The Noise Generator](https://open.spotify.com/artist/3GIwszk9gdJUbYk6LnuNOj) | [Soft Green Noise](https://open.spotify.com/album/5FH8F4EH75oKcua1Lp4e6w) | 2:06 |
 | 186 | [Chilled Waves](https://open.spotify.com/track/2HZh3z8Mj0V27Jm7A8PVV9) | [Sleep Recorders](https://open.spotify.com/artist/7h5XfS9TXa3VZEoiVHRheY) | [Green Sleep Noise](https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz) | 2:08 |
 
-Snapshot ID: `MCwwYjBjZDkzZWQzMjllOWEwZDY5Y2JlMTk2NDlhMjM5M2MyZWRkMTI3`
+Snapshot ID: `MCxiMzRkMDEyZDE3OTJkYmUxY2I3MjliN2UxOWU5ZDIzOWZjNTY4OTU1`

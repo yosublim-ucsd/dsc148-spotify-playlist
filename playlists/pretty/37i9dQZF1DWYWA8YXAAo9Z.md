@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,295 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,307 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 74 | [Reflections On The Waterfront](https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY) | [Tryst \(UK\)](https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4) | [Aerious EP](https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D) | 4:37 |
 | 75 | [A1\. J\-Math](https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [Geoglyph](https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl) | 6:04 |
 
-Snapshot ID: `MCxiMWE0ZmY4OWZlYjVmYWY4MzQ2MjdkMDQ0MWYwMjhiZDhkYTFlOWNl`
+Snapshot ID: `MCw4ZDczY2FkOGJhZTUzMzYwOTcwMzBkZjJjZDBkZjIyNjBmZGZhMzNk`

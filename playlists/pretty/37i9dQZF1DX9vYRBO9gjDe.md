@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。9月24日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,748 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,773 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 50 | [kimiwaunmeinohito](https://open.spotify.com/track/0FXPwxpbU9jZRndH7buJGW) | [Manato Funatsu](https://open.spotify.com/artist/4L7zIJ9LjO6oSTRjzBlrva) | [kimiwaunmeinohito](https://open.spotify.com/album/4spgC6mFvPofhyFBhHWUVU) | 3:36 |
 
-Snapshot ID: `MCw0OGU2MDVlZWI5OWY2N2ZlNzc0ODJiMjQ2MmJjNmJmMzgxODJhZGU5`
+Snapshot ID: `MCwzNzE0NTMxMDAxYjc0YjRlNTBiOTdmZmU1MjFhMjExMzcyZGJjOTg5`

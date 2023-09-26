@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,245 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,254 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 99 | [Skunk Weed](https://open.spotify.com/track/12VKMGe1sbcOHDBWrH9hUJ) | [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y) | [Skunk Weed](https://open.spotify.com/album/43SUsPRzrTbe6oaHukQERY) | 4:25 |
 | 100 | [Icebound](https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF) | [Tony Furtado](https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt) | [Decembering](https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E) | 3:33 |
 
-Snapshot ID: `MCw1MzUyNTIxNjBhMGYzMWU4NDk1NTQ5ZjY3NzlhYTA5ZjQ2YzI0YWVj`
+Snapshot ID: `MCw2NTViNDhhYWI4YjUwZjAwZmQxMWJiM2I5YTNhZTY2NTc3ZmY5MWRk`

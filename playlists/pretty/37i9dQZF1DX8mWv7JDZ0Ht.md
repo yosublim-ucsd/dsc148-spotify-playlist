@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Silva, Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,607 likes - 85 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,610 likes - 85 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 84 | [O Tempo](https://open.spotify.com/track/7BVjbg62Tc0AVTGzzO3t36) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [O Tempo](https://open.spotify.com/album/6YzWKAyU0OqSDVTb6OBJw3) | 2:29 |
 | 85 | [Teu Calor](https://open.spotify.com/track/0Cz8QlQ80iGaBW9i2Rizp8) | [Megic Eric](https://open.spotify.com/artist/3rFzMogFPAHD5EV57Trym9) | [Teu Calor](https://open.spotify.com/album/4bRwD7jIFJsYeG0qstycLh) | 5:02 |
 
-Snapshot ID: `MCxkNzM3ZWE2ZDdkNjgwNzFhYzkyMGM4YmNhNjljYjJiMDNjMDQ3NTFm`
+Snapshot ID: `MCw4NjY5YmJmNThkZjExY2NhY2VlYjAyMTBhNmI0MTVkNTExZTNlYWNm`

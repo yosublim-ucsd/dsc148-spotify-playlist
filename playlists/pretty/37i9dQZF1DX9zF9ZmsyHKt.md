@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,695 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,699 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Sussu](https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [LEXA](https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi) | 2:06 |
 | 100 | [Encantos de Sereia](https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob) | [Ceumar](https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu) | [Silencia](https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF) | 4:10 |
 
-Snapshot ID: `MCwwMWQ5OWM3MGFmYmI0NzI1ZTUzYWFjOWFlOTM2MmU0OGNlNGY1N2Uw`
+Snapshot ID: `MCw5YWVjOWUxZGVjMjYwNWNjZDMxMjEyOGY1NmYxOTRjMWI2MTNjYjVl`

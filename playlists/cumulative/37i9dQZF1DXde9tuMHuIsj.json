@@ -2773,6 +2773,28 @@
     },
     {
       "album": {
+        "name": "El Bloke Hills",
+        "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162713,
+      "name": "Gafas Pal Sol",
+      "url": "https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep"
+    },
+    {
+      "album": {
         "name": "GIVENCHY",
         "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
       },
@@ -4188,7 +4210,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 163411,
       "name": "Musiando (Sesi\u00f3n 9)",
       "url": "https://open.spotify.com/track/4XOyDmKkkh33FMB9eXgTGh"
@@ -4440,7 +4462,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 164062,
       "name": "No Hitter",
       "url": "https://open.spotify.com/track/6lfR9MIXbfSE6s10w3fHhA"
@@ -4974,7 +4996,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 238706,
       "name": "Problem Childs",
       "url": "https://open.spotify.com/track/23Fmq949U38V5WpSbNS1N7"
@@ -5915,6 +5937,28 @@
     },
     {
       "album": {
+        "name": "TRAPPii",
+        "url": "https://open.spotify.com/album/7iF9xB4XpjpAUK1K3gQk7v"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177514,
+      "name": "TRAPPii",
+      "url": "https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8"
+    },
+    {
+      "album": {
         "name": "Trending",
         "url": "https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ"
       },
@@ -6358,7 +6402,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/7mP1G2qfxiqCoHaTvQ2WHf"

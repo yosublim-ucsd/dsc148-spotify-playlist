@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,244 likes - 400 songs - 1 day 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,262 likes - 400 songs - 1 day 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [Words of Hope](https://open.spotify.com/track/22ANqZfFu8nHuTSWtmBq7s) | [Steve Boudreau](https://open.spotify.com/artist/0tNCJZ0QjXhJKfKSbcQF9i) | [Cherished Possessions](https://open.spotify.com/album/6wEknkvTqiYMD0Kkr4fRwh) | 5:26 |
 | 400 | [A Ballad for Pete Candoli](https://open.spotify.com/track/5fsGPtGbnwTQ3ZuotX0Mhl) | [Christian Jacob](https://open.spotify.com/artist/27N1tGShltXJPjzwxs9eMZ), [Darek Oleszkiewicz](https://open.spotify.com/artist/1j4llYRtsnwcHIM0SrDstl), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [New Jazz Standards Vol 5 • the Music of Carl Saunders](https://open.spotify.com/album/5KcV3e2Dl3fQ1DngCZZITn) | 6:42 |
 
-Snapshot ID: `MCw3MTU0ZDJmOWNlZGZlNzBkMmIxYmMyZDhiNGU5YTllNzBlMzM4NzI4`
+Snapshot ID: `MCwxOWQ0YzgxNDc5MjA4MzlmNzIwZDI4ZjVkOGFkMDI3MWFhMDdiOWZj`

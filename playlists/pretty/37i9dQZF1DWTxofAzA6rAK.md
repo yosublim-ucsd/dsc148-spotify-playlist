@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Intence
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,697 likes - 150 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,710 likes - 150 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 149 | [Shottaz](https://open.spotify.com/track/3b2M5gLUNCPDtcY8HE6jv6) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Shottaz](https://open.spotify.com/album/106weqr1J9aDUmPTCQU4Ka) | 2:29 |
 | 150 | [World Domination](https://open.spotify.com/track/6Qf8dbx2sDj0yusY6uJ2lF) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [World Domination](https://open.spotify.com/album/1mUvZQXcmX7WuNUePvhDUF) | 2:58 |
 
-Snapshot ID: `MCxlOWRkYjgzYmVlMjc1ZTQyY2Q3MzA5M2UyMmVkNDdlMmJlYjQ3MGI5`
+Snapshot ID: `MCwzZTU4YzUzOGYzNDY1MzFiNzM0MTIxZTE3MzE0ZWU4MGYzNmUzNDRi`

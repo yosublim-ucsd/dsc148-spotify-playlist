@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,740 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,755 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Grita Tierra](https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ) | [UN Live](https://open.spotify.com/artist/598aN61ejdgFL6RzTmphnJ), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Sandesh Manuel](https://open.spotify.com/artist/1FP9jgHKP3F3gojPpPZMH1), [Conector](https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT), [Daniel Roa](https://open.spotify.com/artist/3dPJfVYIqsjDsBRA5z8vKF), [Hna Nidia Macías](https://open.spotify.com/artist/2BbhmRWi28bLVgHBClCdEp) | [Grita Tierra](https://open.spotify.com/album/16xnx1BIx96nDG1T20MF3z) | 4:35 |
 | 100 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
 
-Snapshot ID: `MCxkNDBkN2ZkOWJkYjk0ZWQ0ZTZiMTYzODk3MDRhZjMxYzg1Njk2ZThi`
+Snapshot ID: `MCxjM2I0YmNhYmU5MjlkYmU3ZWVjNTM4NjgyYTJiZjZkOWQzMDZkM2Q3`

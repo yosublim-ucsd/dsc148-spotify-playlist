@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP?si=58Qc9PanQNitwXKmdSXXFg"> Khaid </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,047 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,054 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Break Up](https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [IN CASE I NEVER LOVE AGAIN \( ICINLA\)](https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY) | 3:02 |
 | 80 | [Us](https://open.spotify.com/track/1CbhFk1ayCQqg9AxgPjDCF) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Us](https://open.spotify.com/album/36vRBOExGT1fT7DQbjAEf8) | 2:46 |
 
-Snapshot ID: `MCw2Mzk5ODJiZGMwOThmODhmNzdjOTVjNDc2NDExYTMzMGJmNTdmZTQ3`
+Snapshot ID: `MCxhN2JlN2Q5NDUwYTkzNGU3YTA4N2FmNmIzNTJiNmQ0YTgyYTZiMjVk`

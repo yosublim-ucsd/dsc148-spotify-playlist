@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,327 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,333 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [La Estrella Azul](https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF), [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Humanas Voces](https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac) | 3:09 |
 | 75 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 |
 
-Snapshot ID: `MCxlMzE5N2Y4ODYyODczMDFkMTg2ZjQxOTljZDNjYmRhZDc0NjlhYmZh`
+Snapshot ID: `MCw3YTU0NjAwMzk5ZWFmZjIxYTg5ZGZhOWNlYzViZWU2N2IyMzJmODA3`

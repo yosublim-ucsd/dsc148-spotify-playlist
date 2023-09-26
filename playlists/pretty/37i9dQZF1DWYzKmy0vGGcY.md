@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,351 likes - 125 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,393 likes - 125 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 124 | [All I Could Do Was Cry](https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:55 |
 | 125 | [Spanish Harlem](https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Spanish Harlem](https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp) | 2:54 |
 
-Snapshot ID: `MCw0NTQ2OTBjNTg3MWVmZTlkMDc3ZjI3ODhmNWEyNDc5YjQ4ZDAzNzEx`
+Snapshot ID: `MCwyYjAxYzcwNjUwMWZiYTQzNWRmOGI2NmI5ZTAyNjg0MGZiMzY3YTM2`

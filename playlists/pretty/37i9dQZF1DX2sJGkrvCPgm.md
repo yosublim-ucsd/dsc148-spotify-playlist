@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,387 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,389 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 99 | [Just a Girl](https://open.spotify.com/track/0grZxMpNFzHwF8nJ0HG9QU) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Christmas is Here](https://open.spotify.com/album/4SguiqcjQJJgPx9Hxyo5Se) | 4:24 |
 | 100 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6J2CmPOqOD3Bdi5rf9u4zc) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 4:13 |
 
-Snapshot ID: `MCwzMDAyZjk0Mzc4OTE0OTM0YzU2YzVjN2I2OGZiOTQ5N2UzZjIxZmE3`
+Snapshot ID: `MCwwMDE5YmEyY2VhMjEwNjc1NWVmZWFhYjVhYTk5YmI1Y2I3OThkODFl`

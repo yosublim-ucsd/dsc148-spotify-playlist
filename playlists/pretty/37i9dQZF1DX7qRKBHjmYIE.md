@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 49 | [Bagels y Café](https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Bagels y Café](https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4) | 2:46 |
 | 50 | [Barbed Wire](https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 3:22 |
 
-Snapshot ID: `MCw3YmRiZjE1ZDVjMWQ3NDJjMTUyYjQ1YmE0ZjVjZmMwYmRhMWIxZDE2`
+Snapshot ID: `MCw2ZjE0YWFiNTgzMTk5NjVlZTg5OTFkY2RmMmU1MTIyZTQ1M2RhOGUy`

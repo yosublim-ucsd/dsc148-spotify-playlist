@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 
 ### [Party Hits 2010s](https://open.spotify.com/playlist/37i9dQZF1DWWylYLMvjuRG)
 
-> Los mejores éxitos de fiesta de la década de 2010\. Portada: Flo Rida.
+> The biggest party hits of the 2010s\. Cover: Flo Rida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,520 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,612 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 | 149 | [Escápate Conmigo \(feat\. Ozuna\)](https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Victory](https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k) | 3:52 |
 | 150 | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l) | 4:19 |
 
-Snapshot ID: `MCw4NzA3NWQxMmI2N2UyZmI4MmJlYTM4MmJkY2ZkMjJhMWU0OTQxNzQ1`
+Snapshot ID: `MCxiZDZhZTlhZmY2YTk2MTZhYjFmZjk5MGZmNGRhZWEwMzRlY2Y0YWFi`

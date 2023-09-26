@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,700 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,703 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 64 | [Ändras och förändra](https://open.spotify.com/track/3ThgiJYysAuWrabao04nAj) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Ändras och förändra](https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA) | 2:05 |
 | 65 | [Kom och dansa lite](https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alderland](https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG) | 3:00 |
 
-Snapshot ID: `MCwyOTQ1ZGQ0NjVjODQ1NDA4ZTY3ZDRjYTY0MzBhNjU4MjMxZjhmMjVj`
+Snapshot ID: `MCwwM2ZkNTY5NTQzYmEwYmEzZTY4OGU4NzcwZDY2Yjk3YjgxZGYwNjcy`

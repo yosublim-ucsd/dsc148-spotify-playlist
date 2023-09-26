@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,064 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,068 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 48 | [Yo Quiero Te Namorar](https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf) | [NegrãoDoCéu](https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx), [DJFILLSP](https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7) | [Yo Quiero Te Namorar](https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq) | 3:18 |
 | 49 | [Só Me Usa](https://open.spotify.com/track/09Cf8HaJnxYlJgKESVv5HL) | [Mc Robs](https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Só Me Usa](https://open.spotify.com/album/0xmojnhZydiC9P120Le1Ol) | 2:34 |
 
-Snapshot ID: `MCw5OTdhNmJjNDJjNjUxZTFiZjM0MzgzM2UyOTI3MzVlZDM3Y2Q2YjJm`
+Snapshot ID: `MCw2ZDBmMmIwZWI5NjA2OWIwMGFlM2NjMDU5YjEwNTczYWY3Y2UxN2Q2`

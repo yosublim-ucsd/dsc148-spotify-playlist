@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,651 likes - 149 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,656 likes - 149 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [Trickaroo](https://open.spotify.com/track/4yjzbksh5X1nmKQ18hnVXA) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Trickaroo](https://open.spotify.com/album/2WEgA4UNSA25Gw3O9w3rc0) | 3:19 |
 | 149 | [Roll Away \(Like a Stone\)](https://open.spotify.com/track/27XhypqVeaRNo4lf3CeM1k) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Butch Walker as..\. Glenn](https://open.spotify.com/album/0FIk2aeXbMu4MmSJ8x0upW) | 4:46 |
 
-Snapshot ID: `MCw0Zjg0ZmRiNDFlMDhmYjExYTllMjY1YzRkOGYxYWE1NmZlYzg4N2Fm`
+Snapshot ID: `MCw3YjJmYzBhMjAxMmMzMTQ1M2VkYzA1NzQxNGU0MzJmNmJjZTZiZjQz`

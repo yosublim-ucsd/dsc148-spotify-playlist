@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,507,846 likes - 125 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,507,972 likes - 125 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 124 | [God On The Weekend](https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [God On The Weekend](https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb) | 3:00 |
 | 125 | [Forget You \(with Gabry Ponte\)](https://open.spotify.com/track/7gJynFtygTiif6xdoipmUm) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Forget You \(with Gabry Ponte\)](https://open.spotify.com/album/4tSBBYZHikk7WnaZclkZ0i) | 2:18 |
 
-Snapshot ID: `MCw3MTVkMTRjMzE0ZDkwMTdjODI1NzA5MzEzNjhmNmQ5ZDI3ZDA0NjJk`
+Snapshot ID: `MCw1OWQwZGY4MDcwOGM0YTE5NmM2ZjUyZDNlZDk3ODM4ZDE0NGVhYTQy`

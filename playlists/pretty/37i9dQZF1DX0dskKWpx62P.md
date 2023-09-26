@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,728 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,733 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 59 | [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 |
 | 60 | [La Cornuda](https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5) | [Pumita Cazador](https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks) | [Soy Provinciano](https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt) | 5:40 |
 
-Snapshot ID: `MCwwNDA2MjFjNzNmOWU5MTMwODk1Yjg5MjVlZTY3ODgxM2QwYzVkOGNk`
+Snapshot ID: `MCwyODk4MzEwYTg5MzRmZjE1ZGFiOTczNDRmNDIzMTYwNTg1Y2U4MDk3`

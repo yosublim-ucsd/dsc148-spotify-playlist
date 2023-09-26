@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,066 likes - 125 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,086 likes - 125 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 124 | [Slowly](https://open.spotify.com/track/5r6qy0ZGZemcKbh7FktPu2) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:05 |
 | 125 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 |
 
-Snapshot ID: `MCwzY2IyZWNmMTg3Y2VkN2YyNTVkZGY0OTE1MWQ3ZjZlMzlmNWIzZmE2`
+Snapshot ID: `MCxhYjBkNDI0NjgxMWNkNzQzYmEzNDA5NTllNzEwMjU0ZTZlNjg0ZjJl`

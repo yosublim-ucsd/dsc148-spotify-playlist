@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,727 likes - 230 songs - 12 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,752 likes - 230 songs - 12 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 229 | [Safe & Sound](https://open.spotify.com/track/7yfnNGWg10OgBjpGx1G2M7) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Safe & Sound](https://open.spotify.com/album/4jVNpfwJ31athD8jR5Mg1x) | 3:28 |
 | 230 | [With You \(with Morgin Madison\)](https://open.spotify.com/track/5lW36ZLCGu81VzbIsMD2Rz) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [With You \(with Morgin Madison\)](https://open.spotify.com/album/3ao0vhcYn0YR92cGNC9kW5) | 2:58 |
 
-Snapshot ID: `MCxhMWYxMDdkNDMxZTVhZTE4ZDc5ZWViODc1N2ZhMjk2MjdlZjZhYmIw`
+Snapshot ID: `MCxiMDkxMzMyMmM1Njg2ZGI0YTIwMzhiMmQ5MDlmMGQ2NmUzZDQyOTRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,777 likes - 65 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,804 likes - 65 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [Moose The Mooche](https://open.spotify.com/track/5gZR2gQcVsQYPZpbOBwtmk) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Drums Around The Corner](https://open.spotify.com/album/5kpNDQ4B9GQd3GS4Z5o2GK) | 15:17 |
 | 65 | [The Surrey With The Fringe On Top \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/0OtQ9Nh2cRYS3flo8TrXb5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(2005 Remastered/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 5:11 |
 
-Snapshot ID: `MCxiNTY0Y2FiZjUyNGYwOTk1Y2U2OWJlYWQ5MzIwZDQ1M2E0MWUwNzg3`
+Snapshot ID: `MCwxMjAyMzk3YmE0YzAzMjcxMjc2M2NlYjBlYjY3YzNhMzNjNzdkNTBm`

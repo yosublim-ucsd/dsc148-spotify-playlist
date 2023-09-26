@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,928 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,934 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [WONDER \- PVRIS Remix](https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined\)](https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8) | 4:15 |
 | 100 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 |
 
-Snapshot ID: `MCw5YjcwOTJlNjEwOTU5Y2VmZmFkZjE4YzQwYWMxZjk3ZWM5NDY1ZDQx`
+Snapshot ID: `MCxiOGM0MjkzNjgzMmQ0YTcxMjBmYzlmODI3ODMzMDRkN2YxOTI1ZjMz`

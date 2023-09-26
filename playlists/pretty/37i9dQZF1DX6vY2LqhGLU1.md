@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 139 | [Gloria \- Live](https://open.spotify.com/track/3l4f4bD5JePEYHv4mMAOgw) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Emmanuel: Christmas Songs Of Worship \(Deluxe\)](https://open.spotify.com/album/4mNQ4Jm87KEl2HXAQdF0al) | 3:37 |
 | 140 | [O Holy Night \- Live](https://open.spotify.com/track/4mBR7vdP33yfR2w4y3pKHR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Emmanuel: Christmas Songs Of Worship \(Live\)](https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf) | 4:19 |
 
-Snapshot ID: `MCw0ZjkwNzVhOWUzZDg0ZmEwZGNjNTJiNDAyMGJmMWY3YWNlZDllNWYx`
+Snapshot ID: `MCxhYTExZWI5YWJiYWIwMGY2NjZhZjFjMzhjNmVmN2IyOTBlNGVlNzFm`

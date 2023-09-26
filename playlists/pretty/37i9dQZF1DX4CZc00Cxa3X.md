@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, Laurel Halo has finely chosen a selection of Ambient to create her very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,706 likes - 30 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,721 likes - 30 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 29 | [Nicht Ohne Risiko](https://open.spotify.com/track/3aiiS6H6VkFEi8lmiLtIRI) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Dust](https://open.spotify.com/album/7miNRiA7r3DUIfr2GI2Hha) | 1:41 |
 | 30 | [Belleville](https://open.spotify.com/track/4TrfcCaLh5cBP7Rc2X1c1p) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Belleville](https://open.spotify.com/album/0PIYouYL6Sa5biJCRyXfc2) | 2:25 |
 
-Snapshot ID: `MCw0YTE4MjY4OTY3NDI2YmI3NGM1ZjM0MDgwNDE5NDJiZDg2MmM0NjA5`
+Snapshot ID: `MCxhZjM2YzQxN2Q1OTBmNjI0Y2EyM2IzNWRhOGRiOGJhY2I1NTNlNTgx`

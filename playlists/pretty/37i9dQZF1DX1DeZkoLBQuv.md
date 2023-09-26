@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [O Melhor Presente](https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:27 |
 | 50 | [Vem Chegando o Natal](https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5) | [Perlla](https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK) | [Noite de Paz \- Canções para Celebrar](https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1) | 3:13 |
 
-Snapshot ID: `MCxmODBiNWUyZjc5ZDczMWU5Y2YzYmQzMzQ4M2UwY2VkZjc4MDIzY2Yy`
+Snapshot ID: `MCwyMjc4YzFiOGVmYjc1MDJjYzAyMzRlN2E5NDk0YmFmMjNlZDI3MDA1`

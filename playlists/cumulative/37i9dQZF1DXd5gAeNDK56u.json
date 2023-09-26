@@ -38,10 +38,32 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 170126,
       "name": "2face",
       "url": "https://open.spotify.com/track/2NVEDeZ8ZJcEqIBpSAARLT"
+    },
+    {
+      "album": {
+        "name": "2face",
+        "url": "https://open.spotify.com/album/2krIvIH9GdV7jeAN49NCAf"
+      },
+      "artists": [
+        {
+          "name": "Kutoff",
+          "url": "https://open.spotify.com/artist/1Z1aKCA8ivXsGZHfEsuzhv"
+        },
+        {
+          "name": "Classe Beats",
+          "url": "https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170126,
+      "name": "2face",
+      "url": "https://open.spotify.com/track/6g8gWk2DX4olY3lVT0dDGz"
     },
     {
       "album": {
@@ -638,10 +660,32 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 189295,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/0RJD9vHqbcBG9VX8ml9nL2"
+    },
+    {
+      "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/0GRRcND8BPMGmFakvmwqWf"
+      },
+      "artists": [
+        {
+          "name": "Dr. J",
+          "url": "https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi"
+        },
+        {
+          "name": "Classe Beats",
+          "url": "https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/6PuJovR9z3hph9MDCiIVgS"
     },
     {
       "album": {
@@ -1088,7 +1132,7 @@
     {
       "album": {
         "name": "Not Enough",
-        "url": "https://open.spotify.com/album/4fR6ne32b1qv0Mzum1UMC7"
+        "url": "https://open.spotify.com/album/19yHYGsUda5U53PQnPAsVA"
       },
       "artists": [
         {
@@ -1099,6 +1143,24 @@
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/1U77lwBD0RppViVldWJZDc"
+    },
+    {
+      "album": {
+        "name": "Not Enough",
+        "url": "https://open.spotify.com/album/4fR6ne32b1qv0Mzum1UMC7"
+      },
+      "artists": [
+        {
+          "name": "Classe Beats",
+          "url": "https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
       "duration_ms": 176842,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/4mKUzggb15xw0CxE5mrmMi"
@@ -1344,7 +1406,7 @@
     {
       "album": {
         "name": "Step Up",
-        "url": "https://open.spotify.com/album/1gwHWOeTU43i1xkVS97HJE"
+        "url": "https://open.spotify.com/album/5CN1A0rMdMRzFmrVx7VBCG"
       },
       "artists": [
         {
@@ -1355,6 +1417,24 @@
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Step Up",
+      "url": "https://open.spotify.com/track/0fCP1lNsTbAkM9ZR8g5Mny"
+    },
+    {
+      "album": {
+        "name": "Step Up",
+        "url": "https://open.spotify.com/album/1gwHWOeTU43i1xkVS97HJE"
+      },
+      "artists": [
+        {
+          "name": "Classe Beats",
+          "url": "https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
       "duration_ms": 168000,
       "name": "Step Up",
       "url": "https://open.spotify.com/track/6lfBScufvQpMszD2FCHHb1"

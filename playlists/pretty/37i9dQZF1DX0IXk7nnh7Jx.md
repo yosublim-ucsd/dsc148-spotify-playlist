@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A?si=4c149014dd4c4245">King Kaleidoscope</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,692 likes - 150 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,712 likes - 150 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 149 | [Fireflies](https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Fireflies](https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4) | 3:57 |
 | 150 | [Make It](https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ) | [Josiah Russell](https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL), [Mod G](https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6) | [Make It](https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST) | 2:50 |
 
-Snapshot ID: `MCwzN2VlODI0YTQwMDhjNDkyNTRkYjllYWQ4ZDI3ZmFmODBhOWU0ZGUx`
+Snapshot ID: `MCw5YjAwZmU0YjI4ZWUxMjBmZjViMmEwZWE3Yzk2NmM3ZTAyNjljODVi`

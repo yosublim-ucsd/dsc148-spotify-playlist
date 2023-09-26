@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 
 > Cool beats for homework time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,699 likes - 300 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,703 likes - 300 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 299 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 |
 | 300 | [rainy daze](https://open.spotify.com/track/7yqa0s4ZJdHWm4ofHjXwC7) | [Nazaha](https://open.spotify.com/artist/2sLHWzSi6dSE8C5GdHwNtD) | [rainy daze](https://open.spotify.com/album/6WVMFLJCLo8YDQ8Z7HPUrb) | 2:02 |
 
-Snapshot ID: `MCxhYzg3MjUwN2YxZmY3YjM3NjhiZTNhYTZhNWFmOGE2ZGRhYzIzNDg1`
+Snapshot ID: `MCxlZDc3YjQ4NjQ3ZTA1MWZmMGVlNTZhYmRlOGIwZDQxYmVkM2NiMjZi`

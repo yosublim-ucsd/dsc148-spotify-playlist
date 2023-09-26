@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,417 likes - 130 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,444 likes - 130 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [The King In All His Beauty](https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [The King In All His Beauty](https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud) | 4:00 |
 | 130 | [Your Name \- Live](https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d) | [Your Name \(Live\)](https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG) | 6:25 |
 
-Snapshot ID: `MCxiNDgxMWMyZmI2MWJhZGUyN2NlYjJkZTUwNDE3YjBlNWRjMjg1N2Ri`
+Snapshot ID: `MCxlYTZhZjQ4NTgwN2ZiNzc1MDA3NWMzOGIxMzlmNTFjZDA1ZGY1MDgx`

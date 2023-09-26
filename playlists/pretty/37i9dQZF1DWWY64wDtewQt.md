@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,599,516 likes - 100 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,600,911 likes - 100 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 |
 | 100 | [SHOOT TO KILL](https://open.spotify.com/track/4yELBnJLaQ3OAnEeHRzsPs) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [SHOOT TO KILL](https://open.spotify.com/album/5i99bO7QQseHLx0EQNAInu) | 2:06 |
 
-Snapshot ID: `MCw5MmFiMzU2MTAyMWQxYzE2MjE3YjYwODBiNzY2YmU1MDQxN2NiNzU1`
+Snapshot ID: `MCxlMjMwNjViYWFlNGUyZWNhYTIwYjYyYzBjNzcxZjJiNDM4MjU1M2Ri`

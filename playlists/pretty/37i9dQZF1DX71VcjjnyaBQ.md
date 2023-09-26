@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,536 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,570 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Fanølyng](https://open.spotify.com/track/6Brlcuqm8bgTTo5oongQqT) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:18 |
 | 100 | [Los Bandidos Bogarolles](https://open.spotify.com/track/4Z0iEYAkE3fjpu7DG3n7nw) | [Judith O'Higgins](https://open.spotify.com/artist/3OJqhnI1ZkG8UD6diD6Q51), [Dave O'Higgins](https://open.spotify.com/artist/77i77txKM79mxoukQFNaMm), [His'n'Hers](https://open.spotify.com/artist/1Lq8xzHmwzSI1wr5UaVg92) | [Los Bandidos Bogarolles](https://open.spotify.com/album/7djCtwPzAUjSRsyTAEckuu) | 6:55 |
 
-Snapshot ID: `MCxhZjU1MmViNGY2NThiNWYyYzk4OWEyMDU0NWE5Y2ExZGIzNDFhZWMw`
+Snapshot ID: `MCwxMmI1NjZlODRkMjJhOTAzMTk3Mjg4NmRiMzIxYzI4OWViNzQ1NjM1`

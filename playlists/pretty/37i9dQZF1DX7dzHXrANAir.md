@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,523 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,536 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 |
 | 80 | [Enerhodar](https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX), [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [II](https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI) | 4:27 |
 
-Snapshot ID: `MCw4NWQzYTljYzQ4MDQ0ZTJlN2VlNGVmN2IzMDc5NTMxYWE5NzNmNDBj`
+Snapshot ID: `MCw5NTZhOGQ5MTY3ZjUzZTgwYzI0NTEzMThiZWRlNDk1ZDhmODBkMjI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,162 likes - 80 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,195 likes - 80 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Breathing Divinity](https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8) | [Jani Liimatainen](https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [My Father's Son](https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr) | 5:03 |
 | 80 | [Victorious Dinogods](https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Dinosaur Warfare Pt\. 2 – The Great Ninja War](https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr) | 4:46 |
 
-Snapshot ID: `MCw0ZDJkMDY3ZTlhNWU4ZTlmN2MzOWExN2NlZDFjODM3MDI2YjU0NTgz`
+Snapshot ID: `MCwzZDUxYTY0ZmQ4OTQ4YTYxNDQxYzlmZTcyZTRiMWE1MjI1M2U5Mzc3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Jauz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,872 likes - 105 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,879 likes - 105 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 104 | [Tic Tacs](https://open.spotify.com/track/3F9QqoM7T5GofNLYT55ypd) | [Yofi Tofi](https://open.spotify.com/artist/46K80vWigb3NWTFGfwUjfu), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Tic Tacs](https://open.spotify.com/album/12W0xl5xNRAo9Uk9ZdxxCO) | 4:01 |
 | 105 | [Blowin O's](https://open.spotify.com/track/7EiVTY4RzOqoRl1Ir8T5qf) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture Vol 3](https://open.spotify.com/album/0ja7oUDgBKdC8M2qVuWbCe) | 3:22 |
 
-Snapshot ID: `MCw1MWViOWU5YzI2YzAwMWU5ZWVjNTkxODAxYTRiOGFhYzMyMDg1Mzcx`
+Snapshot ID: `MCw4NmE0ZjJlZWRmYmJjY2FkMDYwMDljMTkwNGJjZjM1MDM1Y2UwZmU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. Alaskan Tapes on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,818 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,842 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Sidney's Lullaby](https://open.spotify.com/track/6MQxmNGmQqcJT1uBidQUdS) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Sidney's Lullaby](https://open.spotify.com/album/506gZaqv5DXu8OjrhYui9e) | 3:19 |
 | 100 | [Music For The Motion Picture Double Life](https://open.spotify.com/track/1ZsanfKyO9ARX3UHZknXWO) | [Ava Rasti](https://open.spotify.com/artist/4s2iBVE1aD9bbMN3M0ljKY) | [Music For The Motion Picture Double Life](https://open.spotify.com/album/4VDXFYv47aNsXtu6zvYeYu) | 6:43 |
 
-Snapshot ID: `MCxhY2E0NWI4M2E0ZTlkZDEwZTVjOTMxN2M0NjQyY2NmZDQ0Mzc5YmVj`
+Snapshot ID: `MCxlYWY5OTU5OTBhN2Y2YTllNzgxM2E2NmE5ODQyYWU3NGIyYWI3NjU2`

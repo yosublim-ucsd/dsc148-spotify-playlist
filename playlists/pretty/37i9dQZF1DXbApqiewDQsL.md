@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Manuel Turizo & Grupo Frontera
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,095 likes - 79 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,097 likes - 79 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 78 | [Como el Viento](https://open.spotify.com/track/5LyqFuRn4AaYlkpMFi1W0s) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Como el Viento](https://open.spotify.com/album/6UKDsAVlMkqKqWJgsnCYAK) | 3:18 |
 | 79 | [Glopeta y Dios](https://open.spotify.com/track/3ipLtuOWd0xHEWZKju7foh) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [DELUXE](https://open.spotify.com/album/1GqEkyZqFiv1k45AQzEyHk) | 3:46 |
 
-Snapshot ID: `MCw2NjM4YzkxYWRiOWEyMWFiMjRjNWUxMmU3M2MzNWM0ZTUzYmYzYjUz`
+Snapshot ID: `MCxjY2QzZmM4NjE5NjlmZjc1ZTUwMzAyYzEzMTMxMmEzNjMzMjE4YzQ4`

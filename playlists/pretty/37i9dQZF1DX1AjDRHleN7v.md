@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,727 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,737 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 59 | [sei lá](https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [sei lá](https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h) | 3:12 |
 | 60 | [Enquanto Houver](https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj) | [Walace Fonseca](https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW), [Bruno Harry](https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF) | [Enquanto Houver](https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O) | 3:00 |
 
-Snapshot ID: `MCxmOWQ2ZGU0NTA0ZGJjNzU0MjIxMDU1MzFmNDAwZDM5YjM2NTNjMzNl`
+Snapshot ID: `MCw1ZGVkNzkyNjJhOTAxN2JjZmVhM2ViMDQxZjU4ODFmNzYyMGY1NDUw`

@@ -4,7 +4,7 @@
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 10 min
+69 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ay Mi Dios](https://open.spotify.com/track/4L4MttVsY1WaxSDzFiQefU) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Ay Mi Dios](https://open.spotify.com/album/1JCOUDiJmrVr6YmzLXMHkO) | 4:12 | 2023-08-27 |  |
 | [Ay Mi Dios](https://open.spotify.com/track/5Uel5PmPBZICA0TQTI912U) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Ay Mi Dios](https://open.spotify.com/album/5mL2ReCP9gU2mPnC3SKERE) | 4:12 | 2023-04-06 | 2023-08-28 |
 | [Bonita \- Remix](https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Bonita \(Remix\)](https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA) | 5:22 | 2023-04-06 |  |
+| [Borracho y Loco](https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Borracho y Loco](https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX) | 2:51 | 2023-09-25 |  |
 | [Báilame \- Remix](https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [La Criatura](https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3) | 3:37 | 2023-04-06 |  |
 | [CANCIÓN CON YANDEL](https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 3:29 | 2023-04-06 |  |
 | [Como Antes \(feat\. Wisin\)](https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:30 | 2023-04-06 |  |

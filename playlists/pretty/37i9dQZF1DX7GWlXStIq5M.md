@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Lexa, Thiago Pantaleão
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,976 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,982 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 79 | [FAMOZIN](https://open.spotify.com/track/0zFDNAzOo2bRp16A5enPC5) | [DUPLA 02](https://open.spotify.com/artist/6HvhixjZ5o5GAmfqyFbjOP), [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf) | [FAMOZIN](https://open.spotify.com/album/7ihxtdFBr7WTasX1pD45RO) | 2:10 |
 | 80 | [Venturana](https://open.spotify.com/track/3ngZu880Lq0euIIfYyh7LZ) | [Camaleoa](https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk) | [Venturana](https://open.spotify.com/album/5S5jCik9vydVacGnKfrp1S) | 3:00 |
 
-Snapshot ID: `MCwzNjM2Zjk2NDI4Y2RiZGQzYjNmMWRmNjAxYmUyM2UyMjBmNTU5ZDM1`
+Snapshot ID: `MCxjMzk4MDNiOTA4MjEzMTUwNDY4MTliOGEzN2IwMDlmYzk4M2E1ZmZi`

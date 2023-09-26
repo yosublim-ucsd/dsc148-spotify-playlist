@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,410 likes - 80 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,466 likes - 80 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 79 | [Love Came Down](https://open.spotify.com/track/7F3VROOXA3kwdmHlNFgtCO) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Where I Find You](https://open.spotify.com/album/1MSZhehWbJxSllwb87eKW9) | 4:53 |
 | 80 | [Here's My Heart \- Live](https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:51 |
 
-Snapshot ID: `MCw4MGViZDliY2E3N2M5YzY1YzI3YWI2ZDg4OTQ1NDZlNjkwNWY1OTFh`
+Snapshot ID: `MCxiYjQ3ZWI2Yzg2ZWJhMmJkMzIxNjA3MDE0OWUxODM3YjhkNWU4Y2Nj`

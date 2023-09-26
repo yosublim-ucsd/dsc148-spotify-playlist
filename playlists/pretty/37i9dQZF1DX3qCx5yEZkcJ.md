@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,491,874 likes - 80 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,491,893 likes - 80 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Clout Chaser](https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Clout Chaser](https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI) | 1:52 |
 | 80 | [Camberwell](https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Camberwell](https://open.spotify.com/album/7ALBhgIL3vvB2c5PVUSJ4Y) | 2:13 |
 
-Snapshot ID: `MCwyODI1YmUwYmZmMmJlYzhmYzdjOTQwZTU3OWViNDBkODQ3MWQxNjYy`
+Snapshot ID: `MCwyNWM4N2U5ZmNhYWJjZjI0YTM3Yjc2YWU5OWEzNzdlNTY3NDhlODUx`

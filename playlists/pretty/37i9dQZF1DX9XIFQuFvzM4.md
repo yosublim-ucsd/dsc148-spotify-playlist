@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,623,107 likes - 150 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,623,176 likes - 150 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 149 | [Love Again](https://open.spotify.com/track/16KSqTxxJWUp4W0UU9N0hO) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:30 |
 | 150 | [Soul Man](https://open.spotify.com/track/6eJlEcRmeyQfTlDQBDyqkW) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Atlantic Top 60: Sweat\-Soaked Soul Classics](https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA) | 2:36 |
 
-Snapshot ID: `MCwyYTU5ZDQ3NjQ1YjZmYzAxMzhhOGZhNTI5OWQ0ZmNkNDhiNjZmYTZk`
+Snapshot ID: `MCwyZmViYTkwZGQzNDVmNDg2MjVlZGZhNjg2Yjk4MDVmOWI4YzY0ODJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZASvfwxHkco.md) - [plain]
 
 > 世界中で話題のエレクトリニック・ダンスミュージックを一つのプレイリストに！Cover: Martin Garrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,596 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,601 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZASvfwxHkco.md) - [plain]
 | 79 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 |
 | 80 | [Seven \(feat\. Latto\) \(Alesso Remix\)](https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Seven \(feat\. Latto\) \(Alesso Remix\)](https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb) | 2:42 |
 
-Snapshot ID: `MCxmZTEzMGIzOTk1M2JiMTM4ODg4ZGRjOTk0ODI2ZDAxNGRkOTUwNDBj`
+Snapshot ID: `MCw4NWQxZjdjYzcxOGQyMTUzYWY5OGRjZWExNDk5YjQyN2FiMjdmY2Qw`

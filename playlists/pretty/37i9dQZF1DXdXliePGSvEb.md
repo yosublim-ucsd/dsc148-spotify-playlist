@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Boris Brejcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,542 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,672 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 74 | [Midnight Shift](https://open.spotify.com/track/7prfaRBYep3c2sDfpKWGlS) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Midnight Shift](https://open.spotify.com/album/7LWahcOy2qcTH9YvWOOIB6) | 5:12 |
 | 75 | [Running](https://open.spotify.com/track/0VzV34W0NidIVjz6IPlEEV) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 4:11 |
 
-Snapshot ID: `MCwxM2MyYTEzMmRkZWFiZGE3OTJmYjM0N2Q4YmM4NTg3MDU4YzQ5ZDgz`
+Snapshot ID: `MCwyNTVkMTU3NGNjNzgwNDE5YTZmYTEzMWVjYTc2YjY2M2UyOTc2NmZh`

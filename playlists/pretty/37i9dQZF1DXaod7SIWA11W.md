@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="https://www.thestellarawards.com/index.html">Stellar Award</a> winning artist <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e">Pastor Mike Jr.</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,640 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,650 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 99 | [We Agree With Heaven \(with Todd Dulaney\) \- Live](https://open.spotify.com/track/0z5k7HmMCq1NhVcesqslXX) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [We Agree With Heaven \(with Todd Dulaney\) \[Live\]](https://open.spotify.com/album/7bIZXr5Xd2JZKJYgT5kN09) | 7:55 |
 | 100 | [PAWA](https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul) | [Sam Jamz](https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [PAWA](https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW) | 2:36 |
 
-Snapshot ID: `MCw4MGI4ZTg2YTc2OWQyM2MyYzRhM2QyNmMwYzljNTc3NGY1YTAxNGZl`
+Snapshot ID: `MCw0YTAzMTM1NjZiMmYxNWQ0OGJiNjE0NDk1NDQ2MzhlZmUxOGJhNzM1`

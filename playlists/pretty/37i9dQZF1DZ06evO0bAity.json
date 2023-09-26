@@ -1,31 +1,35 @@
 {
   "description": "This is DZ Deathrays. The essential tracks, all in one playlist.",
-  "num_followers": 1083,
+  "num_followers": 1086,
   "original_name": "This Is DZ Deathrays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNTUwMDUsMDAwMDAwMDAzY2FlOWM2YzZmYmQ2YTBkMzNhNzQwNjM3MDgwN2Y3Nw==",
+  "snapshot_id": "MjgyNjA3MzcsMDAwMDAwMDBjNTQ5NTU2ZTY5MzNjMDA1ZDMyM2JhZjJkOWFlYzQwZg==",
   "tracks": [
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
-        "name": "R.I.F.F",
-        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+        "name": "Paranoid (NERVE Remix)",
+        "url": "https://open.spotify.com/album/31WrHIA3RqdOrJMV7whBHA"
       },
       "artists": [
         {
           "name": "DZ Deathrays",
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
         }
       ],
-      "duration_ms": 218739,
-      "name": "My Mind is Eating Me Alive",
-      "url": "https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL"
+      "duration_ms": 237000,
+      "name": "Paranoid - NERVE Remix",
+      "url": "https://open.spotify.com/track/2n9EcqhwgDO5cgGIMMCHHb"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
@@ -41,7 +45,23 @@
       "url": "https://open.spotify.com/track/3kq7FM2Ot4S1y4Gh5IPpii"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 218739,
+      "name": "My Mind is Eating Me Alive",
+      "url": "https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Bloody Lovely",
         "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/4Pa9lwNySYtucuHEsCyA1R"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "MURDER ME (DZ Deathrays Remix)",
         "url": "https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl"
@@ -77,23 +97,7 @@
       "url": "https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
-      "album": {
-        "name": "R.I.F.F",
-        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "King B",
-      "url": "https://open.spotify.com/track/6xqUpuxqktp3eLQEPUDHyM"
-    },
-    {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Pollyanna",
         "url": "https://open.spotify.com/album/4kQSRFsF773glePY10mDpr"
@@ -109,7 +113,23 @@
       "url": "https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "King B",
+      "url": "https://open.spotify.com/track/6xqUpuxqktp3eLQEPUDHyM"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Bloody Lovely",
         "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/4FggQNqaC7ZVzfIWRLv2N5"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Positive Rising (Pt. 1)",
         "url": "https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN"
@@ -141,23 +161,7 @@
       "url": "https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
-      "album": {
-        "name": "R.I.F.F",
-        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 135373,
-      "name": "Tuff Luck",
-      "url": "https://open.spotify.com/track/6QDUktkEmZNKOyFkfco3Ko"
-    },
-    {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Rock Star (triple j Like a Version)",
         "url": "https://open.spotify.com/album/0sxfvjciRWGiS1y9cNXbA6"
@@ -177,7 +181,23 @@
       "url": "https://open.spotify.com/track/06niWHnh1Rz6IyEoIahi8m"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 135373,
+      "name": "Tuff Luck",
+      "url": "https://open.spotify.com/track/6QDUktkEmZNKOyFkfco3Ko"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Bloody Lovely",
         "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/53cdjpWN1AM3WCU4DhEQx0"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
@@ -209,39 +229,7 @@
       "url": "https://open.spotify.com/track/5q4MPKCtF5IlDQgxSvQwmX"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
-      "album": {
-        "name": "R.I.F.F",
-        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Hope for the Best",
-      "url": "https://open.spotify.com/track/3nQI4mYa0NPQ89dK8OKHyW"
-    },
-    {
-      "added_at": "2023-09-21 12:45:07",
-      "album": {
-        "name": "Positive Rising: Part 2",
-        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 215613,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/13nIVQX1UgXlQkpQEjwaoC"
-    },
-    {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Positive Rising: Part 1",
         "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
@@ -257,23 +245,7 @@
       "url": "https://open.spotify.com/track/05vvAUSJ1MJxO1Z831dIlT"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
-      "album": {
-        "name": "Black Rat",
-        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 252906,
-      "name": "Northern Lights",
-      "url": "https://open.spotify.com/track/7rqT91xTSrCx2pzjBvBYZ7"
-    },
-    {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "R.I.F.F",
         "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
@@ -284,12 +256,28 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 136933,
-      "name": "Shadow Walk",
-      "url": "https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc"
+      "duration_ms": 187280,
+      "name": "Hope for the Best",
+      "url": "https://open.spotify.com/track/3nQI4mYa0NPQ89dK8OKHyW"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 215613,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/13nIVQX1UgXlQkpQEjwaoC"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4"
@@ -305,23 +293,7 @@
       "url": "https://open.spotify.com/track/2hDuoERoV2umWbV2RBKNaP"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
-      "album": {
-        "name": "Positive Rising: Part 1",
-        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 212440,
-      "name": "Still No Change",
-      "url": "https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl"
-    },
-    {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
@@ -332,12 +304,12 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 211600,
-      "name": "Reflective Skull",
-      "url": "https://open.spotify.com/track/65Xbss8BBrwYSpcIQXSCTa"
+      "duration_ms": 252906,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/7rqT91xTSrCx2pzjBvBYZ7"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "R.I.F.F",
         "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
@@ -348,12 +320,12 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 175160,
-      "name": "Eat You Up",
-      "url": "https://open.spotify.com/track/4IdkJYJlNwXydIMR7VeYF9"
+      "duration_ms": 136933,
+      "name": "Shadow Walk",
+      "url": "https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Bloody Lovely",
         "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
@@ -369,7 +341,71 @@
       "url": "https://open.spotify.com/track/2wDPr4OAaQRskL3Qjx8d8P"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 212440,
+      "name": "Still No Change",
+      "url": "https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "Black Rat",
+        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Reflective Skull",
+      "url": "https://open.spotify.com/track/65Xbss8BBrwYSpcIQXSCTa"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Eat You Up",
+      "url": "https://open.spotify.com/track/4IdkJYJlNwXydIMR7VeYF9"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 70529,
+      "name": "Bad Influence",
+      "url": "https://open.spotify.com/track/6VDywWJSLDBGJfKTx0cP7j"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Front Row Hustle",
         "url": "https://open.spotify.com/album/09TdDGWBeDqdEx4TjZkDPk"
@@ -397,7 +433,7 @@
       "url": "https://open.spotify.com/track/0JNmthvbaoZlUaHfhpBo4V"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
@@ -413,7 +449,7 @@
       "url": "https://open.spotify.com/track/249tkfoGJ8fvMbRITqa7Wk"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Blood On My Leather",
         "url": "https://open.spotify.com/album/0AdRZ0MgfYiWC1Xm8YKpAh"
@@ -429,7 +465,7 @@
       "url": "https://open.spotify.com/track/2yX5Hz2SvtGvfNnI879xrf"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Bloody Lovely",
         "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
@@ -445,7 +481,7 @@
       "url": "https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Positive Rising: Part 2",
         "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
@@ -461,23 +497,7 @@
       "url": "https://open.spotify.com/track/4mB3AR9AMyP2jV8nZjIRV4"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
-      "album": {
-        "name": "Run To Paradise",
-        "url": "https://open.spotify.com/album/1gg1EagawFhWLP64wcbqJT"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 194625,
-      "name": "Run To Paradise",
-      "url": "https://open.spotify.com/track/5Farmm0MaT8hCsOLOZyhHV"
-    },
-    {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
@@ -493,10 +513,10 @@
       "url": "https://open.spotify.com/track/7KZbJBjcUE0x4rHbk0fQU0"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
-        "name": "Bloody Lovely",
-        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+        "name": "Run To Paradise",
+        "url": "https://open.spotify.com/album/1gg1EagawFhWLP64wcbqJT"
       },
       "artists": [
         {
@@ -504,12 +524,28 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 70529,
-      "name": "Bad Influence",
-      "url": "https://open.spotify.com/track/6VDywWJSLDBGJfKTx0cP7j"
+      "duration_ms": 194625,
+      "name": "Run To Paradise",
+      "url": "https://open.spotify.com/track/5Farmm0MaT8hCsOLOZyhHV"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "ReWiggled",
+        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 75568,
+      "name": "Hot Potato",
+      "url": "https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Positive Rising: Part 2",
         "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
@@ -525,7 +561,23 @@
       "url": "https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 264600,
+      "name": "Hypercolour",
+      "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Positive Rising (Pt. 2/ Deluxe)",
         "url": "https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU"
@@ -545,7 +597,7 @@
       "url": "https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Make Yourself Mad",
         "url": "https://open.spotify.com/album/7gRumG1rTgiTrHuH6S7Fxe"
@@ -561,23 +613,7 @@
       "url": "https://open.spotify.com/track/575WHTkmnohs1agEfIoRGS"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
-      "album": {
-        "name": "ReWiggled",
-        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 75568,
-      "name": "Hot Potato",
-      "url": "https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S"
-    },
-    {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Bloodstreams",
         "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
@@ -593,23 +629,7 @@
       "url": "https://open.spotify.com/track/7KdEhcj5B69l9sVBgnff0o"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
-      "album": {
-        "name": "Positive Rising: Part 1",
-        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 264600,
-      "name": "Hypercolour",
-      "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
-    },
-    {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Positive Rising: Part 2",
         "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
@@ -625,71 +645,7 @@
       "url": "https://open.spotify.com/track/4NjJkdn01Mf5xGptES9225"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
-      "album": {
-        "name": "Positive Rising: Part 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/2lVNWUXvBGvRCFgUnrAsH0"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 161186,
-      "name": "Say It To My Face",
-      "url": "https://open.spotify.com/track/5YbMlrI8fn74ySYCBsLQFy"
-    },
-    {
-      "added_at": "2023-09-21 12:45:07",
-      "album": {
-        "name": "Bloodstreams",
-        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 235080,
-      "name": "Gebbie Street",
-      "url": "https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q"
-    },
-    {
-      "added_at": "2023-09-21 12:45:07",
-      "album": {
-        "name": "Ruined My Life",
-        "url": "https://open.spotify.com/album/6DmNm4kgQ8ImBla8OvEahZ"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "The Mess Up",
-      "url": "https://open.spotify.com/track/2l1DgrC0PobfxiFwtN8BEo"
-    },
-    {
-      "added_at": "2023-09-21 12:45:07",
-      "album": {
-        "name": "Positive Rising: Part 2",
-        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 192346,
-      "name": "Swept Up",
-      "url": "https://open.spotify.com/track/6SCv4UuNG89w6ld4w5x82N"
-    },
-    {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Positive Rising: Part 1",
         "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
@@ -705,7 +661,23 @@
       "url": "https://open.spotify.com/track/5yuaGKyNmZ4km7BaD5vB0I"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "Positive Rising: Part 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/2lVNWUXvBGvRCFgUnrAsH0"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 161186,
+      "name": "Say It To My Face",
+      "url": "https://open.spotify.com/track/5YbMlrI8fn74ySYCBsLQFy"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Bloodstreams",
         "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
@@ -716,12 +688,44 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Cops / Capacity",
-      "url": "https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP"
+      "duration_ms": 235080,
+      "name": "Gebbie Street",
+      "url": "https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 192346,
+      "name": "Swept Up",
+      "url": "https://open.spotify.com/track/6SCv4UuNG89w6ld4w5x82N"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "Ruined My Life",
+        "url": "https://open.spotify.com/album/6DmNm4kgQ8ImBla8OvEahZ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "The Mess Up",
+      "url": "https://open.spotify.com/track/2l1DgrC0PobfxiFwtN8BEo"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Brutal Tapes",
         "url": "https://open.spotify.com/album/1I1o9EWBFxbWkY1wO4tTGu"
@@ -737,7 +741,23 @@
       "url": "https://open.spotify.com/track/6pQb4fJwH1WY21wfiYiSB9"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Cops / Capacity",
+      "url": "https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP"
+    },
+    {
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Positive Rising: Part 2",
         "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/3cDHzxJC3bJQB1XlmZ5kYH"
     },
     {
-      "added_at": "2023-09-21 12:45:07",
+      "added_at": "2023-09-25 12:17:08",
       "album": {
         "name": "Bloodstreams",
         "url": "https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX"

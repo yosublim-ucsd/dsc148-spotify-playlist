@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,008 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,055 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 74 | [Yeh Jaane Kaisa Raaz Hai](https://open.spotify.com/track/3oOS9fuJ4tfu533xytOGLt) | [Farhan Akhtar](https://open.spotify.com/artist/0XL6ie7a0NY5FM05b9Rn5L) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 1:17 |
 | 75 | [Nindiya Re \- Studio Version](https://open.spotify.com/track/0NsYZt7iTFoLMw3pZTQEDQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Nindiya Re \(Studio Version\)](https://open.spotify.com/album/1vgKFdjExQyCqcHmYap5cT) | 3:45 |
 
-Snapshot ID: `MCw5ZGQ3ODZmOGRmMjNmMzA0MjExYzJhNmMzZjM3NjMwYTAwZmU2OGU5`
+Snapshot ID: `MCw5OGRjZGFkZWM0Njk0YTg5YWI4MDNkYThlYWYyODEwZTMyN2E3YjQx`

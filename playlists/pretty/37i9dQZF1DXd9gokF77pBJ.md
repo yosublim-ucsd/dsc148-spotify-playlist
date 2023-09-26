@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,196 likes - 64 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,223 likes - 64 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 8 | [Acidisco \- Make a Dance Desert Dub](https://open.spotify.com/track/0N5CyJLva2EtcqVb6vcAdW) | [International Dateline](https://open.spotify.com/artist/5poGuUNKMZBFAXUaozvM0D), [Make A Dance](https://open.spotify.com/artist/0uCHsPscaxehIexzf7nkXP) | [Acidisco \- EP](https://open.spotify.com/album/0z77mzC8hR9kyDqtDG8f1D) | 6:13 |
 | 9 | [Multiverse](https://open.spotify.com/track/7sgkFVX0Ui4KUbOuCX6Qd7) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Multiverse](https://open.spotify.com/album/39TLoQiwqwjCweU5h0SL5D) | 5:34 |
 | 10 | [Deep Down Inside](https://open.spotify.com/track/5fiA92R4zYxkyoDdGtLzqZ) | [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93), [Steven Klavier](https://open.spotify.com/artist/6afCqX5uThiL23gPSBF4Pt) | [Touch Want Feel](https://open.spotify.com/album/6L7IiJutz0v6dZAGq8ON9Y) | 6:43 |
-| 11 | [Se Você](https://open.spotify.com/track/4c1GxixlLUoaO8MahATpDC) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Se Você](https://open.spotify.com/album/0VIBDPAciy1GaUZLXCpd03) | 5:56 |
+| 11 | [Se Você](https://open.spotify.com/track/3XAKA31uYJgtFQ3E9nYYaV) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Se Você](https://open.spotify.com/album/7yAf2BYuRrY7KCcxhntRIZ) | 5:56 |
 | 12 | [Love Dance \- 12" Version](https://open.spotify.com/track/1BKbxnRJ1NtJZALGKdDg1K) | [Lou Volpe](https://open.spotify.com/artist/0czEVySaLfpaiCpeaFivNj) | [Love Dance](https://open.spotify.com/album/2eqHpmQZgokcTNn2QiLR3G) | 5:41 |
 | 13 | [Holy Hell](https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM) | 3:12 |
 | 14 | [Give It Up \- Benedek Remix](https://open.spotify.com/track/3eVMPisMsgCWPX6P3wdhOy) | [RTSAK](https://open.spotify.com/artist/7hmvyhIFgGqbB7lQG0XITE), [Raphael Top\-Secret](https://open.spotify.com/artist/4S2QjREWX0Je6yjRApLAFs), [Antoine Kogut](https://open.spotify.com/artist/0fSzoVDpnYSWxnuiILlJLt), [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t) | [Give It up / The Way They Do](https://open.spotify.com/album/5RBQTTRi1inbEGGIv7MOaW) | 4:41 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 63 | [At Dawn](https://open.spotify.com/track/3Wpp6NmbrhNkGCFHEKrozI) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [At Dawn](https://open.spotify.com/album/3FBW0RcapjzuAsSctHBI1S) | 5:15 |
 | 64 | [Dream in Colour](https://open.spotify.com/track/1U4ISP7PHD5htMyAbZf0wT) | [Gee Dee](https://open.spotify.com/artist/6zhznXCXUsNdkOSr3QfBSz) | [Dream in Colour EP](https://open.spotify.com/album/0PFITwpnr4yarSMkITb11Y) | 6:24 |
 
-Snapshot ID: `MCw5NzU4YjVkODc1MTNkZWVkMzgwNDFmYTEyNWI0NDIwZDU5NjhhYjc2`
+Snapshot ID: `MCw5NTgwZmI0NGI2ZmM3YmQzMjIwNDY5NjkyYjk2OWU4ODM2Y2QxZWYw`

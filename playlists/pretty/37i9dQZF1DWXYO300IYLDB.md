@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,253 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,251 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 99 | [Separate Ways \(Worlds Apart\) \- Stripped Down](https://open.spotify.com/track/7vIucU2XRSATEeXjjzzToQ) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Separate Ways \(Worlds Apart\) \[Stripped Down\]](https://open.spotify.com/album/0M2Um59muj9gb80oRlTyDX) | 4:22 |
 | 100 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 |
 
-Snapshot ID: `MCw4NmY4OGJjYzU2NDRiMDRkMjUzNzVkMjZlM2Y5NTA4MjgxMjAzZjBl`
+Snapshot ID: `MCxjMTE1MjE5YmVhMDQwNGQ5NWMyYzQ4ZWQ3ODMxMGRkNDJmODEwN2I3`

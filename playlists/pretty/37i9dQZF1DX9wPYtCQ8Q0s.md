@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,016 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,020 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 99 | [Bonde da Rock](https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Bonde da Rock](https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7) | 2:17 |
 | 100 | [ROOF](https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Back On My Baby Jesus Sh!t AGAIN](https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B) | 1:34 |
 
-Snapshot ID: `MCw2YWJmOWE4MTkxOTBmNGMyNzEyYzEyYmJiN2UxYjA2MjcwMGMyMzFl`
+Snapshot ID: `MCxhMWVmYzNhN2FjOGY2ZjdmMDI5NGZkNTgxODAyZGY3MDIwNGY2Y2Ew`

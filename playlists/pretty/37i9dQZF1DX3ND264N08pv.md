@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,211 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,244 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Antidote](https://open.spotify.com/track/6lmpE4fLJcfCKxJViIRjZK) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Masters Of Hardcore Chapter XLIV](https://open.spotify.com/album/2Y0PWBnphib2osozApxHou) | 3:42 |
 | 100 | [The Protector](https://open.spotify.com/track/48IF3j773hpoiFt97HyooD) | [Distinction](https://open.spotify.com/artist/03FPXOHxGckbmbTQVqXmm3), [Kelly](https://open.spotify.com/artist/1EfC8FYxeatTpN8RZBiiHT) | [It's Time EP](https://open.spotify.com/album/4mxwkTvcFUddpupBXJz8Lp) | 3:59 |
 
-Snapshot ID: `MCw2MTAxYjhmNWQyYzIzN2I4YTk5OTYxMDE0ZGMwYjNkMWQwYTU4MTk4`
+Snapshot ID: `MCwxYzc5OTM4NjBlN2QyNDlkZmNiZWZmZDI5Njc1YjE4YzY3MmEwYWUx`

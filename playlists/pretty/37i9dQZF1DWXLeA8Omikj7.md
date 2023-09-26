@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,676,782 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,676,849 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Half Awake](https://open.spotify.com/track/4ReGLAJLZZKFonhQcRXTRU) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/2vhK0Pw1fm7ep0qzq0pZXc) | 3:18 |
 | 100 | [Stranger to One](https://open.spotify.com/track/0NaOI7rSBynlCl5ss2R2Hj) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Time to Recover](https://open.spotify.com/album/7wzFqOBxEWo6gmvFntCtSP) | 2:16 |
 
-Snapshot ID: `MCw4Njk4MjYyM2Q0ODUxYzJhZDNiYTM4ZTdlYWQ4M2EyNWQxNmFiZmMy`
+Snapshot ID: `MCwzMTBlZGQwOGNkZTc0ZmQ5OTIyMWQyOGJkMDMyNzFlZmM3ZWE1N2Zl`

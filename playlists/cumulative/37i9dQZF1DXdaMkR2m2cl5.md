@@ -4,7 +4,7 @@
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-240 songs - 15 hr 0 min
+241 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Sit Here And Love Me](https://open.spotify.com/track/3HNmRvdUy8Ms0iefdvM0nk) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Sit Here And Love Me](https://open.spotify.com/album/1uxkoe2SMjfBabPr6MWSJP) | 3:25 | 2020-11-25 | 2022-07-29 |
 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 | 2020-11-25 |  |
 | [Spark, Set Fire](https://open.spotify.com/track/00vPAsfTwvicR45W2PE20o) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/6IY3dzTK8UZCJpzMO3TqyH) | 3:51 | 2020-11-25 | 2023-09-05 |
+| [Spark, Set Fire](https://open.spotify.com/track/0TK8SoeO0GVmUV1060bA4T) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/1AexYaxNPcGb3PY3icXXIX) | 3:51 | 2023-09-15 |  |
 | [Sparklers](https://open.spotify.com/track/4nKWycT7IEMCJqCfAy7mTc) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Olympic Girls](https://open.spotify.com/album/2fXjFuPIS8mmNjzrm20t4k) | 3:46 | 2020-11-25 | 2022-03-18 |
 | [Stay Alive](https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/17ibSQkQUrD4LQ0uZSyQ7H) | 3:01 | 2020-11-25 | 2022-07-22 |
 | [Stay Alive](https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:01 | 2020-11-25 |  |
@@ -210,7 +211,7 @@
 | [The Wolves](https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:05 | 2020-11-25 | 2023-04-29 |
 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 | 2020-11-25 | 2022-07-29 |
 | [The Woods \- Acoustic](https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI) | 3:59 | 2020-11-25 |  |
-| [This Sweet Love](https://open.spotify.com/track/1aPIOiggxmM2pjDBky1HIo) | [James Yuill](https://open.spotify.com/artist/0jypmaLN034G9UkeQdqsps) | [Turning Down Water For Air](https://open.spotify.com/album/7kpw1eWU9vr1K6BnFXKJ3r) | 3:43 | 2020-11-25 |  |
+| [This Sweet Love](https://open.spotify.com/track/1aPIOiggxmM2pjDBky1HIo) | [James Yuill](https://open.spotify.com/artist/0jypmaLN034G9UkeQdqsps) | [Turning Down Water For Air](https://open.spotify.com/album/7kpw1eWU9vr1K6BnFXKJ3r) | 3:43 | 2020-11-25 | 2023-09-26 |
 | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:26 | 2020-11-25 |  |
 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 | 2020-11-25 | 2023-07-16 |
 | [Three Oh Nine](https://open.spotify.com/track/3VZuWLaacuE4Qis1ln8b1J) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:32 | 2020-11-25 |  |

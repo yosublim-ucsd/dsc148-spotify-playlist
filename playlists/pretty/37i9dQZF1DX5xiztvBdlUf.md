@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,797 likes - 80 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,841 likes - 80 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Yesterday Lovers](https://open.spotify.com/track/01bh3fz0TFPA1Onsfj4nA4) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yesterday Lovers EP](https://open.spotify.com/album/1ag11nTE38FpiVbTFo1uMD) | 6:35 |
 | 80 | [To Be Written \- Lunar Plane Remix](https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r), [Lunar Plane](https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy) | [To Be Written](https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2) | 6:33 |
 
-Snapshot ID: `MCwwMTljNjQ2MjgzMzI2NmQ4YzUzNjdkZTVhNThlZmEzY2ZjMzE1ZmNh`
+Snapshot ID: `MCxkNDgyNmYzMDA2MjBmM2JhODA0YjdhYTg3MmIxZGE5NWZjODI4ZDll`

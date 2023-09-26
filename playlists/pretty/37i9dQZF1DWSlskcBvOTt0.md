@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,854 likes - 125 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,899 likes - 125 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [On My Mind](https://open.spotify.com/track/6LBNRWUS3dKeZxREy3WHTL) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [On My Mind](https://open.spotify.com/album/6VcvfOH50yuKWVaeluq2SJ) | 4:20 |
 | 125 | [Rainchecks In Montreal \- Roy Rosenfeld Remix](https://open.spotify.com/track/5GkhUSAoSz7Pp4F6VIUbVw) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Roy Rosenfeld](https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk) | [Rainchecks In Montreal](https://open.spotify.com/album/7hyqsbXob3bcwk8Jml4rfP) | 8:00 |
 
-Snapshot ID: `MCxiMWIzY2ExMTA4MmYxOWVmNGRjZjQwMjIyMjNmMThjY2MwOGE3MDIz`
+Snapshot ID: `MCxlZjk4ZDZkNDM3NzliZTYyZWFmYWIyYmQ0ZDVjOGM4NzQ4NTE5NWFh`

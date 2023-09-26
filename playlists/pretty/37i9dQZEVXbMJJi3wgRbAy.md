@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMJJi3wgRbAy.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,151 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,152 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMJJi3wgRbAy.md) - [plain]
 | 49 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 |
 | 50 | [Buenas](https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Buenas](https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag) | 3:12 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

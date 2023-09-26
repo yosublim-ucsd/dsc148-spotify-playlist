@@ -124,7 +124,7 @@
 | [Wheels On The Bus](https://open.spotify.com/track/1IoEITHkdiep6Slg3Hti0h) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Rise and Shine](https://open.spotify.com/album/42xceqLtghqbHcStOOeKep) | 1:40 | 2022-11-30 |  |
 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 | 2022-11-30 |  |
 | [You're My Best Friend](https://open.spotify.com/track/5k5OipChvcAnF6tbOBxMyB) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Unlock the Music, Season 2](https://open.spotify.com/album/2eFqlnnZ8bAFt4yjHtjSG9) | 2:39 | 2022-11-30 |  |
-| [You've Got a Friend in Me \- From "Toy Story"/Soundtrack Version](https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 2:04 | 2022-11-30 |  |
+| [You've Got a Friend in Me](https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 2:04 | 2022-11-30 |  |
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2021-12-01 | 2022-12-01 |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

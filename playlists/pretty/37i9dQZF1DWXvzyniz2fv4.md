@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,772 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,781 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 |
 | 75 | [Te Ver De Novo](https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny) | [Te Ver De Novo](https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI) | 2:48 |
 
-Snapshot ID: `MCxlMzFiMDYzMWUxMWNlYTJkZGRlZGU0MTg5MzI0MWEzMmQ1ZDYwMDAw`
+Snapshot ID: `MCw0ZTQ5MjYxZDVjZjQ3MDgzMTk3MTQ1MTBlOTE2NTNmODVjYTEyNTE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 
 > Press play, press start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,254,878 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,255,151 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 | 99 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
 | 100 | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 |
 
-Snapshot ID: `MCw0NTUyM2MzYzJjYmRhNzk3Nzg0ZDViNTYyYjI0MTNlYzIxNmQ4MTU2`
+Snapshot ID: `MCwzODM0NDZiNGE2NTQ2YzE2Mjc4NGY3NmYyYmUwOGI3NzhlOWRjOGUx`

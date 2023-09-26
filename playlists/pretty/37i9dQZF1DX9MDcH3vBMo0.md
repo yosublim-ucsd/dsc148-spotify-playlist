@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,697 likes - 250 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,763 likes - 250 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 249 | [Things Unsaid](https://open.spotify.com/track/1HDwUXmzoVXyBV8onqUyUv) | [Marcos Betancourt](https://open.spotify.com/artist/7JjCfmLQHeuWreo08C7hBt) | [Walking Home](https://open.spotify.com/album/7HEfIdgk9TQjlnnroQAgzM) | 2:41 |
 | 250 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 |
 
-Snapshot ID: `MCwyMDkxZTkzZjM0MTA4NzYxM2I0NmEzYjY1NDJkOWRjOTYyZDNhMmFj`
+Snapshot ID: `MCxkODQ5MjM4NmQ0YjBkZGY0MzkxODJkMTdkMzg0OGRkNDAwNjhmMzdl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Shakira \#DiaDeShakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,840 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,865 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [LQTQH](https://open.spotify.com/track/2rEtrKowZlSwB3YJU9KJhL) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [LQTQH](https://open.spotify.com/album/5HPXDjAoNY2sLab8HotJ59) | 2:41 |
 | 100 | [Almas Gemelas](https://open.spotify.com/track/5Y37PYMXdUxfpCWn9o5r6f) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [12 12](https://open.spotify.com/album/6zSJ3hOlv7MdsBnoTsorpd) | 2:09 |
 
-Snapshot ID: `MCxiNjNhNzg1MmRkNWVjMTJjMTA2YmE4NGYxZWIyOWIzYTQ1ZTc0NmNh`
+Snapshot ID: `MCxmNDQyMTgzZDFkNWY5ODA2NGFkMTU0YjY0YTUwOWMxOGE2OGIwYTUz`

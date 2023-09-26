@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,533 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,550 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 74 | [Fraulein](https://open.spotify.com/track/763CAJyB9ZXHntB3QCpduv) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [20 Of His Best](https://open.spotify.com/album/3eTEUdyzfz0lK2drXtcYt0) | 2:41 |
 | 75 | [Tennessee Stud \- Remastered](https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 3:05 |
 
-Snapshot ID: `MCw1MTU0YzRmZTg1MDMxOTcyZDhlMmQzYTIyMDQ2ZTZiZGMyNGZjN2E3`
+Snapshot ID: `MCw5NjI3Y2U0M2Y0YzNkMmVjZGQ2YWJkZTQxZjViZjZmNzEwZGEyM2I5`

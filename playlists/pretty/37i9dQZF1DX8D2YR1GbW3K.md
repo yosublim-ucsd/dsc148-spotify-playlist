@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,244 likes - 125 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,286 likes - 125 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Tell Me](https://open.spotify.com/track/3M4BopyY1lODi4uBpSoDSQ) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Tell Me](https://open.spotify.com/album/05E9e8OeLQJ5QCjGOyLvZL) | 4:41 |
 | 125 | [Million Voices \- Extended Original Mix](https://open.spotify.com/track/70R53Oq9IegG1kwhxo2Lxm) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 5:57 |
 
-Snapshot ID: `MCw0NDViNzcyZmI3ZWU4NGY5NjM0NjE2NzA0NDVkYmU0NDZlMTBmZDQ3`
+Snapshot ID: `MCw2YzI4ZTM0OWI3ZTlkMTI0MmNmN2MzODdmYmE0YWUxOGU1NDA1NTA2`

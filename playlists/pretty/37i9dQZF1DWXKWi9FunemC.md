@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,046 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,109 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [I See It Now](https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [I See It Now](https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D) | 3:09 |
 | 100 | [Find My Home](https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK) | [Shiny Penny](https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy) | [Find My Home](https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy) | 4:20 |
 
-Snapshot ID: `MCw0YWVmMDYzNjYwNzRlMDQ3OTNlOTE1ZmI3ZDNhZjQyODgwZmNiMWMz`
+Snapshot ID: `MCw4YWY4YjBhMGQ3Nzg5NDljNjhiMTEwYTYxM2FlMGU0YWZlMzUxOWQ3`

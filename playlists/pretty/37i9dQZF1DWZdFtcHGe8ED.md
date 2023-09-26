@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,244 likes - 120 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,270 likes - 120 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Give Me Leather](https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Speed Between the Lines](https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA) | 3:50 |
 | 120 | [Masked Jackal](https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Punishment for Decadence](https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX) | 4:47 |
 
-Snapshot ID: `MCw1ZjYyYjk2ODE4NzJhZmNjMDJmYzk2M2U5ZDYzZDlhYjI3OTdjMTY3`
+Snapshot ID: `MCwwMTYwMDMxOTNhMjI2MTFlNGE2NTcyMmJmMDY0Y2E3Y2FlN2MxNzcx`

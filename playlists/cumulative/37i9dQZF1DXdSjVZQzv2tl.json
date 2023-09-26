@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Henrique & Juliano",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Z\u00e9 Neto & Cristiano",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Cintilante (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173370,
+      "name": "Dois Fugitivos - Ao Vivo",
+      "url": "https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I"
+    },
+    {
+      "album": {
         "name": "DONA DE MIM",
         "url": "https://open.spotify.com/album/6gUUHKk5qcIHyffnbfApNO"
       },
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 169231,
       "name": "Fulano - Ao Vivo",
       "url": "https://open.spotify.com/track/5TnsVrA7pQn3HgL3XBcX7J"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 201262,
       "name": "Hackearam-me",
       "url": "https://open.spotify.com/track/72vwG7lcOTPgT2YgYpg505"
@@ -1915,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "LUAN CITY 2.0 - FASE 2",
+        "url": "https://open.spotify.com/album/3HZoYUVz3aRNa7xL8LIg8Y"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190293,
+      "name": "MULHER SEGURA - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KhLYwYVhi13hMhxX73m55"
+    },
+    {
+      "album": {
         "name": "M\u00e1gica (Ao Vivo)",
         "url": "https://open.spotify.com/album/1e3FBSBxbutzfpC5tAe2w8"
       },
@@ -1944,7 +1980,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 148900,
       "name": "M\u00e9dia Boa - Ao Vivo",
       "url": "https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO"
@@ -2520,6 +2556,24 @@
       "duration_ms": 144298,
       "name": "Quando Apaga A Luz - Ao Vivo",
       "url": "https://open.spotify.com/track/1nf1HJdTWXwf9XHQebGlOd"
+    },
+    {
+      "album": {
+        "name": "To Be (Ao Vivo Em Nova Iorque EP1)",
+        "url": "https://open.spotify.com/album/5WeYemRNOgJ1sfcXJcgf6N"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178251,
+      "name": "Quase Algo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP"
     },
     {
       "album": {

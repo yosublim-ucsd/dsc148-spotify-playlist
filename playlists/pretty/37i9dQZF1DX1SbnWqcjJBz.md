@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,866 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,907 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 99 | [Nothing in This World](https://open.spotify.com/track/4XRGwyAARL21fesc6BvliF) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Paris \(U.S\. Standard Version\)](https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs) | 3:09 |
 | 100 | [Show Me How You Burlesque \(Burlesque\) \- Original Motion Picture Soundtrack](https://open.spotify.com/track/3my8nYpb74vfIPyRPo0zVq) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/65jNkB2GjWLUZ223XmuKLT) | 2:59 |
 
-Snapshot ID: `MCwzODFlOWU0NzJhNGNkNjcxNjgyMzJkMThmY2M4ZmRkYjY2ODY5NDMz`
+Snapshot ID: `MCw1NWFhNGYwNzZlNWE4NTZjYmEyNzc2YWQ3ODg5MDFjNmJmZDkwOGY5`

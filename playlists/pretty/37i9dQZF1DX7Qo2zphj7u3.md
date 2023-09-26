@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 
 > Éxitos románticos, de hoy y de siempre\. Foto: Laura Pausini
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,035,314 likes - 250 songs - 16 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035,373 likes - 250 songs - 16 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 | 249 | [Tengo Todo Excepto a Ti](https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:32 |
 | 250 | [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 |
 
-Snapshot ID: `MCw4Yjc2Zjk4ZjJkYzRhZDdhZTBjNDExYzg5N2NiMWVmMzlmMmMzZjRl`
+Snapshot ID: `MCwxNjA3NTZiZmQ2N2I3YzAyYTIxM2U5Y2M1MGM1MGQ5ZWU3YzRlZGQx`

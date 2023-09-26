@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A medio camino",
+        "url": "https://open.spotify.com/album/3LIlsKOlDzWYosREO60Cgs"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172811,
+      "name": "A partir de ah\u00ed",
+      "url": "https://open.spotify.com/track/1FMsxyf8w9PnhcA6POZ0vV"
+    },
+    {
+      "album": {
         "name": "A Rianxeira",
         "url": "https://open.spotify.com/album/796dod5MMuXxHfLhYKAbuP"
       },
@@ -895,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Crazy Life",
+        "url": "https://open.spotify.com/album/3N5BvC9o2V2huzPmIxRoI4"
+      },
+      "artists": [
+        {
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213217,
+      "name": "Crazy Life",
+      "url": "https://open.spotify.com/track/6HetWMoIuWJpTRuhk82x5U"
+    },
+    {
+      "album": {
         "name": "Crimen en el Para\u00edso",
         "url": "https://open.spotify.com/album/6hbngLUDo5Duzx1Yecsou3"
       },
@@ -1730,7 +1766,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 220620,
       "name": "Esc\u00e1pate conmigo",
       "url": "https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt"
@@ -1864,7 +1900,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 264354,
       "name": "Fuera de Ritmo",
       "url": "https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7"
@@ -2017,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Invierno, Ayni II",
+        "url": "https://open.spotify.com/album/69TZfUN1aX7nI2ZmsB2Fl6"
+      },
+      "artists": [
+        {
+          "name": "Skaldik",
+          "url": "https://open.spotify.com/artist/1FxkMcxmouciAx4Fb4x3n7"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198591,
+      "name": "Invierno, Ayni II",
+      "url": "https://open.spotify.com/track/29plloxh2pA8h9D4RlkOfb"
+    },
+    {
+      "album": {
         "name": "1997-2002",
         "url": "https://open.spotify.com/album/0WMdVs6ArgHzWx81zmqwci"
       },
@@ -2108,7 +2162,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 303812,
       "name": "Kasualidad",
       "url": "https://open.spotify.com/track/24vddb7YLG2Ha0F9T9Whn3"

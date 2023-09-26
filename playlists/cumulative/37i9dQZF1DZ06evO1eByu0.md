@@ -4,7 +4,7 @@
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-58 songs - 4 hr 35 min
+59 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Homenzinho Torto](https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:47 | 2023-07-09 |  |
 | [Imensurável](https://open.spotify.com/track/3acR6F3KuMXVGTk9dwIrKB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Imensurável](https://open.spotify.com/album/4G9RmSVTkpZWqXjdX6l8tX) | 5:58 | 2023-07-09 |  |
 | [Jeová Jireh](https://open.spotify.com/track/0cEUrAqLYJafXksIpIBov4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jeová Jireh](https://open.spotify.com/album/2wfiFaBmVcK8aJ4BHYQHse) | 6:30 | 2023-07-09 |  |
+| [Jesus Cristo Basta \(Jesucristo Basta\) \- Ao Vivo](https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jesus Cristo Basta \(Jesucristo Basta\) \[Ao Vivo\]](https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw) | 4:47 | 2023-09-25 |  |
 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made In My Life\) \- Ao Vivo](https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 3:56 | 2023-07-09 |  |
 | [Lugar Seguro](https://open.spotify.com/track/0dvgPHkCgi2HMaBL9PgXmj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:10 | 2023-07-09 |  |
 | [Meu Melhor Amigo](https://open.spotify.com/track/6apees47ViBG319vgVmYnJ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 4:03 | 2023-07-09 |  |

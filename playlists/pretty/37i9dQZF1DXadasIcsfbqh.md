@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Colbie Caillat
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,515 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,555 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 99 | [Good Day](https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 3:25 |
 | 100 | [I Still Love You](https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [I Still Love You](https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe) | 3:44 |
 
-Snapshot ID: `MCwwMDE5OWQwY2QxMTRjZjJlNDI1M2ZhODQyMTIzZWYzM2I5N2JlYmY3`
+Snapshot ID: `MCw1ZTk5NGU4YWIxNjUxOWYyZGJjOTg3ZWJkNDFhZTQwMzkxY2VkNTAy`

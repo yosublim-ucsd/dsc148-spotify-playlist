@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Grrrl Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,193 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,208 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Model](https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Model](https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC) | 3:22 |
 | 100 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 |
 
-Snapshot ID: `MCxhN2Y5MjQ2NzE3ZmQzNjc2ZDdlYzdiMjYzNWY3OTMyZTE0YjMxMTRh`
+Snapshot ID: `MCxkYTg1OTBkNDAxYjI5NzExNGRmZmNkMWY0OTU0YTM0ZjhlZTZmOTA0`

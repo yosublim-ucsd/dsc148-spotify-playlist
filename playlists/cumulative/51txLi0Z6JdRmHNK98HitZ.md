@@ -4,7 +4,7 @@
 
 > Here is a playlist of all our songs released so far\. Our new single 'Highlands' is out now!
 
-42 songs - 2 hr 21 min
+43 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Beliefs & Prayers](https://open.spotify.com/track/5IZ9guGLjZAsBmpIfhPhlV) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Beliefs & Prayers](https://open.spotify.com/album/0xjLxhu9Wpd3SwSC1puEwF) | 3:39 | 2020-10-14 |  |
 | [Big Softy](https://open.spotify.com/track/1GJX41Wd13ndG9l7oh2ofU) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [New Songs For Old Problems](https://open.spotify.com/album/0VeJW8F3s8IJkCoduyHo4g) | 3:59 | 2020-10-14 |  |
 | [Bootleg Firecracker](https://open.spotify.com/track/4o1NDnqy0tuTXG2yoEqfQC) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bootleg Firecracker](https://open.spotify.com/album/6yxR2ZMUrvFrSpgXFSBs13) | 3:20 | 2023-05-30 |  |
+| [Bootleg Firecracker \- Nighttime Piano Version](https://open.spotify.com/track/2VAOZsF1dRXbpwxSSeiEKj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bootleg Firecracker \(Nighttime Piano Version\)](https://open.spotify.com/album/1t3RoFxu9wxx2m9zq6JXzk) | 2:34 | 2023-09-20 |  |
 | [Bought It](https://open.spotify.com/track/6MZLNniWXJC24zJznXUHv8) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 4:02 | 2020-10-14 |  |
 | [Call Me Snowflake](https://open.spotify.com/track/4OOY9bqocmnCcsfW2Nukqu) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [New Songs For Old Problems](https://open.spotify.com/album/0VeJW8F3s8IJkCoduyHo4g) | 4:06 | 2020-10-14 |  |
 | [Cellophane \(Brain\)](https://open.spotify.com/track/3VjgAcJMk7x1QRZrA5UJlw) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:30 | 2021-03-19 |  |
@@ -47,7 +48,7 @@
 | [Stacking Chairs](https://open.spotify.com/track/7355r4wB8D6crALDxPZ8KR) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Stacking Chairs](https://open.spotify.com/album/70VPEuD4jUU7uPjBmP0D2o) | 3:08 | 2021-03-06 | 2021-03-19 |
 | [Summer Hill](https://open.spotify.com/track/3GXqr0aNLrAL2XAJKsbZqO) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 4:21 | 2021-03-19 |  |
 | [Tell Me Something](https://open.spotify.com/track/6Ti2rY45EGVPrFo6ufjvAB) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 3:16 | 2020-10-14 |  |
-| [Today We're The Greatest](https://open.spotify.com/track/022sOb3Gr0yg4YRyZ5xFVd) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/3yxsWKZW1R1emQFfwvN2lL) | 3:47 | 2021-03-17 |  |
+| [Today We're The Greatest](https://open.spotify.com/track/022sOb3Gr0yg4YRyZ5xFVd) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/3yxsWKZW1R1emQFfwvN2lL) | 3:47 | 2021-03-17 | 2023-09-26 |
 | [Today We're The Greatest](https://open.spotify.com/track/0zqJqiq9CIP7W77NrV1NpM) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:47 | 2021-03-19 |  |
 | [Your Love](https://open.spotify.com/track/7lBYQn8KX8zxlW9oJkYOCL) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Middle Kids](https://open.spotify.com/album/6pDQs06Zcc2Q4GPkngmJbv) | 3:16 | 2020-10-14 |  |
 

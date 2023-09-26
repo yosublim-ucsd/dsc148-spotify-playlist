@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history\. Cover: Wayne Shorter
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,135,945 likes - 250 songs - 21 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,136,346 likes - 250 songs - 21 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 249 | [They Say It's Wonderful](https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:20 |
 | 250 | [A Love Supreme, Pt\. I – Acknowledgement](https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:42 |
 
-Snapshot ID: `MCw0N2UxMzhlNDUzNGFiODU3N2E0YTU3YzkxOTM5ZDQ2NjdiMTBkZmNk`
+Snapshot ID: `MCxmMDM0ZDNiYmQ5OWM1NjFhYzU4ZGYxNDhmZDIxNGI3MjIyMjZlOGZl`

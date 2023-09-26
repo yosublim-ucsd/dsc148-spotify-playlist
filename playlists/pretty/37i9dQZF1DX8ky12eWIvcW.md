@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 
 > Turn up with the biggest party tracks of the '90s and '00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,582,756 likes - 93 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,582,856 likes - 93 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 | 92 | [Country Grammar \(Hot Shit\)](https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:47 |
 | 93 | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Chapter II](https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2) | 3:29 |
 
-Snapshot ID: `MCxjN2U4OWMwN2IzYzhhMmVlZjA5NDNkYThkNDk4MzMzYjkxNmIxNGFk`
+Snapshot ID: `MCxlMWE3ZjJmZmZjY2FiMzEwYzQ1NGY3MDkzN2Y1OTY3YzNjODQ3Mjgx`

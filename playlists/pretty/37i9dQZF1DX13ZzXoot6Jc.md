@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Country hits that will have you singing every word\. Cover: Tyler Joe Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,565 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,591 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 99 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 |
 | 100 | [Second Guessing](https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ) | [Second Guessing](https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD) | 3:09 |
 
-Snapshot ID: `MCwwZjgzZjg5MjM2ZjU5YjdmNzA2ODZmZWQzZjMzNzFiMGIwMDhiMTY1`
+Snapshot ID: `MCwyNTMwOTVjZDMxYWYyZTE2Mjc4YmI1MWNjNWQxZmIyYjdhMjZjNTlk`

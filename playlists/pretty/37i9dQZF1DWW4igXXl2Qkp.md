@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:1WaFQSHVGZQJTbf0BdxdNo">Tommy Richman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,311 likes - 70 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,323 likes - 70 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 69 | [HNL](https://open.spotify.com/track/0zxpRRpS5SZQyiTW3sP2Tk) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [HNL](https://open.spotify.com/album/7vsrshJJAAW5AQJDcRo6Jx) | 2:22 |
 | 70 | [Love Language](https://open.spotify.com/track/5fNgz0GbFBXhz4RoBNTnQB) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Love Language](https://open.spotify.com/album/0YYIIcjmHW3mtiVaLStpOD) | 2:07 |
 
-Snapshot ID: `MCw3NjE1NDNkZWVlODk4NTgyZDY3ZDA5ZTRiMDY0NzJmZWE2OWMzNzIy`
+Snapshot ID: `MCwwNGY1YWU2NzZjZTI3MmZkMDA2NTNmZDJkZmNmY2M0ODkyZTQ4ZmVj`

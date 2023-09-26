@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,731 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,736 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 49 | [Safo \(La Sacerdotiza Del Amor\)](https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Frente A Frente: Mexican Jazz Jam](https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr) | 3:24 |
 | 50 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
 
-Snapshot ID: `MCxmY2M2ZmQ2YzRlYTFlZDY2MTFlOWIxMjA5ZWYxN2JjZDhlZTBkMjFh`
+Snapshot ID: `MCwzMzhhODFlYTQ3MTgzYmI2YmJjMmQ4MjFhYjVhMmQ1ZThjNDBkYzJj`

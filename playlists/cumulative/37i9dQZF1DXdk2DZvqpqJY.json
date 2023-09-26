@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 209896,
       "name": "A Gentle Reminder",
       "url": "https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 205542,
       "name": "Black Monday",
       "url": "https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 152030,
       "name": "Bobbi",
       "url": "https://open.spotify.com/track/4fcQOD3jgADwsZ2UCMsB2B"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 150903,
       "name": "Dream you're chasing",
       "url": "https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 280734,
       "name": "Everytime We Say Goodbye",
       "url": "https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA"
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 163114,
       "name": "Forget the Moonlight",
       "url": "https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8"
@@ -2471,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "Glencoe Sketches",
+        "url": "https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C"
+      },
+      "artists": [
+        {
+          "name": "Saphena Trio",
+          "url": "https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261316,
+      "name": "Glencoe Sketches",
+      "url": "https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY"
+    },
+    {
+      "album": {
         "name": "Strange Beauty Instrumental",
         "url": "https://open.spotify.com/album/3ZoOg4mHUlrcATrLte79uZ"
       },
@@ -2504,6 +2522,24 @@
       "duration_ms": 236937,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
+    },
+    {
+      "album": {
+        "name": "Graceful Rhapsody",
+        "url": "https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm"
+      },
+      "artists": [
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162708,
+      "name": "Graceful Rhapsody",
+      "url": "https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r"
     },
     {
       "album": {
@@ -3028,7 +3064,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-25",
+      "date_removed": null,
       "duration_ms": 224500,
       "name": "It's Raining Outside",
       "url": "https://open.spotify.com/track/6ezo3VE51Lj8IggiawcBHx"
@@ -3687,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "Make good better",
+        "url": "https://open.spotify.com/album/1fkpOxRymVjgS47si11Dup"
+      },
+      "artists": [
+        {
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204405,
+      "name": "Make good better",
+      "url": "https://open.spotify.com/track/75tYxIVIyTRQmCJeg68z84"
+    },
+    {
+      "album": {
         "name": "Mancuso's Joint",
         "url": "https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF"
       },
@@ -4068,7 +4122,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 230681,
       "name": "My Lonely Days Are Over",
       "url": "https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K"
@@ -4196,7 +4250,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 241219,
       "name": "New York City Dreamin'",
       "url": "https://open.spotify.com/track/7IzASoTEuRv3G2uSkP79sE"
@@ -4350,6 +4404,24 @@
       "duration_ms": 324325,
       "name": "Not for Now",
       "url": "https://open.spotify.com/track/0VoDYNXHen64ORyizt6Ct5"
+    },
+    {
+      "album": {
+        "name": "Not Nice At All",
+        "url": "https://open.spotify.com/album/5TRSBkD21PjK91y6gfUWMH"
+      },
+      "artists": [
+        {
+          "name": "Bridgerton Vail",
+          "url": "https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176222,
+      "name": "Not Nice At All",
+      "url": "https://open.spotify.com/track/7pilE4NULuXBPHZNzODH5i"
     },
     {
       "album": {
@@ -4558,10 +4630,28 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 227015,
       "name": "On Delancey",
       "url": "https://open.spotify.com/track/1sfu03jKTPkDODkKSDpcDM"
+    },
+    {
+      "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/4vKULVroJWpWyQ6KnlxZSd"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Parker",
+          "url": "https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204006,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC"
     },
     {
       "album": {
@@ -4576,7 +4666,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 240714,
       "name": "One Day We'll Meet Again",
       "url": "https://open.spotify.com/track/3EPOmVwYPGqKVaY6nQagAk"
@@ -4594,7 +4684,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 196694,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/1cwApuGBzxyhCPBYSX3xqk"
@@ -5769,6 +5859,24 @@
     },
     {
       "album": {
+        "name": "Story of My Dream",
+        "url": "https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79"
+      },
+      "artists": [
+        {
+          "name": "Almost Here",
+          "url": "https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177431,
+      "name": "Story of My Dream",
+      "url": "https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1"
+    },
+    {
+      "album": {
         "name": "Street Of Dreams",
         "url": "https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U"
       },
@@ -5961,6 +6069,24 @@
     },
     {
       "album": {
+        "name": "Sunset Stroll",
+        "url": "https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164682,
+      "name": "Sunset Stroll",
+      "url": "https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y"
+    },
+    {
+      "album": {
         "name": "Superhero",
         "url": "https://open.spotify.com/album/1M8MrhnNegMkABPlZTsg8g"
       },
@@ -6052,7 +6178,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 179064,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V"
@@ -6571,6 +6697,24 @@
     },
     {
       "album": {
+        "name": "There Will Be Better Days",
+        "url": "https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299349,
+      "name": "There Will Be Better Days",
+      "url": "https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba"
+    },
+    {
+      "album": {
         "name": "Things To Look Forward To",
         "url": "https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo"
       },
@@ -6914,7 +7058,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 148811,
       "name": "Tuxedo and top hat",
       "url": "https://open.spotify.com/track/3c5s24ryFSbhu9RqQML4gd"
@@ -7314,7 +7458,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 215231,
       "name": "Where is Jack?",
       "url": "https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4"
@@ -7332,7 +7476,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 307264,
       "name": "Wichita Lineman",
       "url": "https://open.spotify.com/track/60R7wUAF8IQsVZkyCLN5Sf"
@@ -7458,7 +7602,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 222538,
       "name": "Your Lonely Heart",
       "url": "https://open.spotify.com/track/5v6yimzSI3z7ydQl1W0ocx"

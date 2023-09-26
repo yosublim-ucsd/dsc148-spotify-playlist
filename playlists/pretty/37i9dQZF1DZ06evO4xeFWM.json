@@ -1,15 +1,15 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 205840,
+  "num_followers": 206927,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMjQ3NjMsMDAwMDAwMDA4MWQwYjUyYmU1MzU3M2EyYjI5YjgyZDJkNDk1MTA3ZQ==",
+  "snapshot_id": "MjgyNjA3MzYsMDAwMDAwMDAwNTZjNzM2Njg5Yjc5YjQ0YmM5Y2JkNmRlMTNjYTg2ZA==",
   "tracks": [
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Shut Off The Lights",
         "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Distorted Light Beam",
         "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Bad Blood",
         "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Wild World",
+        "url": "https://open.spotify.com/album/5NfeW0DqFVT3Su3kHBgTf4"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/6IGA5YrFiEr5ANrMqKkR6H"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Liar Liar (Feat. Bastille)",
         "url": "https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Run Into Trouble",
         "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
@@ -117,7 +133,59 @@
       "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Pompeii MMXXIII",
+        "url": "https://open.spotify.com/album/7afrJ1AKWdQtE91mEi8aT9"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "Pompeii MMXXIII",
+      "url": "https://open.spotify.com/track/2jp9d2rVViwwpfHDhWps2v"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/3aO4GaEhtu1UanIGKefdD3"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Give Me The Future",
+        "url": "https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 137476,
+      "name": "Thelma + Louise",
+      "url": "https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "No Angels",
         "url": "https://open.spotify.com/album/5cGHWAoS3cGwU9eYTH3mSm"
@@ -137,39 +205,7 @@
       "url": "https://open.spotify.com/track/0rILJVRD7waDGOFzoyruI2"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Give Me The Future",
-        "url": "https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 137476,
-      "name": "Thelma + Louise",
-      "url": "https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/3aO4GaEhtu1UanIGKefdD3"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
@@ -180,12 +216,28 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 192681,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
+      "duration_ms": 138115,
+      "name": "Doom Days",
+      "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214205,
+      "name": "Of The Night",
+      "url": "https://open.spotify.com/track/7BNDyzwDboNRR2wmd7GSew"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "survivin'",
         "url": "https://open.spotify.com/album/3aFhgv33grS5tIxAUqwtBC"
@@ -201,7 +253,71 @@
       "url": "https://open.spotify.com/track/1lwvJQGhdq6Kyr4BBquf23"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 240746,
+      "name": "Things We Lost In The Fire",
+      "url": "https://open.spotify.com/track/3pm1X3oQBKQ4vcp3i9PWRg"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 192681,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 196346,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 200987,
+      "name": "Send Them Off!",
+      "url": "https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "I Know You (Remixes) (feat. Bastille)",
         "url": "https://open.spotify.com/album/2WhixOxit7FV5fyM3XQTwo"
@@ -225,55 +341,7 @@
       "url": "https://open.spotify.com/track/1byydVLDAt7An5Pk3SuL5j"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214205,
-      "name": "Of The Night",
-      "url": "https://open.spotify.com/track/7BNDyzwDboNRR2wmd7GSew"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 138115,
-      "name": "Doom Days",
-      "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Bad Blood",
-        "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 240746,
-      "name": "Things We Lost In The Fire",
-      "url": "https://open.spotify.com/track/3pm1X3oQBKQ4vcp3i9PWRg"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Another Place",
         "url": "https://open.spotify.com/album/3PshhNStqCBXDzWm5O1VsE"
@@ -293,7 +361,7 @@
       "url": "https://open.spotify.com/track/2Fn4gZI3MAeWTiv7cSVxZQ"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "All This Bad Blood",
         "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
@@ -304,28 +372,12 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 196346,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU"
+      "duration_ms": 218800,
+      "name": "Flaws",
+      "url": "https://open.spotify.com/track/14qPtxNN9MBdqKpP6l5q6G"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 200987,
-      "name": "Send Them Off!",
-      "url": "https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Happier (Remixes)",
         "url": "https://open.spotify.com/album/16M1uToqnw9bPO8wv8ypeE"
@@ -349,7 +401,7 @@
       "url": "https://open.spotify.com/track/31OqWK8Lc6GnUbnLG3GqPX"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Quarter Past Midnight",
         "url": "https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z"
@@ -365,23 +417,7 @@
       "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Flaws",
-      "url": "https://open.spotify.com/track/14qPtxNN9MBdqKpP6l5q6G"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "VS. (Other People\u2019s Heartache, Pt. III)",
         "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
@@ -405,39 +441,7 @@
       "url": "https://open.spotify.com/track/6G43t8BCjmJyPGwNrAAPPV"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Give Me The Future",
-        "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 173202,
-      "name": "Back To The Future",
-      "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 204819,
-      "name": "The Anchor",
-      "url": "https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "All This Bad Blood",
         "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
@@ -453,7 +457,39 @@
       "url": "https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 204819,
+      "name": "The Anchor",
+      "url": "https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Give Me The Future",
+        "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 173202,
+      "name": "Back To The Future",
+      "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
@@ -469,7 +505,23 @@
       "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Laura Palmer",
+      "url": "https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "World Gone Mad (From Bright: The Album)",
         "url": "https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw"
@@ -485,7 +537,55 @@
       "url": "https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Give Me The Future + Dreams Of The Past",
+        "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Hope For The Future",
+      "url": "https://open.spotify.com/track/4fpypp2U7V67RvzEJxXYe9"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 189728,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 175880,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "WHAT YOU GONNA DO???",
         "url": "https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD"
@@ -505,71 +605,7 @@
       "url": "https://open.spotify.com/track/31brGBYDq5N15VxIn5juop"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Laura Palmer",
-      "url": "https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 189728,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Give Me The Future + Dreams Of The Past",
-        "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Hope For The Future",
-      "url": "https://open.spotify.com/track/4fpypp2U7V67RvzEJxXYe9"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 175880,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Grip",
         "url": "https://open.spotify.com/album/1TwCR17ZsRgWTo00mmlzqq"
@@ -589,7 +625,7 @@
       "url": "https://open.spotify.com/track/3gicyfiEVMGONgzygpWjNT"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Remind Me",
         "url": "https://open.spotify.com/album/7xlvDpADKIaRhPGgbMlsQ1"
@@ -605,23 +641,7 @@
       "url": "https://open.spotify.com/track/5DlwOwWvIA9MOGixQnkwXD"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 251658,
-      "name": "Million Pieces",
-      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
@@ -637,7 +657,7 @@
       "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz"
@@ -657,7 +677,23 @@
       "url": "https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 251658,
+      "name": "Million Pieces",
+      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Basket Case (From \u2018The Tick\u2019 TV Series)",
         "url": "https://open.spotify.com/album/1Eza0hy1Gsfqq3i9AG6yuw"
@@ -673,23 +709,7 @@
       "url": "https://open.spotify.com/track/3cfhXgklWpx5fCSYZOp9Wb"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Give Me The Future + Dreams Of The Past",
-        "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 166786,
-      "name": "Family Ties",
-      "url": "https://open.spotify.com/track/1HZfTE8QCq1adwblnuo9Uw"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
@@ -705,7 +725,39 @@
       "url": "https://open.spotify.com/track/5hcxUMmvcL66B1OqPPres2"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Give Me The Future + Dreams Of The Past",
+        "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 166786,
+      "name": "Family Ties",
+      "url": "https://open.spotify.com/track/1HZfTE8QCq1adwblnuo9Uw"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 240660,
+      "name": "The Waves",
+      "url": "https://open.spotify.com/track/38eQsWZeCAyYFB6d2lO94G"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Good Grief (Don Diablo Remix)",
         "url": "https://open.spotify.com/album/3TPamu1C98GWxTNRNU5L1Q"
@@ -725,39 +777,7 @@
       "url": "https://open.spotify.com/track/5dSFlPDHjAuYU1apyrRgqV"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 240660,
-      "name": "The Waves",
-      "url": "https://open.spotify.com/track/38eQsWZeCAyYFB6d2lO94G"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Give Me The Future + Dreams Of The Past",
-        "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 160294,
-      "name": "Plug In\u2026",
-      "url": "https://open.spotify.com/track/0yoQeKfgQwXg0nbMoYDnJg"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
@@ -773,7 +793,23 @@
       "url": "https://open.spotify.com/track/7mq92gCVqxaZQuzE6h9ZBp"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Give Me The Future + Dreams Of The Past",
+        "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 160294,
+      "name": "Plug In\u2026",
+      "url": "https://open.spotify.com/track/0yoQeKfgQwXg0nbMoYDnJg"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/58mZEgMHwabU4Z5S2ggjCx"
@@ -789,7 +825,7 @@
       "url": "https://open.spotify.com/track/69c48S8phNtQZuM8ksaObz"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Pompeii (Audien Remix)",
         "url": "https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU"
@@ -809,7 +845,27 @@
       "url": "https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
+      "album": {
+        "name": "Hotel Cabana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 272547,
+      "name": "No One\u2019s Here To Sleep",
+      "url": "https://open.spotify.com/track/0txjdg6j38GxiWzfH2Skpg"
+    },
+    {
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Give Me The Future + Dreams Of The Past",
         "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
@@ -825,7 +881,7 @@
       "url": "https://open.spotify.com/track/5RBOGco5lrq7mCF4PiiPZI"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "VS. (Other People\u2019s Heartache, Pt. III)",
         "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
@@ -849,27 +905,7 @@
       "url": "https://open.spotify.com/track/6Gy30w4ebJg02BjLdULdNm"
     },
     {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Hotel Cabana (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i"
-      },
-      "artists": [
-        {
-          "name": "Naughty Boy",
-          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 272547,
-      "name": "No One\u2019s Here To Sleep",
-      "url": "https://open.spotify.com/track/0txjdg6j38GxiWzfH2Skpg"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
+      "added_at": "2023-09-25 12:16:59",
       "album": {
         "name": "Bad Blood X (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/74E7ppPrtoui2EO0Qi3QKz"
@@ -883,38 +919,6 @@
       "duration_ms": 199013,
       "name": "(I Just) Died In Your Arms",
       "url": "https://open.spotify.com/track/1sdsufI9G2nWdxcahae52j"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "Give Me The Future + Dreams Of The Past",
-        "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 140385,
-      "name": "Real Life",
-      "url": "https://open.spotify.com/track/1HiwjKAIcaeLa1ZraVlxep"
-    },
-    {
-      "added_at": "2023-08-31 12:43:47",
-      "album": {
-        "name": "No Bad Days",
-        "url": "https://open.spotify.com/album/6QwZ44ldGwp9W7DoJ8bwyw"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "No Bad Days",
-      "url": "https://open.spotify.com/track/4NM72r7orR4QPkgox7astH"
     }
   ],
   "unique_name": "This Is Bastille",

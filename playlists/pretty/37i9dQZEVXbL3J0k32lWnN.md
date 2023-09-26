@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL3J0k32lWnN.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,360 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,363 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL3J0k32lWnN.md) - [plain]
 | 49 | [Juice](https://open.spotify.com/track/7Ku8cFTqbFMKSWGuf1evPQ) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Stiv Kuling](https://open.spotify.com/album/2Qe6U56MtBTir6CniefFqU) | 2:40 |
 | 50 | [Vågen \(Artigeardit X Lamin\)](https://open.spotify.com/track/09N9LGyKqWlLViq2bQjFxR) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Vågen \(Artigeardit X Lamin\)](https://open.spotify.com/album/7AmMkq9qKtCROjM8DVVgsx) | 2:37 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,800 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,882 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 99 | [ARCEUS](https://open.spotify.com/track/1EUKFavDiIvi2J6Cd35Tmd) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Overdrive](https://open.spotify.com/artist/4WGGHN3xUu9mhDObu3Oqhp), [Und3rsound](https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47) | [ARCEUS](https://open.spotify.com/album/0ZidtUuoVFsM2SUbXqWcFr) | 3:19 |
 | 100 | [Tell Me Secrets](https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW), [Joker Bra](https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM) | [Tell Me Secrets](https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW) | 2:16 |
 
-Snapshot ID: `MCwwMDA1MGVjZWE2NTY2ZGI4NTVlMTFmMjYxOGZmMGNhZThiMjkxNTZk`
+Snapshot ID: `MCxjNjM1NGQwZDVhMmIwNWY4NDZmYTYzYTI3Njc5YjAwZTcyYzJlN2Mw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,082 likes - 100 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,098 likes - 100 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 99 | [A Journey](https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M) | 4:16 |
 | 100 | [Sony 7IV](https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fighting Modernism EP](https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ) | 3:51 |
 
-Snapshot ID: `MCwzNTg1YWVjMTFhM2RiMjdiMTczN2JlOTU3MTE2ZTBhYTNjOTk4NjQ1`
+Snapshot ID: `MCwwZWIzNWNlNzExZTAxYzEwNTJkODRjMGJhN2VlMzg0ZWVmYTRlYWU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,839 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,857 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 59 | [Daydream in Green](https://open.spotify.com/track/3ig0oMG2de0KiuMlHIyfgB) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Daydream in Green](https://open.spotify.com/album/3nkRVQuQNbFm3sid5OPCOR) | 3:40 |
 | 60 | [100=1](https://open.spotify.com/track/77cwNBtWc0sC5R1XAJ703p) | [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 4:37 |
 
-Snapshot ID: `MCwzNThmNzFjOTM5MWZkNGM1MzYzYzg0NzUzN2I0YmVlZmM5YjU4ZmVk`
+Snapshot ID: `MCw1YzE1OTFiYmI2MGNiYjU5ZDExZTA5NzJhZTJmODUwNTkzNzM1M2Zk`

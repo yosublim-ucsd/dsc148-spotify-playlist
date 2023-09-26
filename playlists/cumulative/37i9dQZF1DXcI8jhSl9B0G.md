@@ -4,7 +4,7 @@
 
 > Tunes for sun drenched days and balmy nights.
 
-115 songs - 6 hr 55 min
+116 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,12 +110,13 @@
 | [Tell Me What You Dream About](https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Tell Me What You Dream About](https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo) | 3:17 | 2022-11-30 | 2023-03-18 |
 | [The Coffee Song](https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Summer Nights](https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j) | 3:08 | 2022-11-30 |  |
 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 | 2021-11-30 | 2022-12-01 |
-| [The Sweetest Days](https://open.spotify.com/track/4uKbNHTS478jijU1okANjz) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [The Sweetest Days](https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE) | 3:34 | 2022-12-15 |  |
+| [The Sweetest Days](https://open.spotify.com/track/4uKbNHTS478jijU1okANjz) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [The Sweetest Days](https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE) | 3:34 | 2022-12-15 | 2023-09-26 |
 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 | 2022-11-30 |  |
 | [Think About You](https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:43 | 2022-11-30 |  |
 | [This City \- Acoustic](https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City \(Acoustic\)](https://open.spotify.com/album/7I1apkSOmeAPBcbShwxlUx) | 3:26 | 2022-11-30 |  |
 | [this is how you fall in love](https://open.spotify.com/track/0r9M8ibaXQcsRoODyUpZmi) | [Parker Rose](https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF) | [this is how you fall in love](https://open.spotify.com/album/1whjydDxsqNT56EuVTNxxp) | 2:41 | 2021-11-30 | 2023-02-15 |
 | [this is how you fall in love](https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE) | [Parker Rose](https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF) | [this is how you fall in love](https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh) | 2:41 | 2023-01-12 |  |
+| [Walk the Line](https://open.spotify.com/track/5tzZZFh9SaYeuC5uUtnsET) | [Reuben de Melo](https://open.spotify.com/artist/267x7yH33pbgo6NcO9YQEZ) | [Walk the Line](https://open.spotify.com/album/7k8IkDYzRbLnjul8MXLQAS) | 4:28 | 2023-03-08 |  |
 | [Wasting Time](https://open.spotify.com/track/3gxRgVnfMp6AgHtaHzYeAh) | [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu), [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH) | [Wasting Time](https://open.spotify.com/album/0tAi1OxUfCzEuS3oh9g2Gp) | 3:12 | 2021-11-30 | 2022-12-01 |
 | [What I Do](https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 3:35 | 2022-11-30 |  |
 | [What It Means to Be Human](https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [What It Means to Be Human](https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q) | 4:35 | 2021-11-30 |  |

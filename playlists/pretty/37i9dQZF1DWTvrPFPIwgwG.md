@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Gislaine e Mylena, Elaine Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,659 likes - 85 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,691 likes - 85 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Volte a Orar \- Ao Vivo](https://open.spotify.com/track/5r8vpwFqXUu4T7sjXDWH3D) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd) | [Volte a Orar \(Ao Vivo\)](https://open.spotify.com/album/3Ohbs1wMdZI79L2u4X4YkL) | 6:35 |
 | 85 | [Página Virada \- Ao Vivo](https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Página Virada \(Ao Vivo\)](https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD) | 7:03 |
 
-Snapshot ID: `MCwxMTExYjU4YWZkOWU4NzI0NGUwMTA2MzljNDhiN2EzMTUwMjYxYzFh`
+Snapshot ID: `MCwxZmEzNWQzNjJjN2IxYmY4YzBhYTBlZmVhNTA4MmRlNTJmMWU0ZTRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,549 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,563 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Brazilian Love Affair](https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1) | [Negroni's Trio](https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C) | [New Era](https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya) | 4:27 |
 | 100 | [JazzTón](https://open.spotify.com/track/1Ujt7mRLAZHqvPImbsPsPO) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Te Lo Dije](https://open.spotify.com/album/31Dxd8oDK8PSnedXHUaPMB) | 3:18 |
 
-Snapshot ID: `MCxlZjEwYWE0NTA0OTNmMTBmZmExZWE3YWZjZjc5MzkwNDczOWMwNWQx`
+Snapshot ID: `MCwxMDhkNmNlNTlhY2NkNmU3YjI4MTdiODcwNmUxODRlMmZhOTdiNzc4`

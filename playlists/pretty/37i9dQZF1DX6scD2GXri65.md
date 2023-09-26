@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,117 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,145 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [The Remedy](https://open.spotify.com/track/6cvjpsHCih5fVlKTuuZFCH) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [The Remedy](https://open.spotify.com/album/79ypf6AEAJrqpcxOY4hhrC) | 3:11 |
 | 80 | [Go Mental](https://open.spotify.com/track/3RFdqTUaDhCb6sZiLJ2b6j) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Go Mental](https://open.spotify.com/album/15A99aAZGYFpTuwvzQsjsu) | 2:45 |
 
-Snapshot ID: `MCw0ODdiOWU5OTg5ZTEzZTc4MDAzNDQ5NTM0ZTgwYmZlODE1NzFlM2I5`
+Snapshot ID: `MCwxNDIwMjQ0ZjdhYTU3ZjJhNGEyMDY3NzcwYThjYjBlNzQ4NDc3ZDY5`

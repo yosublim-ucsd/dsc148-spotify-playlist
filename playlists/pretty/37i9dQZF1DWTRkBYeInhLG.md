@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,313 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,411 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 79 | [Belum Siap Kehilangan](https://open.spotify.com/track/3TSie4NZOh12yHhDwulBBV) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan \- Single](https://open.spotify.com/album/6WwKxL6zDhU9ENkD0VnzPW) | 4:48 |
 | 80 | [Rayu](https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm) | [Marion](https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz) | 3:41 |
 
-Snapshot ID: `MCwyMzgzZDk0ZGM2MWM3NzU2ZGVmNzBmZGE1Y2Q4NmIwNDU2NTMwYzMy`
+Snapshot ID: `MCwzMDE4NDQ5YjZmYTQ1ZTI2ZDQ5OWM0MzgwMWMzMmMzMDhmMmFiMjBj`

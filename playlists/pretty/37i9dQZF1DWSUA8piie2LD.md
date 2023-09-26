@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,536 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,568 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 74 | [Grace](https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Destiny](https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf) | 5:32 |
 | 75 | [Bird Island](https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Hardcastle 2](https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D) | 4:26 |
 
-Snapshot ID: `MCwxYzljYTNiNzQzYjVlMjI0NTcwNDM5M2Q4NDVlZDE2YTA2MDgxMTEx`
+Snapshot ID: `MCxlYjNmYjJjMTI2Nzg5MDYxMmEzMjQzNzIwMjk5MDU2MWM4Y2NkNTcz`

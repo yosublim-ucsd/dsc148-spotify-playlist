@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,670 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,689 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 79 | [Better When You're Gone](https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Better When You're Gone](https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o) | 3:12 |
 | 80 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:08 |
 
-Snapshot ID: `MCw1NWRhNDdiYzJjNjdhZDI3MjhiZWExNDc1MWM2MzdlMzNlOTQ4NzZi`
+Snapshot ID: `MCxlMTAwM2VmMTk2MDA0Y2FlNTBjOWFkYjliMDk4OTlkZmU4ZDYxMDFk`

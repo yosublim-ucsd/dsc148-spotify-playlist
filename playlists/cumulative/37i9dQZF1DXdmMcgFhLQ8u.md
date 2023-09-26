@@ -4,7 +4,7 @@
 
 > These country songs know exactly how you feel.
 
-167 songs - 9 hr 51 min
+169 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Forgetting You](https://open.spotify.com/track/1jaG6JK3NRTHUiKmVbWw8e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Forgetting You](https://open.spotify.com/album/2wxxVIPFHehCMJsUvRGCGc) | 3:04 | 2022-01-28 | 2022-07-29 |
 | [Giving You Up \- Acoustic](https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up \(Acoustic\)](https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD) | 3:52 | 2022-02-18 |  |
 | [Goin' Through The Big D](https://open.spotify.com/track/4s6Q9zPmiYcpo5MR7uoVnt) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Greatest Hits: Mark Chesnutt](https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg) | 2:35 | 2022-04-01 | 2022-11-13 |
-| [Gone](https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gone](https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV) | 3:25 | 2022-02-11 |  |
+| [Gone](https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gone](https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV) | 3:25 | 2022-02-11 | 2023-09-26 |
 | [Goodbye Town](https://open.spotify.com/track/3W0iMYTgiCNGXDiS2h4GJ8) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Goodbye Town](https://open.spotify.com/album/5AhSIefPyhXGbysvz51ZCH) | 3:24 | 2021-12-03 | 2022-04-20 |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2023-01-27 | 2023-03-08 |
 | [Grew Apart](https://open.spotify.com/track/2JK5ALIvepkQAWNItmKBZu) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Grew Apart](https://open.spotify.com/album/6wbU7rsPqKrKBibzEdtw6m) | 2:49 | 2021-12-03 | 2022-07-29 |
@@ -106,6 +106,7 @@
 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 | 2022-01-28 | 2023-01-02 |
 | [No, Pedal Steel](https://open.spotify.com/track/0ijVRmoMHk1uNhM6YHvdhe) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Songs from Dispatch to 16th Ave.](https://open.spotify.com/album/2dzVIhz42QO9FBkpDAtBjL) | 3:48 | 2022-04-01 | 2022-07-27 |
 | [Not Over You \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Spotify Singles](https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1) | 3:35 | 2021-12-03 | 2022-07-29 |
+| [One More Song](https://open.spotify.com/track/52nkvkrza5vaThmigwExZq) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:38 | 2023-09-25 |  |
 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 | 2022-07-15 |  |
 | [Over For You](https://open.spotify.com/track/09igKkkm150rRZIxu1gjh3) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 3:05 | 2023-06-02 |  |
 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 | 2023-01-27 | 2023-07-09 |
@@ -142,7 +143,7 @@
 | [Think About Me](https://open.spotify.com/track/0onq6klC19tB7MT54gob65) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Think About Me](https://open.spotify.com/album/0PRgtSEi8WEu8AHNNFNK9d) | 3:37 | 2021-12-03 | 2022-07-29 |
 | [Think of You](https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:38 | 2022-01-28 |  |
 | [Three Whiskeys And The Truth](https://open.spotify.com/track/2PMtsOOk1JD7yGT7E1ZK6Q) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:53 | 2022-09-16 | 2023-01-28 |
-| [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 | 2021-12-03 |  |
+| [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 | 2021-12-03 | 2023-09-26 |
 | [Tonight I Wanna Cry](https://open.spotify.com/track/0BHNSNcbTxQSwxXNnr9oUw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:19 | 2021-12-03 | 2023-04-15 |
 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 | 2022-07-25 |  |
 | [Unlove You](https://open.spotify.com/track/3DeLvrawPtl8wSupXgTlSh) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [Playing With Fire](https://open.spotify.com/album/76k8TW4lc0uzpaRHa2U0bK) | 3:54 | 2021-12-03 | 2023-01-28 |
@@ -171,6 +172,7 @@
 | [Woman Of My Word \- RADIO VERSION](https://open.spotify.com/track/23m9RDn8RmC5VUrVELepY7) | [Morgan Myles](https://open.spotify.com/artist/5n29LsxgPUhW67Z8aPoas5) | [Woman Of My Word](https://open.spotify.com/album/214M4oC89w5sUGGK4kSreW) | 3:56 | 2022-04-01 | 2022-04-21 |
 | [You and Tequila \(feat\. Grace Potter\)](https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:02 | 2022-04-01 |  |
 | [You Didn’t](https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 3:45 | 2021-12-03 |  |
+| [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 | 2023-09-25 |  |
 | [You Should Be Here](https://open.spotify.com/track/63thx7OANplv4I4BQsanHk) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [You Should Be Here](https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei) | 3:10 | 2021-12-03 |  |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2021-12-03 |  |
 | [You Were Mine](https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:37 | 2021-12-03 |  |

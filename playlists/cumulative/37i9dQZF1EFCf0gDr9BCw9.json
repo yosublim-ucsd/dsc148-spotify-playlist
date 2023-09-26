@@ -131,7 +131,7 @@
     },
     {
       "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Songbook (Expanded Edition)",
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book (Expanded Edition)",
         "url": "https://open.spotify.com/album/6a0SKcnVuX1Y3dp1jjjmle"
       },
       "artists": [
@@ -544,7 +544,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 442506,
       "name": "Chelsea Bridge",
       "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
@@ -656,10 +656,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 160133,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/1Wi7jbwmHDnGKl8eymwcBt"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160133,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/2CbCBgI5XgzcQ0NiNIRkmm"
     },
     {
       "album": {
@@ -1157,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "The Glenn Miller Carnegie Hall Concert (Live)",
+        "url": "https://open.spotify.com/album/5HX046215eBYM6hZ5rwDKk"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209573,
+      "name": "In the Mood - Live",
+      "url": "https://open.spotify.com/track/54h1RKrrFJDsNOfhwmqu9o"
+    },
+    {
+      "album": {
         "name": "So This Is Love: More Newly Discovered Works Of Billy Strayhorn",
         "url": "https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL"
       },
@@ -1230,6 +1270,24 @@
     {
       "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214093,
+      "name": "Just A-Sittin' And A-Rockin'",
+      "url": "https://open.spotify.com/track/4wNPjcAq34ujuulEGeKOo8"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
       },
       "artists": [
@@ -1240,7 +1298,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 214093,
       "name": "Just A-Sittin' And A-Rockin'",
       "url": "https://open.spotify.com/track/6R7v9XCNRFNmGThLqPf8K6"
@@ -2010,10 +2068,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 976800,
       "name": "Portrait Of Ella Fitzgerald - Medley",
       "url": "https://open.spotify.com/track/1gHCjyrcEDy9dLSRWrVJCb"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 976800,
+      "name": "Portrait Of Ella Fitzgerald - Medley",
+      "url": "https://open.spotify.com/track/4RPnrH7RPVkiInMV2L6dQs"
     },
     {
       "album": {

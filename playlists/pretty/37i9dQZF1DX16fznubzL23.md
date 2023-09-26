@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,510 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,519 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 49 | [Dreamer](https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 3:00 |
 | 50 | [Wetin No Good](https://open.spotify.com/track/23Fh73OaYgY5cisouEybte) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Wetin No Good](https://open.spotify.com/album/6v5ZPjk1YsUlWegG5Cxvea) | 2:38 |
 
-Snapshot ID: `MCw4MjVhY2Y5NDQyZWNjZDQzMTE4ZDVjMWIwMWE0NjUyMzc4NGEyMDQz`
+Snapshot ID: `MCw0MjBhMjgyNjFiNmNlYjY4OGRlZDlhYTM0YmI3M2NjNTc1OWVmNDBm`

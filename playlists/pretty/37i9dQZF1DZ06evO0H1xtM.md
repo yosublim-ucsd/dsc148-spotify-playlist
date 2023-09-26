@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,316 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,585 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 37 | [Borrón Y Cuenta Nueva](https://open.spotify.com/track/5hVnX8ZlKUtL0Yu1pm0guW) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:24 |
 | 38 | [El 30](https://open.spotify.com/track/4YqYXDEXCOzoigKHCCAec7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El 30](https://open.spotify.com/album/5uFfnpEe1QrKi8kLEjEFSy) | 3:10 |
 | 39 | [Zutano](https://open.spotify.com/track/0OIUNAez5dwpemxZvGbyTp) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Mismo De La Vida Ruina](https://open.spotify.com/album/4VtvkKRjnW0X7jxRkLUfsd) | 3:20 |
-| 40 | [Doble Llave](https://open.spotify.com/track/4n22YbMhxJ3yU5ckd8WUjm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Doble Llave](https://open.spotify.com/album/2xp1WOs330wnGBgfXEI7T5) | 2:51 |
+| 40 | [Chingón sin chingar](https://open.spotify.com/track/5UHKqatK8TCqiL1ycgaccM) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Mágico El Sueño](https://open.spotify.com/album/6qkENPFwil1ObSPNM112Uw) | 3:07 |
 | 41 | [Quitasueños](https://open.spotify.com/track/0lLak25imTNK2pRKyO87gk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:54 |
-| 42 | [Chingón sin chingar](https://open.spotify.com/track/5UHKqatK8TCqiL1ycgaccM) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Mágico El Sueño](https://open.spotify.com/album/6qkENPFwil1ObSPNM112Uw) | 3:07 |
+| 42 | [Doble Llave](https://open.spotify.com/track/4n22YbMhxJ3yU5ckd8WUjm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Doble Llave](https://open.spotify.com/album/2xp1WOs330wnGBgfXEI7T5) | 2:51 |
 | 43 | [Parrandero \(Remix\)](https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Banda Los Coyulitos](https://open.spotify.com/artist/0CVlSXCgXIMQgojZ2irFYT) | [Parrandero \(Remix\)](https://open.spotify.com/album/6fQZ0ykhEyv1f6miucC5Ey) | 2:48 |
 | 44 | [El Capitán \(En Vivo\)](https://open.spotify.com/track/2mi5L3NLTnllOcr7ylv3xS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [El Capitán \(En Vivo\)](https://open.spotify.com/album/0CDawQOpw3S5R4btCbDQxd) | 3:54 |
 | 45 | [El Apache \(En Vivo\)](https://open.spotify.com/track/7htXI3zf9dS7UAWkoYVMqQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Apache \(En Vivo\)](https://open.spotify.com/album/5TOmF3KlyehmdJRbkhAsTh) | 2:48 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 50 | [Pateando Latas](https://open.spotify.com/track/44SuqnVhS8wnOGyLqUYciO) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Pateando Latas](https://open.spotify.com/album/35rt0OhR9EarcGz9LOF9WT) | 3:09 |
 | 51 | [Piloteando El Marlboro](https://open.spotify.com/track/5uo1aINCLqREEjMd7KdnHD) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Subiendo De Nivel](https://open.spotify.com/album/7cEmIL6HeGkcCCUuycfdLh) | 2:48 |
 
-Snapshot ID: `MjgyNTUwMDUsMDAwMDAwMDAzZjdlMDZmMzBhNjVkZmNiZTc3N2E3ODkzMDI5ODM4YQ==`
+Snapshot ID: `MjgyNjA3MzcsMDAwMDAwMDAyOWNhODRiMDliMjIwY2Y1YmIzODZjYzZlNWQ4ZmU0OA==`

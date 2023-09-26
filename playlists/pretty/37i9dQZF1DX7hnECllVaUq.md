@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Josh Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,711 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,731 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 99 | [Give Me Tonight](https://open.spotify.com/track/5trK9XKx6v9zoAOlaDJ6Hr) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [My Mind's Projection](https://open.spotify.com/album/7fSZE2xLU6bZ1iobxww9WP) | 3:41 |
 | 100 | [GOT IT GOOD](https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [GOT IT GOOD](https://open.spotify.com/album/6YTjgeiAZe31mPENUnSsqF) | 2:53 |
 
-Snapshot ID: `MCxmZjUxN2M1YzQyZmY1Yzg2YmViOTBiZmUzNzQ3MTgzYWVmNDFiZjMx`
+Snapshot ID: `MCwxYjFmMDVhNTRhNmNkZDU1ZTQzZDYzOTJlNGZiMjQ2ZjMwYzQ0OGEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,586 likes - 70 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,631 likes - 70 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 69 | [Mood Indigo](https://open.spotify.com/track/6wDBY75wrVJoQZsSCyM234) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX) | 3:27 |
 | 70 | [You Better Go Now](https://open.spotify.com/track/1Qi67EpJAbVzUefw4UGyFq) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Presenting Red Garland](https://open.spotify.com/album/4h7i5B7Q7rRXIwTEulF8d3) | 5:11 |
 
-Snapshot ID: `MCxhZWRjNTkzY2UzMzlkZjU3YjYzYmJjNmE5ZjJhM2UxM2JiNzRiODM4`
+Snapshot ID: `MCxhZjIyY2QzZDQwZmM5ZjFiMmZjNjMwM2ViNWJhNDIyZDkzNWQzYzA2`

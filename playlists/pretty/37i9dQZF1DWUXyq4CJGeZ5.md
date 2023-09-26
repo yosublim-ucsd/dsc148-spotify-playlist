@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 
 > Piano music for fall vibes and autumnal moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,586 likes - 430 songs - 18 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,616 likes - 430 songs - 18 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 429 | [Waltz Of The Swallow](https://open.spotify.com/track/1b4TVciUAU6bAXMNgpgxbf) | [Evelyn Haidu](https://open.spotify.com/artist/0KLuY1vs0XOszyBK0zwAq0) | [Garden of Eternal Spring](https://open.spotify.com/album/15zG56ZwGXAjLPktRRTfzb) | 2:53 |
 | 430 | [Ad Libitum](https://open.spotify.com/track/7m5OILw45b30QyaqG8zhic) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Ad Libitum](https://open.spotify.com/album/2psCwjqmdWAShLWbXzCkNY) | 3:02 |
 
-Snapshot ID: `MCxmOTdiN2YyNDliMmNmMTY3NmVlZWViYTBkYmYyNTZhZDRhMTBmYjJh`
+Snapshot ID: `MCxmNzMxMmQ4MjM3NDUxNGNjZWZiZDkxNTA3NGUwYjM1MTY0OTgzODU4`

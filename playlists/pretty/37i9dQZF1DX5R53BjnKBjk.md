@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,861 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,862 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 79 | [Bom Vivant](https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT) | [M\. Costta](https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE) | [VERO](https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi) | 3:17 |
 | 80 | [Disfarça](https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL) | [Silveriô](https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg) | [Disfarça](https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW) | 2:39 |
 
-Snapshot ID: `MCwwMTNmZGNlZjQxNTA0YjkxYzM3MzlhZDg4M2QzYjc4NjlhYmVjMWNj`
+Snapshot ID: `MCw0M2VjNTI0MzAxNjUwNmMyM2IyZDNmMmVmODY2N2MwZDc2ZjRkYTEy`

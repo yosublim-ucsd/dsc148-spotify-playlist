@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,016 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,028 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 74 | [FFVII REMAKE: スカーレットのテーマ \(Scarlet's Theme\)](https://open.spotify.com/track/3tnuyMU0FohoFg77aAghTn) | [Tsuyoshi Sekito](https://open.spotify.com/artist/0NTNUSfkUTEAPRcwSyl7a9), [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [土岐 望](https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 4:10 |
 | 75 | [Worlds Collide](https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r) | [David Whitaker](https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:22 |
 
-Snapshot ID: `MCxjMzVhZTBhNGM1NGNkYTBlN2Q0Nzg2NGNjOWU5NDA0ZjI1MDg2MDg3`
+Snapshot ID: `MCw5MDA2ZGQ2OTk4ZTdmMzU5NTFiYjhlZTcxZmU4ODZiOTQ2M2Q2MGM4`

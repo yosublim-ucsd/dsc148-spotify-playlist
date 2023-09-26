@@ -4,7 +4,7 @@
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-101 songs - 6 hr 18 min
+104 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Gone Away](https://open.spotify.com/track/6WmfUWWGRnE2yPaH0pbqDk) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [A Decade of Destruction](https://open.spotify.com/album/3jYRtHlssd7nxmOW0mY3l2) | 4:35 | 2023-09-15 |  |
 | [Got Your Six](https://open.spotify.com/track/3JfBv2YfwPdflYUGMCeHgt) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 2:58 | 2023-08-25 |  |
 | [Got Your Six](https://open.spotify.com/track/6h6RvArm9RlU16rz1nFMnE) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 2:58 | 2022-05-30 | 2023-08-26 |
-| [Hard to See](https://open.spotify.com/track/4vzPsfKiHxzOrc8HGxKbsr) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War is the Answer](https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ) | 3:29 | 2023-08-25 |  |
+| [Hard to See](https://open.spotify.com/track/4vzPsfKiHxzOrc8HGxKbsr) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War is the Answer](https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ) | 3:29 | 2023-08-25 | 2023-09-26 |
+| [Hard To See](https://open.spotify.com/track/6AYpL5yUGbvwNaTUzLpNcA) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 3:29 | 2023-09-25 |  |
 | [Hard To See](https://open.spotify.com/track/6X13xZ3XOF2ThTvvLAODHc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 3:29 | 2022-05-30 | 2023-08-26 |
 | [Hell To Pay](https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:07 | 2022-06-15 |  |
 | [Hell to Pay](https://open.spotify.com/track/6J97fOUqgVLcb1eg21QXjg) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:07 | 2022-05-30 | 2023-04-16 |
@@ -79,11 +80,13 @@
 | [Remember Everything](https://open.spotify.com/track/02W7gkxX3cgmddUQeUMwJe) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 4:38 | 2022-05-30 | 2023-09-16 |
 | [Remember Everything](https://open.spotify.com/track/0AU8BHZpoCIqGPxxL5KpKZ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM) | 4:38 | 2023-09-15 |  |
 | [Roll Dem Bones](https://open.spotify.com/track/2EwMqSMpU9nTkdB0pIExdX) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:19 | 2022-08-22 | 2022-09-19 |
-| [Sham Pain](https://open.spotify.com/track/0nqIqABZcujg05mkixJV60) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:29 | 2023-08-27 |  |
+| [Sham Pain](https://open.spotify.com/track/0nqIqABZcujg05mkixJV60) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:29 | 2023-08-27 | 2023-09-26 |
 | [Sham Pain](https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:29 | 2022-05-30 | 2023-08-28 |
+| [Sham Pain](https://open.spotify.com/track/3MnYJuv8ogYrBkBb3XWdTQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp) | 3:29 | 2023-09-25 |  |
 | [Thanks For Asking](https://open.spotify.com/track/1pZwsIB2ogBnbjydoIHQnL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:18 | 2022-08-20 |  |
 | [The Bleeding](https://open.spotify.com/track/4l4ytfBCPSovTX8CB5li3m) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/5IcAPAVFJi4ETttx2GONFB) | 4:28 | 2022-05-30 | 2023-08-28 |
-| [The Bleeding](https://open.spotify.com/track/6LRmV5GZUjKLgxi7lBWriQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/5WKUwwYLzwSJAwMCrxhCdj) | 4:28 | 2023-08-27 |  |
+| [The Bleeding](https://open.spotify.com/track/6LRmV5GZUjKLgxi7lBWriQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/5WKUwwYLzwSJAwMCrxhCdj) | 4:28 | 2023-08-27 | 2023-09-26 |
+| [The Bleeding](https://open.spotify.com/track/0PhgdhsVVVFQBAL4FXSy1K) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/2Mn74oOIxU32wfHDcHknRL) | 4:31 | 2023-09-25 |  |
 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 | 2022-08-20 |  |
 | [The Pride](https://open.spotify.com/track/2tbMiz9p19QbSJlbHiMs2y) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe\)](https://open.spotify.com/album/23Zi1sfUFkw4L4TC1vrLdy) | 3:23 | 2023-08-25 | 2023-09-22 |
 | [The Pride](https://open.spotify.com/track/325DnWQMb1hU1EEfmOFGiF) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 3:23 | 2022-05-30 | 2023-08-26 |

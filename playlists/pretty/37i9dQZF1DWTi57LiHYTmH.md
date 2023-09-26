@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,204 likes - 120 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,249 likes - 120 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 | 119 | [6 Studies in English Folksong \(Version for Cello & Piano\): No\. 3, Larghetto "Van Dieman's Land"](https://open.spotify.com/track/6b9euaDFpLzakeuzhZgPHP) | [Ralph Vaughan Williams](https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe), [Gerald Peregrine](https://open.spotify.com/artist/4mpoecueQYD4qDdoj81bNF), [Antony Ingham](https://open.spotify.com/artist/2CKDbVx8sSX0xJX2sMtDIX) | [Folk Tales](https://open.spotify.com/album/2EUlubaDp7vG0ndRJIl8As) | 1:36 |
 | 120 | [Antiche Danze Ed Arie Per Liuto \(Ancient Airs And Dances\), P\. 114: IV\. Italiana](https://open.spotify.com/track/73p40DaAebttScQi46SEow) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Konstantin Scherbakov](https://open.spotify.com/artist/6f4LXqcGifD364sFBKFfoN) | [Respighi: Piano Music](https://open.spotify.com/album/2Nm7vx01wJA7fNH6askGry) | 2:47 |
 
-Snapshot ID: `MCwyNzAxYTYwMWFkYzFiYzZhNzI5ZGU2ODFjOTM0ZjFiODFjYzQ1MjY5`
+Snapshot ID: `MCwyY2VmZTdiOWJhMDViY2IwYjU3M2VjYzFlZGU0MmY2ZjM5YzE5NTI2`

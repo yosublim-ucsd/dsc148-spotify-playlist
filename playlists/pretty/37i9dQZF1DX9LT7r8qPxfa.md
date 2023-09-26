@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,517 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,527 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
 | 100 | [Earthquake](https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN) | [Anna Ash](https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw) | [L\. A\. Flame](https://open.spotify.com/album/2uerpXtKAOWdGBQva8AroJ) | 3:10 |
 
-Snapshot ID: `MCw2ZjcyYjIwMjcwMTkwMmE2OWQxZTc4YTQzNzEwZjI0NWYyMWNiZTAx`
+Snapshot ID: `MCw3NTE2YzFhMGVmOWZjOTk5NjIyZGFkMDhjNDhmOGM1MTI5NWYyNzkw`

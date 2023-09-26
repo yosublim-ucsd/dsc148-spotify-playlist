@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: <a href="https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=a22ff423549d4950">Limoblaze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,692 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,726 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 99 | [Legacy \- Remix](https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T) | [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Legacy \(Remix\)](https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M) | 2:59 |
 | 100 | [Shining](https://open.spotify.com/track/2Rn8O7Er19MwnyOlJDhpgA) | [Phontera](https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Shining](https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX) | 2:12 |
 
-Snapshot ID: `MCw5YmQ0MjQyNzIzNjhmYWI0NjRkOTJiOWExZmI2NDg4Yzg5ZDk5M2Fi`
+Snapshot ID: `MCxmMTg5OTk0ZTE5MzRhZTU5ODM4NDcyMTFjYTk2OWFmNzdmNTdhODRj`

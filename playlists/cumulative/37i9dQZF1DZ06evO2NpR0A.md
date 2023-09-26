@@ -4,7 +4,7 @@
 
 > This is Bon Iver\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 34 min
+56 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Beth/Rest](https://open.spotify.com/track/2Eh12jPXjq0DKVQmFy3675) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:16 | 2022-09-16 | 2022-10-13 |
 | [Blindsided](https://open.spotify.com/track/4mOqHhznOkkYrhfgssktbZ) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 5:29 | 2022-09-16 |  |
 | [Blood Bank](https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 | 2022-09-16 |  |
+| [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/track/6pRRHgDjfIGhTUCGlHX2p8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Boys Of Faith](https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY) | 2:50 | 2023-09-25 |  |
 | [Brackett, WI](https://open.spotify.com/track/6nC0OeALgrXNmyFFMGKNqO) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 4:02 | 2022-12-20 |  |
 | [Calgary](https://open.spotify.com/track/3rL3jc6CA4SS1eqzGwR877) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:10 | 2022-09-16 |  |
 | [Do You Need Power? \(Walk Out Music\)](https://open.spotify.com/track/4zaK7pzY7D5GkOlkT4i8ru) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Creed II: The Album](https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP) | 1:55 | 2022-09-16 | 2022-10-13 |

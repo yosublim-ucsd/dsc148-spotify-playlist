@@ -1,12 +1,12 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 68279,
+  "num_followers": 68706,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmUwNWNjNzEzODY3YmYzMzYyNTc3NWNmOWIwZTgxZDcyMjM3Mzlm",
+  "snapshot_id": "MCwyMDFmZDE3MTQ0ODMwNGNhZTVmYzI0ODY2MWM5YjQ0YzdjMzA2MTY1",
   "tracks": [
     {
       "added_at": "2023-01-23 22:55:31",
@@ -239,38 +239,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Cuerdas Amor y Guitarra",
-        "url": "https://open.spotify.com/album/4wrTN3Z6gZkSwpuk9TlCpv"
-      },
-      "artists": [
-        {
-          "name": "Chamin Correa",
-          "url": "https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Mujeres Divinas",
-      "url": "https://open.spotify.com/track/2iAEFNqVikS00dToCbrrUT"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "8 A\u00f1os",
-        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/0Qi2p7krDLp04vdTDG2yIb"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -291,6 +259,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "Llevatela",
         "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
       },
@@ -307,6 +291,38 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "8 A\u00f1os",
+        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/0Qi2p7krDLp04vdTDG2yIb"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Cuerdas Amor y Guitarra",
+        "url": "https://open.spotify.com/album/4wrTN3Z6gZkSwpuk9TlCpv"
+      },
+      "artists": [
+        {
+          "name": "Chamin Correa",
+          "url": "https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/2iAEFNqVikS00dToCbrrUT"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "Toda Esta Gente",
         "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 151250,
       "name": "Toda Esta Gente",
       "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Adoro",
-        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -371,38 +371,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "\u00c9xitos Vol. 2",
-        "url": "https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v"
-      },
-      "artists": [
-        {
-          "name": "Chamin Correa",
-          "url": "https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w"
-        }
-      ],
-      "duration_ms": 218566,
-      "name": "Como Han Pasado los A\u00f1os",
-      "url": "https://open.spotify.com/track/4bzbP5Vmd25m6WfwKBMisX"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "El Camino De Mi Alma",
-        "url": "https://open.spotify.com/album/1drg7Khmc8lZML5biWWtjY"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "El Camino De Mi Alma",
-      "url": "https://open.spotify.com/track/6Jfpv3vvfobay7uYVxWXog"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "25 Exitos",
         "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
       },
@@ -415,22 +383,6 @@
       "duration_ms": 233000,
       "name": "Secreto de Amor",
       "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Nos Hizo Falta Tiempo",
-        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Nos Hizo Falta Tiempo",
-      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -451,18 +403,50 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Grandes Exitos del Sol",
-        "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
+        "name": "El Camino De Mi Alma",
+        "url": "https://open.spotify.com/album/1drg7Khmc8lZML5biWWtjY"
       },
       "artists": [
         {
-          "name": "Guitarras de Luna",
-          "url": "https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh"
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 168800,
-      "name": "El Reloj",
-      "url": "https://open.spotify.com/track/39ugPamLfTktBHgRU5Uz4m"
+      "duration_ms": 361000,
+      "name": "El Camino De Mi Alma",
+      "url": "https://open.spotify.com/track/6Jfpv3vvfobay7uYVxWXog"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "\u00c9xitos Vol. 2",
+        "url": "https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v"
+      },
+      "artists": [
+        {
+          "name": "Chamin Correa",
+          "url": "https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w"
+        }
+      ],
+      "duration_ms": 218566,
+      "name": "Como Han Pasado los A\u00f1os",
+      "url": "https://open.spotify.com/track/4bzbP5Vmd25m6WfwKBMisX"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Nos Hizo Falta Tiempo",
+        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Nos Hizo Falta Tiempo",
+      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -483,6 +467,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "Grandes Exitos del Sol",
+        "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
+      },
+      "artists": [
+        {
+          "name": "Guitarras de Luna",
+          "url": "https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh"
+        }
+      ],
+      "duration_ms": 168800,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/39ugPamLfTktBHgRU5Uz4m"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "No",
         "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 161250,
       "name": "No",
       "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "Te Extran\u0303o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -531,34 +515,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
         }
       ],
-      "duration_ms": 144194,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Grandes Exitos del Sol",
-        "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
-      },
-      "artists": [
-        {
-          "name": "Guitarras de Luna",
-          "url": "https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh"
-        }
-      ],
-      "duration_ms": 147760,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/2bHEWIKnvwC8UODwSjXMCu"
+      "duration_ms": 152874,
+      "name": "Te Extran\u0303o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -579,18 +547,34 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Cerezo Rosa",
-        "url": "https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj"
+        "name": "Grandes Exitos del Sol",
+        "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
       },
       "artists": [
         {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+          "name": "Guitarras de Luna",
+          "url": "https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga"
+      "duration_ms": 147760,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/2bHEWIKnvwC8UODwSjXMCu"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 144194,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -611,6 +595,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "Cerezo Rosa",
+        "url": "https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "Ya Te Olvide",
         "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
       },
@@ -627,22 +627,34 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+        "name": "Ambientes",
+        "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
       },
       "artists": [
         {
           "name": "Antonio Garcia Isaac",
           "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
         }
       ],
-      "duration_ms": 175356,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
+      "duration_ms": 120172,
+      "name": "Lagrima",
+      "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Guitarra Mexicana",
+        "url": "https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP"
+      },
+      "artists": [
+        {
+          "name": "Roberto Rojas",
+          "url": "https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p"
+        }
+      ],
+      "duration_ms": 151150,
+      "name": "La Feria De Las Flores",
+      "url": "https://open.spotify.com/track/4UhQUTyawdgrLXfvZUNpzU"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -663,18 +675,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Guitarra Mexicana",
-        "url": "https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP"
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
       },
       "artists": [
         {
-          "name": "Roberto Rojas",
-          "url": "https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p"
+          "name": "Guitarras M\u00e1gicas",
+          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
         }
       ],
-      "duration_ms": 151150,
-      "name": "La Feria De Las Flores",
-      "url": "https://open.spotify.com/track/4UhQUTyawdgrLXfvZUNpzU"
+      "duration_ms": 261399,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/3OQBWVESLIsq4h0M2U1WN4"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -711,38 +723,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Ambientes",
-        "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 120172,
-      "name": "Lagrima",
-      "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
-      },
-      "artists": [
-        {
-          "name": "Guitarras M\u00e1gicas",
-          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
-        }
-      ],
-      "duration_ms": 261399,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/3OQBWVESLIsq4h0M2U1WN4"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "Lo Mejor en Guitarras",
         "url": "https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3"
       },
@@ -755,22 +735,6 @@
       "duration_ms": 147133,
       "name": "La Bikina",
       "url": "https://open.spotify.com/track/4uzsdjd5zer4uurbqIuEu6"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "\u00c9xitos Vol. 2",
-        "url": "https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v"
-      },
-      "artists": [
-        {
-          "name": "Chamin Correa",
-          "url": "https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w"
-        }
-      ],
-      "duration_ms": 268434,
-      "name": "Esta Triste Guitarra",
-      "url": "https://open.spotify.com/track/4WVOyMd86ZTGhh6WNuwUSs"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -791,18 +755,38 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Cinema Latino Vol. 1",
-        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
+        "name": "\u00c9xitos Vol. 2",
+        "url": "https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v"
+      },
+      "artists": [
+        {
+          "name": "Chamin Correa",
+          "url": "https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w"
+        }
+      ],
+      "duration_ms": 268434,
+      "name": "Esta Triste Guitarra",
+      "url": "https://open.spotify.com/track/4WVOyMd86ZTGhh6WNuwUSs"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
       "artists": [
         {
           "name": "Antonio Garcia Isaac",
           "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
         }
       ],
-      "duration_ms": 107434,
-      "name": "Mexico 1910",
-      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
+      "duration_ms": 175356,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -823,22 +807,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Siempre Te Amare",
-        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 149750,
-      "name": "Siempre Te Amare",
-      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "25 Exitos",
         "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
       },
@@ -855,18 +823,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Amor Que Malo Eres",
-        "url": "https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB"
+        "name": "Siempre Te Amare",
+        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
       },
       "artists": [
         {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Amor Que Malo Eres",
-      "url": "https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ"
+      "duration_ms": 149750,
+      "name": "Siempre Te Amare",
+      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -883,6 +851,22 @@
       "duration_ms": 194360,
       "name": "No Se T\u00fa",
       "url": "https://open.spotify.com/track/6BFAhQJHsOqJCa9lIJZUE8"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Amor Que Malo Eres",
+        "url": "https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Amor Que Malo Eres",
+      "url": "https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -923,6 +907,38 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "Llorando Estoy Por Ti",
+        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Llorando Estoy Por Ti",
+      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Cinema Latino Vol. 1",
+        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 107434,
+      "name": "Mexico 1910",
+      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "Guitarra Mexicana",
         "url": "https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Llorando Estoy Por Ti",
-        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Llorando Estoy Por Ti",
-      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "Juan Gabriel Instrumental",
         "url": "https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg"
       },
@@ -983,54 +983,6 @@
       "duration_ms": 221000,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/5k7l6Sl8lmLfxqbFg2kLgk"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Me Vuelves Loco",
-        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
-      },
-      "artists": [
-        {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Tan Enamorados",
-        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
-      },
-      "artists": [
-        {
-          "name": "Silvertre Pinedo",
-          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "San Cristobal",
-        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        }
-      ],
-      "duration_ms": 141398,
-      "name": "San Cristobal",
-      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1051,6 +1003,38 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "Me Vuelves Loco",
+        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
+      },
+      "artists": [
+        {
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "San Cristobal",
+        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        }
+      ],
+      "duration_ms": 141398,
+      "name": "San Cristobal",
+      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "25 Exitos",
         "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "Tan Enamorados",
+        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
+      },
+      "artists": [
+        {
+          "name": "Silvertre Pinedo",
+          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "Guitarra Mexicana",
         "url": "https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP"
       },
@@ -1079,38 +1079,6 @@
       "duration_ms": 117748,
       "name": "La Borrachita",
       "url": "https://open.spotify.com/track/5reZsy6MsXxZ3qD5VNOQye"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "\u00c9xitos Vol. 2",
-        "url": "https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v"
-      },
-      "artists": [
-        {
-          "name": "Chamin Correa",
-          "url": "https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w"
-        }
-      ],
-      "duration_ms": 299493,
-      "name": "Con los A\u00f1os Que Me Quedan",
-      "url": "https://open.spotify.com/track/5eo6BDBP80cGwNjwJwRv62"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "La Consentida",
-        "url": "https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "La Consentida",
-      "url": "https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1135,6 +1103,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "\u00c9xitos Vol. 2",
+        "url": "https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v"
+      },
+      "artists": [
+        {
+          "name": "Chamin Correa",
+          "url": "https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w"
+        }
+      ],
+      "duration_ms": 299493,
+      "name": "Con los A\u00f1os Que Me Quedan",
+      "url": "https://open.spotify.com/track/5eo6BDBP80cGwNjwJwRv62"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "Se Que No Vendras",
         "url": "https://open.spotify.com/album/1dFqAFCScCb2I5Ycee0z1G"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 137250,
       "name": "Se Que No Vendras",
       "url": "https://open.spotify.com/track/5OonKRrr7zPJ2giLp2onc4"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "La Consentida",
+        "url": "https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "La Consentida",
+      "url": "https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "15 Guitarras Mexicanas",
+        "url": "https://open.spotify.com/album/4jQOONzAbwWnwEk0JJwTua"
+      },
+      "artists": [
+        {
+          "name": "Chamin Madero",
+          "url": "https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4"
+        }
+      ],
+      "duration_ms": 316080,
+      "name": "Nosotros",
+      "url": "https://open.spotify.com/track/0hwXKRDbZDKQOASMUkyBrU"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "Guitarra Mexicana",
         "url": "https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "15 Guitarras Mexicanas",
-        "url": "https://open.spotify.com/album/4jQOONzAbwWnwEk0JJwTua"
+        "name": "Guitarra Mexicana, Vol. 1",
+        "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
       },
       "artists": [
         {
-          "name": "Chamin Madero",
-          "url": "https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4"
+          "name": "Stefan",
+          "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
         }
       ],
-      "duration_ms": 316080,
-      "name": "Nosotros",
-      "url": "https://open.spotify.com/track/0hwXKRDbZDKQOASMUkyBrU"
+      "duration_ms": 158250,
+      "name": "La Llorona (Duet)",
+      "url": "https://open.spotify.com/track/1YBrN8ZzDNbPDH4ay75FsR"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1320,9 +1336,9 @@
           "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
         }
       ],
-      "duration_ms": 158250,
-      "name": "La Llorona (Duet)",
-      "url": "https://open.spotify.com/track/1YBrN8ZzDNbPDH4ay75FsR"
+      "duration_ms": 136000,
+      "name": "Las Golondrinas",
+      "url": "https://open.spotify.com/track/0dkDktCKm9bLtBjx6bSNco"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Historia de Amor",
-        "url": "https://open.spotify.com/album/7qrDWAbGTj4qbf3hVexQxJ"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Puente",
-          "url": "https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/4mhgSi52rApm5FOOykFmKF"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "Lo Mejor en Guitarras",
         "url": "https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 210186,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/1noSAZiYTaMxNU6ccTYUDK"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Chacra",
-        "url": "https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Paz",
-          "url": "https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik"
-        }
-      ],
-      "duration_ms": 138953,
-      "name": "Prisa Doble",
-      "url": "https://open.spotify.com/track/1hZkGs8OO9dCNMZP4RmNIC"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "Serie de Colecci\u00f3n 16 Aut\u00e9nticos \u00c9xitos Antonio Bribiesca",
+        "url": "https://open.spotify.com/album/65uwubNhA9Iyhgmdiy3CsX"
+      },
+      "artists": [
+        {
+          "name": "Antonio Bribiesca",
+          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Un Viejo Amor",
+      "url": "https://open.spotify.com/track/4CiazB9HWxTbXSGpKK7AB3"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "Guitarra Mexicana, Vol. 1",
         "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
       },
@@ -1420,9 +1420,41 @@
           "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Las Golondrinas",
-      "url": "https://open.spotify.com/track/0dkDktCKm9bLtBjx6bSNco"
+      "duration_ms": 166467,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/4uXV0bR99BzZBlaz8rhX4J"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Las Guitarras M\u00e1gicas",
+        "url": "https://open.spotify.com/album/2ggdAZc20qXocFuZ7AQOx3"
+      },
+      "artists": [
+        {
+          "name": "Ramon Dona-Dio Y Sus Guitarras Mexicanas",
+          "url": "https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Mal de Amores",
+      "url": "https://open.spotify.com/track/1BHvnYtflVAjzydeEZ00iy"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Historia de Amor",
+        "url": "https://open.spotify.com/album/7qrDWAbGTj4qbf3hVexQxJ"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Puente",
+          "url": "https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/4mhgSi52rApm5FOOykFmKF"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1443,6 +1475,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "Chacra",
+        "url": "https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Paz",
+          "url": "https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik"
+        }
+      ],
+      "duration_ms": 138953,
+      "name": "Prisa Doble",
+      "url": "https://open.spotify.com/track/1hZkGs8OO9dCNMZP4RmNIC"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6"
       },
@@ -1455,38 +1503,6 @@
       "duration_ms": 226266,
       "name": "Mexico Lindo y Querido",
       "url": "https://open.spotify.com/track/6kUb9SK5nzn0HjDiLA61mx"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Serie de Colecci\u00f3n 16 Aut\u00e9nticos \u00c9xitos Antonio Bribiesca",
-        "url": "https://open.spotify.com/album/65uwubNhA9Iyhgmdiy3CsX"
-      },
-      "artists": [
-        {
-          "name": "Antonio Bribiesca",
-          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Un Viejo Amor",
-      "url": "https://open.spotify.com/track/4CiazB9HWxTbXSGpKK7AB3"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Las Guitarras M\u00e1gicas",
-        "url": "https://open.spotify.com/album/2ggdAZc20qXocFuZ7AQOx3"
-      },
-      "artists": [
-        {
-          "name": "Ramon Dona-Dio Y Sus Guitarras Mexicanas",
-          "url": "https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Mal de Amores",
-      "url": "https://open.spotify.com/track/1BHvnYtflVAjzydeEZ00iy"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1527,6 +1543,54 @@
       "duration_ms": 187986,
       "name": "La Borrachita",
       "url": "https://open.spotify.com/track/26jrFuCeLU19arOmvLoiRa"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
+        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
+      },
+      "artists": [
+        {
+          "name": "Ramon Dona-Dio Y Sus Guitarras Mexicanas",
+          "url": "https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Tico-Tico",
+      "url": "https://open.spotify.com/track/4Bz4Gaqu67YmZpZphOor6Q"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Los Poetas de la Guitarra Popurris Inolvidables",
+        "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
+      },
+      "artists": [
+        {
+          "name": "Los Poetas De La Guitarra",
+          "url": "https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU"
+        }
+      ],
+      "duration_ms": 326266,
+      "name": "Popurri a Vicente Fernandez: De Qu\u00e9 Manera Te Olvido? / Tu Camino y el M\u00edo / Si Acaso Vuelves / Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/2E1PZkiCEH6XDtqIP5TR2O"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Guitarra Mexicana, Vol. 1",
+        "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
+      },
+      "artists": [
+        {
+          "name": "Stefan",
+          "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "La Zandunga",
+      "url": "https://open.spotify.com/track/0nU1vk6q6enXEZCCPyYNrM"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1575,70 +1639,6 @@
       "duration_ms": 166773,
       "name": "El Mar - Beyond the Sea [Resmasterizado]",
       "url": "https://open.spotify.com/track/4tyI1kQ3MIx58NDRIJY7oB"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Los Poetas de la Guitarra Popurris Inolvidables",
-        "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
-      },
-      "artists": [
-        {
-          "name": "Los Poetas De La Guitarra",
-          "url": "https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU"
-        }
-      ],
-      "duration_ms": 326266,
-      "name": "Popurri a Vicente Fernandez: De Qu\u00e9 Manera Te Olvido? / Tu Camino y el M\u00edo / Si Acaso Vuelves / Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/2E1PZkiCEH6XDtqIP5TR2O"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Guitarra Mexicana, Vol. 1",
-        "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
-      },
-      "artists": [
-        {
-          "name": "Stefan",
-          "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
-        }
-      ],
-      "duration_ms": 166467,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/4uXV0bR99BzZBlaz8rhX4J"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Guitarras, Lloren ... Guitarras",
-        "url": "https://open.spotify.com/album/0OaejbGdGCWKoMp5MguB2t"
-      },
-      "artists": [
-        {
-          "name": "Romanticos De La Guitarra",
-          "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "\u00bfqu\u00e9 Te Ha Dado Esa Mujer?",
-      "url": "https://open.spotify.com/track/0oe5qmHCmTgbRfMdB1a5Os"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
-        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
-      },
-      "artists": [
-        {
-          "name": "Ramon Dona-Dio Y Sus Guitarras Mexicanas",
-          "url": "https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Tico-Tico",
-      "url": "https://open.spotify.com/track/4Bz4Gaqu67YmZpZphOor6Q"
     },
     {
       "added_at": "2023-01-23 22:55:31",

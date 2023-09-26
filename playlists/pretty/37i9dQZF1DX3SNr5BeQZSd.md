@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,420 likes - 300 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,426 likes - 300 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 299 | [After The Storm](https://open.spotify.com/track/2iz0cJOD6CU0Pq6f9LyuA1) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [The Way Back](https://open.spotify.com/album/1y1GkzaxlWculnDpUlPytq) | 2:44 |
 | 300 | [Blazing Sun](https://open.spotify.com/track/5KpZUyZ75xU3xYWrbE8jF3) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [The Way Back](https://open.spotify.com/album/1y1GkzaxlWculnDpUlPytq) | 2:32 |
 
-Snapshot ID: `MCwxYTA0N2IwOWNkNzU3ODY4MDdlMjdjOTE2OGU0ZmI2YjAyNGI4ZDgx`
+Snapshot ID: `MCw5YTk1OTNhZDI5MWRkNDMxOTllOWQxODQxNDFhODE3MjQ1NTAxMTc0`

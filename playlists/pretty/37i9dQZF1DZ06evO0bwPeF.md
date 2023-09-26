@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,144 likes - 42 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,171 likes - 42 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,34 +21,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 11 | [Speechless](https://open.spotify.com/track/2GN8Femwt83EIwInIuQj33) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 2:58 |
 | 12 | [See You Dead](https://open.spotify.com/track/3TA6HhnAnQP5t6xBpxgpOX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:46 |
 | 13 | [Milktoast](https://open.spotify.com/track/0EV6881kagOULo42517dMX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:58 |
-| 14 | [Give It](https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 4:16 |
+| 14 | [FBLA II](https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:22 |
 | 15 | [Wilma's Rainbow](https://open.spotify.com/track/3QKloANAAhqsgRXAuBioYv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:54 |
 | 16 | [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 |
 | 17 | [Holiday](https://open.spotify.com/track/40nd6IOSBJsHtKJOKWvQlS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Holiday](https://open.spotify.com/album/3vpPVavr1AP4hRv9ZCg1p1) | 3:22 |
-| 18 | [FBLA II](https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:22 |
+| 18 | [Give It](https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 4:16 |
 | 19 | [I Know](https://open.spotify.com/track/5YZc9o1Uk69v7fuO2R3cLG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:40 |
 | 20 | [Renovation](https://open.spotify.com/track/5PU3cvFLDI7sJagPLiB4lq) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 2:55 |
-| 21 | [Smart](https://open.spotify.com/track/1QqWa8cgSu2rrmm3o3sJ6l) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:44 |
+| 21 | [Bad Mood](https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:13 |
 | 22 | [Turned Out](https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 4:13 |
 | 23 | [Tic](https://open.spotify.com/track/4iyW4RQlmcGj1i1igx17RD) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:40 |
 | 24 | [Pure](https://open.spotify.com/track/2IbXarUn4rwPepcPIS9sfm) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 3:33 |
-| 25 | [Bad Mood](https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:13 |
-| 26 | [Drug Lord](https://open.spotify.com/track/3uy3fz4iQq7DpMjhUZhOnG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:23 |
+| 25 | [Smart](https://open.spotify.com/track/1QqWa8cgSu2rrmm3o3sJ6l) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:44 |
+| 26 | [Blacktop](https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:19 |
 | 27 | [No Nicky No](https://open.spotify.com/track/1dRcNdzwEsHmAqYTiSedpl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 2:17 |
 | 28 | [Broadcast Emotion](https://open.spotify.com/track/1lfPYmFzLJzkrAo8J8bBtz) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 2:44 |
-| 29 | [Blacktop](https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:19 |
-| 30 | [Unwound](https://open.spotify.com/track/0o1wHHECTAVzBojwmXBAmj) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 4:12 |
+| 29 | [Unwound](https://open.spotify.com/track/0o1wHHECTAVzBojwmXBAmj) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 4:12 |
+| 30 | [Repetition](https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:59 |
 | 31 | [Taken](https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 1:53 |
 | 32 | [So Long](https://open.spotify.com/track/3gAYxWLhMHIsrflpKmyC4F) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/59dAspZDf4LjLpQ4OKVVz4) | 3:12 |
-| 33 | [Repetition](https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:59 |
-| 34 | [Enemies](https://open.spotify.com/track/7BFKbXUdIyz10tE7d3eR3e) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 5:00 |
-| 35 | [Monochrome](https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:50 |
-| 36 | [Primitive](https://open.spotify.com/track/4rD9TawMBbDEGY90A9MfUX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 3:58 |
-| 37 | [FBLA](https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:39 |
-| 38 | [Red Scare](https://open.spotify.com/track/5khIBhLlizgeyCrMtaaEFl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Dead to the World](https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2) | 3:19 |
-| 39 | [Gone](https://open.spotify.com/track/0XQa4DYXsjQZAkefB1zFL1) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:31 |
-| 40 | [Your Head](https://open.spotify.com/track/7cF2IWNliAdpy26eYNclbe) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 3:20 |
-| 41 | [Sinatra](https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 4:23 |
+| 33 | [Drug Lord](https://open.spotify.com/track/3uy3fz4iQq7DpMjhUZhOnG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:23 |
+| 34 | [FBLA](https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:39 |
+| 35 | [Primitive](https://open.spotify.com/track/4rD9TawMBbDEGY90A9MfUX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 3:58 |
+| 36 | [Monochrome](https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:50 |
+| 37 | [Enemies](https://open.spotify.com/track/7BFKbXUdIyz10tE7d3eR3e) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 5:00 |
+| 38 | [Sinatra](https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 4:23 |
+| 39 | [Your Head](https://open.spotify.com/track/7cF2IWNliAdpy26eYNclbe) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 3:20 |
+| 40 | [Red Scare](https://open.spotify.com/track/5khIBhLlizgeyCrMtaaEFl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Dead to the World](https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2) | 3:19 |
+| 41 | [Gone](https://open.spotify.com/track/0XQa4DYXsjQZAkefB1zFL1) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:31 |
 | 42 | [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 |
 
-Snapshot ID: `MjgyNTUwMDQsMDAwMDAwMDAzM2I3NGJjMGQ2MmNlNGVlNzdkOGU5MGUxOTYxZmU5MA==`
+Snapshot ID: `MjgyNjA3MzYsMDAwMDAwMDA1OGU2NzdhZTA5ZWQxZWI5NDVhNGQyYWNlYTcxYTI1OQ==`

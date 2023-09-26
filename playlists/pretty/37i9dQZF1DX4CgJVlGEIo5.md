@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,789 likes - 82 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,797 likes - 82 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 81 | [Don't Matter Now \- Acoustic Version](https://open.spotify.com/track/6D1RVzXY3lv11b7bNeivkL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's \(Acoustic Tracks and Demo Versions\)](https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ) | 2:48 |
 | 82 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |
 
-Snapshot ID: `MCw3OTQwNWYyY2EyNGU5MDJkNWU0MGE2NGU0ZTczZWIyYjNlYzEwYWQ0`
+Snapshot ID: `MCxlZDYzNDZmNTI1NWFhMTM3NjI2MzViMDgwN2Q4NDcwYTRmY2Y1MmY3`

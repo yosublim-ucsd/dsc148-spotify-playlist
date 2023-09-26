@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: GreenWoodz
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,848 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,851 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 |
 | 75 | [30 Shots](https://open.spotify.com/track/5sJr70b05dLwOamB3s7o8L) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 2:53 |
 
-Snapshot ID: `MCwwOGVjM2FiYjkzM2JlYjhjMThkNWFiMTY2NzgwM2VhYTUyOTAyODg1`
+Snapshot ID: `MCwwMDFjZWMxODg4NzkyOTlhZTNmYjQ5YzNkMTkyZGI0NDZmNWNjODQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,491 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,543 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 99 | [Cinnamon](https://open.spotify.com/track/3UtqjZ1PbzEXMGFIFxd3b9) | [The Long Winters](https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2) | [When I Pretend To Fall](https://open.spotify.com/album/5TLh7wdbeB8m6ZL5tf8IHm) | 4:12 |
 | 100 | [A Teenager in Love](https://open.spotify.com/track/5JMur5IZCCWUdFFRt7ekbf) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/014VFkpQp37zfAXRyyZmBq) | 3:19 |
 
-Snapshot ID: `MCw3MGYzZjBlOTk4MWFmYjEyMDliODc3MjhmN2RkMDU3ZjVkMjY5ZGQ3`
+Snapshot ID: `MCwxYTdkOWYzYWZjYjJmMGQxMzUwNWMzMTNlZjJiMGY3YTdhY2QzNmI2`

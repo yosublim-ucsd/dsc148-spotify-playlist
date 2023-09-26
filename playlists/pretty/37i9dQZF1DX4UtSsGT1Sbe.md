@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 
 > The biggest songs of the 1980s\. Cover: Michael Jackson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,436,474 likes - 150 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,436,758 likes - 150 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 | 149 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:29 |
 | 150 | [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 |
 
-Snapshot ID: `MCwyNmMzOTY1MTExY2IwZDI2NDY5Mjc1YWZhYjhhMjE2ZTg5ZDIzODQ5`
+Snapshot ID: `MCw3NjljZDQ1ODlmNmYxMjZhNTM5YzBkM2I3YjA5OTUxN2ZhNjEwNDUx`

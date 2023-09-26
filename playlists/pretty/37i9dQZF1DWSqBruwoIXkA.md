@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like this Cover: Reneé Rapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,620,974 likes - 150 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,621,154 likes - 150 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 149 | [if depression gets the best of me](https://open.spotify.com/track/2ha6TmK7Q3mejlvZNQuEBu) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4) | 3:00 |
 | 150 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 |
 
-Snapshot ID: `MCxkNDMyZWE3YTU4NTIwZWZlYTc3NDZjNzgzMWZmMDIwYzlhMjg5Njc0`
+Snapshot ID: `MCwzZGExMGFiYTMzMTdjMGZhM2JmMzkzZDY1NTRkYWI1ZDUyZjBlYTJl`

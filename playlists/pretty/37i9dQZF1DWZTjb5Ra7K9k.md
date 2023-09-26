@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,966 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,969 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 74 | [Pipeline](https://open.spotify.com/track/4JnefzMlvvO3OUBRW4oLlU) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [The Real Deal: Greatest Hits Volume 2](https://open.spotify.com/album/2SYJxEVYF7yzxEf2Ncymi1) | 2:59 |
 | 75 | [What's My Scene](https://open.spotify.com/track/5Dpv08jVFM3UHvmY6zp7qi) | [Hoodoo Gurus](https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y) | [Blow Your Cool](https://open.spotify.com/album/47CRqx6c9sIWmzpM5GXFYG) | 3:49 |
 
-Snapshot ID: `MCw2MDRkNzk0NGMxZmRjMjgzNWJmNjg5OGNhNTcxMWI0N2I0ZjlkMTZm`
+Snapshot ID: `MCwyNTE2OTRkMmM5NDVhZTMwOGUyMjNkOGViMTRhYzM5ODdiMWJhZGJk`

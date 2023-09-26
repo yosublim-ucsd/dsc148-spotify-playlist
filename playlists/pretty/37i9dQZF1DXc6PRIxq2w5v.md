@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,935 likes - 85 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,952 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 84 | [Filho do Homem](https://open.spotify.com/track/2WQ87ao5uZsRZS0UB8cQQi) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena](https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA) | 3:15 |
 | 85 | [Se o Espírito de Deus Se Move em Mim](https://open.spotify.com/track/3Ob9HR0tFe110PuUrZdIcy) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Daniel Salez](https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO) | [Se o Espírito de Deus Se Move em Mim](https://open.spotify.com/album/0onAAqhvNW20080BvMMCkO) | 2:10 |
 
-Snapshot ID: `MCxmMTRhZmRmNGI0OWIzYWFiYzA0NzAzMjdiYzc5ZjBjM2QyZTAxZTY1`
+Snapshot ID: `MCxlYTA5N2RlYjMwYjY5NjBhZTkxZmI1MjAzZjVjODc1YjFhMTI1Zjkx`

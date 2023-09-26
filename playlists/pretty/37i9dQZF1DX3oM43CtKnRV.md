@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 
 > These songs rocked the 00s\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,834,487 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,834,701 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 | 99 | [Tick Tick Boom](https://open.spotify.com/track/6tedQ1ZmbygqhbdcfJL7Xb) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Black And White Album](https://open.spotify.com/album/0kGG0cYU829iWwfpQFm6Ue) | 3:25 |
 | 100 | [The Everlasting Gaze](https://open.spotify.com/track/4EhbLHYOXzEoPmOfaVoIIW) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Machina / The Machines Of God](https://open.spotify.com/album/4hrZp6mKgz0HG7UpRbNYQx) | 4:00 |
 
-Snapshot ID: `MCw1YmU0NmYwNWEzMjFhMTg0M2M0Yjk3NzdlZmM2ZDkyZjhmZGFjY2Qz`
+Snapshot ID: `MCxlMjgxYzZhOGZmM2M4NDA5OTBhZjZlNDY2ZTc3ZDU0YzBkZDRlOTc5`

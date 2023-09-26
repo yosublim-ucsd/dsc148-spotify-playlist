@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 
 > The tracks you just keep pulling up\. Cover: Drake 🐕
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,303 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,393 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 | 99 | [To The Bone \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 4:43 |
 | 100 | [Savior](https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:44 |
 
-Snapshot ID: `MCxjM2Q0ZjJkYWZhMmY2MmRhZTUzMzdmMGMyZjQ1NmE3NDY3Zjk2Yjhi`
+Snapshot ID: `MCwyMjIzMmY0NmJkZmVmNWI0NmNlY2MxMDI5Y2VhNmJlZmFjMDU2ZmRl`

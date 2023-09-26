@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2M1RktxUUHG.md) - [plain]
 
 > The biggest songs of the 2020s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,680 likes - 150 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,765 likes - 150 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2M1RktxUUHG.md) - [plain]
 | 149 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:07 |
 | 150 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 
-Snapshot ID: `MCwzMzUxZDYyYWRjOWY2MzY3NzZhNjE2N2ZiMjNkNzIwZGIzMGFjOTE3`
+Snapshot ID: `MCw2MjIzOTExZDhiMDI1ZGZlZmNhN2U5ZmI5Nzc0ZWY1YzU1NTNiYTYw`

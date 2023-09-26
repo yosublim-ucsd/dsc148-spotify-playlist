@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "BLEU",
+        "url": "https://open.spotify.com/album/6woJYYYScksahP4fTIMhus"
+      },
+      "artists": [
+        {
+          "name": "French Police",
+          "url": "https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143225,
+      "name": "HUNNY",
+      "url": "https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb"
+    },
+    {
+      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/3XATRvX0NKGvQAECv0kpAx"
       },

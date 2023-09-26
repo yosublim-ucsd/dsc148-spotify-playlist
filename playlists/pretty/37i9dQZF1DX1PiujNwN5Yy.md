@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Sad songs just 4 you para los días tristes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,823 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,843 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 99 | [olvídate de mí](https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [olvídate de mí](https://open.spotify.com/album/2CQuvDLfVKcfNkzWknbVhA) | 2:57 |
 | 100 | [Bailando Lentos](https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bailando Lentos](https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W) | 3:27 |
 
-Snapshot ID: `MCxkNzc3ODE2ZjBhNWRmZWRjOGM2NGQ1YzBkYzMxN2Y2ZTFkYjEwNGUw`
+Snapshot ID: `MCw4YTBkY2VjYmI0YTQ1OTM1Yzc5NDZiZTdjNjUwMTM0ODE2OTU5ODM4`

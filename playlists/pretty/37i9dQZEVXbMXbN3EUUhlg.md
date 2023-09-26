@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMXbN3EUUhlg.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,458,188 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,458,144 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMXbN3EUUhlg.md) - [plain]
 | 49 | [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3) | 2:59 |
 | 50 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/1nf1HJdTWXwf9XHQebGlOd) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Quando Apaga A Luz \(Ao Vivo\)](https://open.spotify.com/album/14GC6d6HNAE3AZEItOG0kc) | 2:24 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

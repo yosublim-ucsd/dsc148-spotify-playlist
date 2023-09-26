@@ -1549,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Blow Out",
+        "url": "https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216070,
+      "name": "Blow Out",
+      "url": "https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4"
+    },
+    {
+      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/2m57meR4I847cmV8m7cNxn"
       },
@@ -2953,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "Oxytoxin",
+        "url": "https://open.spotify.com/album/6IB5Af6Ipn3EWd6S6eZhel"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305250,
+      "name": "Creationizm",
+      "url": "https://open.spotify.com/track/3lvRuQaYkPm6gpfhvhVHnK"
+    },
+    {
+      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -3144,8 +3180,8 @@
           "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
         },
         {
-          "name": "Jonnine Standish",
-          "url": "https://open.spotify.com/artist/5bI9eCMwyp48f1KcX80A01"
+          "name": "Jonnine",
+          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
         }
       ],
       "date_added": "2019-01-25",
@@ -3528,6 +3564,28 @@
       "duration_ms": 299999,
       "name": "Don't know how",
       "url": "https://open.spotify.com/track/041kYJkQYbRFwOaIPA7YXa"
+    },
+    {
+      "album": {
+        "name": "separation anxiety",
+        "url": "https://open.spotify.com/album/7o9t3adexgpcxrEeEp8Dut"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337137,
+      "name": "don't see this",
+      "url": "https://open.spotify.com/track/4wFQ4iGZX8V5Iro9HE4atb"
     },
     {
       "album": {
@@ -4012,6 +4070,24 @@
       "duration_ms": 624346,
       "name": "Evencycle",
       "url": "https://open.spotify.com/track/1syc506aHpwGbkU7dlPVeN"
+    },
+    {
+      "album": {
+        "name": "Evergreen / only1",
+        "url": "https://open.spotify.com/album/5ZfZWao9oEDWOktQzbXXh6"
+      },
+      "artists": [
+        {
+          "name": "canary yellow",
+          "url": "https://open.spotify.com/artist/6dGWL8hxc3I833xMD6ycBv"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230697,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1RTilJtqgu5nnJlUvGnqdS"
     },
     {
       "album": {
@@ -5886,6 +5962,28 @@
       "duration_ms": 187000,
       "name": "House of Trix",
       "url": "https://open.spotify.com/track/2OUGmusXrRYbJwyljvbReI"
+    },
+    {
+      "album": {
+        "name": "I Can Make It (Jacques Greene Remix)",
+        "url": "https://open.spotify.com/album/5jGu6B4vR6ohNzMfiRifzu"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263780,
+      "name": "I Can Make It - Jacques Greene Remix",
+      "url": "https://open.spotify.com/track/4DLCmEq25XD0OoLy1ZWW78"
     },
     {
       "album": {
@@ -7943,6 +8041,28 @@
     },
     {
       "album": {
+        "name": "Make You Scream (yun\u00e8 pinku Remix)",
+        "url": "https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164105,
+      "name": "Make You Scream - yun\u00e8 pinku Remix",
+      "url": "https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q"
+    },
+    {
+      "album": {
         "name": "Making The Band (Danity Kane)",
         "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
       },
@@ -8614,6 +8734,24 @@
       "duration_ms": 244945,
       "name": "Never Come Back - Koreless Remix",
       "url": "https://open.spotify.com/track/3potI4ZuynQ1nOSFXWDnDj"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Be",
+        "url": "https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225699,
+      "name": "Never Gonna Be",
+      "url": "https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p"
     },
     {
       "album": {
@@ -11547,7 +11685,7 @@
       "artists": [
         {
           "name": "Slauson Malone 1",
-          "url": "https://open.spotify.com/artist/2pPtktkmT5TCBXMQWhfZvj"
+          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
         }
       ],
       "date_added": "2020-10-30",
@@ -13041,6 +13179,24 @@
     },
     {
       "album": {
+        "name": "trip9love...???",
+        "url": "https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7"
+      },
+      "artists": [
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152771,
+      "name": "their Love",
+      "url": "https://open.spotify.com/track/7yO7nSVKDScJ8KTEHY0o21"
+    },
+    {
+      "album": {
         "name": "Wuddaji",
         "url": "https://open.spotify.com/album/3U3U9BOpEcgFHxcMuoR52Q"
       },
@@ -13260,6 +13416,24 @@
       "duration_ms": 234000,
       "name": "Tiniest Whisper",
       "url": "https://open.spotify.com/track/7lO3Otj9aydv4uaaW7d8HX"
+    },
+    {
+      "album": {
+        "name": "Toes Down",
+        "url": "https://open.spotify.com/album/3WbZidLDFb4DEMnMKJ6w6s"
+      },
+      "artists": [
+        {
+          "name": "Louke Man",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174193,
+      "name": "Toes Down",
+      "url": "https://open.spotify.com/track/4RBltccJevBLRCaKx8GeP0"
     },
     {
       "album": {

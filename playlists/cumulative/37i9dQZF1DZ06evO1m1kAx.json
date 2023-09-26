@@ -974,7 +974,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 307696,
       "name": "Life Is Beautiful (feat. 2baba)",
       "url": "https://open.spotify.com/track/5pAU0AC3qNiORdnXO2kDOg"
@@ -1632,6 +1632,28 @@
     {
       "album": {
         "name": "Gongo Aso",
+        "url": "https://open.spotify.com/album/4Lkl7erFMkTHWmkdSmEpj3"
+      },
+      "artists": [
+        {
+          "name": "9ice",
+          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288114,
+      "name": "Street Credibility",
+      "url": "https://open.spotify.com/track/74BCbm03x3JamvFUAEcVGH"
+    },
+    {
+      "album": {
+        "name": "Gongo Aso",
         "url": "https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex"
       },
       "artists": [
@@ -1646,7 +1668,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 288451,
       "name": "street Credibility (feat. 2baba)",
       "url": "https://open.spotify.com/track/18733EhJ3aCTkRDtNpCq01"

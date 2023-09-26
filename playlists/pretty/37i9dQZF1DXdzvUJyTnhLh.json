@@ -1,13 +1,29 @@
 {
   "description": "Eagles at their best. Explore their deep catalog as a band and as solo artists.",
-  "num_followers": 16109,
+  "num_followers": 16465,
   "original_name": "Eagles & Beyond",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWJhNTZmYTM5Y2FhZmRlYTFkYzVmMzc0MmE3NjU1Y2FiNzZiZTUz",
+  "snapshot_id": "MCwwMTFkNDM5NzQzOTc4Nzc1MGQzYjRkZDYyNjgzZTY4M2VmYWRkYzYz",
   "tracks": [
+    {
+      "added_at": "2022-07-15 14:13:40",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
     {
       "added_at": "2022-07-15 14:13:40",
       "album": {

@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-319 songs - 15 hr 59 min
+322 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Coastline](https://open.spotify.com/track/1uaM53HQVyWcim7agCjB15) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Coastline](https://open.spotify.com/album/34E1TXm0e68uT476tkZxsk) | 3:20 | 2022-05-20 | 2022-09-23 |
 | [Cobolt](https://open.spotify.com/track/5RWPlLSHtYpNFLcFOBgVmD) | [Lady Mas](https://open.spotify.com/artist/1dLFAvqPp134vW4ZpZzUYJ) | [Cobolt](https://open.spotify.com/album/2BLfxGmUEWrIOD97xNVEQY) | 3:00 | 2022-05-20 | 2022-06-10 |
 | [Coconut Trees](https://open.spotify.com/track/3HJKltBDLm5JUI9ihFiM2T) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Coconut Trees](https://open.spotify.com/album/6f85ZU3E8KBVysLfFAnQoF) | 2:03 | 2023-01-13 |  |
+| [Coeur d'Alene](https://open.spotify.com/track/4n6xA65ah6i8QoHVcHraaR) | [Pat Jr](https://open.spotify.com/artist/7F6eGe9WVjyshqDIdZo4KJ) | [Coeur d'Alene](https://open.spotify.com/album/2U9W6kKQmuqlMxnzYKIeIB) | 2:24 | 2023-09-22 |  |
 | [Come Along](https://open.spotify.com/track/4h8QHgPPriNxU1LP7q2Qes) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Come Along](https://open.spotify.com/album/2Ou8k6aCc2zhJ9Dk3weDIy) | 2:42 | 2023-04-28 |  |
 | [Copycat](https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Copycat / Sunspot](https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV) | 5:54 | 2022-05-20 |  |
 | [Coral Beach](https://open.spotify.com/track/0aymtzpvO3QufAK2MbSBHd) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Coral Beach](https://open.spotify.com/album/6aR9tPyi2VE3f1rQo9dy2j) | 2:45 | 2022-05-20 | 2022-10-07 |
@@ -169,6 +170,7 @@
 | [Look Who Was Here](https://open.spotify.com/track/1e82eeTd5saBytIIC1rQXO) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [Look Who Was Here](https://open.spotify.com/album/2N8U54PjbL9J5RFbZ7pFCp) | 3:19 | 2023-01-06 |  |
 | [Lost and sound](https://open.spotify.com/track/4deG32OdrRCNIRRqlltdUJ) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Lost and sound](https://open.spotify.com/album/7bkBU9Rvrt4dpy3juyV3bU) | 2:58 | 2022-08-19 |  |
 | [Lost Lands](https://open.spotify.com/track/0xbXmw4lyidtiVgEzSpsoQ) | [Delta O](https://open.spotify.com/artist/3BYLxIFUAOJGEsV8lRkjSN) | [Lost Lands](https://open.spotify.com/album/0wyP4NGuJp6sI0j0SH7siA) | 3:53 | 2022-05-20 | 2023-08-05 |
+| [Lost On You](https://open.spotify.com/track/0ub3ajl1GFi4HPxwLqCKg2) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Lost On You](https://open.spotify.com/album/50cUqhpezlW1HxLWzlFCiI) | 2:27 | 2023-09-22 |  |
 | [Lounge Joint](https://open.spotify.com/track/3SkVZHNHUVDzelIarOrgDe) | [Minor Keyz](https://open.spotify.com/artist/3vmtpFNZmk6ZfJd2sGDJDp) | [The Weekend](https://open.spotify.com/album/1LLNpIVJt4wHbxaoKwUyeE) | 1:21 | 2022-05-20 | 2023-07-29 |
 | [Lucky Indigo](https://open.spotify.com/track/7hBV6H6Yi5KMcNAxrWfxN2) | [Ayimi](https://open.spotify.com/artist/6QTs7zcBWJY3Hst7yKkc2e) | [Lucky Indigo](https://open.spotify.com/album/5xldzhflovUqTs5lKCfhxG) | 3:05 | 2022-05-20 |  |
 | [Lujo](https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI) | [DJ Duboise](https://open.spotify.com/artist/4rrvVP1Aeax1bAcLYpCBCN) | [Lujo](https://open.spotify.com/album/1oaJFXlAaPf1seL59yGGb7) | 2:37 | 2022-05-20 |  |
@@ -185,6 +187,7 @@
 | [Melrose Melodies](https://open.spotify.com/track/5bvLQQShcSRkSB1JACfIeC) | [Rodeo 55](https://open.spotify.com/artist/3xkoKnukumjrChWnrtTz2F) | [Melrose Melodies](https://open.spotify.com/album/3IDZLVaoYsupTZsIUZlJRb) | 2:13 | 2023-08-18 |  |
 | [Meridian](https://open.spotify.com/track/6g2qNlGpizqh0K05nxLNqf) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Meridian](https://open.spotify.com/album/6YEdcoWIiIjzUcqr11W2C0) | 3:42 | 2022-05-20 | 2022-06-03 |
 | [Miami Haze](https://open.spotify.com/track/3YqeefMfmwnYaWVezGn8lq) | [Dekance](https://open.spotify.com/artist/44KGRSo2bpi5LUlIw52lvD) | [Miami Haze](https://open.spotify.com/album/6HBSaCYkpxvnFi6PlGQ8xF) | 4:04 | 2022-05-20 | 2022-09-17 |
+| [Midnight Snack](https://open.spotify.com/track/3BgBwSOMicBIfxRZpOewrz) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [Midnight Snack](https://open.spotify.com/album/5fC41QDe37WTx5PpcR1b2K) | 2:06 | 2023-09-22 |  |
 | [Midside](https://open.spotify.com/track/4eUvFf6qOaJ5WN0NiPy0LV) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Midside](https://open.spotify.com/album/6MhfXpAV2fDGLsuPJrN5w7) | 2:45 | 2022-10-28 |  |
 | [milanaze](https://open.spotify.com/track/54vcW7KBQULivUu32NZ7ot) | [qorfu](https://open.spotify.com/artist/4RThihZi1QaMBUHyFpu3pY) | [milanaze](https://open.spotify.com/album/1ahaxm7I0wNWesi6fwvaS3) | 2:56 | 2022-05-20 |  |
 | [Milquetoasts](https://open.spotify.com/track/4qW1Ge31IDc6UJ9aU3Q95N) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [Milquetoasts](https://open.spotify.com/album/6ifwt4nNsm3ThBFtheeu6t) | 2:59 | 2023-06-02 |  |
@@ -325,7 +328,7 @@
 | [Wurk for the $](https://open.spotify.com/track/7a17r9HOHvn9L1ZfhWEsdi) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [A Taste of You](https://open.spotify.com/album/3H2aukbnHawy8sU83q4TtG) | 2:43 | 2022-10-28 |  |
 | [Yeesh Euphemism](https://open.spotify.com/track/5XE4be6dC1jBUIfVNceNxx) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [OMG Coffee](https://open.spotify.com/album/0VA0nwREAwUZ2QBdRoTPa5) | 3:05 | 2022-07-29 | 2022-09-17 |
 | [Young Guns](https://open.spotify.com/track/6Inc6yOBo4kUlCltz75Y4K) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Young Guns](https://open.spotify.com/album/7yg546r9ibdZQXlDB3C8qr) | 3:03 | 2022-10-07 |  |
-| [Zero](https://open.spotify.com/track/36IozKGZgSL9oTrhDmWzk8) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Zero](https://open.spotify.com/album/6tCuCuKVgdtf6JtoyyNes7) | 2:02 | 2023-01-06 |  |
+| [Zero](https://open.spotify.com/track/36IozKGZgSL9oTrhDmWzk8) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Zero](https://open.spotify.com/album/6tCuCuKVgdtf6JtoyyNes7) | 2:02 | 2023-01-06 | 2023-09-26 |
 | [Zeta Reticuli](https://open.spotify.com/track/0prUbL2i0fL0uNC4lpxxoy) | [Dennis Straat](https://open.spotify.com/artist/2QclRlSL9gUvxOoFVr9PA8) | [Zeta Reticuli](https://open.spotify.com/album/4AVxhau0FPh5Yr1GKf3TAI) | 3:19 | 2022-05-20 | 2022-09-09 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

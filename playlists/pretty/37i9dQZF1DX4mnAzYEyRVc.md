@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Out Of Control Army
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,533 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,539 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 99 | [Charade](https://open.spotify.com/track/4TU950aBQIwFjkuWk63shn) | [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn), [The Beverley's All Stars](https://open.spotify.com/artist/4YLJ8hO5NSk1uWjGUb0xlK) | [King of Ska: The Beverley's Records Singles Collection 1963 \- 1967](https://open.spotify.com/album/2rRn15y0Y7m6NKWL9QXo3Y) | 3:06 |
 | 100 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
 
-Snapshot ID: `MCw5NTU5YTViODZiNDNjZTYxMzg2ZWQyNDY3MDM3MTYwZGUxOWNhYjc4`
+Snapshot ID: `MCwzNWE0MzhlYTYwMDcwODZkYjAyMGY5NTUwNjQ5MjdhM2IxNmNhYmI5`

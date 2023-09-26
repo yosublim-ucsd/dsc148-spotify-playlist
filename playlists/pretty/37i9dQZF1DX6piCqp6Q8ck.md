@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 59 | [The Last Day of the Year](https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 5:05 |
 | 60 | [Man With The Bag](https://open.spotify.com/track/0BCVQHXk8HY6Uip5gK2lrv) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/0LuEO5CPU8DqYEA31cfaGV) | 2:54 |
 
-Snapshot ID: `MCxkMTQzNjlmMzcxZjNiZjVhNTc2NmI0MmI5OGFjNjZjZTg1ZjNjYmNl`
+Snapshot ID: `MCw5OWE0ZGEyMDhkYTVhZjcwYzE3MWQyYTI4Zjc4MTA3Njc4M2ZhODhm`

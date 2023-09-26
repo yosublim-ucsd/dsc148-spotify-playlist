@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,226 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,330 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [Lone Wolf](https://open.spotify.com/track/2jliyCiGz19fl2SgCfK4T2) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Lone Wolf](https://open.spotify.com/album/7muDNCTjPlomqHUaUToHUS) | 3:30 |
 | 100 | [Unity](https://open.spotify.com/track/5ocEjEEmrT02QNIvSc5iub) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Unity](https://open.spotify.com/album/3u3JkMZvuXinPVaaU3PbV4) | 2:48 |
 
-Snapshot ID: `MCw2NjY5YTVkZDkyODVlYmFiYTIyZGM1NWY5Mzg2ODQ1Zjc2MWM1MTEy`
+Snapshot ID: `MCxjYWQyM2VjYmI4ZTg0YjcyMmYwYzA0NDg0N2U4M2Q3NWExZWE3MmVl`

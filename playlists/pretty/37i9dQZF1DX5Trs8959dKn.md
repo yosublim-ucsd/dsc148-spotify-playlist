@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,829 likes - 50 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,859 likes - 50 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 49 | [Baba](https://open.spotify.com/track/0H5lLW8qybOadIxSO730jY) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Lost in His Glory](https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5) | 5:55 |
 | 50 | [Kabi O Osi O](https://open.spotify.com/track/7wvd86p1SSGKhb6iLRMCG2) | [Victor Olayeni](https://open.spotify.com/artist/0TRdYFzxaxrp8DCiBp4UiR) | [Life and Worship Chapter 1](https://open.spotify.com/album/09CZxo7F03KAMVuGwKQz9X) | 4:17 |
 
-Snapshot ID: `MCxhZmY4Njk1ZjU2MDFlNTJiYTY4ZDE2ZGY2YTE2ZjAwZDI2MDA5M2U4`
+Snapshot ID: `MCwwYTIxMWY3MTNmNTIzNTU3ODFjZWUxZGI4NzkyNDc4ZjRlNjVlMDE2`

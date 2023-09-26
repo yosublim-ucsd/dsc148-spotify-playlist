@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,825 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,861 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 99 | [April In Paris](https://open.spotify.com/track/5Va2ImszhfJhRUgayR7ZaP) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 6:36 |
 | 100 | [St\. Thomas](https://open.spotify.com/track/05LNBtMuc26HSAHh7C6iG8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Doug Watkins](https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Saxophone Colossus](https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ) | 6:47 |
 
-Snapshot ID: `MCxkZDc4NWY1M2Q0MzU3YjJiNmY0ZTI1ZDU2NWU0MjVkOTkxYmNiMmQ3`
+Snapshot ID: `MCxlNjFlNTE1OTgyOGY3ZmM3YzRiNjc4MTg0ZTdjYWQ4MTBjODQzNzA3`

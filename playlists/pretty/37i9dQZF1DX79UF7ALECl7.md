@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 
 > Have some chill house with your coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,415 likes - 98 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,426 likes - 98 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 | 97 | [Twilight](https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Twilight](https://open.spotify.com/album/0xA3Pyif2qZdMymcAMUXAI) | 2:55 |
 | 98 | [Loyal \- Afro House Remix](https://open.spotify.com/track/0kfoWZI1zb2zfnIvUCm52g) | [ENE Yatt](https://open.spotify.com/artist/74jqXJCRr3ZpWNKVkRuxfy), [Orlando Voorn](https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u) | [Loyal \(Afro House Remix\)](https://open.spotify.com/album/46trrRl1K6bdunvPrF0lrz) | 3:23 |
 
-Snapshot ID: `MCwzZWEyMTRlODgzZGIyMTFhOGZmMDQxOWRiMmI5MDA0YWEzYmZiODVh`
+Snapshot ID: `MCw4YzA3OGViMTJjY2FiYzEyZmM1MTVmNjQ3MGMzZGQ0YmQ3YWVkNDli`

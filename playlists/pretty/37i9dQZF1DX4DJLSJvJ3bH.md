@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,084 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,088 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 99 | [The Time of the Year](https://open.spotify.com/track/5QgDnPnQrHvM9x9p67XAYg) | [Niklas Gabrielsson with Martin Landström & His Orchestra](https://open.spotify.com/artist/6tXmWC5IoHPCCyKzg9Pgjm) | [The Time of the Year](https://open.spotify.com/album/3uhQZntd41T2H4mL5eO6w8) | 3:28 |
 | 100 | [Let's Share Christmas](https://open.spotify.com/track/2aQiM3ffmt5QzSzU5FxtPm) | [Dick Lieb](https://open.spotify.com/artist/7rB4viLXW5N1ioEuo2Iogz) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:55 |
 
-Snapshot ID: `MCxmNzQwNWY0Y2VmOGUxZGI3MTNkMjkyNzFkOThlNGEyYmEzY2MwMzgx`
+Snapshot ID: `MCxjZTJhYTlkMTViMDIxZDc2NjU5MDRlZjQwNmY0ZjFhODQzYTU3YTQx`

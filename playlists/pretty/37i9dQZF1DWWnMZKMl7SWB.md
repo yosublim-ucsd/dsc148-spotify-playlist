@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,352 likes - 800 songs - 1 day 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,347 likes - 800 songs - 1 day 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -809,4 +809,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 799 | [sweet pea](https://open.spotify.com/track/769jXDQMCJCfuBbcZvplDx) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [sweet pea](https://open.spotify.com/album/5QRtyzZW6kQfvQ9c943GmA) | 1:19 |
 | 800 | [Dear Friends](https://open.spotify.com/track/1ZaTA2e51aBZoAL8CuaePU) | [d\-Tergent](https://open.spotify.com/artist/6ye4fgFvJaIMRV9Hsry5Ta) | [Dear Friends](https://open.spotify.com/album/5dT9sOgkg4vuBzcDwnWvM0) | 2:15 |
 
-Snapshot ID: `MCw2ZTg2YTg3MmQ1MTYyZWRlYjQwNjA4MTc4YWNiYTQ4YzhmODhkNzA0`
+Snapshot ID: `MCw1NGUzZDcxMTcwOTJhM2VmZTA1MjAzMjY5MmQ1OWY1ZTEyMDRlZTZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,476 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,483 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [JUST KEEP IT](https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE) | 3:13 |
 | 100 | [gentle rain](https://open.spotify.com/track/2vSvpzvFtKEiccfochwqpJ) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [gentle rain](https://open.spotify.com/album/2T253HKQbiMM7cOmnfA4rP) | 1:30 |
 
-Snapshot ID: `MCwzNjFiNGI3NjBmZTZiY2FkYzYyODM2OGRmMWZlMmUxNWRmMGVjMThj`
+Snapshot ID: `MCw0OWVkNTA3ZTg0ZjNiYTBhMzcxMDczMzU0OGZiMzZkMjdkNDZhMTc1`

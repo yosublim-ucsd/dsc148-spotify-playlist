@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,800 likes - 200 songs - 17 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,807 likes - 200 songs - 17 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [Children Of Flint](https://open.spotify.com/track/2CbTrKGpzbpMex9ar5myCc) | [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Linda May Han Oh](https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I), [Tyshawn Sorey](https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu) | [Children Of Flint](https://open.spotify.com/album/2NWNR2Vlz3lIOKfk7BGn7Y) | 6:26 |
 | 200 | [In viaggio verso Nizza](https://open.spotify.com/track/7lW9wItya6Ov9e3fuL2Prx) | [Danilo Madonia](https://open.spotify.com/artist/14lGCmKZJtOvOPqYAe2Jst), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR), [Rosario Jermano](https://open.spotify.com/artist/7HlqpHfiosmHyjhM3reHba), [Flavio Ibba](https://open.spotify.com/artist/07cufUNz3TfQgFl1My3rap), [Elio Veniali](https://open.spotify.com/artist/40nbGvejD0aPzVSzloYeV1) | [In viaggio verso Nizza](https://open.spotify.com/album/1KqA7nxSeflGTGgyBHTJ2p) | 4:19 |
 
-Snapshot ID: `MCxlMWQ5ZGZkMDVjNTM2YTJmMzRlMzFhOTIxY2IzMjYzYTdiYjg3ZWE4`
+Snapshot ID: `MCw3MTI4ZTllMTkzNDFiZDZhNmEzNDZhODk5YmE4MzlmOThmMTQzYjgy`

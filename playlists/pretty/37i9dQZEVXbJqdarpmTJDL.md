@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqdarpmTJDL.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Greece.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,007 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,021 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqdarpmTJDL.md) - [plain]
 | 49 | [Jamaica](https://open.spotify.com/track/05U3IRR6fHwoYjBEkyqRox) | [Khay Be](https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [Jamaica](https://open.spotify.com/album/5bvvqz8l4k7qp35dexZCF1) | 2:57 |
 | 50 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

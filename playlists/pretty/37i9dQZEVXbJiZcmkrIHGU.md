@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiZcmkrIHGU.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Germany.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,174,011 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,174,025 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiZcmkrIHGU.md) - [plain]
 | 49 | [Lay Low](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:33 |
 | 50 | [Anders](https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Anders](https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq) | 2:35 |
 
-Snapshot ID: `NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ5MDI5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,986 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,015 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 99 | [Carry Me Home](https://open.spotify.com/track/0lfCoE7BfCZaaLiKSxSYXL) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Carry Me Home](https://open.spotify.com/album/3BVadsttoBuo4nmzPoax9g) | 5:27 |
 | 100 | [Ghibli](https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG) | [Ghibli](https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As) | 3:55 |
 
-Snapshot ID: `MCxkZDQ2MGQ3YzBhN2NiMDIzYjQ0NmNiNGMzMTFiNDQ4ZDRlYTlhOGUw`
+Snapshot ID: `MCxkNjBmYWMxOGFhMTkxNTI4MDkwMjY3ZTRiZTkwOWFhOGRlZmRjMDYy`

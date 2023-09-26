@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 
 > De costa a costa, de frontera a frontera..\.  un banquete de sonidos de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,176 likes - 150 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,181 likes - 150 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 | 149 | [El Sacamandú](https://open.spotify.com/track/135Ns5af7wyS7pOgeBRxJv) | [Trío Cantores del Pánuco](https://open.spotify.com/artist/2KCYG92xE8JSetBij1lECl) | [Antología del Son de México, Huasteca](https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8) | 4:01 |
 | 150 | [Zirahuén](https://open.spotify.com/track/0Em8w9tBq5E1eLIL4bSHCi) | [Banda Lago Azul de Zirahuen](https://open.spotify.com/artist/1K4CXOjnnAp6E3gerkC4DX) | [Homenaje A Michoacán 20 Éxitos](https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT) | 4:20 |
 
-Snapshot ID: `MCxiMjQ3YjExZGQzMjRiNTQ1OTI3ZDgxNTE5OTZkZmY3OWNmMTAzODIy`
+Snapshot ID: `MCxmYTYzZGFkMGJiNDVkMzhjODc0NTYwZDY5ZjJmMWE2NGUxMTI1MmJj`

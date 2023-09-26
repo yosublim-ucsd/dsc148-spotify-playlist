@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,464 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,484 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 |
 | 75 | [Heaven Coming Down](https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB) | [The Tea Party](https://open.spotify.com/artist/6O5Xi2xT3bICu1ZLXqLYRE) | [TRIPtych](https://open.spotify.com/album/1q1DoRb0McqviO1JCwJ7mQ) | 4:01 |
 
-Snapshot ID: `MCw1MGJjZTUxZjExNjlmZjA4MTdiMDhhZTYxMWFhZWE2MTY1NDMyODU1`
+Snapshot ID: `MCxhNTdkMzRlZDkzZmJlMjlmYmU2NTg4NDFiNzViOWY1ODVlNzYzMmRk`

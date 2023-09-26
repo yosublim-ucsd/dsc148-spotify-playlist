@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,575 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,659 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [Travelling](https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Travelling](https://open.spotify.com/album/3OLjWTVE7j1i2pWoBDRhoR) | 2:40 |
 | 100 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 |
 
-Snapshot ID: `MCxhNTI5OTBiOGMyZjFkY2RkMWIwMThkMjY2ZWFiZTI4ZTgxOTgxOTM4`
+Snapshot ID: `MCwxYTQxZGUxNGJjZmQ0MDE1YTc2NzEzMzA3ZGM2MjgxZTU0YzFkNmMz`

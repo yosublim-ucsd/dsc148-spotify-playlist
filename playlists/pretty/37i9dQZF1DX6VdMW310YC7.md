@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 ### [Chill Tracks](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)
 
-> Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
+> Música <a href="spotify:genre:edm\_dance">dance</a> suave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,676,931 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,677,000 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Waiting All My Life](https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Waiting All My Life](https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O) | 3:13 |
 | 100 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
 
-Snapshot ID: `MCw3ODIzY2FiMWQ2YmE3NGI4ZTRkMzM1MTlkNDgzYWFhODNmMzgzZTRl`
+Snapshot ID: `MCw0ODQzNzMwYzk0ZjMwZWRiMmE1Yzg3MTUwYmNjZmY0MjY3YTJjODU4`

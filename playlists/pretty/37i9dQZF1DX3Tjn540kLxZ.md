@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > songs that feel like new and old friends, all stitched together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,479 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,504 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 99 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
 | 100 | [Buttons](https://open.spotify.com/track/11uXhnPkoGQtk3STW7ItHr) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/4tRInpsZkScWnp3UWcdLTq) | 3:04 |
 
-Snapshot ID: `MCw4OWFiNWI2OGU5NzUyZmVhMWZiNWM0ODdhNDFjOWQ4NDNmN2QwMmMy`
+Snapshot ID: `MCw2MTcwMGYxNmI5ZTg4OTI1OGRmZWJmMjI2NGFmMTFkZTZjNmEwNzQ4`

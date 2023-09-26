@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,705 likes - 50 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,712 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 49 | [Adam Nana](https://open.spotify.com/track/5Gxp5gkwk5EOMKQSkqMlJE) | [Prof\. Kofi Abraham](https://open.spotify.com/artist/1Do8CxsUCJy7Clp0AM3rCI) | [Wahwe Meso](https://open.spotify.com/album/3sk306dDSoE4dA4KcVPxvl) | 4:58 |
 | 50 | [Ayeyi](https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Afe Ato Me](https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q) | 5:31 |
 
-Snapshot ID: `MCwzZTY5OWFiYzJhNDIxNGQ1ZDNlZGM0OGQzOWMwODZjYjkyOTYwOGM1`
+Snapshot ID: `MCxlYjU3Njg3YWE4ZTMyZDg5ZDVkMGEyMDgwMTBlZjgzNTdiNWYyY2Ri`

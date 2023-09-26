@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-38 songs - 1 hr 54 min
+39 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Confirmo \- En Vivo](https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Confirmo \(En Vivo\)](https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs) | 2:40 | 2022-09-16 |  |
 | [Consejo de Compas](https://open.spotify.com/track/4xBRZ6a6zcmYcEmPepXGGT) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Consejo de Compas](https://open.spotify.com/album/5HfoLyN9S6dW3sWKI60QIB) | 3:08 | 2023-02-14 |  |
 | [Corrido a Sal Sánchez](https://open.spotify.com/track/2gAFOnxgXE7KZ1L3CU3Mtr) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Corrido a Sal Sánchez](https://open.spotify.com/album/7rfsbU64lcWoAbxraGmeBW) | 2:26 | 2022-11-20 |  |
+| [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 | 2023-09-25 |  |
 | [Día De Bajón](https://open.spotify.com/track/3iZFmfp6v6u4sldfg7HgRo) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Día De Bajón](https://open.spotify.com/album/3u6jVCx2tYFPRQtzKpUyaM) | 2:24 | 2022-09-16 |  |
 | [Esto Es Así](https://open.spotify.com/track/4t9EQ2mAXzPZLpMPwDAGIM) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Esto Es Así](https://open.spotify.com/album/32ZX00cqoOq3l8c2iwZ88x) | 2:56 | 2022-10-11 |  |
 | [Falsa Alarma \(En Vivo\)](https://open.spotify.com/track/2fNUXlTHgAfvo94GwI3Fgk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Puras Pa' Pistear \(En Vivo\)](https://open.spotify.com/album/4h7bSgipyXsQLnNgrSyR6N) | 3:39 | 2023-07-04 |  |

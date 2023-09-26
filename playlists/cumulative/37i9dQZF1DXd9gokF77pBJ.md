@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-184 songs - 16 hr 44 min
+185 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Rosebud](https://open.spotify.com/track/5QqEXtRDi0uF0CscDdqAN4) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Rosebud / Black Dove](https://open.spotify.com/album/0GqxOSETsidoCMzXvjLN3o) | 5:35 | 2023-08-08 |  |
 | [royal rumble](https://open.spotify.com/track/1EomEr7QxLRUprCs5JjFTe) | [cityboymoe](https://open.spotify.com/artist/4KopSPzxYX2YfExvXefbjp), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [sweetstuff pack](https://open.spotify.com/album/6ylJif5cZsy4Ybb3UkPQnd) | 1:49 | 2023-08-08 |  |
 | [Se Tu Vuoi](https://open.spotify.com/track/0YDc4kVUW7J0Yr908XFEUa) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Canto Per Te](https://open.spotify.com/album/2T4GTTm7POJdcUfRKn4EC1) | 3:40 | 2023-01-20 | 2023-08-09 |
-| [Se Você](https://open.spotify.com/track/4c1GxixlLUoaO8MahATpDC) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Se Você](https://open.spotify.com/album/0VIBDPAciy1GaUZLXCpd03) | 5:56 | 2023-08-08 |  |
+| [Se Você](https://open.spotify.com/track/3XAKA31uYJgtFQ3E9nYYaV) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Se Você](https://open.spotify.com/album/7yAf2BYuRrY7KCcxhntRIZ) | 5:56 | 2023-08-08 |  |
+| [Se Você](https://open.spotify.com/track/4c1GxixlLUoaO8MahATpDC) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Se Você](https://open.spotify.com/album/0VIBDPAciy1GaUZLXCpd03) | 5:56 | 2023-08-08 | 2023-09-26 |
 | [See the World](https://open.spotify.com/track/2sjTnYMZQVCtWx4ow5jnfx) | [Coco and Ben](https://open.spotify.com/artist/2LLbMODSYStHYsLSlRZlhh) | [Good Feeling](https://open.spotify.com/album/2IayO0jeLr74vIbhwVuVl2) | 5:32 | 2023-08-08 |  |
 | [Sell My Soul](https://open.spotify.com/track/6WRZritcsd2zSV2dWGQHhN) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Sell My Soul](https://open.spotify.com/album/7LHZuUQqXYt3d9gcP1sYaA) | 5:54 | 2023-08-08 |  |
 | [Sleep Walk](https://open.spotify.com/track/0yK8sWD6cfrc7pGfaPIcZH) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Canadian American Greatest Hits 50th Anniversary Collection](https://open.spotify.com/album/5toxcaerHCTPDtIcQOTRx8) | 2:25 | 2022-07-13 | 2023-01-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,413 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,429 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 49 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
 | 50 | [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 |
 
-Snapshot ID: `MCxmMmMxNzdmODZhZjdiYzJhNTQwYzhmY2Q1ZjJhNGU2ODk0MWFlNTlh`
+Snapshot ID: `MCxmZjUwZGU2OWIyNGUxOTUyODAzN2JmMTIxMGFlZDAwYjA3MzdiNDll`

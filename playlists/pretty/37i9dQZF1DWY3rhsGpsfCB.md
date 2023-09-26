@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,010 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,019 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 79 | [Beautiful Lies](https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Beautiful Lies](https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY) | 2:54 |
 | 80 | [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 |
 
-Snapshot ID: `MCwzNjk5ODhlODM4ZGE1MzQ5Yzg1NjE3NzVkNjkzNTQ5ODZlMTE5MjM3`
+Snapshot ID: `MCwzODQ4MWQ2OWNmODYwY2Y1NTRkYWI0YTY4ZWYyOTAyNDg3Y2FhY2Ew`

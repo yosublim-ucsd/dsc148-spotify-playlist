@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "AQYNE",
+      "url": "https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1"
+    },
+    {
+      "album": {
         "name": "Cachito",
         "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
       },

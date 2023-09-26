@@ -911,6 +911,40 @@
     },
     {
       "album": {
+        "name": "FEBRE AMARELA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL"
+      },
+      "artists": [
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
+        },
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286946,
+      "name": "UZE",
+      "url": "https://open.spotify.com/track/6iR8GlaEZuOjhIALbzmy8u"
+    },
+    {
+      "album": {
         "name": "Vibranium",
         "url": "https://open.spotify.com/album/2sPVR5oMt2K57ELzLcvz7w"
       },

@@ -1,13 +1,29 @@
 {
   "description": "Down-tempo and easy listening music. Cover: Budjerah",
-  "num_followers": 5895,
+  "num_followers": 5873,
   "original_name": "Low Key Pop",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTY4OCxmY2ZiMzYxYTg4ODhiMWY2MDQ5OGQ4MDQ2ZjQxM2Y0NWYyNjNlY2M1",
+  "snapshot_id": "MTY5OSwwODFlMGUwNGVkNzhiZjg1ZWRhNjAwZWUzMDFiYmU4MDIxZWIyNzA1",
   "tracks": [
+    {
+      "added_at": "2023-09-14 23:57:05",
+      "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 177921,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
+    },
     {
       "added_at": "2023-08-25 06:59:04",
       "album": {
@@ -31,6 +47,22 @@
     {
       "added_at": "2023-08-25 06:59:04",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2023-08-25 06:59:04",
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -47,6 +79,22 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "added_at": "2023-09-01 04:23:36",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "added_at": "2023-08-25 06:59:04",
@@ -85,20 +133,36 @@
       "url": "https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb"
     },
     {
-      "added_at": "2023-08-25 06:59:04",
+      "added_at": "2023-09-19 03:56:14",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+      "duration_ms": 225266,
+      "name": "There It Goes",
+      "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
+    },
+    {
+      "added_at": "2023-09-22 01:02:03",
+      "album": {
+        "name": "A Lover\u2019s Guide to a Lucid Dream",
+        "url": "https://open.spotify.com/album/2K0brbgc54t9aP83wBRbCv"
+      },
+      "artists": [
+        {
+          "name": "SAFIA",
+          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Fall Right Back To You",
+      "url": "https://open.spotify.com/track/17jyt1UZR00qlAO71KyWbx"
     },
     {
       "added_at": "2023-08-25 06:59:04",
@@ -137,6 +201,22 @@
       "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
     },
     {
+      "added_at": "2023-09-22 01:03:45",
+      "album": {
+        "name": "WE STILL YOUNG",
+        "url": "https://open.spotify.com/album/2UlMKNVdCbVxTG4LwxpiTz"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "PLAYLIST (ROCK DA BOAT)",
+      "url": "https://open.spotify.com/track/7D6jnDW82vRRMiCRLcy0pl"
+    },
+    {
       "added_at": "2023-08-25 06:59:04",
       "album": {
         "name": "Lipstick",
@@ -151,6 +231,22 @@
       "duration_ms": 208421,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov"
+    },
+    {
+      "added_at": "2023-09-15 01:52:11",
+      "album": {
+        "name": "One On The Way",
+        "url": "https://open.spotify.com/album/38k1BuDRvqPmbD4Yq2MHXJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 224869,
+      "name": "One On The Way",
+      "url": "https://open.spotify.com/track/7FdTeoRDaIlNmcmpu1zX7T"
     },
     {
       "added_at": "2023-08-25 06:59:04",
@@ -185,6 +281,22 @@
       "url": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
     },
     {
+      "added_at": "2023-09-15 00:44:48",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 242317,
+      "name": "Some Things I'll Never Know",
+      "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
+    },
+    {
       "added_at": "2023-08-25 06:59:04",
       "album": {
         "name": "Come Close",
@@ -199,6 +311,22 @@
       "duration_ms": 183151,
       "name": "Come Close",
       "url": "https://open.spotify.com/track/68tTxn5ShJvck0knZtmc3R"
+    },
+    {
+      "added_at": "2023-09-22 02:51:40",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/56ubyM0z2MoYr4BveRFWtH"
+      },
+      "artists": [
+        {
+          "name": "RIKA",
+          "url": "https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5"
+        }
+      ],
+      "duration_ms": 167348,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3eZYlTn1GGbRJyPXsfk3qT"
     },
     {
       "added_at": "2023-08-25 06:59:04",
@@ -1655,7 +1783,7 @@
     {
       "added_at": "2023-08-25 06:59:04",
       "album": {
-        "name": "attention",
+        "name": "attention (with Justin Bieber)",
         "url": "https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj"
       },
       "artists": [
@@ -1669,7 +1797,7 @@
         }
       ],
       "duration_ms": 180563,
-      "name": "attention",
+      "name": "attention (with Justin Bieber)",
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
     },
     {
@@ -6105,7 +6233,7 @@
         }
       ],
       "duration_ms": 177701,
-      "name": "Rest Of My Life",
+      "name": "Rest of My Life",
       "url": "https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v"
     },
     {

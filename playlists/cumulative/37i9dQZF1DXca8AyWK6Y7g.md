@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Troye Sivan
 
-1,803 songs - 3 day 19 hr 20 min
+1,805 songs - 3 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Crystal Ball](https://open.spotify.com/track/3cXNW2770x7T82Mf7Jzdsb) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Crystal Ball](https://open.spotify.com/album/4UwuVAR1eL8tQL412yJtY7) | 3:35 | 2021-11-19 | 2022-01-22 |
 | [cult leader](https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [cult leader](https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK) | 2:43 | 2022-04-01 | 2022-09-03 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-24 | 2023-04-04 |
-| [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-24 |  |
+| [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-24 | 2023-09-26 |
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-02-17 | 2023-04-23 |
 | [Cyclone](https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cyclone](https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy) | 3:36 | 2022-09-02 |  |
 | [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 | 2023-07-14 |  |
@@ -473,7 +473,7 @@
 | [Emotional](https://open.spotify.com/track/7stcGiG3ssPOHa7WZK7flD) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Emotional](https://open.spotify.com/album/4OY86d4jBbtYxj2Yf6IhRo) | 3:12 | 2019-05-26\* | 2019-08-13 |
 | [Encinitas](https://open.spotify.com/track/4tO2Ol08xzay6zcfhDKpuN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Encinitas](https://open.spotify.com/album/6e9X7ZNcY6gUwwhZdUQl9Z) | 2:51 | 2021-07-06 | 2022-09-03 |
 | [End of an Era](https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc) | 2:13 | 2022-10-28 | 2022-12-24 |
-| [End Of The World](https://open.spotify.com/track/11igdbhgOGJWqwzPHsisiS) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5UjAwy0lrko9kLqpej1RDy) | 2:38 | 2023-08-25 |  |
+| [End Of The World](https://open.spotify.com/track/11igdbhgOGJWqwzPHsisiS) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5UjAwy0lrko9kLqpej1RDy) | 2:38 | 2023-08-25 | 2023-09-26 |
 | [End Of The World](https://open.spotify.com/track/25JnZYGNwdJg9MB9eaQ8TU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5s2IqfqzXdVUrI1YcZ8XBN) | 2:38 | 2023-08-18 | 2023-08-31 |
 | [Endless](https://open.spotify.com/track/39TniRr67zsLesnyrwrkLK) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Endless](https://open.spotify.com/album/27COR8Xifi0nEuSEKRAKRt) | 3:26 | 2021-01-25 | 2022-01-08 |
 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 | 2022-08-19 | 2023-04-23 |
@@ -575,7 +575,7 @@
 | [Fumari](https://open.spotify.com/track/2OQMSCUE6ClEZFJFFNqNrQ) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Fumari](https://open.spotify.com/album/5KNTwXg2Hn0FJZ1gLmMyB4) | 2:00 | 2020-11-18 | 2021-11-10 |
 | [Fun](https://open.spotify.com/track/25WvSqPQFJsuD1Y3nf6rHf) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Fun](https://open.spotify.com/album/6nJ9Phdgh848iPT0wpfYPG) | 2:18 | 2020-04-23 | 2021-10-14 |
 | [fun out of it](https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:51 | 2022-08-19 | 2022-09-17 |
-| [FYTY](https://open.spotify.com/track/53XQLHcvLkKAxTvz0Py1wC) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [FYTY](https://open.spotify.com/album/3Yp9S2bM34ia7nXn3qUcBX) | 2:52 | 2023-09-15 | 2023-09-23 |
+| [FYTY](https://open.spotify.com/track/53XQLHcvLkKAxTvz0Py1wC) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [FYTY](https://open.spotify.com/album/3Yp9S2bM34ia7nXn3qUcBX) | 2:52 | 2023-09-15 |  |
 | [Gallery](https://open.spotify.com/track/01m7F2DCkedBoRNrZsx6gW) | [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [Gallery](https://open.spotify.com/album/4kPPz52cl2ty77rxz9rkGf) | 4:02 | 2019-05-26\* | 2019-08-13 |
 | [GAMEBOY](https://open.spotify.com/track/4H7uK9wWfh8AaDS0pVWh0f) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [GAMEBOY](https://open.spotify.com/album/6CrxVIs6PZY93TYnNwVx3W) | 2:11 | 2021-12-24 | 2022-01-29 |
 | [garden of devotion](https://open.spotify.com/track/2zNegAKuYFUovXpeSGrjfK) | [Adriel Rivera](https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73) | [garden of devotion](https://open.spotify.com/album/1X1MVOluBxDGT8j3fvG2QY) | 3:04 | 2021-12-24 | 2022-01-15 |
@@ -1291,6 +1291,7 @@
 | [Real Life](https://open.spotify.com/track/2suU0QYyxcMoy08rSsTX46) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Real Life](https://open.spotify.com/album/79ZPm7Z09OsRu4ENHyHM4d) | 2:43 | 2021-10-29 | 2022-01-08 |
 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 | 2021-07-16 | 2022-05-20 |
 | [Reality Television](https://open.spotify.com/track/5AA7wTk7aLkHg9JstMideg) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [001](https://open.spotify.com/album/06uSvdhE2EKZFFs4ZUzcOt) | 2:45 | 2022-12-09 | 2022-12-24 |
+| [Rebel Child](https://open.spotify.com/track/3dMS7W7wZiQ8VgPkMYNFOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Rebel Child](https://open.spotify.com/album/5o0BY4jhvdJgOFnqvJKZ0l) | 3:22 | 2023-09-22 |  |
 | [Recovering People Pleaser](https://open.spotify.com/track/0id6M2eREx4sxecXvAf9VP) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Recovering People Pleaser](https://open.spotify.com/album/4i5pTzsjVzLTtAU00WrgrL) | 3:22 | 2023-01-20 | 2023-02-21 |
 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 | 2023-01-13 |  |
 | [Red Wine Supernova](https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Red Wine Supernova](https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn) | 3:12 | 2023-05-19 |  |
@@ -1410,7 +1411,7 @@
 | [Single In September](https://open.spotify.com/track/3yqVm7Je8UssmEJzWtzyYF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single In September](https://open.spotify.com/album/716vn5JpywHU9efMfTXEck) | 3:15 | 2022-02-18 | 2022-04-29 |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-06-30 | 2023-08-19 |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2021-03-20 | 2021-11-20 |
-| [Skeleton](https://open.spotify.com/track/0wdnfaD8CN0Yq97p63Ph4T) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Skeleton](https://open.spotify.com/album/756awsKsAClM5mfkZzPcco) | 2:49 | 2023-08-25 |  |
+| [Skeleton](https://open.spotify.com/track/0wdnfaD8CN0Yq97p63Ph4T) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Skeleton](https://open.spotify.com/album/756awsKsAClM5mfkZzPcco) | 2:49 | 2023-08-25 | 2023-09-26 |
 | [skeletons](https://open.spotify.com/track/3Tda2M4pWcGwRvME3dGM2K) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [skeletons](https://open.spotify.com/album/5jygVHTbrAZQsPs66tebG7) | 2:58 | 2021-05-04 | 2021-05-26 |
 | [skeletons](https://open.spotify.com/track/6hrCEU7RtgvQKRDxukLD5F) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [skeletons](https://open.spotify.com/album/61YKFkCUysIWPtZPXWgzQv) | 2:58 | 2021-08-19 | 2021-10-12 |
 | [skin](https://open.spotify.com/track/5fjXYssZZSUbVK1wM5KYV0) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [in the mirror, in the night](https://open.spotify.com/album/2a5Xt0sHOpQcHcCfmNYo0p) | 2:44 | 2022-02-15 | 2022-03-12 |
@@ -1535,6 +1536,7 @@
 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 | 2023-05-05 |  |
 | [sunshine](https://open.spotify.com/track/3AnlmPe3kCwc0gaDkUBX2Z) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [sunshine](https://open.spotify.com/album/1GzDM6E01A4PqodtwxQXfR) | 2:21 | 2021-02-23 | 2021-11-20 |
 | [Sunshine](https://open.spotify.com/track/2uFSWRjGngObrrfMZcBVBv) | [Shawn Mathews](https://open.spotify.com/artist/3MkpsN5uQhUMT9EMV1LgYL) | [Sunshine](https://open.spotify.com/album/1PYCwyi5YM95iL8IlVHDOm) | 2:52 | 2021-03-06 | 2022-03-26 |
+| [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:03 | 2023-09-22 |  |
 | [Superglue](https://open.spotify.com/track/7gF16AbvFNPRXgmuXtevuU) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Superglue](https://open.spotify.com/album/3DDG8hBJQIYtWGGd4p58nT) | 2:07 | 2022-06-10 | 2022-07-29 |
 | [SUPERIMPOSE](https://open.spotify.com/track/09c6U0P7mywiapQTEw9Vgk) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [SUPERIMPOSE](https://open.spotify.com/album/0TDvV8b1ER6fxGGcqktNaO) | 3:07 | 2021-11-12 | 2022-03-26 |
 | [Superposition](https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:50 | 2019-05-26\* | 2019-08-13 |

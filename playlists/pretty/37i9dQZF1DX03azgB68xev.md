@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,577 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,582 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 79 | [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 |
 | 80 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 |
 
-Snapshot ID: `MCw3YmUwYmQ2MDdmYmJlOGRlZDI5YWY0NmU2YzA3ZTcyOTM0ZGIzZWYx`
+Snapshot ID: `MCxlOGRhYzk1OGJmZTNmZGYyZTk1Mzg0NGY0OGJhYzUzZGFlOWFkM2Nl`

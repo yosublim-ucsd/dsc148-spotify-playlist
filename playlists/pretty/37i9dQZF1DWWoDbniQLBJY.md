@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Pop acústico para tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,018,455 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,018,456 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 99 | [Mocca](https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Mocca](https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q) | 1:35 |
 | 100 | [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 |
 
-Snapshot ID: `MCw2ZGZjMTBhNzg4ZWYzYWJlYjE3NGEwZTFkMjYxNGQwZjRiMDMyYTY0`
+Snapshot ID: `MCw5ZDQ0Yzk0MGNjODgzYmQwOGU1NWI5ODgyM2M2M2Q5ODVjMzdiZjI4`

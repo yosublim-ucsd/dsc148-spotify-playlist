@@ -4,7 +4,7 @@
 
 > This is The XCERTS\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 56 min
+87 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [He Sinks\. He Sleeps](https://open.spotify.com/track/56z4syxpmOFBfrGAlM0VuR) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 4:14 | 2022-09-18 | 2023-01-04 |
 | [Heaven](https://open.spotify.com/track/0YPxplaEoKPTWDTfh8emvI) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Live Like This](https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd) | 3:06 | 2022-11-20 |  |
 | [Heaven](https://open.spotify.com/track/72oCpSISm5PQENBwQ3qK6T) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Live Like This](https://open.spotify.com/album/0VttQpVxESGG6kV0yml1Xh) | 3:06 | 2022-09-16 | 2022-11-21 |
-| [Hold on to Your Heart](https://open.spotify.com/track/309SSdFnorhTPt5zIAdr7g) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/2vpzTHAONPRfkg1np7dbjX) | 3:19 | 2022-09-16 |  |
+| [Hold on to Your Heart](https://open.spotify.com/track/309SSdFnorhTPt5zIAdr7g) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/2vpzTHAONPRfkg1np7dbjX) | 3:19 | 2022-09-16 | 2023-09-26 |
+| [Hold on to Your Heart](https://open.spotify.com/track/6AZ94VHiLMNmtJGuIaKVyU) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:19 | 2023-09-25 |  |
 | [Home Versus Home](https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:07 | 2022-09-16 |  |
 | [Home vs Home \- Blueskies Remix](https://open.spotify.com/track/5muEIkHoRmhgQEQTjOC1H4) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Alcopopular, Vol\. 4 \(A Feast of Pop\)](https://open.spotify.com/album/0b0AYxMmxZhKvH6UuoGeOX) | 6:09 | 2022-09-16 | 2023-06-18 |
 | [Hurt with Me](https://open.spotify.com/track/1jyz1bZTmvO1bfBK3f8sWk) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 5:17 | 2022-09-25 | 2023-02-03 |
@@ -78,7 +79,7 @@
 | [Shaking In The Water](https://open.spotify.com/track/4EAEzurHVgxsXmJ263P6fV) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:10 | 2022-11-24 |  |
 | [She](https://open.spotify.com/track/09ppcTFSwqGv8bG5vNUVv4) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:03 | 2022-09-18 | 2022-09-20 |
 | [She](https://open.spotify.com/track/3QXfWJWaIzypNt8SKjXbps) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:03 | 2023-01-24 | 2023-03-08 |
-| [Show Me Beautiful](https://open.spotify.com/track/5yMpH6XqTIjz2nWJMsP3ua) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 4:00 | 2022-09-16 |  |
+| [Show Me Beautiful](https://open.spotify.com/track/5yMpH6XqTIjz2nWJMsP3ua) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 4:00 | 2022-09-16 | 2023-09-26 |
 | [Slackerpop](https://open.spotify.com/track/7qgp4PNvNPG5vPoMeGg29E) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 2:34 | 2022-09-16 |  |
 | [Tar Ok](https://open.spotify.com/track/1u1jI9VL59hB2YrgdCYU3a) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 0:59 | 2022-09-16 |  |
 | [Tear Me Down](https://open.spotify.com/track/4RZv3EVH2lebzYec3mSi2Z) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:32 | 2022-12-12 | 2022-12-29 |

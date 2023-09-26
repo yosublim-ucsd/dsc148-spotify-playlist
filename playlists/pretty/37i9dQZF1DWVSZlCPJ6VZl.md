@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSZlCPJ6VZl.md) - [plain]
 | 159 | [Lush Brown Noise](https://open.spotify.com/track/789WJxwUk6Pxb4AnqqnJlx) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Lush Brown Noise](https://open.spotify.com/album/59rZF6CVD9k11WPzt8eC5G) | 3:34 |
 | 160 | [Brown Noise Snoozing](https://open.spotify.com/track/6HpHSbOQQdT94b2hKqHvlc) | [The Tone\-Gens](https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq) | [Brown Noise in the Bedroom](https://open.spotify.com/album/10HKfIUPwczWd0ylU3rLJ2) | 3:44 |
 
-Snapshot ID: `MCxjZGRiZmZhMTA4MjY4OTQxMWJmNzE4Y2RiYTNjYjhiNGM0MWY3NDkw`
+Snapshot ID: `MCw1MTI5MjFkMjA3NTdkM2NiZTUyNTYzMjhmYjdjOWFkZGY1ZmE1ZDRk`

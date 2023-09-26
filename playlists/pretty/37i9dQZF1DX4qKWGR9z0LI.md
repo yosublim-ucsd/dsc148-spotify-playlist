@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Adolescent's Orquestra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,844,642 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,844,667 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 99 | [Pa'lante y Pa'tras \- Remix](https://open.spotify.com/track/0j1Fh9m0wZbvTIl8xIlSKH) | [N'Klabe](https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q), [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Nuestra Esquina](https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD) | 3:33 |
 | 100 | [El Dinero](https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [From Miami a La Habana](https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn) | 4:23 |
 
-Snapshot ID: `MCxkNTRjMmIwOTExMjNiZWJkYjQ1MDM5Yjc0YTI0YWY0MmQ5NjU5OGZk`
+Snapshot ID: `MCw5NzNlOWY2YTQ2M2ZiYzZhN2MxODRkZjg4NTI0ZGZkNDFmMmY1Mjc4`

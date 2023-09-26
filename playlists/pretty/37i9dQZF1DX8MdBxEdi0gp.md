@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,038 likes - 125 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,059 likes - 125 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 124 | [Total](https://open.spotify.com/track/32vg03zWdgSxMiNj6Xzm5I) | [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Canciones De Amor](https://open.spotify.com/album/2Dm2IPZzeLrOXJEZjGTBM8) | 3:29 |
 | 125 | [No tengo edad](https://open.spotify.com/track/4HiWZMvaKxbodac1h1skiY) | [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Gigliola Cinquetti con Los Panchos](https://open.spotify.com/album/6BWQtVhYmOKg8wsUzEZfdV) | 3:19 |
 
-Snapshot ID: `MCxkNTliMjMwYjhiZGI2OWY0ZmNiMzA1MWI1OGI1MmRiYmU4YWFmNGJh`
+Snapshot ID: `MCxmYmJjYmJjNTdlNmFiNmRlNzQ1ZjAxZDQ1ZTlkMWUxYjQ5MzNlNDE2`

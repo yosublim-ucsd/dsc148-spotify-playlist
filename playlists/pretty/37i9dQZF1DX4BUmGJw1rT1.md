@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,076 likes - 150 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,079 likes - 150 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 149 | [Don't Be a Stranger](https://open.spotify.com/track/5t2IeNWSmf8gegtwVxrWIH) | [Matthew Curry](https://open.spotify.com/artist/7l2PJU1YHpVxat3wymK9J8) | [Don't Be a Stranger](https://open.spotify.com/album/0xKbwByE0EiKtl4RiaTqyJ) | 3:32 |
 | 150 | [Hear My Prayer](https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:50 |
 
-Snapshot ID: `MCw2YTZlODUxNGZkN2I2OWMwODVhZjdlMWUwYTU2NDYyOWZlNjkxYjQy`
+Snapshot ID: `MCxjNjBmNDhlZGVjZGNlNTdjYTRkZDUxOGIzYmVmZGQwODk1ODFjYzhj`

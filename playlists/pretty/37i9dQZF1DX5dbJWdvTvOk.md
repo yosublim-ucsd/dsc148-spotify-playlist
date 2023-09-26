@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,023 likes - 250 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,036 likes - 250 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 249 | [Amai Hi](https://open.spotify.com/track/39kKNitwwvn7Y0oH0NGN82) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Amai Hi](https://open.spotify.com/album/62Y6MiU9MICnsbetYyKizY) | 2:02 |
 | 250 | [A Shadow of Something Beautiful \(Classical Version\)](https://open.spotify.com/track/3JMYAwDpZsms3s9vVPnC7O) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [A Shadow of Something Beautiful \(Classical Version\)](https://open.spotify.com/album/7bi2mS7BjIfI8F3SgqBJcS) | 2:54 |
 
-Snapshot ID: `MCxiMjc4MDE4NWQ4YTAyMGFmNTg3ZTNmZDlmZjg3NTRkMTFlMDJhMzQ5`
+Snapshot ID: `MCw5OGExMGE0YTUzNDlhZTdmMWRiZWYxM2YzMzdlNjFjMGM3ZWE5Y2E2`

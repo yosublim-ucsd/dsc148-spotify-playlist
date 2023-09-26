@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: SACHI
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,961 likes - 94 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,996 likes - 94 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 39 | [Koala](https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Koala](https://open.spotify.com/album/6TZqWG1Kk5y32ZVdrJM8aK) | 2:35 |
 | 40 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 |
 | 41 | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/track/7Jkka9vkLDhKoB7zlzVvM5) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/album/6FsAeOl2J8a52BRIPEULqM) | 5:19 |
-| 42 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 |
+| 42 | [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 |
 | 43 | [Rush \- Big Freedia Remix / Dub Mix](https://open.spotify.com/track/0SxcksZ3df53fj0OmkuczF) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Rush \(Remixes\)](https://open.spotify.com/album/2YdP8LNldo2EPpJGlSN2Au) | 4:43 |
 | 44 | [Ray Of Solar](https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Ray Of Solar](https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb) | 4:01 |
 | 45 | [Candy](https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4) | [Candy](https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m) | 3:15 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 93 | [Like It \(feat\. Reckz'Capo\)](https://open.spotify.com/track/4yWySFuYFhkVrHggrfnulp) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm), [Reckz'Capo](https://open.spotify.com/artist/0mmIDGCcblwYtZgsNPGDlo) | [Like It \(feat\. Reckz'Capo\)](https://open.spotify.com/album/7uE7ppiL1rC4JOjfkYryay) | 3:15 |
 | 94 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
 
-Snapshot ID: `MCxlNjM3MzIzMWY2MjMxNDIyNDAyOTU3NjMyMmNlOWY5NjIxYWY2OTY3`
+Snapshot ID: `MCw5MmQ1MjA4OTY4YTAzZThiZjExNTZhZjQ0ZDVjYjU0YjAwM2E4MmQ3`

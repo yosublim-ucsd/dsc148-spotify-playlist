@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 
 > A lazy Sunday vibe, whatever day of the week it is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,342 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,360 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 99 | [I'm Gonna Getcha Good! \- Red Single Edit](https://open.spotify.com/track/6RH9SBaImgPfLCPEjpniVH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits](https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk) | 4:02 |
 | 100 | [I Don't Want to Talk About It](https://open.spotify.com/track/7cE35BjpKtOIMTqsKGL8z8) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Idlewild](https://open.spotify.com/album/1C36Ww2wRq8wzTg7ZbsZor) | 4:18 |
 
-Snapshot ID: `MCw1NTBlNjdhZWVlMGE2NjdhOThhZjc1MmNlOWY1MmZiN2NjMDBkNjcx`
+Snapshot ID: `MCw4ZWI3MzYyMWQzMGIyNTBkNGJmZjBiMGRhZmQzZGU4YmExM2I5NTNi`

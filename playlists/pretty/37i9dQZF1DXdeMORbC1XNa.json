@@ -1,12 +1,12 @@
 {
   "description": "The African & West Indian diaspora united. Cover: Tyla",
-  "num_followers": 298819,
+  "num_followers": 299303,
   "original_name": "ACS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2M0ZjYzOTIyNGZkNjZhMWJlYjZkYzE5MzkyNWM1MTYyN2FkNDA2",
+  "snapshot_id": "MCw3MzM5Mjc4ZjQ2OGVjYWNlOGFiMTAyODE5YjlhMGU0Mzg5NjI1Zjdi",
   "tracks": [
     {
       "added_at": "2023-09-15 16:57:57",
@@ -287,26 +287,6 @@
     {
       "added_at": "2023-09-15 16:57:57",
       "album": {
-        "name": "INTOXYCATED (feat. Dave)",
-        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "INTOXYCATED (feat. Dave)",
-      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
-    },
-    {
-      "added_at": "2023-09-15 16:57:57",
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "added_at": "2023-09-15 16:57:57",
+      "album": {
+        "name": "INTOXYCATED (feat. Dave)",
+        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "INTOXYCATED (feat. Dave)",
+      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
     },
     {
       "added_at": "2023-09-15 16:57:57",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-09-15 16:57:57",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 216991,
-      "name": "It's Plenty",
-      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
-    },
-    {
-      "added_at": "2023-09-15 16:57:57",
-      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -391,26 +375,6 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2023-09-15 16:57:57",
-      "album": {
-        "name": "Beautiful And Brutal Yard",
-        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Masculine (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
     },
     {
       "added_at": "2023-09-15 16:57:57",
@@ -435,18 +399,38 @@
     {
       "added_at": "2023-09-15 16:57:57",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Damages",
-      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
+      "duration_ms": 216991,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
+    },
+    {
+      "added_at": "2023-09-15 16:57:57",
+      "album": {
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Masculine (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
     },
     {
       "added_at": "2023-09-15 16:57:57",
@@ -467,6 +451,22 @@
       "duration_ms": 221217,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+    },
+    {
+      "added_at": "2023-09-15 16:57:57",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Damages",
+      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
     },
     {
       "added_at": "2023-09-15 16:57:57",
@@ -523,26 +523,6 @@
     {
       "added_at": "2023-09-15 16:57:57",
       "album": {
-        "name": "Beautiful And Brutal Yard",
-        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Militerian (feat. Naira Marley)",
-      "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
-    },
-    {
-      "added_at": "2023-09-15 16:57:57",
-      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 148333,
       "name": "Tek Buddy",
       "url": "https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke"
+    },
+    {
+      "added_at": "2023-09-15 16:57:57",
+      "album": {
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Militerian (feat. Naira Marley)",
+      "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
     },
     {
       "added_at": "2023-09-15 16:57:57",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-09-15 16:57:57",
       "album": {
+        "name": "Sharpally",
+        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 163361,
+      "name": "Sharpally",
+      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
+    },
+    {
+      "added_at": "2023-09-15 16:57:57",
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 232155,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
-    },
-    {
-      "added_at": "2023-09-15 16:57:57",
-      "album": {
-        "name": "Sharpally",
-        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 163361,
-      "name": "Sharpally",
-      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
     },
     {
       "added_at": "2023-09-15 16:57:57",
@@ -723,22 +723,18 @@
     {
       "added_at": "2023-09-15 16:57:57",
       "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 209760,
-      "name": "Mood (feat. BNXN)",
-      "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
     },
     {
       "added_at": "2023-09-15 16:57:57",
@@ -763,18 +759,38 @@
     {
       "added_at": "2023-09-15 16:57:57",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Bloody Samaritan",
-      "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
+      "duration_ms": 172394,
+      "name": "Tour",
+      "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
+    },
+    {
+      "added_at": "2023-09-15 16:57:57",
+      "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Mood (feat. BNXN)",
+      "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
     },
     {
       "added_at": "2023-09-15 16:57:57",
@@ -815,18 +831,18 @@
     {
       "added_at": "2023-09-15 16:57:57",
       "album": {
-        "name": "RU The World",
-        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 172394,
-      "name": "Tour",
-      "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
+      "duration_ms": 187000,
+      "name": "Bloody Samaritan",
+      "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
     },
     {
       "added_at": "2023-09-15 16:57:57",
@@ -887,22 +903,6 @@
     {
       "added_at": "2023-09-15 16:57:57",
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
-    },
-    {
-      "added_at": "2023-09-15 16:57:57",
-      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -923,18 +923,22 @@
     {
       "added_at": "2023-09-15 16:57:57",
       "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     }
   ],
   "unique_name": "ACS",

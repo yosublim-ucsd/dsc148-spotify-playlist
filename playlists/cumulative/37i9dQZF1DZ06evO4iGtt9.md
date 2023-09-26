@@ -4,7 +4,7 @@
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-89 songs - 5 hr 1 min
+90 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [It's Allowed](https://open.spotify.com/track/54tucLaXBYc3SpulVRqghX) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:38 | 2022-01-01 | 2022-01-05 |
 | [Kom Kom](https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Kom Kom](https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c) | 3:08 | 2021-12-28 |  |
 | [Lai Lai](https://open.spotify.com/track/7Iibw3MdViIx13i5gLHD4U) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:43 | 2021-12-28 | 2022-10-13 |
+| [Let Me Love You](https://open.spotify.com/track/3qRm4AxGiDz8IUR8ciXpt6) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [King](https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u) | 3:14 | 2023-09-25 |  |
 | [M.O.N.E.Y](https://open.spotify.com/track/4LV4Zfb9bz5ELPOb9rOjf0) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [M.O.N.E.Y](https://open.spotify.com/album/0vsUBIp6yJsp9ZomhLXuiq) | 3:51 | 2021-12-28 |  |
 | [Malonogede](https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:10 | 2021-12-28 |  |
 | [Man on Duty](https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Man on Duty](https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx) | 3:35 | 2022-12-24 |  |
@@ -70,7 +71,7 @@
 | [My Moto](https://open.spotify.com/track/6I0yiEym3CTTYl4E8NKtk8) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [My Moto](https://open.spotify.com/album/3gIFu0CH2CiaLeOBcrP3Hq) | 2:14 | 2023-05-29 |  |
 | [No Limit](https://open.spotify.com/track/5mkwf1vdNtFVFjJX44o4sV) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:16 | 2022-09-01 | 2023-06-07 |
 | [No Pressure](https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Pressure](https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8) | 2:57 | 2022-03-12 |  |
-| [No Stress](https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC) | [Tony Frank](https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Stress](https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB) | 2:35 | 2023-05-07 |  |
+| [No Stress](https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC) | [Tony Frank](https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Stress](https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB) | 2:35 | 2023-05-07 | 2023-09-26 |
 | [Number One](https://open.spotify.com/track/6J9IXMtzTf6ZtcispHHnJr) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:12 | 2022-01-01 |  |
 | [Ogede](https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [The Gehn Gehn Album](https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS) | 3:27 | 2022-09-10 |  |
 | [Ogologomma](https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:05 | 2021-12-28 |  |

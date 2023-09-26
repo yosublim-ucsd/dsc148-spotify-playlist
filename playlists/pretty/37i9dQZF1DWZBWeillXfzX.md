@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,254 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,256 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 49 | [Signs](https://open.spotify.com/track/6WwKPvUMydIJFX0QAZfHYj) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 5:35 |
 | 50 | [Gettin Old](https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Rock Bottom](https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV) | 3:17 |
 
-Snapshot ID: `MCwyYzRiMDhjMTYyZGMwYzUyMGJmYTJmMGY3MjFlY2JiZWNmOTkwMmM4`
+Snapshot ID: `MCxjYWJjYjg1M2Q1ZjRhN2U4NDI4YTllYWYwYjE4NGJkNzM1MDJjNDAz`

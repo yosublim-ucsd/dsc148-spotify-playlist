@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Let's Go 4 e os funks mais 🔑 do Brasil\. Foto: Mc IG, MC PH, MC Ryan SP, Mc Luki, Mc Davi, Mc Don Juan, Mc Kadu, MC GH do 7, MC GP, TrapLaudo, Dj GBR
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,984,931 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,985,141 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Maçã Verde](https://open.spotify.com/track/7lJoRyuNJtuiqTcKtuMuIR) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Avisa que é o Funk](https://open.spotify.com/album/2jsCve1xB2Gi5fag004Wsh) | 2:44 |
 | 50 | [Pagodeiro](https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF) | [Pagodeiro](https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR) | 7:38 |
 
-Snapshot ID: `MCwyM2ExOWQ0YWZiODI0YmI3NWJhMTQ2NWRkY2U5NWJlNGRhYzE5ZWIz`
+Snapshot ID: `MCwxNjVkY2QxOWRlODQ2M2VmMzkxZDk2MzZkMzE3MjI4NjQ5YjEzYzYz`

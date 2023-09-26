@@ -8834,7 +8834,7 @@
     {
       "album": {
         "name": "Scars",
-        "url": "https://open.spotify.com/album/6oZwkQQh88GqrwmkkkRRCt"
+        "url": "https://open.spotify.com/album/48tOYEii8lCxs3Ky9QWgzR"
       },
       "artists": [
         {
@@ -8845,6 +8845,24 @@
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199850,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/3DaxEB70g8o52e8E38DUHV"
+    },
+    {
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/6oZwkQQh88GqrwmkkkRRCt"
+      },
+      "artists": [
+        {
+          "name": "Hareem Rashid",
+          "url": "https://open.spotify.com/artist/4tp7OYDn1UdgWEnr3AJiFi"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
       "duration_ms": 200000,
       "name": "Scars",
       "url": "https://open.spotify.com/track/4aQLiIO0BF5ZlZhKlu5GiD"

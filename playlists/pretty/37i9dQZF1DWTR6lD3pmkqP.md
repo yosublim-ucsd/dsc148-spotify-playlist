@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,672 likes - 250 songs - 20 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,684 likes - 250 songs - 20 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Life Of Leisure](https://open.spotify.com/track/7j8finaciTQt2pVZcSmkqN) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Excursions](https://open.spotify.com/album/2mY8eLTx5p8yYagLQsBIiH) | 2:48 |
 | 250 | [Banished](https://open.spotify.com/track/2NFsYMr8BuxJDJOAAc6sr4) | [Tamil Rogeon](https://open.spotify.com/artist/5wlQI97U6ZeiShSOVYv96d) | [Banished](https://open.spotify.com/album/41YxIGJbdFe6pUhID5LQDb) | 6:41 |
 
-Snapshot ID: `MCxjYmJjODY2N2Y4ZDUzMDdiMzAyYzM4YzY3MjY3OGUwY2VmODJjODdl`
+Snapshot ID: `MCxmM2UyNDAyNTYzZTQzNmNiOTYzMjRlYzhiNTUyNjExMTQwYzUxM2Zm`

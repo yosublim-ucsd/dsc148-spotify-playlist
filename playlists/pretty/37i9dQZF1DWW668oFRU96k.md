@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Lloyiso
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,063 likes - 77 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,079 likes - 77 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 73 | [DON'T DIE](https://open.spotify.com/track/4vUkX0xevB4sALfq2u9eeE) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [\(\(\( 4 \)\)\)](https://open.spotify.com/album/1vuo6cSdhF9bO9sqzkSgQN) | 2:48 |
 | 74 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 |
 | 75 | [Leave This Town](https://open.spotify.com/track/0ILi2NPbTXW01zew9Ba39J) | [Yang](https://open.spotify.com/artist/1ouSkfNp4WgTmwNqCQp3FZ), [Amin Salmee](https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy) | [Leave This Town](https://open.spotify.com/album/1r9cyizyjmuCxHiyitcf9G) | 3:38 |
-| 76 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 |
+| 76 | [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 |
 | 77 | [Parasite](https://open.spotify.com/track/4zEXOewY4f3ITJd43MZ76u) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Eva Celia](https://open.spotify.com/album/5ytIY5JSaLVxOwYWaY7xYx) | 3:20 |
 
-Snapshot ID: `MCw4ZDg3NDllNTk0MjQxOWVkMDJiMDI5ZjJiNGMzNzA5NmY3NzIwYjk0`
+Snapshot ID: `MCxlM2ZjZDkzMTAxNTI0YTMyNWFmZjQ2MjcyZjZjODFkYWNhYWNlZDM1`

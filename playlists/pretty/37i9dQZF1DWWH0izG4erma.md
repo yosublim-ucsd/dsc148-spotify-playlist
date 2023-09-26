@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS! Cover: Lakeview
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,496 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,546 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [Call It Country](https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Call It Country](https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h) | 2:31 |
 | 100 | [LOSER](https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [LOSER](https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq) | 3:14 |
 
-Snapshot ID: `MCxiNDQ3OGFiYTI3Y2VlNDlkZmNkYjBlYmQ1MjdhOGViYTAwMzViODJh`
+Snapshot ID: `MCxmYTBlNTUwMDY1NmZiMmU3YWZkNTI5OGY4NWU5MmExNGU3OTRkODE0`

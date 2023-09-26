@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [Little Saint Nick](https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:09 |
 | 80 | [Alone on Christmas Eve](https://open.spotify.com/track/3cTrbyOLvrn78iKBKOUlW7) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone on Christmas Eve](https://open.spotify.com/album/1icERFXfL7Hwbl1m16DROb) | 2:16 |
 
-Snapshot ID: `MCw4Njg1MzhmZWIwYWU5MGUyZjg4MjhiOTIwZGIzODhkMWRiMjJhODQ3`
+Snapshot ID: `MCw5YTJlYzYwMTRhYjQwMWYwYTQ4ODc1ZWZjYmNjMmNmNzA5NWMyNDcw`

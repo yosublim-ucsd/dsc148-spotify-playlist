@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 
 > Entspannung pur oder viel los? Hier findest du die passenden Beats für deine Pläne!
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,742 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,740 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 | 69 | [COLD](https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [COLD](https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s) | 2:17 |
 | 70 | [Aloha Hey](https://open.spotify.com/track/5puSdpASkBcy4MI4EpLYbg) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q), [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc) | [Aloha Hey](https://open.spotify.com/album/7ELEr0qyuFuYvSgvf4lq8u) | 2:34 |
 
-Snapshot ID: `MCxhZGEzMjE3MmFlOTc1ODc5YmJhMmJiM2M4ZWQyMjFjNWQzYjA3NmRh`
+Snapshot ID: `MCwxNGZiY2MzYzJlZDliNjc3OWViMTRkNjU0YWE0NmZkYmMxZTc4OWQz`

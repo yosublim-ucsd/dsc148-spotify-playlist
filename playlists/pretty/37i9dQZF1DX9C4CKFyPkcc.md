@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,462 likes - 150 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,463 likes - 150 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 149 | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/track/0GHZixuBIWMWUsED3IaXSR) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/album/0O4AM6bSfFzUPpNOrHi5Zf) | 4:12 |
 | 150 | [Beautiful Christmas](https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinite Christmas](https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h) | 4:25 |
 
-Snapshot ID: `MCxjODJiYTVjMDliNDFjY2U1YWI5ZDMxNzM0NDk5NjFmY2M4M2QyMzhk`
+Snapshot ID: `MCw5ZDE4ODNkOTFhMmNhOWZhNTFmZGJkYzdjMmI0NmFmODdhMDBjOTQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,038 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,053 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 49 | [Wish \- Instrumental](https://open.spotify.com/track/3jxYOo3LSBsJjv1GYvNJpi) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Guardian \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2taCIMO9i00u0euzw9av9h) | 3:56 |
 | 50 | [Memories More than love \- Instrumental](https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Snowdrop \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2) | 4:45 |
 
-Snapshot ID: `MCwwNjM0MTQ3MTcxOGIwM2ZkYTVlYTZjYjE4ZWIwM2Q3OTZlMmNlN2Fk`
+Snapshot ID: `MCwwNGE3MWIwYzkyYzA2MDAyZWIwY2QwYTllYWEyOTIzZmU1YjU1ZGVk`

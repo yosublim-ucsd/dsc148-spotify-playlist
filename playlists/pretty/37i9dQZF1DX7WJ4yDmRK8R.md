@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Jeff Rosenstock
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,735 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,750 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [I Bet They're Asleep In New York](https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc) | [Call Me Malcolm](https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU) | [Me, Myself and Something Else](https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b) | 4:34 |
 | 100 | [2Tone Army](https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 3:17 |
 
-Snapshot ID: `MCw3MzgyMmMyM2NiNDdjOGRkOWZkZWU0Nzk3MmUyMjA2OGZlNWM3M2Uw`
+Snapshot ID: `MCxiOWM5NDkzN2VmOTA4MTU1Njk5MDk4MDc3MzdmMDFlMWQ4NGZhMGFk`

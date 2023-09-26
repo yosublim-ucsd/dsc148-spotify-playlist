@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,582,619 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,582,716 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Work That Body](https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [Work That Body](https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h) | 2:45 |
 | 75 | [Wall Of Death](https://open.spotify.com/track/0adOv7C57abcznr40leSHx) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [Wall Of Death](https://open.spotify.com/album/6qiabMcuYx4PI3JRqscOhZ) | 2:48 |
 
-Snapshot ID: `MCwzN2Y4YmRkZmUzZDhiZGI0N2E3NDc1OGY3NjhmMzEyMGQ3NzUzYzA1`
+Snapshot ID: `MCxjZTRiMzE2NWVjMGNjODJlY2RlMmE1MzIxMzllZWY2ZTBhMDBmZDQ1`

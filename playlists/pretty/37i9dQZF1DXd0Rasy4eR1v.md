@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- REHMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,432 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,534 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 37 | [ki hovega](https://open.spotify.com/track/6amtKsh3PrEyAe9xIf0eGe) | [Kh44ki](https://open.spotify.com/artist/0kIqArPHBqFq0pf69pVd4x), [ProdByHanan](https://open.spotify.com/artist/02NnzLutNdylnx6uTmNHQM) | [ki hovega](https://open.spotify.com/album/1yrRKGVCRxw1YNJXLUFM5A) | 3:23 |
 | 38 | [Laraztay](https://open.spotify.com/track/4BfFJ58r5KAP9OBrOichvz) | [Misbah](https://open.spotify.com/artist/4LtxguJsqxkfipYXPqz7Vq) | [Laraztay](https://open.spotify.com/album/5rbEQpiuZzJekswIWFpEpn) | 2:54 |
 | 39 | [Andhairay](https://open.spotify.com/track/0qQ5eK7Vz3n4KHZUDQD5fe) | [Maliha J\. Khan](https://open.spotify.com/artist/63RTNEI59osbMZHgd9FUTl), [Shameer](https://open.spotify.com/artist/2YOWil5rDregv3GVz4BFwi), [Saad](https://open.spotify.com/artist/1H1QP5N8vRW9yHV5PZjRrg) | [Andhairay](https://open.spotify.com/album/6QEaDSIygAflBxHVnMXe2E) | 2:24 |
-| 40 | [Scars](https://open.spotify.com/track/4aQLiIO0BF5ZlZhKlu5GiD) | [Hareem Rashid](https://open.spotify.com/artist/4tp7OYDn1UdgWEnr3AJiFi) | [Scars](https://open.spotify.com/album/6oZwkQQh88GqrwmkkkRRCt) | 3:20 |
+| 40 | [Scars](https://open.spotify.com/track/3DaxEB70g8o52e8E38DUHV) | [Hareem Rashid](https://open.spotify.com/artist/4tp7OYDn1UdgWEnr3AJiFi) | [Scars](https://open.spotify.com/album/48tOYEii8lCxs3Ky9QWgzR) | 3:19 |
 | 41 | [Judai](https://open.spotify.com/track/7t6z9273RjXWDohaH2CLLZ) | [Mr Mani](https://open.spotify.com/artist/7A2DOY8YaO8BWqwwG5vQT8), [Shokey](https://open.spotify.com/artist/2wEwBichxhdvnFOMaDzWBf), [DRG Musics](https://open.spotify.com/artist/0bMnT7mTcQQZa1cLr7kPlW) | [Judai](https://open.spotify.com/album/3HzWPbPTLFhUtYKiwVHu8c) | 3:09 |
 | 42 | [Bach Ke](https://open.spotify.com/track/5eSuXdg13oiVgDgHCQ6oCn) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Generation](https://open.spotify.com/album/77E02Z6ROQRlhUb5OrhbLE) | 2:06 |
 | 43 | [Solo](https://open.spotify.com/track/7A314Lk9rBvP5n0AY6RRs3) | [Zaib Shah](https://open.spotify.com/artist/5siuzlq3nu9RRowIXX3cZq) | [Solo](https://open.spotify.com/album/55LUfGpnzAWoWjEqT2FN5p) | 1:42 |

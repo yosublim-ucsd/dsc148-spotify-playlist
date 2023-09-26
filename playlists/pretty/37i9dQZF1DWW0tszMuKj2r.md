@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 
 > ¡Cañonazos salseros para persignar la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,021 likes - 125 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,058 likes - 125 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 124 | [Lluvia](https://open.spotify.com/track/7x755UIRuKP7ZpaVvHdgN1) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Salsa Sabrosa](https://open.spotify.com/album/4dYs67b6TGJLSmh8WbW0Zt) | 4:56 |
 | 125 | [Tú Con Él](https://open.spotify.com/track/7zd2nvoRYOOp8Laqh6HfM4) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Yo me quedo en casa Salsa](https://open.spotify.com/album/2cYjBkFDCEzmkz4UPso2GM) | 5:02 |
 
-Snapshot ID: `MCwyMGRhNTA4MGQxZDdkMTMwYzVkODM5ZGU1Nzg2ZWVkN2E3OGY1MmUx`
+Snapshot ID: `MCwyODRiOWVlZDlhMmIxMWUyODZkN2I0ZWM4YzI2MmYxYmY5YzMwMjhk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,737 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,788 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 |
 | 50 | [Coming Home](https://open.spotify.com/track/0eOcjJgpO8XdJbPMYJgKqq) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Coming Home](https://open.spotify.com/album/7GnbITNZyR4bk4pzCzIlMJ) | 3:10 |
 
-Snapshot ID: `MCxmMmY4ZDdmMDQ5Njg4YmNlN2Q1NDZiMDdiNWY2NjI5MGM2YjM5NTM4`
+Snapshot ID: `MCw2NWY3YTAyYmFjN2U3N2YxZThlZmI3NDZlMDRjNGM1NTFkYzk0NDY1`

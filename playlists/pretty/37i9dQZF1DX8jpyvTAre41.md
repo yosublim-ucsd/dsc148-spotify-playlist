@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The biggest songs in today's Rock scene\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,296 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,304 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/7xyvWSVkxaoLdSuEdgdhBe) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 5:50 |
 | 100 | [Warriors](https://open.spotify.com/track/5dq7kJxJRIWsu39gvp6DKz) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Warriors](https://open.spotify.com/album/4I61bW3dyG0G4FgmLwjXmg) | 3:34 |
 
-Snapshot ID: `MCxmMTMzZTEwYmQ4OWQ3NTAyZmEwZDUzYzU2OWZlMGE3Y2UzOWUzYWI2`
+Snapshot ID: `MCw0MWQ1NTZiNTgzNjQ3YzYyMjY3NDZiYWU3ZGRhNjY1YWI1ZjkyNWEy`

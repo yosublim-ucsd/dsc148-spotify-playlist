@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,245 likes - 120 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,338 likes - 120 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 119 | [Devolve](https://open.spotify.com/track/1jeJGhWMq94e9tg5L39ccP) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [The All in Every This](https://open.spotify.com/album/7tuuQi7mWGgrgXx43c19y9) | 8:31 |
 | 120 | [Exit](https://open.spotify.com/track/7ulPUJ5ATvzceGQkdwFNHT) | [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [0011000](https://open.spotify.com/album/62nXuvzH4ECThotjQqPAhI) | 4:34 |
 
-Snapshot ID: `MCw0ZDdkYWYwZTE3NzQ2NzBmNWZiNzU3MmFmYzVjNzdkMGFjYzc4MzY1`
+Snapshot ID: `MCwxZDk5MTBlZjlhNWMzNjE2MmJkMzk0N2M2OTA0NjYyYjliMWVmMTMw`

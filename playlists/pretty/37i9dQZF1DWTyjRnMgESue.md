@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Ilsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,312 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,336 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 |
 | 100 | [Picture of You](https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4) | 4:21 |
 
-Snapshot ID: `MCxjZGNkZGQ5NjRjYWI5ZDU1NDhkYjAyMWYzMGIwNTVlMDBjOTlhNjM5`
+Snapshot ID: `MCw5YmEyYjhiM2E3NDQ3ZWJmZDFlM2MwNDdhZWRlMTQ3ZTQ4OGIyNjI2`

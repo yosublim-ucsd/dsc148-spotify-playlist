@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,686 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,738 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 99 | [Step By Step](https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM) | 3:10 |
 | 100 | [Je t'aime encore](https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Je t'aime encore](https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ) | 3:37 |
 
-Snapshot ID: `MCwzZWM5ZjdmZWY4MmNkNmZhNDQyYjU1ODdkYzE2NmE3ZjAyNjQ1ZTRm`
+Snapshot ID: `MCw5ZjVhMjAzOTk4MTk1MjIyNzIzNzY3OGE3NmY0NTRhNjEwNWRmY2Uy`

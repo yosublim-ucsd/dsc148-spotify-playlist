@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > The calm sound of crashing waves on the beach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,092 likes - 194 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,105 likes - 194 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 | 193 | [Peaceful Lapping Waves](https://open.spotify.com/track/0gUu51zyHEZIWGITqwRtYv) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Calming Coastal Waves](https://open.spotify.com/album/6SFtY6F2Pci0KBqek6Nebq) | 2:48 |
 | 194 | [Super Soothing Evening Waves](https://open.spotify.com/track/6L8AUW3COyY7Z2Ww1RIEVH) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 4](https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv) | 2:45 |
 
-Snapshot ID: `MCxkYjc4ZTA5OWY1ZTU0YjVmY2U5Y2Y1NDdmNmQ1ZjA0NjNiNjI4YWQ2`
+Snapshot ID: `MCw5OTBiODQ4NGExMmEwYjI2NzBiMGM2ZWI4MmVhNDE1YmNmODcyMGU1`

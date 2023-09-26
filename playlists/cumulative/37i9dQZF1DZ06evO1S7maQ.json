@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "The Live Series: Songs of New Jersey",
+        "url": "https://open.spotify.com/album/6udFcTroKsujHZ8abvReOd"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278533,
+      "name": "Born to Run - Live at Brendan Byrne Arena, E. Rutherford, NJ - 7/9/1981",
+      "url": "https://open.spotify.com/track/58tSKcqJ0afkdgiHIdgUPc"
+    },
+    {
+      "album": {
         "name": "Tunnel Of Love",
         "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
       },

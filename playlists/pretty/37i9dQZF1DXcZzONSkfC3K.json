@@ -1,6 +1,6 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 143422,
+  "num_followers": 143585,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 308693,
-      "name": "Idilio",
-      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Exitos de Victor Manuelle",
         "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 303133,
       "name": "He Tratado",
       "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Fuego en el 23!",
         "url": "https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt"
       },
@@ -219,22 +203,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Te Quise Olvidar",
-        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 209743,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Exitos y M\u00e1s",
         "url": "https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX"
       },
@@ -247,6 +215,38 @@
       "duration_ms": 324466,
       "name": "Siempre Ser\u00e9",
       "url": "https://open.spotify.com/track/1FcUm2UbruVWMqQxzDhRWH"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Te Quise Olvidar",
+        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 209743,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -283,22 +283,6 @@
       "duration_ms": 328786,
       "name": "El D\u00eda De Mi Suerte",
       "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 228966,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -387,6 +371,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 228966,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Lo Qu\u00e9 Pide La Gente",
         "url": "https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 402360,
       "name": "El Rey De La Puntualidad",
       "url": "https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/4hw32LMr5RoeKQl0Kvh20e"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -427,34 +443,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA"
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 222946,
-      "name": "Casi un Hechizo",
-      "url": "https://open.spotify.com/track/4hw32LMr5RoeKQl0Kvh20e"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 374053,
-      "name": "Tu Vida en la M\u00eda",
-      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
+      "duration_ms": 252400,
+      "name": "El Men\u00fa",
+      "url": "https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -471,22 +471,6 @@
       "duration_ms": 333280,
       "name": "Conciencia",
       "url": "https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "El Men\u00fa",
-      "url": "https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -527,6 +511,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Historia De Un Sonero",
         "url": "https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 266173,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Cambio de Piel",
-      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -639,26 +623,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "V\u00edctimas las Dos",
-        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 257614,
-      "name": "V\u00edctimas las Dos",
-      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Rey del Bajo",
         "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
       },
@@ -691,6 +655,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Cambio de Piel",
+      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
@@ -707,34 +687,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Desn\u00fadate",
-        "url": "https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf"
+        "name": "V\u00edctimas las Dos",
+        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 231363,
-      "name": "Desn\u00fadate",
-      "url": "https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Calle Linda (Golden Edition)",
-        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
-      },
-      "artists": [
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
         {
-          "name": "Pirulo y la Tribu",
-          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
         }
       ],
-      "duration_ms": 383040,
-      "name": "Loco Pero Feliz",
-      "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
+      "duration_ms": 257614,
+      "name": "V\u00edctimas las Dos",
+      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -771,22 +739,34 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "25/7",
-        "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
+        "name": "Desn\u00fadate",
+        "url": "https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 298306,
-      "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
-      "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
+      "duration_ms": 231363,
+      "name": "Desn\u00fadate",
+      "url": "https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Calle Linda (Golden Edition)",
+        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
+      },
+      "artists": [
+        {
+          "name": "Pirulo y la Tribu",
+          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
+        }
+      ],
+      "duration_ms": 383040,
+      "name": "Loco Pero Feliz",
+      "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -803,6 +783,26 @@
       "duration_ms": 296226,
       "name": "No Tires La Primera Piedra",
       "url": "https://open.spotify.com/track/0OFAo20H6VUQB78GyLoJQJ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "25/7",
+        "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 298306,
+      "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
+      "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
     },
     {
       "added_at": "2023-08-11 04:00:00",

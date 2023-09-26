@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Ysrael Barajas & miguel cornejo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,933 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,947 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 99 | [CHIKEN LIRA EN LA BOCINA](https://open.spotify.com/track/46F5DxzosXwMWEduhEczQ9) | [Chiken Lira](https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn) | [CHIKEN LIRA EN LA BOCINA](https://open.spotify.com/album/6SPdlZwVqDsC3OBiEiOy2M) | 2:33 |
 | 100 | [Malditas Ganas](https://open.spotify.com/track/3vVz8W2SZaMTS1DOunlDen) | [Hendry El Mero Mero](https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP) | [Malditas Ganas](https://open.spotify.com/album/3N9wgCOFhkKkQ0KMfBdhjX) | 3:16 |
 
-Snapshot ID: `MCw4ODI1NmUzMTkyODg5OTI1YmQxNjgyOWJlOWJiZGVhZGE0OGNkYzg4`
+Snapshot ID: `MCxlYmY0ZTdkZjVlODJhNWQwYWViYzNkZGEyNjY3YjZlNmI2YzM5MzBk`

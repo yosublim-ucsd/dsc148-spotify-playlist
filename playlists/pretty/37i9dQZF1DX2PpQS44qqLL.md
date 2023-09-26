@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,001 likes - 200 songs - 13 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,022 likes - 200 songs - 13 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 199 | [Amor fascíname](https://open.spotify.com/track/34fUwEAJL7CI2ymqQ1TGyN) | [Alejandra Avalos](https://open.spotify.com/artist/0ujbYrGeviCZxfrKOzXDzK) | [20 Grandes Exitos](https://open.spotify.com/album/5XdzLQ5VPixvtDnw3iKHSl) | 4:23 |
 | 200 | [Escríbeme En El Cielo](https://open.spotify.com/track/2fnRjRGStHz4eDBiEXbFrc) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Sentidos Opuestos](https://open.spotify.com/album/2eOqqbyOTwSaS4V2H0jW64) | 4:10 |
 
-Snapshot ID: `MCwwNjM3MDA5MDFlNGU5MjhmZTBjODc2OTk3ZjhiZDU5NzI3ZDRmY2Qw`
+Snapshot ID: `MCw1ZjU0MjQ0MmI0NDJiZjdiNDg1MDk5MGQ3ZjgyNDdkN2RmMzUyMTk0`

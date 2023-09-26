@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,784 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,806 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 99 | [Rumble And Sway](https://open.spotify.com/track/6qxQLXOAboXpXHcHTMYC1K) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Rumble And Sway EP](https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH) | 3:05 |
 | 100 | [Soul Machine](https://open.spotify.com/track/6VhKqO2krkpQ9TEJSpZlbG) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Kentucky \(Deluxe Edition\)](https://open.spotify.com/album/70l38e3JDxBKLO2Jo0LgEp) | 4:01 |
 
-Snapshot ID: `MCw4MjZlNWVhZjhhMDY1ODE4ZjI2YzJjZWZhN2E4OGYwOWVhZTExMDc1`
+Snapshot ID: `MCw3NGZmYTM0NmE1M2ZiZDNiNTk4NDc3NWVlYjgxNDNiODNlZDk0OWI5`

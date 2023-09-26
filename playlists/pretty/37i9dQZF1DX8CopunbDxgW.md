@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: CRi
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,247 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,254 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Love In C Minor \- Franc Moody Remix](https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Love In C Minor \(Franc Moody Remix\)](https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF) | 3:05 |
 | 100 | [RISE \- Darius Remix](https://open.spotify.com/track/0zyDQF49c8BZObY8Figpew) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [RISE \(Darius Remix\)](https://open.spotify.com/album/11H0eAX1PYOz4XENIBHmRL) | 7:31 |
 
-Snapshot ID: `MCxkMTMwOWZjYTJjOGFlZDhkYTJlOTBhNTUwYTc4NDJlZjgwYjFiYzEy`
+Snapshot ID: `MCw0YmRjOGYyYzBlMDdmNDA3YmUyYTk2MzgyNjBhYWZlNWJjNTIyNWZk`

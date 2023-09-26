@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine bby :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,615 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,627 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 99 | [CLEAN BABY](https://open.spotify.com/track/2enQxKJL5ZTGoU3U8ri85A) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [CLEAN BABY](https://open.spotify.com/album/5VzoByWr9exzILjqYGPS2F) | 3:04 |
 | 100 | [Agua Que Quema](https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:19 |
 
-Snapshot ID: `MCw2YjY4NTY1YzI2MGU4MGY5OTE5YmM3Y2I5MjVjY2U3OWFmODcwMDYz`
+Snapshot ID: `MCwwZTRkZmFlNmZiYjljNDQ1NDM3ZjZhMGMyZDNmMTMzNWQ2YjEwMzI0`

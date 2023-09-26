@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,753,603 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,753,846 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 99 | [Crazy In Love \- Remix](https://open.spotify.com/track/2f4IuijXLxYOeBncS60GUD) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Crazy In Love \(Remix\)](https://open.spotify.com/album/1JSCfr9YFx7SAP8sAYS5vx) | 3:46 |
 | 100 | [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 |
 
-Snapshot ID: `MCw3ZjU2MGMwM2NhMDU2ZjI0YzNiNTYyZmFmYzIyYzg2NWRlYTA4OWEz`
+Snapshot ID: `MCw0ZWEzMzdkNmQ0N2NkN2FjNjJlMmU1MTA4YTFkNDA4YTEzZDJmY2Vk`
