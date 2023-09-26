@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. Cover: CHAI
 
-859 songs - 2 day 5 hr 27 min
+860 songs - 2 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [narashite \- Audiotree Live Version](https://open.spotify.com/track/71fkJnR1lE164GspbrcFUA) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [HARU NEMURI on Audiotree Live](https://open.spotify.com/album/4VJQdztVh2Pkt6nOt7h1D3) | 3:17 | 2023-02-14 | 2023-03-29 |
 | [Natsu Tenshi](https://open.spotify.com/track/6ChVqC6I8TbLkbHez0bRwq) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [Natsu Tenshi](https://open.spotify.com/album/2w9xpvHCmhTAQafp19EquG) | 3:52 | 2023-07-04 | 2023-07-19 |
 | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/track/0BWxTiFYuAoJSxDnHUs4UZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/album/21wUhU2axAMTJWEaREHo1g) | 4:17 | 2023-04-04 | 2023-04-12 |
-| [NEO KAWAII, K?](https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW) | 2:34 | 2023-08-01 |  |
+| [NEO KAWAII, K?](https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW) | 2:34 | 2023-08-01 | 2023-09-26 |
 | [NEO KAWAII, K?](https://open.spotify.com/track/5jkxqNR8T2vYEJxFMVpBUW) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/3RCeV2YBV20IpFZl3WWnsP) | 2:34 | 2023-08-01 | 2023-08-03 |
 | [NEO TOKIO](https://open.spotify.com/track/0AVOwrlP4bIDhlgow1JiSt) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [NEO TOKIO](https://open.spotify.com/album/2Mp4PgoQYX6X4WprgjsIFo) | 2:37 | 2023-01-12 | 2023-01-18 |
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-01-24 | 2023-02-17 |
@@ -832,6 +832,7 @@
 | [花向](https://open.spotify.com/track/6KITCkP5y0gBxlUhVO3N2O) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [MOROHA V](https://open.spotify.com/album/1qZqRsyhgGRO8dmdrBolDC) | 5:39 | 2023-06-08 | 2023-08-31 |
 | [花降る時の彼方](https://open.spotify.com/track/3B5gmn2BdUzNFzzw2aAoPs) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [花降る時の彼方](https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx) | 6:04 | 2023-03-14 | 2023-06-14 |
 | [虫](https://open.spotify.com/track/03fWcvMJUrIBGgiGpM5Z9z) | [Tocago](https://open.spotify.com/artist/5WYxT3w8PntFhAJC48Y7oc) | [虫](https://open.spotify.com/album/58XOr4Fe8QQrHNdwCub48d) | 3:03 | 2023-07-04 | 2023-07-12 |
+| [街の灯り](https://open.spotify.com/track/43Lf1FiIJ9CKK7klIqpDLa) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [Far away from](https://open.spotify.com/album/6i0XnWWPNArV6CDkFZJUVA) | 4:58 | 2023-09-22 |  |
 | [街の終わり](https://open.spotify.com/track/7fD09NyzrkqscB07BQJAwS) | [Nag Ar Juna](https://open.spotify.com/artist/0XCIw94rGkUZr24KGUi5Vu) | [街の終わり](https://open.spotify.com/album/2uJY0lqrnhLdQZD7odrXRT) | 4:22 | 2023-03-09 | 2023-03-29 |
 | [装置](https://open.spotify.com/track/3qcFmvkjpqZnB4feONa3Wy) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [映帶する煙](https://open.spotify.com/album/6iTUUUkWUZYfr61Pz3gFGG) | 6:52 | 2023-01-17 | 2023-02-01 |
 | [襲撃](https://open.spotify.com/track/4lKGembiDBdYHSCWfxOKIQ) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [式日散花](https://open.spotify.com/album/5UwYVbkJL3whWkNQIkLGpa) | 4:00 | 2023-08-29 |  |

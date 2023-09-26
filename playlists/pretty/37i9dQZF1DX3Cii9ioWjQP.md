@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,856 likes - 106 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,873 likes - 106 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 105 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 106 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [ChromaJ](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCw5ZGMxM2ZhMWI1YTJkZGM1NDFjNzY3MDkxZWQ0YmU3MGNjZGExOTdm`
+Snapshot ID: `MCw3OWZhZjIwN2M5MjU0OTM3M2JmNzM2YmVjZDAwN2E0N2I5ZWU2YTQw`

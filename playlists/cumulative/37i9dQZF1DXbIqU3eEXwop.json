@@ -1169,6 +1169,32 @@
     },
     {
       "album": {
+        "name": "Substitution (feat. Julian Perretta)",
+        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181477,
+      "name": "Substitution (feat. Julian Perretta)",
+      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "album": {
         "name": "Sugar (feat. Francesco Yates) [Billions Club Remix]",
         "url": "https://open.spotify.com/album/3ENSgxyvrzzRURWqpJuYIR"
       },

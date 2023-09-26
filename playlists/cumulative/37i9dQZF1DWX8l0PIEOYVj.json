@@ -3488,7 +3488,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 212470,
       "name": "Ghost Town (feat. David Frank)",
       "url": "https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS"
@@ -5318,7 +5318,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 174935,
       "name": "LLLOVE",
       "url": "https://open.spotify.com/track/5TH5n2YgLq8IgvfAdUm4qE"
@@ -6022,6 +6022,32 @@
       "duration_ms": 208888,
       "name": "Never Give Up On You (with Elle Vee)",
       "url": "https://open.spotify.com/track/6QyteQFqwV52K3YAs2a3pf"
+    },
+    {
+      "album": {
+        "name": "Never Go Back",
+        "url": "https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Never Go Back",
+      "url": "https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT"
     },
     {
       "album": {
@@ -6816,7 +6842,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 158684,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1"

@@ -12367,6 +12367,32 @@
     },
     {
       "album": {
+        "name": "When I Hear Your Name (Remixes)",
+        "url": "https://open.spotify.com/album/2YjWVloHIlkLR6NE6ja2KE"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Keeld",
+          "url": "https://open.spotify.com/artist/4JU2KBLwvIFo9iH3a2FtCT"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236363,
+      "name": "Kissing New People (feat. Ty Dolla $ign) (Keeld Remix)",
+      "url": "https://open.spotify.com/track/0ZzCCQBq0jANlEFYsC1QRq"
+    },
+    {
+      "album": {
         "name": "KLK",
         "url": "https://open.spotify.com/album/2tPFlCPO1HxQ8DJFc5QLw3"
       },

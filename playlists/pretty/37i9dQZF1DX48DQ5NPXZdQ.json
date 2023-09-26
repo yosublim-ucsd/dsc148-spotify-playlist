@@ -1,12 +1,12 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. En portada: Juan Gabriel",
-  "num_followers": 52027,
+  "num_followers": 52055,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWM2NTdiZjI4MjcxMDJhM2Y4ODRjMDI0YTFjZGVhMTk0YjU5ZDUz",
+  "snapshot_id": "MCxmZmIyYjc1MmFiMjdmZmU3N2UyOWU5YTFmMzBiZDg5ZjI3NDE3ZjE5",
   "tracks": [
     {
       "added_at": "2022-10-24 18:23:31",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 159172,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
         "name": "El Ruise\u00f1or de America",
         "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 195936,
       "name": "Nuestro Juramento",
       "url": "https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 159172,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 409466,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
         "name": "Cl\u00e1sicos Latinos",
         "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 137560,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 409466,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
     },
     {
       "added_at": "2022-10-24 18:23:31",

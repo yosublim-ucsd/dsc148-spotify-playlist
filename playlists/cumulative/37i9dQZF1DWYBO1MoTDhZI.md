@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-698 songs - 1 day 13 hr 39 min
+699 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,8 +463,9 @@
 | [Only You](https://open.spotify.com/track/0bPjOJdD1OV1x3ihKbJMBS) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Only You](https://open.spotify.com/album/38mvnqi7nhoyC9UXaOwrJQ) | 2:44 | 2022-06-10 | 2022-07-30 |
 | [options](https://open.spotify.com/track/25OHd4BcTuhkeDCxKuCFAm) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [options](https://open.spotify.com/album/5oMug9PYFxLqmj5wstpWgc) | 2:29 | 2020-11-13 | 2021-08-28 |
 | [Ordinary](https://open.spotify.com/track/2POuS8xQxLtR52E8HFtAwB) | [Amber Ais](https://open.spotify.com/artist/3vPpiUL0ow9hQfhDMyGxle) | [Ordinary](https://open.spotify.com/album/18urkbnmlBBvY3WBHLL0kc) | 3:14 | 2022-05-20 | 2022-06-11 |
+| [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-22 |  |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-02 | 2023-06-18 |
-| [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-16 |  |
+| [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-16 | 2023-09-26 |
 | [OT](https://open.spotify.com/track/1YuIEfhp8umr6QSal4FTK4) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [OT](https://open.spotify.com/album/4q1mJMIhtUJJCKtTnMBD1q) | 3:11 | 2019-09-05\* | 2021-03-19 |
 | [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 | 2022-07-08 | 2022-07-16 |
 | [Overdrive](https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Overdrive](https://open.spotify.com/album/0DvIDMUOMaaVbXfDVt8jZS) | 3:03 | 2021-08-28 | 2021-12-11 |

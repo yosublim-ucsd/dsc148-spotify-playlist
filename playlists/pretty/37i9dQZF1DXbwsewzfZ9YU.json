@@ -1,12 +1,12 @@
 {
   "description": "open the pit. cover: Soul Glo",
-  "num_followers": 22691,
+  "num_followers": 22806,
   "original_name": "the Breakdown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDQxZjkyNmU5NDczNDc3Zjc0ZjE3MmZkMTcwNzU4MDhiY2M3ZDYy",
+  "snapshot_id": "MCw4NDAwMmM5YWQ5NmM1NDg5MDNjZTlkYzgwNmI1ZWViNzNiNjY5OTVk",
   "tracks": [
     {
       "added_at": "2023-09-08 19:30:02",
@@ -467,6 +467,22 @@
       "duration_ms": 135208,
       "name": "We Came To Play",
       "url": "https://open.spotify.com/track/5ZNAXdzYkAMDqAokJ9Ub7Z"
+    },
+    {
+      "added_at": "2023-09-25 16:53:27",
+      "album": {
+        "name": "Power Pop",
+        "url": "https://open.spotify.com/album/7IIIJ2OsKS6R0ZGNqAiFsI"
+      },
+      "artists": [
+        {
+          "name": "Strange Joy",
+          "url": "https://open.spotify.com/artist/29gaE5Qt5VhOxGKV4sx5aR"
+        }
+      ],
+      "duration_ms": 136858,
+      "name": "Power Pop",
+      "url": "https://open.spotify.com/track/0DmHUPj3UIeJ4GDT6KFx7G"
     },
     {
       "added_at": "2023-08-25 04:00:00",

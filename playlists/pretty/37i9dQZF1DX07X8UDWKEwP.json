@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Ralphy Dreamz",
-  "num_followers": 257035,
+  "num_followers": 257027,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWI4NmI2MjQ4ZGVkMDIwNDNiNmNlNjc5YWRjZDc3MjE3OGZkNzRh",
+  "snapshot_id": "MCw0YTRlYzQzYzZmMmRjY2RmMjcyYjgzZTZjZDA1NDZjNjdkYjRhM2I2",
   "tracks": [
     {
       "added_at": "2023-09-15 16:19:29",
@@ -239,26 +239,6 @@
     {
       "added_at": "2023-09-15 16:19:29",
       "album": {
-        "name": "Arranca (feat. Omega)",
-        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 166529,
-      "name": "Arranca (feat. Omega)",
-      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
-    },
-    {
-      "added_at": "2023-09-15 16:19:29",
-      "album": {
         "name": "La Morocha",
         "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 134144,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR"
+    },
+    {
+      "added_at": "2023-09-15 16:19:29",
+      "album": {
+        "name": "Arranca (feat. Omega)",
+        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 166529,
+      "name": "Arranca (feat. Omega)",
+      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
     },
     {
       "added_at": "2023-09-15 16:19:29",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-09-15 16:19:29",
       "album": {
-        "name": "el paso",
-        "url": "https://open.spotify.com/album/5QBjcz2tdsRVsmPtmg8h5Z"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 185570,
-      "name": "el paso",
-      "url": "https://open.spotify.com/track/6nu7Fpg5sarNYs8ElOozRQ"
-    },
-    {
-      "added_at": "2023-09-15 16:19:29",
-      "album": {
         "name": "Espacio",
         "url": "https://open.spotify.com/album/45O6rWsnsgORCAgGJwfZaR"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 203590,
       "name": "Espacio",
       "url": "https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW"
+    },
+    {
+      "added_at": "2023-09-15 16:19:29",
+      "album": {
+        "name": "el paso",
+        "url": "https://open.spotify.com/album/5QBjcz2tdsRVsmPtmg8h5Z"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 185570,
+      "name": "el paso",
+      "url": "https://open.spotify.com/track/6nu7Fpg5sarNYs8ElOozRQ"
     },
     {
       "added_at": "2023-09-15 16:19:29",
@@ -787,6 +787,38 @@
     {
       "added_at": "2023-09-15 16:19:29",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+    },
+    {
+      "added_at": "2023-09-15 16:19:29",
+      "album": {
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/7lEjVKtnPigIjjCVNrGd3J"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 238205,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/7EBDeDKSY5QS185IpakRNe"
+    },
+    {
+      "added_at": "2023-09-15 16:19:29",
+      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
       },
@@ -819,38 +851,6 @@
       "duration_ms": 168184,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp"
-    },
-    {
-      "added_at": "2023-09-15 16:19:29",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
-    },
-    {
-      "added_at": "2023-09-15 16:19:29",
-      "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/7lEjVKtnPigIjjCVNrGd3J"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 238205,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/7EBDeDKSY5QS185IpakRNe"
     },
     {
       "added_at": "2023-09-15 16:19:29",

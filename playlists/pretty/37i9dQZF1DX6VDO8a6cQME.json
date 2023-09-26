@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 25 years of The Miseducation of Lauryn Hill. Cover: Ms. Lauryn Hill",
-  "num_followers": 3404630,
+  "num_followers": 3405729,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWViNzBiZjc3NjYxY2RjNDE0YTY3OGZiMjQyZmJlZWQ4ZGY5ZDc1",
+  "snapshot_id": "MCw0Y2IzMWI0ZGE1YTQyMjMzMWFjMWM3Zjk5YmY3YzhjY2Q2NmRiMTg3",
   "tracks": [
     {
       "added_at": "2022-09-16 08:12:46",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+        "name": "100% Ginuwine",
+        "url": "https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY"
       },
       "artists": [
         {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
         }
       ],
-      "duration_ms": 268533,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
+      "duration_ms": 276066,
+      "name": "So Anxious",
+      "url": "https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l"
     },
     {
       "added_at": "2023-08-25 07:08:29",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
         "name": "Rated Next",
         "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 259440,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "100% Ginuwine",
-        "url": "https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY"
-      },
-      "artists": [
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "So Anxious",
-      "url": "https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c"
     },
     {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
+    },
+    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "This Is How We Do It",
@@ -639,22 +655,6 @@
       "duration_ms": 243733,
       "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
       "url": "https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -739,30 +739,6 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "The Velvet Rope",
-        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        },
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 241760,
-      "name": "Got 'Til It's Gone",
-      "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 269973,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "The Velvet Rope",
+        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 241760,
+      "name": "Got 'Til It's Gone",
+      "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
     },
     {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Mary Jane (All Night Long)",
+      "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
+    },
+    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "The Best of Tevin Campbell",
@@ -903,22 +919,6 @@
       "duration_ms": 356960,
       "name": "Breakin' My Heart (Pretty Brown Eyes)",
       "url": "https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Mary Jane (All Night Long)",
-      "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
     },
     {
-      "added_at": "2022-07-28 15:25:39",
-      "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Back & Forth",
-      "url": "https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Share My World",
@@ -1007,6 +991,22 @@
       "duration_ms": 286400,
       "name": "I Can Love You",
       "url": "https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa"
+    },
+    {
+      "added_at": "2022-07-28 15:25:39",
+      "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 278333,
-      "name": "I'm So Into You",
-      "url": "https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
         "name": "Blaque",
         "url": "https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "I'm So Into You",
+      "url": "https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
         "name": "Enter The Dru",
         "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 243360,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6"
+    },
+    {
+      "added_at": "2023-06-09 16:00:00",
+      "album": {
+        "name": "Never Say Never",
+        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 273440,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -1195,22 +1211,6 @@
       "duration_ms": 281880,
       "name": "Can't You See",
       "url": "https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v"
-    },
-    {
-      "added_at": "2023-06-09 16:00:00",
-      "album": {
-        "name": "Never Say Never",
-        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 273440,
-      "name": "Have You Ever",
-      "url": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
     },
     {
       "added_at": "2021-08-20 04:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 41646,
+  "num_followers": 41680,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjZjZTBlNmNlMWM4MTdmMTFjYjU2MjAzNDE5OTBhY2QzNDJjNDBi",
+  "snapshot_id": "MCw4YWU2MWU5YTJiNWYwY2FiMWYwYjg0MmM3ZDY4OWI0MmFjOTkyZjM4",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -227,22 +227,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Correntinas II",
-        "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
+        "name": "Sobredosis De Chamam\u00e9",
+        "url": "https://open.spotify.com/album/3r8FJW4rx2yneJ2TPsH6Qi"
       },
       "artists": [
         {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        },
-        {
-          "name": "Ramona Galarza",
-          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
         }
       ],
-      "duration_ms": 156866,
-      "name": "Alma Guaran\u00ed",
-      "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
+      "duration_ms": 160040,
+      "name": "Sobredosis de Chamam\u00e9",
+      "url": "https://open.spotify.com/track/2zUywQYzbipRi3NjjtdIxd"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -263,18 +259,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Sobredosis De Chamam\u00e9",
-        "url": "https://open.spotify.com/album/3r8FJW4rx2yneJ2TPsH6Qi"
+        "name": "Correntinas II",
+        "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
       },
       "artists": [
         {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        },
+        {
+          "name": "Ramona Galarza",
+          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
         }
       ],
-      "duration_ms": 160040,
-      "name": "Sobredosis de Chamam\u00e9",
-      "url": "https://open.spotify.com/track/2zUywQYzbipRi3NjjtdIxd"
+      "duration_ms": 156866,
+      "name": "Alma Guaran\u00ed",
+      "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "El Guachito",
+        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
+      },
+      "artists": [
+        {
+          "name": "Los Capos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Ca\u00f1a Doble para Mi Padre",
+      "url": "https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Enganchados en Vivo Desde San Jos\u00e9 Feliciano / Nacional, Vol. 2",
         "url": "https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ"
       },
@@ -415,18 +431,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "El Guachito",
-        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
+        "name": "Entre Chamam\u00e9 y Sapucay",
+        "url": "https://open.spotify.com/album/1icp40IGBQgUVHtyqdxRSX"
       },
       "artists": [
         {
-          "name": "Los Capos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
         }
       ],
-      "duration_ms": 181493,
-      "name": "Ca\u00f1a Doble para Mi Padre",
-      "url": "https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K"
+      "duration_ms": 155246,
+      "name": "Entre Chamam\u00e9 y Sapucay",
+      "url": "https://open.spotify.com/track/4CIfZ8W6QaIilsR7Ytb3LX"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -459,22 +475,6 @@
       "duration_ms": 131813,
       "name": "Pastor Luna y Su Acorde\u00f3n",
       "url": "https://open.spotify.com/track/5OrIO5OgtulDJUtkfg1loG"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Entre Chamam\u00e9 y Sapucay",
-        "url": "https://open.spotify.com/album/1icp40IGBQgUVHtyqdxRSX"
-      },
-      "artists": [
-        {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
-        }
-      ],
-      "duration_ms": 155246,
-      "name": "Entre Chamam\u00e9 y Sapucay",
-      "url": "https://open.spotify.com/track/4CIfZ8W6QaIilsR7Ytb3LX"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "10 A\u00f1os Unidos Por El Chamam\u00e9",
-        "url": "https://open.spotify.com/album/1jUXuKAKPH0aDtT7Z5FRwY"
-      },
-      "artists": [
-        {
-          "name": "Los Chaque-Che",
-          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Entre Amigos Y Chamam\u00e9",
-      "url": "https://open.spotify.com/track/7L19S0sFnKLPoyygK8LQ0W"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Consagraci\u00f3n del Chamam\u00e9",
         "url": "https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1"
       },
@@ -551,22 +535,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Alegr\u00eda y Chamam\u00e9",
-        "url": "https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq"
+        "name": "10 A\u00f1os Unidos Por El Chamam\u00e9",
+        "url": "https://open.spotify.com/album/1jUXuKAKPH0aDtT7Z5FRwY"
       },
       "artists": [
         {
-          "name": "Emiliano Cardozo",
-          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
-        },
-        {
-          "name": "Los Cardocitos",
-          "url": "https://open.spotify.com/artist/49bS4UnI47t9mUwLZFIPzv"
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
         }
       ],
-      "duration_ms": 173386,
-      "name": "La Due\u00f1a del Monte",
-      "url": "https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt"
+      "duration_ms": 173480,
+      "name": "Entre Amigos Y Chamam\u00e9",
+      "url": "https://open.spotify.com/track/7L19S0sFnKLPoyygK8LQ0W"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -583,6 +563,26 @@
       "duration_ms": 252018,
       "name": "Lloviendo Estrellas",
       "url": "https://open.spotify.com/track/5KOtFFnWELr378pMNuNTJO"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Alegr\u00eda y Chamam\u00e9",
+        "url": "https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo",
+          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
+        },
+        {
+          "name": "Los Cardocitos",
+          "url": "https://open.spotify.com/artist/49bS4UnI47t9mUwLZFIPzv"
+        }
+      ],
+      "duration_ms": 173386,
+      "name": "La Due\u00f1a del Monte",
+      "url": "https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Otras M\u00fasicas",
-        "url": "https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY"
-      },
-      "artists": [
-        {
-          "name": "Chango Spasiuk",
-          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "Nazareno",
-      "url": "https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "20 Super\u00e9xitos Originales, Vol. 2",
         "url": "https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 177213,
       "name": "Retorno",
       "url": "https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Otras M\u00fasicas",
+        "url": "https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "Nazareno",
+      "url": "https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
-      },
-      "artists": [
-        {
-          "name": "Isaco Abitbol",
-          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
-        },
-        {
-          "name": "Domingo Rodriguez",
-          "url": "https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Ah Mi Corrientes Por\u00e1",
-      "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Chamam\u00e9",
         "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 140040,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
+      },
+      "artists": [
+        {
+          "name": "Isaco Abitbol",
+          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
+        },
+        {
+          "name": "Domingo Rodriguez",
+          "url": "https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Ah Mi Corrientes Por\u00e1",
+      "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Mario Millan Medina",
-          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Mi ponchillo colorado",
-      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 187013,
       "name": "Rumbeando Pal Litoral",
       "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Mario Millan Medina",
+          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Mi ponchillo colorado",
+      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Fito Ledesma",
-          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
-        }
-      ],
-      "duration_ms": 120720,
-      "name": "Jineteando",
-      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Segundo Contacto",
         "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 194853,
       "name": "Para Volver a So\u00f1ar",
       "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Fito Ledesma",
+          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
+        }
+      ],
+      "duration_ms": 120720,
+      "name": "Jineteando",
+      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Abelardo Dimotta",
-          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "La Ofelia",
-      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/4VAmOJquewlCgACkqB6DgL"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 270000,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Abelardo Dimotta",
+          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "La Ofelia",
+      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
     },
     {
       "added_at": "2023-06-09 03:00:00",

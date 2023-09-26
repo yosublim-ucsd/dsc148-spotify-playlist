@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2080555,
+  "num_followers": 2080722,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODkzZTdhMjIwZWVjZTIwMmQ1NTllZGE2MjNlNmEzYjczN2RiYTU5",
+  "snapshot_id": "MCw2ZDI0ODMzYThkMmU2YWE2MDdiOTUxYTMyZDdmNmY4YzQyMTI0OGFi",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Busyhead",
-        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 213320,
-      "name": "Mess",
-      "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
         "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
       },
@@ -443,18 +427,34 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Love You For A Long Time",
-        "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 223120,
-      "name": "Love You For A Long Time",
-      "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
+      "duration_ms": 188960,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 213320,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+        "name": "Love You For A Long Time",
+        "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 188960,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
+      "duration_ms": 223120,
+      "name": "Love You For A Long Time",
+      "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -611,26 +611,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "I Was Born To Love You",
-        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 265843,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 161906,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "WHERE WE ARE",
-      "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -907,18 +891,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 222813,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
+      "duration_ms": 172800,
+      "name": "WHERE WE ARE",
+      "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -935,6 +919,22 @@
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "One Step Ahead",
+        "url": "https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "The Reminder",
         "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "One Step Ahead",
-        "url": "https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt"
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Rogue Wave",
+          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
         }
       ],
-      "duration_ms": 191647,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
+      "duration_ms": 148866,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
+        "name": "Chapter Of The Forest",
+        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
       },
       "artists": [
         {
-          "name": "Rogue Wave",
-          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
         }
       ],
-      "duration_ms": 148866,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
+      "duration_ms": 274632,
+      "name": "Green Mountain State",
+      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 214666,
       "name": "Heart's Content",
       "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Chapter Of The Forest",
-        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 274632,
-      "name": "Green Mountain State",
-      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Dying Star",
-        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Dying Star",
+        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Ode to Joy",
-        "url": "https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 213127,
-      "name": "Love Is Everywhere (Beware)",
-      "url": "https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
       },
@@ -1763,18 +1747,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Work Hard and Be Nice",
-        "url": "https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR"
+        "name": "Ode to Joy",
+        "url": "https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry"
       },
       "artists": [
         {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 216098,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN"
+      "duration_ms": 213127,
+      "name": "Love Is Everywhere (Beware)",
+      "url": "https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1791,6 +1775,22 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Work Hard and Be Nice",
+        "url": "https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 216098,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Leaving It Up to You",
-      "url": "https://open.spotify.com/track/2PAQygVRwdmwzY955cn2FS"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Fits Of Laughter",
         "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Leaving It Up to You",
+      "url": "https://open.spotify.com/track/2PAQygVRwdmwzY955cn2FS"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Puppy and a Truck",
-      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 151560,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
     },
     {
       "added_at": "2023-09-15 04:01:00",

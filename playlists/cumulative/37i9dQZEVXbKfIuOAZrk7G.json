@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "Amour plastique",
+      "url": "https://open.spotify.com/track/0HDO6JFfplYPrSWuufUosZ"
+    },
+    {
+      "album": {
         "name": "anatomy",
         "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
       },
@@ -6496,7 +6514,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 227340,
       "name": "Covet",
       "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF"
@@ -8902,6 +8920,24 @@
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+    },
+    {
+      "album": {
+        "name": "ecstacy",
+        "url": "https://open.spotify.com/album/1xCyOqwylZT5Syi5LwHF4q"
+      },
+      "artists": [
+        {
+          "name": "SUICIDAL-IDOL",
+          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96028,
+      "name": "ecstacy",
+      "url": "https://open.spotify.com/track/2CIlKt4lRwAAUx5fYgCBxN"
     },
     {
       "album": {
@@ -14706,7 +14742,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -29910,7 +29946,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 179346,
       "name": "Star",
       "url": "https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E"
@@ -35498,7 +35534,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 486840,
       "name": "Weightless Part 1",
       "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"

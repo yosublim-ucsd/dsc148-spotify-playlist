@@ -1,12 +1,12 @@
 {
   "description": "Throw it back to the biggest, best hits of the 2000's.",
-  "num_followers": 1412416,
+  "num_followers": 1412754,
   "original_name": "Throwback Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWQ5MDJhOGE0YWQzNjFjM2ZkYzNiZGZlNzYwNTkxOGM3OTAyOTg5",
+  "snapshot_id": "MCwyYjczNWNmYTgyNTk1OGExNWZhOTM4MTg1N2FhMTg5NzU5MWE5NjZk",
   "tracks": [
     {
       "added_at": "2022-12-29 05:39:02",
@@ -41,7 +41,7 @@
         }
       ],
       "duration_ms": 218093,
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "name": "Hips Don't Lie",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
@@ -131,6 +131,26 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 297786,
+      "name": "Till I Collapse",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
+    },
+    {
+      "added_at": "2022-12-29 05:39:02",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 179120,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
-    },
-    {
-      "added_at": "2022-12-29 05:39:02",
-      "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 297786,
-      "name": "Till I Collapse",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
     },
     {
       "added_at": "2022-12-29 05:39:02",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 270506,
-      "name": "Ms. Jackson",
-      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
-    },
-    {
-      "added_at": "2022-12-29 05:39:02",
-      "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 209106,
       "name": "Candy Shop",
       "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
+    },
+    {
+      "added_at": "2022-12-29 05:39:02",
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 270506,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
     },
     {
       "added_at": "2022-12-29 05:39:02",
@@ -463,6 +463,26 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+    },
+    {
+      "added_at": "2022-12-29 05:39:02",
+      "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
       },
@@ -483,22 +503,18 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
     },
     {
       "added_at": "2022-12-29 05:39:02",
@@ -575,22 +591,6 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "Music Of The Sun",
-        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Pon de Replay",
-      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
-    },
-    {
-      "added_at": "2022-12-29 05:39:02",
-      "album": {
         "name": "The Time Of Our Lives",
         "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
       },
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 180266,
-      "name": "Dance, Dance",
-      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
     },
     {
       "added_at": "2022-12-29 05:39:02",
@@ -671,34 +671,18 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Disturbia",
-      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
-    },
-    {
-      "added_at": "2022-12-29 05:39:02",
-      "album": {
-        "name": "Dutty Rock (20th Anniversary)",
-        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Get Busy",
-      "url": "https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak"
+      "duration_ms": 180266,
+      "name": "Dance, Dance",
+      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
     },
     {
       "added_at": "2022-12-29 05:39:02",
@@ -715,6 +699,22 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2022-12-29 05:39:02",
+      "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak"
     },
     {
       "added_at": "2022-12-29 05:39:02",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "R.O.O.T.S. (Route of Overcoming the Struggle)",
-        "url": "https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 204640,
-      "name": "Right Round",
-      "url": "https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP"
-    },
-    {
-      "added_at": "2022-12-29 05:39:02",
-      "album": {
         "name": "Country Grammar",
         "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 238920,
       "name": "SOS",
       "url": "https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5"
+    },
+    {
+      "added_at": "2022-12-29 05:39:02",
+      "album": {
+        "name": "R.O.O.T.S. (Route of Overcoming the Struggle)",
+        "url": "https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 204640,
+      "name": "Right Round",
+      "url": "https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP"
     },
     {
       "added_at": "2022-12-29 05:39:02",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         }
       ],
-      "duration_ms": 236093,
-      "name": "Run the World (Girls)",
-      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
+      "duration_ms": 217733,
+      "name": "Let's Get It Started - Spike Mix",
+      "url": "https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo"
     },
     {
       "added_at": "2022-12-29 05:39:02",
@@ -1179,34 +1179,18 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "Elephunk",
-        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
       "artists": [
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 217733,
-      "name": "Let's Get It Started - Spike Mix",
-      "url": "https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo"
-    },
-    {
-      "added_at": "2022-12-29 05:39:02",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Hypnotize - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
+      "duration_ms": 236093,
+      "name": "Run the World (Girls)",
+      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
     },
     {
       "added_at": "2022-12-29 05:39:02",
@@ -1227,6 +1211,22 @@
       "duration_ms": 246573,
       "name": "Glamorous",
       "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
+    },
+    {
+      "added_at": "2022-12-29 05:39:02",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Hypnotize - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
     },
     {
       "added_at": "2022-12-29 05:39:02",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-12-29 05:39:02",
       "album": {
-        "name": "Kevin Lyttle (US Domestic Release)",
-        "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
-      },
-      "artists": [
-        {
-          "name": "Kevin Lyttle",
-          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
-    },
-    {
-      "added_at": "2022-12-29 05:39:02",
-      "album": {
         "name": "Love Angel Music Baby (Deluxe Version)",
         "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 254026,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
+    },
+    {
+      "added_at": "2022-12-29 05:39:02",
+      "album": {
+        "name": "Kevin Lyttle (US Domestic Release)",
+        "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
+      },
+      "artists": [
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
     },
     {
       "added_at": "2022-12-29 05:39:02",

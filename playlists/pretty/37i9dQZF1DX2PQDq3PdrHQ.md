@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,878 likes - 341 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,348 likes - 341 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,7 +201,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 191 | [soft plushies](https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [soft plushies](https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu) | 2:24 |
 | 192 | [hot take](https://open.spotify.com/track/6LTzGsvs1gasIAYYC4C1iR) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [hot take](https://open.spotify.com/album/6JEX2BGRKYkcDxq20H4RNw) | 2:08 |
 | 193 | [seductive](https://open.spotify.com/track/69TDC6pFG3odxX0kfCC288) | [Poetic Papaya](https://open.spotify.com/artist/5e7HNrHXzeGLvFX5A43b51) | [seductive](https://open.spotify.com/album/6giaSwBeSVAVB4ab471Y47) | 2:20 |
-| 194 | [Starry Night](https://open.spotify.com/track/0faaaFNnLLN1Ls0Abdzx2p) | [mono.\_](https://open.spotify.com/artist/1zAGw4dlvOQX4P5bhCrSm4) | [Starry Night](https://open.spotify.com/album/3eApekHVjV5NV66eR06834) | 2:19 |
+| 194 | [Starry Night](https://open.spotify.com/track/2F6F47uAhvElyChqUXjJV5) | [mono.\_](https://open.spotify.com/artist/1zAGw4dlvOQX4P5bhCrSm4) | [Starry Night](https://open.spotify.com/album/1WdCi4PP7cqMlpzOiwDEQy) | 2:19 |
 | 195 | [Lilac](https://open.spotify.com/track/4c3RnkPEPZPZINK6l9GPZp) | [Colours in Context](https://open.spotify.com/artist/4CHVFfmgOpcOMB3d3B0uwO) | [Lilac](https://open.spotify.com/album/4FcL5BbWZxsNVVBlLqjVIl) | 2:22 |
 | 196 | [you don't know what you did to me](https://open.spotify.com/track/4H6POdROKcRiPChvaK4HWY) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47) | [you don't know what you did to me](https://open.spotify.com/album/74wjxzvCKQfn80ecFDPL0E) | 2:02 |
 | 197 | [twilight](https://open.spotify.com/track/1bfLddRd7bTCt8cZPSN9CM) | [The King Chameleon](https://open.spotify.com/artist/5a3jN23M7PMCPVFaASjHmK) | [twilight](https://open.spotify.com/album/00nQMjjnjhFp4FDzson5on) | 2:41 |
@@ -350,4 +350,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 340 | [Stargazer](https://open.spotify.com/track/5YLozzNjqUbMKAUCCWZqve) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Stargazer](https://open.spotify.com/album/2uP0396RrVf9489zLAdrNi) | 2:17 |
 | 341 | [Night never ends](https://open.spotify.com/track/3FnRiWUNHfYKnibaQVaLhW) | [Raccoon With a Groovebox](https://open.spotify.com/artist/3cYzpmIsbtgqFqBll2SA5P) | [Night never ends](https://open.spotify.com/album/2oTxE9A3SLOdMWTxIlxUl0) | 2:27 |
 
-Snapshot ID: `MCxiMzU1ZWIxZmE0ZTllYjNjNjQzMmFkNmFhMjJmMDdlNGM4MDdiOGZi`
+Snapshot ID: `MCw1Zjg0NTk2ODY2YzQxOGU0MGI5ZTA5MDc0ZjM1ZGM1OGFiMjg3ODY4`

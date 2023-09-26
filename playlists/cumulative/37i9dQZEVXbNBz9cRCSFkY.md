@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-706 songs - 1 day 18 hr 29 min
+707 songs - 1 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 | 2021-03-27\* | 2021-04-11 |
 | [22 \(Taylor's Version\)](https://open.spotify.com/track/2T9WeqSMJJb8YBDHPYGU4p) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:50 | 2021-11-14 | 2021-11-14 |
 | [22 \(Taylor's Version\)](https://open.spotify.com/track/3yII7UwgLF6K5zW3xad3MP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:50 | 2021-11-14 | 2021-11-23 |
-| [3 AM](https://open.spotify.com/track/7CrpqsFrk3PdqMFSW7nlDV) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [3 AM](https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY) | 2:56 | 2023-09-24 |  |
+| [3 AM](https://open.spotify.com/track/7CrpqsFrk3PdqMFSW7nlDV) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [3 AM](https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY) | 2:56 | 2023-09-24 | 2023-09-26 |
 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 | 2021-03-27\* | 2021-06-11 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-03 | 2022-05-11 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-13 | 2022-07-17 |
@@ -268,7 +268,8 @@
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:32 | 2021-03-27\* | 2021-04-20 |
 | [Holy Ground \(Taylor's Version\)](https://open.spotify.com/track/661CJWXysgwKXI1dreYNBU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:22 | 2021-11-14 | 2021-11-14 |
 | [Holy Ground \(Taylor's Version\)](https://open.spotify.com/track/7J4b3LVCIGO4CMBDFLPoP6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:22 | 2021-11-14 | 2021-11-17 |
-| [homebdy](https://open.spotify.com/track/2bFabpKKu22phRjaQPkYV8) | [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy](https://open.spotify.com/album/3im6kBTOa0nG74iwgvuNXl) | 2:21 | 2023-08-11 |  |
+| [homebdy](https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y) | [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [homebdy](https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ) | 2:21 | 2023-09-25 |  |
+| [homebdy](https://open.spotify.com/track/2bFabpKKu22phRjaQPkYV8) | [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy](https://open.spotify.com/album/3im6kBTOa0nG74iwgvuNXl) | 2:21 | 2023-08-11 | 2023-09-26 |
 | [hope ur ok](https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:29 | 2021-05-23 | 2021-06-13 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-28 | 2022-06-12 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-09-01 | 2021-09-02 |
@@ -287,7 +288,7 @@
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-10 | 2022-08-24 |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2021-10-23 | 2022-06-12 |
 | [I Love You So](https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Songs for Dads](https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5) | 2:40 | 2021-10-16 | 2021-10-23 |
-| [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2022-10-31 | 2023-07-11 |
+| [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2022-10-31 |  |
 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 | 2021-07-28 | 2021-07-30 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-01-01 | 2023-01-03 |
 | [Iba \(ft\. Moira Dela Torre\)](https://open.spotify.com/track/0i1L1kVFgXmxx4oOJ8gnCf) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Iba](https://open.spotify.com/album/7DUZnNUUYG0tMsurTT8HlC) | 4:15 | 2022-02-12 | 2022-02-14 |

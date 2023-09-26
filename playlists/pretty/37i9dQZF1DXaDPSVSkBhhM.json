@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 64661,
+  "num_followers": 64685,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTQzNDdkZTAzZDAzODQ0MjQ5ZDIxODdiMTk1OWFmNmQyZDJkZmE1",
+  "snapshot_id": "MCwzZThiYmM2OGRhNGRlMjBkMDk5NjhiZmI0MjllYjdiY2M2NzY0Zjcw",
   "tracks": [
     {
       "added_at": "2023-09-22 06:00:00",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
-        "url": "https://open.spotify.com/album/09sex9lgVpZBDbkaQCp2ot"
-      },
-      "artists": [
-        {
-          "name": "Chingadazo de Kung Fu",
-          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
-        },
-        {
-          "name": "Barney Gombo",
-          "url": "https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
-      "url": "https://open.spotify.com/track/4gXv8ukCY5oIpzVMMfSFAi"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "120 Km/Hr.",
         "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
       },
@@ -427,18 +407,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Entre La Guerra Y El Amor",
-        "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
+        "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
+        "url": "https://open.spotify.com/album/09sex9lgVpZBDbkaQCp2ot"
       },
       "artists": [
         {
-          "name": "Delux",
-          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+          "name": "Chingadazo de Kung Fu",
+          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
+        },
+        {
+          "name": "Barney Gombo",
+          "url": "https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc"
         }
       ],
-      "duration_ms": 185493,
-      "name": "Quemando Cartas",
-      "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
+      "duration_ms": 213306,
+      "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
+      "url": "https://open.spotify.com/track/4gXv8ukCY5oIpzVMMfSFAi"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -459,6 +443,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
+        "name": "Entre La Guerra Y El Amor",
+        "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
+      },
+      "artists": [
+        {
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Quemando Cartas",
+      "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
         "name": "J\u00e4ula",
         "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
-        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
-      },
-      "artists": [
-        {
-          "name": "Camiches",
-          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
-        }
-      ],
-      "duration_ms": 214592,
-      "name": "Espero Nadie Ocupe Mi Lugar",
-      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Nadie Me Entiende",
         "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 180000,
       "name": "Nadie Me Entiende",
       "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
+        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
+      },
+      "artists": [
+        {
+          "name": "Camiches",
+          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "Espero Nadie Ocupe Mi Lugar",
+      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "La Insoportable Levedad del Final",
-        "url": "https://open.spotify.com/album/6qNHPl2FTO7hgeNOO39E4s"
-      },
-      "artists": [
-        {
-          "name": "THE SUPUESTOS",
-          "url": "https://open.spotify.com/artist/6nrVwZIURyY5RIPp3eXPra"
-        }
-      ],
-      "duration_ms": 237633,
-      "name": "La Insoportable Levedad del Final",
-      "url": "https://open.spotify.com/track/1LMFuo0XbZS3xQHIKtwTle"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "CARIBE 4 LIFE",
         "url": "https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
+        "name": "La Insoportable Levedad del Final",
+        "url": "https://open.spotify.com/album/6qNHPl2FTO7hgeNOO39E4s"
+      },
+      "artists": [
+        {
+          "name": "THE SUPUESTOS",
+          "url": "https://open.spotify.com/artist/6nrVwZIURyY5RIPp3eXPra"
+        }
+      ],
+      "duration_ms": 237633,
+      "name": "La Insoportable Levedad del Final",
+      "url": "https://open.spotify.com/track/1LMFuo0XbZS3xQHIKtwTle"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
         "name": "15 de Junio",
         "url": "https://open.spotify.com/album/4P1ONNbWN12mI1YNxFFQlO"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "CRISIS",
-        "url": "https://open.spotify.com/album/1KkuK9uYHUFAgTLFjTpG0R"
-      },
-      "artists": [
-        {
-          "name": "MIKI",
-          "url": "https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss"
-        }
-      ],
-      "duration_ms": 174352,
-      "name": "Miedo A Caer (Opening 3 Latino Sub.amv)",
-      "url": "https://open.spotify.com/track/7JVkWGxZo44Jmrb9hbDIpA"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "La teor\u00eda de los septenios",
         "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 151757,
       "name": "No olvides de enfocarte siempre en lo importante",
       "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "CRISIS",
+        "url": "https://open.spotify.com/album/1KkuK9uYHUFAgTLFjTpG0R"
+      },
+      "artists": [
+        {
+          "name": "MIKI",
+          "url": "https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss"
+        }
+      ],
+      "duration_ms": 174352,
+      "name": "Miedo A Caer (Opening 3 Latino Sub.amv)",
+      "url": "https://open.spotify.com/track/7JVkWGxZo44Jmrb9hbDIpA"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Dualidad",
-        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 223046,
-      "name": "Dualidad",
-      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Cereal",
         "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 161226,
       "name": "Cereal",
       "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 223046,
+      "name": "Dualidad",
+      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
     },
     {
       "added_at": "2023-09-22 06:00:00",

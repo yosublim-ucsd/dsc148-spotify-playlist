@@ -4,7 +4,7 @@
 
 > La bande\-son de votre apéro\. Santé !
 
-146 songs - 8 hr 44 min
+147 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,8 +102,9 @@
 | [Nouveau Genre](https://open.spotify.com/track/0hLa19JP4bItkpyTjopqOb) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 3:22 | 2022-12-08 | 2023-01-05 |
 | [Nouvelle\-Orléans](https://open.spotify.com/track/1CCKf8yGsKuVz5cgRwgShM) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:53 | 2022-12-08 | 2023-01-05 |
 | [Nue](https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire \(Réédition\)](https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd) | 3:04 | 2023-01-04 |  |
+| [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-22 |  |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-09 | 2023-06-18 |
-| [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-09 |  |
+| [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-09 | 2023-09-26 |
 | [Over the Hill](https://open.spotify.com/track/4W6pqK42jJwOi9KAY1p6DH) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Nisemono](https://open.spotify.com/album/7taDp3ENsj9voOAwVQ36PQ) | 2:47 | 2022-12-08 | 2023-02-25 |
 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 | 2022-12-08 | 2023-09-23 |
 | [Pacific Ave](https://open.spotify.com/track/4sUznhMUu1NCVZYuO5mVkF) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Pacific Ave](https://open.spotify.com/album/58pgoNAcylx4R5K0k2wOWI) | 3:22 | 2022-12-08 |  |

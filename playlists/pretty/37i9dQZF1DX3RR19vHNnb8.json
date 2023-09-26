@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 14779,
+  "num_followers": 14802,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODA3NTFmOGNhNDBhZjY0Y2Y1OGUwYjIxMGFjMTZjOTZiMWU5NmM3",
+  "snapshot_id": "MCxjOTNkZTE5MjRhZDc2YjA4ZDljYzEzNmRkZGFhYTQ2MmU4YTYwZjFl",
   "tracks": [
     {
       "added_at": "2023-09-15 09:00:30",
@@ -423,18 +423,22 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
-        "name": "It's Crazy",
-        "url": "https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ"
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
       },
       "artists": [
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 200440,
-      "name": "It's Crazy - Single Version",
-      "url": "https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG"
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
       "added_at": "2023-09-15 09:00:30",
@@ -455,22 +459,18 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
-        "name": "LONDON (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+        "name": "It's Crazy",
+        "url": "https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         }
       ],
-      "duration_ms": 250722,
-      "name": "LONDON (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
+      "duration_ms": 200440,
+      "name": "It's Crazy - Single Version",
+      "url": "https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG"
     },
     {
       "added_at": "2023-09-15 09:00:30",
@@ -563,50 +563,6 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
-        "name": "PICANTO",
-        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "ECko Miles",
-          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "PICANTO",
-      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
-    },
-    {
-      "added_at": "2023-09-15 09:00:30",
-      "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
-    },
-    {
-      "added_at": "2023-09-15 09:00:30",
-      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -631,22 +587,26 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
-        "name": "Where We Come From, Vol. 01",
-        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+        "name": "PICANTO",
+        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ECko Miles",
+          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
         }
       ],
-      "duration_ms": 152283,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
+      "duration_ms": 184077,
+      "name": "PICANTO",
+      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
     },
     {
       "added_at": "2023-09-15 09:00:30",
@@ -691,6 +651,26 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2023-09-15 09:00:30",
+      "album": {
         "name": "Prosper In Peace",
         "url": "https://open.spotify.com/album/6bZjEoMqtFYT8hXO3Fjr1m"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 212682,
       "name": "Prosper In Peace (with Benny The Butcher)",
       "url": "https://open.spotify.com/track/70CWmghvBEJteWKBc8ZWPd"
+    },
+    {
+      "added_at": "2023-09-15 09:00:30",
+      "album": {
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 152283,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
     },
     {
       "added_at": "2023-09-15 09:00:30",
@@ -955,18 +955,22 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
-        "name": "SKI",
-        "url": "https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF"
+        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
+        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 154285,
-      "name": "SKI",
-      "url": "https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT"
+      "duration_ms": 186906,
+      "name": "My Bro",
+      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
     }
   ],
   "unique_name": "Pump it Up ",

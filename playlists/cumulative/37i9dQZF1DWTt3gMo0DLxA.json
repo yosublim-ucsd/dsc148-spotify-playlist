@@ -452,7 +452,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 200208,
       "name": "Boss Party",
       "url": "https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe"
@@ -739,6 +739,28 @@
     },
     {
       "album": {
+        "name": "Ek Dum Ek Dum (From \"Tiger Nageswara Rao\") (Telugu)",
+        "url": "https://open.spotify.com/album/016OrddyZeTJNOebIQ0GLE"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260160,
+      "name": "Ek Dum Ek Dum (From \"Tiger Nageswara Rao\") (Telugu)",
+      "url": "https://open.spotify.com/track/4ciFHjXGTCFCx7FhTPfPTS"
+    },
+    {
+      "album": {
         "name": "Elluvochi Godaramma - Valmiki",
         "url": "https://open.spotify.com/album/0DkRiIbXQOSUBW1OOOqdIs"
       },
@@ -820,7 +842,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 250866,
       "name": "Evare Nuvvu",
       "url": "https://open.spotify.com/track/7m64tTau2Rh6hzVDA1oV6K"
@@ -1411,6 +1433,28 @@
     },
     {
       "album": {
+        "name": "Kotabommali P.S",
+        "url": "https://open.spotify.com/album/23hkdjynk6g082OKyipKlJ"
+      },
+      "artists": [
+        {
+          "name": "Midhun Mukundan",
+          "url": "https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp"
+        },
+        {
+          "name": "Relare Rela Raghu",
+          "url": "https://open.spotify.com/artist/0Z9ZDeSf6EBGLfrRtYx4Qh"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229631,
+      "name": "Lingi Lingi Lingidi",
+      "url": "https://open.spotify.com/track/1qgb9TXSQqOHmVj5dBAtFX"
+    },
+    {
+      "album": {
         "name": "Nannaku Prematho",
         "url": "https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo"
       },
@@ -1966,7 +2010,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 302942,
       "name": "Nunugu Misalodu",
       "url": "https://open.spotify.com/track/7a7badaPkBz9NWMWnPTwN5"
@@ -2384,6 +2428,32 @@
       "duration_ms": 244188,
       "name": "Saana Kastam",
       "url": "https://open.spotify.com/track/6GbObXudr6oFWk8FdHHLeh"
+    },
+    {
+      "album": {
+        "name": "Samayama (From \"Hi Nanna\")",
+        "url": "https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204181,
+      "name": "Samayama (From \"Hi Nanna\")",
+      "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
     },
     {
       "album": {

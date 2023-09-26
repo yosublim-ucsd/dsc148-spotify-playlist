@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172844,
+      "name": "Asking To Break",
+      "url": "https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr"
+    },
+    {
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6WvJL6ZCOXBbBtCOiyBOuK"
       },
@@ -556,7 +574,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 206657,
       "name": "elevator girl ft. Ivy Sole",
       "url": "https://open.spotify.com/track/3XFmENmCv9WRCeeDICpN5I"
@@ -784,7 +802,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 148304,
       "name": "head down",
       "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
@@ -1030,7 +1048,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 222994,
       "name": "Jalisco",
       "url": "https://open.spotify.com/track/7gEvMdJjKAlvW68yG4ASSX"
@@ -1088,6 +1106,24 @@
       "duration_ms": 97643,
       "name": "lesson",
       "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
+    },
+    {
+      "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "album": {
@@ -1287,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
         "name": "Further up Island",
         "url": "https://open.spotify.com/album/0NtIyXrOXk3FEeLLxUp9Fv"
       },
@@ -1393,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
+    },
+    {
+      "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
       },
@@ -1404,7 +1476,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 263349,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"

@@ -1,12 +1,12 @@
 {
   "description": "Is \"indie sleaze\" in the room with us? ft. The Strokes ",
-  "num_followers": 108829,
+  "num_followers": 108949,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGJkYzBiMzNiOTFmMTVhYTVlMGE5Y2JjOGE2MDhiZDRjY2E1NDlk",
+  "snapshot_id": "MCw4OWMyNmZmYmZmYTYwNzU0MmJhZWU2YTkyMDk1MTMwMzJhMTliMjI0",
   "tracks": [
     {
       "added_at": "2023-09-05 19:58:53",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 229226,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -665,6 +665,22 @@
       "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
     },
     {
+      "added_at": "2023-09-05 20:03:48",
+      "album": {
+        "name": "(III)",
+        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
+    },
+    {
       "added_at": "2023-09-05 19:58:53",
       "album": {
         "name": "Myths Of The Near Future",
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 127920,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
       },
@@ -713,20 +713,20 @@
       "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
     },
     {
-      "added_at": "2023-09-05 20:03:48",
+      "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "(III)",
-        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
       },
       "artists": [
         {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
+      "duration_ms": 127920,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 462266,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "The Libertines",
         "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 238973,
       "name": "Little Secrets",
       "url": "https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 462266,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "L.E.S. Artistes",
+      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "Does You Inspire You",
         "url": "https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 229893,
       "name": "Rill Rill",
       "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Santigold",
-        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "L.E.S. Artistes",
-      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Made In The Dark",
-        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Ready For The Floor",
-      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "A Certain Trigger",
         "url": "https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 266346,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/75z2YLg5Lkqf6qL9XOY8tV"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Made In The Dark",
+        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Ready For The Floor",
+      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Merriweather Post Pavilion",
-        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "My Girls",
-      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Wait for Me",
         "url": "https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 127400,
       "name": "I Found Out",
       "url": "https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Merriweather Post Pavilion",
+        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "The Virgins",
+        "url": "https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj"
+      },
+      "artists": [
+        {
+          "name": "The Virgins",
+          "url": "https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Rich Girls",
+      "url": "https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "Locals (Girls like us) [with gabby start]",
         "url": "https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 258084,
       "name": "Locals (Girls like us) [with gabby start]",
       "url": "https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "The Virgins",
-        "url": "https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj"
-      },
-      "artists": [
-        {
-          "name": "The Virgins",
-          "url": "https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "Rich Girls",
-      "url": "https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ"
     },
     {
       "added_at": "2023-09-05 19:58:53",

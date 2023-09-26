@@ -4,7 +4,7 @@
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-378 songs - 1 day 17 hr 29 min
+379 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Chari Chari](https://open.spotify.com/track/17jj28hTBcJcBFCkVDau8v) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Gira](https://open.spotify.com/album/4gw2Z16cnAt917rOGlPBA2) | 6:55 | 2020-05-19 | 2022-04-20 |
 | [Chasing Clouds](https://open.spotify.com/track/7sWJ1BwQk7M7uGQk0Y0JRQ) | [DRMZ](https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ) | [Chasing Clouds](https://open.spotify.com/album/7sTeQwhvCIGryhG60rgmRQ) | 7:38 | 2022-11-25 | 2023-02-01 |
 | [Childhood](https://open.spotify.com/track/017gRJ8IE2WZHWkt3S3XFo) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Childhood](https://open.spotify.com/album/2aqZyP9x7G7Sr5B0dJZfmf) | 4:02 | 2020-05-30 | 2022-07-29 |
+| [Childhood](https://open.spotify.com/track/3FHvCNoY4Pd8mJjOOaweBN) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Childhood](https://open.spotify.com/album/137gDgTwqUwTo3pmeCI0gA) | 4:02 | 2023-09-01 |  |
 | [Childhood](https://open.spotify.com/track/4QVosKlgWRXc1IEwYdOBEz) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Childhood](https://open.spotify.com/album/2RIEITFTclNIsuDA6kibJ7) | 4:02 | 2022-06-14 | 2023-09-13 |
 | [Ciclos](https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ) | [Antaares](https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3) | [Ciclos](https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4) | 6:36 | 2023-04-20 |  |
 | [Circadia](https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE) | [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0) | [Circadia](https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE) | 6:48 | 2022-09-09 |  |
@@ -275,7 +276,7 @@
 | [Pastorcita](https://open.spotify.com/track/2bq3BcwuIjsvS18KXgqzZV) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [The Deep South](https://open.spotify.com/album/5Gnnle3P6DoHp5vtqkN0P0) | 6:23 | 2021-01-31 | 2022-09-29 |
 | [Pastorcita](https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [The Deep South](https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY) | 6:23 | 2022-09-30 |  |
 | [Patika](https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5) | [Hezarfen](https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx) | [Patika](https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ) | 5:33 | 2022-04-04 | 2022-07-22 |
-| [Persian Nights](https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Persian Nights](https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP) | 3:18 | 2023-01-30 |  |
+| [Persian Nights](https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Persian Nights](https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP) | 3:18 | 2023-01-30 | 2023-09-26 |
 | [Pervaz](https://open.spotify.com/track/3zyYTyXyHX52WWsaqFPEH0) | [Netam](https://open.spotify.com/artist/1YY9OGXBUigFmgd8wgKEE6), [Muaz Ceyhan](https://open.spotify.com/artist/1xlRrEXSQPhtLjFuQIF47p) | [Tanburun Rüyaları](https://open.spotify.com/album/5jiH0oSegzyENIzfDGPUzm) | 4:36 | 2022-01-14 | 2022-05-21 |
 | [Poet\-Ease](https://open.spotify.com/track/5u8RZrjxxYHBgSBwWDyV16) | [Underspreche](https://open.spotify.com/artist/27APxtslZbXwYbuMxVLltm), [Sandra Restrepo](https://open.spotify.com/artist/6xcbHjACwkci6y1yJV7om2) | [Poet\-Ease](https://open.spotify.com/album/3UEMeHZo8S1uqlNuFfKu16) | 6:22 | 2019-09-06 | 2020-04-27 |
 | [Precious Story](https://open.spotify.com/track/5yK0lEffT7BqplloPOrg2g) | [Armen Miran](https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy) | [Buddha Bar: The Ultimate Experience](https://open.spotify.com/album/1QG5GYYjwWlBY1VDdNQ9Wd) | 6:33 | 2019-08-02\* | 2021-05-28 |

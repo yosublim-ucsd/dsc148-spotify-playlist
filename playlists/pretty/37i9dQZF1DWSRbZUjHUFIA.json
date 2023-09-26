@@ -1,12 +1,12 @@
 {
   "description": "Keep your workout 100 with these Hip-Hop motivators.",
-  "num_followers": 73482,
+  "num_followers": 73618,
   "original_name": "Work It: Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjYyMDBmNjJmZTJkN2E5YWY3OTYzZTIzYzhiZDYxZDQxZDU4Y2Vl",
+  "snapshot_id": "MCw1NTljYmYyYzVlNDg5ZDE0M2Y0MTI3MDU2YmYyZjgxZDU3ZGFlOGQ1",
   "tracks": [
     {
       "added_at": "2023-08-24 13:39:18",
@@ -51,22 +51,6 @@
     {
       "added_at": "2023-08-24 13:39:18",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "HUMBLE.",
-      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
-    },
-    {
-      "added_at": "2023-08-24 13:39:18",
-      "album": {
         "name": "Jungle Rules",
         "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 233901,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
+    },
+    {
+      "added_at": "2023-08-24 13:39:18",
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "HUMBLE.",
+      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
     },
     {
       "added_at": "2023-08-24 13:39:18",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-08-24 13:39:18",
       "album": {
-        "name": "Cole World: The Sideline Story",
-        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 235320,
-      "name": "Work Out",
-      "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
-    },
-    {
-      "added_at": "2023-08-24 13:39:18",
-      "album": {
         "name": "Meet The Woo",
         "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
       },
@@ -259,18 +243,18 @@
     {
       "added_at": "2023-08-24 13:39:18",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 210746,
-      "name": "Nice For What",
-      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
+      "duration_ms": 235320,
+      "name": "Work Out",
+      "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
     },
     {
       "added_at": "2023-08-24 13:39:18",
@@ -291,6 +275,22 @@
       "duration_ms": 219333,
       "name": "Ni**as In Paris",
       "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
+    },
+    {
+      "added_at": "2023-08-24 13:39:18",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "Nice For What",
+      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
     },
     {
       "added_at": "2023-08-24 13:39:18",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-08-24 13:39:18",
       "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 127546,
-      "name": "Invincible",
-      "url": "https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge"
-    },
-    {
-      "added_at": "2023-08-24 13:39:18",
-      "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 139741,
       "name": "WHATS POPPIN",
       "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
+    },
+    {
+      "added_at": "2023-08-24 13:39:18",
+      "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 127546,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge"
     },
     {
       "added_at": "2023-08-24 13:39:18",
@@ -447,26 +447,6 @@
     {
       "added_at": "2023-08-24 13:39:18",
       "album": {
-        "name": "The Thrill",
-        "url": "https://open.spotify.com/album/4NtEHyzC02jvTLMERHn6Rw"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "The Thrill",
-      "url": "https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3"
-    },
-    {
-      "added_at": "2023-08-24 13:39:18",
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2023-08-24 13:39:18",
+      "album": {
+        "name": "The Thrill",
+        "url": "https://open.spotify.com/album/4NtEHyzC02jvTLMERHn6Rw"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3"
     },
     {
       "added_at": "2023-08-24 13:39:18",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-08-24 13:39:18",
       "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 244679,
+      "name": "Lucky You (feat. Joyner Lucas)",
+      "url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
+    },
+    {
+      "added_at": "2023-08-24 13:39:18",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 201963,
       "name": "Thiago Silva",
       "url": "https://open.spotify.com/track/3DKCTIiJ97bS9TGiqcABjo"
-    },
-    {
-      "added_at": "2023-08-24 13:39:18",
-      "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        }
-      ],
-      "duration_ms": 244679,
-      "name": "Lucky You (feat. Joyner Lucas)",
-      "url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
     },
     {
       "added_at": "2023-08-24 13:39:18",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-08-24 13:39:18",
       "album": {
+        "name": "Thot Shit",
+        "url": "https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "Thot Shit",
+      "url": "https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n"
+    },
+    {
+      "added_at": "2023-08-24 13:39:18",
+      "album": {
         "name": "Heavy Is The Head",
         "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 174960,
       "name": "Show Out (with Skepta & Pop Smoke)",
       "url": "https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv"
-    },
-    {
-      "added_at": "2023-08-24 13:39:18",
-      "album": {
-        "name": "Thot Shit",
-        "url": "https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "Thot Shit",
-      "url": "https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n"
     },
     {
       "added_at": "2023-08-24 13:39:18",

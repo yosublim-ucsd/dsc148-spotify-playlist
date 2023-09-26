@@ -2,9 +2,9 @@
 
 ### [Oye Pop](https://open.spotify.com/playlist/37i9dQZF1DX92MLsP3K1fI)
 
-> ¡Sube el volumen y disfruta del pop más chicloso! Fey en portada.
+> ¡Sube el volumen y disfruta del pop más chicloso! Kim Loaiza y Pailita en portada.
 
-227 songs - 11 hr 32 min
+230 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML) | 3:15 | 2022-10-31 | 2023-06-28 |
 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 | 2023-02-18 |  |
 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 | 2023-07-28 | 2023-09-09 |
-| [Deja Vu](https://open.spotify.com/track/0oxIDAezR6gXBGlOzNWNcL) | [Tinu x Emi](https://open.spotify.com/artist/4jj6yiPO9GV5q1ciyBSBew) | [Deja Vu](https://open.spotify.com/album/3VUsHzJ9rtyRNMliIPo3CY) | 3:05 | 2023-09-08 |  |
+| [Deja Vu](https://open.spotify.com/track/0oxIDAezR6gXBGlOzNWNcL) | [Tinu x Emi](https://open.spotify.com/artist/4jj6yiPO9GV5q1ciyBSBew) | [Deja Vu](https://open.spotify.com/album/3VUsHzJ9rtyRNMliIPo3CY) | 3:05 | 2023-09-08 | 2023-09-26 |
 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 | 2022-05-20 | 2023-09-09 |
 | [Desamor Feliz \(Pura Sal\)](https://open.spotify.com/track/1zXfyjLOsTOvYdkGlXprWE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Desamor Feliz \(Pura Sal\)](https://open.spotify.com/album/7sF2hlKgjWhBNMd66wu1T8) | 2:40 | 2022-02-04 | 2022-07-29 |
 | [dEsANiMaO :\(](https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [dEsANiMaO :\(](https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ) | 3:07 | 2023-07-28 |  |
@@ -108,7 +108,7 @@
 | [Llámame Si Me Necesitas](https://open.spotify.com/track/7jOSpyFVMO1W6fLwqSfE9u) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Stereo Hits Vol\. 2](https://open.spotify.com/album/7B1NXzhjtsMbTJRHSdYgVN) | 4:58 | 2023-05-06 | 2023-08-25 |
 | [Lo Que Dices Tú](https://open.spotify.com/track/2c9cEgblLoMa4l4Q0kIKOL) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0), [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [Lo Que Dices Tú](https://open.spotify.com/album/4rpMgn8Pcz7hTtlQkePys1) | 3:10 | 2022-02-18 | 2022-07-04 |
 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 | 2023-05-03 |  |
-| [Love](https://open.spotify.com/track/3hlour26oqaPGvUeuRxwtl) | [Madre Tribu](https://open.spotify.com/artist/4vstyk846BlrimFAOyyfE5), [Joel Alonso](https://open.spotify.com/artist/1XumMCEvo5nrwVxbylrAqa) | [Love](https://open.spotify.com/album/37pwL5ZBHAq5juetHeFyt4) | 3:06 | 2023-09-08 |  |
+| [Love](https://open.spotify.com/track/3hlour26oqaPGvUeuRxwtl) | [Madre Tribu](https://open.spotify.com/artist/4vstyk846BlrimFAOyyfE5), [Joel Alonso](https://open.spotify.com/artist/1XumMCEvo5nrwVxbylrAqa) | [Love](https://open.spotify.com/album/37pwL5ZBHAq5juetHeFyt4) | 3:06 | 2023-09-08 | 2023-09-26 |
 | [Lovelove U](https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Lovelove U](https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv) | 2:55 | 2023-09-08 |  |
 | [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 | 2022-11-14 |  |
 | [Luna](https://open.spotify.com/track/2yPjrueRrY4svAPIxwLH6P) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Luna](https://open.spotify.com/album/21owSKMyhHoeYmPRihaDyL) | 2:46 | 2022-02-04 | 2022-07-22 |
@@ -151,6 +151,7 @@
 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-05-06 |  |
 | [NTDDP](https://open.spotify.com/track/2qcwhO9GA5CgOtgtvWW0Wa) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [NTDDP](https://open.spotify.com/album/0VO1hYeausUaErYssR77vQ) | 2:56 | 2022-02-04 | 2022-07-25 |
 | [Nuestro Amor](https://open.spotify.com/track/4pVU2WuPxcJGwj4qLt1jwg) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri) | [Nuestro Amor](https://open.spotify.com/album/6RpfB6bVBvtoroyzFNFRCp) | 3:42 | 2022-02-04 | 2023-02-07 |
+| [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 | 2023-09-25 |  |
 | [Oportunidad](https://open.spotify.com/track/6wzdMhX1spHmcZiMfQcA7R) | [Made](https://open.spotify.com/artist/5yHZluiOoBTPf6QyT0LzY6) | [Oportunidad](https://open.spotify.com/album/7Gyf6o9zasu7KqfQPmy9pf) | 3:05 | 2022-02-04 | 2022-06-15 |
 | [Pa' Siempre](https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz) | [Daniel Vargas](https://open.spotify.com/artist/5HQUcb8L2YyV1NHeT0lFF5) | [Pa' Siempre](https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM) | 2:19 | 2022-06-06 | 2022-07-27 |
 | [PAPACITO](https://open.spotify.com/track/4ZhaXqKoJS8pImREt0PfmZ) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [PAPACITO](https://open.spotify.com/album/3iaITn4LTpLei5OnIHDZ2E) | 3:03 | 2022-02-04 | 2022-06-21 |
@@ -161,6 +162,7 @@
 | [Pasajero](https://open.spotify.com/track/6EBd69hWC96BKJ0Ts92riX) | [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [Pasajero](https://open.spotify.com/album/5DGSn1ipSRxFMgleIALTXL) | 2:52 | 2022-03-11 | 2022-05-20 |
 | [Pase Lo Que Pase](https://open.spotify.com/track/3oVkYxmpw1VZcLumrMNywZ) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Pase Lo Que Pase](https://open.spotify.com/album/0xZEnws967dqNnWQ7YjqqY) | 3:05 | 2022-02-18 | 2022-07-22 |
 | [Pasos de Gigante](https://open.spotify.com/track/6DlhPEHyYrrZCs9rTIz6ho) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Pasos de Gigante](https://open.spotify.com/album/2hHyswHGfr2UQ1jdVUlMsP) | 3:41 | 2022-10-31 | 2023-04-01 |
+| [PATÁN](https://open.spotify.com/track/5whquDzWNIFu4d7ERTVdao) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [PATÁN](https://open.spotify.com/album/4WOnb20nJR9A05CkPpQnkM) | 2:55 | 2023-09-25 |  |
 | [Pensando En Ti](https://open.spotify.com/track/0DA7ylqBTevQpc5ytIkaF6) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Ciencia Fricción](https://open.spotify.com/album/5tHACDBVaSJ1j9np1vAmsF) | 2:50 | 2022-07-26 | 2022-11-02 |
 | [Pereza](https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Pereza](https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB) | 3:09 | 2022-07-29 | 2022-12-25 |
 | [Perreito](https://open.spotify.com/track/0CukGWJFEpaiQYic5R1iMq) | [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl) | [Prezea](https://open.spotify.com/album/56GTiqI6vHTARWl7nkGusX) | 2:56 | 2022-02-04 | 2022-06-08 |
@@ -229,7 +231,8 @@
 | [Vamos A Mi Ritmo](https://open.spotify.com/track/4ySt3gOb6ioa2R8C9hlojC) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Isabela Souza](https://open.spotify.com/artist/2sSeIHqgpFdFg83U8kYnHY) | [Vamos A Mi Ritmo](https://open.spotify.com/album/6UanWjcM4BtuOxyUX6KbTc) | 3:04 | 2022-02-04 | 2022-07-10 |
 | [Vas A Querer](https://open.spotify.com/track/4ioNX7DDXjwVXeX0gxIcHo) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Vas A Querer](https://open.spotify.com/album/3PLGh2ZWumnBTX6iGV6wqc) | 2:59 | 2022-04-22 | 2022-07-21 |
 | [VELOZzzz](https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [VELOZzzz](https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN) | 3:04 | 2022-10-31 | 2023-02-11 |
-| [Veneno](https://open.spotify.com/track/1Pw3YZofZjTNuxrGUB3wgY) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Veneno](https://open.spotify.com/album/45yr2xU2lJ8Gdcb9axOPXP) | 2:24 | 2023-08-25 |  |
+| [Veneno](https://open.spotify.com/track/1Pw3YZofZjTNuxrGUB3wgY) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Veneno](https://open.spotify.com/album/45yr2xU2lJ8Gdcb9axOPXP) | 2:24 | 2023-08-25 | 2023-09-26 |
+| [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 | 2023-09-25 |  |
 | [X Tu Casa](https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:43 | 2023-04-07 | 2023-07-29 |
 | [Ya No Dueles](https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3) | [Dennis Arana](https://open.spotify.com/artist/091aVX0Jur4ClmN1k1VJVw), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Ya No Dueles](https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S) | 2:48 | 2022-02-04 | 2023-01-29 |
 | [Yo Soy](https://open.spotify.com/track/35GAgahp5pdRfL5eq5b81i) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Yo Soy](https://open.spotify.com/album/4oz9KbvSo3SQOhHITyYhT2) | 2:49 | 2022-02-04 | 2023-04-01 |

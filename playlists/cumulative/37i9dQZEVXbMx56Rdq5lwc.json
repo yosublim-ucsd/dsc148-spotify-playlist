@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290616,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
+    },
+    {
+      "album": {
         "name": "Ap\u017eavai",
         "url": "https://open.spotify.com/album/5q4RJ00dwxSEh7tM3XrRy0"
       },
@@ -4200,7 +4218,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
@@ -9969,6 +9987,24 @@
     },
     {
       "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122338,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
+    },
+    {
+      "album": {
         "name": "Jei Leisi",
         "url": "https://open.spotify.com/album/1zaNQRogEqdKb7gZHRwZDa"
       },
@@ -9984,7 +10020,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 207641,
       "name": "Jei Leisi",
       "url": "https://open.spotify.com/track/6sgzKRJ1C38I4pmI1TCnSN"
@@ -14208,7 +14244,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 156841,
       "name": "My Flex",
       "url": "https://open.spotify.com/track/67AgOrAogVDA4tvtWnSGcR"
@@ -14266,6 +14302,24 @@
       "duration_ms": 389107,
       "name": "My Little Love",
       "url": "https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "album": {
@@ -16164,7 +16218,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 141900,
       "name": "Pasaka",
       "url": "https://open.spotify.com/track/7CA64sreJrxXDrbkIMi8ge"
@@ -18752,7 +18806,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 192000,
       "name": "Saul\u0117 (Remix)",
       "url": "https://open.spotify.com/track/3VRnfTLn09r8NOtn4682Ua"

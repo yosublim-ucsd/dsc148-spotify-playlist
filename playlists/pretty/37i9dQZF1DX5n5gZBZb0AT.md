@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,125 likes - 40 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,690 likes - 40 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 22 | [RITMO DE TREINO](https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT) | [YOUTHISENDING](https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX), [MC Pequeno Diamante](https://open.spotify.com/artist/7jqVVRFgBPvHWLnUwfRF6C) | [RITMO DE TREINO](https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz) | 1:42 |
 | 23 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
 | 24 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 2:00 |
-| 25 | [MTG \- PISTA TOMA](https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W) | [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [John Bis.T](https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx) | [MTG \- PISTA TOMA](https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0) | 2:16 |
-| 26 | [Brazilian Phonk Mano](https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj) | 1:24 |
+| 25 | [Brazilian Phonk Mano](https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj) | 1:24 |
+| 26 | [MTG \- PISTA TOMA](https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W) | [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [John Bis.T](https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx) | [MTG \- PISTA TOMA](https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0) | 2:16 |
 | 27 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 |
-| 28 | [WAKE UP!](https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [WAKE UP!](https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l) | 2:22 |
-| 29 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
-| 30 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 |
+| 28 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
+| 29 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 |
+| 30 | [WAKE UP!](https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [WAKE UP!](https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l) | 2:22 |
 | 31 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
 | 32 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
 | 33 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 39 | [Bate Forte e Dança](https://open.spotify.com/track/3WgeWkA124RA02ACzWai6Y) | [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g), [DJ Ritmo55](https://open.spotify.com/artist/1IiGoWBzlPAtb1tuN1ux1E) | [Bate Forte e Dança](https://open.spotify.com/album/0iRwZmvXcBxvKWJtF6XWLD) | 1:50 |
 | 40 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
 
-Snapshot ID: `MCwxODEwMDg4OTcwNWNmNjdiMmYzYTAzNzIxNDI5NTIyNWFiYzg3M2Qz`
+Snapshot ID: `MCxhMDQ3NDk3OTRiN2QzOWU5M2RlY2QyOTVjYmJjYjY5YjMzMWZhOGI3`

@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-844 songs - 1 day 21 hr 27 min
+846 songs - 1 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [Journée de merde.](https://open.spotify.com/track/2GzLKB9LnboEfhKxFHuRfC) | [The Caracal Project](https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN) | [Journée de merde.](https://open.spotify.com/album/6SITryF4euMgRubCc3slzm) | 3:41 | 2022-12-16 | 2022-12-27 |
 | [Judgment](https://open.spotify.com/track/6cNI4u2l16hLBrbwTV8FMn) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [ARIA VEIL](https://open.spotify.com/artist/545ajuo5TGZsKToAf1CS6j) | [UNIVERSE](https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso) | 5:14 | 2022-07-01 | 2022-07-29 |
 | [JUPITER \- Slow Magic Juno Remix](https://open.spotify.com/track/2m35MFQGUaEJeYlI8C7HBl) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [JUPITER \(Slow Magic Juno Remix\)](https://open.spotify.com/album/0HgzxRbs60fJGk6ynToiOB) | 2:43 | 2022-01-14 | 2022-09-15 |
+| [Just A Game](https://open.spotify.com/track/29HmyW9lUWi4UbuIwrlErO) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [CØRT](https://open.spotify.com/artist/72uc6BIn48ZMOwbS4hMlGU) | [Just A Game](https://open.spotify.com/album/5YIwaeaVvpkxpheIfJQZMj) | 2:17 | 2023-09-25 |  |
 | [Just Burn VIP \- Message North Remix](https://open.spotify.com/track/6C1cBvvl9waNnkaAxKndPy) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F), [Alter.](https://open.spotify.com/artist/6QbSwCeNaIhbfp1jpZ02nZ), [Message North](https://open.spotify.com/artist/0Ah39SwMEBX3eacVMTGiUm) | [Just Burn VIP \(Message North Remix\)](https://open.spotify.com/album/0N6KZyZ3oTMT8lxZDgURLj) | 3:56 | 2022-05-06 | 2022-06-04 |
 | [Just Playin'](https://open.spotify.com/track/3XsAyr3P0DQ53lDfPixDWS) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Balloons](https://open.spotify.com/album/2HzFi3G0lKXDTSVECN5eKS) | 2:27 | 2022-08-01 | 2022-09-07 |
 | [Just Say It](https://open.spotify.com/track/29IvBvGq3vxRQ13fbMESYV) | [Charlie Crown](https://open.spotify.com/artist/3UB9E49EhIaD8mr9qJPe6r), [Helen Tess](https://open.spotify.com/artist/6CgLAgCJ6veWxsHIBFqc7P) | [Just Say It](https://open.spotify.com/album/7BFI5Dvh36EwEDwcF3a5m8) | 2:30 | 2022-05-06 | 2022-06-04 |
@@ -507,6 +508,7 @@
 | [Nemesis Pt\. II](https://open.spotify.com/track/6F6VliXzfgjCsDMAQ37cTQ) | [Ryllz](https://open.spotify.com/artist/4CmWCpaevTZBnw2QHxmBpJ), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Nemesis Pt\. II](https://open.spotify.com/album/1zePUd3vBR4TDum2iDRhlG) | 2:55 | 2022-11-15 | 2022-11-24 |
 | [Neutron](https://open.spotify.com/track/6f0ahiwbNW5NYzlvolTWQ2) | [BEATSMASH](https://open.spotify.com/artist/7FFbcFSr2g8ylh2P0S7TTB), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Neutron](https://open.spotify.com/album/0MxOlBzmmQgVng4oG86V9M) | 3:04 | 2023-02-19 | 2023-02-22 |
 | [Never Be Like You \(feat\. Kai\)](https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 3:54 | 2022-01-14 | 2022-09-15 |
+| [Never Letting Go \- Vince Blais Remix](https://open.spotify.com/track/68U7LDazhPIBcoZqkspRHi) | [Future Magic](https://open.spotify.com/artist/6tZN3dkaAZSrv7ErRcCymN), [Nukage](https://open.spotify.com/artist/1hRdVFNXUacXeVhnTbhTH1), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc), [Vince Blais](https://open.spotify.com/artist/10gKXDvHvRN9O9VjYbR1zu) | [Never Letting Go \(Vince Blais Remix\)](https://open.spotify.com/album/7enodGGGgRKtAKa6TqSO3H) | 3:04 | 2023-09-26 |  |
 | [New Rules \- Alison Wonderland Remix](https://open.spotify.com/track/5Fx2UrcQobzM1h2ihdhsmm) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [New Rules \(Alison Wonderland Remix\)](https://open.spotify.com/album/51pv0ZowpwnstNG77uLoEV) | 4:23 | 2023-02-21 | 2023-05-04 |
 | [Next 2 Me](https://open.spotify.com/track/34a9Y66tCok1S8kXgmDl0y) | [Oxlo](https://open.spotify.com/artist/7HwebOTQA4h0tCSTQCNKTK) | [Next 2 Me](https://open.spotify.com/album/5Yqz4CQBC2Fu3TFaLAAFsR) | 2:51 | 2023-07-28 | 2023-09-23 |
 | [Night Falls](https://open.spotify.com/track/3ZNhFhshMLjGQraO4pvpDR) | [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Vo Williams](https://open.spotify.com/artist/18KIg6ST1nUjVUvAlEB6ak) | [Night Falls](https://open.spotify.com/album/6IATtq9O7Y7NzciAsFyIko) | 3:45 | 2022-01-20 | 2022-02-10 |

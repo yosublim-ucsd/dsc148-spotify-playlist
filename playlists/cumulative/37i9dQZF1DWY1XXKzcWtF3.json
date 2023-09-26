@@ -1209,7 +1209,7 @@
     },
     {
       "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "name": "Wake Up Everybody",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
       "artists": [
@@ -1226,7 +1226,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 363973,
-      "name": "Don't Leave Me This Way (feat. Teddy Pendergrass)",
+      "name": "Don't Leave Me This Way",
       "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
     },
     {
@@ -5735,6 +5735,28 @@
     },
     {
       "album": {
+        "name": "Wake Up Everybody",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452773,
+      "name": "Wake Up Everybody",
+      "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
+    },
+    {
+      "album": {
         "name": "The Essential Teddy Pendergrass",
         "url": "https://open.spotify.com/album/735qNwSoGzOLyItfQQ01RL"
       },
@@ -5776,28 +5798,6 @@
       "duration_ms": 451400,
       "name": "Wake up Everybody (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/763jJ8T1utfvNqz1WRDzx4"
-    },
-    {
-      "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "date_added": "2018-02-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 452773,
-      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
     },
     {
       "album": {

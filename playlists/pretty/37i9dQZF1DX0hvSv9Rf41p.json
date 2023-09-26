@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Excision & Subtronics.",
-  "num_followers": 974744,
+  "num_followers": 974760,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjVkYjI2MTJiNzkxMTlhM2RhYzlmNWFlYjI1ZjRhMDVkNWE3NWY5",
+  "snapshot_id": "MCw0M2IxYWRkYjA2MDBjNDNjM2QxMThmM2QyMWQ5ODY5ZmI3NTNiZDM3",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -351,30 +351,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Quest For Fire",
-        "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
-        }
-      ],
-      "duration_ms": 126774,
-      "name": "RATATA",
-      "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Where You Are (GRiZ Remix)",
         "url": "https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 176548,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Quest For Fire",
+        "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+        }
+      ],
+      "duration_ms": 126774,
+      "name": "RATATA",
+      "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Revenge of the Orchestra",
-        "url": "https://open.spotify.com/album/3OiJDp6Z6O3raJxqmBNuBo"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Magugu",
-          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
-        }
-      ],
-      "duration_ms": 230476,
-      "name": "Revenge of the Orchestra",
-      "url": "https://open.spotify.com/track/1LeeXhb4CsZZAxb7VzRWng"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "GASOLINA & COCAINA",
         "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 154285,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Revenge of the Orchestra",
+        "url": "https://open.spotify.com/album/3OiJDp6Z6O3raJxqmBNuBo"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+        }
+      ],
+      "duration_ms": 230476,
+      "name": "Revenge of the Orchestra",
+      "url": "https://open.spotify.com/track/1LeeXhb4CsZZAxb7VzRWng"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -643,6 +643,30 @@
       "duration_ms": 243238,
       "name": "Scared",
       "url": "https://open.spotify.com/track/7DgRZtTKvoa6PlbOUbsU5N"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Don't Look Down (Hold On)",
+        "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Don't Look Down (Hold On)",
+      "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -703,30 +727,6 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Don't Look Down (Hold On)",
-        "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Don't Look Down (Hold On)",
-      "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Uh Uh",
-        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        }
-      ],
-      "duration_ms": 193098,
-      "name": "Uh Uh",
-      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "You Found Me",
         "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
       },
@@ -859,6 +839,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Uh Uh",
+        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        }
+      ],
+      "duration_ms": 193098,
+      "name": "Uh Uh",
+      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Microworlds",
         "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "dontstopme!",
-        "url": "https://open.spotify.com/album/3GBBjfai3AbK7ma8hDU8ic"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "dontstopme!",
-      "url": "https://open.spotify.com/track/6CNXcjAeOvjTwJeNCEdfWs"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "DREAMING",
         "url": "https://open.spotify.com/album/4j4lXlRPk0dcQZl8UqMorB"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 231724,
       "name": "DREAMING",
       "url": "https://open.spotify.com/track/1XmNeOPvxlWupeok8TzNvm"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "dontstopme!",
+        "url": "https://open.spotify.com/album/3GBBjfai3AbK7ma8hDU8ic"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "dontstopme!",
+      "url": "https://open.spotify.com/track/6CNXcjAeOvjTwJeNCEdfWs"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Of Two Minds",
-        "url": "https://open.spotify.com/album/3WfUE3XbaPkBOkRF3wTYMy"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Rhode",
-          "url": "https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi"
-        }
-      ],
-      "duration_ms": 279069,
-      "name": "Of Two Minds",
-      "url": "https://open.spotify.com/track/7Btth4NK0ICZC9DjYZPxgg"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "OH LAWD",
         "url": "https://open.spotify.com/album/4qKjQ6GfhuN7WRxOHdB7U4"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 268800,
       "name": "OH LAWD",
       "url": "https://open.spotify.com/track/7lKkzOnRvY7OeLSFWBwlii"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Of Two Minds",
+        "url": "https://open.spotify.com/album/3WfUE3XbaPkBOkRF3wTYMy"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Rhode",
+          "url": "https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi"
+        }
+      ],
+      "duration_ms": 279069,
+      "name": "Of Two Minds",
+      "url": "https://open.spotify.com/track/7Btth4NK0ICZC9DjYZPxgg"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1383,6 +1383,34 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Shapeshifter (feat. Styles of Beyond) [Zardonic & Pythius Remix]",
+        "url": "https://open.spotify.com/album/2tc5jcJXOOaSLgGpa2ELcG"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        },
+        {
+          "name": "Styles Of Beyond",
+          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
+        },
+        {
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        },
+        {
+          "name": "Pythius",
+          "url": "https://open.spotify.com/artist/0CRJK2gwHjs3IKm4uhjNTR"
+        }
+      ],
+      "duration_ms": 304460,
+      "name": "Shapeshifter (feat. Styles of Beyond) - Zardonic & Pythius Remix",
+      "url": "https://open.spotify.com/track/2UuHVdvmK8hcjLF6ek117I"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "GENESIS",
         "url": "https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v"
       },
@@ -1419,50 +1447,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Money Dance",
-        "url": "https://open.spotify.com/album/0xYuvy9cAFsizq7UA1vG4S"
-      },
-      "artists": [
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        }
-      ],
-      "duration_ms": 138630,
-      "name": "Money Dance",
-      "url": "https://open.spotify.com/track/2F9oUWhetYspt7jiVpZgSX"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Shapeshifter (feat. Styles of Beyond) [Zardonic & Pythius Remix]",
-        "url": "https://open.spotify.com/album/2tc5jcJXOOaSLgGpa2ELcG"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        },
-        {
-          "name": "Styles Of Beyond",
-          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
-        },
-        {
-          "name": "Zardonic",
-          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
-        },
-        {
-          "name": "Pythius",
-          "url": "https://open.spotify.com/artist/0CRJK2gwHjs3IKm4uhjNTR"
-        }
-      ],
-      "duration_ms": 304460,
-      "name": "Shapeshifter (feat. Styles of Beyond) - Zardonic & Pythius Remix",
-      "url": "https://open.spotify.com/track/2UuHVdvmK8hcjLF6ek117I"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/7MgxcmKEBi7OSNvdep5nsF"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 199200,
       "name": "Mine",
       "url": "https://open.spotify.com/track/169ksK750ctId2IBzlwVef"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Money Dance",
+        "url": "https://open.spotify.com/album/0xYuvy9cAFsizq7UA1vG4S"
+      },
+      "artists": [
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "duration_ms": 138630,
+      "name": "Money Dance",
+      "url": "https://open.spotify.com/track/2F9oUWhetYspt7jiVpZgSX"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Floorspace",
-        "url": "https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Divination",
-      "url": "https://open.spotify.com/track/3NALJxFujUWmPkvfEhthn0"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Play With You",
         "url": "https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 214005,
       "name": "Take Your Throne",
       "url": "https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Floorspace",
+        "url": "https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Divination",
+      "url": "https://open.spotify.com/track/3NALJxFujUWmPkvfEhthn0"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1571,22 +1571,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Dead Meat",
-        "url": "https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ"
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/5gPc52ohFMwjEGcV3sQu4N"
       },
       "artists": [
         {
-          "name": "Esseks",
-          "url": "https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ"
+          "name": "Dirt Monkey",
+          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
         },
         {
-          "name": "tiedye ky",
-          "url": "https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x"
+          "name": "Jantsen",
+          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
         }
       ],
-      "duration_ms": 165339,
-      "name": "Dead Meat",
-      "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
+      "duration_ms": 218666,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/0oeSHt8QrW3olWPkFO4WbG"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1611,26 +1615,42 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/5gPc52ohFMwjEGcV3sQu4N"
+        "name": "Dead Meat",
+        "url": "https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ"
       },
       "artists": [
         {
-          "name": "Dirt Monkey",
-          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+          "name": "Esseks",
+          "url": "https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ"
         },
         {
-          "name": "Jantsen",
-          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
-        },
-        {
-          "name": "MC Spyda",
-          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+          "name": "tiedye ky",
+          "url": "https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x"
         }
       ],
-      "duration_ms": 218666,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/0oeSHt8QrW3olWPkFO4WbG"
+      "duration_ms": 165339,
+      "name": "Dead Meat",
+      "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/3tS6hhl22D2BWjA7Y0Vf35"
+      },
+      "artists": [
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        },
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        }
+      ],
+      "duration_ms": 294653,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/0SUc7tyzR0jSTBEElIzqxB"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1671,26 +1691,6 @@
       "duration_ms": 240428,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/75eUZ1Em0I86W4RbBL8EZV"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/3tS6hhl22D2BWjA7Y0Vf35"
-      },
-      "artists": [
-        {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
-        },
-        {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        }
-      ],
-      "duration_ms": 294653,
-      "name": "Nonstop",
-      "url": "https://open.spotify.com/track/0SUc7tyzR0jSTBEElIzqxB"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Summer Of Saigon",
+        "url": "https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO"
+      },
+      "artists": [
+        {
+          "name": "Elephant Heart",
+          "url": "https://open.spotify.com/artist/2nwPBvsuf070C7KYSWoXbD"
+        }
+      ],
+      "duration_ms": 233452,
+      "name": "Summer Of Saigon",
+      "url": "https://open.spotify.com/track/5BWpRTmIud6QuaKxZI4Ilr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Rave Control",
         "url": "https://open.spotify.com/album/3w6uYN4OuJ09JLp0Hwjo9v"
       },
@@ -1819,6 +1835,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Dominate (Boombox Cartel Edit)",
+        "url": "https://open.spotify.com/album/6pyOAdOI2rY9eilAUn8tUI"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        },
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        }
+      ],
+      "duration_ms": 111040,
+      "name": "Dominate - Boombox Cartel Edit",
+      "url": "https://open.spotify.com/track/3HDTkL6fBNThcfeqKk8D17"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Arpeggio EP",
         "url": "https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu"
       },
@@ -1851,6 +1887,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "BORN TO DIE",
+        "url": "https://open.spotify.com/album/2Ke0BcTe2c3Dh5LRxzd4cs"
+      },
+      "artists": [
+        {
+          "name": "MVDNES",
+          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
+        }
+      ],
+      "duration_ms": 112128,
+      "name": "BORN TO DIE",
+      "url": "https://open.spotify.com/track/34pS1KVbdWpcckfWOIhdtI"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Hammer Time",
         "url": "https://open.spotify.com/album/5KtTHlM5BH0d0eMANZS39s"
       },
@@ -1871,38 +1923,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "BORN TO DIE",
-        "url": "https://open.spotify.com/album/2Ke0BcTe2c3Dh5LRxzd4cs"
-      },
-      "artists": [
-        {
-          "name": "MVDNES",
-          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
-        }
-      ],
-      "duration_ms": 112128,
-      "name": "BORN TO DIE",
-      "url": "https://open.spotify.com/track/34pS1KVbdWpcckfWOIhdtI"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Summer Of Saigon",
-        "url": "https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO"
-      },
-      "artists": [
-        {
-          "name": "Elephant Heart",
-          "url": "https://open.spotify.com/artist/2nwPBvsuf070C7KYSWoXbD"
-        }
-      ],
-      "duration_ms": 233452,
-      "name": "Summer Of Saigon",
-      "url": "https://open.spotify.com/track/5BWpRTmIud6QuaKxZI4Ilr"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Starfire",
         "url": "https://open.spotify.com/album/68her7Ju4UvZFtMXTsTIEj"
       },
@@ -1919,22 +1939,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Dominate (Boombox Cartel Edit)",
-        "url": "https://open.spotify.com/album/6pyOAdOI2rY9eilAUn8tUI"
+        "name": "Bring It Back (Spencer Ramsay Remix)",
+        "url": "https://open.spotify.com/album/2JVhngo2MEV6euWD4HqLZ7"
       },
       "artists": [
         {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
         },
         {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        },
+        {
+          "name": "Spencer Ramsay",
+          "url": "https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji"
         }
       ],
-      "duration_ms": 111040,
-      "name": "Dominate - Boombox Cartel Edit",
-      "url": "https://open.spotify.com/track/3HDTkL6fBNThcfeqKk8D17"
+      "duration_ms": 125851,
+      "name": "Bring It Back (Spencer Ramsay Remix)",
+      "url": "https://open.spotify.com/track/558wlAeGGjLBB1cua3OpSh"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1987,26 +2011,6 @@
       "duration_ms": 153160,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/0G62w7rw46fQnj2YP1kLY8"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "KILLA",
-        "url": "https://open.spotify.com/album/1xZ3vAVE835fY1Gi5O17Sa"
-      },
-      "artists": [
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "ESCARGOT",
-          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "KILLA",
-      "url": "https://open.spotify.com/track/1B8rygL2m0YFYXKfxNqsG1"
     }
   ],
   "unique_name": "Bass Arcade",

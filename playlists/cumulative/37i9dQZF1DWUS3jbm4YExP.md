@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-596 songs - 1 day 19 hr 9 min
+597 songs - 1 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Corre Riba, Corre Baixo](https://open.spotify.com/track/3ln5s4LFL2hRnpTCddKEST) | [Abel Lima](https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh) | [Space Echo \(Analog Africa No\. 20\)](https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz) | 3:08 | 2021-10-06 | 2022-07-09 |
 | [Cosmica Italiana](https://open.spotify.com/track/2MnoxB4cB4ahqYxVHiIPxV) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Cosmica Italiana](https://open.spotify.com/album/1GNIrKx3NgBQRsPihSf4qn) | 3:16 | 2021-10-06 | 2022-07-25 |
 | [Coup de foudre à Thessalonique](https://open.spotify.com/track/54ajuaWk3qWWM2IRfDKnul) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Coup de foudre à Thessalonique](https://open.spotify.com/album/2DUeBPypI4SmJ4Nr6HQQ4m) | 4:22 | 2021-10-06 | 2022-07-23 |
-| [Coup de foudre à Thessalonique](https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Bijou voyou caillou](https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14) | 4:22 | 2021-10-06 |  |
+| [Coup de foudre à Thessalonique](https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Bijou voyou caillou](https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14) | 4:22 | 2021-10-06 | 2023-09-26 |
 | [Criminal](https://open.spotify.com/track/58QTb74vjao3Wg99nb0Akr) | [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS), [Mambe Rodriguez](https://open.spotify.com/artist/7sAgoWclcaiAZyBQVIWd77) | [Criminal](https://open.spotify.com/album/4qibOzAneFCtZRApyluWq4) | 3:32 | 2022-02-15 | 2022-04-18 |
 | [Crux Australis](https://open.spotify.com/track/1pWWrnSxMW5DniwdPXDE3B) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0), [Man After Man](https://open.spotify.com/artist/1jxHgQ48lEj9OZ7o3y1HfQ), [Darío Abdala](https://open.spotify.com/artist/7CfkX18xoIBT9BAFZdh1m3) | [Crux Australis](https://open.spotify.com/album/5NnNrnljeZVpPsW2lPfg4M) | 5:06 | 2023-02-28 | 2023-04-21 |
 | [Cucu](https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Cucu](https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc) | 1:52 | 2023-01-03 | 2023-02-27 |
@@ -180,6 +180,7 @@
 | [Esperar pra Ver](https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 2:07 | 2021-10-06 |  |
 | [Esperar pra Ver](https://open.spotify.com/track/2M6H4fqf5olMjqzwwBzkEf) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 2:07 | 2021-10-06 | 2023-07-03 |
 | [Esperar Pra Ver](https://open.spotify.com/track/2gRtzGOxEsPaFLMEXGXYxy) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Beach Diggin’, Vol\. 1](https://open.spotify.com/album/2K2RVDtArhuNOc4HHDQ4oQ) | 2:08 | 2021-10-06 | 2022-07-29 |
+| [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 | 2023-09-26 |  |
 | [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/track/6GMd54cabubG2fdz438cmF) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx) | 3:40 | 2021-10-06 |  |
 | [Ethiopian Sunshower](https://open.spotify.com/track/0K6QOkv9bXA5MeM5t1TgIx) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Ethiopian Sunshower](https://open.spotify.com/album/4HxFubImC2L6UShJBYRJi1) | 3:07 | 2021-10-06 | 2022-07-24 |
 | [Every Trick in the Book](https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Every Trick in the Book](https://open.spotify.com/album/6jrEt6AdBe2mGDLg8iI4Dl) | 3:10 | 2021-10-06 |  |

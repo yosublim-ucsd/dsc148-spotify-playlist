@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268122,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4"
+    },
+    {
+      "album": {
         "name": "MYCELiUM",
         "url": "https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX"
       },
@@ -1825,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
+    },
+    {
+      "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
       },
@@ -1876,6 +1912,24 @@
       "duration_ms": 150791,
       "name": "Lose My Head",
       "url": "https://open.spotify.com/track/4KefSDm2uulCInC38hXKYj"
+    },
+    {
+      "album": {
+        "name": "Love Buzz",
+        "url": "https://open.spotify.com/album/5ZzgY4zglWsJAL1U4tkuiC"
+      },
+      "artists": [
+        {
+          "name": "Gaye Su Akyol",
+          "url": "https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262079,
+      "name": "Love Buzz",
+      "url": "https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i"
     },
     {
       "album": {
@@ -2164,7 +2218,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 240262,
       "name": "Mormor",
       "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
@@ -2448,6 +2502,24 @@
       "duration_ms": 152396,
       "name": "Palace",
       "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
+    },
+    {
+      "album": {
+        "name": "CHAI",
+        "url": "https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170595,
+      "name": "PARA PARA",
+      "url": "https://open.spotify.com/track/2gEoLrQPZowcrjZoETZ3J2"
     },
     {
       "album": {
@@ -2902,7 +2974,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 239586,
       "name": "Scapa Flow",
       "url": "https://open.spotify.com/track/1Qw8bC0vgxhLx1kLcNFEkk"
@@ -2996,7 +3068,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 210109,
       "name": "Sleeves Touch My Elbows",
       "url": "https://open.spotify.com/track/5lkOxIIuYsTgzPanava5CQ"
@@ -3227,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300122,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy"
+    },
+    {
+      "album": {
         "name": "hortel\u00e3",
         "url": "https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS"
       },
@@ -3274,7 +3364,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 226416,
       "name": "Terra Preta",
       "url": "https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy"

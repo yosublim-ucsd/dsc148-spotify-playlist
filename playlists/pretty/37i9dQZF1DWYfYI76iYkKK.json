@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 122857,
+  "num_followers": 122864,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzhmODUwZmMxMzJjNDI1MTY1MjM5YjZhZTU5MWYyNWYzZTcyYjkw",
+  "snapshot_id": "MCw2NjhkYWVlZmE5MjlkYjkzYzVmNTM0NDc5M2QxZWUyMzEzMjYxOGZk",
   "tracks": [
     {
       "added_at": "2023-09-21 16:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-09-21 16:00:00",
       "album": {
-        "name": "DEPART",
-        "url": "https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 250898,
-      "name": "\u8ba9\u6d6a\u6f2b\u4f5c\u4e3b",
-      "url": "https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X"
-    },
-    {
-      "added_at": "2023-09-21 16:00:00",
-      "album": {
         "name": "\u592a\u967d\u96e8",
         "url": "https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 200287,
       "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
       "url": "https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh"
+    },
+    {
+      "added_at": "2023-09-21 16:00:00",
+      "album": {
+        "name": "DEPART",
+        "url": "https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 250898,
+      "name": "\u8ba9\u6d6a\u6f2b\u4f5c\u4e3b",
+      "url": "https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X"
     },
     {
       "added_at": "2023-09-21 16:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-09-21 16:00:00",
       "album": {
-        "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
-        "url": "https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608"
-    },
-    {
-      "added_at": "2023-09-21 16:00:00",
-      "album": {
         "name": "\u660e\u5ba4",
         "url": "https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 259308,
       "name": "\u660e\u5ba4",
       "url": "https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m"
+    },
+    {
+      "added_at": "2023-09-21 16:00:00",
+      "album": {
+        "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
+        "url": "https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608"
     },
     {
       "added_at": "2023-09-21 16:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-09-21 16:00:00",
       "album": {
-        "name": "\u61c9\u8a72",
-        "url": "https://open.spotify.com/album/5G14836yEpzVp5ud2o05kB"
-      },
-      "artists": [
-        {
-          "name": "Naiwen Yang",
-          "url": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
-        }
-      ],
-      "duration_ms": 262466,
-      "name": "\u795d\u6211\u5e78\u798f",
-      "url": "https://open.spotify.com/track/12gRkmf9gFy5G6uDV9dQUH"
-    },
-    {
-      "added_at": "2023-09-21 16:00:00",
-      "album": {
         "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
         "url": "https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 270227,
       "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
       "url": "https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ"
+    },
+    {
+      "added_at": "2023-09-21 16:00:00",
+      "album": {
+        "name": "\u61c9\u8a72",
+        "url": "https://open.spotify.com/album/5G14836yEpzVp5ud2o05kB"
+      },
+      "artists": [
+        {
+          "name": "Naiwen Yang",
+          "url": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
+        }
+      ],
+      "duration_ms": 262466,
+      "name": "\u795d\u6211\u5e78\u798f",
+      "url": "https://open.spotify.com/track/12gRkmf9gFy5G6uDV9dQUH"
     },
     {
       "added_at": "2023-09-21 16:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-09-21 16:00:00",
       "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+        "name": "\u7d66\u5929\u738b\u661f",
+        "url": "https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY"
       },
       "artists": [
         {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+          "name": "Enno Cheng",
+          "url": "https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ"
         }
       ],
-      "duration_ms": 310933,
-      "name": "\u966a\u8457\u4f60",
-      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
+      "duration_ms": 225655,
+      "name": "\u5c31\u7b97\u6211\u653e\u68c4\u4e86\u4e16\u754c",
+      "url": "https://open.spotify.com/track/5U02MVv6SGMigHeyKYC309"
     },
     {
       "added_at": "2023-09-21 16:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-09-21 16:00:00",
       "album": {
-        "name": "\u7d66\u5929\u738b\u661f",
-        "url": "https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY"
-      },
-      "artists": [
-        {
-          "name": "Enno Cheng",
-          "url": "https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ"
-        }
-      ],
-      "duration_ms": 225655,
-      "name": "\u5c31\u7b97\u6211\u653e\u68c4\u4e86\u4e16\u754c",
-      "url": "https://open.spotify.com/track/5U02MVv6SGMigHeyKYC309"
-    },
-    {
-      "added_at": "2023-09-21 16:00:00",
-      "album": {
         "name": "\u4e00\u6a23\u7f8e\u9e97 (\u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 276559,
       "name": "\u4e00\u6a23\u7f8e\u9e97 - \u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf"
+    },
+    {
+      "added_at": "2023-09-21 16:00:00",
+      "album": {
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "\u966a\u8457\u4f60",
+      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
     },
     {
       "added_at": "2023-09-21 16:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-09-21 16:00:00",
       "album": {
-        "name": "\u8f7b\u8f7b(\u300a\u957f\u98ce\u6e21\u300b\u5f71\u89c6\u5267\u4e3b\u9898\u66f2)",
-        "url": "https://open.spotify.com/album/2ow2a2CTBCZpDQANUuMabi"
+        "name": "\u539f\u4f86\u6211\u5f88\u611b\u4f60 (\u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u540c\u540d\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq"
       },
       "artists": [
         {
-          "name": "Jane Zhang",
-          "url": "https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu"
+          "name": "\u6797\u5f65\u4fca",
+          "url": "https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih"
         }
       ],
-      "duration_ms": 256489,
-      "name": "\u8f7b\u8f7b(\u300a\u957f\u98ce\u6e21\u300b\u5f71\u89c6\u5267\u4e3b\u9898\u66f2)",
-      "url": "https://open.spotify.com/track/6tExCmPVJ7zc8PPwmz2b8p"
+      "duration_ms": 220032,
+      "name": "\u539f\u4f86\u6211\u5f88\u611b\u4f60 - \u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u540c\u540d\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

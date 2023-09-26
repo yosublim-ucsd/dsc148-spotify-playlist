@@ -4,7 +4,7 @@
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-353 songs - 22 hr 3 min
+356 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 | 2023-08-22 |  |
 | [Last Goodbye](https://open.spotify.com/track/0y5CnV2idm2KkQEudDjfDT) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 4:35 | 2023-09-21 |  |
 | [Leave \(Get Out\) \- 2018](https://open.spotify.com/track/6nIcGJK6Pj1ThzC6r8O8hA) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [JoJo \(2018\)](https://open.spotify.com/album/1kBeLaqLbXDFFnkYWH1ayn) | 3:59 | 2021-10-26 |  |
+| [Leaving School](https://open.spotify.com/track/6oCrFowcxTZaN1x0G8PYrN) | [Oli Julian](https://open.spotify.com/artist/0qv1thknD9ItYc1pzAnA2X) | [Sex Education \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1VcAvVYL9zcbObcqx8fQXj) | 1:22 | 2023-09-25 |  |
 | [Let It Be](https://open.spotify.com/track/3lv9TUA15PFRHtMaPhjKKj) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 3:30 | 2023-09-21 |  |
 | [Let's Go](https://open.spotify.com/track/11n9WYjhFVNwzfHtyTBZ8m) | [Bileo](https://open.spotify.com/artist/7tQUtCKjvswULFCA0Em0GM) | [You Can Win](https://open.spotify.com/album/6otkaIE1aWQcD4Nky3wVNX) | 4:24 | 2023-08-22 |  |
 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 | 2021-10-26 |  |
@@ -248,6 +249,7 @@
 | [Perhaps, Perhaps, Perhaps](https://open.spotify.com/track/0UsdtLayy7SqJ4rUsDMRk8) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [With A Smile And A Song](https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS) | 2:31 | 2023-08-22 |  |
 | [Piano Concerto No\. 2 in C Minor, Op\. 18: II\. Adagio sostenuto](https://open.spotify.com/track/09rSXt91Fe1b6ZBjKrbzhL) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi), [Paavo Järvi](https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO), [Czech Philharmonic](https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb) | [Rachmaninoff: Piano Concerto No\. 2 in C Minor, Op\. 18 & Piano Concerto No\. 3 in D Minor, Op\. 30](https://open.spotify.com/album/4no6O3D7VpSoyf6mzM1FZJ) | 10:55 | 2023-09-21 |  |
 | [Piddily Patter Patter](https://open.spotify.com/track/1lHv1I4n7nKOJI27o6XWCY) | [Nappy Brown](https://open.spotify.com/artist/7oR6vQt8KT2ZWUpC65jTha) | [Night Time Is The Right Time](https://open.spotify.com/album/1z6dHWh26VqiXmSaeYtOO4) | 2:03 | 2023-08-22 |  |
+| [Planet Zorg](https://open.spotify.com/track/4cTT6xZGgvkjdJBfCh2ocO) | [Oli Julian](https://open.spotify.com/artist/0qv1thknD9ItYc1pzAnA2X) | [Sex Education \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1VcAvVYL9zcbObcqx8fQXj) | 1:24 | 2023-09-25 |  |
 | [Praise You](https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 5:23 | 2021-10-26 |  |
 | [Prove It](https://open.spotify.com/track/4WOQGKUKdXkxJlhiTjO3H6) | [Lee Jones](https://open.spotify.com/artist/0QgdNN2RLEkqIBoQ3uMxbq) | [Eccentric Soul: The Kris Label](https://open.spotify.com/album/77CnvuNs785w7rqDyCMOaa) | 2:33 | 2023-08-22 |  |
 | [Pump Up The Jam](https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Pump Up The Jam](https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4) | 5:20 | 2023-08-22 |  |
@@ -266,6 +268,7 @@
 | [Satisfaction](https://open.spotify.com/track/1wOaxZDCJ5KDU0xExFlwUY) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Hardcore Devo, Vol\. 1 \(Vol\. 1 1974\-1977\)](https://open.spotify.com/album/2NBbkcByiCSYoDhKPp7b4b) | 3:00 | 2023-08-22 |  |
 | [Save a Prayer \- 2009 Remaster](https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:33 | 2023-08-22 |  |
 | [Save Me](https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Magnolia \(Music from the Motion Picture\)](https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV) | 4:34 | 2023-08-22 |  |
+| [School Morning](https://open.spotify.com/track/5DSfOglug2OzoF1dXecpkd) | [Oli Julian](https://open.spotify.com/artist/0qv1thknD9ItYc1pzAnA2X) | [Sex Education \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1VcAvVYL9zcbObcqx8fQXj) | 1:24 | 2023-09-25 |  |
 | [Seabird](https://open.spotify.com/track/7qw4F9ebIh2z1dSBpJMfdt) | [Alessi Brothers](https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1) | [The Best Of The Alessi Brothers](https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY) | 3:06 | 2023-09-21 |  |
 | [Semi\-Charmed Life](https://open.spotify.com/track/2YMT6pBts0m7U9wWJtk9Zh) | [Harley's Studio Band](https://open.spotify.com/artist/2YtlCd7k84kBjhnoqeFBPz) | [90s Alternative Rock Driving Mix](https://open.spotify.com/album/2HHkArbYcQSKso5XjN0BkY) | 3:40 | 2021-10-26 | 2022-11-13 |
 | [Semi\-Charmed Life](https://open.spotify.com/track/5asLLto8NOl6LKSxrSmGsb) | [The Pop Posse](https://open.spotify.com/artist/0R29IKlKkSEwROMnowTfuO) | [90s Throwback Party Playlist](https://open.spotify.com/album/3q8mzkYK9UbWXrIvgd8ZvZ) | 3:40 | 2021-10-26 |  |

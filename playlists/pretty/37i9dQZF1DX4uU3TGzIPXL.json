@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 548636,
+  "num_followers": 548678,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjdhYzExNjljMGEyMDdiMmNlYjQ1NDgyMmI3NTllMmQ3YjNjZGM5",
+  "snapshot_id": "MCwxOTRjYzM2ZWNjOTMwNDZhNDE2ZmZkYzNmNGVkZTRiYjU4OWE1ZWY5",
   "tracks": [
     {
       "added_at": "2023-06-16 18:37:43",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "What Is Love (Remixes)",
-        "url": "https://open.spotify.com/album/0qTVjeVP70YvQG4GctetOf"
-      },
-      "artists": [
-        {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "What Is Love - 7\" Mix",
-      "url": "https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 183733,
       "name": "Something Like That",
       "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "What Is Love (Remixes)",
+        "url": "https://open.spotify.com/album/0qTVjeVP70YvQG4GctetOf"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Cracked Rear View",
         "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
       },
@@ -1003,22 +987,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Stunt (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
-      },
-      "artists": [
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "One Week",
-      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Mack Daddy",
         "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
       },
@@ -1035,18 +1003,34 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
       "artists": [
         {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 252106,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Stunt (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "One Week",
+      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1063,6 +1047,22 @@
       "duration_ms": 259853,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 253295,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Violator | The 12\" Singles",
         "url": "https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 257630,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/71RkrTSvnL2Ke6xvYIMoOy"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 266000,
-      "name": "If You Had My Love",
-      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "702",
-        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
       "artists": [
         {
-          "name": "702",
-          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 166693,
-      "name": "Where My Girls At",
-      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
+      "duration_ms": 266000,
+      "name": "If You Had My Love",
+      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1651,6 +1635,22 @@
       "duration_ms": 324666,
       "name": "Fastlove, Pt. 1",
       "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "702",
+        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
     },
     {
       "added_at": "2023-06-16 18:37:43",

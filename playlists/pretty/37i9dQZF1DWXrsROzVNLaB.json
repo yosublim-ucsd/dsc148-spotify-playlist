@@ -1,12 +1,12 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 10973,
+  "num_followers": 10970,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDNlNjBlOGVmMTZiOTFjMjYzYjhmZTEwYTBiZjBiZWIxNDQ5ZmQ3",
+  "snapshot_id": "MCw1YTI5NWM2N2YyZDI3MGUwZmEzMmJhMDFkMjk2Yjg5M2M5Y2Y3ZGZi",
   "tracks": [
     {
       "added_at": "2023-04-02 08:21:16",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "The Narrow Sea",
-        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 313489,
-      "name": "O Rock Eternal",
-      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 307026,
       "name": "Christ Is Risen",
       "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "The Narrow Sea",
+        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 313489,
+      "name": "O Rock Eternal",
+      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Love Has A Name (Studio Version)",
-        "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 263878,
-      "name": "Love Has A Name - Studio Version",
-      "url": "https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Passion: Everything Glorious",
         "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 327400,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Love Has A Name (Studio Version)",
+        "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 263878,
+      "name": "Love Has A Name - Studio Version",
+      "url": "https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 427706,
-      "name": "The Wonderful Cross",
-      "url": "https://open.spotify.com/track/784qUrovUUH4jYQ811D6hF"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "God Be Praised (Live)",
         "url": "https://open.spotify.com/album/4ZU3Ago2HLOzRPTmg8TX2C"
       },
@@ -759,6 +739,26 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 427706,
+      "name": "The Wonderful Cross",
+      "url": "https://open.spotify.com/track/784qUrovUUH4jYQ811D6hF"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "Your Grace Finds Me (Live)",
         "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
       },
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "I Know That My Redeemer Lives",
-        "url": "https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "Laura Story",
-          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
-        }
-      ],
-      "duration_ms": 289569,
-      "name": "I Know That My Redeemer Lives",
-      "url": "https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Alive In You (Studio Version)",
         "url": "https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 239999,
       "name": "Alive In You - Studio Version",
       "url": "https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "I Know That My Redeemer Lives",
+        "url": "https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+        }
+      ],
+      "duration_ms": 289569,
+      "name": "I Know That My Redeemer Lives",
+      "url": "https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Blameless",
-        "url": "https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj"
-      },
-      "artists": [
-        {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
-        }
-      ],
-      "duration_ms": 234348,
-      "name": "Blameless",
-      "url": "https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Mercy Road",
         "url": "https://open.spotify.com/album/4NkTCWHns2QHBm6KW4ToMl"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "Blameless",
+        "url": "https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj"
+      },
+      "artists": [
+        {
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+        }
+      ],
+      "duration_ms": 234348,
+      "name": "Blameless",
+      "url": "https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "You Amaze Us",
         "url": "https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4"
       },
@@ -1043,26 +1043,6 @@
       "duration_ms": 242040,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Faithfulness (feat. Steffany Gretzinger)",
-      "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1119,6 +1099,26 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Faithfulness (feat. Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "Stars Go Dim",
         "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 278426,
       "name": "Doxology",
       "url": "https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1203,22 +1187,18 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Hymns Ancient And Modern (Live)",
-        "url": "https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA"
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Charlie Hall",
-          "url": "https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 280915,
-      "name": "How Great Thou Art - Live",
-      "url": "https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P"
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1239,6 +1219,26 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "Hymns Ancient And Modern (Live)",
+        "url": "https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Charlie Hall",
+          "url": "https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV"
+        }
+      ],
+      "duration_ms": 280915,
+      "name": "How Great Thou Art - Live",
+      "url": "https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "Echoes Of Wonder",
         "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
       },
@@ -1251,22 +1251,6 @@
       "duration_ms": 123700,
       "name": "Unveil My Eyes",
       "url": "https://open.spotify.com/track/3q2YCR0NGK1cTm9epl4q23"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 315520,
-      "name": "You Were On The Cross",
-      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1303,6 +1287,26 @@
       "duration_ms": 241573,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Ashes (feat. Chris McClarney)",
+        "url": "https://open.spotify.com/album/1SFDjdhnnT087ZPbKL33st"
+      },
+      "artists": [
+        {
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+        },
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 279903,
+      "name": "Ashes (feat. Chris McClarney)",
+      "url": "https://open.spotify.com/track/01F2MJzSFzD0Wqhg2bpmvG"
     }
   ],
   "unique_name": "Holy Week: Easter",

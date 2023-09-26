@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwq2EYhP9Qz.md) - [plain]
 
 > Our editors' favorites of the moment\. Save them to your collection before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,978 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,995 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwq2EYhP9Qz.md) - [plain]
 | 24 | [Garden \- SIDE B](https://open.spotify.com/track/4kJQFp0beCuAzlLfsKHGi0) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/11mzVM4ZtpOUxescgnFUsN) | 2:14 |
 | 25 | [Nuevo Mundo](https://open.spotify.com/track/0rGUJt1riX1jwcGBZxodVZ) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Nuevo Mundo](https://open.spotify.com/album/2wZ0viSCWjtiNdfYhuSVfI) | 3:23 |
 
-Snapshot ID: `MCwzNTY1YjM2OWEyYWE1ZTk4YzI2M2FmMGI2NGI5NmYwZGY2MzQwMzA0`
+Snapshot ID: `MCxiYWJmZTNiYWQ1ODVjYTU2NzY3NWM2N2E0ZTljYTI2ZWIyNDYwMWMw`

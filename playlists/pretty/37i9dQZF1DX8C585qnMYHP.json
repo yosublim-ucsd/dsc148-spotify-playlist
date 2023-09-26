@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Estrella del Sol on cover. Updates every Wednesday.",
-  "num_followers": 115469,
+  "num_followers": 115591,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTJkMDVjMzIwZWI3MDA1MWVmOTJiMTMwM2EyZDMyODVmODZjODI4",
+  "snapshot_id": "MCwxODY3OTAyYmI5YjA3Y2Q1MTg2OWNkZDlmZGExN2IxYWIzMTUyNjkz",
   "tracks": [
     {
       "added_at": "2023-09-13 15:55:38",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
     },
     {
-      "added_at": "2023-08-01 21:02:30",
-      "album": {
-        "name": "Ulaan",
-        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 321671,
-      "name": "Picture / Three Shadows",
-      "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Huele a Fraude",
@@ -719,6 +703,22 @@
       "duration_ms": 229602,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
+    },
+    {
+      "added_at": "2023-08-01 21:02:30",
+      "album": {
+        "name": "Ulaan",
+        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 321671,
+      "name": "Picture / Three Shadows",
+      "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Latency at Villa Medici",
-        "url": "https://open.spotify.com/album/1vlmGQpA3TDWvkMXzPCjnL"
-      },
-      "artists": [
-        {
-          "name": "Damsel Elysium",
-          "url": "https://open.spotify.com/artist/6ry5d65fbavBIbowSQAFfS"
-        }
-      ],
-      "duration_ms": 706000,
-      "name": "27 Glass Ceilings",
-      "url": "https://open.spotify.com/track/1b12pTqgdXTuD4GRSRFAQj"
-    },
-    {
       "added_at": "2023-06-28 01:00:55",
       "album": {
         "name": "Grace",
@@ -831,6 +815,22 @@
       "duration_ms": 212472,
       "name": "Way Things Aren't",
       "url": "https://open.spotify.com/track/0iupNUfxhGo1AEPlfHz4m6"
+    },
+    {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Latency at Villa Medici",
+        "url": "https://open.spotify.com/album/1vlmGQpA3TDWvkMXzPCjnL"
+      },
+      "artists": [
+        {
+          "name": "Damsel Elysium",
+          "url": "https://open.spotify.com/artist/6ry5d65fbavBIbowSQAFfS"
+        }
+      ],
+      "duration_ms": 706000,
+      "name": "27 Glass Ceilings",
+      "url": "https://open.spotify.com/track/1b12pTqgdXTuD4GRSRFAQj"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "ISSUES (INTRO)",
-        "url": "https://open.spotify.com/album/1Tu36GzevcVClV0M7AgLDf"
-      },
-      "artists": [
-        {
-          "name": "DJ MELL G",
-          "url": "https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX"
-        }
-      ],
-      "duration_ms": 262675,
-      "name": "ISSUES (INTRO)",
-      "url": "https://open.spotify.com/track/201Y0nLSCr6ql1ueJlMPsT"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
         "name": "melancholia blue",
         "url": "https://open.spotify.com/album/6pLL6zz2kgDSKHA8mNiPDn"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 219468,
       "name": "eclipse",
       "url": "https://open.spotify.com/track/5xKI8QNPS7txEM0eJTFWv6"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "ISSUES (INTRO)",
+        "url": "https://open.spotify.com/album/1Tu36GzevcVClV0M7AgLDf"
+      },
+      "artists": [
+        {
+          "name": "DJ MELL G",
+          "url": "https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX"
+        }
+      ],
+      "duration_ms": 262675,
+      "name": "ISSUES (INTRO)",
+      "url": "https://open.spotify.com/track/201Y0nLSCr6ql1ueJlMPsT"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/52e028KD9UrxvpunBicff3"
     },
     {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 277273,
-      "name": "hit",
-      "url": "https://open.spotify.com/track/3hIaXXHvDNuc3CV5TPaMX4"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "Everything I Was, Burning Slow",
@@ -959,6 +943,22 @@
       "duration_ms": 69899,
       "name": "Interlude i (oscillated)",
       "url": "https://open.spotify.com/track/5oFeDLjJeXkPxigBjU2etE"
+    },
+    {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 277273,
+      "name": "hit",
+      "url": "https://open.spotify.com/track/3hIaXXHvDNuc3CV5TPaMX4"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -1041,6 +1041,22 @@
       "url": "https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6"
     },
     {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 452207,
+      "name": "500 ascended",
+      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
+    },
+    {
       "added_at": "2023-06-07 04:04:27",
       "album": {
         "name": "Outbound 5.1",
@@ -1075,22 +1091,6 @@
       "duration_ms": 306937,
       "name": "Serduszko",
       "url": "https://open.spotify.com/track/7uE7jFI9QPPltoqp7Vh53J"
-    },
-    {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 452207,
-      "name": "500 ascended",
-      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/6lhPLGhKKLrPGhcV0G539S"
     },
     {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 303216,
+      "name": "humanus",
+      "url": "https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt"
+    },
+    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "Introduction / C (Featuring the Voice of Fred Moten)",
@@ -1171,6 +1187,22 @@
       "duration_ms": 263999,
       "name": "C (Featuring the Voice of Fred Moten)",
       "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Shoegaze 5G",
+        "url": "https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY"
+      },
+      "artists": [
+        {
+          "name": "alice does computer music",
+          "url": "https://open.spotify.com/artist/2rqLxilEsPgtee23MzJHPR"
+        }
+      ],
+      "duration_ms": 156415,
+      "name": "Alien Farmer",
+      "url": "https://open.spotify.com/track/383StcK6uDHtzkVUFfogqf"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1209,38 +1241,6 @@
       "url": "https://open.spotify.com/track/0Xidhto8UQzz9zurCQf5vj"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "Shoegaze 5G",
-        "url": "https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY"
-      },
-      "artists": [
-        {
-          "name": "alice does computer music",
-          "url": "https://open.spotify.com/artist/2rqLxilEsPgtee23MzJHPR"
-        }
-      ],
-      "duration_ms": 156415,
-      "name": "Alien Farmer",
-      "url": "https://open.spotify.com/track/383StcK6uDHtzkVUFfogqf"
-    },
-    {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 303216,
-      "name": "humanus",
-      "url": "https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt"
-    },
-    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "Hotel *****",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Sophia Oscillations",
-        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
-      },
-      "artists": [
-        {
-          "name": "Mission To The Sun",
-          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
-        }
-      ],
-      "duration_ms": 261433,
-      "name": "Attrition",
-      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/73YNaAGxipWa1Lqe3Y2Qf5"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 88756,
       "name": "Willkommen",
       "url": "https://open.spotify.com/track/2hlNKxlqObtksthAmbidXA"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Sophia Oscillations",
+        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
+      },
+      "artists": [
+        {
+          "name": "Mission To The Sun",
+          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
+        }
+      ],
+      "duration_ms": 261433,
+      "name": "Attrition",
+      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1409,6 +1409,22 @@
       "url": "https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm"
     },
     {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "Follow Your Heartbeat",
+        "url": "https://open.spotify.com/album/5UHqAEAoEJJr1G1uBvFNea"
+      },
+      "artists": [
+        {
+          "name": "Hidden Tapes",
+          "url": "https://open.spotify.com/artist/3xtRzawKtWqe3zKUdrek8b"
+        }
+      ],
+      "duration_ms": 171440,
+      "name": "Follow Your Heartbeat",
+      "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
+    },
+    {
       "added_at": "2023-08-23 14:01:12",
       "album": {
         "name": "drizzy drone",
@@ -1439,22 +1455,6 @@
       "duration_ms": 284000,
       "name": "Asleep",
       "url": "https://open.spotify.com/track/7fE3ZAc2j7Z5Y4gQwW1lB0"
-    },
-    {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "Follow Your Heartbeat",
-        "url": "https://open.spotify.com/album/5UHqAEAoEJJr1G1uBvFNea"
-      },
-      "artists": [
-        {
-          "name": "Hidden Tapes",
-          "url": "https://open.spotify.com/artist/3xtRzawKtWqe3zKUdrek8b"
-        }
-      ],
-      "duration_ms": 171440,
-      "name": "Follow Your Heartbeat",
-      "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1525,6 +1525,22 @@
       "url": "https://open.spotify.com/track/3pZtjbk8LVoThxiL3ZhWo3"
     },
     {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "MSCTY x V&A Dundee",
+        "url": "https://open.spotify.com/album/52KQDPfQuzUT5BD3j7mfno"
+      },
+      "artists": [
+        {
+          "name": "SHHE",
+          "url": "https://open.spotify.com/artist/6ZGz2mPPtMaFVKxMzjd8Pd"
+        }
+      ],
+      "duration_ms": 2699773,
+      "name": "~",
+      "url": "https://open.spotify.com/track/7a6GrnIsmcv0mqbNUMBLKe"
+    },
+    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "The Rot",
@@ -1555,22 +1571,6 @@
       "duration_ms": 297989,
       "name": "Summer Session #2",
       "url": "https://open.spotify.com/track/3s4cyKx2GqEcBNWzchZcKG"
-    },
-    {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "MSCTY x V&A Dundee",
-        "url": "https://open.spotify.com/album/52KQDPfQuzUT5BD3j7mfno"
-      },
-      "artists": [
-        {
-          "name": "SHHE",
-          "url": "https://open.spotify.com/artist/6ZGz2mPPtMaFVKxMzjd8Pd"
-        }
-      ],
-      "duration_ms": 2699773,
-      "name": "~",
-      "url": "https://open.spotify.com/track/7a6GrnIsmcv0mqbNUMBLKe"
     },
     {
       "added_at": "2023-09-13 15:55:38",

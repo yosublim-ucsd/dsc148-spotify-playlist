@@ -4,7 +4,7 @@
 
 > Everything in Texas is best! Lo que suena in the Lone Star state\. Cover: Grupo Frontera & Grupo Firme
 
-92 songs - 4 hr 40 min
+93 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,10 +69,10 @@
 | [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 | 2023-01-20 | 2023-08-19 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2023-01-20 | 2023-05-27 |
 | [P.O.V](https://open.spotify.com/track/0kYMvY7CEGe2Qlt7oYInXI) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [P.O.V](https://open.spotify.com/album/6zk5bTOjSKXykjcAYYx67B) | 1:57 | 2023-03-10 | 2023-04-01 |
-| [Pa Quererte](https://open.spotify.com/track/2nRx0se0bGzdFBqAjEmKce) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Pa Quererte](https://open.spotify.com/album/0oBSqtS4zt2ZGSAiTZuHvF) | 3:17 | 2023-05-26 | 2023-09-19 |
+| [Pa Quererte](https://open.spotify.com/track/2nRx0se0bGzdFBqAjEmKce) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Pa Quererte](https://open.spotify.com/album/0oBSqtS4zt2ZGSAiTZuHvF) | 3:17 | 2023-05-26 |  |
 | [Pacas De Billetes](https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pacas De Billetes](https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG) | 3:08 | 2023-05-26 |  |
-| [Para Que No Te Acuerdes](https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Para Que No Te Acuerdes](https://open.spotify.com/album/3shHERdaWkHmrHloMSHbCg) | 2:54 | 2023-08-18 |  |
-| [Perfección](https://open.spotify.com/track/70PhHGQlEU2C5pcAR7rVnY) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Perfección](https://open.spotify.com/album/6JmjHJcvGcNv6JEjZb7Hwv) | 2:00 | 2023-05-26 |  |
+| [Para Que No Te Acuerdes](https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Para Que No Te Acuerdes](https://open.spotify.com/album/3shHERdaWkHmrHloMSHbCg) | 2:54 | 2023-08-18 | 2023-09-26 |
+| [Perfección](https://open.spotify.com/track/70PhHGQlEU2C5pcAR7rVnY) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Perfección](https://open.spotify.com/album/6JmjHJcvGcNv6JEjZb7Hwv) | 2:00 | 2023-05-26 | 2023-09-26 |
 | [Por las Mañanas \- En Vivo](https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 3:08 | 2023-01-20 |  |
 | [Por las Noches](https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por las Noches](https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe) | 3:59 | 2023-03-31 |  |
 | [Power](https://open.spotify.com/track/1hSrp2LyVkM94tHCjgXFcP) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu) | [Power](https://open.spotify.com/album/5KwcQ04KPcKSG5EJD0RHtj) | 3:37 | 2023-01-20 | 2023-03-11 |
@@ -81,6 +81,7 @@
 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 | 2023-05-26 |  |
 | [Prueba De Fuego](https://open.spotify.com/track/3pr7Km3C87u8fLwdSCXosy) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/6uKXucI9pipi5LysfKkoU9) | 3:51 | 2023-03-10 | 2023-04-01 |
 | [Que Vas a Hacer](https://open.spotify.com/track/2OAKNQl1xx7STmVS1QeUP4) | [Nivel](https://open.spotify.com/artist/0vjNV2LKqTZZF74wgRTPBt), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve) | [Nivelado](https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF) | 3:05 | 2023-01-20 | 2023-09-24 |
+| [Que Vas a Hacer](https://open.spotify.com/track/6TLxQyd8AJG1zzbp3LXio0) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve) | [Que Vas a Hacer](https://open.spotify.com/album/4nrkaHH7b5PwDkrJ3AivRF) | 3:05 | 2023-08-18 |  |
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2023-01-20 |  |
 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 | 2023-05-26 |  |
 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 | 2023-01-27 | 2023-03-11 |

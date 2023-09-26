@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Luciano Pereyra & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,964 likes - 101 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,084 likes - 101 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 100 | [Quererte como lo haces tú](https://open.spotify.com/track/7rLdVy8Me6Filk94vWWnyp) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Quererte como lo haces tú](https://open.spotify.com/album/0nqpR0vcsq10vmS13IHW0F) | 3:35 |
 | 101 | [Una Vez Más](https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Una Vez Más](https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi) | 3:37 |
 
-Snapshot ID: `MCwxNDNkZGIzMTEyNWJmNDZlOWM2ZmU4ZDgxNTJmYTVkNjU3MmU2MjNh`
+Snapshot ID: `MCw2Y2U1MTY3ZjE5YmVmZGEzMWU5NzU3M2Y4MDk3Yjc1OTkwZDViZmNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmZJhCzQOPD.md) - [plain]
 
 > Funky and lush\. This is Philly Soul which laid the groundwork for disco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,425 likes - 51 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,503 likes - 51 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmZJhCzQOPD.md) - [plain]
 | 4 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\)](https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Is The Message](https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ) | 3:42 |
 | 5 | [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 |
 | 6 | [Kiss and Say Goodbye](https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Manhattans \(Expanded Version\)](https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv) | 4:26 |
-| 7 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 |
+| 7 | [Don't Leave Me This Way](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 |
 | 8 | [Your Song](https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 6:30 |
 | 9 | [Love T.K.O.](https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:59 |
 | 10 | [Strategy](https://open.spotify.com/track/64TIJiqmJn7ZnIYzYAEpbL) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Strategy](https://open.spotify.com/album/1MP3ltiZak966JcSieq64T) | 6:57 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmZJhCzQOPD.md) - [plain]
 | 16 | [Sideshow](https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2) | [Blue Magic](https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw) | [Blue Magic](https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE) | 4:11 |
 | 17 | [Could It Be I'm Falling in Love](https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 4:09 |
 | 18 | [When Will I See You Again](https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:58 |
-| 19 | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 |
+| 19 | [Wake Up Everybody](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 |
 | 20 | [Girl Don't Make Me Wait](https://open.spotify.com/track/7olM7DziKkkVEcMAT6fA7P) | [Bunny Sigler](https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg) | [The Best Of Philly Soul \- Vol\. 2](https://open.spotify.com/album/3MwX3t13zHDtWhNLWiLOcd) | 2:30 |
 | 21 | [La\-La Means I Love You](https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 3:20 |
 | 22 | [I'll Always Love My Mama](https://open.spotify.com/track/5ZBTTuqouJbiC1wtCSJamG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 6:37 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmZJhCzQOPD.md) - [plain]
 | 50 | [I Don't Love You Anymore](https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 3:58 |
 | 51 | [Ghetto Child](https://open.spotify.com/track/3qmyaJxqKaGkAioK3lEnFS) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:50 |
 
-Snapshot ID: `MCw4OWE3YjllMzEwZThmMjZiZGUxNDAyOGQ1N2E4ZjQzMjg3NWVkOGVj`
+Snapshot ID: `MCw0ZDNlYWI1NWI5NTUzYzQ4MTMwYWRlMzk3MDdlNWY5MTA5ZWU1ZTlk`

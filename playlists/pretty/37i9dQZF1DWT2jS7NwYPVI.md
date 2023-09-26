@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Coach Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,860 likes - 124 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,921 likes - 124 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 123 | [Riot](https://open.spotify.com/track/04ozu87GNHVPVgd8qhBUJU) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:17 |
 | 124 | [t!mezone](https://open.spotify.com/track/4O8j9RMURUEsdFBtxGKaSZ) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [t!mezone](https://open.spotify.com/album/7LyemIrA9Xf7ZiiJTDiMvX) | 2:53 |
 
-Snapshot ID: `MCxhODM3ZWFiNWJlNjIzOTA5YTFjZGE2YTU3MGZjN2YwNzcyMTM5NTBk`
+Snapshot ID: `MCw5NTc5MmFmODdmMDM4MmM1MzI0OTkxZTQ5OTE3MGE4MzUyMTZkZGZm`

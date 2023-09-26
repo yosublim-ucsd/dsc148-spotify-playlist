@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 124455,
       "name": "A Dona Aranha",
       "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
@@ -7404,6 +7404,24 @@
       "duration_ms": 133328,
       "name": "Hino do Flamengo",
       "url": "https://open.spotify.com/track/2KGYg5LBQKpA4Js8BBcOkn"
+    },
+    {
+      "album": {
+        "name": "Hinos dos Campe\u00f5es - Volume 2",
+        "url": "https://open.spotify.com/album/27YdA2BrcjTci49YSoMsjm"
+      },
+      "artists": [
+        {
+          "name": "Orquestra e Coro Cid (Flabanda)",
+          "url": "https://open.spotify.com/artist/23Ha8ej75ohEIGNmlBTuDP"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114520,
+      "name": "Hino do S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/0IuSdIxMOvxlANxdtcTnfN"
     },
     {
       "album": {

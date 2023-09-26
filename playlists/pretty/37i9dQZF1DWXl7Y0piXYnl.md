@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,883 likes - 70 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,896 likes - 70 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 48 | [Balapan](https://open.spotify.com/track/2aTQw92FaRms4GnXVhV9fe) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Balapan](https://open.spotify.com/album/7IUQHbkd07qrM7hmaZtPxS) | 5:13 |
 | 49 | [Stereotipo](https://open.spotify.com/track/4RrcwFnDKz3C3Mj6ZZPlz2) | [Passarani](https://open.spotify.com/artist/1RtGdJq4CVfXVl7cV5TZFb) | [Stereotipo](https://open.spotify.com/album/16eGPWIbRtaZUPmInX3bJ1) | 3:40 |
 | 50 | [advantages](https://open.spotify.com/track/67GD5DfgXGSGfnUaOOjd6u) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 3:08 |
-| 51 | [Déjà Vu](https://open.spotify.com/track/1ofyA3yOVsQPQC3UnM6oIx) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Déjà Vu](https://open.spotify.com/album/0vhflFpjfFoc5idKhuw5Jw) | 2:51 |
+| 51 | [Déjà Vu](https://open.spotify.com/track/0Uzlf3LBshr2fIU0G7OdY8) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Gentle Confrontation](https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx) | 2:51 |
 | 52 | [Dimensional Spleen](https://open.spotify.com/track/7iizlIkWTVRdXObpxCd8Tj) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4), [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [Dimensional Spleen](https://open.spotify.com/album/1PKtg65JFCiEtvV34VsrtU) | 3:07 |
 | 53 | [Too Close](https://open.spotify.com/track/0FlYCmQM5q3TcdvwRT53Tt) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Too Close](https://open.spotify.com/album/3WxC9B4azmE7Y4RpwPx39b) | 3:44 |
 | 54 | [For The People](https://open.spotify.com/track/2ykXU2kmtVhlinar4QMGh0) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [For The People](https://open.spotify.com/album/6T8fHDM3RgTUAhKbKPYwDJ) | 5:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 69 | [Weird Flex](https://open.spotify.com/track/3DtiBVOc1FGJMgN1ygCu10) | [TMSV](https://open.spotify.com/artist/3gy5cNrDadVI5kDFcYgelE), [Danny Scrilla](https://open.spotify.com/artist/4bmJFapr7wQD6xdjcqWjcL) | [Weird Flex](https://open.spotify.com/album/2mWG078wkJMmjUQ8iqhhWT) | 3:51 |
 | 70 | [Suez \- version](https://open.spotify.com/track/5mnGUzn98Zom7mwYOpV63N) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW), [Konrad Sprenger](https://open.spotify.com/artist/5bGmvl9eY8jOszonS9d6OT), [Phillip Sollmann](https://open.spotify.com/artist/2Kl28Zn5AWddccJZk1KDFr) | [Panama / Suez](https://open.spotify.com/album/7vsMhEZkgYiWssccHHCdqk) | 11:33 |
 
-Snapshot ID: `MCwxYTAwMGIzNjI4NThiNzZmNGVkNDRiYWUxYjEzOGZmZTJjMDUzN2Nl`
+Snapshot ID: `MCw4Y2JjNjYzMjNjYTE3MmUwOTVlOGQzMzI1NDU5NWIxYjA3YzQ5MmZh`

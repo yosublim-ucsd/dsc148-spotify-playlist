@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Sainte & Cash Cobain",
-  "num_followers": 153466,
+  "num_followers": 153548,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTEzZDdjM2M1YjM3M2UyYTdlYjRkOGZiOWVkOTEzNDE4YTY5NDA4",
+  "snapshot_id": "MCwzNGY5MjBjYWJiMGMzMGY5MzkxZWQwYjJhMjM1NjU4ZTdlNzdlMjNk",
   "tracks": [
     {
       "added_at": "2023-08-18 08:12:16",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "Wasted Eyes",
+      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
         "name": "Unfinished Business",
         "url": "https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "Wasted Eyes",
-      "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
         "name": "A N N I V E R S A R Y (Deluxe)",
         "url": "https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy"
       },
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
+        "name": "Local Mvp",
+        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Hunnids",
+      "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
         "name": "Richest Opp",
         "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
       },
@@ -595,6 +611,26 @@
       "duration_ms": 183484,
       "name": "I Heard",
       "url": "https://open.spotify.com/track/4s2SSnOOVF3FtgcxNx6fFk"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -619,42 +655,6 @@
       "duration_ms": 160000,
       "name": "On My Soul",
       "url": "https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
-        "name": "Local Mvp",
-        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
-      },
-      "artists": [
-        {
-          "name": "Saint\u00e9",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Hunnids",
-      "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 269413,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
+        "name": "SUMO",
+        "url": "https://open.spotify.com/album/6VRUcQIKK7pPHMjnEKXEoM"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "SUMO",
+      "url": "https://open.spotify.com/track/4EKJDqxtPUGPs6MbmWF3WR"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
         "name": "Antidote (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
-        "name": "SUMO",
-        "url": "https://open.spotify.com/album/6VRUcQIKK7pPHMjnEKXEoM"
-      },
-      "artists": [
-        {
-          "name": "SamRecks",
-          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "SUMO",
-      "url": "https://open.spotify.com/track/4EKJDqxtPUGPs6MbmWF3WR"
     },
     {
       "added_at": "2023-08-18 08:12:16",

@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 72018,
+  "num_followers": 72037,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjNlNDc1MjAyN2MyNzQwYWNmYTg3ZDIxZDQ4MGU5NTkyNjY5OTM1",
+  "snapshot_id": "MCxkYWM4YjU0NDgwYTg4MTAyNzQyNDhhM2NlMzY1ZGMxZmE0MTZjMWMz",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -171,34 +171,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Ileana Cotrubas",
-          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Carlos Kleiber",
-          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La traviata / Act I: \"E strano! ... Ah, fors'\u00e8 lui\"",
-      "url": "https://open.spotify.com/track/3O5ALEXsR3Us1ys00AD7c2"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi (The Very Best Of)",
         "url": "https://open.spotify.com/album/6Bw1dyep8lwqgEAAteetoV"
       },
@@ -231,6 +203,34 @@
       "duration_ms": 115426,
       "name": "Messa da Requiem: Tuba mirum",
       "url": "https://open.spotify.com/track/6C6vsdKc2URZFkRrXn6xh3"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Ileana Cotrubas",
+          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La traviata / Act I: \"E strano! ... Ah, fors'\u00e8 lui\"",
+      "url": "https://open.spotify.com/track/3O5ALEXsR3Us1ys00AD7c2"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -819,30 +819,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Aida",
-        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Verdi: Aida, Act 2: Ballet",
-      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Rigoletto",
         "url": "https://open.spotify.com/album/36GWY5pcnu2ubklWR8vlSV"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 267973,
       "name": "Rigoletto / Act 2: Cortigiani, vil razza dannata (Rigoletto)",
       "url": "https://open.spotify.com/track/21XoVzLRNlhbeU7yDRxkZx"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Aida",
+        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Verdi: Aida, Act 2: Ballet",
+      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -959,6 +959,38 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Kiri - A Portrait",
+        "url": "https://open.spotify.com/album/4zqtZ8uDOrhSL0Yi2CYne4"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "Alfredo Kraus",
+          "url": "https://open.spotify.com/artist/72G0MODfMxM5TGaoQtGbdP"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
+        }
+      ],
+      "duration_ms": 277640,
+      "name": "La traviata / Act 1: \"Follie! Delirio vano \u00e8 questo!\" - \"Sempre libera\"",
+      "url": "https://open.spotify.com/track/1sHxx6JFlwNEZqQl55eOOI"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Requiem; Quattro pezzi sacri",
         "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
       },
@@ -991,38 +1023,6 @@
       "duration_ms": 966000,
       "name": "4 Pezzi sacri: IV. Te Deum",
       "url": "https://open.spotify.com/track/5witywN8YtKvIj95C2zdKz"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Kiri - A Portrait",
-        "url": "https://open.spotify.com/album/4zqtZ8uDOrhSL0Yi2CYne4"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Kiri Te Kanawa",
-          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
-        },
-        {
-          "name": "Alfredo Kraus",
-          "url": "https://open.spotify.com/artist/72G0MODfMxM5TGaoQtGbdP"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
-        },
-        {
-          "name": "Zubin Mehta",
-          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
-        }
-      ],
-      "duration_ms": 277640,
-      "name": "La traviata / Act 1: \"Follie! Delirio vano \u00e8 questo!\" - \"Sempre libera\"",
-      "url": "https://open.spotify.com/track/1sHxx6JFlwNEZqQl55eOOI"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1167,30 +1167,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "The Verdi Album",
-        "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
-        }
-      ],
-      "duration_ms": 641253,
-      "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
-      "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Opera Choruses",
         "url": "https://open.spotify.com/album/3rr1HrvyWK0jFyuEfntQXX"
       },
@@ -1219,6 +1195,30 @@
       "duration_ms": 206000,
       "name": "La battaglia di Legnano: Preghiera, 'Deus meus, pone illos ut rotam'",
       "url": "https://open.spotify.com/track/6genbSJNg0FxPpAzS2Cf8P"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "The Verdi Album",
+        "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+        }
+      ],
+      "duration_ms": 641253,
+      "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
+      "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1703,6 +1703,30 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/2SlDrNnAloO1uL0cUOf8bg"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "duration_ms": 247120,
+      "name": "La traviata / Act 1: Prelude",
+      "url": "https://open.spotify.com/track/1bZowokgq7BcTe15ofDTVW"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Falstaff",
         "url": "https://open.spotify.com/album/4K5lWjsxpWXDc4hJxKq99W"
       },
@@ -1771,54 +1795,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/2SlDrNnAloO1uL0cUOf8bg"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "National Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "duration_ms": 247120,
-      "name": "La traviata / Act 1: Prelude",
-      "url": "https://open.spotify.com/track/1bZowokgq7BcTe15ofDTVW"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi : Rigoletto",
-        "url": "https://open.spotify.com/album/1kYU5ZZNBHYafn2ssSEboY"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of Welsh National Opera",
-          "url": "https://open.spotify.com/artist/7tKNcrC1eSbJnMem8B4cpa"
-        }
-      ],
-      "duration_ms": 110800,
-      "name": "Verdi : Rigoletto : Act 3 \"Chi mai, chi \u00e8 qui\" [Rigoletto, Gilda]",
-      "url": "https://open.spotify.com/track/0VawWZRChM7zLs77jMzANd"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Falstaff",
         "url": "https://open.spotify.com/album/4K5lWjsxpWXDc4hJxKq99W"
       },
@@ -1883,6 +1859,30 @@
       "duration_ms": 378466,
       "name": "Falstaff: Act I: Falstaff! Ola!",
       "url": "https://open.spotify.com/track/7zqdo14MviMiezMKJI9fVW"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi : Rigoletto",
+        "url": "https://open.spotify.com/album/1kYU5ZZNBHYafn2ssSEboY"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of Welsh National Opera",
+          "url": "https://open.spotify.com/artist/7tKNcrC1eSbJnMem8B4cpa"
+        }
+      ],
+      "duration_ms": 110800,
+      "name": "Verdi : Rigoletto : Act 3 \"Chi mai, chi \u00e8 qui\" [Rigoletto, Gilda]",
+      "url": "https://open.spotify.com/track/0VawWZRChM7zLs77jMzANd"
     },
     {
       "added_at": "2022-06-27 14:42:44",

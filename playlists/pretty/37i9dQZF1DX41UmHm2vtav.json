@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 441014,
+  "num_followers": 441179,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWI3YTMzNDUxOTBhNzEyMWNkZjBlNWRkNmZhOTdkMjdhZjE4YzI1",
+  "snapshot_id": "MCxhZmEyNjg4NDQwODZlZjAxNzU4ODkzMzhiMjY4NzdmODAxMzYyMWM5",
   "tracks": [
     {
       "added_at": "2023-07-14 03:03:00",
@@ -187,6 +187,26 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Table For 2",
+        "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+        }
+      ],
+      "duration_ms": 176283,
+      "name": "Table For 2",
+      "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
         "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
       },
@@ -219,46 +239,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Anuncia\u00e7\u00e3o (Jopin Remix)",
-        "url": "https://open.spotify.com/album/5qqCJjqk0FjKmQ5ZiFD2Gs"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 205238,
-      "name": "Anuncia\u00e7\u00e3o - Jopin Remix",
-      "url": "https://open.spotify.com/track/5MU0hFRrFjG0IxKOKa1IPp"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Table For 2",
-        "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "iRO",
-          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
-        }
-      ],
-      "duration_ms": 176283,
-      "name": "Table For 2",
-      "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Vintage Culture & Friends 2",
         "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
       },
@@ -283,6 +263,26 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Anuncia\u00e7\u00e3o (Jopin Remix)",
+        "url": "https://open.spotify.com/album/5qqCJjqk0FjKmQ5ZiFD2Gs"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 205238,
+      "name": "Anuncia\u00e7\u00e3o - Jopin Remix",
+      "url": "https://open.spotify.com/track/5MU0hFRrFjG0IxKOKa1IPp"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
         "url": "https://open.spotify.com/album/3jq5Zd42igYRaypTQNJc0L"
       },
@@ -303,6 +303,22 @@
       "duration_ms": 152851,
       "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
       "url": "https://open.spotify.com/track/1GThrHo1eJgmO8hT3v1Oc7"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Don't Let It Go",
+        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Don't Let It Go",
+      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -355,42 +371,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Bem Melhor (KVSH Remix)",
-        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "Bem Melhor - KVSH Remix",
-      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Don't Let It Go",
-        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Don't Let It Go",
-      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
         "url": "https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 191612,
       "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
       "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Bem Melhor (KVSH Remix)",
+        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "Bem Melhor - KVSH Remix",
+      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/59xzmS5W9coddqJlDiYUEa"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "Algum Ritmo (Remix)",
         "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 197419,
       "name": "Algum Ritmo - Remix",
       "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/59xzmS5W9coddqJlDiYUEa"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "T\u00f4 de F\u00e9rias",
         "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 193747,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Um Dia Inteiro",
         "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 184000,
       "name": "Um Dia Inteiro",
       "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Oh! Chuva",
+        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "Halfway (feat. Twan Ray)",
         "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
       },
@@ -975,22 +995,22 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Oh! Chuva",
-        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
       },
       "artists": [
         {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
         }
       ],
-      "duration_ms": 144796,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1035,42 +1055,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        }
-      ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Lovezinho",
         "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 172986,
       "name": "Lovezinho",
       "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "In The End (Remix)",
         "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 175844,
       "name": "Monalisa (KVSH Remix)",
       "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1287,26 +1287,6 @@
       "duration_ms": 172918,
       "name": "Evoluiu - Rakka & Onabeat Remix",
       "url": "https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1375,6 +1355,26 @@
       "duration_ms": 179481,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1503,22 +1503,22 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Foreplay (Radio Edit)",
-        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
       },
       "artists": [
         {
-          "name": "Flowavez",
-          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
         },
         {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+          "name": "Rodrigo S\u00e1",
+          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
         }
       ],
-      "duration_ms": 177633,
-      "name": "Foreplay - Radio Edit",
-      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
+      "duration_ms": 212640,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
     }
   ],
   "unique_name": "Festa na Praia",

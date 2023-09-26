@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 295543,
+  "num_followers": 295689,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzVlN2I5ZmY5NDBlMDEyNjFiN2Y2NzAxY2M3NDY0YzNjYTk2MTRi",
+  "snapshot_id": "MCxjOWE4YWMzMWViZGZiMWVkOGFhMmM4ZDk2YTllMTk0MWY4ZjBlMGY0",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "\u674f\u91cc - Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/77kXckOL5mwaVEeWTExyvz"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Anri",
-          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
-        }
-      ],
-      "duration_ms": 226909,
-      "name": "Remember Summer Days (Night Tempo Showa Groove Mix)",
-      "url": "https://open.spotify.com/track/02M7L7vwVmzrRNq6gx9oxE"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Back By Popular Demand",
         "url": "https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2"
       },
@@ -519,6 +499,22 @@
       "duration_ms": 110313,
       "name": "Funk Express",
       "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Infinite Skies",
+        "url": "https://open.spotify.com/album/59l4j2R7By9b0AyFocl1I2"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30c9\u30ed\u30b9MERCURY",
+          "url": "https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN"
+        }
+      ],
+      "duration_ms": 157988,
+      "name": "Cupcake Break",
+      "url": "https://open.spotify.com/track/1fIZVfx61wPISv5WJ1lJQh"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Infinite Skies",
-        "url": "https://open.spotify.com/album/59l4j2R7By9b0AyFocl1I2"
+        "name": "\u674f\u91cc - Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/77kXckOL5mwaVEeWTExyvz"
       },
       "artists": [
         {
-          "name": "\u30de\u30c9\u30ed\u30b9MERCURY",
-          "url": "https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN"
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
         }
       ],
-      "duration_ms": 157988,
-      "name": "Cupcake Break",
-      "url": "https://open.spotify.com/track/1fIZVfx61wPISv5WJ1lJQh"
+      "duration_ms": 226909,
+      "name": "Remember Summer Days (Night Tempo Showa Groove Mix)",
+      "url": "https://open.spotify.com/track/02M7L7vwVmzrRNq6gx9oxE"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -583,26 +583,6 @@
       "duration_ms": 150879,
       "name": "Cash Wednesday",
       "url": "https://open.spotify.com/track/1rPPRe1Gci3keV676Z8s68"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "\u516b\u795e\u7d14\u5b50 \u2013 Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/3TsSsK2Ot8MCKB0RhjpYSN"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Junko Yagami",
-          "url": "https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "\u307f\u305a\u3044\u308d\u306e\u96e8 - Night Tempo Showa Groove Mix",
-      "url": "https://open.spotify.com/track/0NiqOau8wSmdeuOXbsdSyv"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -715,6 +695,26 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "\u516b\u795e\u7d14\u5b50 \u2013 Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/3TsSsK2Ot8MCKB0RhjpYSN"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Junko Yagami",
+          "url": "https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "\u307f\u305a\u3044\u308d\u306e\u96e8 - Night Tempo Showa Groove Mix",
+      "url": "https://open.spotify.com/track/0NiqOau8wSmdeuOXbsdSyv"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Royal Club, Vol. 3",
         "url": "https://open.spotify.com/album/6QY51ifImoOIngncUguYlp"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 103059,
-      "name": "Lovely Road",
-      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "I Found You (feat. Benjamin Ingrosso)",
         "url": "https://open.spotify.com/album/60lJNYQojtQvJwz6ZsBarb"
       },
@@ -799,6 +783,38 @@
       "duration_ms": 152195,
       "name": "I Found You (feat. Benjamin Ingrosso)",
       "url": "https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "SUGAR RUSH",
+        "url": "https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "duration_ms": 132486,
+      "name": "FIGHT! 2",
+      "url": "https://open.spotify.com/track/45DdNOqLCNfdgOCUJEsypo"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 103059,
+      "name": "Lovely Road",
+      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -835,22 +851,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "SUGAR RUSH",
-        "url": "https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe"
-      },
-      "artists": [
-        {
-          "name": "Aests",
-          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
-        }
-      ],
-      "duration_ms": 132486,
-      "name": "FIGHT! 2",
-      "url": "https://open.spotify.com/track/45DdNOqLCNfdgOCUJEsypo"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Magic City",
         "url": "https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 217370,
       "name": "Magic City",
       "url": "https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "J-Funk City : Vantage's Edits Collection",
-        "url": "https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        }
-      ],
-      "duration_ms": 209529,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -931,6 +915,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "J-Funk City : Vantage's Edits Collection",
+        "url": "https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 209529,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Kanji Title",
         "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 183536,
       "name": "Ganbare",
       "url": "https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -983,6 +967,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Prom King",
         "url": "https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 210586,
       "name": "Bounce Is Back",
       "url": "https://open.spotify.com/track/3Vw8ibvQbEfmUCwXpPeC6X"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Disco's Revenge",
-        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
-      },
-      "artists": [
-        {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        }
-      ],
-      "duration_ms": 80098,
-      "name": "Disco's Revenge",
-      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1031,6 +1015,22 @@
       "duration_ms": 238760,
       "name": "Niito na Gogosanji - Night Tempo Showa Groove Mix",
       "url": "https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Disco's Revenge",
+        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        }
+      ],
+      "duration_ms": 80098,
+      "name": "Disco's Revenge",
+      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Cyber Love",
-        "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
-      },
-      "artists": [
-        {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "The Way U Make Me Feel",
-      "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "DRENCH3D",
         "url": "https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Cyber Love",
+        "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "The Way U Make Me Feel",
+      "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Dusty Shelves",
         "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 132485,
       "name": "Funk Dust",
       "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "SAILORWAVE III",
+        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
+      },
+      "artists": [
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sailor Saturn",
+      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1175,22 +1191,6 @@
       "duration_ms": 156428,
       "name": "Polygon Beach",
       "url": "https://open.spotify.com/track/4oTFKaLvALwvYdNKDTBARL"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "SAILORWAVE III",
-        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
-      },
-      "artists": [
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sailor Saturn",
-      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "SUGAR RUSH",
+        "url": "https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "duration_ms": 150004,
+      "name": "love u!!",
+      "url": "https://open.spotify.com/track/0JQkrkQIIoBYnEQ2lla9e0"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 195121,
       "name": "Plastic",
       "url": "https://open.spotify.com/track/2X6jdDyYRFrs8yh8pjIKaP"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "SUGAR RUSH",
-        "url": "https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe"
-      },
-      "artists": [
-        {
-          "name": "Aests",
-          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
-        }
-      ],
-      "duration_ms": 150004,
-      "name": "love u!!",
-      "url": "https://open.spotify.com/track/0JQkrkQIIoBYnEQ2lla9e0"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Summer 99",
-        "url": "https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM"
-      },
-      "artists": [
-        {
-          "name": "Iden Kai",
-          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
-        }
-      ],
-      "duration_ms": 151265,
-      "name": "Shall We Dance?",
-      "url": "https://open.spotify.com/track/2AfWicugHdy2XCdEScwSbU"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 240004,
       "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
       "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Summer 99",
+        "url": "https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM"
+      },
+      "artists": [
+        {
+          "name": "Iden Kai",
+          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
+        }
+      ],
+      "duration_ms": 151265,
+      "name": "Shall We Dance?",
+      "url": "https://open.spotify.com/track/2AfWicugHdy2XCdEScwSbU"
     },
     {
       "added_at": "2023-07-18 02:21:29",

@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 382786,
+  "num_followers": 382851,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODQ2NzRhY2ZiNWM4ZmQ3NTZhMWYzYjFiMjgzYjRhZDVlZDY5NmY1",
+  "snapshot_id": "MCw0MzlkMWI4MWM3ZWE4NTIzYWRhNmMwMWVhMjlhODBkNjM4MzIyZGI1",
   "tracks": [
     {
       "added_at": "2023-09-21 14:30:55",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-21 14:30:55",
       "album": {
-        "name": "All I've Ever Known",
-        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "All I've Ever Known",
-      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
-    },
-    {
-      "added_at": "2023-09-21 14:30:55",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "added_at": "2023-09-21 14:30:55",
+      "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "All I've Ever Known",
+      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
     },
     {
       "added_at": "2023-09-21 14:30:55",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-09-21 14:30:55",
       "album": {
+        "name": "Hey Papi",
+        "url": "https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 158859,
+      "name": "Hey Papi - Edit",
+      "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
+    },
+    {
+      "added_at": "2023-09-21 14:30:55",
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 197018,
       "name": "MACHINE",
       "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
-    },
-    {
-      "added_at": "2023-09-21 14:30:55",
-      "album": {
-        "name": "Hey Papi",
-        "url": "https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 158859,
-      "name": "Hey Papi - Edit",
-      "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
     },
     {
       "added_at": "2023-09-21 14:30:55",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-09-21 14:30:55",
       "album": {
-        "name": "Kahan (last year)",
-        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Kahan (last year)",
-      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
-    },
-    {
-      "added_at": "2023-09-21 14:30:55",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -795,6 +775,26 @@
     {
       "added_at": "2023-09-21 14:30:55",
       "album": {
+        "name": "Kahan (last year)",
+        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Kahan (last year)",
+      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "added_at": "2023-09-21 14:30:55",
+      "album": {
         "name": "When The Light Breaks",
         "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
       },
@@ -811,6 +811,38 @@
       "duration_ms": 240009,
       "name": "Matter of Time",
       "url": "https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG"
+    },
+    {
+      "added_at": "2023-09-21 14:30:55",
+      "album": {
+        "name": "Back In Love",
+        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 281253,
+      "name": "Back In Love",
+      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
+    },
+    {
+      "added_at": "2023-09-21 14:30:55",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
     },
     {
       "added_at": "2023-09-21 14:30:55",
@@ -851,22 +883,6 @@
     {
       "added_at": "2023-09-21 14:30:55",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
-    },
-    {
-      "added_at": "2023-09-21 14:30:55",
-      "album": {
         "name": "Sanctuary Point",
         "url": "https://open.spotify.com/album/2vnz72t4mSjrw1RhgfDSTN"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 224500,
       "name": "Wake Up Call",
       "url": "https://open.spotify.com/track/6HjoXmL9BiC1Cmb7oktz5N"
-    },
-    {
-      "added_at": "2023-09-21 14:30:55",
-      "album": {
-        "name": "Back In Love",
-        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Back In Love",
-      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
     },
     {
       "added_at": "2023-09-21 14:30:55",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-09-21 14:30:55",
       "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+    },
+    {
+      "added_at": "2023-09-21 14:30:55",
+      "album": {
         "name": "Shapes",
         "url": "https://open.spotify.com/album/1YLn7DOkqIlDBbszOhPgA3"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 197150,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
-    },
-    {
-      "added_at": "2023-09-21 14:30:55",
-      "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
       "added_at": "2023-09-21 14:30:55",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-09-21 14:30:55",
       "album": {
-        "name": "Heartaches",
-        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 207627,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
-    },
-    {
-      "added_at": "2023-09-21 14:30:55",
-      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 184906,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
+    },
+    {
+      "added_at": "2023-09-21 14:30:55",
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
     },
     {
       "added_at": "2023-09-21 14:30:55",

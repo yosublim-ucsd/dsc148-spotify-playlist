@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,909 likes - 75 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,961 likes - 75 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 74 | [Tripasia](https://open.spotify.com/track/4NqaNXn9bw7PmXjOFW8vmp) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/0WzBEyEM7oj5GqehqqwHlg) | 2:56 |
 | 75 | [Hai Hai \(Original Mix\)](https://open.spotify.com/track/4g8bzs2j3D72vm0wcguZ2q) | [Panjabi Hit Squad](https://open.spotify.com/artist/3IlSLDQTwlMSGiWDRoJ0Gj), [Ms Scandalous](https://open.spotify.com/artist/28BHtfPgUuB1w2hGu3j0mZ) | [Essential Desi](https://open.spotify.com/album/1xSOkSOQZcrwGFYYib8Bri) | 4:33 |
 
-Snapshot ID: `MCw5ZjYzMDg0YzlkMWQ0ZDQ5NDJiYWVlYzgxZWNiOTcwNzM0ZDBjMDQ4`
+Snapshot ID: `MCxkZjQ2M2YyM2UyYTY0NjlmY2I0ZDBmMGNjZDZhZjE4OTYxZDUxZWIy`

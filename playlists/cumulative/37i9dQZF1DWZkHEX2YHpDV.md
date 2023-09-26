@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Games We Play
 
-1,026 songs - 2 day 6 hr 12 min
+1,027 songs - 2 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Everyone Knows](https://open.spotify.com/track/3nOwNZLewhpiuX8W1smZih) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Overrated](https://open.spotify.com/album/5VUkRHHQ12rH4g6c0hp2T6) | 2:21 | 2022-03-25 | 2022-05-22 |
 | [Everything \(I Wish I Could Claim to Be\)](https://open.spotify.com/track/5PUDFlvi5guWNkYmhGy10A) | [Catapults](https://open.spotify.com/artist/1kgH8UtIKcjH6fuUj1DnFG) | [Everything \(I Wish I Could Claim to Be\)](https://open.spotify.com/album/2X9d1U1s9GZ9GeYm0TTdsf) | 3:30 | 2022-02-04 | 2022-05-12 |
 | [Everything Else Can Wait](https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Everything Else Can Wait](https://open.spotify.com/album/32m8WHzsazOVcVLTL6IKiN) | 3:38 | 2023-04-10 | 2023-04-24 |
+| [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 | 2023-09-22 |  |
 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 | 2021-12-10 | 2022-06-25 |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-04-28 |  |
 | [Face Down \- Symphonic Edition](https://open.spotify.com/track/3rzwBdOX741P5N394o5faL) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Face Down \(Symphonic Edition\)](https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx) | 3:27 | 2022-10-21 |  |
@@ -949,7 +950,7 @@
 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 | 2023-04-10 |  |
 | [Under The Weather](https://open.spotify.com/track/6Dj5XM1Jp2s0oPmXMLh563) | [Lil Xtra](https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm) | [Under The Weather](https://open.spotify.com/album/5cKqIyzwYGsdwMn7CYY6yW) | 3:54 | 2021-12-10 | 2022-05-23 |
 | [Untitled](https://open.spotify.com/track/1en77BAeOb0ECffJDZJKlW) | [Bare Dreams](https://open.spotify.com/artist/5QCrg7H3bN0FWaj20GOvX0) | [Lost With All Hands](https://open.spotify.com/album/7bEjIwsBIZu52uOFFhWYVm) | 3:44 | 2021-12-10 | 2022-04-18 |
-| [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 | 2023-09-22 |  |
+| [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 | 2023-09-22 | 2023-09-26 |
 | [Upside Down](https://open.spotify.com/track/6trJelO46qKNUso5FtqgzG) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Upside Down](https://open.spotify.com/album/7HFSSWViGV3f6FvIY8evex) | 3:51 | 2022-02-04 | 2022-05-19 |
 | [ur a <stranger> \- Live](https://open.spotify.com/track/0dz9WWF0rYChuh0FubVYGl) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW: Live At Electric Lady](https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w) | 2:17 | 2023-04-10 | 2023-04-12 |
 | [use me](https://open.spotify.com/track/0KNLFtX4moDQ4jcuziocBQ) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [use me](https://open.spotify.com/album/4JUtkSVltrPsPmpEkadMK7) | 3:01 | 2023-09-15 |  |

@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-168 songs - 12 hr 50 min
+169 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Cause We've Ended As Lovers](https://open.spotify.com/track/51VBEDfm60C2PyCtwLGIDG) | [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [Renaissance](https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU) | 5:01 | 2022-05-06 | 2023-03-25 |
 | [City Lights](https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb) | 5:33 | 2022-05-06 |  |
 | [citynights](https://open.spotify.com/track/4a5ydZOgONWaxaFMN4bmyx) | [Ny Cic](https://open.spotify.com/artist/3xmRTk6mD5NZTBGI05KIZ9) | [citynights](https://open.spotify.com/album/4uYrJhj8oQGKm2UoocoMGF) | 2:14 | 2023-03-16 |  |
-| [Costa del Soul](https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 5:18 | 2022-05-06 |  |
+| [Costa del Soul](https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 5:18 | 2022-05-06 | 2023-09-26 |
 | [Days Of Soul](https://open.spotify.com/track/5d55M6BUwHsxXPneoiXb84) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Seven Large](https://open.spotify.com/album/1jqCVKzF972INDR51m9NUR) | 6:13 | 2022-05-06 | 2023-05-12 |
 | [Deep Touch](https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:36 | 2022-05-06 |  |
 | [Divine Morning](https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7) | [Delorme & Co](https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W) | [Divine Morning](https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS) | 3:33 | 2023-08-15 |  |
@@ -55,7 +55,7 @@
 | [Girl In The Red Dress](https://open.spotify.com/track/7IGXCoBk68O6Yrt65WFPIL) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 4:56 | 2022-05-06 |  |
 | [Givin' It Up](https://open.spotify.com/track/39ex82ihu7ZSBIW7zFTA4P) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:01 | 2022-05-06 | 2022-07-16 |
 | [Givin’ It Up](https://open.spotify.com/track/7cU5eciL5P82afz3luTiTd) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Smooth Jazz Hits: \#1 Chart\-Toppers](https://open.spotify.com/album/6QrxQS2l68ht5NzNzLAFf8) | 4:01 | 2022-11-08 | 2022-11-13 |
-| [Givin’ It Up](https://open.spotify.com/track/31gDZG7i3ui4oLmWnhN0mG) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:01 | 2022-08-10 | 2023-09-25 |
+| [Givin’ It Up](https://open.spotify.com/track/31gDZG7i3ui4oLmWnhN0mG) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:01 | 2022-08-10 |  |
 | [Grinnell Street](https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ) | [Citronium](https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX) | [Grinnell Street](https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX) | 3:55 | 2023-02-02 |  |
 | [Groovin' Up Hip Street](https://open.spotify.com/track/1rEt3jLRkVWz1m9EEfTFeo) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 6:02 | 2022-05-06 | 2023-03-28 |
 | [Have Your Cake And Eat It](https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 4:03 | 2022-05-06 |  |
@@ -82,6 +82,7 @@
 | [Kimi Trick](https://open.spotify.com/track/1ouzK9gIxLEADwHlL97nPv) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Jonathan Fritzen](https://open.spotify.com/artist/0z0HE95gGMzsYOFD1EpnBD) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:05 | 2022-08-16 |  |
 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 | 2022-05-06 | 2022-08-11 |
 | [Le Marais](https://open.spotify.com/track/61VdFwwPfRbgvPiVe1gQjJ) | [Rollin Hand](https://open.spotify.com/artist/7oKCQiTL5z1a63V76WyDtw) | [Le Marais](https://open.spotify.com/album/22sl7yPsMf22tDnbRwijjT) | 3:27 | 2023-04-03 | 2023-06-21 |
+| [Le Tour d'Amour](https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE), [Thomas Darelid](https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ), [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED), [Jenny Kristoffersson](https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy), [Per Lindvall](https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc) | [Le Tour d'Amour](https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8) | 3:20 | 2023-09-20 |  |
 | [Let's Get It Started](https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Creations the Album, Pt\. 1](https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI) | 6:16 | 2022-09-08 |  |
 | [Lights Down Low](https://open.spotify.com/track/7uHtZIoR7GnrvKrupnSICf) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Seduction](https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D) | 4:32 | 2022-05-06 | 2023-08-19 |
 | [Liquid Soul](https://open.spotify.com/track/36TH6l0hRy22WrYiQXXR8q) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 6:07 | 2022-08-12 |  |
@@ -111,7 +112,7 @@
 | [Northern Lights](https://open.spotify.com/track/6G5qp0GZJKFTEHLGsJqIcm) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters 1](https://open.spotify.com/album/74wFUQc9LIgVzeYMvIOCJm) | 5:38 | 2022-05-06 | 2022-07-29 |
 | [Northern Lights](https://open.spotify.com/track/2vNbXqk8usOSYRlH9OfTHH) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [The Collection](https://open.spotify.com/album/7HNTBKiVNU2MBWJ0WnJDez) | 5:40 | 2022-06-28 | 2023-03-15 |
 | [Ocean Way](https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 5:03 | 2022-08-12 |  |
-| [Old School](https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM) | 4:26 | 2022-05-06 |  |
+| [Old School](https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM) | 4:26 | 2022-05-06 | 2023-09-26 |
 | [On The Beach](https://open.spotify.com/track/6X0XzLsQZHLfOeoWUjRAye) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Do It Again](https://open.spotify.com/album/2fIm34Of6gQfOrLrdM02Lw) | 4:42 | 2022-05-06 | 2022-06-09 |
 | [On Top Of Your Game](https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [On Top Of Your Game](https://open.spotify.com/album/5h0gY72fOLWScMTejDedln) | 2:46 | 2023-06-20 |  |
 | [Out'a Nowhere](https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:51 | 2022-08-16 |  |

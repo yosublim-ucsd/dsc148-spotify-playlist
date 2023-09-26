@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Jessé Alcantara
 
-132 songs - 7 hr 58 min
+134 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Ao Teu Lado \- Acústico](https://open.spotify.com/track/1uP31TFAG8a4VGwpE7w3yT) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Ao Teu Lado \(Acústico\)](https://open.spotify.com/album/0u1E6iC4UA69cVBHFSBkjk) | 3:42 | 2022-08-05 | 2023-04-16 |
 | [Apenas Canção](https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Apenas Canção](https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg) | 4:26 | 2022-08-05 |  |
 | [Aprendiz](https://open.spotify.com/track/4RDgS8EhKnfbI1d4LQQT1q) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Aprendiz](https://open.spotify.com/album/4WVhaUNsM0PBmdzDOwZDAg) | 3:42 | 2022-08-05 | 2023-08-05 |
-| [Asas](https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Asas](https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC) | 3:37 | 2022-08-05 |  |
+| [Asas](https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Asas](https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC) | 3:37 | 2022-08-05 | 2023-09-26 |
 | [Azul](https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ok!](https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz) | 2:30 | 2023-03-17 | 2023-07-22 |
 | [Azul do Céu](https://open.spotify.com/track/3v2bkyjuqCsb8RuHMXuLpI) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Azul do Céu](https://open.spotify.com/album/68akHXeQKYnjTELPGdV2JI) | 3:02 | 2022-08-05 |  |
 | [Batida](https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Batida](https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm) | 4:04 | 2022-08-05 | 2023-03-25 |
@@ -53,7 +53,7 @@
 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 | 2022-08-05 |  |
 | [Eu To Vivo](https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Eu To Vivo](https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt) | 4:16 | 2022-08-05 |  |
 | [Eu Vou](https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr) | [Thiago Ramalho](https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ) | [Eu Vou](https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp) | 3:29 | 2022-08-05 |  |
-| [Eu Vou Correr](https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Eu Vou Correr](https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8) | 3:59 | 2022-08-05 |  |
+| [Eu Vou Correr](https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Eu Vou Correr](https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8) | 3:59 | 2022-08-05 | 2023-09-26 |
 | [Faz Arder](https://open.spotify.com/track/3I4BzHfreJ5H6aEWokBErB) | [Ane Alma](https://open.spotify.com/artist/6agfTxA0kY25JrnIKKo35r) | [Faz Arder](https://open.spotify.com/album/2PxsAb7mPbxyvAu9a49M0S) | 1:58 | 2023-03-17 |  |
 | [Faz Parte](https://open.spotify.com/track/4qgEfqc8o2hfpS2OT1J1AM) | [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Faz Parte](https://open.spotify.com/album/1Op8EBccQRtltpW8eOGZPe) | 2:59 | 2023-02-03 | 2023-04-16 |
 | [Fim de Tarde](https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Fim de Tarde](https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh) | 2:18 | 2023-06-02 |  |
@@ -95,6 +95,7 @@
 | [Plano B](https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n) | 2:45 | 2022-08-05 |  |
 | [Planos Melhores](https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL) | [Andressa Cordeiro](https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF) | [Planos Melhores](https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul) | 3:04 | 2022-08-05 |  |
 | [Ponto de Paz](https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ponto de Paz](https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP) | 3:00 | 2022-08-05 |  |
+| [Pra Onde Eu Irei](https://open.spotify.com/track/5ov7UiWwVdsSwgJZTD9plp) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Pra Onde Eu Irei](https://open.spotify.com/album/1ajdIRELwERVp8ksi8My8l) | 2:13 | 2023-09-25 |  |
 | [Pra Onde Vou Correr](https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Pra Onde Vou Correr](https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq) | 3:35 | 2023-09-01 |  |
 | [Pra Sempre](https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Pra Sempre](https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN) | 3:39 | 2022-08-05 |  |
 | [Quem Sou Eu Sem Você?](https://open.spotify.com/track/54Dw2XPvYm2LlWx9n2jqjr) | [Jujubita](https://open.spotify.com/artist/3bo6KIZeJRIscQKaeqroVg) | [Quem Sou Eu Sem Você?](https://open.spotify.com/album/5E8SijDUIc5m9rt6zuTfTF) | 2:40 | 2023-03-24 | 2023-08-05 |
@@ -126,6 +127,7 @@
 | [Todo Meu Viver \(Acústico\) \- Ao Vivo](https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv) | [Margem Norte](https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1), [Cristiano Halabi](https://open.spotify.com/artist/6UbiNQAO1m9RvbBx9dSF0M) | [Todo Meu Viver \(Acústico\) \[Ao Vivo\]](https://open.spotify.com/album/1tUx1ptJZcFhPsWjGu6igw) | 3:17 | 2023-07-21 |  |
 | [Todos Um](https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Todos Um](https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF) | 3:31 | 2022-08-05 | 2023-04-16 |
 | [Tranquilo](https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tranquilo](https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy) | 4:00 | 2022-08-05 |  |
+| [Tremenda Graça \(This Is Amazing Grace\)](https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx) | [Tremenda Graça \(This Is Amazing Grace\)](https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q) | 4:39 | 2023-09-25 |  |
 | [Tua Graça](https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP) | [Carol Aguiar](https://open.spotify.com/artist/6UWc0mUbFhZyW5VZbY2w4m) | [Tua Graça](https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu) | 3:55 | 2022-08-05 | 2023-06-17 |
 | [Tudo](https://open.spotify.com/track/5wbSVolmtQA6kodui95x40) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [SL.27.4](https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy) | 3:57 | 2022-08-05 |  |
 | [Tudo Novo](https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Tudo Novo](https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN) | 3:05 | 2023-04-15 |  |

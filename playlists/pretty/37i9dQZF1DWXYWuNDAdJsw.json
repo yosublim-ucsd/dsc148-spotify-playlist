@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 844904,
+  "num_followers": 844984,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDBhNGQyNjhjMDk4ZWI4OGEyZWNhNTM5MWQxOGVmMDI3NzJhMjY1",
+  "snapshot_id": "MCw4ZGMwZDNmZWI5NTlkODFmNGJlOGVmODE2OWYyMWI4YjI1YmFjZjI2",
   "tracks": [
     {
       "added_at": "2023-09-08 17:04:16",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "AMARGURA",
-      "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "God's Project",
         "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
@@ -227,74 +211,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "LLAME PA' VERTE (feat. Wisin)",
-        "url": "https://open.spotify.com/album/1sRGzLtFGN7Z3Opujc9NdV"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 207100,
-      "name": "LLAME PA' VERTE (feat. Wisin)",
-      "url": "https://open.spotify.com/track/1RjifKIUX8faZv9nxR0t5f"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "Talento de Barrio",
-        "url": "https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 239920,
-      "name": "Llamado de Emergencia",
-      "url": "https://open.spotify.com/track/2jnZUvhw2LTvDI6YidRVcO"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "EL BARCO",
-      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -315,18 +231,70 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "REMIX EXCLUSIVO",
-        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+        "name": "LLAME PA' VERTE (feat. Wisin)",
+        "url": "https://open.spotify.com/album/1sRGzLtFGN7Z3Opujc9NdV"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 206946,
-      "name": "REMIX EXCLUSIVO",
-      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+      "duration_ms": 207100,
+      "name": "LLAME PA' VERTE (feat. Wisin)",
+      "url": "https://open.spotify.com/track/1RjifKIUX8faZv9nxR0t5f"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "AMARGURA",
+      "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "Talento de Barrio",
+        "url": "https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 239920,
+      "name": "Llamado de Emergencia",
+      "url": "https://open.spotify.com/track/2jnZUvhw2LTvDI6YidRVcO"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -363,18 +331,50 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 174369,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
+      "duration_ms": 176936,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "REMIX EXCLUSIVO",
+        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "REMIX EXCLUSIVO",
+      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "EL BARCO",
+      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 176936,
-      "name": "Un Ratito",
-      "url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O"
+      "duration_ms": 174369,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -447,6 +447,38 @@
       "duration_ms": 201180,
       "name": "Sobrio",
       "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 148143,
+      "name": "Un Verano Sin Ti",
+      "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "El Farsante",
+      "url": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -519,22 +551,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 233826,
-      "name": "El Farsante",
-      "url": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -571,6 +587,22 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 233128,
+      "name": "Otra Noche en Miami",
+      "url": "https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -591,22 +623,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 148143,
-      "name": "Un Verano Sin Ti",
-      "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
@@ -619,26 +635,6 @@
       "duration_ms": 229386,
       "name": "Traicionera",
       "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "ULTRA SOLO",
-        "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 227220,
-      "name": "ULTRA SOLO",
-      "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -691,18 +687,22 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+        "name": "ULTRA SOLO",
+        "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         }
       ],
-      "duration_ms": 233128,
-      "name": "Otra Noche en Miami",
-      "url": "https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"
+      "duration_ms": 227220,
+      "name": "ULTRA SOLO",
+      "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -743,6 +743,26 @@
       "duration_ms": 231428,
       "name": "DAME",
       "url": "https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Hip\u00f3crita",
+      "url": "https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -823,26 +843,6 @@
       "duration_ms": 184435,
       "name": "HP",
       "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Hip\u00f3crita",
-      "url": "https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 194989,
       "name": "Color\u00edn Colorado",
       "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 188906,
       "name": "Devuelveme",
       "url": "https://open.spotify.com/track/5uvucCRBTkxv7VxIDLOqe7"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 226010,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
         "name": "No Te Enamores (Remix)",
         "url": "https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk"
       },
@@ -1627,6 +1607,26 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 226010,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
         "name": "Desnudarte",
         "url": "https://open.spotify.com/album/0E1bECp8OZdUNAiw4i50EV"
       },
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
+        "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
+        "url": "https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 220116,
+      "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
+      "url": "https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 240365,
       "name": "Miss Lonely - Dimelo Flow Remix",
       "url": "https://open.spotify.com/track/1ndlOUUT3Eq1SDCSdKJASw"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
-        "url": "https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 220116,
-      "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
-      "url": "https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l"
     },
     {
       "added_at": "2023-09-08 17:04:16",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Yo Te Lo Dije",
+      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
+    },
+    {
+      "added_at": "2023-09-08 17:04:16",
+      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -1999,38 +2015,18 @@
     {
       "added_at": "2023-09-08 17:04:16",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+        "name": "Esper\u00e1ndote",
+        "url": "https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 220853,
-      "name": "Yo Te Lo Dije",
-      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
-    },
-    {
-      "added_at": "2023-09-08 17:04:16",
-      "album": {
-        "name": "Me Ense\u00f1aste (Remix)",
-        "url": "https://open.spotify.com/album/3TNDvI62UbwgzEK0RZ99Rt"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "Me Ense\u00f1aste - Remix",
-      "url": "https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi"
+      "duration_ms": 199813,
+      "name": "Esper\u00e1ndote",
+      "url": "https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj"
     }
   ],
   "unique_name": "Perrear y Llorar",

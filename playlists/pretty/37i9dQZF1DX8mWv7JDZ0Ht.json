@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Silva, Liniker",
-  "num_followers": 432543,
+  "num_followers": 432607,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjY5YmJmNThkZjExY2NhY2VlYjAyMTBhNmI0MTVkNTExZTNlYWNm",
+  "snapshot_id": "MCxkNzM3ZWE2ZDdkNjgwNzFhYzkyMGM4YmNhNjljYjJiMDNjMDQ3NTFm",
   "tracks": [
     {
       "added_at": "2023-09-22 03:00:00",
@@ -483,22 +483,18 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "N\u00f3 de Marinheiro",
-        "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
+        "name": "Andando pela Orla",
+        "url": "https://open.spotify.com/album/1kaDGikjEeuJsNrD4Ra6Jv"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+          "name": "Gabriel Won",
+          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
         }
       ],
-      "duration_ms": 183503,
-      "name": "N\u00f3 de Marinheiro",
-      "url": "https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj"
+      "duration_ms": 112023,
+      "name": "Andando pela Orla",
+      "url": "https://open.spotify.com/track/23MOQX2Zz1NUwV9W4l3GrE"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -519,50 +515,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Ch\u00e1 De Camomila",
-        "url": "https://open.spotify.com/album/6Ke9obk68up6tK1vyOhVkM"
+        "name": "N\u00f3 de Marinheiro",
+        "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 191568,
-      "name": "Ch\u00e1 De Camomila",
-      "url": "https://open.spotify.com/track/1SL08ggkKbwl88V2Zg3Tsv"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Andando pela Orla",
-        "url": "https://open.spotify.com/album/1kaDGikjEeuJsNrD4Ra6Jv"
-      },
-      "artists": [
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
         {
-          "name": "Gabriel Won",
-          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
         }
       ],
-      "duration_ms": 112023,
-      "name": "Andando pela Orla",
-      "url": "https://open.spotify.com/track/23MOQX2Zz1NUwV9W4l3GrE"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Dias Claros",
-        "url": "https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Dias Claros",
-      "url": "https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy"
+      "duration_ms": 183503,
+      "name": "N\u00f3 de Marinheiro",
+      "url": "https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -583,6 +551,38 @@
       "duration_ms": 155414,
       "name": "Vida Curta",
       "url": "https://open.spotify.com/track/128NdmHTmnaIDlqlbOq95l"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Dias Claros",
+        "url": "https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "Dias Claros",
+      "url": "https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Ch\u00e1 De Camomila",
+        "url": "https://open.spotify.com/album/6Ke9obk68up6tK1vyOhVkM"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 191568,
+      "name": "Ch\u00e1 De Camomila",
+      "url": "https://open.spotify.com/track/1SL08ggkKbwl88V2Zg3Tsv"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -619,18 +619,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "tudo, eu, enfim.",
-        "url": "https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq"
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/7D5BKQFmv0YGEYul18avdT"
       },
       "artists": [
         {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        },
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
         }
       ],
-      "duration_ms": 234666,
-      "name": "desculpa, qualquer coisa",
-      "url": "https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D"
+      "duration_ms": 158861,
+      "name": "Amanh\u00e3",
+      "url": "https://open.spotify.com/track/2o6PDQqMyZ9d66IxwFM0xs"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -651,6 +655,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "tudo, eu, enfim.",
+        "url": "https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "desculpa, qualquer coisa",
+      "url": "https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
         "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 133806,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Amanh\u00e3",
-        "url": "https://open.spotify.com/album/7D5BKQFmv0YGEYul18avdT"
-      },
-      "artists": [
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
-        },
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        }
-      ],
-      "duration_ms": 158861,
-      "name": "Amanh\u00e3",
-      "url": "https://open.spotify.com/track/2o6PDQqMyZ9d66IxwFM0xs"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pascual",
-          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 167424,
-      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Lugares",
         "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
       },
@@ -767,6 +747,26 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 167424,
+      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 219306,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "Virginiana",
+      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -803,18 +819,18 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Coisas De Voc\u00ea",
-        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
+        "name": "M\u00faltipla",
+        "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
       },
       "artists": [
         {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
         }
       ],
-      "duration_ms": 153428,
-      "name": "Virginiana",
-      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
+      "duration_ms": 161540,
+      "name": "Nem Eu Me Entendo",
+      "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -835,22 +851,6 @@
       "duration_ms": 176869,
       "name": "No Passo da Saudades",
       "url": "https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "M\u00faltipla",
-        "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 161540,
-      "name": "Nem Eu Me Entendo",
-      "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "te decorei em mim",
-        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 177078,
-      "name": "te decorei em mim",
-      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Me Sinto Com Sorte",
         "url": "https://open.spotify.com/album/7xnXIInegkDGhIPDOKi8tT"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 178348,
       "name": "Toda minha saudade",
       "url": "https://open.spotify.com/track/6uPWvyCWxvF0y4O6XpJy1F"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "te decorei em mim",
+        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 177078,
+      "name": "te decorei em mim",
+      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "Voc\u00ea",
+        "url": "https://open.spotify.com/album/1f079JPEkai7mwMyeOUSQg"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Won",
+          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
+        }
+      ],
+      "duration_ms": 140212,
+      "name": "Voc\u00ea",
+      "url": "https://open.spotify.com/track/5lZCyNdCwLZJYH9myKor7W"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "Como Tinha Que Ser",
         "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 169539,
       "name": "Terminou Bem",
       "url": "https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Voc\u00ea",
-        "url": "https://open.spotify.com/album/1f079JPEkai7mwMyeOUSQg"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Won",
-          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
-        }
-      ],
-      "duration_ms": 140212,
-      "name": "Voc\u00ea",
-      "url": "https://open.spotify.com/track/5lZCyNdCwLZJYH9myKor7W"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "duration_ms": 154603,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "Sustentar",
         "url": "https://open.spotify.com/album/4x3tqq8eCMgPfTtQjRl4eF"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 147600,
       "name": "Sustentar",
       "url": "https://open.spotify.com/track/3T0qWI1v8N7ZuxA61MTH4i"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Fim de Semana",
-        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
-      },
-      "artists": [
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 154603,
-      "name": "Fim de Semana",
-      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Teu Calor",
-        "url": "https://open.spotify.com/album/4bRwD7jIFJsYeG0qstycLh"
-      },
-      "artists": [
-        {
-          "name": "Megic Eric",
-          "url": "https://open.spotify.com/artist/3rFzMogFPAHD5EV57Trym9"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "Teu Calor",
-      "url": "https://open.spotify.com/track/0Cz8QlQ80iGaBW9i2Rizp8"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "O Tempo",
         "url": "https://open.spotify.com/album/6YzWKAyU0OqSDVTb6OBJw3"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 149217,
       "name": "O Tempo",
       "url": "https://open.spotify.com/track/7BVjbg62Tc0AVTGzzO3t36"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Teu Calor",
+        "url": "https://open.spotify.com/album/4bRwD7jIFJsYeG0qstycLh"
+      },
+      "artists": [
+        {
+          "name": "Megic Eric",
+          "url": "https://open.spotify.com/artist/3rFzMogFPAHD5EV57Trym9"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "Teu Calor",
+      "url": "https://open.spotify.com/track/0Cz8QlQ80iGaBW9i2Rizp8"
     }
   ],
   "unique_name": "Pop Leve",

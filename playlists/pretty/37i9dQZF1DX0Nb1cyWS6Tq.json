@@ -1,12 +1,12 @@
 {
   "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
-  "num_followers": 672280,
+  "num_followers": 672839,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjNlODdmNzhlODUyNTdiN2E1NDRmNTJhNmJhZjllZmY5OTFmYzg4",
+  "snapshot_id": "MCw3ZjkxYjI4OTFkYmY3NzliODVhMmVlNTVhZWIyYWRmNjJlYWY4ZWVi",
   "tracks": [
     {
       "added_at": "2022-06-03 16:36:24",
@@ -251,6 +251,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 428800,
+      "name": "Love You to Death",
+      "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
       },
@@ -313,6 +329,22 @@
       "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Some Girls Wander by Mistake",
+        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 488011,
+      "name": "Temple of Love - 1992",
+      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
+    },
+    {
       "added_at": "2023-01-06 06:22:16",
       "album": {
         "name": "Ceremony",
@@ -327,22 +359,6 @@
       "duration_ms": 190525,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 428800,
-      "name": "Love You to Death",
-      "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -363,38 +379,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Seventeen Seconds (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 354933,
-      "name": "A Forest - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Some Girls Wander by Mistake",
-        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 488011,
-      "name": "Temple of Love - 1992",
-      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Deep",
         "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
       },
@@ -407,22 +391,6 @@
       "duration_ms": 327133,
       "name": "Cuts You Up",
       "url": "https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Juju",
-        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "Arabian Knights",
-      "url": "https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -443,18 +411,34 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "In the Flat Field",
-        "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
+        "name": "Seventeen Seconds (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
       },
       "artists": [
         {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Dark Entries",
-      "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
+      "duration_ms": 354933,
+      "name": "A Forest - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "It'll End In Tears (Remastered)",
+        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
+      },
+      "artists": [
+        {
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "Song To The Siren - Remastered",
+      "url": "https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -475,18 +459,34 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "It'll End In Tears (Remastered)",
-        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
+        "name": "In the Flat Field",
+        "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
       },
       "artists": [
         {
-          "name": "This Mortal Coil",
-          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
         }
       ],
-      "duration_ms": 211093,
-      "name": "Song To The Siren - Remastered",
-      "url": "https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt"
+      "duration_ms": 231560,
+      "name": "Dark Entries",
+      "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Juju",
+        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "Arabian Knights",
+      "url": "https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -519,22 +519,6 @@
       "duration_ms": 398933,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Mask",
-        "url": "https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "The Passion of Lovers",
-      "url": "https://open.spotify.com/track/0Ha6Oee9KzRwNxAbfznzYJ"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -587,22 +571,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "The Lovecats",
-      "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/5bXAysvuhQbyWllgYuahwt"
       },
@@ -615,6 +583,22 @@
       "duration_ms": 252093,
       "name": "Atmosphere - 2020 Digital Remaster",
       "url": "https://open.spotify.com/track/7k42ztYdHyKWrKrENxwjkV"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Mask",
+        "url": "https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "The Passion of Lovers",
+      "url": "https://open.spotify.com/track/0Ha6Oee9KzRwNxAbfznzYJ"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -647,6 +631,22 @@
       "duration_ms": 293693,
       "name": "Dead Souls",
       "url": "https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "The Lovecats",
+      "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
     },
     {
       "added_at": "2023-01-24 21:00:19",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/6Q9kdCHXpAef5YbKXKeG9M"
     },
     {
-      "added_at": "2023-03-17 00:43:40",
-      "album": {
-        "name": "Kaleidoscope (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Christine",
-      "url": "https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Floodland",
@@ -727,6 +711,22 @@
       "duration_ms": 420300,
       "name": "Dominion / Mother Russia",
       "url": "https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ"
+    },
+    {
+      "added_at": "2023-03-17 00:43:40",
+      "album": {
+        "name": "Kaleidoscope (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Christine",
+      "url": "https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Juju",
-        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 334666,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/1gnZ2VCdVUHSgiBKrzdeK8"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "It'll End In Tears (Remastered)",
         "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 209093,
       "name": "Kangaroo - Remastered",
       "url": "https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Mask",
+        "url": "https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Kick in the Eye",
+      "url": "https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Juju",
+        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 334666,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/1gnZ2VCdVUHSgiBKrzdeK8"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Some Girls Wander by Mistake",
         "url": "https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 214935,
       "name": "Alice",
       "url": "https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Mask",
-        "url": "https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Kick in the Eye",
-      "url": "https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Only Theatre of Pain",
-        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
-      },
-      "artists": [
-        {
-          "name": "Christian Death",
-          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Spiritual Cramp",
-      "url": "https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Night Time",
         "url": "https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 408826,
       "name": "Love Like Blood",
       "url": "https://open.spotify.com/track/0SEfEDcVisRq8z4gU6r86b"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Only Theatre of Pain",
+        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+      },
+      "artists": [
+        {
+          "name": "Christian Death",
+          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Spiritual Cramp",
+      "url": "https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Isn't Anything",
-        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Suicide (2019 - Remaster)",
         "url": "https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Only Theatre of Pain",
-        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
       },
       "artists": [
         {
-          "name": "Christian Death",
-          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1083,6 +1067,22 @@
       "duration_ms": 230220,
       "name": "Thrills",
       "url": "https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Only Theatre of Pain",
+        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+      },
+      "artists": [
+        {
+          "name": "Christian Death",
+          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
     },
     {
       "added_at": "2022-03-30 01:50:22",

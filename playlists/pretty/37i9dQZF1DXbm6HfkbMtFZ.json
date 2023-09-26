@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 686482,
+  "num_followers": 686587,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDIwOWE5NzkxNTIzMDM4NGM1NTJhYTQ3ZWNmOTVmYTIzZDljYWVm",
+  "snapshot_id": "MCxkZjE4MjJhOGJiYTZmZTc2ZjE3ZjI3ZjExYWVkNTZhNjE4YmIzMjZm",
   "tracks": [
     {
       "added_at": "2023-09-19 17:56:54",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
         "name": "All Things Must Pass (2014 Remaster)",
         "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 210726,
       "name": "If Not for You - 2014 Remaster",
       "url": "https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
         "name": "New Me, Same Us",
         "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 207346,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
+        "name": "Wings At The Speed Of Sound (Archive Collection)",
+        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 311880,
+      "name": "Let 'Em In - 2014 Remaster",
+      "url": "https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
         "name": "Dark Days [Feat. Sylvan Esso]",
         "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Wings At The Speed Of Sound (Archive Collection)",
-        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
       "artists": [
         {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 311880,
-      "name": "Let 'Em In - 2014 Remaster",
-      "url": "https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY"
+      "duration_ms": 170800,
+      "name": "Thank You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -727,18 +743,18 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+        "name": "Coney Island Baby",
+        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 170800,
-      "name": "Thank You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
+      "duration_ms": 159093,
+      "name": "Charley's Girl",
+      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Coney Island Baby",
-        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 159093,
-      "name": "Charley's Girl",
-      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
         "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
         "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 219624,
       "name": "Ayonha",
       "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
-        "name": "Schmilco",
-        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "If I Ever Was a Child",
-      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "The Information",
-        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
+        "name": "Schmilco",
+        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 199426,
-      "name": "Think I'm In Love",
-      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
+      "duration_ms": 175946,
+      "name": "If I Ever Was a Child",
+      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -855,6 +839,22 @@
       "duration_ms": 232477,
       "name": "Prism",
       "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
+        "name": "The Information",
+        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
-        "url": "https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 216720,
-      "name": "Don't You Evah",
-      "url": "https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+        "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
         }
       ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+      "duration_ms": 216720,
+      "name": "Don't You Evah",
+      "url": "https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1039,6 +1023,22 @@
       "duration_ms": 173133,
       "name": "You're so Fine",
       "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "When You Lose Someone",
-      "url": "https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 343426,
       "name": "Girlfriend Is Better - 2005 Remaster",
       "url": "https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "When You Lose Someone",
+      "url": "https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Goodbye My Love",
-      "url": "https://open.spotify.com/track/0O5H4Mg0iOhvRYsYMCZ07D"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
         "name": "Slow Song (with Dragonette)",
         "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "Goodbye My Love",
+      "url": "https://open.spotify.com/track/0O5H4Mg0iOhvRYsYMCZ07D"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Soft Spot",
-        "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Tumblin'",
-      "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
         "name": "You Don't Want Me",
         "url": "https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 238669,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Tumblin'",
+      "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
+        "name": "Idol Eyes",
+        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
+      },
+      "artists": [
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Idol Eyes",
+      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
         "name": "Happiness in Liquid Form",
         "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 248526,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
-        "name": "Idol Eyes",
-        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Idol Eyes",
-      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Dusk at Cubist Castle",
-        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
+        "name": "Come Around and Love Me",
+        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
       "artists": [
         {
-          "name": "The Olivia Tremor Control",
-          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 112066,
-      "name": "Jumping Fences",
-      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1703,6 +1703,22 @@
       "duration_ms": 263338,
       "name": "It's Not Easy",
       "url": "https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
+        "name": "Dusk at Cubist Castle",
+        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
+      },
+      "artists": [
+        {
+          "name": "The Olivia Tremor Control",
+          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
+        }
+      ],
+      "duration_ms": 112066,
+      "name": "Jumping Fences",
+      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1751,22 +1767,6 @@
       "duration_ms": 227293,
       "name": "Soulless Friends",
       "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
-        "name": "Come Around and Love Me",
-        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "If You Don't Want My Love",
-      "url": "https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "This Is My Story",
-        "url": "https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs"
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
       "artists": [
         {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
         }
       ],
-      "duration_ms": 132750,
-      "name": "This Is My Story",
-      "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
+      "duration_ms": 216106,
+      "name": "Malibu Man",
+      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
     },
     {
       "added_at": "2023-09-19 17:56:54",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-09-19 17:56:54",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Malibu Man",
-      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
-    },
-    {
-      "added_at": "2023-09-19 17:56:54",
-      "album": {
         "name": "Always on My Mind (Acoustic)",
         "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 214820,
       "name": "Always on My Mind (Acoustic)",
       "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
+    },
+    {
+      "added_at": "2023-09-19 17:56:54",
+      "album": {
+        "name": "This Is My Story",
+        "url": "https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "This Is My Story",
+      "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
     },
     {
       "added_at": "2023-09-19 17:56:54",

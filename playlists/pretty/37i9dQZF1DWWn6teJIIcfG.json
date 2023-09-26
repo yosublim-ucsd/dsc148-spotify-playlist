@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 178998,
+  "num_followers": 179078,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWRhNjNmMzc2OGNkNTRjYzJmOThkNjFhNDdmMmVjMjIwNmE5NTVi",
+  "snapshot_id": "MCxiZTk3YTQyYmNlYTNlODU4ZmE5M2ZjMzBkMDlkNjE5ZDQwY2JkZjUy",
   "tracks": [
     {
       "added_at": "2023-02-09 09:05:31",
@@ -67,26 +67,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
-        "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
-      },
-      "artists": [
-        {
-          "name": "Sigvaldi Kaldal\u00f3ns",
-          "url": "https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 216213,
-      "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Brahms: Hungarian Dances No. 1-21; Waltzes, Op. 39 for Piano for Four Hands",
         "url": "https://open.spotify.com/album/124rEkhLGr2blnvf1G7okb"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 81800,
       "name": "16 Waltzes, Op. 39 (Version for Piano Duet): No. 15 in A-Flat Major",
       "url": "https://open.spotify.com/track/70p8XG5Xgjk7OXnt3R2gIb"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
+        "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
+      },
+      "artists": [
+        {
+          "name": "Sigvaldi Kaldal\u00f3ns",
+          "url": "https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 100013,
+      "name": "Written on the Sky",
+      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Liszt Complete Piano Music, Vol. 6: Complete Song Transcriptions of Chopin, Mendelssohn and Robert & Clara Schumann",
         "url": "https://open.spotify.com/album/4ajLFz7v94SsoNAPY5zCMF"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 220773,
       "name": "Lyric Pieces, Book 5, Op. 54: Nocturne",
       "url": "https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        }
-      ],
-      "duration_ms": 100013,
-      "name": "Written on the Sky",
-      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -291,26 +291,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Liszt: Scherzo and March / 3 Liebestraume / Berceuse",
-        "url": "https://open.spotify.com/album/73P1eYyYBmKuBiVEhlCmfM"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Liebestraume, S541/R211 : No. 3: Nocturne in A-Flat Major",
-      "url": "https://open.spotify.com/track/6GzMz3s0K1YKwRVI36CgRx"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Silvestrov: Leggiero, Pesante",
         "url": "https://open.spotify.com/album/3lS2eQfm7o9MUDruWHUeYR"
       },
@@ -359,26 +339,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
-        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "duration_ms": 80280,
-      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
-      "url": "https://open.spotify.com/track/12kRWIoumTRhk6jTIqjm3z"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Flute and Harp",
         "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
       },
@@ -399,6 +359,46 @@
       "duration_ms": 212000,
       "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
       "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Liszt: Scherzo and March / 3 Liebestraume / Berceuse",
+        "url": "https://open.spotify.com/album/73P1eYyYBmKuBiVEhlCmfM"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Liebestraume, S541/R211 : No. 3: Nocturne in A-Flat Major",
+      "url": "https://open.spotify.com/track/6GzMz3s0K1YKwRVI36CgRx"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
+        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "duration_ms": 80280,
+      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
+      "url": "https://open.spotify.com/track/12kRWIoumTRhk6jTIqjm3z"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Liszt Complete Piano Music, Vol. 6: Complete Song Transcriptions of Chopin, Mendelssohn and Robert & Clara Schumann",
-        "url": "https://open.spotify.com/album/4ajLFz7v94SsoNAPY5zCMF"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Joseph Banowetz",
-          "url": "https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo"
-        }
-      ],
-      "duration_ms": 199066,
-      "name": "Mendelssohns Lieder, S. 547: Auf Flugeln des Gesanges (from Op. 34, No. 2)",
-      "url": "https://open.spotify.com/track/3Mb9IoWbfxU27yEdxAUEDp"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 228293,
       "name": "Waltz in C Minor (Only for Piano)",
       "url": "https://open.spotify.com/track/6L6TuOAEZHf93tJULIjQrj"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Liszt Complete Piano Music, Vol. 6: Complete Song Transcriptions of Chopin, Mendelssohn and Robert & Clara Schumann",
+        "url": "https://open.spotify.com/album/4ajLFz7v94SsoNAPY5zCMF"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Joseph Banowetz",
+          "url": "https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo"
+        }
+      ],
+      "duration_ms": 199066,
+      "name": "Mendelssohns Lieder, S. 547: Auf Flugeln des Gesanges (from Op. 34, No. 2)",
+      "url": "https://open.spotify.com/track/3Mb9IoWbfxU27yEdxAUEDp"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "The Flemish Piano Sonatina in the 20th Century",
-        "url": "https://open.spotify.com/album/6XYxParjHfJUUN2wiZKZH0"
-      },
-      "artists": [
-        {
-          "name": "Georges Lonque",
-          "url": "https://open.spotify.com/artist/52FJC1xrA8G9pjnTqoBWBG"
-        },
-        {
-          "name": "Daniel Blumenthal",
-          "url": "https://open.spotify.com/artist/0Ks41NxSMIGc9jdSGVELba"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Sonatine in D Major, Op. 32: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/7APFpoGpfOeQ94f5kKwBWj"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Saint-Sa\u00ebns: Le Carnaval des Animaux; Pha\u00e9ton; Danse Macabre etc.",
         "url": "https://open.spotify.com/album/6i0HvFnPJrXbbEk3JhNxRQ"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 136400,
       "name": "Le Carnaval des Animaux, R.125: 4. Tortues",
       "url": "https://open.spotify.com/track/5Un9h6xPqnHSvguexXnbEg"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "The Flemish Piano Sonatina in the 20th Century",
+        "url": "https://open.spotify.com/album/6XYxParjHfJUUN2wiZKZH0"
+      },
+      "artists": [
+        {
+          "name": "Georges Lonque",
+          "url": "https://open.spotify.com/artist/52FJC1xrA8G9pjnTqoBWBG"
+        },
+        {
+          "name": "Daniel Blumenthal",
+          "url": "https://open.spotify.com/artist/0Ks41NxSMIGc9jdSGVELba"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Sonatine in D Major, Op. 32: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/7APFpoGpfOeQ94f5kKwBWj"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
+        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nikolai Lugansky",
+          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
+        }
+      ],
+      "duration_ms": 54520,
+      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
+      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "La stanza del figlio un film di Nanni Moretti",
         "url": "https://open.spotify.com/album/6AkKScoXJYtwz1tY9jNZtj"
       },
@@ -1191,26 +1211,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
-        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Nikolai Lugansky",
-          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
-        }
-      ],
-      "duration_ms": 54520,
-      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
-      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Are You Still Somewhere?",
         "url": "https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD"
       },
@@ -1227,30 +1227,6 @@
       "duration_ms": 146360,
       "name": "Saman",
       "url": "https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
-        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
-      },
-      "artists": [
-        {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Michael Rische",
-          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
-        },
-        {
-          "name": "Kammersymphonie Leipzig",
-          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
-      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1303,22 +1279,46 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Chill With Chopin",
-        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
+        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
+        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
         },
         {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+          "name": "Michael Rische",
+          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
+        },
+        {
+          "name": "Kammersymphonie Leipzig",
+          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
         }
       ],
-      "duration_ms": 294120,
-      "name": "Andante spiniato in G: Allegro maestoso",
-      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
+      "duration_ms": 198333,
+      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
+      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
     }
   ],
   "unique_name": "Creative Focus",

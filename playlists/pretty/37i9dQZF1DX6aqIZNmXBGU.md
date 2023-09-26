@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,564 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,563 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 22 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 |
 | 23 | [DVP](https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:28 |
 | 24 | [The Heinrich Maneuver](https://open.spotify.com/track/4CKuOiUPeGbDsHkT3fmALJ) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/1gsoIHeBan6QywhysNgApK) | 3:28 |
-| 25 | [I'm Not Making out With You](https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sad Boys](https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C) | 2:39 |
-| 26 | [She Said](https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 3:45 |
-| 27 | [Stay Away](https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:31 |
+| 25 | [Stay Away](https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:31 |
+| 26 | [I'm Not Making out With You](https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sad Boys](https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C) | 2:39 |
+| 27 | [She Said](https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 3:45 |
 | 28 | [Lucidity](https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:31 |
 | 29 | [My Lady's On Fire](https://open.spotify.com/track/5EbTamOuKNYlEsOUGc51kE) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Freedom's Goblin](https://open.spotify.com/album/5BInay8c4KClHpYL94IBed) | 3:52 |
 | 30 | [Hello Operator](https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 2:36 |
 | 31 | [My Wave](https://open.spotify.com/track/6ox3xc5CNTDQiAINfzP8Zw) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:12 |
 | 32 | [Toe Cutter \- Thumb Buster](https://open.spotify.com/track/4lZjHEJXzKCCTVPtgYcypv) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 3:32 |
-| 33 | [No Waves](https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIDLAR](https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs) | 2:14 |
-| 34 | [Remember Me](https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Sundown Syndrome / Remember Me](https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe) | 4:21 |
+| 33 | [Remember Me](https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Sundown Syndrome / Remember Me](https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe) | 4:21 |
+| 34 | [No Waves](https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIDLAR](https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs) | 2:14 |
 | 35 | [Tourette's](https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 1:35 |
 | 36 | [Medication](https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 1:54 |
 | 37 | [Sick Shit](https://open.spotify.com/track/14q1CWouLEjFT6zu5re8hR) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 4:06 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 49 | [Ride A White Swan](https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Get It On: The Collection](https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx) | 2:11 |
 | 50 | [Golden Dawn](https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:50 |
 | 51 | [Tall Man Skinny Lady](https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Manipulator](https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa) | 4:02 |
-| 52 | [Floating Vibes](https://open.spotify.com/track/6UDYTfeSS4IVbJeHTaMxxA) | [Surfer Blood](https://open.spotify.com/artist/0IlQRCafsMrd0QkTRBU6n0) | [Astro Coast](https://open.spotify.com/album/62G9kmLUjDoqkYBsPHwp42) | 3:54 |
-| 53 | [Reservoir Dawgs](https://open.spotify.com/track/2Yx0xNVsysG47yR19qvaKw) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Boisad](https://open.spotify.com/album/7JQ5JhmtlKabSCmHSFET3K) | 3:29 |
+| 52 | [Reservoir Dawgs](https://open.spotify.com/track/2Yx0xNVsysG47yR19qvaKw) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Boisad](https://open.spotify.com/album/7JQ5JhmtlKabSCmHSFET3K) | 3:29 |
+| 53 | [Floating Vibes](https://open.spotify.com/track/6UDYTfeSS4IVbJeHTaMxxA) | [Surfer Blood](https://open.spotify.com/artist/0IlQRCafsMrd0QkTRBU6n0) | [Astro Coast](https://open.spotify.com/album/62G9kmLUjDoqkYBsPHwp42) | 3:54 |
 | 54 | [Space Cadet](https://open.spotify.com/track/0GHu2NmkPSq5xqbSSD1tZ0) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Loopholes](https://open.spotify.com/album/7u501T7f4RfLPuRQCXEcDe) | 3:10 |
 | 55 | [Modern Art](https://open.spotify.com/track/3sBNYkUaAiipWECiLdmzJd) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Arabia Mountain](https://open.spotify.com/album/0ShlY0YGl6XAtBS9ltsV9G) | 2:04 |
-| 56 | [Nerve Jamming](https://open.spotify.com/track/3YdC9oQEHaLT6FEdnRdbtq) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 2:36 |
-| 57 | [Glazin'](https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g) | [Jacuzzi Boys](https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB) | [Glazin'](https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69) | 3:23 |
-| 58 | [Lick the Bag](https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 3:18 |
-| 59 | [Girlfriend](https://open.spotify.com/track/5vEE1d5gkv3pgfZyppLeX8) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Melted](https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx) | 2:12 |
+| 56 | [Girlfriend](https://open.spotify.com/track/5vEE1d5gkv3pgfZyppLeX8) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Melted](https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx) | 2:12 |
+| 57 | [Nerve Jamming](https://open.spotify.com/track/3YdC9oQEHaLT6FEdnRdbtq) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 2:36 |
+| 58 | [Glazin'](https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g) | [Jacuzzi Boys](https://open.spotify.com/artist/6Jy8DN56YeZwPFUjdPa0QB) | [Glazin'](https://open.spotify.com/album/2oWXOBpzJ3DWwZqD2RII69) | 3:23 |
+| 59 | [Lick the Bag](https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 3:18 |
 | 60 | [No Song Unheard](https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [High Visibility](https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx) | 4:00 |
 
-Snapshot ID: `MCw1ZTZhMjBlYWQ1YzU2NDE1ZjFmZDMxZmNjMjhlNmYxYTE1Yzg4OTZl`
+Snapshot ID: `MCwzOTM2NGFkM2Y5ZjA4M2E3Y2I1N2VkNGMzM2U5ZDM3MWY5ZDNkYjM1`

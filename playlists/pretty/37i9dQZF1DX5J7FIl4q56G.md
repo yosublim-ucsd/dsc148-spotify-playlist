@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: P.O.D.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,367 likes - 51 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,489 likes - 51 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 50 | [Unveiling the Palest Truth](https://open.spotify.com/track/3lm1VP0tsGhjKNPsTAlFXE) | [Deadspace](https://open.spotify.com/artist/6Pil7ytDWKgjHf1mXQe4Q8) | [Unveiling the Palest Truth](https://open.spotify.com/album/2IwkBnUQiR0SYF6mo1eIeU) | 5:42 |
 | 51 | [Haunt Me](https://open.spotify.com/track/1QO4Ic2FSoocxgRExXCgjO) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [Haunt Me](https://open.spotify.com/album/4N57MpU7J8Rx4j1pp39iwg) | 3:39 |
 
-Snapshot ID: `MCw0MzhkNzMwYWU4ZGQ1MTc4MTQyNDc3ZjU1ZjRkNmNiNTMyNzExNGQ3`
+Snapshot ID: `MCxhMWVhZDQ0MDYxYmEwNDVkYzIxZjNmNTJjNTZjOGU5OTNhNDEwOTQ3`

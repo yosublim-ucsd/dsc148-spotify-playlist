@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Lil Tecca, Doja Cat, Moneybagg Yo and Lola Brooke!
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,415 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,503 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
 | 2 | [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 |
 | 3 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 |
-| 4 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:33 |
+| 4 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
 | 5 | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/album/0kFq7Bvlr9eiE3Za6kx1Ub) | 2:52 |
 | 6 | [Fuck The Girls \(FTG\)](https://open.spotify.com/track/6DOphQTeNmy1gk3um8sPYC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:32 |
 | 7 | [Another One Of Me \(feat\. The Weeknd, French Montana and 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 |
 | 75 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 |
 
-Snapshot ID: `MCxkZDgxM2I2YWFmZjFhM2U5NzczNzI0MDM3ZjNjNjZhNTJlYzQ2ODJk`
+Snapshot ID: `MCw0Mzc3ZGYxZjIxNDM2Mjg0YzFmZTkzMDEzODUyODMwM2Q2M2E0NWMw`

@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,621 songs - 3 day 0 hr 4 min
+1,624 songs - 3 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,6 +783,7 @@
 | [Lullaby For L](https://open.spotify.com/track/3cdOlMSKSHFrPB7iqnsNcA) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Lullaby For L](https://open.spotify.com/album/5iWaH7AclBCLgV8cgJQ7Tc) | 2:24 | 2020-06-24 | 2021-04-08 |
 | [Luminous](https://open.spotify.com/track/7lPvVD6xk2KjEqyS0VkxM1) | [Lucas van Kesteren](https://open.spotify.com/artist/1nuw1AswgVJaRJLS5IkRTY) | [Luminous](https://open.spotify.com/album/6m4wOlboYm7g0LKsqsRJPG) | 2:15 | 2021-09-09 | 2022-09-13 |
 | [Luminous](https://open.spotify.com/track/5RWA30VaTsYkFrkzxKL3aK) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Luminous](https://open.spotify.com/album/1qGM1wYNdT4fG81hXrdz6s) | 4:43 | 2021-10-20 | 2022-05-13 |
+| [Luminous](https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Luminous](https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE) | 2:05 | 2023-09-25 |  |
 | [Luminous Sky](https://open.spotify.com/track/3fpMkw955AzfpSKMrbRZ0T) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Highlands](https://open.spotify.com/album/1KPOY59AEk9XcuiZVLH231) | 2:28 | 2021-04-08 | 2022-10-04 |
 | [Lumière](https://open.spotify.com/track/3iNliE9VdKaPmpUangZfTB) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Tales Of Solace](https://open.spotify.com/album/7M7ZlXalpujk6zXlhb1J4s) | 4:11 | 2020-08-30 | 2021-08-05 |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2021-10-27 | 2022-07-16 |
@@ -925,6 +926,7 @@
 | [Nocturnes op.3](https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT) | 2:34 | 2022-07-28 | 2023-09-23 |
 | [Nocturnes op.3](https://open.spotify.com/track/589UW75kHbBNDPERjvGUDo) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/1eFpKpEOeJK8fR1gtd6HaE) | 2:34 | 2022-01-26 | 2022-07-29 |
 | [Nocturnes op.4](https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.4](https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT) | 2:51 | 2022-03-10 | 2023-01-18 |
+| [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 | 2023-09-25 |  |
 | [Nord](https://open.spotify.com/track/3LP2FRhLNVlAql83ked0n3) | [SUBLIMINIS](https://open.spotify.com/artist/4LOpZBJ55Oh85OA2LdrpeQ) | [Nord](https://open.spotify.com/album/4kjHjy6zfNSsmGdbj0VBdD) | 2:22 | 2021-03-24 | 2022-06-04 |
 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-01-27 |  |
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2021-08-05 | 2022-05-13 |
@@ -1491,6 +1493,7 @@
 | [Un sourire et une larme \(valse\)](https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Petites danses et rêveries](https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB) | 2:26 | 2022-05-26 |  |
 | [Unassailable](https://open.spotify.com/track/5n3cwcqeC5XvcBuix3ZuVC) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Unassailable](https://open.spotify.com/album/2HPF5oiDvF7hhvzG5LjlnY) | 3:14 | 2022-07-06 |  |
 | [Unconditional](https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Unconditional](https://open.spotify.com/album/1uy7xtQ94KNqMtQnr2KNCO) | 2:24 | 2022-02-23 | 2022-04-29 |
+| [Under a tree](https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Under a tree](https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn) | 2:18 | 2023-09-25 |  |
 | [Under Cold Water](https://open.spotify.com/track/6ECOpOKBN29CzxonEiLEmx) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Under Cold Water](https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq) | 2:06 | 2019-10-04 | 2020-09-30 |
 | [Undone](https://open.spotify.com/track/3GkTuKmBqpRVVhU7lRXidw) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Undone](https://open.spotify.com/album/4zkQny9fhE34t13IacNmza) | 4:05 | 2019-06-27 | 2019-08-23 |
 | [Une Danse](https://open.spotify.com/track/3rOhuafK8dRIjf2iDnn6yX) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Une Danse](https://open.spotify.com/album/2NI1xUFgeWBEjbNrjVCsbP) | 3:03 | 2021-03-06 | 2022-07-16 |

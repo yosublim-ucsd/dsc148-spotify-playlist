@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-799 songs - 2 day 4 hr 13 min
+801 songs - 2 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Homesick](https://open.spotify.com/track/3grDvmv5ZBQhcVoAXAjlB1) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Times Revisited](https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM) | 5:40 | 2022-06-30 | 2023-02-17 |
 | [Homesick](https://open.spotify.com/track/1zWZGoKD5FydwD8chRm1ii) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Homesick](https://open.spotify.com/album/2AzcPL4WhaE67vR2aOQ8q4) | 5:40 | 2021-12-03 | 2022-07-29 |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-11-10 |  |
-| [Honeymoon](https://open.spotify.com/track/7LjWZnunqDMzdQrWuc3nXJ) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Honeymoon](https://open.spotify.com/album/6jspDjodBuBWeGcFs3zeaO) | 4:20 | 2023-06-15 |  |
+| [Honeymoon](https://open.spotify.com/track/7LjWZnunqDMzdQrWuc3nXJ) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Honeymoon](https://open.spotify.com/album/6jspDjodBuBWeGcFs3zeaO) | 4:20 | 2023-06-15 | 2023-09-26 |
 | [Hope](https://open.spotify.com/track/4bKVx5gwMwv0pEN79Jo8V6) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Hope](https://open.spotify.com/album/6KISGlQsr69gUTLtsLABa2) | 3:57 | 2023-02-02 |  |
 | [How Long Has This Been Going On](https://open.spotify.com/track/4SVw0yf2lf4JwtXAoTkbmB) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [At The Blue Note](https://open.spotify.com/album/6sJLTN1J3PhPQ0OybVsqVz) | 9:09 | 2021-12-03 |  |
 | [Hum Sweet Serenades](https://open.spotify.com/track/4HCsxaiFhQ5J6JZbsv9TUm) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Hum Sweet Serenades](https://open.spotify.com/album/0XrvNpJzc7mLeoHBiuzbzF) | 3:03 | 2023-03-02 |  |
@@ -475,7 +475,7 @@
 | [My Lonely Heart](https://open.spotify.com/track/3srN5HvrKjhlzZcl2wdR2G) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [My Lonely Heart](https://open.spotify.com/album/3XXVIqf7HKjYw6tpX3pYDk) | 3:32 | 2023-05-11 |  |
 | [My Old Flame](https://open.spotify.com/track/5yZSSjUOsrp36P5uKdvuj8) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 10:18 | 2021-12-03 |  |
 | [My One And Only Love](https://open.spotify.com/track/16IH7Ql0HSpkAA12Qy40Kv) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [My One And Only Love](https://open.spotify.com/album/4Uki5wmWrQE6GKkTxtV8BT) | 4:52 | 2023-09-22 | 2023-09-24 |
-| [My Perennial Companion](https://open.spotify.com/track/1dWOpasvS3pVvnpEqPYVSh) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [My Perennial Companion](https://open.spotify.com/album/7sqahvp0GRSsUMvFxEdZmA) | 3:26 | 2023-06-15 |  |
+| [My Perennial Companion](https://open.spotify.com/track/1dWOpasvS3pVvnpEqPYVSh) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [My Perennial Companion](https://open.spotify.com/album/7sqahvp0GRSsUMvFxEdZmA) | 3:26 | 2023-06-15 | 2023-09-26 |
 | [My Reverie](https://open.spotify.com/track/4bXxeSD7lqij49IKogh7VP) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [My Reverie](https://open.spotify.com/album/2MSZ71NLAb0uAAAc29Grq8) | 3:48 | 2023-02-02 |  |
 | [My Reverie](https://open.spotify.com/track/1Z3rv7R4FZyMrz4HpW34kN) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 6:05 | 2021-12-03 |  |
 | [My Romance](https://open.spotify.com/track/1MuKiBMhJ1vuK2HGGyQkDS) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Free](https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec) | 7:27 | 2021-12-03 |  |
@@ -678,6 +678,7 @@
 | [the first time I saw you](https://open.spotify.com/track/2mxkWAgoZBU1lRmxp8KEBt) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [the first time I saw you](https://open.spotify.com/album/1L8MHKjTmFHlcwinpZgWZn) | 2:55 | 2023-04-14 |  |
 | [The Flow of Your Way](https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 3:26 | 2022-11-10 |  |
 | [The Fool That Fell For You](https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [The Fool That Fell For You](https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R) | 4:30 | 2023-08-10 |  |
+| [The heat she gives](https://open.spotify.com/track/3b6UkXsKzEAkJfZI1P6AsM) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [The heat she gives](https://open.spotify.com/album/3WYVEv0vyp2eDYUgZr5bUz) | 3:23 | 2023-09-22 |  |
 | [The Itsy Bitsy Spider](https://open.spotify.com/track/7vUTrdcsrbu8SrA8NYorom) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Jazz Lullaby](https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7) | 2:53 | 2023-06-15 |  |
 | [The Last Call](https://open.spotify.com/track/31ojaZG2e30V671L4Z5ntW) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [The Last Call](https://open.spotify.com/album/3ifBBmWsuoHqpXnfYJ4YwS) | 3:36 | 2023-08-10 |  |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-11-10 |  |
@@ -737,6 +738,7 @@
 | [Up before the dawn](https://open.spotify.com/track/1R7EYodTHWPEyV5u96oFRE) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Up before the dawn](https://open.spotify.com/album/4UdKcEHfFrgqSuJ6ybBfT1) | 3:33 | 2023-05-11 |  |
 | [Varenne](https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Varenne](https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho) | 3:44 | 2022-11-10 |  |
 | [Vi drar till fjället](https://open.spotify.com/track/2Y8O8KbZlh2OFLAOZAUKw1) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Vi drar till fjället](https://open.spotify.com/album/4QudsbRCU01iRaeI2kmOpP) | 2:50 | 2022-11-10 |  |
+| [Views Of Dawn](https://open.spotify.com/track/3zUaKDbqzQnoqkL0BSH3QI) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [Views Of Dawn](https://open.spotify.com/album/4nJdBEbnZwvdvp7OyAnCF1) | 6:13 | 2023-09-22 |  |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 |  |
 | [Walking into Love](https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Walking into Love](https://open.spotify.com/album/2lfst2A0Lbz8kpzxprjnM2) | 3:17 | 2023-04-14 |  |
 | [Waltz At Midnight](https://open.spotify.com/track/6fmBZeSeM8Cp4mNivC7AGT) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Waltz At Midnight](https://open.spotify.com/album/2qKhcF6JaeTuNcr1uzrcY8) | 3:34 | 2023-02-02 |  |

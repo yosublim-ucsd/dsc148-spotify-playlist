@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 346501,
+  "num_followers": 346515,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTc3MmNmOTZhMTUzZWZkNjE2NmM3MjcwNDE5MjQ1Y2NjYzY5YmMw",
+  "snapshot_id": "MCwzZDRiZTkxOTIxYmRlOGQxN2ExMDAzZWE4NWVjMjQwNjVjYWFlZDY0",
   "tracks": [
     {
       "added_at": "2023-09-02 00:00:35",
@@ -159,26 +159,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Baby (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Tk4wmf1IgEPPq36yD4G7Z"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 187178,
-      "name": "Baby - Ao Vivo",
-      "url": "https://open.spotify.com/track/5YctcwZCRMxlIHDpTuqKOE"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Preciso Dizer Que Te Amo",
         "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 233990,
       "name": "Preciso Dizer Que Te Amo",
       "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Baby (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Tk4wmf1IgEPPq36yD4G7Z"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 187178,
+      "name": "Baby - Ao Vivo",
+      "url": "https://open.spotify.com/track/5YctcwZCRMxlIHDpTuqKOE"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -235,30 +235,6 @@
       "duration_ms": 238384,
       "name": "No Escuro",
       "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Pra Melhorar",
-        "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Flor",
-          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
-        }
-      ],
-      "duration_ms": 256613,
-      "name": "Pra Melhorar",
-      "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -351,6 +327,30 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Pra Melhorar",
+        "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Flor",
+          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Pra Melhorar",
+      "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Meu Coco",
         "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
       },
@@ -363,6 +363,26 @@
       "duration_ms": 212014,
       "name": "Sem Samba N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Bloco Do Silva #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Sozinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -467,26 +487,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Bloco Do Silva #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Sozinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "D",
         "url": "https://open.spotify.com/album/36BRJ7h8gQe09QCT1WaQe3"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 268617,
       "name": "Iluminado (feat. Flavia Virginia, Max Viana, Jo\u00e3o Viana, Sofia Viana, In\u00e1cio Viana, Thomas Boljover & Lui Viana)",
       "url": "https://open.spotify.com/track/4PyckagqFTimt12aJrg71q"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -587,26 +603,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "B\u00e9di Beat (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 275750,
-      "name": "B\u00e9di Beat (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Meu Parceiro Belchior",
         "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
       },
@@ -627,6 +623,26 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "B\u00e9di Beat (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 275750,
+      "name": "B\u00e9di Beat (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Nos Seus Olhos",
         "url": "https://open.spotify.com/album/04dmXQ9COXiUhG7UppprxT"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 215277,
       "name": "Nos Seus Olhos",
       "url": "https://open.spotify.com/track/0yQz6wGUS38u6EZOV677Ie"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -703,6 +703,26 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Pago Pra Ver",
+        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 272559,
+      "name": "Pago Pra Ver",
+      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Noturno",
         "url": "https://open.spotify.com/album/3Q6KR2k01ltWu8OtqOmm3E"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 283557,
       "name": "Nu Com a Minha M\u00fasica",
       "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Pago Pra Ver",
-        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 272559,
-      "name": "Pago Pra Ver",
-      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Pisadinha",
-        "url": "https://open.spotify.com/album/7ErOLfcPk2BGTrjfrx7nSY"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Pisadinha",
-      "url": "https://open.spotify.com/track/7AseVbtQ1CL0vY3f8XMyCH"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "ESTRELA",
         "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 185777,
       "name": "ESTRELA",
       "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Pisadinha",
+        "url": "https://open.spotify.com/album/7ErOLfcPk2BGTrjfrx7nSY"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Pisadinha",
+      "url": "https://open.spotify.com/track/7AseVbtQ1CL0vY3f8XMyCH"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Morro Dois Irm\u00e3os",
-        "url": "https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 259709,
-      "name": "Morro Dois Irm\u00e3os",
-      "url": "https://open.spotify.com/track/0KFRKD16R8XL619JkEh241"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 219098,
       "name": "Lua e Estrela",
       "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Morro Dois Irm\u00e3os",
+        "url": "https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 259709,
+      "name": "Morro Dois Irm\u00e3os",
+      "url": "https://open.spotify.com/track/0KFRKD16R8XL619JkEh241"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Se N\u00e3o For Amor",
+        "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
+      },
+      "artists": [
+        {
+          "name": "Benito 80",
+          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
+        },
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Se N\u00e3o For Amor",
+      "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Fogo",
         "url": "https://open.spotify.com/album/5o08PAK8oEAIx05WDKkmsZ"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 190468,
       "name": "Tenho Sede",
       "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Se N\u00e3o For Amor",
-        "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
-      },
-      "artists": [
-        {
-          "name": "Benito 80",
-          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
-        },
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Se N\u00e3o For Amor",
-      "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Tamb\u00e9m Pede Bis",
+        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
+      },
+      "artists": [
+        {
+          "name": "Pedro Miranda",
+          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
+        }
+      ],
+      "duration_ms": 171805,
+      "name": "Tamb\u00e9m Pede Bis",
+      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Redescobrir",
         "url": "https://open.spotify.com/album/42cmmfuVuaLEHUbQzbqsWU"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 207240,
       "name": "Redescobrir",
       "url": "https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Tamb\u00e9m Pede Bis",
-        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
-      },
-      "artists": [
-        {
-          "name": "Pedro Miranda",
-          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
-        }
-      ],
-      "duration_ms": 171805,
-      "name": "Tamb\u00e9m Pede Bis",
-      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Renata Maria",
-        "url": "https://open.spotify.com/album/0yGw4IDr5acCU9HMgD0AP3"
-      },
-      "artists": [
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
-        }
-      ],
-      "duration_ms": 328455,
-      "name": "Renata Maria",
-      "url": "https://open.spotify.com/track/1yU1R8e49PCmgSwxn1tSXs"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "D\u00e9cada",
         "url": "https://open.spotify.com/album/1N0Fr960cPwTVwkiIHbYom"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 96396,
       "name": "Desculpa",
       "url": "https://open.spotify.com/track/1osMwBr58lJScAR0ACIvFB"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Renata Maria",
+        "url": "https://open.spotify.com/album/0yGw4IDr5acCU9HMgD0AP3"
+      },
+      "artists": [
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "duration_ms": 328455,
+      "name": "Renata Maria",
+      "url": "https://open.spotify.com/track/1yU1R8e49PCmgSwxn1tSXs"
     },
     {
       "added_at": "2023-09-02 00:00:35",

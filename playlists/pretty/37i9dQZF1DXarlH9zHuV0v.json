@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 233505,
+  "num_followers": 233549,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTM4OTg5NTdmNDNhZGMyMGJkNzgwNDljZjY0OWRkMGVmZWEyYWI3",
+  "snapshot_id": "MCw5NmUxYTEyYTQ0YWYxZmI1MWZlOTUzMGZlNTEyYjJmYzlmMzQ3ODE3",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -375,6 +375,38 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "Darkside",
         "url": "https://open.spotify.com/album/64WDoAGyTcPlSIFAiSDsB0"
       },
@@ -395,22 +427,6 @@
       "duration_ms": 211866,
       "name": "Darkside",
       "url": "https://open.spotify.com/track/1snWlbcbgQpJfknoI30DWG"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -447,18 +463,18 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
       },
       "artists": [
         {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
         }
       ],
-      "duration_ms": 219720,
-      "name": "Dance Macabre",
-      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
+      "duration_ms": 194026,
+      "name": "Jack's Lament",
+      "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -475,22 +491,6 @@
       "duration_ms": 276866,
       "name": "Stabbing In The Dark",
       "url": "https://open.spotify.com/track/7H5q9RsWBDRrKq2qCdv2HG"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Nightmare Before Christmas Special Edition",
-        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
-      },
-      "artists": [
-        {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Jack's Lament",
-      "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -819,6 +819,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "Somebody\u2019s Watching Me (Sped Up)",
+        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 264266,
       "name": "You And Me And The Devil Makes 3",
       "url": "https://open.spotify.com/track/5Jy6qEhf3rDl1us388toad"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Greatest Hits (Speciel Edition)",
-        "url": "https://open.spotify.com/album/5crHzO0kyQmmI23LINH9AO"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/5tGcBhlRXSweh1v8X3C6Nk"
     }
   ],
   "unique_name": "Ultimate Halloween",

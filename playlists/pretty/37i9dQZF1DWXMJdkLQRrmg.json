@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 323486,
+  "num_followers": 323560,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWYxN2ViNTljNWQyMGRmNjA4ZjlmZDY2ZjJlOGIzNzIyMWQ4MWEw",
+  "snapshot_id": "MCw5OGZmNDhkODQxNWI2MTFlYzdkYTJlOTgzZmFmM2I5MDM1ODAyYmQ2",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Unearthed",
         "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
       },
@@ -415,22 +399,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Anthem Of The Peaceful Army",
-        "url": "https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 281306,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Between the Bars",
         "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
       },
@@ -443,6 +411,38 @@
       "duration_ms": 260053,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Anthem Of The Peaceful Army",
+        "url": "https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 281306,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr"
     },
     {
       "added_at": "2023-05-19 04:01:00",

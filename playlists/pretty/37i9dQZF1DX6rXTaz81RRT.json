@@ -1,12 +1,12 @@
 {
   "description": "Formas musicales de decir \"Te quiero\".",
-  "num_followers": 318996,
+  "num_followers": 319041,
   "original_name": "Te quiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODhhYjEyNjM2ZjM3N2FkM2ZjZGNjNjE5NTU3NTc4MzMxMTM4MTAy",
+  "snapshot_id": "MCwyYjAxNzk4NmI1Y2E0ODQ0NzQ0NzY4MGY1OTU0NGE3MmZiOGQ3YzU3",
   "tracks": [
     {
       "added_at": "2021-02-12 18:11:45",
@@ -127,22 +127,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -179,18 +163,34 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
       },
       "artists": [
         {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 180055,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -211,34 +211,18 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+      "duration_ms": 180055,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -339,6 +323,22 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -403,6 +403,22 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 278573,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 275440,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 278573,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "No Hay Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "At The Close Of A Century",
         "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Songs In A Minor",
-        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
+      "duration_ms": 199733,
+      "name": "No Hay Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -631,6 +615,22 @@
       "duration_ms": 438493,
       "name": "Just the Two of Us (feat. Bill Withers)",
       "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -795,6 +795,26 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 246026,
+      "name": "Love Never Felt So Good",
+      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
@@ -843,26 +863,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "XSCAPE",
-        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 246026,
-      "name": "Love Never Felt So Good",
-      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 219535,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/64GRDrL1efgXclrhVCeuA0"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 298120,
+      "name": "The Way You Make Me Feel - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -999,22 +1015,6 @@
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 298120,
-      "name": "The Way You Make Me Feel - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY"
     },
     {
       "added_at": "2021-02-12 18:11:45",

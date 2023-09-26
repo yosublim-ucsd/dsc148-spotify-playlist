@@ -3173,6 +3173,24 @@
     },
     {
       "album": {
+        "name": "blue bird",
+        "url": "https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA"
+      },
+      "artists": [
+        {
+          "name": "Slipp",
+          "url": "https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134703,
+      "name": "blue bird",
+      "url": "https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj"
+    },
+    {
+      "album": {
         "name": "Arabian Nights",
         "url": "https://open.spotify.com/album/1kUcEbPsImFojP0O8DuBwN"
       },
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 125538,
       "name": "Bright Encounters",
       "url": "https://open.spotify.com/track/5sNMW4UPPJ8Zosu9elP9dj"
@@ -9971,6 +9989,24 @@
     },
     {
       "album": {
+        "name": "fromain",
+        "url": "https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK"
+      },
+      "artists": [
+        {
+          "name": "Muddy Mudd",
+          "url": "https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122179,
+      "name": "fromain",
+      "url": "https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa"
+    },
+    {
+      "album": {
         "name": "Frontal Lowb",
         "url": "https://open.spotify.com/album/2f5GnE9LdGgvKhAPTE6bxC"
       },
@@ -10468,7 +10504,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 129000,
       "name": "give it a whirl",
       "url": "https://open.spotify.com/track/0PU8NU1ApgBum2xvi2vAzF"
@@ -15565,6 +15601,24 @@
     },
     {
       "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P"
+      },
+      "artists": [
+        {
+          "name": "Cal Credence",
+          "url": "https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu"
+    },
+    {
+      "album": {
         "name": "Lush City",
         "url": "https://open.spotify.com/album/0L20Ytov7CyUumudkERsHV"
       },
@@ -16306,7 +16360,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 116770,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5OUp8kF4z1oxwWcYFKg2qW"
@@ -18037,6 +18091,24 @@
     },
     {
       "album": {
+        "name": "Newfoundland",
+        "url": "https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH"
+      },
+      "artists": [
+        {
+          "name": "ohlos",
+          "url": "https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Newfoundland",
+      "url": "https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd"
+    },
+    {
+      "album": {
         "name": "Next Chapter",
         "url": "https://open.spotify.com/album/6P1Rhjg3KWMHTXPXzj9qtS"
       },
@@ -19522,7 +19594,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 138593,
       "name": "Pacific Coast",
       "url": "https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5"
@@ -20434,7 +20506,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 128000,
       "name": "Periodical",
       "url": "https://open.spotify.com/track/1lAJMJ01FU1RibQigO6RQ1"
@@ -23188,6 +23260,24 @@
       "duration_ms": 185067,
       "name": "Simmer Down",
       "url": "https://open.spotify.com/track/6sguED9GcSPkitHUV69fhN"
+    },
+    {
+      "album": {
+        "name": "Simple Solitude",
+        "url": "https://open.spotify.com/album/7ji5s1oKZ0d1Vj8I9WJR5p"
+      },
+      "artists": [
+        {
+          "name": "Chilou",
+          "url": "https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153658,
+      "name": "Simple Solitude",
+      "url": "https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn"
     },
     {
       "album": {
@@ -27602,7 +27692,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 133020,
       "name": "Tune Out",
       "url": "https://open.spotify.com/track/4ZsI2orhFDadedp84ZXOIl"
@@ -29890,6 +29980,24 @@
       "duration_ms": 129229,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/2lJPaHVoe2GIBPu2ww3x01"
+    },
+    {
+      "album": {
+        "name": "yo!",
+        "url": "https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK"
+      },
+      "artists": [
+        {
+          "name": "H I K E",
+          "url": "https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120169,
+      "name": "yo!",
+      "url": "https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,932 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,959 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 27 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 |
 | 28 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
 | 29 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 |
-| 30 | [Errr Day](https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Errr Day](https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK) | 3:24 |
-| 31 | [Beautiful \(Feat\. Gaho, Moti, Jung Jin Woo\)](https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6), [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc), [Moti](https://open.spotify.com/artist/2douezlnzbINNdpIBZoYWT), [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:31 |
+| 30 | [Beautiful \(Feat\. Gaho, Moti, Jung Jin Woo\)](https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6), [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc), [Moti](https://open.spotify.com/artist/2douezlnzbINNdpIBZoYWT), [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:31 |
+| 31 | [Errr Day](https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Errr Day](https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK) | 3:24 |
 | 32 | [LOVE](https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Guardian \(Original Television Soundtrack\), Pt\. 13](https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9) | 2:57 |
 | 33 | [Especially For You](https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ) | [Lee Daneung](https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO) | [Especially For You](https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl) | 2:34 |
 | 34 | [Celeb](https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:19 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 47 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
 | 48 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
 | 49 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 |
-| 50 | [Twenty \(Prod\. Jung Key\)](https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO) | [SWAN](https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g) | [Twenty \(Prod\. Jung Key\)](https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq) | 3:39 |
-| 51 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
+| 50 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
+| 51 | [Twenty \(Prod\. Jung Key\)](https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO) | [SWAN](https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g) | [Twenty \(Prod\. Jung Key\)](https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq) | 3:39 |
 | 52 | [Love in the Milky Way Cafe](https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [1.0](https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c) | 2:52 |
 | 53 | [Lover](https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lover](https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT) | 2:49 |
-| 54 | [Real Love](https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Love in Contract, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF) | 3:19 |
-| 55 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 |
-| 56 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
-| 57 | [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 |
+| 54 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
+| 55 | [Real Love](https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Love in Contract, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF) | 3:19 |
+| 56 | [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 |
+| 57 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 |
 | 58 | [I Will Be By Your Side](https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP) | 4:04 |
-| 59 | [Love Song](https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q) | [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [Tale of the Nine Tailed 1938, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP) | 3:09 |
-| 60 | [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:40 |
+| 59 | [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:40 |
+| 60 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
 
-Snapshot ID: `MCxhOGE1NjUyNjdiNzQzYmZmOTZkY2ZkYzkwOWM1MDkzMmU4N2NmMjY0`
+Snapshot ID: `MCw1YTY0ZDgxMmExZDgzMDE5ODEzMmQ2YzEwM2M0MWFkMGZiMzIxZGIw`

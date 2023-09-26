@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de septiembre 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,544,831 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,544,814 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 12 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 |
 | 13 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 |
 | 14 | [No digas nada](https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [No digas nada](https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3) | 3:42 |
-| 15 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 |
-| 16 | [Ojos Azules](https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ojos Azules](https://open.spotify.com/album/5K61vlx2TL72E1eVrGVjD0) | 3:08 |
-| 17 | [VENTE CONMIGO](https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VENTE CONMIGO](https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB) | 3:06 |
+| 15 | [VENTE CONMIGO](https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VENTE CONMIGO](https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB) | 3:06 |
+| 16 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 |
+| 17 | [Ojos Azules](https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ojos Azules](https://open.spotify.com/album/5K61vlx2TL72E1eVrGVjD0) | 3:08 |
 | 18 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
 | 19 | [Trofeo](https://open.spotify.com/track/4ajAhp58D3zWqtpGJFG2NB) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Trofeo](https://open.spotify.com/album/4BrK3QOclSE0bAumHy1Lz7) | 3:42 |
 | 20 | [Hora de Salir](https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Hora de Salir](https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [AMIGA DEL ALCOHOL](https://open.spotify.com/track/4wL75NdSDkaK9KocyH5JHY) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [LI4M](https://open.spotify.com/artist/0ItFkNpFwk5M1GEWtZzhbs) | [AMIGA DEL ALCOHOL](https://open.spotify.com/album/3l5PnrhVfXZL9NiAxk0e36) | 3:13 |
 | 50 | [80's](https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [80's](https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES) | 3:33 |
 
-Snapshot ID: `MCxiY2IyNmE4MzJjYmZmZTFmODE3ODc0OGM1NjllYTRmZGYyOTQ3MmM4`
+Snapshot ID: `MCwwM2U2NDhkM2UyZTA1NmZmMjIxZTYwYTA2YTYyYmZlYWI1Njc2N2Rj`

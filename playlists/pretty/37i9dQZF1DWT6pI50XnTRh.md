@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,509 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,554 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 14 | [Theme From Shaft \- Remastered 2009](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 |
 | 15 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 |
 | 16 | [A Night to Remember](https://open.spotify.com/track/2xsXNMfcKLQxL5sQq4v7gH) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [The 12 Inch Collection](https://open.spotify.com/album/3sY9MPqUb0mSj1sujVdLZc) | 4:59 |
-| 17 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 |
-| 18 | [Come on Home](https://open.spotify.com/track/1FhP3mymDoN2hX5p57uTnu) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/0STgCf0eno2mvc48tbckNt) | 5:18 |
+| 17 | [Come on Home](https://open.spotify.com/track/1FhP3mymDoN2hX5p57uTnu) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/0STgCf0eno2mvc48tbckNt) | 5:18 |
+| 18 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 |
 | 19 | [Shake Your Body \(Down to the Ground\) \- 7" Version](https://open.spotify.com/track/26QORAYrHVWk6Pn6ELkzvn) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny \(Expanded Version\)](https://open.spotify.com/album/4uHjiaukvzX2i2IzLkUqWy) | 3:47 |
 | 20 | [Love Come Down \- Single Version](https://open.spotify.com/track/3ZpSFamHHJE4kL59IePR7P) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Essential \- Soul Love](https://open.spotify.com/album/7LNiJbdcg604Tfr5revoL6) | 3:37 |
 | 21 | [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 34 | [Friends](https://open.spotify.com/track/6TzkJUYcxbSHMiVYz3HpKl) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends / Go For It](https://open.spotify.com/album/39jaUqZfh7YUgQnemcgnXF) | 5:00 |
 | 35 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 |
 | 36 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 |
-| 37 | [Say I Love You](https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [This Is Eddy Grant](https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX) | 3:55 |
-| 38 | [The Warrior](https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 3:44 |
+| 37 | [The Warrior](https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 3:44 |
+| 38 | [Say I Love You](https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [This Is Eddy Grant](https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX) | 3:55 |
 | 39 | [Sugar Cane Baby](https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 5:31 |
 | 40 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
 | 41 | [Don't Let My Rainbow Pass Me By](https://open.spotify.com/track/5F030QnPpy1nMh8UmlHdKD) | [Cloud One](https://open.spotify.com/artist/2B9FE4FTPCJ7W8DrF5wkve), [Margo Williams](https://open.spotify.com/artist/1EzQ066WkkULCd4TByuEqd) | [Spaced Out: The Very Best of Cloud One](https://open.spotify.com/album/3rPJAH1VcOILbQIwfy7Rfz) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 49 | [Love for the Sake of Love](https://open.spotify.com/track/3XfO4iKlM7fdoiJ4uz1wku) | [Claudia Barry](https://open.spotify.com/artist/5Y4hAdGj1mciEktS39vJYN) | [Discomania: Hits Dance 70\-80, Vol\. 6](https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d) | 4:27 |
 | 50 | [Trinidad \- Special Disco Mix](https://open.spotify.com/track/4Qb0va1gzVonFxU7vghCfp) | [John Gibbs](https://open.spotify.com/artist/0sByuZOX52ihgJcBMs4i0a), [U.S\. Steel Orchestra](https://open.spotify.com/artist/3Rd64MZkwo6mAbERZVt1aR) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 5:04 |
 
-Snapshot ID: `MCw2OTZhZmZmOTAwNjFjYTllYTkwZjVmYmM1NGJiMDVhNjg1ZDFkY2Fh`
+Snapshot ID: `MCwxNGIyOWEwZDIyZTY5MGFmZGNjNWE2YTg0MDNlNzgzYmNiMDljMjgw`

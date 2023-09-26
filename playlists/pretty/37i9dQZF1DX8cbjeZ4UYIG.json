@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 294796,
+  "num_followers": 294893,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWE5MjM2MTZmMzM0NGE0MWQ2N2ZhNjM2ZjE0NzBjMzIyNzYwOGI1",
+  "snapshot_id": "MCw1YWE0YzVhOTQ0MzE0MWFiNjM5ZWI1NWMyYzE1Y2Q4OTczNjhhMjU2",
   "tracks": [
     {
       "added_at": "2020-10-06 12:32:47",
@@ -111,6 +111,22 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
+        "name": "Mind Fruit",
+        "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
+      },
+      "artists": [
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "It's a Fine Day",
+      "url": "https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
         "name": "Sweet Harmony",
         "url": "https://open.spotify.com/album/2SyBDNNhCrhgxQDBCvNcZ3"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 262400,
       "name": "Passion - Naked Edit",
       "url": "https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Mind Fruit",
-        "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
-      },
-      "artists": [
-        {
-          "name": "Opus III",
-          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "It's a Fine Day",
-      "url": "https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "On a Ragga Tip '97",
-        "url": "https://open.spotify.com/album/6HuS4ewokxN2PuHtyKsaPI"
-      },
-      "artists": [
-        {
-          "name": "SL2",
-          "url": "https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn"
-        }
-      ],
-      "duration_ms": 309426,
-      "name": "On a Ragga Tip '97 - Original Mix",
-      "url": "https://open.spotify.com/track/7gX6Y2jhsrVqu9qIrxpPof"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Utah Saints",
         "url": "https://open.spotify.com/album/75Nl51OzRYnIsJEYcY10Bz"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 355880,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/22AvpWbOtNTiem8jKDk8QO"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "On a Ragga Tip '97",
+        "url": "https://open.spotify.com/album/6HuS4ewokxN2PuHtyKsaPI"
+      },
+      "artists": [
+        {
+          "name": "SL2",
+          "url": "https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn"
+        }
+      ],
+      "duration_ms": 309426,
+      "name": "On a Ragga Tip '97 - Original Mix",
+      "url": "https://open.spotify.com/track/7gX6Y2jhsrVqu9qIrxpPof"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -303,22 +303,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Not Over Yet (Remixes)",
-        "url": "https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw"
-      },
-      "artists": [
-        {
-          "name": "Grace",
-          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Not over Yet - Perfecto Edit",
-      "url": "https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Pulp Fiction",
         "url": "https://open.spotify.com/album/7CrelOKM75tC3HaQ8a7dsV"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 371733,
       "name": "Pulp Fiction",
       "url": "https://open.spotify.com/track/4bsF2ZJgmq2JiDfyIV3CaX"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Not Over Yet (Remixes)",
+        "url": "https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw"
+      },
+      "artists": [
+        {
+          "name": "Grace",
+          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Not over Yet - Perfecto Edit",
+      "url": "https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Clear - Jose \u201cAnimal\u201d Diaz Remix",
-      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Jungle Hits, Vol. 1",
         "url": "https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 238760,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Clear - Jose \u201cAnimal\u201d Diaz Remix",
+      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -723,22 +723,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Music for the Jilted Generation",
-        "url": "https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 379906,
-      "name": "No Good (Start the Dance)",
-      "url": "https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Utd. State 90",
         "url": "https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 360012,
       "name": "It's a Jazz Thing - Utah Jazz Remix",
       "url": "https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Music for the Jilted Generation",
+        "url": "https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 379906,
+      "name": "No Good (Start the Dance)",
+      "url": "https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0"
     },
     {
       "added_at": "2020-10-06 12:32:47",

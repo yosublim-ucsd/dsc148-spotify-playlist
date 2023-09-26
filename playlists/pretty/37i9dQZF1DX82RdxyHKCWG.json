@@ -1,12 +1,12 @@
 {
   "description": "Tudo de novo que t\u00e1 rolando no pop! Atualizada toda semana \u2728 Foto: Troye Sivan",
-  "num_followers": 120477,
+  "num_followers": 120516,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDYxNjUyNjg2Y2UyNmE1OWFjZjc3YjFlOTMzM2IwOWEwZmUxMzFl",
+  "snapshot_id": "MCwwNGIyMDE0MWM3YzYxNzI5MmI0MDNmZDk4N2FmYjExNGFlNTU2MDRm",
   "tracks": [
     {
       "added_at": "2023-09-22 22:21:56",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-09-22 22:21:56",
       "album": {
-        "name": "Single Soon",
-        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 171655,
-      "name": "Single Soon",
-      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
-    },
-    {
-      "added_at": "2023-09-22 22:21:56",
-      "album": {
         "name": "Slime You Out",
         "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 310490,
       "name": "Slime You Out (feat. SZA)",
       "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
+    },
+    {
+      "added_at": "2023-09-22 22:21:56",
+      "album": {
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "added_at": "2023-09-22 22:21:56",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-22 22:21:56",
       "album": {
-        "name": "Last Time I Saw You",
-        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 216347,
-      "name": "Last Time I Saw You",
-      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
-    },
-    {
-      "added_at": "2023-09-22 22:21:56",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -467,22 +451,18 @@
     {
       "added_at": "2023-09-22 22:21:56",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
     },
     {
       "added_at": "2023-09-22 22:21:56",
@@ -503,6 +483,26 @@
       "duration_ms": 131037,
       "name": "Back for More (with Anitta)",
       "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
+    },
+    {
+      "added_at": "2023-09-22 22:21:56",
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2023-09-22 22:21:56",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-09-22 22:21:56",
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 124455,
-      "name": "A Dona Aranha",
-      "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
-    },
-    {
-      "added_at": "2023-09-22 22:21:56",
-      "album": {
         "name": "Snooze (Acoustic) (feat. Justin Bieber)",
         "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 190464,
       "name": "Snooze (Acoustic) (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
+    },
+    {
+      "added_at": "2023-09-22 22:21:56",
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 124455,
+      "name": "A Dona Aranha",
+      "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
     },
     {
       "added_at": "2023-09-22 22:21:56",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-09-22 22:21:56",
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
+    },
+    {
+      "added_at": "2023-09-22 22:21:56",
+      "album": {
         "name": "Trofeo",
         "url": "https://open.spotify.com/album/4BrK3QOclSE0bAumHy1Lz7"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-09-22 22:21:56",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
-    },
-    {
-      "added_at": "2023-09-22 22:21:56",
-      "album": {
         "name": "this is what autumn feels like",
         "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 219909,
       "name": "this is what autumn feels like",
       "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
+    },
+    {
+      "added_at": "2023-09-22 22:21:56",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
       "added_at": "2023-09-22 22:21:56",
@@ -907,6 +923,22 @@
     {
       "added_at": "2023-09-22 22:21:56",
       "album": {
+        "name": "Silence Between Songs",
+        "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 161852,
+      "name": "Sweet Relief",
+      "url": "https://open.spotify.com/track/12BAxMbHzksw2xiq05gKtT"
+    },
+    {
+      "added_at": "2023-09-22 22:21:56",
+      "album": {
         "name": "UNHEALTHY (Deluxe)",
         "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
       },
@@ -927,22 +959,6 @@
     {
       "added_at": "2023-09-22 22:21:56",
       "album": {
-        "name": "Silence Between Songs",
-        "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 161852,
-      "name": "Sweet Relief",
-      "url": "https://open.spotify.com/track/12BAxMbHzksw2xiq05gKtT"
-    },
-    {
-      "added_at": "2023-09-22 22:21:56",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 219133,
       "name": "Angel",
       "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
-    },
-    {
-      "added_at": "2023-09-22 22:21:56",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
     },
     {
       "added_at": "2023-09-22 22:21:56",
@@ -1027,6 +1027,22 @@
       "duration_ms": 175636,
       "name": "Crush",
       "url": "https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O"
+    },
+    {
+      "added_at": "2023-09-22 22:21:56",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/6vb4kCEIM7zrwuHlxFbfeB"
     },
     {
       "added_at": "2023-09-22 22:21:56",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-09-22 22:21:56",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/6vb4kCEIM7zrwuHlxFbfeB"
-    },
-    {
-      "added_at": "2023-09-22 22:21:56",
-      "album": {
         "name": "Man I Am (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5ra7esHOt8nyFcIFwGJ7wh"
       },
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-09-22 22:21:56",
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Balut",
+      "url": "https://open.spotify.com/track/3yeVb5di44wD6CZ2sJromR"
+    },
+    {
+      "added_at": "2023-09-22 22:21:56",
+      "album": {
         "name": "Body Count",
         "url": "https://open.spotify.com/album/6xL1ikHJ821Ixva9Suq4qM"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 182278,
       "name": "Uh Huh",
       "url": "https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM"
-    },
-    {
-      "added_at": "2023-09-22 22:21:56",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Balut",
-      "url": "https://open.spotify.com/track/3yeVb5di44wD6CZ2sJromR"
     },
     {
       "added_at": "2023-09-22 22:21:56",
@@ -1287,6 +1287,30 @@
     {
       "added_at": "2023-09-22 22:21:56",
       "album": {
+        "name": "Santorini (Remix)",
+        "url": "https://open.spotify.com/album/0kRKA3RJchMyON78ky1fmw"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Santorini - Remix",
+      "url": "https://open.spotify.com/track/7Kzn6nzJQiUEj79IgxeD7F"
+    },
+    {
+      "added_at": "2023-09-22 22:21:56",
+      "album": {
         "name": "DELIRIUM",
         "url": "https://open.spotify.com/album/5PrrhEOjQwqY1VsVuG4vQZ"
       },
@@ -1319,30 +1343,6 @@
       "duration_ms": 321333,
       "name": "Uneasy (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/6dotY5Ubbm5cLKBm6KQkZI"
-    },
-    {
-      "added_at": "2023-09-22 22:21:56",
-      "album": {
-        "name": "Santorini (Remix)",
-        "url": "https://open.spotify.com/album/0kRKA3RJchMyON78ky1fmw"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Santorini - Remix",
-      "url": "https://open.spotify.com/track/7Kzn6nzJQiUEj79IgxeD7F"
     },
     {
       "added_at": "2023-09-22 22:21:56",

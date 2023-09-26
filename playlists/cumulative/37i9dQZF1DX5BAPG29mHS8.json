@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Peso Pluma en portada. ",
+  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Bad Bunny en portada. ",
   "name": "\u00c9xitos M\u00e9xico",
   "tracks": [
     {
@@ -6670,7 +6670,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 185920,
       "name": "Rosa Pastel",
       "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
@@ -8178,6 +8178,24 @@
       "duration_ms": 226776,
       "name": "Un Nuevo Amor",
       "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
+    },
+    {
+      "album": {
+        "name": "UN PREVIEW",
+        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165582,
+      "name": "UN PREVIEW",
+      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
     },
     {
       "album": {

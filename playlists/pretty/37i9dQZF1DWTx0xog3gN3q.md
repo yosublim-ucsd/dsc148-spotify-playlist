@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTx0xog3gN3q.md) - [plain]
 
 > Whenever you need a soulful boost\. Cover: Marvin Gaye
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,254,197 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,254,559 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTx0xog3gN3q.md) - [plain]
 | 35 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
 | 36 | [Dancing In The Street](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 |
 | 37 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight](https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK) | 2:54 |
-| 38 | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 |
+| 38 | [Wake Up Everybody](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 |
 | 39 | [Heaven Must Have Sent You \- Mono Single](https://open.spotify.com/track/4iWytemcQqCczcPPpT0L0P) | [The Elgins](https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK) | [Hitsville USA \- The Motown Singles Collection 1959\-1971](https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj) | 2:32 |
 | 40 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 41 | [I Second That Emotion](https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The 35th Anniversary Collection](https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTx0xog3gN3q.md) - [plain]
 | 49 | [Something's Got A Hold On Me](https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:49 |
 | 50 | [Dance to the Music](https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:59 |
 
-Snapshot ID: `MCxhMzFjYTBjMzBlYmY1Njc2YmJiMzg5ZjZhZjJmOTcwZmM4ZTljNDRi`
+Snapshot ID: `MCw4MjZiMWY2NWJhN2JhYjM4OWU0NGFlOTQzNGM3OTFhYTdhNzYyM2Y1`

@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-442 songs - 1 day 5 hr 5 min
+447 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Bloom](https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Bloom](https://open.spotify.com/album/76LGx54WGptsGBHL497A3k) | 2:19 | 2023-03-24 |  |
 | [Blue](https://open.spotify.com/track/2gD6XfMklqFzI766JU9xjt) | [Retlehs](https://open.spotify.com/artist/1Zinn1WzK7KHfvgBUuGrrX) | [Satyr's Satire](https://open.spotify.com/album/4wOvGi8aHdcRcjLJ9HLZY2) | 3:57 | 2022-08-03 | 2022-09-05 |
 | [Blue Line Baby](https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:30 | 2021-10-19 | 2023-06-08 |
+| [Blurred Out](https://open.spotify.com/track/5cdOifwMWbS0DBzbcocfdJ) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C), [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Coping Habits](https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp) | 3:02 | 2023-09-25 |  |
 | [Bonsai](https://open.spotify.com/track/2Js2COGl7htc00CjZ2L2CO) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Infinite Summer](https://open.spotify.com/album/2UgS0gIHCafJEhhKVEDH4p) | 2:35 | 2021-10-19 | 2022-07-29 |
 | [Bottlerocket](https://open.spotify.com/track/5EeaNNzKCbJfcaVnaWz6Dl) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/60ikpGF6cPz302ZG0kqk4s) | 3:14 | 2021-10-19 | 2022-07-29 |
 | [bottlerocket](https://open.spotify.com/track/6meqtPZTfzDzYenqPY9DC8) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw) | 3:14 | 2021-10-19 | 2022-12-13 |
@@ -78,6 +79,7 @@
 | [Cabin Fever](https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7) | [Juice Jackal](https://open.spotify.com/artist/707dnhK9JFj9zyJvEhY761), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Cabin Fever](https://open.spotify.com/album/7EVs3WnBcbuCpe72Ac93Ty) | 3:06 | 2023-02-09 | 2023-07-22 |
 | [Calling it love isn't love \(Don't fall in love\)](https://open.spotify.com/track/4CQExLcRw5XWiWL1FqwE8J) | [A Sunny Day In Glasgow](https://open.spotify.com/artist/6ri0XKbaMvGEQ6r7fSee8g) | [Autumn, Again](https://open.spotify.com/album/2iME9zWaS1jUcztTmzPHSB) | 3:41 | 2021-10-19 | 2022-11-13 |
 | [Cambia](https://open.spotify.com/track/6ZVBExuI3xJZOZwmvHG7To) | [Bosques](https://open.spotify.com/artist/7tyJ5HvQArW2FlxO9MKa89) | [Mutaciones](https://open.spotify.com/album/2K55zXz2raFS1ISYzPIr5u) | 5:24 | 2021-10-19 | 2022-07-29 |
+| [Can't Stand](https://open.spotify.com/track/27HD1QGdmdv2x2fahp6k3f) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Can't Stand](https://open.spotify.com/album/5PIC9aNkbbcowFuUmwuiW1) | 4:04 | 2023-09-25 |  |
 | [Cannibal Capital](https://open.spotify.com/track/2v5v3uK96QddzNNwE8YNMz) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Cannibal Capital](https://open.spotify.com/album/35eBeNmH2x9WK759IVikYJ) | 4:24 | 2022-01-21 | 2022-07-29 |
 | [Cannibal Capital](https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Famously Alive](https://open.spotify.com/album/7AXXRxTM67OvipZj9iRbhw) | 4:24 | 2022-01-21 | 2023-01-14 |
 | [Catch a Fade](https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 3:50 | 2021-10-19 | 2023-06-08 |
@@ -145,6 +147,7 @@
 | [Drain Cosmetics](https://open.spotify.com/track/2fMaNlzGJ2hX4kcDrOO6Ck) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [Serena\-Maneesh](https://open.spotify.com/album/1u9qXD7p6LopPinllrjS2H) | 3:41 | 2021-10-19 | 2022-07-29 |
 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 | 2023-04-14 |  |
 | [Drift](https://open.spotify.com/track/61iCA0ReZHTA7f8ZaKZyEg) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Aurora](https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd) | 4:07 | 2021-10-19 | 2023-01-14 |
+| [dying to reach you](https://open.spotify.com/track/5Nj6R7pA8n8h2a0HHszyxh) | [Andrew Garden](https://open.spotify.com/artist/52edEK1d76neXRL7odUZwi) | [dying to reach you](https://open.spotify.com/album/5pqb3WFzAHPmQQ4Sg03X2S) | 3:04 | 2023-09-25 |  |
 | [Días Grises](https://open.spotify.com/track/0nTmbWN8jqJ6XNcG2i5rCq) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [Días Grises](https://open.spotify.com/album/04o1UCwDFrOPmHEE9iRQKy) | 2:39 | 2022-04-09 | 2022-07-28 |
 | [Ease](https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Whirr & Nothing \(Split Version\)](https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo) | 3:26 | 2021-10-19 | 2023-01-14 |
 | [Ease](https://open.spotify.com/track/7bUUdMyymVGHrYQg4xIqfm) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Whirr & Nothing \(Split Version\)](https://open.spotify.com/album/3C9y1zQaBRW3271tiXvcXc) | 3:26 | 2021-10-19 | 2022-07-29 |
@@ -173,7 +176,7 @@
 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 | 2023-03-10 | 2023-07-22 |
 | [Flores Rotas](https://open.spotify.com/track/4Kpx1Srna5losw7gIq1Kkv) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [Flores Rotas](https://open.spotify.com/album/4aLjH5HM35HSeShlbFYymW) | 5:05 | 2021-12-02 | 2022-07-29 |
 | [flower](https://open.spotify.com/track/1U1HCNmMUk1tCZDU7ME9y2) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [ok](https://open.spotify.com/album/26zISVi1kzYcpi3tkMfUvs) | 1:15 | 2023-06-14 | 2023-06-21 |
-| [flutter](https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [flutter](https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl) | 4:27 | 2023-01-12 | 2023-09-02 |
+| [flutter](https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [flutter](https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl) | 4:27 | 2023-01-12 |  |
 | [For the Kill](https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Odes to the Void](https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS) | 3:28 | 2022-12-15 | 2023-07-01 |
 | [forest green](https://open.spotify.com/track/4ARqMW0NJQpNtqnYHAgbjO) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [forest green](https://open.spotify.com/album/10avrb3XzKDttFJte6w2gR) | 3:27 | 2023-09-01 |  |
 | [Frame Of Reference](https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 2:33 | 2022-09-21 | 2023-06-17 |
@@ -224,6 +227,7 @@
 | [In Your Way](https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Here at All](https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU) | 3:54 | 2023-02-09 |  |
 | [Inevitable](https://open.spotify.com/track/0uBBAHfiu4Rxzr8smE36ly) | [Puesta De Sol](https://open.spotify.com/artist/0S84S0DTAsJYag1dSMDd1Z) | [Inevitable / Abrazo](https://open.spotify.com/album/0nxikgaZCaac69akWTGbeR) | 3:46 | 2022-09-09 | 2022-10-28 |
 | [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 | 2022-01-11 | 2022-12-15 |
+| [Intheskatepark](https://open.spotify.com/track/4zkAoqG7TwRxbCQpL0AZa0) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Intheskatepark](https://open.spotify.com/album/5ysjL1aGDCf3ODiF3le9Wh) | 2:25 | 2023-09-25 |  |
 | [Into Black](https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO) | [Blouse](https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL) | [Blouse](https://open.spotify.com/album/5413IR4TtBPOyw9vPDY7Lk) | 3:28 | 2021-10-19 | 2023-06-08 |
 | [Into Black](https://open.spotify.com/track/5d8pKJxoDlYX2SoFR6RCsm) | [Blouse](https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL) | [Blouse](https://open.spotify.com/album/7lzbyS6nNLF27Cw9zgrijG) | 3:28 | 2021-10-19 | 2022-07-29 |
 | [Invisible](https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Ether](https://open.spotify.com/album/79dOItYSIbHwx59fsP3nIu) | 3:11 | 2021-10-19 | 2023-06-02 |
@@ -250,7 +254,7 @@
 | [Lay Low](https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Lay Low](https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km) | 2:22 | 2023-04-14 | 2023-06-03 |
 | [Lazy Lovers](https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:57 | 2022-08-02 | 2022-11-14 |
 | [Leave](https://open.spotify.com/track/0BvpyzCi6f36IqdRHdA5Fp) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Distressor](https://open.spotify.com/album/74ym7Us7V06Eox5Wg5WqkD) | 4:13 | 2021-10-19 | 2022-12-01 |
-| [Leave](https://open.spotify.com/track/6yjtcpFf9dLgflkS52PYNa) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Distressor](https://open.spotify.com/album/4Mk9GyIiXwZg9KZN1UvTA2) | 4:13 | 2021-10-19 | 2023-01-14 |
+| [Leave](https://open.spotify.com/track/6yjtcpFf9dLgflkS52PYNa) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Distressor](https://open.spotify.com/album/4Mk9GyIiXwZg9KZN1UvTA2) | 4:13 | 2021-10-19 |  |
 | [Lemonade Beauty](https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Auras](https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq) | 4:08 | 2021-10-19 | 2023-01-14 |
 | [life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 3:23 | 2023-04-10 |  |
 | [life imitates life v2](https://open.spotify.com/track/3S3rAQgFftcCEnzZnVnwOC) | [TrixsBeats](https://open.spotify.com/artist/1QwA5uGak4i3cwDKFxeKGv) | [life imitates life v2](https://open.spotify.com/album/4Ba8QH8W13B9bJAmiA29kt) | 2:36 | 2023-06-20 | 2023-06-22 |
@@ -420,6 +424,7 @@
 | [Violet Blue](https://open.spotify.com/track/5h592bSBKLYagMFHZFhmiO) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Violet Blue](https://open.spotify.com/album/57HFG0erzR0TqzULOVI3X4) | 4:24 | 2021-10-19 | 2022-08-04 |
 | [Violet Blue](https://open.spotify.com/track/6rnrsEZeAMsSl7biIauLSt) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Violet Blue](https://open.spotify.com/album/6IPvQyKAQR7Ijmhwkd8oN4) | 4:24 | 2021-10-19 | 2022-07-29 |
 | [Virgo](https://open.spotify.com/track/555j37nNg3zppVNEBXHsAV) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Lucky Me, Lucky Mud](https://open.spotify.com/album/3kYFCZhHZEhPGdMYj12blw) | 3:28 | 2023-03-10 | 2023-07-20 |
+| [Wait](https://open.spotify.com/track/4A20nSO6BYi3DJJ4LyaEWJ) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [One Last Dream Before Dying](https://open.spotify.com/album/2figRslhHw7pSokLKS3kns) | 3:45 | 2023-09-25 |  |
 | [Wait Up](https://open.spotify.com/track/79uDI5OnWIIj4Za02naBzE) | [Gloomer](https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas) | [Wait Up](https://open.spotify.com/album/4ZVhySJ3eOpZtRVcg2MPDR) | 2:53 | 2022-08-31 | 2022-09-29 |
 | [Waiting Around](https://open.spotify.com/track/4nyqv670J2KLyF6dw68Vo0) | [Lilts](https://open.spotify.com/artist/1FIiuU3QEVE9BolZFEL5FG) | [Waiting Around](https://open.spotify.com/album/3FhDSxuLJNOJKe6YZZgIUA) | 2:39 | 2023-09-08 |  |
 | [Wanting War](https://open.spotify.com/track/1hFjYgyZe58ZTNBK4mX6m1) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 3:36 | 2021-10-19 | 2022-12-16 |

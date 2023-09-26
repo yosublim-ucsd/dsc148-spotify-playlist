@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15N77UE8GEz.md) - [plain]
 
 > ¡Escucha los éxitos de hoy!<br/>Foto: KAROL G & Peso Pluma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,625 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,746 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15N77UE8GEz.md) - [plain]
 | 49 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 |
 | 50 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
 
-Snapshot ID: `MCw2MzNhNTFkNzJlMTdhYTE2ODQ4ZjBiZGE0YzMxZGI5Njk2OTZmZjVi`
+Snapshot ID: `MCwwMjUxYTM0YWNhNzRhZDJmNWNjNDczMTRmZjRlZTBkYmU5MzM0MzI4`

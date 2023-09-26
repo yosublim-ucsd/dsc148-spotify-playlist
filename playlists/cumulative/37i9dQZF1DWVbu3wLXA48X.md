@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: The National
 
-1,181 songs - 2 day 23 hr 12 min
+1,182 songs - 2 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,7 +711,8 @@
 | [Now You See Me](https://open.spotify.com/track/6Oex5FIRjSH56Q1e3Z5JFA) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/2QUtniCVdNz7EEZHx8M0Od) | 2:54 | 2021-12-16 | 2022-01-21 |
 | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7) | 3:04 | 2023-05-05 | 2023-06-02 |
 | [Numb \(Feat\. Yellboy\)](https://open.spotify.com/track/06SXPlJLAvHuW3kE7uM8DF) | [ALOH](https://open.spotify.com/artist/6Pyu7hF0SX3P12ndEMYz4v), [Yellboy](https://open.spotify.com/artist/5Jq4KowVqFByezqZ5RG7EQ) | [Numb \(Feat\. Yellboy\)](https://open.spotify.com/album/3VNvA4gW2LaCIcdCt3RIv2) | 3:56 | 2022-01-06 | 2022-03-25 |
-| [Nun](https://open.spotify.com/track/2cDNCAsL794kS4lRg3Bpvl) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Nun](https://open.spotify.com/album/7j1ejF21Qf7iyg9KJztFnF) | 3:28 | 2023-09-01 |  |
+| [Nun](https://open.spotify.com/track/11pe9feCGo4KnxynmJ9yVR) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 3:28 | 2023-09-22 |  |
+| [Nun](https://open.spotify.com/track/2cDNCAsL794kS4lRg3Bpvl) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Nun](https://open.spotify.com/album/7j1ejF21Qf7iyg9KJztFnF) | 3:28 | 2023-09-01 | 2023-09-26 |
 | [NWYK](https://open.spotify.com/track/4KeGC0kxMnkKfVJTprS9nR) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [NWYK](https://open.spotify.com/album/6Qa9ljnHnMSJ7j4wTG7DMf) | 2:13 | 2023-06-01 | 2023-07-01 |
 | [NYE](https://open.spotify.com/track/5VWtw1qkaq1lBsgY2lLhNo) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [NYE](https://open.spotify.com/album/0xIg9hAbN6BYXXoEVoMwqX) | 3:10 | 2023-05-12 | 2023-06-02 |
 | [Oasis](https://open.spotify.com/track/7MRURZikVXKE80F1NPxiYW) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [10 Tracks to Echo in the Dark](https://open.spotify.com/album/5qVcQzxnSthvOT7OOIXDdH) | 1:53 | 2022-07-22 | 2022-09-10 |

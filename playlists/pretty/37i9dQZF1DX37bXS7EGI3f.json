@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 748029,
+  "num_followers": 748162,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDUxYTY0ZmQ4OTQ4YTYxNDQxYzlmZTcyZTRiMWE1MjI1M2U5Mzc3",
+  "snapshot_id": "MCw0ZDJkMDY3ZTlhNWU4ZTlmN2MzOWExN2NlZDFjODM3MDI2YjU0NTgz",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -111,18 +111,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The War to End All Wars",
-        "url": "https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da"
+        "name": "Circus Of Doom",
+        "url": "https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C"
       },
       "artists": [
         {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Stormtroopers",
-      "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
+      "duration_ms": 212100,
+      "name": "Tempest Of Blades",
+      "url": "https://open.spotify.com/track/62TCEZic6RfrMkC2jkJQ2S"
     },
     {
       "added_at": "2023-07-28 12:49:51",
@@ -139,22 +139,6 @@
       "duration_ms": 261480,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Circus Of Doom",
-        "url": "https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C"
-      },
-      "artists": [
-        {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
-        }
-      ],
-      "duration_ms": 212100,
-      "name": "Tempest Of Blades",
-      "url": "https://open.spotify.com/track/62TCEZic6RfrMkC2jkJQ2S"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -187,6 +171,22 @@
       "duration_ms": 239517,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0KRMfSzkY5G4ORX2jJDX9E"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The War to End All Wars",
+        "url": "https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stormtroopers",
+      "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Unkillable Soldier",
-        "url": "https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "The Unkillable Soldier",
-      "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Vultures Die Alone",
         "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 397026,
       "name": "Secrets Of The American Gods - Single Edit",
       "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Unkillable Soldier",
+        "url": "https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "The Unkillable Soldier",
+      "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -987,30 +987,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Bell",
-        "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
-      },
-      "artists": [
-        {
-          "name": "Eye of Melian",
-          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
-        },
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        },
-        {
-          "name": "Johanna Kurkela",
-          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
-        }
-      ],
-      "duration_ms": 271486,
-      "name": "The Bell",
-      "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Seventh Rum of a Seventh Rum",
         "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 286525,
       "name": "Not All Those Who Wander Are Lost",
       "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Bell",
+        "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
+      },
+      "artists": [
+        {
+          "name": "Eye of Melian",
+          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
+        },
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Johanna Kurkela",
+          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
+        }
+      ],
+      "duration_ms": 271486,
+      "name": "The Bell",
+      "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Now Is the Time",
-        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
-      },
-      "artists": [
-        {
-          "name": "Power Quest",
-          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
-        }
-      ],
-      "duration_ms": 378549,
-      "name": "Now Is the Time",
-      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Experience",
         "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 314414,
       "name": "Experience",
       "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Now Is the Time",
+        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
+      },
+      "artists": [
+        {
+          "name": "Power Quest",
+          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
+        }
+      ],
+      "duration_ms": 378549,
+      "name": "Now Is the Time",
+      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Juokse Sin\u00e4 Humma",
-        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 196636,
-      "name": "Juokse Sin\u00e4 Humma",
-      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Here We Stand",
         "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 248026,
       "name": "Here We Stand",
       "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Juokse Sin\u00e4 Humma",
+        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 196636,
+      "name": "Juokse Sin\u00e4 Humma",
+      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
     },
     {
       "added_at": "2023-05-19 04:00:00",

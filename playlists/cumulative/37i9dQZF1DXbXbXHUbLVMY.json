@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "K\u00e4nslokall",
+        "url": "https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123169,
+      "name": "K\u00e4nslokall",
+      "url": "https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w"
+    },
+    {
+      "album": {
         "name": "Ledare",
         "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
       },
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 135333,
       "name": "SIPPER",
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"

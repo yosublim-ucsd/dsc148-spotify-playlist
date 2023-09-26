@@ -1,12 +1,12 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana.",
-  "num_followers": 926035,
+  "num_followers": 926168,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjNkYjQxYThlYmYxZmIyM2M3NTA4YjE5MDRjNjBkODkzMjhiNDY4",
+  "snapshot_id": "MCwwZTliOWYwODkzNTQwOWJjMmY5YzAyNWFlODIxMDI0NDkyMWZkNGVk",
   "tracks": [
     {
       "added_at": "2020-06-24 19:34:30",
@@ -139,6 +139,38 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Las baladas (Los singles vol II)",
+        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Entre El Agua Y El Fuego",
         "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
       },
@@ -171,22 +203,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 233266,
       "name": "Lobo-hombre en Par\u00eds",
       "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Las baladas (Los singles vol II)",
-        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -255,6 +255,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Timbiriche 7",
         "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
       },
@@ -287,34 +303,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Pecado Original",
-        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
+        "name": "La Cagaste... Burt Lancaster",
+        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 201040,
-      "name": "\u00a1Ay Amor!",
-      "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 302493,
-      "name": "Cruz de navajas",
-      "url": "https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz"
+      "duration_ms": 184360,
+      "name": "El ataque de las chicas cocodrilo",
+      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
     },
     {
       "added_at": "2023-04-13 16:57:07",
@@ -335,8 +335,40 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 302493,
+      "name": "Cruz de navajas",
+      "url": "https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Pecado Original",
+        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "\u00a1Ay Amor!",
+      "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
       },
       "artists": [
         {
@@ -344,41 +376,25 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 237240,
-      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
-      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
+      "duration_ms": 180239,
+      "name": "La Chica Del Bikini Azul",
+      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
     },
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Luz Y Sombra",
-        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
+        "name": "15 \u00c9xitos de Marisela Vol. 2",
+        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
       },
       "artists": [
         {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 280040,
-      "name": "Las Mil Y Una Noches",
-      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "La Cagaste... Burt Lancaster",
-        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "El ataque de las chicas cocodrilo",
-      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
+      "duration_ms": 229933,
+      "name": "Sola Con Mi Soledad",
+      "url": "https://open.spotify.com/track/5piVXhB5leKZ3kF5nFSiDZ"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -395,6 +411,22 @@
       "duration_ms": 435493,
       "name": "Hasta Que Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Luz Y Sombra",
+        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Las Mil Y Una Noches",
+      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -431,38 +463,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "15 \u00c9xitos de Marisela Vol. 2",
-        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Sola Con Mi Soledad",
-      "url": "https://open.spotify.com/track/5piVXhB5leKZ3kF5nFSiDZ"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Palabra De Honor",
-        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 180239,
-      "name": "La Chica Del Bikini Azul",
-      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Grandes Duetos",
         "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 248373,
       "name": "Lucha De Gigantes",
       "url": "https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -543,22 +559,6 @@
       "duration_ms": 222946,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Descanso Dominical (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 311160,
-      "name": "La Fuerza del Destino",
-      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Timbiriche 7",
         "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 233666,
       "name": "Si No Es Ahora",
       "url": "https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Descanso Dominical (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 311160,
+      "name": "La Fuerza del Destino",
+      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -915,6 +915,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Timbiriche 7",
+        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Besos De Ceniza",
+      "url": "https://open.spotify.com/track/55DQStH29qHXa29EgJa7fb"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
       },
@@ -943,6 +959,26 @@
       "duration_ms": 188106,
       "name": "A Esa",
       "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Grandes Duetos",
+        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Prisma",
+          "url": "https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3"
+        }
+      ],
+      "duration_ms": 209676,
+      "name": "Oiga",
+      "url": "https://open.spotify.com/track/2kPmtoTWr2vusy8qw1iFiB"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -979,42 +1015,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Timbiriche 7",
-        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Besos De Ceniza",
-      "url": "https://open.spotify.com/track/55DQStH29qHXa29EgJa7fb"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Grandes Duetos",
-        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Prisma",
-          "url": "https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3"
-        }
-      ],
-      "duration_ms": 209676,
-      "name": "Oiga",
-      "url": "https://open.spotify.com/track/2kPmtoTWr2vusy8qw1iFiB"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Volcan",
         "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 285360,
       "name": "Volc\u00e1n",
       "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Timbiriche 8",
+        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "T\u00fa Y Yo Somos Uno Mismo",
+      "url": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Timbiriche 8",
-        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
       "artists": [
         {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 260786,
-      "name": "T\u00fa Y Yo Somos Uno Mismo",
-      "url": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
+      "duration_ms": 260026,
+      "name": "El Amor Acaba",
+      "url": "https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 260026,
-      "name": "El Amor Acaba",
-      "url": "https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "\"Miguel\"",
         "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 229668,
       "name": "Doce Rosas",
       "url": "https://open.spotify.com/track/7cGgfuTFHDRA0b7zdzEg6R"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Timbiriche 8",
+        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "\u00c1mame Hasta Con Los Dientes",
+      "url": "https://open.spotify.com/track/5DUwHccvudaVW3Fq6pQIvm"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Timbiriche 8",
-        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "\u00c1mame Hasta Con Los Dientes",
-      "url": "https://open.spotify.com/track/5DUwHccvudaVW3Fq6pQIvm"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Caribe",
         "url": "https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd"
       },
@@ -1283,22 +1283,6 @@
       "duration_ms": 197000,
       "name": "Atado a un Sentimiento",
       "url": "https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
-      },
-      "artists": [
-        {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
-        }
-      ],
-      "duration_ms": 237740,
-      "name": "Inocente Pobre Amiga",
-      "url": "https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1339,22 +1323,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Al Norte Del Sur",
-        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 309973,
-      "name": "Louis",
-      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "El Sonido Vol. 1",
         "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
       },
@@ -1367,6 +1335,38 @@
       "duration_ms": 166731,
       "name": "Hagamos Un Trato",
       "url": "https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 237740,
+      "name": "Inocente Pobre Amiga",
+      "url": "https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Al Norte Del Sur",
+        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "Louis",
+      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1419,38 +1419,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "El Angel Del Rock Vol. 2",
-        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 254826,
-      "name": "Sue\u00f1os Compartidos",
-      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Siempre Contigo",
-        "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "\u00bfY Qui\u00e9n Puede Ser?",
-      "url": "https://open.spotify.com/track/49eIAccdfjzsKjo7WPuAFJ"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
       },
@@ -1479,6 +1447,38 @@
       "duration_ms": 262973,
       "name": "Mi Buen Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5rH8LM84M3eG0ZtzkkYMLD"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Siempre Contigo",
+        "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "\u00bfY Qui\u00e9n Puede Ser?",
+      "url": "https://open.spotify.com/track/49eIAccdfjzsKjo7WPuAFJ"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "El Angel Del Rock Vol. 2",
+        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 254826,
+      "name": "Sue\u00f1os Compartidos",
+      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Daniela Romo",
-        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 161026,
-      "name": "Celos",
-      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 266013,
       "name": "Yo No Nac\u00ed para Amar",
       "url": "https://open.spotify.com/track/5x45XdMQ6rgqIUVadroUvS"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Daniela Romo",
+        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
     },
     {
       "added_at": "2020-06-24 19:34:30",

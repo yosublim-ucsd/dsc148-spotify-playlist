@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: Outkast",
-  "num_followers": 495370,
+  "num_followers": 495653,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2MzNDY5ZTkwZGViYWVkMWJmNTJmZWNkNzIyYTZkOWI4NjEzYmFm",
+  "snapshot_id": "MCwxODY0OTIxODU0OGE2MTA0ZjA4MjBmODI1YzA0MDA2MTY4ZjU1ZTQx",
   "tracks": [
     {
       "added_at": "2023-09-01 16:45:25",
@@ -367,42 +367,6 @@
     {
       "added_at": "2023-09-01 16:45:25",
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "So Fresh, So Clean",
-      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
-    },
-    {
-      "added_at": "2023-09-01 16:45:25",
-      "album": {
-        "name": "Rappa Ternt Sanga (Expanded Edition)",
-        "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "Mike Jones",
-          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
-        }
-      ],
-      "duration_ms": 239413,
-      "name": "I'm N Luv (Wit a Stripper) (feat. Mike Jones)",
-      "url": "https://open.spotify.com/track/2QurCbkPO14pjrikPNja0h"
-    },
-    {
-      "added_at": "2023-09-01 16:45:25",
-      "album": {
         "name": "New Joc City",
         "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
       },
@@ -435,6 +399,42 @@
       "duration_ms": 216706,
       "name": "Bring Em Out",
       "url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au"
+    },
+    {
+      "added_at": "2023-09-01 16:45:25",
+      "album": {
+        "name": "Rappa Ternt Sanga (Expanded Edition)",
+        "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Mike Jones",
+          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
+        }
+      ],
+      "duration_ms": 239413,
+      "name": "I'm N Luv (Wit a Stripper) (feat. Mike Jones)",
+      "url": "https://open.spotify.com/track/2QurCbkPO14pjrikPNja0h"
+    },
+    {
+      "added_at": "2023-09-01 16:45:25",
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "So Fresh, So Clean",
+      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
     },
     {
       "added_at": "2023-09-01 16:45:25",
@@ -695,6 +695,30 @@
     {
       "added_at": "2023-09-01 16:45:25",
       "album": {
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Mystikal",
+          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
+        },
+        {
+          "name": "I-20",
+          "url": "https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk"
+        }
+      ],
+      "duration_ms": 270866,
+      "name": "Move Bitch",
+      "url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu"
+    },
+    {
+      "added_at": "2023-09-01 16:45:25",
+      "album": {
         "name": "THUGS ARE US",
         "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
       },
@@ -723,30 +747,6 @@
       "duration_ms": 222560,
       "name": "My Neck, My Back (Lick It)",
       "url": "https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6"
-    },
-    {
-      "added_at": "2023-09-01 16:45:25",
-      "album": {
-        "name": "Word Of Mouf",
-        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Mystikal",
-          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
-        },
-        {
-          "name": "I-20",
-          "url": "https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk"
-        }
-      ],
-      "duration_ms": 270866,
-      "name": "Move Bitch",
-      "url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu"
     },
     {
       "added_at": "2023-09-01 16:45:25",
@@ -783,6 +783,26 @@
     {
       "added_at": "2023-09-01 16:45:25",
       "album": {
+        "name": "Definition of Real",
+        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
+      },
+      "artists": [
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
+    },
+    {
+      "added_at": "2023-09-01 16:45:25",
+      "album": {
         "name": "On Top Of Our Game",
         "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
       },
@@ -807,22 +827,6 @@
     {
       "added_at": "2023-09-01 16:45:25",
       "album": {
-        "name": "Tha Carter",
-        "url": "https://open.spotify.com/album/5POcKy926GgzFHZpGptJac"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Go DJ",
-      "url": "https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h"
-    },
-    {
-      "added_at": "2023-09-01 16:45:25",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -843,22 +847,34 @@
     {
       "added_at": "2023-09-01 16:45:25",
       "album": {
-        "name": "Definition of Real",
-        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
       },
       "artists": [
         {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 240760,
-      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
+      "duration_ms": 296586,
+      "name": "Rollout (My Business)",
+      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
+    },
+    {
+      "added_at": "2023-09-01 16:45:25",
+      "album": {
+        "name": "Tha Carter",
+        "url": "https://open.spotify.com/album/5POcKy926GgzFHZpGptJac"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 281826,
+      "name": "Go DJ",
+      "url": "https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h"
     },
     {
       "added_at": "2023-09-01 16:45:25",
@@ -903,22 +919,6 @@
       "duration_ms": 228933,
       "name": "Sittin' Sidewayz (feat. Big Pokey)",
       "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
-    },
-    {
-      "added_at": "2023-09-01 16:45:25",
-      "album": {
-        "name": "Word Of Mouf",
-        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 296586,
-      "name": "Rollout (My Business)",
-      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
     },
     {
       "added_at": "2023-09-01 16:45:25",

@@ -4,7 +4,7 @@
 
 > Alegra tu día con lo más pop para la mañana.
 
-291 songs - 15 hr 46 min
+292 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 | 2022-06-03 | 2022-09-10 |
 | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/track/10oji60Sz18msn5AgTQI58) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi) | 3:28 | 2022-01-01 | 2022-02-26 |
 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-06-03 | 2023-02-12 |
-| [CHAO BEBE](https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [CHAO BEBE](https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5) | 3:26 | 2023-01-27 |  |
+| [CHAO BEBE](https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [CHAO BEBE](https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5) | 3:26 | 2023-01-27 | 2023-09-26 |
 | [Chimbo](https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Chimbo](https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn) | 3:02 | 2022-09-30 | 2022-12-02 |
 | [como si no importara](https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [como si no importara](https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr) | 2:53 | 2022-06-03 |  |
 | [Conquistar El Planeta](https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Conquistar El Planeta](https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd) | 2:43 | 2023-03-04 | 2023-03-21 |
@@ -161,6 +161,7 @@
 | [Me Gusta](https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Me Gusta](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) | 3:10 | 2022-01-01 | 2022-06-04 |
 | [Me Niego \(feat\. Ozuna & Wisin\)](https://open.spotify.com/track/6jA8JUuPCGYjFcgw0AoM5T) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Me Niego \(feat\. Ozuna & Wisin\)](https://open.spotify.com/album/1QsrAiIvA7njuEMwP9poqt) | 3:41 | 2022-01-01 | 2022-06-04 |
 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 | 2022-04-15 |  |
+| [Mejor Que Ayer](https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mejor Que Ayer](https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf) | 3:06 | 2023-09-19 |  |
 | [Melancólicos Anónimos](https://open.spotify.com/track/1xFwkEGGB6BDhHFzcpsuf8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Melancólicos Anónimos](https://open.spotify.com/album/5HEZa0uEQUB1ykC4abAvxX) | 3:19 | 2022-06-03 | 2022-10-08 |
 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2023-02-11 |  |
 | [Mi Cuarto](https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:17 | 2022-04-15 | 2022-06-04 |

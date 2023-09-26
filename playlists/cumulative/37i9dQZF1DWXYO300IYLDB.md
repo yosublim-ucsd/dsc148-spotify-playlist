@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-290 songs - 17 hr 21 min
+291 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Nice To Meet You](https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Nice To Meet You](https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth) | 3:07 | 2022-10-20 | 2022-11-16 |
 | [No Matter What](https://open.spotify.com/track/3LUai3qN5tzG0HpM72IHCy) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [No Matter What](https://open.spotify.com/album/456nxcaYCzETLiEnfwvMID) | 3:02 | 2023-08-08 |  |
 | [No One \- Acoustic](https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 4:19 | 2022-10-25 | 2023-03-27 |
+| [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-09-21 |  |
 | [Nobody Knows \(Acoustic\)](https://open.spotify.com/track/42pQzfx4pTUbTWNnUY2xw8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ), [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [Nobody Knows \(Acoustic\)](https://open.spotify.com/album/16Cx5MBA4HTIPnhBA6VhO3) | 2:15 | 2022-10-20 | 2022-12-14 |
 | [Not Needed Anymore](https://open.spotify.com/track/2BfkNEDzO5UtSzPpMsfg5Q) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Not Needed Anymore](https://open.spotify.com/album/61TDNDxvXigXAMVVOdyKat) | 1:32 | 2022-10-20 | 2022-12-14 |
 | [Oak Hill](https://open.spotify.com/track/0ztNlGWRGyTj2zn4D4uVcQ) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Oak Hill](https://open.spotify.com/album/4cpyEJLCDW1wodo4NAzsHo) | 4:17 | 2023-02-09 | 2023-03-22 |
@@ -201,7 +202,7 @@
 | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L) | 3:06 | 2023-05-02 | 2023-06-30 |
 | [Send My Love / Sit Still, Look Pretty \(Acoustic Mashup\)](https://open.spotify.com/track/55qNvU28lXUg71TKMqiXmM) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [Send My Love / Sit Still, Look Pretty \(Acoustic Mashup\)](https://open.spotify.com/album/4uhgDqDUjv9mm4CmCYnmpl) | 3:22 | 2022-12-13 | 2023-02-10 |
 | [Separate Ways \(Worlds Apart\) \- Stripped Down](https://open.spotify.com/track/7vIucU2XRSATEeXjjzzToQ) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Separate Ways \(Worlds Apart\) \[Stripped Down\]](https://open.spotify.com/album/0M2Um59muj9gb80oRlTyDX) | 4:22 | 2023-07-06 |  |
-| [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2022-10-20 |  |
+| [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2022-10-20 | 2023-09-26 |
 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 | 2022-10-20 |  |
 | [Shape Of You](https://open.spotify.com/track/7yA1U2uCoSDmbifza49l1O) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT COVER](https://open.spotify.com/album/1AHbVBPlzsI0k18agZQ6zr) | 2:25 | 2022-10-20 | 2023-01-13 |
 | [She Will Be Loved \- Acoustic](https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:36 | 2022-10-20 | 2023-08-11 |

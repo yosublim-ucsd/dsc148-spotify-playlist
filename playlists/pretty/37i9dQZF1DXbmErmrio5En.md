@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > cool music ft\. Riovaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,709 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,814 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [kickstand](https://open.spotify.com/track/2T6D4elLJtJs5V1DHhrDi1) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [kickstand](https://open.spotify.com/album/1zxNTb81sl4VthrXuolxNz) | 2:10 |
 | 2 | [the Rake \(can’t complain\)](https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [the Rake \(can’t complain\)](https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF) | 3:01 |
-| 3 | [candyflips!](https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [I feel like doing candy flips and riding elephants](https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8) | 2:28 |
+| 3 | [kids \- aldrch redux](https://open.spotify.com/track/0I48YwyKo5FsGBd2wXMRT1) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [industry standard](https://open.spotify.com/album/050G23X8h3mqMxb0TyKbiD) | 5:09 |
 | 4 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
-| 5 | [kids \- aldrch redux](https://open.spotify.com/track/0I48YwyKo5FsGBd2wXMRT1) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [industry standard](https://open.spotify.com/album/050G23X8h3mqMxb0TyKbiD) | 5:09 |
+| 5 | [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 |
 | 6 | [distant](https://open.spotify.com/track/0KJVPtDDxAJxXKvHE3MC9v) | [bronclair](https://open.spotify.com/artist/5FTkkcSCHksqiJqQMPYoH6), [FearDorian](https://open.spotify.com/artist/2VddwtW7ie3dDcW8WKXHdn) | [EVEN IF](https://open.spotify.com/album/1rFxsnEzfqRYzm9LNcgouz) | 1:45 |
-| 7 | [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 |
-| 8 | [good things](https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [good things](https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5) | 2:54 |
-| 9 | [STARCROSSED](https://open.spotify.com/track/35wWGaFCexpJAglVUgjTcL) | [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q) | [STARCROSSED](https://open.spotify.com/album/4juZSFXIo15KVgXnPeoVJp) | 2:52 |
+| 7 | [good things](https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [good things](https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5) | 2:54 |
+| 8 | [STARCROSSED](https://open.spotify.com/track/35wWGaFCexpJAglVUgjTcL) | [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q) | [STARCROSSED](https://open.spotify.com/album/4juZSFXIo15KVgXnPeoVJp) | 2:52 |
+| 9 | [CRUEL WORLD](https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [CRUEL WORLD](https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC) | 2:27 |
 | 10 | [PSYCH MOB](https://open.spotify.com/track/1A67DAnXMZC3DIUibeRUnA) | [hammond preacher](https://open.spotify.com/artist/2dhU0be0WVmZJeKu0Yx3uo) | [PSYCH MOB](https://open.spotify.com/album/14riMJ5ianTJ0lv65hFejk) | 1:20 |
-| 11 | [CRUEL WORLD](https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [CRUEL WORLD](https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC) | 2:27 |
+| 11 | [candyflips!](https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [I feel like doing candy flips and riding elephants](https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8) | 2:28 |
 | 12 | [zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [zombie](https://open.spotify.com/album/4nsvLdAnnhP2lEc5JCsDQS) | 2:11 |
 | 13 | [Johnny johnny johnny](https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Wallsocket](https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv) | 4:05 |
 | 14 | [Census Designated](https://open.spotify.com/track/5IhT2qYheXI0O2dHMmAb6B) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0TsaSQLM21To1HMz2ou5yI) | 6:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 99 | [wow!](https://open.spotify.com/track/5SF29ZGgnigCJvpzdIZkJU) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [Gossip Team](https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM) | 3:03 |
 | 100 | [insides](https://open.spotify.com/track/52dEwKfcbFB1d0Qxnm1RGY) | [4cf](https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL) | [insides](https://open.spotify.com/album/5i5EMKDhvD2WusDRiRQJu7) | 2:48 |
 
-Snapshot ID: `MCw2MWMwYWU3YzI0ODA4NmJmYWExY2JlOWEwZTNkZDNiMTlmZTg0NjVm`
+Snapshot ID: `MCw3NGYwNjhmYTg4YmJiY2VhNjgzNWRlY2RkODBmYTJkN2IwYjRhNzk1`

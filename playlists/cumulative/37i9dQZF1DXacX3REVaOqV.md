@@ -4,7 +4,7 @@
 
 > The best in house music
 
-347 songs - 1 day 0 hr 39 min
+348 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Beginners](https://open.spotify.com/track/0j57BWxNCZ20D7Gsy4dPSB) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power Of Today EP](https://open.spotify.com/album/7EuAisoRLrG0b9XRKm5DvG) | 6:13 | 2023-02-16 | 2023-03-19 |
 | [Benin](https://open.spotify.com/track/3lnPWI5DH48A0Fg06uxuAS) | [Elliot Fitch](https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB) | [Benin](https://open.spotify.com/album/2PdS8G60pkQEaAwr7LeAbK) | 2:58 | 2022-11-10 |  |
 | [Better \(feat\. Jena\)](https://open.spotify.com/track/1lvgae0nTxj1ZPl4VfO9gv) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Jena](https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j) | [Better \(feat\. Jena\)](https://open.spotify.com/album/2qVbAXSd8LPX9MU1nsVC4i) | 2:52 | 2023-06-08 |  |
+| [Better Take That](https://open.spotify.com/track/6x4lOp1oRmtfFgQIIw2ipY) | [Block & Crown](https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7), [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS) | [Better Take That](https://open.spotify.com/album/0Uva7Ssbo70ZuIMsA9r8ba) | 2:55 | 2023-09-21 |  |
 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 | 2022-04-14 |  |
 | [Boyz N Da Club \- Radio Edit](https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club \(Radio Edit\)](https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM) | 2:21 | 2022-07-28 | 2023-07-15 |
 | [Boyz N Da Club \- Radio Edit](https://open.spotify.com/track/4wOIiaDB7h2Z5vxsV0xqaN) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club \(Radio Edit\)](https://open.spotify.com/album/56iQ6RzrYL6vI8JfIyOoiu) | 2:21 | 2022-04-14 | 2022-07-29 |
@@ -193,7 +194,7 @@
 | [Love Me Right](https://open.spotify.com/track/3SfytvcxqoQWgITH0r9QY0) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Love Me Right](https://open.spotify.com/album/2KHcUTy2K9ZJnrpXrGKf16) | 3:08 | 2023-07-20 |  |
 | [Love Nor Money](https://open.spotify.com/track/409lSJ3BoGROb8UqcoVPDC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Love Nor Money](https://open.spotify.com/album/5bDSA6cISLFXwLOl5BdFZl) | 2:50 | 2023-04-06 |  |
 | [Love Recycled 1](https://open.spotify.com/track/0fBzgsaU1cDoS5dFI34dSB) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Love Recycled EP](https://open.spotify.com/album/4BH7j7VQwM6V3C45tTRYj6) | 7:29 | 2022-04-14 | 2022-10-14 |
-| [Love Somebody Else \- Sandy Rivera & Aruhtra's Mix](https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX) | [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3), [Aruhtra](https://open.spotify.com/artist/0eNdTqhwRWK5udfkUOuMAv), [April Morgan](https://open.spotify.com/artist/4yZgqRQwgyYlGEwINIslPz) | [Love Somebody Else](https://open.spotify.com/album/55fImdHcBicoU5PoIWTZyn) | 2:40 | 2022-04-14 |  |
+| [Love Somebody Else \- Sandy Rivera & Aruhtra's Mix](https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX) | [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3), [Aruhtra](https://open.spotify.com/artist/0eNdTqhwRWK5udfkUOuMAv), [April Morgan](https://open.spotify.com/artist/4yZgqRQwgyYlGEwINIslPz) | [Love Somebody Else](https://open.spotify.com/album/55fImdHcBicoU5PoIWTZyn) | 2:40 | 2022-04-14 | 2023-09-26 |
 | [Love Story](https://open.spotify.com/track/6g99OTGhJ4BnXDHerdufGR) | [Layo & Bushwacka!](https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc) | [Night Works](https://open.spotify.com/album/3P5IxDoyVaExcDP8IcGkK1) | 5:12 | 2022-06-20 | 2022-06-23 |
 | [Lovelee Dae \- Original](https://open.spotify.com/track/3CUZhJEreKw7B80VTL9K6e) | [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN) | [Lovelee Dae](https://open.spotify.com/album/2ZxEsmg67xjh02SjNbQuaQ) | 7:36 | 2022-04-20 | 2023-04-07 |
 | [Loving U](https://open.spotify.com/track/0fEMbkLjNZ4V33KO4mLdP5) | [Kim Kaey](https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy) | [Loving U](https://open.spotify.com/album/2uwg3LXH6aitHO3qDIgH4j) | 3:01 | 2022-04-14 | 2022-07-28 |

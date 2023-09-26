@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Il Tre
 
-116 songs - 6 hr 16 min
+117 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Smith & Wesson Freestyle \(feat\. Marracash\)](https://open.spotify.com/track/596fQREtpVHWRl3xCmVhEM) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:10 | 2022-04-15 |  |
 | [Solo Per Me \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/0UKgEDJm4M54t50cbGGiUC) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 2:58 | 2022-04-15 |  |
 | [Sotto zero \(feat\. Emis Killa & Jake La Furia\)](https://open.spotify.com/track/2usarU8ZBUy3Hj0j5fZrXG) | [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [MANIE](https://open.spotify.com/album/6OOoZYr0RlCH3GwA8e1vCE) | 3:12 | 2022-04-15 | 2022-05-13 |
-| [STO CHIN \(feat\. MadMan & Gemitaiz\)](https://open.spotify.com/track/4wiYIygHmce1gYERsSICnX) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 3:26 | 2023-04-27 |  |
+| [STO CHIN \(feat\. MadMan & Gemitaiz\)](https://open.spotify.com/track/4wiYIygHmce1gYERsSICnX) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 3:26 | 2023-04-27 | 2023-09-26 |
+| [STO CHIN \(feat\. MadMan & Gemitaiz\)](https://open.spotify.com/track/7I0w1w78nA41HxXXw8lH4y) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 3:26 | 2023-09-14 |  |
 | [Studiami](https://open.spotify.com/track/0xHd3TXS07MbfBFcfbwY0E) | [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa) | [Studiami](https://open.spotify.com/album/6t77lHYHboixVNrdEhx888) | 2:13 | 2023-05-04 | 2023-06-02 |
 | [Tagli come Sorrisi](https://open.spotify.com/track/7JqVRBuz30XoBlmg1eY8SI) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Brava Gente](https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T) | [BRAVA GENTE](https://open.spotify.com/album/3LnhSMgyYiJ1P6fDeWXx6g) | 2:37 | 2023-06-01 |  |
 | [Top \(feat\. MadMan\)](https://open.spotify.com/track/2aH4Ec7vu87IeXFrtjtR17) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:11 | 2022-05-12 |  |

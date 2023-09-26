@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-266 songs - 19 hr 46 min
+267 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Droids](https://open.spotify.com/track/0dgA5EUIVNpiHNpVzguClf) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Droids](https://open.spotify.com/album/0EKt8LXFDttDw5i9PffErv) | 3:56 | 2022-10-27 | 2023-09-15 |
 | [DRUM GLOW \- DJ Lag Remix](https://open.spotify.com/track/6TuykpJWmzazJrEzkO2e4r) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 5:05 | 2023-03-30 | 2023-09-08 |
 | [Dust](https://open.spotify.com/track/5Go4qXmqUAypKZKCI3ynck) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Icons](https://open.spotify.com/album/5sJJC4UoKTfJaW0jO6YYCG) | 5:05 | 2022-10-27 | 2023-04-07 |
-| [Déjà Vu](https://open.spotify.com/track/1ofyA3yOVsQPQC3UnM6oIx) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Déjà Vu](https://open.spotify.com/album/0vhflFpjfFoc5idKhuw5Jw) | 2:51 | 2023-08-24 |  |
+| [Déjà Vu](https://open.spotify.com/track/0Uzlf3LBshr2fIU0G7OdY8) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Gentle Confrontation](https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx) | 2:51 | 2023-09-21 |  |
+| [Déjà Vu](https://open.spotify.com/track/1ofyA3yOVsQPQC3UnM6oIx) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Déjà Vu](https://open.spotify.com/album/0vhflFpjfFoc5idKhuw5Jw) | 2:51 | 2023-08-24 | 2023-09-26 |
 | [EASY PREY \- yeule & Kin Leonn Remix](https://open.spotify.com/track/7Iq7G3WVcIz3cvJCrOCPCh) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:31 | 2023-09-07 | 2023-09-15 |
 | [Ecstatic Descent](https://open.spotify.com/track/1fzfzbpFaqrUCIUl4JTf9N) | [Ayesha](https://open.spotify.com/artist/2nmIga6kAJM6a18mZqsE1U) | [Potential Energy EP](https://open.spotify.com/album/6K4gUl04NEkKWlXndYVpEa) | 4:22 | 2022-10-27 | 2023-08-25 |
 | [Escándaloo](https://open.spotify.com/track/5LcoEsMgZTstzMoBU5AiAA) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Escándaloo](https://open.spotify.com/album/1GLj5qkcZgddrHhN30DIM4) | 4:49 | 2023-08-24 |  |

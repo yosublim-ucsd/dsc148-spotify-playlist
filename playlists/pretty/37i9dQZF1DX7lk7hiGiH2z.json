@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Kastanienm\u00e4nnchen, Laternenlieder und K\u00fcrbis schnitzen. ",
-  "num_followers": 18991,
+  "num_followers": 19085,
   "original_name": "Familienzeit: Herbst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDExM2U4M2I3OTU2MTQ0MDFkYzlhNDdmNWFjNGNmNDk2NTViODc0",
+  "snapshot_id": "MCxmYTA0ZjU3MmVlNzNjMWMzY2ViMTc1ZTA5MTRkOTEwZTcxMWRjMWVm",
   "tracks": [
     {
       "added_at": "2023-09-04 08:14:37",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-09-04 08:14:37",
       "album": {
-        "name": "N\u00f6 mit \u00d6",
-        "url": "https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V"
-      },
-      "artists": [
-        {
-          "name": "Giraffenaffen Gang",
-          "url": "https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Dschungelparty",
-      "url": "https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9"
-    },
-    {
-      "added_at": "2023-09-04 08:14:37",
-      "album": {
         "name": "Boom Schakkalakka",
         "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 225000,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/1UqY5fe0i1U4K5vVEQLpeg"
+    },
+    {
+      "added_at": "2023-09-04 08:14:37",
+      "album": {
+        "name": "N\u00f6 mit \u00d6",
+        "url": "https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V"
+      },
+      "artists": [
+        {
+          "name": "Giraffenaffen Gang",
+          "url": "https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Dschungelparty",
+      "url": "https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9"
     },
     {
       "added_at": "2023-09-04 08:14:37",
@@ -479,38 +479,6 @@
     {
       "added_at": "2023-09-04 08:14:37",
       "album": {
-        "name": "Die 44 beliebtesten Kinderlieder",
-        "url": "https://open.spotify.com/album/3ILmIMWpPWUhmm0pgR4urO"
-      },
-      "artists": [
-        {
-          "name": "Frank und seine Freunde",
-          "url": "https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y"
-        }
-      ],
-      "duration_ms": 74640,
-      "name": "Es regnet, es regnet",
-      "url": "https://open.spotify.com/track/4cDNhjC0sczUlUYYcTEQA2"
-    },
-    {
-      "added_at": "2023-09-04 08:14:37",
-      "album": {
-        "name": "HIGHFIVE!",
-        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
-      },
-      "artists": [
-        {
-          "name": "KID CLIO",
-          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
-        }
-      ],
-      "duration_ms": 122506,
-      "name": "F\u00fchl Mich So Gut",
-      "url": "https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ"
-    },
-    {
-      "added_at": "2023-09-04 08:14:37",
-      "album": {
         "name": "Boom Schakkalakka",
         "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 217323,
       "name": "Ihr kriegt uns nie mehr klein",
       "url": "https://open.spotify.com/track/4j6VtUSryhEZGRFqrQ9LDO"
+    },
+    {
+      "added_at": "2023-09-04 08:14:37",
+      "album": {
+        "name": "Die 44 beliebtesten Kinderlieder",
+        "url": "https://open.spotify.com/album/3ILmIMWpPWUhmm0pgR4urO"
+      },
+      "artists": [
+        {
+          "name": "Frank und seine Freunde",
+          "url": "https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y"
+        }
+      ],
+      "duration_ms": 74640,
+      "name": "Es regnet, es regnet",
+      "url": "https://open.spotify.com/track/4cDNhjC0sczUlUYYcTEQA2"
+    },
+    {
+      "added_at": "2023-09-04 08:14:37",
+      "album": {
+        "name": "HIGHFIVE!",
+        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
+      },
+      "artists": [
+        {
+          "name": "KID CLIO",
+          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
+        }
+      ],
+      "duration_ms": 122506,
+      "name": "F\u00fchl Mich So Gut",
+      "url": "https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ"
     },
     {
       "added_at": "2023-09-04 08:14:37",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-09-04 08:14:37",
       "album": {
-        "name": "Ab auf die Reise",
-        "url": "https://open.spotify.com/album/6jzvkjk1BmzWrLfmnttUYe"
+        "name": "Im Land der bunten Fantasie - Lieder zum Tanzen, Tr\u00e4umen und Mitsingen",
+        "url": "https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn"
       },
       "artists": [
         {
-          "name": "Fidibus",
-          "url": "https://open.spotify.com/artist/3CYRhdvIbbOTYYqnQXOZiQ"
+          "name": "Cattu der Traumf\u00e4nger",
+          "url": "https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx"
         }
       ],
-      "duration_ms": 153240,
-      "name": "Herbstwind",
-      "url": "https://open.spotify.com/track/2J5jWCJN3a657QROqTdPSc"
+      "duration_ms": 156554,
+      "name": "Hu Ha Halloween",
+      "url": "https://open.spotify.com/track/4r8pkG3FfuYGFTHYtb2az9"
     },
     {
       "added_at": "2023-09-04 08:14:37",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-09-04 08:14:37",
       "album": {
-        "name": "Im Land der bunten Fantasie - Lieder zum Tanzen, Tr\u00e4umen und Mitsingen",
-        "url": "https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn"
+        "name": "Ab auf die Reise",
+        "url": "https://open.spotify.com/album/6jzvkjk1BmzWrLfmnttUYe"
       },
       "artists": [
         {
-          "name": "Cattu der Traumf\u00e4nger",
-          "url": "https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx"
+          "name": "Fidibus",
+          "url": "https://open.spotify.com/artist/3CYRhdvIbbOTYYqnQXOZiQ"
         }
       ],
-      "duration_ms": 156554,
-      "name": "Hu Ha Halloween",
-      "url": "https://open.spotify.com/track/4r8pkG3FfuYGFTHYtb2az9"
+      "duration_ms": 153240,
+      "name": "Herbstwind",
+      "url": "https://open.spotify.com/track/2J5jWCJN3a657QROqTdPSc"
     },
     {
       "added_at": "2023-09-04 08:14:37",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-09-04 08:14:37",
       "album": {
-        "name": "Rolfs Liederb\u00fcchermaus",
-        "url": "https://open.spotify.com/album/34fvEGFsxX9vl6phTn23XS"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 108906,
-      "name": "Alle V\u00f6gel sind schon da",
-      "url": "https://open.spotify.com/track/6ShcsLKki4wuy1LIfilCvz"
-    },
-    {
-      "added_at": "2023-09-04 08:14:37",
-      "album": {
         "name": "Der Herbst ist cool!",
         "url": "https://open.spotify.com/album/5Z1pFR01dBUYVzHUymzF2Q"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 206693,
       "name": "Wunderbar, der Herbst ist da",
       "url": "https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor"
+    },
+    {
+      "added_at": "2023-09-04 08:14:37",
+      "album": {
+        "name": "Rolfs Liederb\u00fcchermaus",
+        "url": "https://open.spotify.com/album/34fvEGFsxX9vl6phTn23XS"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 108906,
+      "name": "Alle V\u00f6gel sind schon da",
+      "url": "https://open.spotify.com/track/6ShcsLKki4wuy1LIfilCvz"
     },
     {
       "added_at": "2023-09-04 08:14:37",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-04 08:14:37",
       "album": {
-        "name": "Kinderlieder f\u00fcr die Kita - EP",
-        "url": "https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 187320,
-      "name": "H\u00f6rst du die Regenw\u00fcrmer husten",
-      "url": "https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP"
-    },
-    {
-      "added_at": "2023-09-04 08:14:37",
-      "album": {
         "name": "Volker Rosin - Liederbox Vol. 1",
         "url": "https://open.spotify.com/album/6nud5wQAgOSW1dNAWWiNpK"
       },
@@ -903,18 +887,34 @@
     {
       "added_at": "2023-09-04 08:14:37",
       "album": {
-        "name": "Itzibitz die Liedermaus",
-        "url": "https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO"
+        "name": "Kinderlieder f\u00fcr die Kita - EP",
+        "url": "https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v"
       },
       "artists": [
         {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 126413,
-      "name": "Der Sommer muss gehen",
-      "url": "https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi"
+      "duration_ms": 187320,
+      "name": "H\u00f6rst du die Regenw\u00fcrmer husten",
+      "url": "https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP"
+    },
+    {
+      "added_at": "2023-09-04 08:14:37",
+      "album": {
+        "name": "Herbst ist da - Die 25 sch\u00f6nsten Herbstlieder",
+        "url": "https://open.spotify.com/album/3dOuVkISzkQo4jy2qNsBbg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Janetzko",
+          "url": "https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Die Herbstzeit ist da",
+      "url": "https://open.spotify.com/track/2cjgPruvFDY3a29FgU8T4E"
     },
     {
       "added_at": "2023-09-04 08:14:37",

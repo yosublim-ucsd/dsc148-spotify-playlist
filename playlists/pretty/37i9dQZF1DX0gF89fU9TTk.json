@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 123344,
+  "num_followers": 123385,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDA2MGI2YTA2NWQxODI1NmE5ZjNhNGY0ODZmMDNkZTM4OGU3ZjEw",
+  "snapshot_id": "MCxiMDAyYjVkZjEyZDk3MzA0NTQ5Y2QzZWFiMzg1ZGUwOWEzMWViZGJm",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "NEVER WALK AWAY",
-        "url": "https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v"
+        "name": "Majesty",
+        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
         }
       ],
-      "duration_ms": 200017,
-      "name": "NEVER WALK AWAY",
-      "url": "https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp"
+      "duration_ms": 500000,
+      "name": "Majesty",
+      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Majesty",
-        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
+        "name": "NEVER WALK AWAY",
+        "url": "https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v"
       },
       "artists": [
         {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 500000,
-      "name": "Majesty",
-      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
+      "duration_ms": 200017,
+      "name": "NEVER WALK AWAY",
+      "url": "https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -231,22 +231,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "SIMPLE (feat. Joe L Barnes)",
-        "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         }
       ],
-      "duration_ms": 152769,
-      "name": "SIMPLE (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
+      "duration_ms": 185573,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -267,22 +263,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Only Ever",
         "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 201040,
       "name": "Only Ever",
       "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "SIMPLE (feat. Joe L Barnes)",
+        "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 152769,
+      "name": "SIMPLE (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Be Okay - EP",
+        "url": "https://open.spotify.com/album/1nyPbs5sNmjvgJyqcm78EZ"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "duration_ms": 194374,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "BETTER WITH YOU",
         "url": "https://open.spotify.com/album/7M3bVpD6IaQDDzVegVgJJz"
       },
@@ -451,6 +467,22 @@
       "duration_ms": 166405,
       "name": "BETTER WITH YOU",
       "url": "https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -475,38 +507,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Be Okay - EP",
-        "url": "https://open.spotify.com/album/1nyPbs5sNmjvgJyqcm78EZ"
-      },
-      "artists": [
-        {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
-        }
-      ],
-      "duration_ms": 194374,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Never Have I Ever",
-      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "I'll Fight for You",
         "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
       },
@@ -519,26 +519,6 @@
       "duration_ms": 167403,
       "name": "I'll Fight for You",
       "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "All I See (feat. CASS)",
-        "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
-      },
-      "artists": [
-        {
-          "name": "Jaisua",
-          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
-        },
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 183341,
-      "name": "All I See (feat. CASS)",
-      "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -559,6 +539,26 @@
       "duration_ms": 209739,
       "name": "Rest On Us",
       "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "All I See (feat. CASS)",
+        "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
+      },
+      "artists": [
+        {
+          "name": "Jaisua",
+          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 183341,
+      "name": "All I See (feat. CASS)",
+      "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "EXIT",
-        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
-      },
-      "artists": [
-        {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 124160,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Quiet Talk",
         "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 168000,
       "name": "Quiet Talk",
       "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Love Running Wild",
-        "url": "https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7"
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
       },
       "artists": [
         {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 201371,
-      "name": "I Belong to You",
-      "url": "https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU"
+      "duration_ms": 194556,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -915,6 +915,22 @@
       "duration_ms": 231964,
       "name": "Never Far (House Church)",
       "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Love Running Wild",
+        "url": "https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "duration_ms": 201371,
+      "name": "I Belong to You",
+      "url": "https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -967,22 +983,6 @@
       "duration_ms": 154305,
       "name": "It's Coming",
       "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 194556,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 230220,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Heaven On Earth",
         "url": "https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 204555,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/5V1Z5Onw8fVeSHn6Se89JX"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Jesus Is The Key",
-        "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 389187,
-      "name": "Jesus Is The Key",
-      "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1279,18 +1263,34 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Listen More",
-        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
+        "name": "Jesus Is The Key",
+        "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
       },
       "artists": [
         {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7"
+      "duration_ms": 389187,
+      "name": "Jesus Is The Key",
+      "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "You Tell Me",
+        "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
+      },
+      "artists": [
+        {
+          "name": "One Common",
+          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "You Tell Me",
+      "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
     }
   ],
   "unique_name": "Hits UP",

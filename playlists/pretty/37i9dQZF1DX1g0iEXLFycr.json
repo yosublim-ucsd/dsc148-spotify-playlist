@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1085683,
+  "num_followers": 1085653,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWM5YmM4YjcyMDVmOWIwMTUwMDgwZTY1NmM2NzI4YTlkZThmYjc1",
+  "snapshot_id": "MCxjZDMwMzU0NGQ0MTExOTk5YTljMDg3YTliZDVkZTk1MWE1ZGFjOWY2",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -455,22 +455,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 205933,
       "name": "Come and Get Your Love - Single Version",
       "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "So Good To Me (Remixes)",
-        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "So Good to Me - Radio Edit",
-      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Sing When You're Winning",
         "url": "https://open.spotify.com/album/0fpjbJvjq6Zxj8xoIjX31m"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 260560,
       "name": "Rock DJ",
       "url": "https://open.spotify.com/track/7oQSevUCbYs4QawXTHQVV1"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "So Good To Me (Remixes)",
+        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "So Good to Me - Radio Edit",
+      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
     },
     {
       "added_at": "2020-08-27 16:10:25",

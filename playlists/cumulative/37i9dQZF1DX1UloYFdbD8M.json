@@ -2027,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "The Seventh Ocean",
+        "url": "https://open.spotify.com/album/1xpnW655nhgVzDBpNByk5i"
+      },
+      "artists": [
+        {
+          "name": "Agam",
+          "url": "https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427394,
+      "name": "The Seventh Ocean",
+      "url": "https://open.spotify.com/track/4GuOd0hqHihlZXTNo8mwUT"
+    },
+    {
+      "album": {
         "name": "Theerayathra",
         "url": "https://open.spotify.com/album/7x1cu1k3G9mBCxgzPHk4My"
       },

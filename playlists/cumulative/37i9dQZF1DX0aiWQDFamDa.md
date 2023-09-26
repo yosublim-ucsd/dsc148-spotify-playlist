@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-288 songs - 23 hr 34 min
+289 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Is There a Way](https://open.spotify.com/track/0eMrQZjyeM7Qzd4FWbT57u) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Is There a Way](https://open.spotify.com/album/7CsmfGN1vyHEIDF0EG3ToS) | 4:05 | 2022-05-18 | 2022-07-29 |
 | [Is There a Way](https://open.spotify.com/track/4ZaXpHGVShRlMwFKe6SOnP) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:05 | 2022-06-29 | 2022-09-15 |
 | [It Never Entered My Mind](https://open.spotify.com/track/14ahpcc73FbLDHBOJvWk1m) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Keepnews Collection\)](https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ) | 4:42 | 2022-05-18 | 2023-05-05 |
+| [It Rained All Night](https://open.spotify.com/track/4I1VoLbdbu3YKrjoXeQONf) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Summer Love](https://open.spotify.com/album/51LEUb1ZFtzAhyS4nFkKbC) | 3:17 | 2023-09-22 |  |
 | [It's Beginning To Rain Again](https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Familiar Places](https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS) | 4:47 | 2022-06-29 |  |
 | [It's Beginning To Rain Again](https://open.spotify.com/track/29GZjjUoPV4zFZsxSRFggf) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [It's Beginning to Rain Again](https://open.spotify.com/album/1F5qfxG8bGJkrlymdB3C2N) | 4:47 | 2022-05-18 | 2022-07-29 |
 | [It's Easy To Remember](https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 2:45 | 2022-09-16 | 2023-03-18 |
@@ -198,7 +199,7 @@
 | [Please Send Me Someone To Love](https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 9:48 | 2022-09-08 |  |
 | [Pour It Out](https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 5:20 | 2023-01-26 |  |
 | [Pristine](https://open.spotify.com/track/4wZIBxMTZYbSGzWEAqIwKF) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Pristine](https://open.spotify.com/album/315gZl71MLwJo5GwBXgudJ) | 3:56 | 2022-10-13 |  |
-| [Rain](https://open.spotify.com/track/0U070HY5rBmCyh4SIWHrgN) | [Kenny Barron & Dave Holland](https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP) | [The Art Of Conversation](https://open.spotify.com/album/7Blwoot1kZX3VuiIfHI0jT) | 7:33 | 2022-09-08 |  |
+| [Rain](https://open.spotify.com/track/0U070HY5rBmCyh4SIWHrgN) | [Kenny Barron & Dave Holland](https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP) | [The Art Of Conversation](https://open.spotify.com/album/7Blwoot1kZX3VuiIfHI0jT) | 7:33 | 2022-09-08 | 2023-09-26 |
 | [Rainbow Mountains](https://open.spotify.com/track/3c0kOPcHy2wJr3p8Vkno2j) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Rainbow Mountains](https://open.spotify.com/album/2DMK4fULgBjylc9Kj8J73K) | 4:50 | 2022-11-10 | 2023-09-01 |
 | [Rainy Night House](https://open.spotify.com/track/1D3IkH8577BH4Erx2vHYUu) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/63u4hpQvFiSrFUdrd6g2eV) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 6:30 | 2022-05-18 |  |
 | [Re: Person I Knew](https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 5:43 | 2022-05-18 | 2022-06-23 |

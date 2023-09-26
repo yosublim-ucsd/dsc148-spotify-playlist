@@ -1,12 +1,12 @@
 {
   "description": "You say guilty, we say non stop bangers!",
-  "num_followers": 3339731,
+  "num_followers": 3339790,
   "original_name": "Guilty Pleasures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWE5NTlkNjZlYTljODUyZGEzZmU3NmIzY2JjMDFjMTEzMmZjNTFi",
+  "snapshot_id": "MCxlYWU1OThkN2RjYWJmY2NmOGFjMDBkNDQyZjhhZjc1YzgxNzg5ZWZl",
   "tracks": [
     {
       "added_at": "2023-08-03 02:49:08",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "Don't Kill the Magic",
-        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "My World 2.0",
         "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 214240,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "Don't Kill the Magic",
+        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -523,6 +523,26 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 238266,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
-        "name": "Believe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 213573,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Abba",
         "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
         }
       ],
-      "duration_ms": 162466,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1059,6 +1043,22 @@
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
-      },
-      "artists": [
-        {
-          "name": "t.A.T.u.",
-          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "All The Things She Said",
-      "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
+      },
+      "artists": [
+        {
+          "name": "t.A.T.u.",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
+        "name": "souljaboytellem.com",
+        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
+      },
+      "artists": [
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Crank That (Soulja Boy)",
+      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
-        "name": "souljaboytellem.com",
-        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
-      },
-      "artists": [
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Crank That (Soulja Boy)",
-      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
         }
       ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1503,6 +1487,22 @@
       "duration_ms": 241666,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Livin' la Vida Loca",
-      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 230733,
       "name": "Last Friday Night (T.G.I.F.)",
       "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Livin' la Vida Loca",
+      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
+        "name": "Please Hammer Don't Hurt 'Em",
+        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
       },
@@ -1955,22 +1971,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "Please Hammer Don't Hurt 'Em",
-        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
-      },
-      "artists": [
-        {
-          "name": "MC Hammer",
-          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "U Can't Touch This",
-      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Title (Deluxe)",
         "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
       },
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "D-12 World",
-        "url": "https://open.spotify.com/album/61EgDesQnFVyYf2UneM9PQ"
-      },
-      "artists": [
-        {
-          "name": "D12",
-          "url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
-        }
-      ],
-      "duration_ms": 298773,
-      "name": "My Band",
-      "url": "https://open.spotify.com/track/4XHQyvbrBsQaaBUW1VvmsL"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 200400,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "D-12 World",
+        "url": "https://open.spotify.com/album/61EgDesQnFVyYf2UneM9PQ"
+      },
+      "artists": [
+        {
+          "name": "D12",
+          "url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+        }
+      ],
+      "duration_ms": 298773,
+      "name": "My Band",
+      "url": "https://open.spotify.com/track/4XHQyvbrBsQaaBUW1VvmsL"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -2071,38 +2071,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "On How Life Is",
-        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
-        "name": "Girls, Girls, Girls (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 270426,
-      "name": "Girls, Girls, Girls",
-      "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Love Tracks",
         "url": "https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX"
       },
@@ -2119,6 +2087,22 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
+        "name": "On How Life Is",
+        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 260893,
       "name": "Angeleyes",
       "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "Girls, Girls, Girls (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 270426,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "It's Gonna Be Me",
+      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/1xlTRhgWQSEvu9DPHVn8uJ"
       },
@@ -2431,22 +2447,6 @@
       "duration_ms": 294986,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "It's Gonna Be Me",
-      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
     },
     {
       "added_at": "2023-08-03 02:49:08",

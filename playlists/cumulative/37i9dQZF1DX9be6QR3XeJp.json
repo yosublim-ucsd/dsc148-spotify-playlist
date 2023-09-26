@@ -939,6 +939,28 @@
     },
     {
       "album": {
+        "name": "Gentle Confrontation",
+        "url": "https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx"
+      },
+      "artists": [
+        {
+          "name": "Loraine James",
+          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
+        },
+        {
+          "name": "RiTchie",
+          "url": "https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171106,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/0Uzlf3LBshr2fIU0G7OdY8"
+    },
+    {
+      "album": {
         "name": "D\u00e9j\u00e0 Vu",
         "url": "https://open.spotify.com/album/0vhflFpjfFoc5idKhuw5Jw"
       },
@@ -954,7 +976,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 171106,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/1ofyA3yOVsQPQC3UnM6oIx"

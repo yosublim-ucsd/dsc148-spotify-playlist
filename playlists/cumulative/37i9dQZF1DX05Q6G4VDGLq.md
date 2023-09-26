@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-729 songs - 1 day 19 hr 46 min
+731 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [All The Way](https://open.spotify.com/track/1BnYMsR1MIxPmMJe02Lot4) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [All The Way](https://open.spotify.com/album/44F64JbPVaSOp54y9SBsg4) | 3:21 | 2023-01-19 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/3cOtGzGlzFl6qc8WFWfKhO) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Almost Like Being In Love](https://open.spotify.com/album/3yB5yoStWjbIvqlS5hOAXl) | 2:48 | 2023-01-12 |  |
 | [Amble](https://open.spotify.com/track/5mqn7zmKnNjHvmsg1OSgnq) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Amble](https://open.spotify.com/album/0WtbPJ5f9h1LGb2QyqmK5s) | 4:12 | 2022-11-17 |  |
-| [Amnesia](https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Amnesia](https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07) | 4:47 | 2022-06-28 |  |
+| [Amnesia](https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Amnesia](https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07) | 4:47 | 2022-06-28 | 2023-09-26 |
 | [Answer Me](https://open.spotify.com/track/2fTGteXpvwsNG8K83YyhRb) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [A Promise](https://open.spotify.com/album/1XgXxxdonnIbTNWF4SZ5nz) | 5:53 | 2023-09-08 |  |
 | [Anything Valuable](https://open.spotify.com/track/3CQ1gEocVfoT1qCm6jRs66) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Anything Valuable](https://open.spotify.com/album/5WmYl5Ty01xWXOGBFndMcu) | 3:00 | 2023-08-24 | 2023-09-02 |
 | [Apple Crumble](https://open.spotify.com/track/0hopRI3X9IUDYDM5jp3U3P) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Last Goodbye](https://open.spotify.com/album/5w2EjSu6wKnsZppJAJhnpF) | 2:53 | 2022-06-28 | 2022-11-25 |
@@ -545,6 +545,7 @@
 | [Serendipity Swing](https://open.spotify.com/track/4nb9JJGOdtQ7CW5PsmkYUm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Serendipity Swing](https://open.spotify.com/album/5A0C9HvLAYvLE4PY7PzHaY) | 4:12 | 2023-09-22 |  |
 | [Seven Falls](https://open.spotify.com/track/0GoeKHEiKWSCYwCSHRzHTr) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/4sCDtwgXRr3G05gzpLX8Ui) | 4:04 | 2022-06-28 |  |
 | [Seven Falls](https://open.spotify.com/track/3FjABO0prygR9Aku7CQk5c) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/163mq32tE467ICK50c4Wsr) | 4:04 | 2022-06-28 | 2022-07-28 |
+| [Seven Steps](https://open.spotify.com/track/2unapOMh63c9FDNQHskpGL) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [Seven Steps](https://open.spotify.com/album/2wL9qSFeIhYBfxfSFxJSqk) | 3:07 | 2023-09-22 |  |
 | [Shadows](https://open.spotify.com/track/08WnE2pJN9r7WirMgSFlJf) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Shadows](https://open.spotify.com/album/6F1iyLE5hOfOxYLBP0PUmZ) | 3:36 | 2023-01-19 |  |
 | [She Skirts Away](https://open.spotify.com/track/3i9V8CjDubH1ZFDKWJFzYP) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [She Skirts Away](https://open.spotify.com/album/3C88Osqdhy7MjzcUsM5bW8) | 3:19 | 2023-06-15 |  |
 | [She's A Class Act](https://open.spotify.com/track/7L8qE08pnMxr4JvvtYJxis) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [She's A Class Act](https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw) | 3:37 | 2023-02-23 |  |
@@ -610,6 +611,7 @@
 | [Stuck In Time](https://open.spotify.com/track/47Wjs9Ju6TV4qo6IGv38hZ) | [Downstairs Jazz Band](https://open.spotify.com/artist/4aidC4RMKWtzHd6PKRBMfv) | [Little Branch](https://open.spotify.com/album/0LKmJAfHO1k8nkCBJbM5oJ) | 4:30 | 2022-06-28 | 2022-10-08 |
 | [Summer Romance](https://open.spotify.com/track/0UEEd9xywztg2kbt3zRlJt) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Summer Romance](https://open.spotify.com/album/5gDw4M9FAbrAjQcmH5TJc2) | 2:32 | 2023-05-11 |  |
 | [Sunset Stroll](https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Sunset Stroll](https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf) | 2:44 | 2023-09-22 |  |
+| [Swedish sauce](https://open.spotify.com/track/17EQIcoPaLULq6gpDVwRWM) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Swedish sauce](https://open.spotify.com/album/1obVmVYjVAIRiWOo97UNVc) | 3:21 | 2023-09-22 |  |
 | [Sweet And Lovely](https://open.spotify.com/track/2CWgW8oWE5Ec1CvMvawwQ6) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Sweet And Lovely](https://open.spotify.com/album/5lyuMvNyS4lbRByuICf61I) | 3:04 | 2022-10-07 |  |
 | [Swift](https://open.spotify.com/track/44jzOlKl5WL7YT6KYP7uU6) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Swift](https://open.spotify.com/album/3yuhZHaZEgzbVrQsN3nuTw) | 3:24 | 2023-09-01 |  |
 | [Swivel Around Me](https://open.spotify.com/track/6pNCr9TVxcgqqYHhhAjnPF) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Swivel Around Me](https://open.spotify.com/album/2R6oGbDB1jcRbpm2hPjKPc) | 2:50 | 2022-08-30 | 2022-11-17 |
@@ -664,7 +666,7 @@
 | [This isn’t home](https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This isn’t home](https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un) | 2:46 | 2023-03-16 |  |
 | [This sweet pet](https://open.spotify.com/track/2Bv8LgnuZkVg6P6ZPsfuwB) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [This sweet pet](https://open.spotify.com/album/6VgGGR4IdKoHtxmuDRtTvK) | 3:38 | 2023-06-15 |  |
 | [Thoughts Of You](https://open.spotify.com/track/1ca7uFXnN2yDZu9TgMy04N) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Thoughts Of You](https://open.spotify.com/album/1qwTOSaVVrRVW4vBjjzbza) | 2:56 | 2023-09-08 |  |
-| [Through the Fog](https://open.spotify.com/track/6IpDhWlat8ugH1ApRcrgq1) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [In the Distance](https://open.spotify.com/album/7jWHmfsFMsxlvkgtS1WxNs) | 3:49 | 2023-06-15 |  |
+| [Through the Fog](https://open.spotify.com/track/6IpDhWlat8ugH1ApRcrgq1) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [In the Distance](https://open.spotify.com/album/7jWHmfsFMsxlvkgtS1WxNs) | 3:49 | 2023-06-15 | 2023-09-26 |
 | [Through The Raindrops](https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Through The Raindrops](https://open.spotify.com/album/3GnhjFhG9GtAXUkxwxYGNG) | 3:43 | 2023-06-15 |  |
 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 | 2022-06-28 |  |
 | [Till There Was You](https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Till There Was You](https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL) | 2:35 | 2023-08-10 |  |

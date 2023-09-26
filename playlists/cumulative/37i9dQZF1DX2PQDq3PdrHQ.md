@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-630 songs - 1 day 0 hr 23 min
+631 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,8 @@
 | [Stargazer](https://open.spotify.com/track/5YLozzNjqUbMKAUCCWZqve) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Stargazer](https://open.spotify.com/album/2uP0396RrVf9489zLAdrNi) | 2:17 | 2022-06-10 |  |
 | [Stargazing](https://open.spotify.com/track/1cBX5RAL9MP7YZNoJMDQ16) | [Chill Denis](https://open.spotify.com/artist/4gOKqVqVRQCGUrc70alpbr) | [Stargazing](https://open.spotify.com/album/2kDEzF2kMDJb6Z0Sfypt7a) | 2:01 | 2022-10-28 |  |
 | [Starlight](https://open.spotify.com/track/138DnfldEsvAiWlx9ElW7Z) | [mono.\_](https://open.spotify.com/artist/1zAGw4dlvOQX4P5bhCrSm4), [Chillhop World](https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8) | [Dreams of Sky](https://open.spotify.com/album/7ch8SWYRkNDqp5OBOVt2PO) | 2:20 | 2022-11-11 |  |
-| [Starry Night](https://open.spotify.com/track/0faaaFNnLLN1Ls0Abdzx2p) | [mono.\_](https://open.spotify.com/artist/1zAGw4dlvOQX4P5bhCrSm4) | [Starry Night](https://open.spotify.com/album/3eApekHVjV5NV66eR06834) | 2:19 | 2022-11-25 |  |
+| [Starry Night](https://open.spotify.com/track/0faaaFNnLLN1Ls0Abdzx2p) | [mono.\_](https://open.spotify.com/artist/1zAGw4dlvOQX4P5bhCrSm4) | [Starry Night](https://open.spotify.com/album/3eApekHVjV5NV66eR06834) | 2:19 | 2022-11-25 | 2023-09-26 |
+| [Starry Night](https://open.spotify.com/track/2F6F47uAhvElyChqUXjJV5) | [mono.\_](https://open.spotify.com/artist/1zAGw4dlvOQX4P5bhCrSm4) | [Starry Night](https://open.spotify.com/album/1WdCi4PP7cqMlpzOiwDEQy) | 2:19 | 2023-09-22 |  |
 | [stars](https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [stars](https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47) | 2:12 | 2023-07-17 |  |
 | [Stars Above](https://open.spotify.com/track/1UUzHInzRu3tsqWp8uREiW) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Stars Above](https://open.spotify.com/album/7J0GyDh7Mf8fF3uSpQnkDN) | 2:22 | 2022-07-01 | 2023-02-15 |
 | [stillness](https://open.spotify.com/track/4OkCZxOjG1y7G9Op1SkbnH) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [stillness](https://open.spotify.com/album/1Fu5fXIXJOoa1GI9lSAONp) | 2:15 | 2022-05-20 |  |

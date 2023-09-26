@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 952592,
+  "num_followers": 952753,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzE4NmEyM2FkZmNmN2M0ZGE1OGZhMTYyY2I2YjcwN2Y0ZDM2NDlh",
+  "snapshot_id": "MCw4ZTQ5MDA4NTk2ZDFiMmZjMjdjYjM2ZjJkMTI5ZmE3NThlNGJjZTdj",
   "tracks": [
     {
       "added_at": "2023-09-01 13:50:22",
@@ -171,54 +171,6 @@
     {
       "added_at": "2023-09-01 13:50:22",
       "album": {
-        "name": "3 Batidas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2s2XNO2C38JP3NVOp8zkm4"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "3 Batidas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uryupl9hqVZYurJwH4G9k"
-    },
-    {
-      "added_at": "2023-09-01 13:50:22",
-      "album": {
-        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
-        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
-        }
-      ],
-      "duration_ms": 313266,
-      "name": "Caso Indefinido - Ao Vivo",
-      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
-    },
-    {
-      "added_at": "2023-09-01 13:50:22",
-      "album": {
-        "name": "Live In London - At The Royal Albert Hall",
-        "url": "https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "O Que \u00c9 Que Tem",
-      "url": "https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK"
-    },
-    {
-      "added_at": "2023-09-01 13:50:22",
-      "album": {
         "name": "Todos Os Cantos, Vol. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
       },
@@ -251,22 +203,6 @@
     {
       "added_at": "2023-09-01 13:50:22",
       "album": {
-        "name": "Ao Vivo No Ibirapuera",
-        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 186379,
-      "name": "Liberdade Provis\u00f3ria - Live - Ibirapuera / 2019",
-      "url": "https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv"
-    },
-    {
-      "added_at": "2023-09-01 13:50:22",
-      "album": {
         "name": "Tem Moda Pra Tudo (Ao Vivo)",
         "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
       },
@@ -283,6 +219,54 @@
       "duration_ms": 224001,
       "name": "Quarta Cadeira - Ao Vivo",
       "url": "https://open.spotify.com/track/5q0NlM6Pm8Pp3orq7zGiRn"
+    },
+    {
+      "added_at": "2023-09-01 13:50:22",
+      "album": {
+        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
+        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+        }
+      ],
+      "duration_ms": 313266,
+      "name": "Caso Indefinido - Ao Vivo",
+      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
+    },
+    {
+      "added_at": "2023-09-01 13:50:22",
+      "album": {
+        "name": "3 Batidas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2s2XNO2C38JP3NVOp8zkm4"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 157186,
+      "name": "3 Batidas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uryupl9hqVZYurJwH4G9k"
+    },
+    {
+      "added_at": "2023-09-01 13:50:22",
+      "album": {
+        "name": "Live In London - At The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "O Que \u00c9 Que Tem",
+      "url": "https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK"
     },
     {
       "added_at": "2023-09-01 13:50:22",
@@ -348,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 194580,
-      "name": "Briga Feia - Ao Vivo",
-      "url": "https://open.spotify.com/track/7bukHRNgGLRySTJEVvLoIR"
+      "duration_ms": 186379,
+      "name": "Liberdade Provis\u00f3ria - Live - Ibirapuera / 2019",
+      "url": "https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv"
     },
     {
       "added_at": "2023-09-01 13:50:22",
@@ -371,22 +355,6 @@
     {
       "added_at": "2023-09-01 13:50:22",
       "album": {
-        "name": "Como. Sempre Feito. Nunca (ao Vivo)",
-        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 207520,
-      "name": "Pra Sempre Com Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq"
-    },
-    {
-      "added_at": "2023-09-01 13:50:22",
-      "album": {
         "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
       },
@@ -403,18 +371,18 @@
     {
       "added_at": "2023-09-01 13:50:22",
       "album": {
-        "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
+        "name": "Como. Sempre Feito. Nunca (ao Vivo)",
+        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 168172,
-      "name": "Bem Pior Que Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/4UANYptjv2kpV6IY7IjXoJ"
+      "duration_ms": 207520,
+      "name": "Pra Sempre Com Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq"
     },
     {
       "added_at": "2023-09-01 13:50:22",
@@ -439,8 +407,80 @@
     {
       "added_at": "2023-09-01 13:50:22",
       "album": {
-        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy"
+        "name": "Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+        }
+      ],
+      "duration_ms": 179164,
+      "name": "Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+    },
+    {
+      "added_at": "2023-09-01 13:50:22",
+      "album": {
+        "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 168172,
+      "name": "Bem Pior Que Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/4UANYptjv2kpV6IY7IjXoJ"
+    },
+    {
+      "added_at": "2023-09-01 13:50:22",
+      "album": {
+        "name": "Tem Moda Pra Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 161597,
+      "name": "M\u00e1gica - Live",
+      "url": "https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx"
+    },
+    {
+      "added_at": "2023-09-01 13:50:22",
+      "album": {
+        "name": "Querosene e o Viol\u00e3o",
+        "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 161403,
+      "name": "Infarto",
+      "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
+    },
+    {
+      "added_at": "2023-09-01 13:50:22",
+      "album": {
+        "name": "Ao Vivo No Ibirapuera",
+        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
       },
       "artists": [
         {
@@ -448,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 163089,
-      "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
+      "duration_ms": 194580,
+      "name": "Briga Feia - Ao Vivo",
+      "url": "https://open.spotify.com/track/7bukHRNgGLRySTJEVvLoIR"
     },
     {
       "added_at": "2023-09-01 13:50:22",
@@ -487,18 +527,54 @@
     {
       "added_at": "2023-09-01 13:50:22",
       "album": {
-        "name": "Querosene e o Viol\u00e3o",
-        "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
+        "name": "Lauana Prado",
+        "url": "https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 161403,
-      "name": "Infarto",
-      "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
+      "duration_ms": 219442,
+      "name": "Cobaia",
+      "url": "https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx"
+    },
+    {
+      "added_at": "2023-09-01 13:50:22",
+      "album": {
+        "name": "MORENA",
+        "url": "https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 193221,
+      "name": "MORENA",
+      "url": "https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd"
+    },
+    {
+      "added_at": "2023-09-01 13:50:22",
+      "album": {
+        "name": "Falando de Amor, Vol. 1",
+        "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 192725,
+      "name": "Ficha Limpa",
+      "url": "https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8"
     },
     {
       "added_at": "2023-09-01 13:50:22",
@@ -519,62 +595,18 @@
     {
       "added_at": "2023-09-01 13:50:22",
       "album": {
-        "name": "Len\u00e7ol Dobrado",
-        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
+        "name": "Como. Sempre Feito. Nunca (ao Vivo)",
+        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
-        },
-        {
-          "name": "Analaga",
-          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 179164,
-      "name": "Len\u00e7ol Dobrado",
-      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
-    },
-    {
-      "added_at": "2023-09-01 13:50:22",
-      "album": {
-        "name": "Tem Moda Pra Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 161597,
-      "name": "M\u00e1gica - Live",
-      "url": "https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx"
-    },
-    {
-      "added_at": "2023-09-01 13:50:22",
-      "album": {
-        "name": "Lauana Prado",
-        "url": "https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 219442,
-      "name": "Cobaia",
-      "url": "https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx"
+      "duration_ms": 184032,
+      "name": "Paredes - Ao Vivo",
+      "url": "https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK"
     },
     {
       "added_at": "2023-09-01 13:50:22",
@@ -599,8 +631,40 @@
     {
       "added_at": "2023-09-01 13:50:22",
       "album": {
-        "name": "MORENA",
-        "url": "https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv"
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 208930,
+      "name": "Nessas Horas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ"
+    },
+    {
+      "added_at": "2023-09-01 13:50:22",
+      "album": {
+        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 163089,
+      "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
+    },
+    {
+      "added_at": "2023-09-01 13:50:22",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
       },
       "artists": [
         {
@@ -608,41 +672,9 @@
           "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 193221,
-      "name": "MORENA",
-      "url": "https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd"
-    },
-    {
-      "added_at": "2023-09-01 13:50:22",
-      "album": {
-        "name": "Como. Sempre Feito. Nunca (ao Vivo)",
-        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 184032,
-      "name": "Paredes - Ao Vivo",
-      "url": "https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK"
-    },
-    {
-      "added_at": "2023-09-01 13:50:22",
-      "album": {
-        "name": "Falando de Amor, Vol. 1",
-        "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 192725,
-      "name": "Ficha Limpa",
-      "url": "https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8"
+      "duration_ms": 187118,
+      "name": "Eu, Voc\u00ea, O Mar e Ela",
+      "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
     },
     {
       "added_at": "2023-09-01 13:50:22",
@@ -679,22 +711,6 @@
     {
       "added_at": "2023-09-01 13:50:22",
       "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 208930,
-      "name": "Nessas Horas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ"
-    },
-    {
-      "added_at": "2023-09-01 13:50:22",
-      "album": {
         "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia - EP1",
         "url": "https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL"
       },
@@ -707,6 +723,26 @@
       "duration_ms": 190244,
       "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg"
+    },
+    {
+      "added_at": "2023-09-01 13:50:22",
+      "album": {
+        "name": "Vagabundo",
+        "url": "https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 165380,
+      "name": "Vagabundo",
+      "url": "https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia"
     },
     {
       "added_at": "2023-09-01 13:50:22",
@@ -747,18 +783,18 @@
     {
       "added_at": "2023-09-01 13:50:22",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
+        "name": "Onde a Saudade Mora",
+        "url": "https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
         }
       ],
-      "duration_ms": 187118,
-      "name": "Eu, Voc\u00ea, O Mar e Ela",
-      "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
+      "duration_ms": 123060,
+      "name": "Deus Me Livre Quem Me Dera",
+      "url": "https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd"
     },
     {
       "added_at": "2023-09-01 13:50:22",
@@ -775,22 +811,6 @@
       "duration_ms": 188309,
       "name": "Amor Da Sua Cama",
       "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
-    },
-    {
-      "added_at": "2023-09-01 13:50:22",
-      "album": {
-        "name": "Onde a Saudade Mora",
-        "url": "https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN"
-      },
-      "artists": [
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        }
-      ],
-      "duration_ms": 123060,
-      "name": "Deus Me Livre Quem Me Dera",
-      "url": "https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd"
     },
     {
       "added_at": "2023-09-01 13:50:22",
@@ -823,26 +843,6 @@
       "duration_ms": 173226,
       "name": "Cora\u00e7\u00e3o Na Cama - Ao Vivo",
       "url": "https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6"
-    },
-    {
-      "added_at": "2023-09-01 13:50:22",
-      "album": {
-        "name": "Vagabundo",
-        "url": "https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 165380,
-      "name": "Vagabundo",
-      "url": "https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia"
     },
     {
       "added_at": "2023-09-01 13:50:22",

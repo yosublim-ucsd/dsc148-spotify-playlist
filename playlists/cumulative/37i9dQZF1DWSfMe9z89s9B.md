@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Amindi
 
-963 songs - 2 day 3 hr 40 min
+964 songs - 2 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [little story](https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [little story](https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam) | 3:18 | 2022-02-25 | 2022-07-16 |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-10-08 | 2022-08-09 |
 | [lo que pasó](https://open.spotify.com/track/6xS02EfbvnneFWCM90PJFG) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/7FsquZmPaXaNImnGHMnFUH) | 2:30 | 2022-04-01 | 2022-04-15 |
+| [Lock Me In](https://open.spotify.com/track/3hXRbjdYypplIQ7IW1ESAS) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Cherie](https://open.spotify.com/album/56ZxNy9wDdnNISCpTMMwes) | 2:14 | 2023-09-22 |  |
 | [Lockdown](https://open.spotify.com/track/197Jh1YGNedmMXKCU784ku) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Lockdown](https://open.spotify.com/album/63gDamnABvNNMHhvqPBKex) | 2:44 | 2022-04-01 | 2022-04-14 |
 | [Lonely As I Ever Was](https://open.spotify.com/track/1eYHAdDUKLUUWn0lhZgyUz) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Lonely As I Ever Was](https://open.spotify.com/album/2zzmIdVneqgcQVkKicolqF) | 3:53 | 2021-07-09 | 2022-07-15 |
 | [Lonely As I Ever Was](https://open.spotify.com/track/6YY6jWYRxEcctNOepXpOVE) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Are U Down?](https://open.spotify.com/album/6VVsa93buutotShEWaBejL) | 3:53 | 2022-07-15 | 2022-07-28 |
@@ -636,7 +637,7 @@
 | [phases \(feat\. Kojey Radical\)](https://open.spotify.com/track/2kLMWqTsPb3i5QfLmnOAhM) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [phases \(feat\. Kojey Radical\)](https://open.spotify.com/album/34RPWvF1iX9XdtHWXLVH5T) | 4:03 | 2023-02-24 |  |
 | [Pick Up Your Feelings](https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Pick Up Your Feelings](https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7) | 3:52 | 2021-03-19 | 2022-07-15 |
 | [Pick Up Your Phone](https://open.spotify.com/track/5jDpJZ4AV0YVV8o9Ez2U9s) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Pick Up Your Phone](https://open.spotify.com/album/2ZrT2t1qTMcRD9Q1Uy9sx3) | 2:49 | 2022-04-01 | 2022-04-14 |
-| [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 | 2022-07-15 |  |
+| [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 | 2022-07-15 | 2023-09-26 |
 | [Pieces](https://open.spotify.com/track/3uxvPA68MMOEdkxS4QdlPg) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Pieces](https://open.spotify.com/album/3BsWqi1hnJEpOthdL1wMtk) | 2:44 | 2021-11-19 | 2022-01-27 |
 | [pieces](https://open.spotify.com/track/5tnpSQClW40rHRfMvCqijS) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:44 | 2022-07-15 | 2022-10-14 |
 | [Pine](https://open.spotify.com/track/1xTrwHzhHuNb5URVfuBp0f) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Pine](https://open.spotify.com/album/0zIwjAV2L0o6pGpgMD7XWt) | 3:30 | 2021-03-19 | 2022-04-25 |

@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023: Mitski's album is here.
 
-1,792 songs - 4 day 11 hr 32 min
+1,793 songs - 4 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [boyfriend, girlfriend](https://open.spotify.com/track/4IK173MxzuvTXczWL6OHZn) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [boyfriend, girlfriend](https://open.spotify.com/album/4ev0j2IRSJy2fBt09qu8SM) | 3:30 | 2021-07-19 | 2022-04-20 |
 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 | 2023-03-31 | 2023-07-27 |
 | [Boys](https://open.spotify.com/track/7yfLvK7r1w5bql3G0Uha5w) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Boys](https://open.spotify.com/album/6GekJIWdpmASWvY6maRfHH) | 4:13 | 2021-11-10 | 2022-07-29 |
+| [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q) | 2:50 | 2023-09-25 |  |
 | [Break The Rhythm](https://open.spotify.com/track/3aKk3RAc8lXQUum6JfZEfx) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Break The Rhythm](https://open.spotify.com/album/3qML5ZBNZDJr2XSf5yWrgY) | 3:50 | 2022-05-13 | 2022-07-29 |
 | [Break!](https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd) | 2:53 | 2022-09-16 | 2022-10-01 |
 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 | 2020-02-14 | 2021-10-12 |
@@ -1159,7 +1160,7 @@
 | [Open My Door](https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Open My Door](https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv) | 2:33 | 2023-05-05 | 2023-09-06 |
 | [Orange Blood](https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice) | 3:46 | 2022-04-22 | 2022-10-17 |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-05-26 | 2023-06-18 |
-| [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-05-26 |  |
+| [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-05-26 | 2023-09-26 |
 | [Oregon](https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Oregon / Harvard](https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I) | 3:18 | 2022-10-20 | 2023-01-19 |
 | [Organon](https://open.spotify.com/track/7uKoqhOj7sfF1GowMuAc6I) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:30 | 2021-09-03 | 2022-01-03 |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-06-23 | 2022-09-17 |

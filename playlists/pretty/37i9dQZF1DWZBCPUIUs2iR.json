@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 564008,
+  "num_followers": 564427,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWJhNjE0NzdkN2VhNTU1YjEwODM3YmNiNjQ4Mjk0YzQzZGVmYThk",
+  "snapshot_id": "MCwxNjBmNzJhMDhkNGI0NzE2YTUyYWZmMjFmMmI5YTUxOTdjYzNmNDQ2",
   "tracks": [
     {
       "added_at": "2023-02-14 19:26:52",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 277573,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
         "name": "Here's To The Good Times...This Is How We Roll",
         "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 220906,
       "name": "This Is How We Roll",
       "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 277573,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Live Like You Were Dying",
-        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "Live Like You Were Dying",
-      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Some Gave All",
         "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
       },
@@ -699,18 +683,34 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Hunter Hayes (Encore)",
-        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+        "name": "Live Like You Were Dying",
+        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
       },
       "artists": [
         {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 228840,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+      "duration_ms": 300333,
+      "name": "Live Like You Were Dying",
+      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Blue Ain't Your Color",
+      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
         }
       ],
-      "duration_ms": 230600,
-      "name": "Blue Ain't Your Color",
-      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
+      "duration_ms": 228840,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -775,6 +775,22 @@
       "duration_ms": 219160,
       "name": "Burnin' It Down",
       "url": "https://open.spotify.com/track/5HJqpDspKDKwQpLjvkcIsD"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -823,22 +839,6 @@
       "duration_ms": 243706,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/6DEaND0SHv3sC11xobZLiy"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "Damn Country Music",
-        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 259266,
-      "name": "Humble And Kind",
-      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
       "artists": [
         {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+      "duration_ms": 215173,
+      "name": "Just To See You Smile",
+      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -935,6 +935,22 @@
       "duration_ms": 234640,
       "name": "Just Got Started Lovin' You",
       "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -967,22 +983,6 @@
       "duration_ms": 187000,
       "name": "Love Without End, Amen",
       "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Just To See You Smile",
-      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Rockin' With The Rhythm",
-        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Have Mercy",
-      "url": "https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "The Very Best Of Conway Twitty",
         "url": "https://open.spotify.com/album/3Ap8lSwRTcUK4s3XxQiLKG"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
+        "name": "Rockin' With The Rhythm",
+        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Have Mercy",
+      "url": "https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
         "name": "Greatest Hits II",
         "url": "https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 199586,
       "name": "The Good Stuff",
       "url": "https://open.spotify.com/track/1EKiQ1InQXuodp4M1idrng"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/70TsRbycWfabtevnripyRu"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1579,22 +1595,6 @@
       "duration_ms": 177693,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/5EPQbU0wk70Btiu9onZR48"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/70TsRbycWfabtevnripyRu"
     },
     {
       "added_at": "2023-02-14 19:26:52",

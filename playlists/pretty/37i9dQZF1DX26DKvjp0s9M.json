@@ -1,12 +1,12 @@
 {
   "description": "The best of the best from oldies to new classics. Cover: Lorde",
-  "num_followers": 907779,
+  "num_followers": 908252,
   "original_name": "Essential Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjVjMDVlNGU1MTc5MDNmZGJkNzAwOGQyZWU0Y2YzYmNlMzk4MzQ2",
+  "snapshot_id": "MCxiZDI4OGRlYWMzZDc1NWZjMDdjMmRiOWEzZGMxNmMzMTViZWNiNjYw",
   "tracks": [
     {
       "added_at": "2023-04-21 01:33:59",
@@ -27,18 +27,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -55,6 +55,22 @@
       "duration_ms": 258969,
       "name": "Ribs",
       "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -91,22 +107,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "French Exit",
-        "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Lovers Rock",
-      "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "I Love You So",
-        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
+        "name": "French Exit",
+        "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
       },
       "artists": [
         {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         }
       ],
-      "duration_ms": 160239,
-      "name": "I Love You So",
-      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
+      "duration_ms": 213920,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
+        "name": "I Love You So",
+        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160239,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
@@ -219,22 +235,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
       },
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 122338,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Here Comes The Cowboy",
-        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
         }
       ],
-      "duration_ms": 211140,
-      "name": "Heart To Heart",
-      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
+      "duration_ms": 122338,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -359,6 +359,22 @@
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "Here Comes The Cowboy",
+        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 211140,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 351640,
-      "name": "Brooklyn Baby",
-      "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 351640,
+      "name": "Brooklyn Baby",
+      "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "Little Dark Age",
         "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 299960,
       "name": "Little Dark Age",
       "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -655,6 +671,22 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 320030,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -703,22 +735,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 320030,
-      "name": "K.",
-      "url": "https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -731,6 +747,22 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 215150,
+      "name": "Sunsetz",
+      "url": "https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -847,18 +879,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 215150,
-      "name": "Sunsetz",
-      "url": "https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4"
+      "duration_ms": 147350,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -879,22 +911,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 147350,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
       },
@@ -907,6 +923,22 @@
       "duration_ms": 267520,
       "name": "Pluto Projector",
       "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "First Love/Late Spring",
+      "url": "https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -959,22 +991,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Reptilia",
-      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
+      "duration_ms": 219826,
+      "name": "Reptilia",
+      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -1019,6 +1035,22 @@
       "duration_ms": 292110,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -1095,22 +1127,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Good News For People Who Love Bad News",
-        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Float On",
-      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "Skiptracing",
         "url": "https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN"
       },
@@ -1123,6 +1139,22 @@
       "duration_ms": 177493,
       "name": "Homage",
       "url": "https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "Good News For People Who Love Bad News",
+        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -1159,22 +1191,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137141,
-      "name": "Me and My Husband",
-      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -1207,6 +1223,22 @@
       "duration_ms": 219638,
       "name": "bad idea!",
       "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137141,
+      "name": "Me and My Husband",
+      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -1375,18 +1407,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 193106,
-      "name": "1901",
-      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
+      "duration_ms": 286773,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -1407,18 +1439,18 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 286773,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm"
+      "duration_ms": 193106,
+      "name": "1901",
+      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
     },
     {
       "added_at": "2023-04-21 01:33:59",
@@ -1599,38 +1631,6 @@
       "duration_ms": 225973,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 199232,
-      "name": "Ode to a Conversation Stuck in Your Throat",
-      "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
-        "name": "Tieduprightnow",
-        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 249956,
-      "name": "Tieduprightnow",
-      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     }
   ],
   "unique_name": "Essential Indie",

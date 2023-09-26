@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 173505,
+  "num_followers": 173510,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDMzZDQ5NTIwMDIxZjVkMzA3MzJhMzIxY2ExMzA5ODU1M2UzZjE5",
+  "snapshot_id": "MCxmM2JjNzYxNmM2ODU5ODI5MDFiZTIyMTUxM2ZiOWRjY2Q0OTM4ZTQx",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 223490,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
@@ -223,18 +239,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
       "artists": [
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 181624,
-      "name": "She's A Self Made Man",
-      "url": "https://open.spotify.com/track/688EzbJ3fiB8zKwArQdZkK"
+      "duration_ms": 225373,
+      "name": "Kill Or Be Kind",
+      "url": "https://open.spotify.com/track/4V8Bx1b1B5XcslWAAOph89"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -255,34 +271,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
       "artists": [
         {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 223490,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Kill Or Be Kind",
-      "url": "https://open.spotify.com/track/4V8Bx1b1B5XcslWAAOph89"
+      "duration_ms": 181624,
+      "name": "She's A Self Made Man",
+      "url": "https://open.spotify.com/track/688EzbJ3fiB8zKwArQdZkK"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Woman Like Me",
-        "url": "https://open.spotify.com/album/2P2PYpBvfCJZO63d24m4Fa"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 244429,
-      "name": "Woman Like Me",
-      "url": "https://open.spotify.com/track/4apFuI4ptvZBNkPwGr7gpd"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Juice Me Up",
         "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+        "name": "Woman Like Me",
+        "url": "https://open.spotify.com/album/2P2PYpBvfCJZO63d24m4Fa"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 266071,
-      "name": "Clotilda's On Fire",
-      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
+      "duration_ms": 244429,
+      "name": "Woman Like Me",
+      "url": "https://open.spotify.com/track/4apFuI4ptvZBNkPwGr7gpd"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -443,22 +427,6 @@
       "duration_ms": 215946,
       "name": "Good Love Had To Die",
       "url": "https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 219945,
-      "name": "Medicine Man",
-      "url": "https://open.spotify.com/track/3Lr0bBluqoWt2F2njzyNLd"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -495,6 +463,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 266071,
+      "name": "Clotilda's On Fire",
+      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 222826,
       "name": "Love on the Rocks",
       "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "The Ice Queen",
+        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
+      },
+      "artists": [
+        {
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+        }
+      ],
+      "duration_ms": 383133,
+      "name": "The Ice Queen",
+      "url": "https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "The Ice Queen",
-        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
       },
       "artists": [
         {
-          "name": "Sue Foley",
-          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 383133,
-      "name": "The Ice Queen",
-      "url": "https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J"
+      "duration_ms": 219945,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/3Lr0bBluqoWt2F2njzyNLd"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Shut Your Mouth and Do Something",
-        "url": "https://open.spotify.com/album/7iMlb5kEboQwsdOjbaa6of"
-      },
-      "artists": [
-        {
-          "name": "Ali Handal",
-          "url": "https://open.spotify.com/artist/5JG9RkDazTt64kyVpQDc5N"
-        }
-      ],
-      "duration_ms": 200449,
-      "name": "Shut Your Mouth and Do Something",
-      "url": "https://open.spotify.com/track/5rbX4du6LNRAvMm0zCIPCV"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Tricky Thing",
         "url": "https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 271733,
       "name": "Tricky Thing",
       "url": "https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Shut Your Mouth and Do Something",
+        "url": "https://open.spotify.com/album/7iMlb5kEboQwsdOjbaa6of"
+      },
+      "artists": [
+        {
+          "name": "Ali Handal",
+          "url": "https://open.spotify.com/artist/5JG9RkDazTt64kyVpQDc5N"
+        }
+      ],
+      "duration_ms": 200449,
+      "name": "Shut Your Mouth and Do Something",
+      "url": "https://open.spotify.com/track/5rbX4du6LNRAvMm0zCIPCV"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Broken People",
-        "url": "https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr"
-      },
-      "artists": [
-        {
-          "name": "Muddy Magnolias",
-          "url": "https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X"
-        }
-      ],
-      "duration_ms": 251613,
-      "name": "It Ain't Easy",
-      "url": "https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Love Spin",
         "url": "https://open.spotify.com/album/4mvFBBjUbJm2WQx59Jlkq4"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 231080,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/6GWulv1RwkqTN5Ak2BCRa5"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Broken People",
+        "url": "https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr"
+      },
+      "artists": [
+        {
+          "name": "Muddy Magnolias",
+          "url": "https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X"
+        }
+      ],
+      "duration_ms": 251613,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ain't Gonna Hush!",
-        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
-      },
-      "artists": [
-        {
-          "name": "Saffire-The Uppity Blues Women",
-          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "Ain't Gonna Hush",
-      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "The Beautiful Bones",
         "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 264253,
       "name": "Release and Be Free",
       "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ain't Gonna Hush!",
+        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
+      },
+      "artists": [
+        {
+          "name": "Saffire-The Uppity Blues Women",
+          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
+        }
+      ],
+      "duration_ms": 138066,
+      "name": "Ain't Gonna Hush",
+      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
     },
     {
       "added_at": "2022-03-08 14:01:09",

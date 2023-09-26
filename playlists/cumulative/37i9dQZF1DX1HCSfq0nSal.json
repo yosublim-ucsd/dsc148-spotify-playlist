@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Saiko, Quevedo",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Bad Bunny",
   "name": "PEGAO",
   "tracks": [
     {
@@ -8922,6 +8922,24 @@
       "duration_ms": 192143,
       "name": "UN PASO",
       "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
+    },
+    {
+      "album": {
+        "name": "UN PREVIEW",
+        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165582,
+      "name": "UN PREVIEW",
+      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
     },
     {
       "album": {

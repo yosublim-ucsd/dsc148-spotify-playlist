@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,572 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,682 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 27 | [80's High School](https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:22 |
 | 28 | [Lean Into Life](https://open.spotify.com/track/59I8EVpxxsE50dQRPpaBms) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ) | 5:27 |
 | 29 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 |
-| 30 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 |
-| 31 | [Heavy Days](https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Heavy Days](https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe) | 3:47 |
+| 30 | [Heavy Days](https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Heavy Days](https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe) | 3:47 |
+| 31 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 |
 | 32 | [Plum](https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:24 |
 | 33 | [Paralyzed](https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV) | [Swiss Portrait](https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE) | [Paralyzed](https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7) | 2:40 |
 | 34 | [Skin Game](https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:25 |
 | 35 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
-| 36 | [The Clouds Cleared the Way](https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [The Clouds Cleared the Way](https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8) | 4:04 |
-| 37 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 |
+| 36 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 |
+| 37 | [The Clouds Cleared the Way](https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [The Clouds Cleared the Way](https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8) | 4:04 |
 | 38 | [Somebody Else](https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa) | 5:31 |
 | 39 | [Keep You Warm](https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [This Empty Town](https://open.spotify.com/album/4BOldAGooVBHr4LZsyVjAL) | 4:16 |
 | 40 | [Our Past Lives](https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Ways To Get Out](https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI) | 3:45 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 58 | [Daisy](https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 2:15 |
 | 59 | [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 |
 | 60 | [27 Club](https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [27 Club](https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW) | 3:34 |
-| 61 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
-| 62 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
+| 61 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
+| 62 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
 | 63 | [Lights On](https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 3:56 |
 | 64 | [What We Left Behind](https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv) | 3:55 |
 | 65 | [number own](https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [number own](https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c) | 2:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Bubblegum](https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Liquid](https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps) | 2:46 |
 | 80 | [Under the Sea](https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Pearl](https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE) | 3:59 |
 
-Snapshot ID: `MCxhYThiYzJhY2YxNzVmYzUyZTJiODk4MmU3MzY5NWExODEzZGE4NDk5`
+Snapshot ID: `MCwzOWNlOTg0NDczYTcwMzRkYThhNzQ5MWQzMTNjYjg4NzQzMjQ4MjE4`

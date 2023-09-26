@@ -1,12 +1,12 @@
 {
   "description": "Today's best pop to fuel your gaming. Cover: BoyWithUke",
-  "num_followers": 318626,
+  "num_followers": 318958,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjNjNzIyZmVjMDU2NjMyNzQ2MDczOTRhNTQwZTVlMzE0YThkYmMw",
+  "snapshot_id": "MCxjOGU4MDU3MTlhZDQ5ZGU3MWNlM2ViMjJmZGE5ZjUwOTliMjYzMTVl",
   "tracks": [
     {
       "added_at": "2023-09-16 02:03:42",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-09-16 02:03:42",
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 239835,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
-    },
-    {
-      "added_at": "2023-09-16 02:03:42",
-      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 218146,
       "name": "rockstar (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
+    },
+    {
+      "added_at": "2023-09-16 02:03:42",
+      "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 239835,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
     },
     {
       "added_at": "2023-09-16 02:03:42",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-09-16 02:03:42",
       "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 154424,
+      "name": "No Idea",
+      "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
+    },
+    {
+      "added_at": "2023-09-16 02:03:42",
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -751,6 +767,22 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "added_at": "2023-09-16 02:03:42",
+      "album": {
+        "name": "ARDIPITHECUS",
+        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 196520,
+      "name": "Wait a Minute!",
+      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
     },
     {
       "added_at": "2023-09-16 02:03:42",
@@ -771,38 +803,6 @@
       "duration_ms": 147211,
       "name": "Car Keys (Ayla)",
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
-    },
-    {
-      "added_at": "2023-09-16 02:03:42",
-      "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 154424,
-      "name": "No Idea",
-      "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
-    },
-    {
-      "added_at": "2023-09-16 02:03:42",
-      "album": {
-        "name": "ARDIPITHECUS",
-        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "Wait a Minute!",
-      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
     },
     {
       "added_at": "2023-09-16 02:03:42",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-09-16 02:03:42",
       "album": {
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+    },
+    {
+      "added_at": "2023-09-16 02:03:42",
+      "album": {
         "name": "Tell Em",
         "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2023-09-16 02:03:42",
       "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
         }
       ],
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+      "duration_ms": 141505,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a"
     },
     {
       "added_at": "2023-09-16 02:03:42",
@@ -1091,22 +1107,6 @@
       "duration_ms": 194621,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv"
-    },
-    {
-      "added_at": "2023-09-16 02:03:42",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 141505,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a"
     },
     {
       "added_at": "2023-09-16 02:03:42",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2023-09-16 02:03:42",
       "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "added_at": "2023-09-16 02:03:42",
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -1207,42 +1227,6 @@
     {
       "added_at": "2023-09-16 02:03:42",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2023-09-16 02:03:42",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "added_at": "2023-09-16 02:03:42",
-      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 205484,
       "name": "Come & Go (with Marshmello)",
       "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
+    },
+    {
+      "added_at": "2023-09-16 02:03:42",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2023-09-16 02:03:42",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-09-16 02:03:42",
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 168020,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
+    },
+    {
+      "added_at": "2023-09-16 02:03:42",
+      "album": {
         "name": "SugarCrash!",
         "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 147800,
       "name": "Party Girl",
       "url": "https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l"
-    },
-    {
-      "added_at": "2023-09-16 02:03:42",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 168020,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
     },
     {
       "added_at": "2023-09-16 02:03:42",
@@ -1795,22 +1795,18 @@
     {
       "added_at": "2023-09-16 02:03:42",
       "album": {
-        "name": "Sick of U",
-        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
+        "name": "Call Me What You Like",
+        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
       },
       "artists": [
         {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
         }
       ],
-      "duration_ms": 168676,
-      "name": "Sick of U (with Oliver Tree)",
-      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
+      "duration_ms": 226960,
+      "name": "Call Me What You Like",
+      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
     }
   ],
   "unique_name": "Ultimate Pop Gaming",

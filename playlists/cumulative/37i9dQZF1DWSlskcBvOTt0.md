@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-500 songs - 2 day 0 hr 55 min
+501 songs - 2 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Antares](https://open.spotify.com/track/1Wtzml7KMFbC3Iq5v1AeUK) | [Rokazer](https://open.spotify.com/artist/0kBZmuhkAKIdZE5YVkdhqV) | [Antares / Stay](https://open.spotify.com/album/2skTHY010QHQpI328uliT0) | 4:48 | 2022-04-11 | 2022-10-06 |
 | [ARCO](https://open.spotify.com/track/2jmW1L3I4VjAS5wMf1qpug) | [DAVID AUGUST](https://open.spotify.com/artist/1cS5EoXVqz7aON00AkVBBA) | [ARCO](https://open.spotify.com/album/2AKxzmw5yfZSNJvIwLidWY) | 4:55 | 2023-07-07 | 2023-08-11 |
 | [Ashes in the Wind](https://open.spotify.com/track/4PqD4wAf77OxpAiOODf1Rg) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Secrets EP](https://open.spotify.com/album/1aZ3SBhJnP4B8G4gQ65fT1) | 10:04 | 2021-04-21 | 2022-12-17 |
-| [Atacama \- Edit](https://open.spotify.com/track/5EAyDXIe10FttSvVJOXX3r) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Atacama \(Edit\)](https://open.spotify.com/album/1Q9Y8JAfu1TQzx7BlDgjvX) | 3:57 | 2023-06-16 |  |
+| [Atacama \- Edit](https://open.spotify.com/track/5EAyDXIe10FttSvVJOXX3r) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Atacama \(Edit\)](https://open.spotify.com/album/1Q9Y8JAfu1TQzx7BlDgjvX) | 3:57 | 2023-06-16 | 2023-09-26 |
 | [Audara](https://open.spotify.com/track/6YjQxa2wea38xj1ZUzjZR7) | [Lindahl](https://open.spotify.com/artist/5Tf9JeR6Ry2OQv6c4UucP1), [ATÉA](https://open.spotify.com/artist/2ldjUobIK4xXwGWqIW8el0) | [Audara EP](https://open.spotify.com/album/7BZdCphrUu99bBX8WeP9FZ) | 7:22 | 2021-04-21 | 2022-07-28 |
 | [Aura](https://open.spotify.com/track/4JIphNXs4zpmNyaJFhKKKY) | [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Aura EP](https://open.spotify.com/album/4SErxwdvqZvsrYcQ8gGimx) | 8:21 | 2021-06-18 | 2022-07-22 |
 | [Away](https://open.spotify.com/track/1R277vjeyNAZQ1dLPcuSlU) | [Eli Fola](https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0), [Gifted Fire](https://open.spotify.com/artist/05YKDN73pAbCvbeSqpBtKL) | [Away](https://open.spotify.com/album/6hydQgkHE6bhZl0zaeX9o8) | 7:54 | 2023-05-12 | 2023-08-19 |
@@ -362,6 +362,7 @@
 | [Push Me](https://open.spotify.com/track/7GgtQOS5ZySXkzw2Qsl21y) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Push Me](https://open.spotify.com/album/5iPPHGZzzZJYk4rbI2MWAd) | 5:24 | 2023-09-15 |  |
 | [Pyxis](https://open.spotify.com/track/4VfESynVjdqW2aXQk4SMKs) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Pyxis EP](https://open.spotify.com/album/4HFq51XXEP4uPzcCACtYyT) | 7:44 | 2022-03-11 | 2022-07-26 |
 | [Quetzal](https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Quetzal](https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK) | 7:37 | 2021-04-21 | 2023-02-01 |
+| [Rainchecks In Montreal \- Roy Rosenfeld Remix](https://open.spotify.com/track/5GkhUSAoSz7Pp4F6VIUbVw) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Roy Rosenfeld](https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk) | [Rainchecks In Montreal](https://open.spotify.com/album/7hyqsbXob3bcwk8Jml4rfP) | 8:00 | 2023-09-22 |  |
 | [Ramona](https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Ramona](https://open.spotify.com/album/25bJfT3QJehxDxwSAOkKIc) | 7:03 | 2021-10-15 | 2022-07-17 |
 | [Rational Utopia](https://open.spotify.com/track/1zZrBI8daxuMRJQqE0CkaO) | [Toto Chiavetta](https://open.spotify.com/artist/0DBwNrdGSluzJl24pHRiOk) | [Rational Utopia](https://open.spotify.com/album/0FFLuWqNeJc2HxROaNDH99) | 8:18 | 2022-06-10 | 2022-08-04 |
 | [Raven](https://open.spotify.com/track/3DSz44pPAfri3xhLvoGLaY) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C) | [Lux EP](https://open.spotify.com/album/5U8s00tqXWFwUfXD8eprtV) | 7:19 | 2021-04-21 | 2022-07-29 |

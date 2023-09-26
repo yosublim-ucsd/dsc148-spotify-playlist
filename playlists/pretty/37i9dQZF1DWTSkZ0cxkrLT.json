@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 419063,
+  "num_followers": 419096,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmNlZDViYmY3OWUzOTY3NmU1OGFjNjU1NzVjMDE1ZTZkN2EwZDc1",
+  "snapshot_id": "MCw0OWQxMTU5YjVkMDBmODk0MWI1ZWIzZTAzMzk2MTUyMjlmOGNiYjM4",
   "tracks": [
     {
       "added_at": "2023-09-01 03:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+      "duration_ms": 217426,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 217426,
-      "name": "New Light",
-      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
+      "duration_ms": 229120,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Tropical Jesus",
-        "url": "https://open.spotify.com/album/1hNj4AB6pbahegd5dBYPV7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 188222,
-      "name": "Todo Estaba Bien",
-      "url": "https://open.spotify.com/track/0qRE2t4scDRFsBgBXsQIH9"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Amor Amarillo",
         "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
       },
@@ -471,22 +451,6 @@
       "duration_ms": 224093,
       "name": "Te Llevo para Que Me Lleves",
       "url": "https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "COMO UN G",
-      "url": "https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -507,6 +471,42 @@
       "duration_ms": 215383,
       "name": "Algum Ritmo",
       "url": "https://open.spotify.com/track/5EVv8M3vhByFLLqT1dkdGd"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Tropical Jesus",
+        "url": "https://open.spotify.com/album/1hNj4AB6pbahegd5dBYPV7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 188222,
+      "name": "Todo Estaba Bien",
+      "url": "https://open.spotify.com/track/0qRE2t4scDRFsBgBXsQIH9"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "COMO UN G",
+      "url": "https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Todo el D\u00eda As\u00ed",
-        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 215492,
-      "name": "Todo el D\u00eda As\u00ed",
-      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Alas Canciones",
         "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 302280,
       "name": "Sigo Caminando",
       "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Todo el D\u00eda As\u00ed",
+        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 215492,
+      "name": "Todo el D\u00eda As\u00ed",
+      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Ahyre",
+        "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        }
+      ],
+      "duration_ms": 269196,
+      "name": "La Noche Sin Ti",
+      "url": "https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Amores E Flores",
         "url": "https://open.spotify.com/album/1PlsJ3MpUgGs7AkuKymCtp"
       },
@@ -1187,6 +1203,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "A Roar Of Southern Clouds",
+        "url": "https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz"
+      },
+      "artists": [
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "A Primera Vista",
+      "url": "https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Mundo Debajo del Mundo",
         "url": "https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ"
       },
@@ -1219,22 +1251,6 @@
       "duration_ms": 162724,
       "name": "pequena",
       "url": "https://open.spotify.com/track/2wx2CPCAjGOnYH18MVbcb1"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "A Roar Of Southern Clouds",
-        "url": "https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz"
-      },
-      "artists": [
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "A Primera Vista",
-      "url": "https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 218800,
       "name": "Soltar",
       "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     }
   ],
   "unique_name": "T\u00e9 Para Tres",

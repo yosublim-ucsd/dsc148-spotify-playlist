@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Yot Club & Jordana",
-  "num_followers": 453639,
+  "num_followers": 453808,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjA5N2Y2YjFiMDZhZmM3YzJiZTk0NGZmZGEzYTA1NTE2NmRjNWY3",
+  "snapshot_id": "MCw2ZWUzMTdmYjk3ZjVhMjRlOGRmZGZjNDU3N2Q4NTNjMTM4NjAwOWVl",
   "tracks": [
     {
       "added_at": "2023-09-15 12:36:22",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 122338,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Songs of Her's",
         "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 90323,
       "name": "Vas",
       "url": "https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 122338,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -219,26 +219,6 @@
       "duration_ms": 212750,
       "name": "YKWIM?",
       "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "Mulholland Drive",
-        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Dent May",
-          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
-        }
-      ],
-      "duration_ms": 153312,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -303,6 +283,26 @@
       "duration_ms": 309000,
       "name": "Answering Machine",
       "url": "https://open.spotify.com/track/3boC2M1D82RuRJhUOkSHtg"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "duration_ms": 153312,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Good Morning It's Now Tomorrow",
-        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Luxury Beverage",
         "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 260024,
       "name": "How Was Your Day?",
       "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Good Morning It's Now Tomorrow",
+        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 131174,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Body Jumper",
         "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 118521,
       "name": "Blue Sheen",
       "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 131174,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Fade",
-        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
-      },
-      "artists": [
-        {
-          "name": "Launder",
-          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
-        }
-      ],
-      "duration_ms": 203444,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "I Clung to You Hoping We'd Both Drown",
         "url": "https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 171261,
       "name": "My Heart Goes Bum Bum Bum",
       "url": "https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
+      },
+      "artists": [
+        {
+          "name": "Launder",
+          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
+        }
+      ],
+      "duration_ms": 203444,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
+        "name": "End Of The Day (music from the film Anonymous Club)",
+        "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 131107,
+      "name": "Start Somewhere",
+      "url": "https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
         "name": "Wednesday",
         "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 223186,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "End Of The Day (music from the film Anonymous Club)",
-        "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 131107,
-      "name": "Start Somewhere",
-      "url": "https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv"
     },
     {
       "added_at": "2023-09-15 12:36:22",

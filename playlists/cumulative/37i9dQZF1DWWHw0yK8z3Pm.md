@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Tyler Childers
 
-369 songs - 22 hr 37 min
+370 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Lost for a While](https://open.spotify.com/track/5lLq0yhstHqi4Tz68qguqS) | [Little Misty](https://open.spotify.com/artist/695A3b4A5eEZx3aKpGZYay) | [Nowhere Land](https://open.spotify.com/album/34F00rG3BIf0CfY867Tn6W) | 3:46 | 2023-04-14 | 2023-05-08 |
 | [Love Thy Neighbor](https://open.spotify.com/track/3ArBCwHbrBaW8hTWF4CWdG) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Love Thy Neighbor](https://open.spotify.com/album/7aGhjHYKpPW7lciXUx5Hlz) | 3:06 | 2022-05-13 | 2022-06-25 |
 | [Love You Now](https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Love You Now](https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6) | 2:49 | 2022-12-16 | 2023-02-25 |
-| [Maggie](https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Maggie](https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA) | 2:58 | 2023-01-20 |  |
+| [Maggie](https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Maggie](https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA) | 2:58 | 2023-01-20 | 2023-09-26 |
 | [Magic Hits](https://open.spotify.com/track/2RheiwXxiC3lbWhoMaTq5z) | [Adrian Sutherland](https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ) | [When the Magic Hits](https://open.spotify.com/album/5VcEQHvnipMBirRWhE2DqL) | 4:10 | 2022-05-13 | 2022-09-24 |
 | [Make This Better](https://open.spotify.com/track/5LLA7OrEC2ouVUt6419VeN) | [Lydia Hol](https://open.spotify.com/artist/7hFH2Id7zwVCr9MWYyK0Y9) | [Some Dreamers of the Golden Dream](https://open.spotify.com/album/3ZEkYEtst5mhOV5KeTTjeG) | 3:42 | 2022-05-13 | 2022-08-20 |
 | [Making Believe \(feat\. Rose Cousins\)](https://open.spotify.com/track/0m2QW5c8rATo81FjTYZkcu) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf), [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 2:36 | 2022-09-23 | 2023-08-05 |
@@ -264,6 +264,7 @@
 | [Prairie](https://open.spotify.com/track/0LGUqza1L9nPakX9UXi5B4) | [Meredith Lazowski](https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP) | [Prairie](https://open.spotify.com/album/41NAidTgQgMILE22jFjsu7) | 4:59 | 2022-05-13 | 2022-06-04 |
 | [Pretending](https://open.spotify.com/track/1SuLiXG4p5OLGJWVAYWRjF) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Psycho](https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P) | 5:39 | 2023-07-28 | 2023-09-22 |
 | [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 | 2023-06-02 | 2023-08-04 |
+| [Pretending](https://open.spotify.com/track/5sv88ka8oK6lBuhf1hXobI) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Good Ol Days](https://open.spotify.com/album/0AYf7a5HfwRars592KS1Dr) | 5:39 | 2023-09-22 |  |
 | [Queen Of Spades](https://open.spotify.com/track/7xsH1sQMp0wXYrREskS0JX) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Queen Of Spades](https://open.spotify.com/album/3ypJf75RGg4YsxRF7T2qzO) | 4:06 | 2022-09-16 | 2022-10-15 |
 | [Recyclers](https://open.spotify.com/track/5GATa8dqT4peA3867Sv5f3) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/1RRQsmBUCGLHQ2n22scgQs) | 4:12 | 2022-05-13 | 2022-10-18 |
 | [Recyclers](https://open.spotify.com/track/5MoFU7MuEjcjUwn42vqNCj) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/0cZv3s0UthhPm1k6M4OLAf) | 4:12 | 2022-10-14 | 2023-04-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 36299,
+  "num_followers": 36318,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDEyZTVkZThhZWM1OWM4NzFkNDE1ZTE2ZmU1MTlkN2U3NTBjZjMx",
+  "snapshot_id": "MCw1Nzg4OTUxNGVhYjE1Y2ZlMWRhZjg5NTk5NTA4NzM4NjliNDlhMDk2",
   "tracks": [
     {
       "added_at": "2023-07-11 18:58:34",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
+        "name": "Western Swing & Waltzes and Other Punchy Songs",
+        "url": "https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Cowpoke",
+      "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
         "name": "Townes Van Zandt",
         "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
       },
@@ -135,6 +151,22 @@
       "duration_ms": 165186,
       "name": "Waiting Around to Die",
       "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "The Saint Of Lost Causes",
+        "url": "https://open.spotify.com/album/2u56gjSmnJzoZOcUO84Lrw"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 271958,
+      "name": "Mornings In Memphis",
+      "url": "https://open.spotify.com/track/3XSMqnPOR0UJBnbEZL656D"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -159,38 +191,6 @@
       "duration_ms": 260090,
       "name": "Sunset Canyon",
       "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
-        "name": "The Saint Of Lost Causes",
-        "url": "https://open.spotify.com/album/2u56gjSmnJzoZOcUO84Lrw"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 271958,
-      "name": "Mornings In Memphis",
-      "url": "https://open.spotify.com/track/3XSMqnPOR0UJBnbEZL656D"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
-        "name": "Western Swing & Waltzes and Other Punchy Songs",
-        "url": "https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "Cowpoke",
-      "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Poncho & Lefty",
-      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
@@ -275,6 +259,22 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
         "name": "Okay, Crawdad",
         "url": "https://open.spotify.com/album/4Be8F6J5qKXiGz6PuEBXYp"
       },
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Hermosa Drive",
-        "url": "https://open.spotify.com/album/1W9chSfuRIMlDR9h1KLeO7"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Hermosa Drive",
-      "url": "https://open.spotify.com/track/6WysaBBSPIpoVPCbF4Rys4"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Colter Wall & The Scary Prairie Boys",
         "url": "https://open.spotify.com/album/6E8W7DhCFcxUuU2X1zM1Q4"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 323853,
       "name": "Bob Fudge",
       "url": "https://open.spotify.com/track/7IkdDn5z2GQq2xhraDVoen"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Hermosa Drive",
+        "url": "https://open.spotify.com/album/1W9chSfuRIMlDR9h1KLeO7"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Hermosa Drive",
+      "url": "https://open.spotify.com/track/6WysaBBSPIpoVPCbF4Rys4"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Happy Birthday, Ratboy",
-        "url": "https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO"
-      },
-      "artists": [
-        {
-          "name": "Ratboys",
-          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Go Outside",
-      "url": "https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Long Game",
         "url": "https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 180016,
       "name": "Long Game",
       "url": "https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Happy Birthday, Ratboy",
+        "url": "https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO"
+      },
+      "artists": [
+        {
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Go Outside",
+      "url": "https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "No Glory in the West",
-        "url": "https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "No Glory in the West",
-      "url": "https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Walk Through Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 195376,
       "name": "Ride Out In The Country",
       "url": "https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "No Glory in the West",
+        "url": "https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "No Glory in the West",
+      "url": "https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "The Freelancer's Blues",
-        "url": "https://open.spotify.com/album/4UxVJzE5iHPxl2mBWlEqC1"
-      },
-      "artists": [
-        {
-          "name": "Dougie Poole",
-          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
-        }
-      ],
-      "duration_ms": 277386,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/5DQFjLWTW7AGqaPLdeXCTz"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Bruised Orange",
         "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 140506,
       "name": "Aw Heck",
       "url": "https://open.spotify.com/track/6AmZ17zWgqFkjD50TnzTvM"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "The Freelancer's Blues",
+        "url": "https://open.spotify.com/album/4UxVJzE5iHPxl2mBWlEqC1"
+      },
+      "artists": [
+        {
+          "name": "Dougie Poole",
+          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
+        }
+      ],
+      "duration_ms": 277386,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/5DQFjLWTW7AGqaPLdeXCTz"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
+        "name": "U.F.O.",
+        "url": "https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu"
+      },
+      "artists": [
+        {
+          "name": "Jim Sullivan",
+          "url": "https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ"
+        }
+      ],
+      "duration_ms": 171053,
+      "name": "Highways",
+      "url": "https://open.spotify.com/track/0lv8vzoworXjrezBYz912U"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
         "name": "Plus de Sauce",
         "url": "https://open.spotify.com/album/329yK2nEn3owPZOdYcFHvQ"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "U.F.O.",
-        "url": "https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu"
-      },
-      "artists": [
-        {
-          "name": "Jim Sullivan",
-          "url": "https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ"
-        }
-      ],
-      "duration_ms": 171053,
-      "name": "Highways",
-      "url": "https://open.spotify.com/track/0lv8vzoworXjrezBYz912U"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Roped In",
         "url": "https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 235093,
       "name": "Rivers That You Cannot See",
       "url": "https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
-        "name": "Modern Country",
-        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
-      },
-      "artists": [
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
-        }
-      ],
-      "duration_ms": 325271,
-      "name": "I\u2019m Gonna Live Forever (If It Kills Me)",
-      "url": "https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -855,6 +839,22 @@
       "duration_ms": 258930,
       "name": "Strange Fascination",
       "url": "https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Modern Country",
+        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
+      },
+      "artists": [
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "duration_ms": 325271,
+      "name": "I\u2019m Gonna Live Forever (If It Kills Me)",
+      "url": "https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "American Love Song",
-        "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
-      },
-      "artists": [
-        {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "America",
-      "url": "https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Cocaine Country Dancing",
         "url": "https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 256281,
       "name": "Cocaine Country Dancing",
       "url": "https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "American Love Song",
+        "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "America",
+      "url": "https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Southern Gentleman",
-        "url": "https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp"
+        "name": "Los Chicos Tristes",
+        "url": "https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa"
       },
       "artists": [
         {
-          "name": "Dee White",
-          "url": "https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU"
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 200986,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM"
+      "duration_ms": 229400,
+      "name": "Los Chicos Tristes",
+      "url": "https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -1055,34 +1055,18 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Los Chicos Tristes",
-        "url": "https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa"
+        "name": "Southern Gentleman",
+        "url": "https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "Dee White",
+          "url": "https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Los Chicos Tristes",
-      "url": "https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
-        "name": "Jealous Guy",
-        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
-      },
-      "artists": [
-        {
-          "name": "Luke Bell",
-          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
-        }
-      ],
-      "duration_ms": 230702,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
+      "duration_ms": 200986,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -1099,6 +1083,22 @@
       "duration_ms": 201985,
       "name": "Green Rocky Road",
       "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Jealous Guy",
+        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
+      },
+      "artists": [
+        {
+          "name": "Luke Bell",
+          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
+        }
+      ],
+      "duration_ms": 230702,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
     },
     {
       "added_at": "2023-07-11 18:58:34",

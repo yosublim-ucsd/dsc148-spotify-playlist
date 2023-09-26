@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Streetwear label Geedup Co selects their top 5 tracks for AUNZ’s home of hip\-hop, A1.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,477 likes - 56 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,604 likes - 56 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 7 | [Saxo \(feat\. Tion Wayne\)](https://open.spotify.com/track/2Wzyas9S4ietj2NzXtHR2I) | [WhyTek](https://open.spotify.com/artist/65DPfysLSyewJ1IXgdA4ZM), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Saxo \(feat\. Tion Wayne\)](https://open.spotify.com/album/4RhUu4CjybaYP56fPgJQ6U) | 1:51 |
 | 8 | [97](https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:57 |
 | 9 | [Straight Out The Mud](https://open.spotify.com/track/1orhwVQmCUAGaWvCFYsjYy) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [Local Lunatic](https://open.spotify.com/album/1KbLCWtDtfR9x5kDllY2uG) | 2:59 |
-| 10 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:33 |
+| 10 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
 | 11 | [CFB](https://open.spotify.com/track/01aqLd3IeFjrRbIGFCsajv) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [CFB](https://open.spotify.com/album/57GpJDPLmbaTDaDBAU48Bo) | 2:30 |
 | 12 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
 | 13 | [We Ride](https://open.spotify.com/track/0ZndP0d6W6ICRmSlKgMiS4) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe) | [We Ride](https://open.spotify.com/album/54BeNq6d1lkoLM8foqjx9k) | 3:07 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 55 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 |
 | 56 | [Winner](https://open.spotify.com/track/2EsD0WwgZ3ZxbrDbGkZZyS) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [A Gift & A Kers](https://open.spotify.com/album/50NMkihJxtR4jaTddZKqkS) | 3:33 |
 
-Snapshot ID: `MCwzY2I3ZmVlZmRlYmRmYmNkNDU4NmUyOTk5OGM2NjQ4OTU3YTZhOWNk`
+Snapshot ID: `MCwxNjMxNmE0ZTE0OTdmYzU1YzViNzgwZDRmODkzNTYyNTgwY2YxMDI5`

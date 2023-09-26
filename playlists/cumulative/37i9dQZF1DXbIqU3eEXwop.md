@@ -4,7 +4,7 @@
 
 > Les indispensables de l'été.
 
-65 songs - 3 hr 23 min
+66 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2022-12-16 |  |
 | [Seve \- Radio Edit](https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Seve \(Radio Edit\)](https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4) | 3:30 | 2022-12-16 |  |
 | [Some Kind Of Kiss](https://open.spotify.com/track/2xsRIYRAC0mXttKR4sZscl) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Some Kind Of Kiss](https://open.spotify.com/album/5rb5FtGstxBVv9xdFCDKSg) | 2:28 | 2023-05-22 |  |
+| [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-09-25 |  |
 | [Sugar \(feat\. Francesco Yates\) \- Billions Club Remix](https://open.spotify.com/track/6OeRAvRqfqpaHHTzrnCSHJ) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar \(feat\. Francesco Yates\) \[Billions Club Remix\]](https://open.spotify.com/album/3ENSgxyvrzzRURWqpJuYIR) | 3:06 | 2022-12-16 |  |
 | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR) | 2:43 | 2022-12-16 | 2023-05-23 |
 | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \- Cedric Gervais Remix](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Summertime Sadness \[Lana Del Rey vs\. Cedric Gervais\] \(Cedric Gervais Remix\)](https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv) | 3:34 | 2022-12-16 |  |

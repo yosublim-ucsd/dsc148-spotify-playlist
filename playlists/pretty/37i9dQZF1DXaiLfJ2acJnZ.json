@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 41722,
+  "num_followers": 41756,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YThjMjU1MTE3YzUxOGM0YTk1ZmUxMWE1ZjBhMDc0MzQ0MTA1NDk4",
+  "snapshot_id": "MCw2ODlkZWM4MWQzM2MyM2IzZWZjNjAzN2YwZGUxYjFjYWVjMGE5MjFj",
   "tracks": [
     {
       "added_at": "2023-09-12 15:27:53",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
       },
@@ -259,18 +275,34 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "What Ifs & Maybes",
+        "url": "https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 184023,
+      "name": "Crown Your Love",
+      "url": "https://open.spotify.com/track/64jnWr7d0fgtycXQfyGBo7"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -295,38 +327,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "What Ifs & Maybes",
-        "url": "https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 184023,
-      "name": "Crown Your Love",
-      "url": "https://open.spotify.com/track/64jnWr7d0fgtycXQfyGBo7"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "Welcome To The Madhouse",
         "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
       },
@@ -339,38 +339,6 @@
       "duration_ms": 178156,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
-        "name": "live more & love more",
-        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 158259,
-      "name": "live more & love more",
-      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/34u3NbcTsnZZZtYYz55xqy"
-      },
-      "artists": [
-        {
-          "name": "Taura Lamb",
-          "url": "https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH"
-        }
-      ],
-      "duration_ms": 176028,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/43z7dKYRpWdLJ0jdQunIc7"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -391,6 +359,38 @@
       "duration_ms": 176187,
       "name": "My Love (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/34u3NbcTsnZZZtYYz55xqy"
+      },
+      "artists": [
+        {
+          "name": "Taura Lamb",
+          "url": "https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH"
+        }
+      ],
+      "duration_ms": 176028,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/43z7dKYRpWdLJ0jdQunIc7"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "live more & love more",
+        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 158259,
+      "name": "live more & love more",
+      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+        "name": "Maybe Next Time",
+        "url": "https://open.spotify.com/album/6oGzvyilFapjThmlJPJKiW"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
         }
       ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
+      "duration_ms": 188373,
+      "name": "Maybe Next Time",
+      "url": "https://open.spotify.com/track/3NZDpFKjCApF6WkI5g6iFg"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Maybe Next Time",
-        "url": "https://open.spotify.com/album/6oGzvyilFapjThmlJPJKiW"
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
       "artists": [
         {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 188373,
-      "name": "Maybe Next Time",
-      "url": "https://open.spotify.com/track/3NZDpFKjCApF6WkI5g6iFg"
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Mountain",
-        "url": "https://open.spotify.com/album/3iRiuWFQaB6J31fqTl0oiw"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 169479,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/0uIjaOUqCKav7yJU4Lj2hB"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "That's Just The Way It Is, Babe",
         "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 208253,
       "name": "That\u2019s Just The Way It Is, Babe",
       "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "Mountain",
+        "url": "https://open.spotify.com/album/3iRiuWFQaB6J31fqTl0oiw"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 169479,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/0uIjaOUqCKav7yJU4Lj2hB"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -811,6 +811,22 @@
       "duration_ms": 176000,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 179453,
+      "name": "Two Weeks Ago",
+      "url": "https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "Two Weeks Ago",
-      "url": "https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 159490,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "Antichrist / Room Service",
         "url": "https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 226125,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 159490,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "One Foot in Front of the Other",
-        "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "One Foot in Front of the Other",
-      "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "Popcorn and a Smoothie",
         "url": "https://open.spotify.com/album/7FUQUeda9RYXI5invOQS5i"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 203786,
       "name": "Popcorn and a Smoothie",
       "url": "https://open.spotify.com/track/217lMAhuyxm8Smz7OeSiJ7"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "One Foot in Front of the Other",
+        "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "One Foot in Front of the Other",
+      "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt"
-      },
-      "artists": [
-        {
-          "name": "Only The Poets",
-          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
-        }
-      ],
-      "duration_ms": 159239,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "Good Vibrations",
         "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 229444,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "duration_ms": 159239,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd"
     },
     {
       "added_at": "2023-09-12 15:27:53",

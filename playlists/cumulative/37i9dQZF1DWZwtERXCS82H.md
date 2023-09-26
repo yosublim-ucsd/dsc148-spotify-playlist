@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-657 songs - 1 day 4 hr 25 min
+663 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [An Ocean Of Memories](https://open.spotify.com/track/1AlgXoj042cGzdQ2SybcSk) | [Maddison Howells](https://open.spotify.com/artist/2IC6rSlT5Gmdqf3yiMIzzl) | [An Ocean Of Memories](https://open.spotify.com/album/0d07WU02I7aOlBnviJkeFe) | 2:53 | 2022-04-15 | 2022-04-28 |
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2022-04-15 |  |
 | [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 | 2023-07-03 |  |
+| [Apart](https://open.spotify.com/track/1Eqlx3dtG65l9KI0uF3zuP) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Apart](https://open.spotify.com/album/0dIFaSYu3tI7NohFzFf3sr) | 3:01 | 2023-09-25 |  |
 | [Apricity](https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Apricity](https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW) | 2:36 | 2022-12-22 |  |
 | [Arabesque](https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Arabesque](https://open.spotify.com/album/5dYHa8wLpODekEUeJUNHBJ) | 2:31 | 2022-04-15 |  |
 | [Arturo](https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 2:52 | 2022-07-15 |  |
@@ -163,6 +164,7 @@
 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2022-04-15 |  |
 | [Evergreen Valley](https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 2:56 | 2022-04-15 | 2022-05-27 |
 | [Expansion](https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Expansion](https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU) | 2:32 | 2022-08-09 | 2022-11-19 |
+| [Fable](https://open.spotify.com/track/5peqXtg8QfwrtkAVsX0hrf) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Fable](https://open.spotify.com/album/2bqm0uelNOxlsZUPlBYIf3) | 2:29 | 2023-09-25 |  |
 | [Factotum](https://open.spotify.com/track/1q0ulJeANOQ8X77jcahMnf) | [Vincent Lundman](https://open.spotify.com/artist/2KzGQ3sjqj6YWyIUM4DcVh) | [Factotum](https://open.spotify.com/album/3CvtrccdoHvlNi3tVHJDQa) | 3:16 | 2022-04-15 |  |
 | [Fairfield](https://open.spotify.com/track/2sc04X1Z2uVblrt7zqHSYS) | [Isaac Nash](https://open.spotify.com/artist/32MlHIPCHJoM3V9IlknCxD) | [Fairfield](https://open.spotify.com/album/0OPzIpVpQ6uYoIOnB7Mwv8) | 2:08 | 2022-04-15 | 2022-04-23 |
 | [Fairway Drive](https://open.spotify.com/track/3zkLIQIwUzSVO7BPOiqVSE) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Leatherwood Lane](https://open.spotify.com/album/0T3CYxFdDWnW9CGoCtY0jZ) | 2:48 | 2022-04-15 | 2022-09-21 |
@@ -368,6 +370,7 @@
 | [Nocturne](https://open.spotify.com/track/6rotz7JFg3WMGt3fRBewPo) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Nocturne](https://open.spotify.com/album/2tCWf4q7uiLupjpXgjPf4A) | 2:25 | 2022-04-15 | 2022-05-14 |
 | [Noémie](https://open.spotify.com/track/05raSLFPEXgJTZ3PZPxXD0) | [Mikki Jenkins](https://open.spotify.com/artist/352pMjHoDyILGhOoYMMWYi) | [Noémie](https://open.spotify.com/album/6ESd1pP4cH03zETvAiNISE) | 2:00 | 2022-04-15 | 2022-04-23 |
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2022-04-15 | 2022-05-14 |
+| [Nostalgia](https://open.spotify.com/track/2VLZp2Z7FLrkn2ysVgZGKY) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Nostalgia](https://open.spotify.com/album/4tradG5YoXryCru3ftThli) | 2:12 | 2023-09-25 |  |
 | [Nothingness Began Slowly](https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Nothingness Began Slowly](https://open.spotify.com/album/35HuYT7YxzpZUeCSOaLzac) | 1:59 | 2022-04-15 | 2023-07-25 |
 | [Nourriture et soleil](https://open.spotify.com/track/5eBaIlhJGeM9LwvqYw0J3k) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Nourriture et soleil](https://open.spotify.com/album/4ITksiX8W2gSNoW7mSStD4) | 3:00 | 2022-04-15 | 2022-11-19 |
 | [Nous deux](https://open.spotify.com/track/2GLiH4byzaERkAbslclCoV) | [Gilbert Lécuyer](https://open.spotify.com/artist/239jUZAPmk38sV6d9o12xR) | [Nous deux](https://open.spotify.com/album/5CXGNp2IVTltB5YN5XLbDk) | 2:25 | 2022-04-15 | 2022-04-23 |
@@ -635,6 +638,7 @@
 | [Waltz For Olivia](https://open.spotify.com/track/5OPVL9eRJePaHRxuULUGju) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:40 | 2022-04-15 |  |
 | [Waltz in F minor](https://open.spotify.com/track/20DUpGAFEPRFEBD3FbxUHK) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Waltz in F minor](https://open.spotify.com/album/0eFKKxmv0SE3SL3Z1YwmKi) | 2:24 | 2022-04-15 | 2022-11-19 |
 | [Waltz, Interrupted](https://open.spotify.com/track/4iMQEdNXGMVlAbqsJGhvxx) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waltz, Interrupted](https://open.spotify.com/album/0Y9TvMNJVcoc6uFmHAEpF5) | 2:11 | 2022-04-15 |  |
+| [Watching North](https://open.spotify.com/track/3Dd5gOKG0iRpbKc7ZMp7rO) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Watching North](https://open.spotify.com/album/5JjqTy2EicAtQbktvJrKXd) | 2:16 | 2023-09-25 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2022-04-15 |  |
 | [Waves](https://open.spotify.com/track/0AZDlFjlawdbKtsF8kWi0z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:04 | 2022-04-15 | 2022-05-14 |
 | [Wayfarer](https://open.spotify.com/track/0DfcL73wzcHapZVB95Tm3F) | [Maud Parris](https://open.spotify.com/artist/0hMFv0x1eWo999Ri1wl3iA) | [Wayfarer](https://open.spotify.com/album/5aTfJ7qE0h7uP6IMfmpm9v) | 2:06 | 2022-04-15 |  |
@@ -653,11 +657,13 @@
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2022-04-15 |  |
 | [Wisteria Blue](https://open.spotify.com/track/2uDpyb11bwgMOqLQ1ZQ9E9) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Wisteria Blue](https://open.spotify.com/album/53Dsdz4bBI6oIzsRBNSTh0) | 2:27 | 2022-04-15 |  |
 | [Without A Care](https://open.spotify.com/track/0KDSZ4vJdSoZDDqPxbFEuh) | [Martin Fox](https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL) | [Without A Care](https://open.spotify.com/album/0ZGt6oyCLeO0sD3fR1ysKD) | 2:44 | 2022-04-15 | 2022-05-27 |
+| [wolkenlos](https://open.spotify.com/track/6bBI9q6jMKZPt5Bth1pxnV) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [wolkenlos](https://open.spotify.com/album/2wgLJwE2XaxOQ6ROrm8lIk) | 2:24 | 2023-09-25 |  |
 | [Wurzeln](https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14) | [Lekk](https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj) | [Glass Stone](https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF) | 2:32 | 2022-04-15 | 2023-08-15 |
 | [Yasashii](https://open.spotify.com/track/2Zq0snCBJhOzT61Lhroxr6) | [Asahi Haru](https://open.spotify.com/artist/2n6xoAIjeAig3mKdbHWrgM) | [Yasashii](https://open.spotify.com/album/3lpTY9zCdlgiZV1EZm4UJR) | 2:14 | 2022-10-14 |  |
 | [Yellow Reflection](https://open.spotify.com/track/2dVytC369RLembx9DjdMYP) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Yellow Reflection](https://open.spotify.com/album/4XKDSzmkcXmeztDgM9zxL7) | 2:05 | 2022-04-15 | 2023-07-11 |
 | [Yellow river](https://open.spotify.com/track/5NBR0JGRYOcWmGk25ri4k4) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Legendary Love](https://open.spotify.com/album/68T3xbvdcXwFTpgdYmyUYk) | 3:20 | 2022-04-15 | 2022-04-23 |
 | [Yesterday's Word](https://open.spotify.com/track/0aa6CDMxp5V1F6YMR59Q3X) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Yesterday's Word](https://open.spotify.com/album/6Hc998StJejtTBNWir46BS) | 2:01 | 2023-07-24 |  |
+| [You](https://open.spotify.com/track/0NVVI7x68BZqFXWsNkfNMv) | [Eric de Joté](https://open.spotify.com/artist/0JEX9uWA6GolbCcaqfD6rL) | [You](https://open.spotify.com/album/05ivnxOIaNNAj3zBFFNnpO) | 2:25 | 2023-09-25 |  |
 | [You Always Know](https://open.spotify.com/track/2UplxXCt0101pQTIQNqTFt) | [Cora Rowland](https://open.spotify.com/artist/3kkMltkZDtkuQKcv6F08LT) | [You Always Know](https://open.spotify.com/album/65qqGdavJdfswruyu8x9NO) | 2:48 | 2022-04-15 | 2022-05-14 |
 | [Young Love](https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Glacier](https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK) | 2:23 | 2022-04-15 | 2022-05-14 |
 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 | 2022-04-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 48070,
+  "num_followers": 48115,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWMzMDUyMDQ0YmVkYzE4YWY3OWE4Y2EyNTZhNmIwOTIzNmFkYjUx",
+  "snapshot_id": "MCxkMjBlMzBlNDVlZmEwMDk4MDQ0YjM4Y2Q2MThmMThlYjZlMDA1OTdj",
   "tracks": [
     {
       "added_at": "2023-09-22 12:52:55",
@@ -811,6 +811,26 @@
     {
       "added_at": "2023-09-22 12:52:55",
       "album": {
+        "name": "Overload / Somebody Else, Pt. 2",
+        "url": "https://open.spotify.com/album/6WVPZVv5W9F6PzNYaIC7kl"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        },
+        {
+          "name": "Lydia Plain",
+          "url": "https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs"
+        }
+      ],
+      "duration_ms": 197485,
+      "name": "Somebody Else, Pt. 2",
+      "url": "https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx"
+    },
+    {
+      "added_at": "2023-09-22 12:52:55",
+      "album": {
         "name": "Skillz",
         "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 204621,
       "name": "Skillz",
       "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
-    },
-    {
-      "added_at": "2023-09-22 12:52:55",
-      "album": {
-        "name": "Overload / Somebody Else, Pt. 2",
-        "url": "https://open.spotify.com/album/6WVPZVv5W9F6PzNYaIC7kl"
-      },
-      "artists": [
-        {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
-        },
-        {
-          "name": "Lydia Plain",
-          "url": "https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs"
-        }
-      ],
-      "duration_ms": 197485,
-      "name": "Somebody Else, Pt. 2",
-      "url": "https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx"
     },
     {
       "added_at": "2023-09-22 12:52:55",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-09-22 12:52:55",
       "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 292117,
-      "name": "Transcend",
-      "url": "https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX"
-    },
-    {
-      "added_at": "2023-09-22 12:52:55",
-      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt"
       },
@@ -1079,18 +1063,34 @@
     {
       "added_at": "2023-09-22 12:52:55",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6GMcUsOe9eqEtlm1KAkFIR"
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8"
       },
       "artists": [
         {
-          "name": "Murdock",
-          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3UIVHHvzMmAYjH7VIiburn"
+      "duration_ms": 292117,
+      "name": "Transcend",
+      "url": "https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX"
+    },
+    {
+      "added_at": "2023-09-22 12:52:55",
+      "album": {
+        "name": "Kickons",
+        "url": "https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "Kickons",
+      "url": "https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ"
     }
   ],
   "unique_name": "Jump Up!",

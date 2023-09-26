@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 10893,
+  "num_followers": 10898,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjZlYTU5MjU4NmU4NDU0MWVlN2M2MDYwZjJhMmQ3ZDYzMWU2YjUw",
+  "snapshot_id": "MCw2ZjdkOTlmN2ZkMjg1ZDFkZWFjMzBlMDA5N2ViZTBhY2U1YmIzNzI2",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Flying Microtonal Banana",
+        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 468093,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Masana Temples",
         "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 1367093,
       "name": "Autobahn - 2009 Remaster",
       "url": "https://open.spotify.com/track/31uidLEHAcF8Cw1cX1VCS8"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Flying Microtonal Banana",
-        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 468093,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/17NTyKH575Q3QWrRq64MfX"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Lightbulbs",
-        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Knickerbocker",
-      "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
-    },
-    {
       "added_at": "2023-03-23 21:21:38",
       "album": {
         "name": "Love What Survives",
@@ -447,22 +431,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "BGM",
-        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
-      },
-      "artists": [
-        {
-          "name": "YELLOW MAGIC ORCHESTRA",
-          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
-        }
-      ],
-      "duration_ms": 272840,
-      "name": "\u30ad\u30e5\u30fc",
-      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Third",
         "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
       },
@@ -475,6 +443,38 @@
       "duration_ms": 387786,
       "name": "We Carry On",
       "url": "https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Before And After Science",
+        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 236239,
+      "name": "King's Lead Hat - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Lightbulbs",
+        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Knickerbocker",
+      "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
     },
     {
       "added_at": "2023-09-04 19:37:16",
@@ -495,18 +495,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Before And After Science",
-        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
+        "name": "BGM",
+        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "YELLOW MAGIC ORCHESTRA",
+          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
         }
       ],
-      "duration_ms": 236239,
-      "name": "King's Lead Hat - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv"
+      "duration_ms": 272840,
+      "name": "\u30ad\u30e5\u30fc",
+      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Masana Temples",
-        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
-      },
-      "artists": [
-        {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
-        }
-      ],
-      "duration_ms": 220238,
-      "name": "Fluffy Kosmisch",
-      "url": "https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "You Look Certain (I\u2019m Not So Sure) [WXAXRXP Session]",
         "url": "https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 334979,
       "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
       "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Masana Temples",
+        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
+      },
+      "artists": [
+        {
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+        }
+      ],
+      "duration_ms": 220238,
+      "name": "Fluffy Kosmisch",
+      "url": "https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6llakzoid",
+          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
+        }
+      ],
+      "duration_ms": 434989,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
+    },
+    {
       "added_at": "2022-08-09 01:36:21",
       "album": {
         "name": "Pulse Of The Early Brain [Switched On Volume 5]",
@@ -663,18 +679,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
+        "name": "Codes and Keys",
+        "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
       },
       "artists": [
         {
-          "name": "F\u00f6llakzoid",
-          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
         }
       ],
-      "duration_ms": 434989,
-      "name": "Trees",
-      "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
+      "duration_ms": 337346,
+      "name": "Doors Unlocked and Open",
+      "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -707,22 +723,6 @@
       "duration_ms": 221893,
       "name": "Panic In The Isles Of Splendor",
       "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Codes and Keys",
-        "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 337346,
-      "name": "Doors Unlocked and Open",
-      "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -775,18 +775,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+        "name": "Stars Are the Light",
+        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
         }
       ],
-      "duration_ms": 189040,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
+      "duration_ms": 288031,
+      "name": "The World and the Sun",
+      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -807,18 +807,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Stars Are the Light",
-        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 288031,
-      "name": "The World and the Sun",
-      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+      "duration_ms": 189040,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "With Dim Light",
-        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 346883,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "NEU! 75",
         "url": "https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 431800,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "With Dim Light",
+        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 346883,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Ege Bamyasi (Remastered Version)",
-        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
-      },
-      "artists": [
-        {
-          "name": "CAN",
-          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
-        }
-      ],
-      "duration_ms": 335199,
-      "name": "One More Night - 2004 Remastered Version",
-      "url": "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Know by Heart",
         "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 217133,
       "name": "Like Foxes Through Fences",
       "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Ege Bamyasi (Remastered Version)",
+        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
+      },
+      "artists": [
+        {
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+        }
+      ],
+      "duration_ms": 335199,
+      "name": "One More Night - 2004 Remastered Version",
+      "url": "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Toy",
-        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
-      },
-      "artists": [
-        {
-          "name": "TOY",
-          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "Motoring",
-      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Haha Sound",
         "url": "https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 261426,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/6hbP2Xs5W0SVvepjLWnTeL"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Toy",
+        "url": "https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s"
+      },
+      "artists": [
+        {
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "Motoring",
+      "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/0FCeHhtD9n3SFMALs3YXhH"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": ">>>",
-        "url": "https://open.spotify.com/album/7FAIwJVREPlHAmqesdOwmn"
-      },
-      "artists": [
-        {
-          "name": "Beak>",
-          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
-        }
-      ],
-      "duration_ms": 231377,
-      "name": "Brean Down",
-      "url": "https://open.spotify.com/track/0LvgkU2tHpdzYUjJ94xYcn"
-    },
-    {
       "added_at": "2022-11-19 05:33:06",
       "album": {
         "name": "Feorm Falorx",
@@ -1375,6 +1359,22 @@
       "duration_ms": 239107,
       "name": "Nightcrawler",
       "url": "https://open.spotify.com/track/58J2w5yqne5YfzbmYi2mvY"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": ">>>",
+        "url": "https://open.spotify.com/album/7FAIwJVREPlHAmqesdOwmn"
+      },
+      "artists": [
+        {
+          "name": "Beak>",
+          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
+        }
+      ],
+      "duration_ms": 231377,
+      "name": "Brean Down",
+      "url": "https://open.spotify.com/track/0LvgkU2tHpdzYUjJ94xYcn"
     },
     {
       "added_at": "2022-03-18 05:36:55",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 250029,
-      "name": "Conductor 71",
-      "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Musik von Harmonia",
         "url": "https://open.spotify.com/album/0zgeYyYnRy7Gsedyzt7NpN"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 211013,
       "name": "Dino",
       "url": "https://open.spotify.com/track/6Nwp612WhVxuIVwbxKqUKH"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 250029,
+      "name": "Conductor 71",
+      "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "NEU! 2",
-        "url": "https://open.spotify.com/album/2PKmOmYVEzOuHwEUpmtuak"
-      },
-      "artists": [
-        {
-          "name": "NEU!",
-          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
-        }
-      ],
-      "duration_ms": 677493,
-      "name": "Fur immer",
-      "url": "https://open.spotify.com/track/64oCQFb2LQFCROYJOk6mkS"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Creatures of an Hour",
         "url": "https://open.spotify.com/album/7jD6Vz4DvhpjJ6x16oWv1y"
       },
@@ -1635,18 +1619,34 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+        "name": "Axes",
+        "url": "https://open.spotify.com/album/6URJwDxKSs8MWXm8WnMcTk"
       },
       "artists": [
         {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
         }
       ],
-      "duration_ms": 391002,
-      "name": "Cassettesingle",
-      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
+      "duration_ms": 278026,
+      "name": "Bells",
+      "url": "https://open.spotify.com/track/7MeZ2vkj3UNOsMiekKRbGM"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "NEU! 2",
+        "url": "https://open.spotify.com/album/2PKmOmYVEzOuHwEUpmtuak"
+      },
+      "artists": [
+        {
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+        }
+      ],
+      "duration_ms": 677493,
+      "name": "Fur immer",
+      "url": "https://open.spotify.com/track/64oCQFb2LQFCROYJOk6mkS"
     }
   ],
   "unique_name": "Krautrock Highway",

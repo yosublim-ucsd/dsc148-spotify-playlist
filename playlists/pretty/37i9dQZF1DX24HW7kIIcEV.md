@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 
 ### [after school club 🪄](https://open.spotify.com/playlist/37i9dQZF1DX24HW7kIIcEV)
 
-> Yay me! Starring London Tipton 🩷
+> this is what dreams are made of!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,470 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,071 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Climb](https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:56 |
-| 2 | [What Dreams Are Made Of](https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [The Lizzie McGuire Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh) | 4:02 |
+| 1 | [What Dreams Are Made Of](https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [The Lizzie McGuire Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh) | 4:02 |
+| 2 | [The Climb](https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:56 |
 | 3 | [Breaking Free](https://open.spotify.com/track/5zQ1Wq6HNYjGZWkVv5P8Eg) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella Montez](https://open.spotify.com/artist/0fSj8MxxUSzY9fBNRmmuWU), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical](https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci) | 3:27 |
 | 4 | [Ready or Not](https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:20 |
 | 5 | [He Could Be the One](https://open.spotify.com/track/07HPV6hzecJmMJwsIX8YVU) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 3:00 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 84 | [Jump To The Rhythm](https://open.spotify.com/track/4QFbZ1cSkL718J6A8cMJdA) | [Jordan Pruitt](https://open.spotify.com/artist/1JfkqBTXs6VC3JZ7RJNu7h) | [No Ordinary Girl](https://open.spotify.com/album/3ZN6vRXDZhoYf9Zdc5ubpE) | 3:47 |
 | 85 | [Make You Believe](https://open.spotify.com/track/6IvOCyrwW7VuCjQFCD7h7r) | [Lucy Hale](https://open.spotify.com/artist/4gWAItIMhYCdD82T8tvv3T) | [A Cinderella Story: Once Upon A Song \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fDujJMK88H9vZYRjVb2Bz) | 3:31 |
 
-Snapshot ID: `MCwwNDcwZjkwYjBiZmRlZmU4MzYyMmM2ZGE0MDJlN2M1MjBmMmUwNDcx`
+Snapshot ID: `MCw0OWRkOWY5MmFmZjhkYTc4YTQwYWQ3Yzc1ZjUzMTNhNGY1MjkwN2Qz`

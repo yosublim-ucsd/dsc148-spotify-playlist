@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Manuel Medrano",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Shakira #DiaDeShakira",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 165710,
       "name": "Nudo Ciego",
       "url": "https://open.spotify.com/track/3f8pzgpatzDxuD68POqhoj"
@@ -2366,6 +2366,24 @@
       "duration_ms": 195843,
       "name": "Soltar",
       "url": "https://open.spotify.com/track/5iKm6jYs4eJIQROWw69Faf"
+    },
+    {
+      "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194106,
+      "name": "Suerte (Whenever, Wherever)",
+      "url": "https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My"
     },
     {
       "album": {

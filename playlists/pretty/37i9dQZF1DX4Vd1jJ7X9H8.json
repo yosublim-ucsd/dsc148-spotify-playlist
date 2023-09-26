@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 282330,
+  "num_followers": 282553,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDJmZTA5YWRmM2I3M2FkZWNjMGFiYTY0NjY1NjBhYTA3YTJhMDMz",
+  "snapshot_id": "MCxiNTc3OGFjNjMyYjhhMDY2ZTBiOTc4NzA5NjFjYWJkZTk4NjYzNzg5",
   "tracks": [
     {
       "added_at": "2023-05-04 21:27:18",
@@ -225,24 +225,20 @@
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
-      "added_at": "2023-05-04 21:27:18",
+      "added_at": "2023-09-20 13:55:00",
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+        "name": "cross my heart",
+        "url": "https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 227706,
-      "name": "YOU'RE THE ONE",
-      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+      "duration_ms": 146228,
+      "name": "cross my heart",
+      "url": "https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -261,20 +257,24 @@
       "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
     },
     {
-      "added_at": "2023-09-20 13:55:00",
+      "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "cross my heart",
-        "url": "https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA"
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 146228,
-      "name": "cross my heart",
-      "url": "https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU"
+      "duration_ms": 227706,
+      "name": "YOU'RE THE ONE",
+      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Dumb Love",
-        "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 282728,
-      "name": "Dumb Love",
-      "url": "https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Dumb Love",
+        "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 282728,
+      "name": "Dumb Love",
+      "url": "https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Electric U",
-        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
-      },
-      "artists": [
-        {
-          "name": "Kid Bloom",
-          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Electric U",
-      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Pacific Standard Time",
         "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 368773,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Electric U",
+        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Electric U",
+      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
     },
     {
-      "added_at": "2023-07-18 16:14:01",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
-      },
-      "artists": [
-        {
-          "name": "okaywill",
-          "url": "https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L"
-        }
-      ],
-      "duration_ms": 119016,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
-    },
-    {
       "added_at": "2023-05-04 21:27:18",
       "album": {
         "name": "Happy Music",
@@ -555,6 +539,22 @@
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
+    },
+    {
+      "added_at": "2023-07-18 16:14:01",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
+      },
+      "artists": [
+        {
+          "name": "okaywill",
+          "url": "https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L"
+        }
+      ],
+      "duration_ms": 119016,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC"
     },
     {
-      "added_at": "2023-06-23 14:31:14",
-      "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
-    },
-    {
       "added_at": "2023-05-04 21:27:18",
       "album": {
         "name": "Everything Eventually Ends",
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Ungodly Hour",
+        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Ungodly Hour",
+      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -789,20 +789,40 @@
       "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
     },
     {
-      "added_at": "2023-05-04 21:27:18",
+      "added_at": "2023-07-28 17:22:16",
       "album": {
-        "name": "Ungodly Hour",
-        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
+        "name": "Heartquake",
+        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
       },
       "artists": [
         {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 255893,
-      "name": "Ungodly Hour",
-      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
+      "duration_ms": 218373,
+      "name": "Heartquake",
+      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Dream in Colour",
+        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 183896,
+      "name": "Skin on Skin",
+      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
     },
     {
       "added_at": "2023-07-28 17:22:16",
@@ -843,26 +863,6 @@
       "duration_ms": 236335,
       "name": "Montreal",
       "url": "https://open.spotify.com/track/5maosvba9QkQP14u6vtxog"
-    },
-    {
-      "added_at": "2023-07-28 17:22:16",
-      "album": {
-        "name": "Heartquake",
-        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 218373,
-      "name": "Heartquake",
-      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
       "added_at": "2023-05-04 21:27:18",

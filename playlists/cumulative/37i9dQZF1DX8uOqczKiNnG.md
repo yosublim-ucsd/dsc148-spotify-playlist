@@ -4,7 +4,7 @@
 
 > Los más grandes éxitos de los 70 en Argentina.
 
-51 songs - 3 hr 22 min
+52 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Me Olvide De Vivir](https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:52 | 2020-03-13 |  |
 | [Mediterraneo](https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:25 | 2020-03-13 |  |
 | [More Than A Woman](https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 3:17 | 2020-03-13 |  |
-| [Muchacha \(Ojos de Papel\)](https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:07 | 2020-03-13 |  |
+| [Muchacha \(Ojos de Papel\)](https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:07 | 2020-03-13 | 2023-09-26 |
 | [My Sweet Lord \- 2014 Remaster](https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 4:41 | 2020-03-13 |  |
 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 | 2020-03-13 |  |
 | [O Quizás Simplemente Le Regale una Rosa](https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:19 | 2020-03-13 |  |
@@ -42,6 +42,7 @@
 | [Quererte a Ti](https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 4:35 | 2020-03-13 |  |
 | [Quiereme Mucho \- Yours](https://open.spotify.com/track/3D1ourR6ar31jOZmHGCoa2) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:11 | 2020-03-13 |  |
 | [Quizás, Porque](https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:12 | 2020-03-13 |  |
+| [Rasguña las Piedras](https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 3:11 | 2020-03-13 |  |
 | [Rosa..\. Rosa](https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Sandro de América](https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9) | 2:33 | 2020-03-13 |  |
 | [San Francisco \(Be Sure to Wear Some Flowers In Your Hair\)](https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [The Voice of Scott McKenzie \(Expanded Edition\)](https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ) | 2:58 | 2020-03-13 |  |
 | [Seminare \(Remasterizado 2021\)](https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán \(Remasterizado 2021\)](https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo) | 3:22 | 2020-03-13 |  |

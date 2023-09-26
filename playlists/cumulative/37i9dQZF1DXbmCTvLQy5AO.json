@@ -1142,10 +1142,28 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 192235,
       "name": "LGBT",
       "url": "https://open.spotify.com/track/2PSuZ7k5bBmhkuH5vbfFPc"
+    },
+    {
+      "album": {
+        "name": "LGBT",
+        "url": "https://open.spotify.com/album/7jFSFtzv9jaYoALuOYkyBw"
+      },
+      "artists": [
+        {
+          "name": "Deebo2x",
+          "url": "https://open.spotify.com/artist/0hyMnB9nY24uy6Pc3NtKXO"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192235,
+      "name": "LGBT",
+      "url": "https://open.spotify.com/track/64NFSqtc66wrF9yZQrwgrw"
     },
     {
       "album": {

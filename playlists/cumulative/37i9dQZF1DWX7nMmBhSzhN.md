@@ -4,7 +4,7 @@
 
 > Soothe your broken heart with these timeless Bollywood tunes.
 
-111 songs - 10 hr 21 min
+112 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Jeeye to Jeeye Kaise](https://open.spotify.com/track/19GWgGIJzqZqe6i1v41NZZ) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Saajan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0vM40ZvKzbI97anisDuMGJ) | 6:37 | 2023-05-24 |  |
 | [Jhoomka Gira Re \(From "Mera Saaya"\)](https://open.spotify.com/track/3O4S3w4EM3ubp6S2jtOkpM) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Singing Icon \- Asha Bhosle](https://open.spotify.com/album/3dXlPx1XUd6VIMgXTwpnQ3) | 4:56 | 2021-11-26 | 2023-05-24 |
 | [Judaai Judaai, Pt\. 1](https://open.spotify.com/track/5nJgoQtpypT1SEYaKCKaXm) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Jaspinder Narula](https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo) | [Judaai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ttq5LojOO2nVKQiXVXCpY) | 7:18 | 2023-05-24 |  |
+| [Kaash Kahin Aisa Hota](https://open.spotify.com/track/1jloedPfCUrw9ApwSKKGAb) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Mohra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PqGBYRvfSWEh3eoHPNEnA) | 5:05 | 2023-09-25 |  |
 | [Kahin Deep Jale Kahin Dil](https://open.spotify.com/track/5jaj1jTdCVVpdcdTvCXPZC) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Remembering Lata Didi](https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v) | 5:24 | 2021-11-26 | 2023-05-24 |
 | [Kahin Deep Jale Kahin Dil](https://open.spotify.com/track/3jtcSXIONWFoyRXGOlmnR2) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Bees Saal Baad](https://open.spotify.com/album/5NJJBwWN9wxCBm17eihsp2) | 5:24 | 2021-11-26 | 2022-07-29 |
 | [Kahin Pe Nigahen Kahin Pe Nishana](https://open.spotify.com/track/1CDt27dtpIdl2YqbHmbjvS) | [Shamshad Begum](https://open.spotify.com/artist/0Ury0QIiBOlJmsdYUiCTfQ) | [C.I.D\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WwsIW6Jo34bhgjl4L9LKo) | 4:31 | 2021-11-26 | 2023-05-24 |
@@ -76,7 +77,7 @@
 | [Mujhse Juda Hokar](https://open.spotify.com/track/2DB9QGwW9ArN10j89DcypN) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Hum Aapke Hain Koun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wzQyLymXegR9Wpngfo2pB) | 6:02 | 2023-05-24 |  |
 | [Nahin Saamne Tu](https://open.spotify.com/track/2VbJADm28rn89sdn2QwzuZ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Taal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bqIzWWbArrjJ963HKeZcd) | 6:03 | 2023-05-24 |  |
 | [Nahin Yeh Ho Nahin Sakta](https://open.spotify.com/track/1N2Ne905d96lZv7navjo8C) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Barsaat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02idAQbxu0Q6teaTiong8e) | 6:04 | 2023-05-24 |  |
-| [Naraaz Savera Hai](https://open.spotify.com/track/15fuxsZF0wKVUMxbbEyXoj) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Sangharsh](https://open.spotify.com/album/0CDqKS3pdarrAWQDP66j6T) | 5:10 | 2023-05-24 |  |
+| [Naraaz Savera Hai](https://open.spotify.com/track/15fuxsZF0wKVUMxbbEyXoj) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Sangharsh](https://open.spotify.com/album/0CDqKS3pdarrAWQDP66j6T) | 5:10 | 2023-05-24 | 2023-09-26 |
 | [O Mere Raja \- Johny Mera Naam / Soundtrack Version](https://open.spotify.com/track/5VrfpbtrYgUeUUg6dNpnZU) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Johny Mera Naam](https://open.spotify.com/album/1oBian2dWFE9UvsDxsB5ms) | 5:05 | 2021-11-26 | 2023-05-24 |
 | [O Priya Priya](https://open.spotify.com/track/5LyskuxBGjC4bdtrQIVtPl) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn), [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Dil](https://open.spotify.com/album/7fiBYVgPYxHtJv57QsyOLh) | 6:02 | 2023-05-24 |  |
 | [Parde Mein Rahne Do \(From "Shikar"\)](https://open.spotify.com/track/2Cx3805TqeKR2jq5WhfUCM) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Double Dose](https://open.spotify.com/album/3WKH7OninJi604PGmOhEXe) | 6:02 | 2021-11-26 | 2023-05-24 |

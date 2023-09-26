@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXRx4AFLjzB2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXRx4AFLjzB2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXRx4AFLjzB2)
 
-### [Summer Perreo Party](https://open.spotify.com/playlist/37i9dQZF1DWXRx4AFLjzB2)
+### [Halloween Perreo Party](https://open.spotify.com/playlist/37i9dQZF1DWXRx4AFLjzB2)
 
-> Add some perreo to your summer!
+> The perfect perreo for your Halloween Party
 
 187 songs - 10 hr 47 min
 

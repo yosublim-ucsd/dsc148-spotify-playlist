@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : David Kushner
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,652 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,743 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 59 | [It’s Euphoric](https://open.spotify.com/track/7ynqVX9l6jWPDduSJwIiYG) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Euphoric](https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf) | 3:41 |
 | 60 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
 
-Snapshot ID: `MCxmYTUyNWQyNzBmM2JhNjk3ZTFlOWYxOTU1Yzk4ZjBlZDE2MThiYWM0`
+Snapshot ID: `MCxiYmVmMmQ5YjZiNDliMjkyMzc3NTQzNTcxNzg4ODczNWM2MTkyNGFl`

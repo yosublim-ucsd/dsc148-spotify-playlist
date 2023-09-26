@@ -1,12 +1,12 @@
 {
   "description": "Music to get your heart started.",
-  "num_followers": 15704,
+  "num_followers": 15727,
   "original_name": "Country Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTcxOGI5NTY4MzYwNDRhNDNlNGVkZDc1YzNlYTgxYmVlZDdiZmFm",
+  "snapshot_id": "MCw0MmJjNWI1YjYxNzA2OGU1NTRmZjIxY2ExM2EzZGRhMzk2ZDk0MDll",
   "tracks": [
     {
       "added_at": "2023-09-22 04:01:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
+        "name": "You Proof",
+        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
         "name": "The Big Revival",
         "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 182960,
       "name": "American Kids",
       "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
         "name": "Here's To The Good Times",
         "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 208960,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "You Proof",
-        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 157477,
-      "name": "You Proof",
-      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Drive You Out Of My Mind",
-        "url": "https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv"
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
       "artists": [
         {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Drive You Out Of My Mind",
-      "url": "https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD"
+      "duration_ms": 209760,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+        "name": "Drive You Out Of My Mind",
+        "url": "https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
         }
       ],
-      "duration_ms": 209760,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
+      "duration_ms": 212360,
+      "name": "Drive You Out Of My Mind",
+      "url": "https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -639,22 +639,18 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Lil Bit",
-        "url": "https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I"
+        "name": "Country Again (Side A)",
+        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 195962,
-      "name": "Lil Bit",
-      "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"
+      "duration_ms": 171333,
+      "name": "What\u2019s Your Country Song",
+      "url": "https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -675,18 +671,22 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Country Again (Side A)",
-        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+        "name": "Lil Bit",
+        "url": "https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 171333,
-      "name": "What\u2019s Your Country Song",
-      "url": "https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V"
+      "duration_ms": 195962,
+      "name": "Lil Bit",
+      "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Gunpowder & Lead",
-      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 212066,
       "name": "Blue Tacoma",
       "url": "https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Gunpowder & Lead",
+      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "All-American Girl",
+      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
         "name": "SOUTHSIDE",
         "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 209280,
       "name": "I Like The Sound Of That",
       "url": "https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "All-American Girl",
-      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "SOUTHSIDE",
-        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "Hard To Forget",
-      "url": "https://open.spotify.com/track/10xuH52YSXHWFwCaF1fsDd"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Rearview Town",
         "url": "https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 193066,
       "name": "Girl Like You",
       "url": "https://open.spotify.com/track/7K0lR5Ngf5jkOWt1g6ut6l"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "SOUTHSIDE",
+        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "Hard To Forget",
+      "url": "https://open.spotify.com/track/10xuH52YSXHWFwCaF1fsDd"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "SOUTHSIDE",
-        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Breaking Up Was Easy In The 90's",
-      "url": "https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "hole in the bottle (with Shania Twain)",
         "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 156275,
       "name": "hole in the bottle (with Shania Twain)",
       "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "SOUTHSIDE",
+        "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Breaking Up Was Easy In The 90's",
+      "url": "https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq"
     },
     {
       "added_at": "2023-09-22 04:01:00",

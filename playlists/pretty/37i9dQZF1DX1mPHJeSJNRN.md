@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,588 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,594 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 26 | [Just A Little Lovin'](https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Feelin' Good](https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e) | 3:10 |
 | 27 | [Spring Waltz](https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Spring Waltz](https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO) | 3:26 |
 | 28 | [You Go To My Head](https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 4:17 |
-| 29 | [Little B's Poem \- Remastered 1994](https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 5:11 |
-| 30 | [Limbo Jazz](https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:15 |
+| 29 | [Limbo Jazz](https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:15 |
+| 30 | [Little B's Poem \- Remastered 1994](https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 5:11 |
 | 31 | [Smile](https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 7:57 |
 | 32 | [A Beautiful Friendship](https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK) | [Alexis Cole](https://open.spotify.com/artist/6ZljReNeQbX2fn8yjGWiNE), [Bucky Pizzarelli](https://open.spotify.com/artist/0Adi1C37oMa2axoBWcMtxq) | [A Beautiful Friendship](https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ) | 4:18 |
 | 33 | [They Can't Take That Away From Me](https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Body and Soul](https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3) | 4:08 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 49 | [Who Needs Paris](https://open.spotify.com/track/5yA1ltXjiTkCaEvYi9nG8y) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx) | 4:00 |
 | 50 | [No Regrets](https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 3:28 |
 | 51 | [Won't You Be My Neighbor](https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [A Lot of Livin' to Do](https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk) | 3:45 |
-| 52 | [Den milde dag er lys og lang](https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Den milde dag er lys og lang](https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC) | 2:26 |
-| 53 | [The 59th Street Bridge Song \(Feelin' Groovy\)](https://open.spotify.com/track/5UDJSBScMFdnWIz9yvScFU) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 5:09 |
+| 52 | [The 59th Street Bridge Song \(Feelin' Groovy\)](https://open.spotify.com/track/5UDJSBScMFdnWIz9yvScFU) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 5:09 |
+| 53 | [Den milde dag er lys og lang](https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Den milde dag er lys og lang](https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC) | 2:26 |
 | 54 | [Moon River](https://open.spotify.com/track/46HQRG9kC2cX035gxnUy80) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:46 |
 | 55 | [Chandra](https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [At The Deer Head Inn](https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx) | 9:21 |
 | 56 | [Beatrice](https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK) | [Let's Face the Music](https://open.spotify.com/album/68a61URtiemSLZn6UcHizY) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 99 | [Westinghouse](https://open.spotify.com/track/5xBnT2MvhDcEmkE5OT9fvi) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 6:36 |
 | 100 | [Shallow Waters](https://open.spotify.com/track/0Q3LZbJerwYufO4DfOfZ56) | [Harold Danko](https://open.spotify.com/artist/26IGMCxg4NgtwUVLlX5rPw), [Jay Anderson](https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV), [Jeff Hirshfield](https://open.spotify.com/artist/52O6frArSmachHxpz0NSTZ) | [Triple Play](https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr) | 7:46 |
 
-Snapshot ID: `MCw2NmNiMzE2ZWI2ODljZWM3MTllM2U5NDQ5Yzg0NjliMDAwMzFhNmVk`
+Snapshot ID: `MCwzMmZhY2FiZDE2YzU1NWEzOGI1ZDAxMjlkNmMxZDI0OGJjOGEwMDRl`

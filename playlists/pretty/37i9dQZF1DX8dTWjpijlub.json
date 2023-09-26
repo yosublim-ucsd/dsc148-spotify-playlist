@@ -1,12 +1,12 @@
 {
   "description": "The champs are here.",
-  "num_followers": 52393,
+  "num_followers": 52662,
   "original_name": "Trophy Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGYwOWVkOGZkNDg0MjAxMzBjYzgwZGJkY2ViODRkOTQ0OWMxZmFm",
+  "snapshot_id": "MCw3NGU3YzY0MTc1MjY4YWIzOGVmOThjYmViZGMwOTJlMTYxNTc2ZTNm",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -103,6 +103,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 218364,
+      "name": "Jimmy Cooks (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Stoney (Deluxe)",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
@@ -175,26 +195,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 218364,
-      "name": "Jimmy Cooks (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "HIGHEST IN THE ROOM",
         "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
       },
@@ -247,18 +247,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 195950,
-      "name": "N95",
-      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
+      "duration_ms": 291175,
+      "name": "Fair Trade (with Travis Scott)",
+      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -279,6 +283,22 @@
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -339,6 +359,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 158431,
+      "name": "Backstage Passes (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -363,22 +403,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 158431,
-      "name": "Backstage Passes (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -427,22 +467,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "The New Toronto 3",
+        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
         }
       ],
-      "duration_ms": 291175,
-      "name": "Fair Trade (with Travis Scott)",
-      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+      "duration_ms": 132023,
+      "name": "Broke In A Minute",
+      "url": "https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -471,22 +507,6 @@
       "duration_ms": 165726,
       "name": "Go Stupid",
       "url": "https://open.spotify.com/track/4PklAHGXT5ityno3IA8SKd"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "The New Toronto 3",
-        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 132023,
-      "name": "Broke In A Minute",
-      "url": "https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -615,26 +635,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Laugh Now Cry Later (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 261492,
-      "name": "Laugh Now Cry Later (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "BILLIE EILISH.",
         "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Still Striving",
-        "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Plain Jane",
-      "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "My Turn (Deluxe)",
         "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 181929,
       "name": "We Paid (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Still Striving",
+        "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Plain Jane",
+      "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -923,22 +923,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Pray 4 Love (Deluxe)",
-        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
       "artists": [
         {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 235987,
-      "name": "Rags2Riches 2 (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
+      "duration_ms": 193026,
+      "name": "Hot (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
     }
   ],
   "unique_name": "Trophy Room",

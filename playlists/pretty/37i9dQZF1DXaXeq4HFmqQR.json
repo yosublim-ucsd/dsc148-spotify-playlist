@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Paula Rivas.\nDales PLAY, dales POWER.",
-  "num_followers": 12699,
+  "num_followers": 12705,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2U1ZDI5N2FlM2Y1ZmM1NTYyZGIyNWRmMDRhOTU3Njg3NWE4NzM2",
+  "snapshot_id": "MCwxYTE2M2U1MGMwMDc4MjFmYmQ4YWM0YjhjMjkzMzk1MDYxZjc2YzU5",
   "tracks": [
     {
       "added_at": "2023-09-06 16:30:16",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
+        "name": "B\u00fascate Otra :(",
+        "url": "https://open.spotify.com/album/0tsIWQmMJ2O8A3zZYA8b3h"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        }
+      ],
+      "duration_ms": 210656,
+      "name": "B\u00fascate Otra :(",
+      "url": "https://open.spotify.com/track/7vHjX6rRKFXoMz91dl6M2X"
+    },
+    {
+      "added_at": "2023-09-06 16:30:16",
+      "album": {
         "name": "e-mail",
         "url": "https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn"
       },
@@ -167,50 +183,18 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
-        "name": "DEJA TU SHOW",
-        "url": "https://open.spotify.com/album/3DCIaAZtRrAlytdhtnRIZB"
+        "name": "Grandes Versiones",
+        "url": "https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6"
       },
       "artists": [
         {
-          "name": "Dainesitta",
-          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
         }
       ],
-      "duration_ms": 209361,
-      "name": "DEJA TU SHOW",
-      "url": "https://open.spotify.com/track/0i8fA0gCDnHbAeBpdcTpV0"
-    },
-    {
-      "added_at": "2023-09-06 16:30:16",
-      "album": {
-        "name": "B\u00fascate Otra :(",
-        "url": "https://open.spotify.com/album/0tsIWQmMJ2O8A3zZYA8b3h"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 210656,
-      "name": "B\u00fascate Otra :(",
-      "url": "https://open.spotify.com/track/7vHjX6rRKFXoMz91dl6M2X"
-    },
-    {
-      "added_at": "2023-09-06 16:30:16",
-      "album": {
-        "name": "Adentro",
-        "url": "https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 198983,
-      "name": "Jugando Con Fuego",
-      "url": "https://open.spotify.com/track/7pBMCVwilHS7DWLgCArH4n"
+      "duration_ms": 171146,
+      "name": "El Compromiso",
+      "url": "https://open.spotify.com/track/1fXbBlfgDB6kVOY8h2UI8y"
     },
     {
       "added_at": "2023-09-06 16:30:16",
@@ -243,34 +227,34 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/6FKGwho8LYdyFa26NMiIkl"
+        "name": "DEJA TU SHOW",
+        "url": "https://open.spotify.com/album/3DCIaAZtRrAlytdhtnRIZB"
       },
       "artists": [
         {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+          "name": "Dainesitta",
+          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
         }
       ],
-      "duration_ms": 236077,
-      "name": "Invencible",
-      "url": "https://open.spotify.com/track/79tK7MDahFqieifay7yXCb"
+      "duration_ms": 209361,
+      "name": "DEJA TU SHOW",
+      "url": "https://open.spotify.com/track/0i8fA0gCDnHbAeBpdcTpV0"
     },
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
-        "name": "Grandes Versiones",
-        "url": "https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6"
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr"
       },
       "artists": [
         {
-          "name": "Javiera Parra",
-          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 171146,
-      "name": "El Compromiso",
-      "url": "https://open.spotify.com/track/1fXbBlfgDB6kVOY8h2UI8y"
+      "duration_ms": 198983,
+      "name": "Jugando Con Fuego",
+      "url": "https://open.spotify.com/track/7pBMCVwilHS7DWLgCArH4n"
     },
     {
       "added_at": "2023-09-06 16:30:16",
@@ -291,6 +275,22 @@
       "duration_ms": 188387,
       "name": "Rika",
       "url": "https://open.spotify.com/track/5bSIyaz49u9YhmMjtgzQfS"
+    },
+    {
+      "added_at": "2023-09-06 16:30:16",
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/6FKGwho8LYdyFa26NMiIkl"
+      },
+      "artists": [
+        {
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+        }
+      ],
+      "duration_ms": 236077,
+      "name": "Invencible",
+      "url": "https://open.spotify.com/track/79tK7MDahFqieifay7yXCb"
     },
     {
       "added_at": "2023-09-06 16:30:16",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
+        "name": "El Regalito",
+        "url": "https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl"
+      },
+      "artists": [
+        {
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+        }
+      ],
+      "duration_ms": 151444,
+      "name": "El Regalito",
+      "url": "https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv"
+    },
+    {
+      "added_at": "2023-09-06 16:30:16",
+      "album": {
         "name": "Maleza",
         "url": "https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd"
       },
@@ -343,18 +359,18 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
-        "name": "El Regalito",
-        "url": "https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl"
+        "name": "La Gran Fonda de Chile",
+        "url": "https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O"
       },
       "artists": [
         {
-          "name": "Maria Jose Quintanilla",
-          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+          "name": "Guadalupe del Carmen",
+          "url": "https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN"
         }
       ],
-      "duration_ms": 151444,
-      "name": "El Regalito",
-      "url": "https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv"
+      "duration_ms": 206729,
+      "name": "Cartas Marcadas",
+      "url": "https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb"
     },
     {
       "added_at": "2023-09-06 16:30:16",
@@ -387,22 +403,6 @@
       "duration_ms": 214468,
       "name": "Doncella",
       "url": "https://open.spotify.com/track/20HsMGWCEbTCCpqBriaaSK"
-    },
-    {
-      "added_at": "2023-09-06 16:30:16",
-      "album": {
-        "name": "La Gran Fonda de Chile",
-        "url": "https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe del Carmen",
-          "url": "https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "Cartas Marcadas",
-      "url": "https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb"
     },
     {
       "added_at": "2023-09-06 16:30:16",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
-        "name": "Asi Soy Yo",
-        "url": "https://open.spotify.com/album/7GtOunYjJqGqTQRcCipDVU"
-      },
-      "artists": [
-        {
-          "name": "Daniela Aleuy",
-          "url": "https://open.spotify.com/artist/5kSn1413nGC2FFmlW8dUOZ"
-        }
-      ],
-      "duration_ms": 333800,
-      "name": "Alguien Como T\u00f9",
-      "url": "https://open.spotify.com/track/2Ga9NI0yCrFkZAit2BBg66"
-    },
-    {
-      "added_at": "2023-09-06 16:30:16",
-      "album": {
         "name": "Maleza",
         "url": "https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd"
       },
@@ -599,6 +583,38 @@
       "duration_ms": 231523,
       "name": "S\u00e1bado",
       "url": "https://open.spotify.com/track/1RoMrVzc0aeFaJC1MVTSQF"
+    },
+    {
+      "added_at": "2023-09-06 16:30:16",
+      "album": {
+        "name": "V\u00edrgen",
+        "url": "https://open.spotify.com/album/5VBN3h6UvzTJvV1SpuCC5G"
+      },
+      "artists": [
+        {
+          "name": "La Guacha",
+          "url": "https://open.spotify.com/artist/1XjMUgVvJTqba3Cvsbw1zi"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Tanta",
+      "url": "https://open.spotify.com/track/24saXmVXTPBW1iaUeIr35y"
+    },
+    {
+      "added_at": "2023-09-06 16:30:16",
+      "album": {
+        "name": "Asi Soy Yo",
+        "url": "https://open.spotify.com/album/7GtOunYjJqGqTQRcCipDVU"
+      },
+      "artists": [
+        {
+          "name": "Daniela Aleuy",
+          "url": "https://open.spotify.com/artist/5kSn1413nGC2FFmlW8dUOZ"
+        }
+      ],
+      "duration_ms": 333800,
+      "name": "Alguien Como T\u00f9",
+      "url": "https://open.spotify.com/track/2Ga9NI0yCrFkZAit2BBg66"
     },
     {
       "added_at": "2023-09-06 16:30:16",
@@ -631,22 +647,6 @@
       "duration_ms": 131306,
       "name": "Ahora S\u00ed",
       "url": "https://open.spotify.com/track/2GQt9310yUhgJzg98GKfat"
-    },
-    {
-      "added_at": "2023-09-06 16:30:16",
-      "album": {
-        "name": "V\u00edrgen",
-        "url": "https://open.spotify.com/album/5VBN3h6UvzTJvV1SpuCC5G"
-      },
-      "artists": [
-        {
-          "name": "La Guacha",
-          "url": "https://open.spotify.com/artist/1XjMUgVvJTqba3Cvsbw1zi"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Tanta",
-      "url": "https://open.spotify.com/track/24saXmVXTPBW1iaUeIr35y"
     },
     {
       "added_at": "2023-09-06 16:30:16",
@@ -779,34 +779,18 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
-        "name": "Julita la Buenita",
-        "url": "https://open.spotify.com/album/3TRgCkLlbpeZZq9jrNA88Q"
+        "name": "Demencia por Amor",
+        "url": "https://open.spotify.com/album/3s1mZseI3Qt1ekDMvIB3fF"
       },
       "artists": [
         {
-          "name": "Soledad Guerrero",
-          "url": "https://open.spotify.com/artist/2mC6OvTH4wDXUVYofwCrki"
+          "name": "Cecilia Echenique",
+          "url": "https://open.spotify.com/artist/1aaJCccvrYoJQid1P4MSRY"
         }
       ],
-      "duration_ms": 224522,
-      "name": "Julita la Buenita",
-      "url": "https://open.spotify.com/track/1xsCZ7PZWbx8Ps8YpDZ5K3"
-    },
-    {
-      "added_at": "2023-09-06 16:30:16",
-      "album": {
-        "name": "Aqu\u00ed Comienza Nuestra Historia",
-        "url": "https://open.spotify.com/album/0VD7iwPecnytsRxk4JUaAU"
-      },
-      "artists": [
-        {
-          "name": "Las Patronas de Chile",
-          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
-        }
-      ],
-      "duration_ms": 157161,
-      "name": "Brindemos por Ellos",
-      "url": "https://open.spotify.com/track/7G8iKkndVdVZyVdS4Fz1cV"
+      "duration_ms": 163073,
+      "name": "Demencia por Amor",
+      "url": "https://open.spotify.com/track/0HVTRu8tQNY1NpMLOeYY2s"
     },
     {
       "added_at": "2023-09-06 16:30:16",
@@ -827,18 +811,38 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
-        "name": "Demencia por Amor",
-        "url": "https://open.spotify.com/album/3s1mZseI3Qt1ekDMvIB3fF"
+        "name": "Aqu\u00ed Comienza Nuestra Historia",
+        "url": "https://open.spotify.com/album/0VD7iwPecnytsRxk4JUaAU"
       },
       "artists": [
         {
-          "name": "Cecilia Echenique",
-          "url": "https://open.spotify.com/artist/1aaJCccvrYoJQid1P4MSRY"
+          "name": "Las Patronas de Chile",
+          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
         }
       ],
-      "duration_ms": 163073,
-      "name": "Demencia por Amor",
-      "url": "https://open.spotify.com/track/0HVTRu8tQNY1NpMLOeYY2s"
+      "duration_ms": 157161,
+      "name": "Brindemos por Ellos",
+      "url": "https://open.spotify.com/track/7G8iKkndVdVZyVdS4Fz1cV"
+    },
+    {
+      "added_at": "2023-09-06 16:30:16",
+      "album": {
+        "name": "Mi Castigo",
+        "url": "https://open.spotify.com/album/05PUE0TzRIIyz0SgwRiwYK"
+      },
+      "artists": [
+        {
+          "name": "Carolina Soto",
+          "url": "https://open.spotify.com/artist/3Hbnc3QWx5yUHmwMyrT1Uj"
+        },
+        {
+          "name": "SCD",
+          "url": "https://open.spotify.com/artist/3RNW1BijjM21MXFDIca2nJ"
+        }
+      ],
+      "duration_ms": 180201,
+      "name": "Mi Castigo",
+      "url": "https://open.spotify.com/track/2F2zaebtZq4UGv1b41Np0E"
     }
   ],
   "unique_name": "EQUAL Chile",

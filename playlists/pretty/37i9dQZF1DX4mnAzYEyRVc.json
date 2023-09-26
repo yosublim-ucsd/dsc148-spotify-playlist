@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: Out Of Control Army",
-  "num_followers": 40484,
+  "num_followers": 40533,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWE0MzhlYTYwMDcwODZkYjAyMGY5NTUwNjQ5MjdhM2IxNmNhYmI5",
+  "snapshot_id": "MCw5NTU5YTViODZiNDNjZTYxMzg2ZWQyNDY3MDM3MTYwZGUxOWNhYjc4",
   "tracks": [
     {
       "added_at": "2023-09-22 06:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Y Que",
-      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "No Es Lo Que Parece",
         "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 191460,
       "name": "Kil\u00f3metros",
       "url": "https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 213720,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
+      "duration_ms": 225826,
+      "name": "Y Que",
+      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -303,22 +303,6 @@
       "duration_ms": 172920,
       "name": "A Message to You Rudy - 2015 Remaster",
       "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -387,6 +371,22 @@
       "duration_ms": 170453,
       "name": "She's Kerosene",
       "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 191066,
-      "name": "Sol\u00edn",
-      "url": "https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "The Best Of Us For The Rest Of Us",
         "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 199253,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "Sol\u00edn",
+      "url": "https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -655,6 +655,26 @@
       "duration_ms": 205723,
       "name": "She Got Arrested",
       "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
+        }
+      ],
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -695,26 +715,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Infiernos",
-        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Dub Inc",
-          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
-        }
-      ],
-      "duration_ms": 274653,
-      "name": "El \u00daltimo Ska",
-      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 233266,
       "name": "Tu Alma M\u00eda / Adelita",
       "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "In The Wild (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "In The Mirror",
+      "url": "https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Alles gl\u00e4nzt",
-        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 196699,
-      "name": "Komm mit aufs Boot",
-      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 183480,
       "name": "Mi Vida es un Tango",
       "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Alles gl\u00e4nzt",
+        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 196699,
+      "name": "Komm mit aufs Boot",
+      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -811,22 +827,6 @@
       "duration_ms": 224669,
       "name": "Adi\u00f3s adi\u00f3s",
       "url": "https://open.spotify.com/track/0ykwpOJjcAa6qKkK8P9TLF"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
-        "name": "In The Wild (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "In The Mirror",
-      "url": "https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
+        "name": "El Precio del Sudor",
+        "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
+      },
+      "artists": [
+        {
+          "name": "Los Rude Boys",
+          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Somos del Barrio",
+      "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
         "name": "Latin Ska Force",
         "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "El Precio del Sudor",
-        "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
-      },
-      "artists": [
-        {
-          "name": "Los Rude Boys",
-          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Somos del Barrio",
-      "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Aconcagua (El Gobierno de las Tribus)",
         "url": "https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 212106,
       "name": "Te Sigo",
       "url": "https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
-        "name": "Lucha Rock",
-        "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "El Esqueleto",
-      "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
+        "name": "Lucha Rock",
+        "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
         "name": "One Step Beyond...",
         "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Dolce far niente",
-        "url": "https://open.spotify.com/album/3eijO45zq05msPm09WUErh"
-      },
-      "artists": [
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 175632,
-      "name": "Dolce far niente",
-      "url": "https://open.spotify.com/track/6lC9Ylt9CMMlFt0qOJYhV4"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 189480,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Dolce far niente",
+        "url": "https://open.spotify.com/album/3eijO45zq05msPm09WUErh"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 175632,
+      "name": "Dolce far niente",
+      "url": "https://open.spotify.com/track/6lC9Ylt9CMMlFt0qOJYhV4"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/5HkyBg5Hj4PanOXcWe9i49"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 167173,
+      "name": "Baggy Trousers",
+      "url": "https://open.spotify.com/track/3Sbnhrpec0ULbeWBsA6GS6"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
         "name": "A Poets Life",
         "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/5HkyBg5Hj4PanOXcWe9i49"
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 167173,
-      "name": "Baggy Trousers",
-      "url": "https://open.spotify.com/track/3Sbnhrpec0ULbeWBsA6GS6"
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Contra-Revolucion Avenue",
         "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Los Rabanes",
         "url": "https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 205120,
       "name": "Se\u00f1orita a Mi Me Gusta Su Style",
       "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Where Did All My Friends Go?",
-        "url": "https://open.spotify.com/album/5jLxoBgeVzZNrQeFWnJNBd"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 230014,
-      "name": "Where Did All My Friends Go?",
-      "url": "https://open.spotify.com/track/1m0O9m6wakF6sC7pbiLBMp"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 180066,
       "name": "House Of Fun",
       "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Where Did All My Friends Go?",
+        "url": "https://open.spotify.com/album/5jLxoBgeVzZNrQeFWnJNBd"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "duration_ms": 230014,
+      "name": "Where Did All My Friends Go?",
+      "url": "https://open.spotify.com/track/1m0O9m6wakF6sC7pbiLBMp"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Rude Station",
-        "url": "https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ"
-      },
-      "artists": [
-        {
-          "name": "Juantxo Skalari & La Rude Band",
-          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Contigo Estar\u00e9 Bien",
-      "url": "https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "El Enemigo",
         "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 212280,
       "name": "La \u00daltimo Carta",
       "url": "https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Rude Station",
+        "url": "https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ"
+      },
+      "artists": [
+        {
+          "name": "Juantxo Skalari & La Rude Band",
+          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Contigo Estar\u00e9 Bien",
+      "url": "https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "One Step Beyond...",
-        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Night Boat to Cairo",
-      "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 218750,
       "name": "Paz y Baile",
       "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "One Step Beyond...",
+        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Night Boat to Cairo",
+      "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "\u30ef\u30e9\u30c3\u30bf\u30e9\u30c3\u30bf",
-        "url": "https://open.spotify.com/album/5r1PybiVxHxq7eu5zAr5Qt"
-      },
-      "artists": [
-        {
-          "name": "HY",
-          "url": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
-        }
-      ],
-      "duration_ms": 255976,
-      "name": "\u30ef\u30e9\u30c3\u30bf\u30e9\u30c3\u30bf",
-      "url": "https://open.spotify.com/track/1pjpRz8aEWtx65Y4HvqFYt"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Utakatarattara",
         "url": "https://open.spotify.com/album/1qLUmDx6t3YzB37ok2rFhK"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 188800,
       "name": "Utakatarattara",
       "url": "https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "\u30ef\u30e9\u30c3\u30bf\u30e9\u30c3\u30bf",
+        "url": "https://open.spotify.com/album/5r1PybiVxHxq7eu5zAr5Qt"
+      },
+      "artists": [
+        {
+          "name": "HY",
+          "url": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
+        }
+      ],
+      "duration_ms": 255976,
+      "name": "\u30ef\u30e9\u30c3\u30bf\u30e9\u30c3\u30bf",
+      "url": "https://open.spotify.com/track/1pjpRz8aEWtx65Y4HvqFYt"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
-      },
-      "artists": [
-        {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Motiv Loco",
         "url": "https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 162786,
       "name": "No More Sorrow",
       "url": "https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+      },
+      "artists": [
+        {
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2023-09-22 06:00:00",

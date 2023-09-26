@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 284407,
       "name": "Bright Drops",
       "url": "https://open.spotify.com/track/6TgUk5sdJegSlgSqxsvqyf"
@@ -2034,6 +2034,24 @@
       "duration_ms": 268288,
       "name": "Crestfallen",
       "url": "https://open.spotify.com/track/2hMC0mu9GmXSqNDC1RmkYR"
+    },
+    {
+      "album": {
+        "name": "Crooked Politicians",
+        "url": "https://open.spotify.com/album/4aqNCgPghtRszsF147PlAN"
+      },
+      "artists": [
+        {
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177772,
+      "name": "Crooked Politicians",
+      "url": "https://open.spotify.com/track/3AxgIQQy36G89sU41UaIwb"
     },
     {
       "album": {
@@ -5105,6 +5123,24 @@
     },
     {
       "album": {
+        "name": "It\u00b4s Wonderful",
+        "url": "https://open.spotify.com/album/4NCJxvMwHsCIykqMx97Bew"
+      },
+      "artists": [
+        {
+          "name": "Tyree",
+          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "It\u00b4s Wonderful",
+      "url": "https://open.spotify.com/track/4fIrqRgwWZeHWx1xYzMk0z"
+    },
+    {
+      "album": {
         "name": "It\u2019s not a novel",
         "url": "https://open.spotify.com/album/0L5iCQPDWPKVeccKPuclC0"
       },
@@ -7939,6 +7975,24 @@
     },
     {
       "album": {
+        "name": "Reflections in Blue",
+        "url": "https://open.spotify.com/album/4y2Qcm0gdpw1ibhfj4QZD4"
+      },
+      "artists": [
+        {
+          "name": "Old Town Trio",
+          "url": "https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Reflections in Blue",
+      "url": "https://open.spotify.com/track/2vq1b2eqBWKZpxoVHECAGs"
+    },
+    {
+      "album": {
         "name": "Remembering The Rain",
         "url": "https://open.spotify.com/album/1OIGPx7tRAreD3TfIVbMTT"
       },
@@ -8184,7 +8238,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 200790,
       "name": "Say It Over And Over Again",
       "url": "https://open.spotify.com/track/2nivRlQMUpL7yDOS7hLPY9"
@@ -9426,7 +9480,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 214375,
       "name": "The Ansible",
       "url": "https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l"

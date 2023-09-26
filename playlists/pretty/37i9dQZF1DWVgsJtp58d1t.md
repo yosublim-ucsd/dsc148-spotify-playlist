@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover:  <a href="spotify:artist:7vNNmjV14SKQzlQAEg0BXP">Jean Dawson</a> and <a href="spotify:artist:7tYKF4w9nC0nq9CsPZTHyP">SZA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,651 likes - 120 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,610 likes - 120 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 119 | [OMW](https://open.spotify.com/track/7EdcolEtRspiP5UqfRLp1U) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 1:17 |
 | 120 | [Amplify](https://open.spotify.com/track/7JCUFszcuSHwvcj2ZjQ0T9) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [The Village Is On Fire](https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh) | 3:11 |
 
-Snapshot ID: `MCwyN2E4OGE5NWZiZmI0OTI4NDU4NWNkMDZiNjk2ODg3ZTU2NWNlMmI0`
+Snapshot ID: `MCxmYWIzYjlmMjU1YzZlM2QyYjExYmNjMmNkZTY2OWFmZDRiYTk3N2Fh`

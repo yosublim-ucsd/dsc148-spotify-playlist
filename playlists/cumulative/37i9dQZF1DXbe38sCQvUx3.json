@@ -265,6 +265,32 @@
     },
     {
       "album": {
+        "name": "BIPOLAR",
+        "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265045,
+      "name": "BIPOLAR",
+      "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
+    },
+    {
+      "album": {
         "name": "Cabron Yo Puedo",
         "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
       },
@@ -280,6 +306,32 @@
       "duration_ms": 195895,
       "name": "Cabron Yo Puedo",
       "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
+    },
+    {
+      "album": {
+        "name": "CCC (Remix)",
+        "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147877,
+      "name": "CCC - Remix",
+      "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
     },
     {
       "album": {
@@ -772,7 +824,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 167988,
       "name": "EL HECHIZO",
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
@@ -899,6 +951,24 @@
     },
     {
       "album": {
+        "name": "El Toro Encartado - Spotify Singles",
+        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164245,
+      "name": "El Toro Encartado - Spotify Singles",
+      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
+    },
+    {
+      "album": {
         "name": "El Tsurito",
         "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
       },
@@ -936,7 +1006,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 176208,
       "name": "El Vago De Los Nike",
       "url": "https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1"
@@ -1264,7 +1334,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 166821,
       "name": "Igualito a Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
@@ -1326,6 +1396,28 @@
       "duration_ms": 180101,
       "name": "La 701",
       "url": "https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G"
+    },
+    {
+      "album": {
+        "name": "LA 701",
+        "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164482,
+      "name": "LA 701",
+      "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
     },
     {
       "album": {
@@ -1461,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "La V\u00edctima",
+        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156345,
+      "name": "La V\u00edctima",
+      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
+    },
+    {
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -1502,7 +1612,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 135611,
       "name": "Los Botones Azules",
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
@@ -1524,7 +1634,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 148793,
       "name": "Los Collares",
       "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
@@ -1702,7 +1812,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 215121,
       "name": "Me Dicen Nini",
       "url": "https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV"
@@ -1782,6 +1892,28 @@
       "duration_ms": 172056,
       "name": "Mi Terre CLN",
       "url": "https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb"
+    },
+    {
+      "album": {
+        "name": "Mood Malandro",
+        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191558,
+      "name": "Mood Malandro",
+      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
     },
     {
       "album": {
@@ -2091,6 +2223,32 @@
     },
     {
       "album": {
+        "name": "Skin de Bandida",
+        "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176134,
+      "name": "Skin de Bandida",
+      "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
+    },
+    {
+      "album": {
         "name": "Solita (En Vivo)",
         "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
       },
@@ -2106,7 +2264,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"

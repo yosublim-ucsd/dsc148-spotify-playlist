@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,074 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,088 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 2 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |
 | 3 | [Blue](https://open.spotify.com/track/74Sbxr7GNTQM8RyPEmp9Nq) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Blue](https://open.spotify.com/album/029ymf5WOrdIbvXv1EdmSN) | 3:07 |
 | 4 | [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 |
-| 5 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
-| 6 | [A quoi tu penses vraiment](https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:55 |
-| 7 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 |
-| 8 | [LAISSE MOI](https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LAISSE MOI](https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD) | 2:48 |
-| 9 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 |
-| 10 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 |
-| 11 | [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 |
-| 12 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
+| 5 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 |
+| 6 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
+| 7 | [A quoi tu penses vraiment](https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:55 |
+| 8 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 |
+| 9 | [LAISSE MOI](https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LAISSE MOI](https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD) | 2:48 |
+| 10 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 |
+| 11 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 |
+| 12 | [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 |
 | 13 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 |
 | 14 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 |
 | 15 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 49 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 |
 | 50 | [Chérie](https://open.spotify.com/track/0GTO1m0ZbLNvsl6EAMXpj7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 3:08 |
 
-Snapshot ID: `MCw4N2IzZTY4Y2Q3NWQ0ZWMxYzNkNGRmOGE4YWVkZTI5ZDExMTJlNTc1`
+Snapshot ID: `MCxjN2U1OWM4NmIwMTZhNjRiMTMwZjEwNmMwY2RlYWQxMDc3ODU4MGEw`

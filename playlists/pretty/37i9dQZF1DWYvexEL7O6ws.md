@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 
 > The label's essential tracks by Drake, PARTYNEXTDOOR, Roy Woods, dvsn, and more\. Cover: <a href="spotify:artist:3TVXtAsR1Inumwj472S9r4">Drake</a> and Noah "40" Shebib
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,665 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,753 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 |
 | 2 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
-| 3 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 |
-| 4 | [Definition of Love](https://open.spotify.com/track/7FVSpM0idOhw4etUpkPf8d) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Definition of Love](https://open.spotify.com/album/6ghmLEwlEpTJ6iH0JMxu8i) | 3:15 |
-| 5 | [Hate Me \(feat\. Coi Leray\)](https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:15 |
+| 3 | [Hate Me \(feat\. Coi Leray\)](https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:15 |
+| 4 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 |
+| 5 | [Definition of Love](https://open.spotify.com/track/7FVSpM0idOhw4etUpkPf8d) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Definition of Love](https://open.spotify.com/album/6ghmLEwlEpTJ6iH0JMxu8i) | 3:15 |
 | 6 | [Long Nights](https://open.spotify.com/track/0QnyUB7rJhWLEEDgcT7i8g) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Long Nights](https://open.spotify.com/album/6cVwRJ0ttMRnCIWzY8zr9D) | 2:39 |
 | 7 | [That Thang \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4o74PvFcj51SGKRTZtzPXT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:16 |
 | 8 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 | 99 | [Money in the Bank](https://open.spotify.com/track/1zOBliu4XVuQ0246Jbt23w) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:01 |
 | 100 | [Best I Ever Had](https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 4:17 |
 
-Snapshot ID: `MCwzNDE0NjcwYTI4ZDUxODQwYTNmNjZmZjkxN2JiMTBmNWVmZjdmYTM1`
+Snapshot ID: `MCw3Zjk1YmE0YzM3Yjk2M2RmMTcxNmE0ODM0Y2UxMGRkOTU4OWE5YmE4`

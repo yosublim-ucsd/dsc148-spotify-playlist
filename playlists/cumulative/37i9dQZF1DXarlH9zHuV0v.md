@@ -4,7 +4,7 @@
 
 > A playlist of spooky songs to get you ready for fright night!
 
-128 songs - 8 hr 13 min
+129 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Ghosts \- Single Edit](https://open.spotify.com/track/5CwU6ek98q7Xqnvoq2ojht) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Ghosts \(Remixes\)](https://open.spotify.com/album/0hVxQVrEH3n2CmwGzntdFk) | 4:31 | 2019-10-09 |  |
 | [Going To Hell](https://open.spotify.com/track/1Lg55kAU7qG9y9IZ3jTaIG) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going To Hell \(Deluxe Edition\)](https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4) | 4:36 | 2019-10-09 |  |
 | [Going to Hell](https://open.spotify.com/track/2zjQmMLev4cOwEQ5YHZlhd) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going to Hell](https://open.spotify.com/album/4BgfwxJn5S5U1Qb3LrzdZX) | 4:36 | 2019-10-09 | 2022-07-29 |
-| [Halloween](https://open.spotify.com/track/5tGcBhlRXSweh1v8X3C6Nk) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Greatest Hits \(Speciel Edition\)](https://open.spotify.com/album/5crHzO0kyQmmI23LINH9AO) | 3:49 | 2019-10-09 |  |
+| [Halloween](https://open.spotify.com/track/5tGcBhlRXSweh1v8X3C6Nk) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Greatest Hits \(Speciel Edition\)](https://open.spotify.com/album/5crHzO0kyQmmI23LINH9AO) | 3:49 | 2019-10-09 | 2023-09-26 |
 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 | 2019-10-09 |  |
 | [Halloween Birthdaze](https://open.spotify.com/track/3KR93nZtntqBvwWCtj8TPo) | [New Beat Fund](https://open.spotify.com/artist/5IqdTZwvASXwM39z5qPqAA) | [Sponge Fingerz](https://open.spotify.com/album/2ZhVdSdjk24j3XsmdloQ2N) | 3:54 | 2019-10-09 | 2022-11-13 |
 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 | 2019-10-09 |  |
@@ -104,6 +104,7 @@
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6tUEdj7qGKPN3rV6GpBwuc) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Halloween for Kids](https://open.spotify.com/album/7oYdF4y0Djq4nQpyHlcfYq) | 3:56 | 2019-10-09 | 2022-11-13 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 3:57 | 2019-10-09 | 2022-07-29 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/18SBju6wBZGpevPcsWMAM3) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 | 2019-10-09 | 2023-06-30 |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody’s Watching Me \(Sped Up\)](https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT) | 3:58 | 2019-10-09 |  |
 | [Sorry Sack Of Bones](https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 3:48 | 2019-10-09 |  |
 | [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 | 2019-10-09 |  |
 | [Stabbing In The Dark](https://open.spotify.com/track/7H5q9RsWBDRrKq2qCdv2HG) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Silver Scream](https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz) | 4:36 | 2019-10-09 |  |

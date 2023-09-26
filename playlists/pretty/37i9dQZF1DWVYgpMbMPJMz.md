@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="spotify:artist:6JaSyvyg28SHC0Of8YE6M9">Christine D'Clario<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,372 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,586 likes - 100 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [This Is My Song](https://open.spotify.com/track/3NBWUPeHvIfqoVPxHrnPl1) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Heath Balltzglier](https://open.spotify.com/artist/3GB2s5tExZuuqiaWGRPM4M) | [This Is My Song](https://open.spotify.com/album/1vUHCTy5ywgCj13uSg4AFr) | 3:13 |
 | 100 | [It Is Finished](https://open.spotify.com/track/3pBJ1CM7P48h9XaExiL6EX) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Kingdom Kids, Vol\. 2](https://open.spotify.com/album/09SYVhIz581fCHeLcRI4oU) | 4:26 |
 
-Snapshot ID: `MCxlZDZmOWUzMmRmZDFiYjJlNDcyYTg5NzlmODIwZTZiNDE2MjdhZmIx`
+Snapshot ID: `MCw3YmMzMzRkYzEyZWM1ZGFkNzM3NDBhYzVlMzc5Y2M0ZDc5ZjBlYWU4`

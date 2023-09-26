@@ -1,12 +1,12 @@
 {
   "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: aespa) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
-  "num_followers": 848645,
+  "num_followers": 848786,
   "original_name": "K-Club Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGM3ODg2NTVmZDdhZDZlZjk2NTBhYTQyMjkyOTdlMzIzYmU3ZjA3",
+  "snapshot_id": "MCxmOTBhNGViYjM1ZDZmZDA3NjZlZjhlYjM2YzY2NGFkNGIwZTg2YjE0",
   "tracks": [
     {
       "added_at": "2023-09-18 07:51:43",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-18 07:51:43",
       "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
-    },
-    {
-      "added_at": "2023-09-18 07:51:43",
-      "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
       },
@@ -331,18 +315,18 @@
     {
       "added_at": "2023-09-18 07:51:43",
       "album": {
-        "name": "Ditto",
-        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Ditto",
-      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+      "duration_ms": 174253,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
     },
     {
       "added_at": "2023-09-18 07:51:43",
@@ -367,8 +351,8 @@
     {
       "added_at": "2023-09-18 07:51:43",
       "album": {
-        "name": "As If It's Your Last",
-        "url": "https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv"
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
       "artists": [
         {
@@ -376,25 +360,9 @@
           "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 213264,
-      "name": "As If It's Your Last",
-      "url": "https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT"
-    },
-    {
-      "added_at": "2023-09-18 07:51:43",
-      "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 204939,
-      "name": "Run BTS",
-      "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
+      "duration_ms": 182956,
+      "name": "How You Like That",
+      "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
     },
     {
       "added_at": "2023-09-18 07:51:43",
@@ -415,6 +383,22 @@
     {
       "added_at": "2023-09-18 07:51:43",
       "album": {
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+    },
+    {
+      "added_at": "2023-09-18 07:51:43",
+      "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "added_at": "2023-09-18 07:51:43",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 204939,
+      "name": "Run BTS",
+      "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
     },
     {
       "added_at": "2023-09-18 07:51:43",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-09-18 07:51:43",
       "album": {
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+    },
+    {
+      "added_at": "2023-09-18 07:51:43",
+      "album": {
         "name": "BORDER : CARNIVAL",
         "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
@@ -463,8 +479,8 @@
     {
       "added_at": "2023-09-18 07:51:43",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+        "name": "As If It's Your Last",
+        "url": "https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 182956,
-      "name": "How You Like That",
-      "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
+      "duration_ms": 213264,
+      "name": "As If It's Your Last",
+      "url": "https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT"
     },
     {
       "added_at": "2023-09-18 07:51:43",
@@ -495,18 +511,18 @@
     {
       "added_at": "2023-09-18 07:51:43",
       "album": {
-        "name": "LOVE DIVE",
-        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+        "name": "EXIST \u2013 The 7th Album",
+        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 177186,
-      "name": "LOVE DIVE",
-      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+      "duration_ms": 185320,
+      "name": "Cream Soda",
+      "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
     },
     {
       "added_at": "2023-09-18 07:51:43",
@@ -527,18 +543,18 @@
     {
       "added_at": "2023-09-18 07:51:43",
       "album": {
-        "name": "EXIST \u2013 The 7th Album",
-        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
         }
       ],
-      "duration_ms": 185320,
-      "name": "Cream Soda",
-      "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
       "added_at": "2023-09-18 07:51:43",
@@ -575,38 +591,6 @@
     {
       "added_at": "2023-09-18 07:51:43",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
-    },
-    {
-      "added_at": "2023-09-18 07:51:43",
-      "album": {
-        "name": "Permission to Dance",
-        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
-    },
-    {
-      "added_at": "2023-09-18 07:51:43",
-      "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
@@ -635,22 +619,6 @@
       "duration_ms": 167922,
       "name": "God\u2019s Menu",
       "url": "https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy"
-    },
-    {
-      "added_at": "2023-09-18 07:51:43",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
     },
     {
       "added_at": "2023-09-18 07:51:43",
@@ -687,6 +655,38 @@
     {
       "added_at": "2023-09-18 07:51:43",
       "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+    },
+    {
+      "added_at": "2023-09-18 07:51:43",
+      "album": {
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
+    },
+    {
+      "added_at": "2023-09-18 07:51:43",
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 180988,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs"
-    },
-    {
-      "added_at": "2023-09-18 07:51:43",
-      "album": {
-        "name": "MAXIDENT",
-        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 191964,
-      "name": "CASE 143",
-      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
     },
     {
       "added_at": "2023-09-18 07:51:43",
@@ -779,18 +763,18 @@
     {
       "added_at": "2023-09-18 07:51:43",
       "album": {
-        "name": "SQUARE UP",
-        "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 211350,
-      "name": "DDU-DU DDU-DU",
-      "url": "https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl"
+      "duration_ms": 191964,
+      "name": "CASE 143",
+      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
     },
     {
       "added_at": "2023-09-18 07:51:43",
@@ -811,34 +795,50 @@
     {
       "added_at": "2023-09-18 07:51:43",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 193593,
-      "name": "Yet To Come",
-      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+      "duration_ms": 211350,
+      "name": "DDU-DU DDU-DU",
+      "url": "https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl"
     },
     {
       "added_at": "2023-09-18 07:51:43",
       "album": {
-        "name": "NOEASY",
-        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 183266,
-      "name": "Thunderous",
-      "url": "https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt"
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
+    },
+    {
+      "added_at": "2023-09-18 07:51:43",
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 202203,
+      "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+      "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
     }
   ],
   "unique_name": "K-Club Party",

@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 494718,
+  "num_followers": 494759,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTI4ZWNkZTUyNzc5MDQ1Y2Y1MjVkNjk2YThmYzFkZjcwZTRiNzkw",
+  "snapshot_id": "MCwxOTY4ZjU5YjlmOTk5ZGEwOWJkNWVmOGMwYThkNDhmODllZTBiODkw",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Trick To Happy",
+      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Motel Mayday",
         "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
       },
@@ -523,6 +539,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217633,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "How to: Friend, Love, Freefall",
         "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
       },
@@ -535,22 +567,6 @@
       "duration_ms": 163746,
       "name": "Fever Pitch",
       "url": "https://open.spotify.com/track/5vyt44455ipNNVSYq8fYY7"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Trick To Happy",
-      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -591,22 +607,6 @@
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217633,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Orange Blood",
-        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0AJQjFdtEEr0rVoCGauYRU"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Fits Of Laughter",
         "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Orange Blood",
+        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0AJQjFdtEEr0rVoCGauYRU"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Holy Smokes Future Jokes",
         "url": "https://open.spotify.com/album/7vmZ14hcMVtIIN9lD6JNpf"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/3awBLJoDSXa3TjQeDNhGlq"
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -911,6 +895,22 @@
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/3awBLJoDSXa3TjQeDNhGlq"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 142818,
-      "name": "Headstart",
-      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "People Are My Drug",
         "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 241746,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1271,38 +1271,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Now is the Time",
-      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "For The Company",
-        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Seven Hours",
-      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ"
       },
@@ -1315,22 +1283,6 @@
       "duration_ms": 151515,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "The Pet Parade",
-        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 248925,
-      "name": "The Balcony",
-      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1351,18 +1303,50 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Juniors",
-        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
+        "name": "For The Company",
+        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
         }
       ],
-      "duration_ms": 233533,
-      "name": "Hear It Again",
-      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
+      "duration_ms": 221706,
+      "name": "Seven Hours",
+      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Now is the Time",
+      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "The Pet Parade",
+        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 248925,
+      "name": "The Balcony",
+      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 244506,
       "name": "Shattered & Hollow",
       "url": "https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Juniors",
+        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Hear It Again",
+      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
     },
     {
       "added_at": "2023-07-28 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,101 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,249 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 59 | [Je tourne en rond \- Single mix](https://open.spotify.com/track/1mYAOuwqQwQRsSaOEhfm0u) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Je tourne en rond](https://open.spotify.com/album/3FklzOfGZjx7XVyzfTuTib) | 2:45 |
 | 60 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 |
 
-Snapshot ID: `MCwzMmY4ZDYzN2RjYmYzY2U4OTk4NzMzN2NjMjQ0Y2E0ZDcwMjNiZjhj`
+Snapshot ID: `MCxiODVjOGRkODZlNzM4ZmExMDI0MjIxMGQwMzYyZDBkOGFhZjU4ZjUz`

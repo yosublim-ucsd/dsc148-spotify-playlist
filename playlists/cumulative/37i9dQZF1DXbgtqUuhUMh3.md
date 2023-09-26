@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Zena Emad
 
-552 songs - 1 day 8 hr 6 min
+553 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [Mishtaq](https://open.spotify.com/track/4j65JzQYXQ4PNZ3PlO4LvD) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [Mishtaq](https://open.spotify.com/album/4goCWF3XFvbLmjHExq4adp) | 2:00 | 2022-04-03 | 2023-04-11 |
 | [Mn Hadid](https://open.spotify.com/track/4SgFhANgPutWrIB5iJ377I) | [Aziza](https://open.spotify.com/artist/5Rfskh0eC4Ui4xPIEisqwz) | [Mn Hadid](https://open.spotify.com/album/2LH1fWo3lu8FN9fF2tCWja) | 2:33 | 2021-12-30 | 2022-03-02 |
 | [Mosafer Anta](https://open.spotify.com/track/0BVpJSZrmysREiUbIMaDNC) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl), [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [Mosafer Anta](https://open.spotify.com/album/0Zj3QSrDMeGxumSuxPQt7O) | 4:27 | 2023-02-28 | 2023-05-20 |
-| [Mosh Bimazagak](https://open.spotify.com/track/4QXvNMueJu3X10pJwMF0Zn) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Mosh Bimazagak](https://open.spotify.com/album/166myK04ra9Wfi56USib7R) | 3:07 | 2023-08-17 |  |
+| [Mosh Bimazagak](https://open.spotify.com/track/4QXvNMueJu3X10pJwMF0Zn) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Mosh Bimazagak](https://open.spotify.com/album/166myK04ra9Wfi56USib7R) | 3:07 | 2023-08-17 | 2023-09-26 |
 | [Msh Ehna](https://open.spotify.com/track/7tUBGJe8TiaaxStkbDKO2W) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Msh Ehna](https://open.spotify.com/album/28Td7InrqdpPh6RXCbFley) | 4:28 | 2022-10-20 | 2022-11-04 |
 | [Msh Mestahla](https://open.spotify.com/track/2Saem8GPcYbBbnaUaSHOAF) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Rehla](https://open.spotify.com/album/1AKWEhi7d7BBKke6iT5lPp) | 3:02 | 2022-11-10 | 2023-04-11 |
 | [Msh Mestahla](https://open.spotify.com/track/6RXBr8cyhD8n3v7BSWwkZ7) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Msh Mestahla](https://open.spotify.com/album/0S1UGQ7NFzCqCAwY1wKZHY) | 3:02 | 2022-10-06 | 2022-11-04 |
@@ -379,6 +379,7 @@
 | [Shouf](https://open.spotify.com/track/7tueI4qZOssFDf61SNzdzy) | [Carolina Karam](https://open.spotify.com/artist/6zeJXT6e12k3LLAZHEgCSA) | [شوف](https://open.spotify.com/album/0in4kb6hakIBhYUlAgoHDB) | 3:35 | 2022-03-01 | 2022-07-28 |
 | [Shouf](https://open.spotify.com/track/4WH8T2gsUwPkQvLvXWPdbr) | [Flugen](https://open.spotify.com/artist/4AILr8jXuj2aDFu3C757AT), [Frida](https://open.spotify.com/artist/5uOVb4hLSQVbHbVVt27tV1) | [Meshwar](https://open.spotify.com/album/72zlxotZQ7fHxduR097Jwa) | 6:18 | 2021-12-30 | 2022-02-20 |
 | [Shway Shway](https://open.spotify.com/track/6sTssq4X4cBGcMsT9vmymq) | [Talia Lahoud](https://open.spotify.com/artist/2GZKdLlhqyduNJvT1CcaGD) | [Shway Shway](https://open.spotify.com/album/569KpQXH9KebsbcEjTI8jr) | 2:45 | 2021-12-23 | 2022-03-02 |
+| [Siahak Tarab](https://open.spotify.com/track/7ludZiL5pdp3QKDjEEmMt0) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Siahak Tarab](https://open.spotify.com/album/4NhrRfjq5gt75bA7ig52xK) | 3:29 | 2023-09-25 |  |
 | [Sketch](https://open.spotify.com/track/2NdoRFkYYUDgIAyTo4Q86o) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs) | [Sketch](https://open.spotify.com/album/0cH1lfgElH9he1dy5UzCPV) | 3:38 | 2021-12-30 | 2022-03-01 |
 | [So Blue](https://open.spotify.com/track/0ZMwauhDp2qE0F5wapQLyv) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Yxnwr](https://open.spotify.com/artist/5t4X8mGpQ4MWlv6yBYmq4x) | [So Blue](https://open.spotify.com/album/6zPuNeqfb4VM2yZ5tKdWqZ) | 2:35 | 2021-12-23 | 2022-02-25 |
 | [Sokkar](https://open.spotify.com/track/2BYTEkHsEa6BaFxvddYsee) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Sokkar](https://open.spotify.com/album/3WANh1LW70HosSAYQxWfkd) | 3:01 | 2023-02-23 | 2023-07-14 |

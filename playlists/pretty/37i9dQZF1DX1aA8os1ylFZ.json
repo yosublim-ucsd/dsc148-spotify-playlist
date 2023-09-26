@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 236814,
+  "num_followers": 236918,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzFlNWFmOTMzMTZkYmIzYWVlNTBkNGJjNjY1OWYxZDhiMGRiNDli",
+  "snapshot_id": "MCwzM2E3ZDMxZmE2MTE0YzNlZjM4OWEzNWEzODc3NGU4YTc5OWJlMGI3",
   "tracks": [
     {
       "added_at": "2023-09-21 22:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Midnight Microdose, Vol. 2",
+        "url": "https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 92852,
+      "name": "Ain't Mine",
+      "url": "https://open.spotify.com/track/267UZx3gyAvNKiEVmpl915"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 162000,
       "name": "Diversion",
       "url": "https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Midnight Microdose, Vol. 2",
-        "url": "https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 92852,
-      "name": "Ain't Mine",
-      "url": "https://open.spotify.com/track/267UZx3gyAvNKiEVmpl915"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Face Down",
-        "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        }
-      ],
-      "duration_ms": 168755,
-      "name": "Face Down",
-      "url": "https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Life Is Better Now",
         "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 151569,
       "name": "Save Me, Pt. 2",
       "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Face Down",
+        "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        }
+      ],
+      "duration_ms": 168755,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1611,22 +1611,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja"
+        "name": "On Mine",
+        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
       },
       "artists": [
         {
-          "name": "Kim Petite",
-          "url": "https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6"
+          "name": "Imani Williams",
+          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
         },
         {
-          "name": "Eurosoundz",
-          "url": "https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn"
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
-      "duration_ms": 179954,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C"
+      "duration_ms": 143986,
+      "name": "On Mine",
+      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1647,6 +1647,26 @@
       "duration_ms": 179112,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja"
+      },
+      "artists": [
+        {
+          "name": "Kim Petite",
+          "url": "https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6"
+        },
+        {
+          "name": "Eurosoundz",
+          "url": "https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn"
+        }
+      ],
+      "duration_ms": 179954,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1691,22 +1711,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "On Mine",
-        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU"
       },
       "artists": [
         {
-          "name": "Imani Williams",
-          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "Luna Mae",
+          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
         }
       ],
-      "duration_ms": 143986,
-      "name": "On Mine",
-      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
+      "duration_ms": 170129,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1759,26 +1775,6 @@
       "duration_ms": 190500,
       "name": "Risking It All",
       "url": "https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "PPL",
-        "url": "https://open.spotify.com/album/1xpCtREzKaMD49H0qoeaGk"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        }
-      ],
-      "duration_ms": 194307,
-      "name": "PPL",
-      "url": "https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i"
     }
   ],
   "unique_name": "R&B Magic",

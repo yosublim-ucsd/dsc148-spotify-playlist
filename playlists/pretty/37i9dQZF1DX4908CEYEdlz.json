@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: All Time Low, Abril Lavigne",
-  "num_followers": 703484,
+  "num_followers": 703474,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjA2NTVjMDFiODBkMTIwMmQ1M2U2Mzk0MDE2OTJkOWUzNmFhMDU5",
+  "snapshot_id": "MCw5ODA1ZDg5ZmNkMjk4MzJmYWM5YThkMzZkMGNjNGRmMzY2NWIzZDAx",
   "tracks": [
     {
       "added_at": "2023-09-22 03:01:00",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Angry",
-        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 226735,
-      "name": "Angry",
-      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "ONE MORE TIME / MORE THAN YOU KNOW",
         "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 208114,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Angry",
+        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 226735,
+      "name": "Angry",
+      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 165557,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Kiss Ur Face Forever",
         "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 166556,
       "name": "Kiss Ur Face Forever",
       "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 165557,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Too Far Gone?",
-      "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Here And Now",
         "url": "https://open.spotify.com/album/3MsVFWup3Chu5w0aeAo0fq"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 237859,
       "name": "Here And Now",
       "url": "https://open.spotify.com/track/1WI3vLQfstHF8q9CqJN3zY"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 273693,
+      "name": "Too Far Gone?",
+      "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "ARMY OF ME",
+        "url": "https://open.spotify.com/album/5Asim1a8EcJdU358R3hGpV"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 190271,
+      "name": "ARMY OF ME",
+      "url": "https://open.spotify.com/track/2BlT24FgI1HCXif1VJlG0L"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd"
       },
@@ -467,54 +483,6 @@
       "duration_ms": 199250,
       "name": "Echo",
       "url": "https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Heavy Is The Crown",
-        "url": "https://open.spotify.com/album/3PZhCt0gqzjDJLC8yKUohe"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 234687,
-      "name": "Heavy Is The Crown",
-      "url": "https://open.spotify.com/track/4P5cw8rpwDAQdzIy5nltzj"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Talk Sick",
-        "url": "https://open.spotify.com/album/6sDeXuu7RK9p2JBC6Um7j5"
-      },
-      "artists": [
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
-        }
-      ],
-      "duration_ms": 274437,
-      "name": "Talk Sick",
-      "url": "https://open.spotify.com/track/01SBf2gcEx65tfMmuGdycy"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Sacred The Thread",
-        "url": "https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 321710,
-      "name": "Sacred The Thread",
-      "url": "https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -535,6 +503,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/3PZhCt0gqzjDJLC8yKUohe"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 234687,
+      "name": "Heavy Is The Crown",
+      "url": "https://open.spotify.com/track/4P5cw8rpwDAQdzIy5nltzj"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Bad Friend",
         "url": "https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 211363,
       "name": "Bad Friend",
       "url": "https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Talk Sick",
+        "url": "https://open.spotify.com/album/6sDeXuu7RK9p2JBC6Um7j5"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 274437,
+      "name": "Talk Sick",
+      "url": "https://open.spotify.com/track/01SBf2gcEx65tfMmuGdycy"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "ARMY OF ME",
-        "url": "https://open.spotify.com/album/5Asim1a8EcJdU358R3hGpV"
+        "name": "Sacred The Thread",
+        "url": "https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN"
       },
       "artists": [
         {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
         }
       ],
-      "duration_ms": 190271,
-      "name": "ARMY OF ME",
-      "url": "https://open.spotify.com/track/2BlT24FgI1HCXif1VJlG0L"
+      "duration_ms": 321710,
+      "name": "Sacred The Thread",
+      "url": "https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Fear Of The Dawn",
-        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 214842,
-      "name": "What's the Trick?",
-      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "The Art Of Survival (Deluxe)",
         "url": "https://open.spotify.com/album/4gTXzawhT3uxfHY64KAqSq"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 215318,
       "name": "All Things Must Change",
       "url": "https://open.spotify.com/track/6ZbOtXOG3ZA1c12r1KAOyT"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Fear Of The Dawn",
+        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 214842,
+      "name": "What's the Trick?",
+      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "We Are The Rest",
-        "url": "https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE"
+        "name": "MTV Unplugged (Live)",
+        "url": "https://open.spotify.com/album/2kAer61g2HN6upL2zXAjzd"
       },
       "artists": [
         {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 182449,
-      "name": "We Are The Rest",
-      "url": "https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0"
+      "duration_ms": 282226,
+      "name": "Tear in My Heart - MTV Unplugged Live",
+      "url": "https://open.spotify.com/track/4IMxLpdUPWreh9cxmolYEV"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "MTV Unplugged (Live)",
-        "url": "https://open.spotify.com/album/2kAer61g2HN6upL2zXAjzd"
+        "name": "We Are The Rest",
+        "url": "https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
         }
       ],
-      "duration_ms": 282226,
-      "name": "Tear in My Heart - MTV Unplugged Live",
-      "url": "https://open.spotify.com/track/4IMxLpdUPWreh9cxmolYEV"
+      "duration_ms": 182449,
+      "name": "We Are The Rest",
+      "url": "https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "\u00c5NOM\u00c5LY",
-        "url": "https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv"
-      },
-      "artists": [
-        {
-          "name": "Fuel",
-          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Nowhere Sessions",
         "url": "https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 114000,
       "name": "Fortunate Son - Nowhere Sessions",
       "url": "https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "\u00c5NOM\u00c5LY",
+        "url": "https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv"
+      },
+      "artists": [
+        {
+          "name": "Fuel",
+          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh"
     },
     {
       "added_at": "2023-09-22 03:01:00",

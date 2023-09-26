@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Rocco ",
-  "num_followers": 1702885,
+  "num_followers": 1702949,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTUyY2ZiMTc4ODY3MTViYmFmZDM0Y2VmYmI5MGMzZDY5YzQ5NjY4",
+  "snapshot_id": "MCxlZjYxMTA3OTY1MmUyY2Q1NDhkMDQ4MWQ0NmVkNzViMWJjODBkNDY1",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
-    },
-    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "We Can Be Anything",
@@ -543,6 +527,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "duration_ms": 206893,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 218588,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Rainbow Mixtape",
@@ -607,6 +591,22 @@
       "duration_ms": 173320,
       "name": "Sagittarius Superstar",
       "url": "https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 218588,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Me & Me",
-        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 147596,
-      "name": "Me & Me",
-      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Diving (feat. Holly Humberstone)",
         "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 215986,
       "name": "Diving (feat. Holly Humberstone)",
       "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Me & Me",
+        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 147596,
+      "name": "Me & Me",
+      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Into Your Room",
+        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Into Your Room",
+      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "When We Were Younger",
@@ -839,22 +855,6 @@
       "duration_ms": 136800,
       "name": "19",
       "url": "https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Into Your Room",
-        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Into Your Room",
-      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Coping on Unemployment",
-        "url": "https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Coping on Unemployment",
-      "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
-    },
-    {
       "added_at": "2023-08-14 19:08:31",
       "album": {
         "name": "Happiest Girl",
@@ -951,6 +935,22 @@
       "duration_ms": 167812,
       "name": "Happiest Girl",
       "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Coping on Unemployment",
+        "url": "https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Coping on Unemployment",
+      "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
     },
     {
-      "added_at": "2023-08-14 19:08:31",
-      "album": {
-        "name": "All The Things",
-        "url": "https://open.spotify.com/album/5fEDgKojVggsini4nyUhX3"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 202389,
-      "name": "All The Things",
-      "url": "https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "HATELOVE",
@@ -1067,6 +1051,22 @@
       "duration_ms": 163050,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
+    },
+    {
+      "added_at": "2023-08-14 19:08:31",
+      "album": {
+        "name": "All The Things",
+        "url": "https://open.spotify.com/album/5fEDgKojVggsini4nyUhX3"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 202389,
+      "name": "All The Things",
+      "url": "https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Sick",
-        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 136828,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
-    },
-    {
       "added_at": "2023-04-21 04:19:11",
       "album": {
         "name": "Don't Let Me Down",
@@ -1175,6 +1159,22 @@
       "duration_ms": 137441,
       "name": "Ease",
       "url": "https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 136828,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
     },
     {
       "added_at": "2023-07-07 18:51:45",
@@ -1257,22 +1257,6 @@
       "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Nosebleeds",
-        "url": "https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 164213,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
-    },
-    {
       "added_at": "2023-07-07 18:51:45",
       "album": {
         "name": "palmtreedays_1644.wav",
@@ -1289,20 +1273,36 @@
       "url": "https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy"
     },
     {
-      "added_at": "2023-08-04 04:01:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "how's it feel to be a boy",
-        "url": "https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA"
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct"
       },
       "artists": [
         {
-          "name": "audalei",
-          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
         }
       ],
-      "duration_ms": 141373,
-      "name": "how's it feel to be a boy",
-      "url": "https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2"
+      "duration_ms": 164213,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "july",
+        "url": "https://open.spotify.com/album/51wHhJCdpwZ2591Es9Jqea"
+      },
+      "artists": [
+        {
+          "name": "dyl dion",
+          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "july",
+      "url": "https://open.spotify.com/track/5qAK8ceZCzwvNabw9Mu17F"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1321,20 +1321,20 @@
       "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "july",
-        "url": "https://open.spotify.com/album/51wHhJCdpwZ2591Es9Jqea"
+        "name": "how's it feel to be a boy",
+        "url": "https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA"
       },
       "artists": [
         {
-          "name": "dyl dion",
-          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
         }
       ],
-      "duration_ms": 157733,
-      "name": "july",
-      "url": "https://open.spotify.com/track/5qAK8ceZCzwvNabw9Mu17F"
+      "duration_ms": 141373,
+      "name": "how's it feel to be a boy",
+      "url": "https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2"
     },
     {
       "added_at": "2023-04-18 18:49:21",
@@ -1383,6 +1383,22 @@
       "duration_ms": 217737,
       "name": "Monster Brain",
       "url": "https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "The Earth is a Very Small Dot",
+        "url": "https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 236100,
+      "name": "The Earth is a Very Small Dot",
+      "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1441,22 +1457,6 @@
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "dirty dishes",
-        "url": "https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt"
-      },
-      "artists": [
-        {
-          "name": "KiNG MALA",
-          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
-        }
-      ],
-      "duration_ms": 207684,
-      "name": "dirty dishes",
-      "url": "https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Think I'm In Love",
@@ -1471,6 +1471,22 @@
       "duration_ms": 133000,
       "name": "Think I'm In Love",
       "url": "https://open.spotify.com/track/237o9ApKazX3A8EtweI4CW"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "dirty dishes",
+        "url": "https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt"
+      },
+      "artists": [
+        {
+          "name": "KiNG MALA",
+          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
+        }
+      ],
+      "duration_ms": 207684,
+      "name": "dirty dishes",
+      "url": "https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2023-04-21 04:19:11",
       "album": {
-        "name": "Blades",
-        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221092,
-      "name": "Blades",
-      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
-    },
-    {
-      "added_at": "2023-04-21 04:19:11",
-      "album": {
         "name": "Rocket Ship",
         "url": "https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 89189,
       "name": "Rocket Ship",
       "url": "https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS"
+    },
+    {
+      "added_at": "2023-04-21 04:19:11",
+      "album": {
+        "name": "Blades",
+        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221092,
+      "name": "Blades",
+      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1535,22 +1551,6 @@
       "duration_ms": 221493,
       "name": "It\u2019s Euphoric",
       "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "i wanna be your right hand",
-        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 148533,
-      "name": "i wanna be your right hand",
-      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
     },
     {
       "added_at": "2023-04-28 05:05:19",
@@ -1571,6 +1571,22 @@
       "duration_ms": 179080,
       "name": "moving on (feat. Khary)",
       "url": "https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "i wanna be your right hand",
+        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 148533,
+      "name": "i wanna be your right hand",
+      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 202382,
       "name": "Juliene",
       "url": "https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Old Friends",
-        "url": "https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1"
     },
     {
       "added_at": "2023-09-08 04:00:00",

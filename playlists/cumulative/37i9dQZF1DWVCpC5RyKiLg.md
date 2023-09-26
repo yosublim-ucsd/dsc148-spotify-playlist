@@ -4,7 +4,7 @@
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-173 songs - 9 hr 26 min
+174 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Jogado Na Rua](https://open.spotify.com/track/09NdjJyx9HiLhGFd9YinIS) | [Guilherme & Santiago](https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn) | [Hits Para Namorar](https://open.spotify.com/album/54jwx7wNnFOjaVn82mV3Rd) | 3:26 | 2022-01-27 | 2022-07-29 |
 | [Juras de Amor](https://open.spotify.com/track/3WTWx7yJAqohrSs7PLHGhq) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Juras de Amor](https://open.spotify.com/album/5B1HU5inSYxdZiYr8ow3kI) | 3:09 | 2022-01-27 | 2022-07-29 |
 | [Lancinho \- Ao Vivo](https://open.spotify.com/track/2iH7RnVhofwr9NhaQ6r44K) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [O Som das Multidões](https://open.spotify.com/album/3XhihHyXFqyUxo5ICzp7DE) | 3:47 | 2022-01-27 | 2023-09-20 |
+| [Lancinho \- Ao Vivo](https://open.spotify.com/track/6CeeLpwJUYA4b0xL7eSvzn) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [O Som das Multidões \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4d329KQXDPuJgo2828KdKA) | 3:47 | 2023-02-10 |  |
 | [Largado As Traças \- Acústico](https://open.spotify.com/track/74gguwbBvfBTurNJUWFOsC) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Zé Neto & Cristiano \- Acústico](https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN) | 3:37 | 2022-01-27 |  |
 | [Libera Ela \- Ao Vivo](https://open.spotify.com/track/0SJtvFn4vqgJPscSbEPaql) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Aqui Em Casa \(ao Vivo\)](https://open.spotify.com/album/2L73yL2BUVtnwlEVr4AJHH) | 2:48 | 2022-01-27 | 2022-11-13 |
 | [Liberdade Provisória \- Ao Vivo](https://open.spotify.com/track/1vG3YuKRYqPwTmNmYgqkpg) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Liberdade Provisória \(Ao Vivo\)](https://open.spotify.com/album/6rQDlITDyOO6dihMXtM68L) | 3:07 | 2022-01-27 | 2022-07-29 |
@@ -121,7 +122,7 @@
 | [Onze e Pouquinho](https://open.spotify.com/track/65i9Mc7h1CG7ssI1OhMPcT) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Quarto e Sala](https://open.spotify.com/album/2F6QKX0h4wqizmMjFpVtGG) | 3:00 | 2022-01-27 | 2023-06-12 |
 | [Para, Pensa e Volta \- Ao Vivo](https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Yasmin Santos Ao Vivo em São Paulo \- EP 2](https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We) | 2:54 | 2022-01-27 |  |
 | [Paredes \- Ao Vivo](https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:04 | 2022-01-27 |  |
-| [Pesquisa no Google \(feat\. Henrique & Diego\) \- Ao Vivo](https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Pesquisa no Google \(feat\. Henrique & Diego\) \[Ao Vivo\]](https://open.spotify.com/album/4GhQyISpTeElMOHFUVSqKR) | 2:49 | 2022-01-27 |  |
+| [Pesquisa no Google \(feat\. Henrique & Diego\) \- Ao Vivo](https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Pesquisa no Google \(feat\. Henrique & Diego\) \[Ao Vivo\]](https://open.spotify.com/album/4GhQyISpTeElMOHFUVSqKR) | 2:49 | 2022-01-27 | 2023-09-26 |
 | [Pirata e tesouro \- Ao vivo](https://open.spotify.com/track/3Cabw7y9EoR68v7dBS76HQ) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:39 | 2022-01-27 |  |
 | [Pode Ir Embora \- Ao Vivo](https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [De Volta aos Bares](https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG) | 3:37 | 2022-01-27 |  |
 | [Pode Sumir](https://open.spotify.com/track/5OzvtpasMB3aPWpfVr0PsA) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3) | [Pode Sumir](https://open.spotify.com/album/3Vpyz0ryjD1b1myLqFktsd) | 2:57 | 2022-01-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap só dá o play e aumenta! Foto: Borges, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,263,478 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,264,283 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Clickbait](https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Clickbait](https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ) | 2:41 |
 | 50 | [Vizão de Cria 3](https://open.spotify.com/track/7BE8gYIIFPJsx3EjXk77yT) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vizão de Cria 3](https://open.spotify.com/album/1g1yMCBXSznyHPyf2YAK0l) | 5:24 |
 
-Snapshot ID: `MCxjOTU3YjQ5ZWJjMjEwNzBhYWNiNTU5NjlmNjU3YjYxZDRmMWQ3ODA4`
+Snapshot ID: `MCw4NjgxYWMxYjU2OWFjYjEwYTAxMDNiM2Q3Y2MwNzk1NjBhMTI0NTYw`

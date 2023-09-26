@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 257008,
       "name": "Algo Me Dice",
       "url": "https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 266992,
       "name": "Azu\u0301car Impalpable",
       "url": "https://open.spotify.com/track/48nLgkR14oklsdfjN6wGsl"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 320656,
       "name": "Chau",
       "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
@@ -2856,6 +2856,24 @@
       "duration_ms": 160925,
       "name": "Mega High",
       "url": "https://open.spotify.com/track/1WMsoTfHfsOQLkfQkkvTn8"
+    },
+    {
+      "album": {
+        "name": "Divididos Por La Felicidad",
+        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286813,
+      "name": "Mejor No Hablar de Ciertas Cosas",
+      "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
     },
     {
       "album": {

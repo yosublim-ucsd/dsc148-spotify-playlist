@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos representing Hip-Hop in the U.S. Cover: King Lil G & Young Drummer Boy",
-  "num_followers": 25156,
+  "num_followers": 25222,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjNhNjBlZjQyMjgyMGM2ZWZiYWE3NDExZDU0NzVlMmZhYjIyNzY1",
+  "snapshot_id": "MCw1MjM3NzQwY2Q2ZmY1MWEwZjBhNGU5ODJmZTdiYWViMGRhM2FmYWQ0",
   "tracks": [
     {
       "added_at": "2023-09-15 17:42:25",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3"
+      },
+      "artists": [
+        {
+          "name": "Lil Maru",
+          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
+        }
+      ],
+      "duration_ms": 109274,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
         "name": "Morals & Principles",
         "url": "https://open.spotify.com/album/33PSLhe3pw56zPpXsC1nQk"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 160193,
       "name": "Morals & Principles",
       "url": "https://open.spotify.com/track/13hDks0qJA8JrSIFU2r6ac"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3"
-      },
-      "artists": [
-        {
-          "name": "Lil Maru",
-          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
-        }
-      ],
-      "duration_ms": 109274,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "It's Officially Done",
-        "url": "https://open.spotify.com/album/7399tv9lmTGk3rNfC0woQD"
-      },
-      "artists": [
-        {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
-        }
-      ],
-      "duration_ms": 176936,
-      "name": "It's Officially Done",
-      "url": "https://open.spotify.com/track/0q4v62eDHaqkPYVWmkGOsO"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY"
       },
@@ -451,6 +435,30 @@
       "duration_ms": 187898,
       "name": "Energy",
       "url": "https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "duration_ms": 185736,
+      "name": "Hit List (with BigXthaPlug & Big Yavo)",
+      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -479,26 +487,18 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+        "name": "It's Officially Done",
+        "url": "https://open.spotify.com/album/7399tv9lmTGk3rNfC0woQD"
       },
       "artists": [
         {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
         }
       ],
-      "duration_ms": 185736,
-      "name": "Hit List (with BigXthaPlug & Big Yavo)",
-      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
+      "duration_ms": 176936,
+      "name": "It's Officially Done",
+      "url": "https://open.spotify.com/track/0q4v62eDHaqkPYVWmkGOsO"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -579,6 +579,26 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
+        "name": "Chingon (with Peso Peso)",
+        "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        }
+      ],
+      "duration_ms": 125930,
+      "name": "Chingon (with Peso Peso)",
+      "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
         "name": "Stop Cry'n",
         "url": "https://open.spotify.com/album/6BxbrYbOSW2YbccOMCuX5q"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 196340,
       "name": "John Gotti (feat. Chunks)",
       "url": "https://open.spotify.com/track/2aJHkplaxZaO4ERusqANdK"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
-        "name": "Chingon (with Peso Peso)",
-        "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Peso Peso",
-          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
-        }
-      ],
-      "duration_ms": 125930,
-      "name": "Chingon (with Peso Peso)",
-      "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Rich Remedy",
-        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
-      },
-      "artists": [
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        },
-        {
-          "name": "Tweak on the Beat",
-          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
-        }
-      ],
-      "duration_ms": 115356,
-      "name": "Rich Remedy",
-      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
         "name": "Are We Really Free",
         "url": "https://open.spotify.com/album/0bHzwbqG82wGGuxqSq9JRO"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 287582,
       "name": "Are We Really Free",
       "url": "https://open.spotify.com/track/3XDJen8F9IIGdBNJp5SheH"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
+        "name": "Rich Remedy",
+        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
+      },
+      "artists": [
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "Tweak on the Beat",
+          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
+        }
+      ],
+      "duration_ms": 115356,
+      "name": "Rich Remedy",
+      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
     },
     {
       "added_at": "2023-09-15 17:42:25",

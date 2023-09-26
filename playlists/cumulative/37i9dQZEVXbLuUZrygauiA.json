@@ -8896,7 +8896,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
@@ -14774,7 +14774,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -19082,7 +19082,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -22116,6 +22116,24 @@
       "duration_ms": 103253,
       "name": "Simon y Me Vale Verg*",
       "url": "https://open.spotify.com/track/5fE144SITBwKDfdqjcvDeH"
+    },
+    {
+      "album": {
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/6THFGUOwWMPRb6x58aVpDZ"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193021,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/2NQZVzSRRatbbPWD5IfadH"
     },
     {
       "album": {

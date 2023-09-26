@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 262453,
       "name": "Coup de foudre \u00e0 Thessalonique",
       "url": "https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd"
@@ -3402,6 +3402,24 @@
       "duration_ms": 128484,
       "name": "Esperar Pra Ver",
       "url": "https://open.spotify.com/track/2gRtzGOxEsPaFLMEXGXYxy"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318058,
+      "name": "Esta canci\u00f3n",
+      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
     },
     {
       "album": {

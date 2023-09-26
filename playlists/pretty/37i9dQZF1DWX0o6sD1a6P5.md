@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,908 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,401 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 45 | [Maria](https://open.spotify.com/track/30nVi5z6ndLqJ8mdw7PX6p) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Maria](https://open.spotify.com/album/28jNjVNo0Sw3D9LWtPwiTF) | 2:59 |
 | 46 | [Sénégal](https://open.spotify.com/track/6qQVjM3TxqEumTtIiCl3wb) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Sénégal](https://open.spotify.com/album/0qVnVWvaBRuyhr7IFEeR6p) | 2:42 |
 | 47 | [Lanke](https://open.spotify.com/track/3mYXLXiDW6iRIht6dfusIy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Lanke](https://open.spotify.com/album/6Di2j6dmIeMGuJDAd2m4ix) | 2:32 |
-| 48 | [DJONY](https://open.spotify.com/track/75HPG0HUpj59uY813Noh0S) | [Barack Adama](https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M) | [DJONY](https://open.spotify.com/album/1EqHuSInobuXL3CmQea80U) | 3:14 |
-| 49 | [Pocket](https://open.spotify.com/track/4rc2sb1NPhQjrL5e4KAtWn) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pocket](https://open.spotify.com/album/2ler9sKkfETzVwEsUDJohW) | 3:02 |
-| 50 | [Diamant](https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7) | [MASIDI](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Diamant](https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W) | 2:48 |
+| 48 | [Pocket](https://open.spotify.com/track/4rc2sb1NPhQjrL5e4KAtWn) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pocket](https://open.spotify.com/album/2ler9sKkfETzVwEsUDJohW) | 3:02 |
+| 49 | [Diamant](https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7) | [MASIDI](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Diamant](https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W) | 2:48 |
 
-Snapshot ID: `MCwxNGQ5MjMyM2YzYTIyZmI0OTA3NDRlZWU4YjdhYjhjY2NiMzM4ZWMx`
+Snapshot ID: `MCw4NTZhZjRhMDkxNmY4ZDdlODUwNzViODA3MDIxMWVhYmY0ZDI5NzVh`

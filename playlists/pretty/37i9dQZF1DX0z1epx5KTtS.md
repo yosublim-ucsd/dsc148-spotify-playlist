@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Dydy Yeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,667 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,703 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Le Secret](https://open.spotify.com/track/09V5sBv2hhBXSRjXSAB3sb) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Le Secret](https://open.spotify.com/album/1h9Xp386wUIbffEgODh4ic) | 3:20 |
 | 40 | [Copa](https://open.spotify.com/track/6DHB4gzkkIAtV4X5TruqoG) | [Kiko](https://open.spotify.com/artist/4P2zZ1OLqeeKDLXc34Yfsv) | [Agama](https://open.spotify.com/album/7JFbI2Bgh9U5QPN3NuuA4l) | 2:22 |
 
-Snapshot ID: `MCxiN2EzN2MzZTNjZjBhYTJlMmZmYzBlN2FjOTMzMWNiMWQ0MmJiMmFm`
+Snapshot ID: `MCw5MGRlOGM0NzI3NzRlYWYwZTE5NDVjOTZhZGU5Y2RiMzRjNDk2Yjk4`

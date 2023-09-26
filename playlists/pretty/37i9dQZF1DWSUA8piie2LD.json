@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 94414,
+  "num_followers": 94536,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjNmYjJjMTI2Nzg5MDYxMmEzMjQzNzIwMjk5MDU2MWM4Y2NkNTcz",
+  "snapshot_id": "MCwxYzljYTNiNzQzYjVlMjI0NTcwNDM5M2Q4NDVlZDE2YTA2MDgxMTEx",
   "tracks": [
     {
       "added_at": "2023-09-22 07:10:35",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
+        "name": "Personal Touch",
+        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Personal Touch",
+      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
         "name": "Pleasure Seeker",
         "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 309386,
       "name": "Slow Jam",
       "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
-        "name": "Personal Touch",
-        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Personal Touch",
-      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -251,38 +251,6 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "Livin' Large",
-        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "Don't Let Me Be Lonely Tonight",
-      "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
-      },
-      "artists": [
-        {
-          "name": "Jeff Golub",
-          "url": "https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "On The Wes Side",
-      "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
         "name": "Lip Service",
         "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
       },
@@ -315,6 +283,22 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
+      },
+      "artists": [
+        {
+          "name": "Jeff Golub",
+          "url": "https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "On The Wes Side",
+      "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 326213,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
+        "name": "Livin' Large",
+        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "The Closer I Get To You",
-      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
       },
@@ -411,6 +395,22 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "The Closer I Get To You",
+      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
         "name": "Work to Do",
         "url": "https://open.spotify.com/album/6THuvzMAocj3aImePgicNH"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 293133,
       "name": "100 Ways",
       "url": "https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -459,18 +475,18 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
       },
       "artists": [
         {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 332293,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
+      "duration_ms": 295840,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -523,22 +539,6 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 295840,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "It's On Tonight",
-        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 392506,
-      "name": "Sensuality",
-      "url": "https://open.spotify.com/track/0TVibo6weBhjmRzg58r3o7"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
         "name": "Najee's Theme",
         "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 284773,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/62wlS0ZgjMCdJrwz0rCfBF"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
+        "name": "It's On Tonight",
+        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 392506,
+      "name": "Sensuality",
+      "url": "https://open.spotify.com/track/0TVibo6weBhjmRzg58r3o7"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "GK",
-        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
         "name": "Excusez-Moi",
         "url": "https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 257373,
       "name": "Here With You",
       "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
+        "name": "GK",
+        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 286093,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
+        "name": "Just Around The Corner",
+        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
+      },
+      "artists": [
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
         "name": "Someone To Love You",
         "url": "https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "Just Around The Corner",
-        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
         "name": "Nice & Slow",
         "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
       },
@@ -1039,6 +1039,38 @@
       "duration_ms": 288800,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
+        "name": "Le Tour d'Amour",
+        "url": "https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8"
+      },
+      "artists": [
+        {
+          "name": "Boulevard Pacific",
+          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
+        },
+        {
+          "name": "Thomas Darelid",
+          "url": "https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ"
+        },
+        {
+          "name": "Henrik Janson",
+          "url": "https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED"
+        },
+        {
+          "name": "Jenny Kristoffersson",
+          "url": "https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy"
+        },
+        {
+          "name": "Per Lindvall",
+          "url": "https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Le Tour d'Amour",
+      "url": "https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -1087,38 +1119,6 @@
       "duration_ms": 325666,
       "name": "Take-Out Dreams",
       "url": "https://open.spotify.com/track/0Bg4h1WNPOuUaLVjharMGK"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
-        "name": "Le Tour d'Amour",
-        "url": "https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8"
-      },
-      "artists": [
-        {
-          "name": "Boulevard Pacific",
-          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
-        },
-        {
-          "name": "Thomas Darelid",
-          "url": "https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ"
-        },
-        {
-          "name": "Henrik Janson",
-          "url": "https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED"
-        },
-        {
-          "name": "Jenny Kristoffersson",
-          "url": "https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy"
-        },
-        {
-          "name": "Per Lindvall",
-          "url": "https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Le Tour d'Amour",
-      "url": "https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn"
     },
     {
       "added_at": "2023-09-22 07:10:35",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-09-22 07:10:35",
       "album": {
-        "name": "Hardcastle 2",
-        "url": "https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Bird Island",
-      "url": "https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM"
-    },
-    {
-      "added_at": "2023-09-22 07:10:35",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 332333,
       "name": "Grace",
       "url": "https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko"
+    },
+    {
+      "added_at": "2023-09-22 07:10:35",
+      "album": {
+        "name": "Hardcastle 2",
+        "url": "https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Bird Island",
+      "url": "https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM"
     }
   ],
   "unique_name": "Romantic Smooth Jazz",

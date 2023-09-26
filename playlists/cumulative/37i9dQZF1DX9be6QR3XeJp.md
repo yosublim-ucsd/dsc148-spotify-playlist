@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists from UK&IE\. Cover:  HotWax
 
-226 songs - 12 hr 19 min
+227 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2022-02-18 | 2022-07-29 |
 | [Dream Caused By The Flight Of A Bee](https://open.spotify.com/track/1cAKuJhjZCKI0j0sVTF5zQ) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Dream Caused By The Flight Of A Bee](https://open.spotify.com/album/5bN3xklJz98zVp1cxnYpSO) | 2:46 | 2022-05-12 |  |
 | [Drip Drip](https://open.spotify.com/track/4hIXIJxc7gEYqA8NkcZkKl) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Yūdokuna](https://open.spotify.com/album/5lNZyxqACJ1WPfypeZM3uf) | 3:20 | 2022-02-18 |  |
-| [Déjà Vu](https://open.spotify.com/track/1ofyA3yOVsQPQC3UnM6oIx) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Déjà Vu](https://open.spotify.com/album/0vhflFpjfFoc5idKhuw5Jw) | 2:51 | 2023-07-13 |  |
+| [Déjà Vu](https://open.spotify.com/track/0Uzlf3LBshr2fIU0G7OdY8) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Gentle Confrontation](https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx) | 2:51 | 2023-09-21 |  |
+| [Déjà Vu](https://open.spotify.com/track/1ofyA3yOVsQPQC3UnM6oIx) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Déjà Vu](https://open.spotify.com/album/0vhflFpjfFoc5idKhuw5Jw) | 2:51 | 2023-07-13 | 2023-09-26 |
 | [Easy to Love](https://open.spotify.com/track/1VqDgFgaedJLSQa5dPI6pC) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Overthunk](https://open.spotify.com/album/5CVArykOwn3VjaAhy1EyRN) | 3:30 | 2022-02-18 | 2023-07-14 |
 | [Empower](https://open.spotify.com/track/3j2HYjcIlxVhUT5Ioi1owY) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [Empower](https://open.spotify.com/album/4gwsVmaHqOVMm2VDIuzQb8) | 4:45 | 2022-02-18 |  |
 | [Energy \(feat\. Mahalia\)](https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 3:08 | 2022-02-18 |  |

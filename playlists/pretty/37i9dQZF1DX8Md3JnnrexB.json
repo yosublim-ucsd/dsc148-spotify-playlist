@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 202500,
+  "num_followers": 202612,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWEyNDAzZTdhMWZhNmYxYjI3ODdhOTY5YWRmM2M3MzZjYzVmNmQz",
+  "snapshot_id": "MCxjNWI1Zjc3ZjE1NTU5ODc1ZmFiZTJmNjU2Mzk2Mzk0ZjNlYjBmMTRi",
   "tracks": [
     {
       "added_at": "2023-08-15 09:52:41",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Where There's Smoke...",
-        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "Feel Like Makin' Love",
         "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 175400,
       "name": "Feel Like Makin' Love",
       "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "Where There's Smoke...",
+        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Still Groovin (Remastered)",
-        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
-      },
-      "artists": [
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Groovin' - Remastered",
-      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "Now We May Begin",
         "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 302653,
       "name": "One Day I'll Fly Away",
       "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "Still Groovin (Remastered)",
+        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Groovin' - Remastered",
+      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 292733,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
         "name": "Car Wash",
         "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 250266,
       "name": "Caught Up In the Rapture",
       "url": "https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 292733,
-      "name": "Always and Forever",
-      "url": "https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 277400,
-      "name": "Let's Wait Awhile",
-      "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 277400,
+      "name": "Let's Wait Awhile",
+      "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+        "name": "All Rise (Deluxe)",
+        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+      "duration_ms": 363240,
+      "name": "Everything You Touch Is Gold",
+      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "All Rise (Deluxe)",
-        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 363240,
-      "name": "Everything You Touch Is Gold",
-      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1595,7 +1595,7 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "name": "Wake Up Everybody",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
       "artists": [
@@ -1609,24 +1609,8 @@
         }
       ],
       "duration_ms": 316893,
-      "name": "You Know How to Make Me Feel so Good (feat. Sharon Paige)",
+      "name": "You Know How to Make Me Feel so Good",
       "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
-        "name": "Secret Combination",
-        "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 254613,
-      "name": "Rainy Night in Georgia",
-      "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1643,6 +1627,22 @@
       "duration_ms": 468653,
       "name": "Quiet Storm",
       "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "Secret Combination",
+        "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 254613,
+      "name": "Rainy Night in Georgia",
+      "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
     },
     {
       "added_at": "2023-08-15 09:52:41",

@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 159168,
+  "num_followers": 159222,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzhmNDNhZGY2MjA3MmQ0MThmNzE5NGM4ODM5YjZlYjBlYjQzNDg5",
+  "snapshot_id": "MCw5Y2FhNGM2ZDE0YmE5MjViYmUzYjFjNjJjNDBmNWUwZWZhMzkwZDkw",
   "tracks": [
     {
       "added_at": "2023-04-28 16:37:16",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Papa Ain't Salty",
-      "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Man Of My Word",
         "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 368466,
       "name": "Three Hours Past Midnight",
       "url": "https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Papa Ain't Salty",
+      "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Love Transcends",
-        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
-      },
-      "artists": [
-        {
-          "name": "Jackie Venson",
-          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
-        }
-      ],
-      "duration_ms": 175177,
-      "name": "One Step Forward",
-      "url": "https://open.spotify.com/track/0RQTKzj5xYJeuHKH0WFdoN"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Blues Comin' On",
         "url": "https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 317819,
       "name": "Old Time Used to Be",
       "url": "https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Love Transcends",
+        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "duration_ms": 175177,
+      "name": "One Step Forward",
+      "url": "https://open.spotify.com/track/0RQTKzj5xYJeuHKH0WFdoN"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 146397,
+      "name": "Connecticut Blues",
+      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "Live At The Cafe Au-Go-Go",
         "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 210253,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 146397,
-      "name": "Connecticut Blues",
-      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Jake's Blues",
-        "url": "https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Red Latham",
-          "url": "https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "Jake's Blues",
-      "url": "https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "The Essential Taj Mahal",
         "url": "https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 530640,
       "name": "The Celebrated Walkin' Blues",
       "url": "https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Jake's Blues",
+        "url": "https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Red Latham",
+          "url": "https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "Jake's Blues",
+      "url": "https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Crackdown",
-        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 178436,
-      "name": "Gone For Good",
-      "url": "https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Next Time You See Me",
         "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 156040,
       "name": "I Need Love So Bad",
       "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 178436,
+      "name": "Gone For Good",
+      "url": "https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF"
     }
   ],
   "unique_name": "Blues on the Rocks",

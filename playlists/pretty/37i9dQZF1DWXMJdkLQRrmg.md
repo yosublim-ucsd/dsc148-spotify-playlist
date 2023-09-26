@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,486 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,560 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 20 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 21 | [Mr\. Brightside](https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Superstition](https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo) | 4:32 |
 | 22 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
-| 23 | [Patience](https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Patience](https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo) | 4:13 |
-| 24 | [Hurt](https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 3:36 |
-| 25 | [Seaside](https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 1:39 |
-| 26 | [Anthem](https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem Of The Peaceful Army](https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX) | 4:41 |
-| 27 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 |
+| 23 | [Hurt](https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 3:36 |
+| 24 | [Seaside](https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 1:39 |
+| 25 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 |
+| 26 | [Patience](https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Patience](https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo) | 4:13 |
+| 27 | [Anthem](https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem Of The Peaceful Army](https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX) | 4:41 |
 | 28 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
 | 29 | [Synchronize \- Acoustic Version](https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize \(Acoustic Version\)](https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L) | 2:43 |
 | 30 | [How Did You Love \- Acoustic](https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [How Did You Love](https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 49 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
 | 50 | [Bite Me \- Acoustic](https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 3:09 |
 
-Snapshot ID: `MCxmNWYxN2ViNTljNWQyMGRmNjA4ZjlmZDY2ZjJlOGIzNzIyMWQ4MWEw`
+Snapshot ID: `MCw5OGZmNDhkODQxNWI2MTFlYzdkYTJlOTgzZmFmM2I5MDM1ODAyYmQ2`

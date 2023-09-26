@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: TOMORROW X TOGETHER + Anitta
 
-746 songs - 1 day 16 hr 51 min
+749 songs - 1 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Child](https://open.spotify.com/track/5HaYRuf3zAfCb8RSO9LLea) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Child \- SM STATION : NCT LAB](https://open.spotify.com/album/4XGMXl3AMjb11YIKdeujj1) | 3:31 | 2022-02-04 | 2022-04-06 |
 | [CHILLIN](https://open.spotify.com/track/3EfwJBSA0uvCH7DgPnMcl6) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [RIDE](https://open.spotify.com/album/615GQfWbnnV04urJ2wBvGk) | 3:13 | 2022-11-08 | 2022-11-16 |
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-03-01 | 2022-04-13 |
+| [CHO \- Japanese ver.](https://open.spotify.com/track/4JJZCcYn800GgmZDt78Znd) | [Feverse](https://open.spotify.com/artist/2HEGA0QyWlpVzyNF6WaMVQ) | [Feverse JAPAN 1st ALBUM \(CHO \-Japanese ver.\-\)](https://open.spotify.com/album/7fWY7Rr0Lc72XS13RfWuvo) | 3:24 | 2023-09-26 |  |
 | [Chocolate \- Japanese Ver.](https://open.spotify.com/track/4Wfwahl7IC8iHwPAM3di7Z) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Chocolate \(Japanese Ver.\)](https://open.spotify.com/album/6qIiU9PzJzMuQVJRIoAO9a) | 2:53 | 2021-12-23 | 2022-01-15 |
 | [Choices](https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Choices](https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI) | 3:21 | 2023-01-08 | 2023-07-08 |
 | [Christmas EveL](https://open.spotify.com/track/266QhbDtB6QapuIYRBaLFe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL) | 2:58 | 2021-12-23 | 2022-02-02 |
@@ -212,6 +213,7 @@
 | [Eclipse](https://open.spotify.com/track/0yhSuVJ4QGrFetP7cO4Y8a) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [Alter Ego](https://open.spotify.com/album/65EPSaLb7zDDiTt6RVIbfj) | 3:14 | 2021-12-23 | 2022-01-21 |
 | [ECLIPSE](https://open.spotify.com/track/5blarPVSwhHNVB5aFMr4fL) | [Raon](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst), [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [ECLIPSE](https://open.spotify.com/album/77vY8TKGpFazJpKSUQSjyD) | 3:21 | 2023-06-27 | 2023-08-01 |
 | [EDELWEISS \- Japanese Version](https://open.spotify.com/track/52kpniJmlFTsJw3I1mKh5c) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [EDELWEISS \(Japanese Version\)](https://open.spotify.com/album/6wzoFKRFbqZr8xPop86mox) | 3:39 | 2022-03-22 | 2022-05-14 |
+| [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2023-09-26 |  |
 | [Elevator](https://open.spotify.com/track/4rn1BxsXSSuZcgRa6thKYu) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf) | [Elevator](https://open.spotify.com/album/7qAmKSszPEYHUNhETGGhSI) | 2:43 | 2023-08-31 |  |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-23 | 2022-05-17 |
 | [ELEVEN \-Japanese version\-](https://open.spotify.com/track/0KQvYf5R5HlASf0yyGnPKS) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/1tP7SiJE8uQ7fs2LQaPDbP) | 2:58 | 2022-09-18 | 2022-12-07 |
@@ -259,6 +261,7 @@
 | [Future \(Lollapalooza ver.\)](https://open.spotify.com/track/4Q6S4uWD8dwpWiI3VkdBuV) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box \(HOPE Edition\)](https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6) | 4:18 | 2023-08-18 | 2023-09-22 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 | 2022-09-09 |
 | [Future Perfect \(Pass the MIC\) \- Japanese Ver.](https://open.spotify.com/track/3lwif0ky1b6llUB5p4uulL) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [定め](https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv) | 3:00 | 2022-10-25 | 2023-02-22 |
+| [Galileo](https://open.spotify.com/track/2nehY8ewjt4clnD40SclwM) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Magic Hour](https://open.spotify.com/album/4otUxxCM0HA9Deq2vBMJBk) | 3:08 | 2023-09-26 |  |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-10 | 2022-06-01 |
 | [Gasoline](https://open.spotify.com/track/59WDxA3UxKvJDIJcK6dVZv) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Gasoline \- The 2nd Album](https://open.spotify.com/album/1STTad4531T7StJ4EiVwAG) | 3:11 | 2022-08-30 | 2022-11-02 |
 | [Generation](https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Acid Angel from Asia <ACCESS>](https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y) | 2:44 | 2022-10-31 | 2023-02-01 |

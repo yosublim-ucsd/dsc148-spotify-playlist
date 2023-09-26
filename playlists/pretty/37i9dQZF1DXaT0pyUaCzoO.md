@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 
 > Songs of pride and empowerment to enjoy with little listeners\. Cover: That Girl Lay Lay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,762 likes - 72 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,765 likes - 72 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 | 57 | [A Change Is Gonna Come](https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Change Is Gonna Come](https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI) | 3:11 |
 | 58 | [I JUST WANNA LIVE](https://open.spotify.com/track/39LS7G7XuDR5yXnmZJ58C5) | [Keedron Bryant](https://open.spotify.com/artist/2l5DDUyyMSmNBLCSa0BIIX) | [I JUST WANNA LIVE](https://open.spotify.com/album/5jzehRkLXUpfbFs1XfCMZx) | 3:08 |
 | 59 | [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 |
-| 60 | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 |
+| 60 | [Wake Up Everybody](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 |
 | 61 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
 | 62 | [Tomorrow \(A Better You, Better Me\)](https://open.spotify.com/track/4jYuAdVCOMkEQJWV2qvlj6) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [Back On The Block](https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82) | 4:46 |
 | 63 | [Somebody’s Talking about Freedom](https://open.spotify.com/track/36OMJ0R9EVtdFzj1lzCdd5) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [African American Legacy Series: A Life of Song](https://open.spotify.com/album/6NpuzbeMOdtbPBWNHgNSxu) | 1:51 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 | 71 | [Optimistic](https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Evolution Of Gospel](https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp) | 5:18 |
 | 72 | [Strength Courage & Wisdom](https://open.spotify.com/track/2kIZPLtqtmDh3dX6HuAfD0) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 4:57 |
 
-Snapshot ID: `MCxjMTI0ZTk4NWYxOTEyYjE4OGM2NTVkODNkMWMxNDJkMjRiODU1Y2Y2`
+Snapshot ID: `MCw3YTBiNjMzODI4MjZjOTA2N2Q1OWJlNmMyODhhOGI2YTViZjAwMjU1`

@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 3583764,
+  "num_followers": 3585210,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmMwOTJkNTAyNjE3NzM5YTJjNmFlMGYxMDNjZmJiZTdlNWQ4MzYx",
+  "snapshot_id": "MCwwZjRhMTFjNzY5OGZlNTVmMjcwNTg3MzdlZmVmNGIwMThjYjdlMDAx",
   "tracks": [
     {
       "added_at": "2023-09-06 15:22:16",
@@ -65,54 +65,6 @@
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
     },
     {
-      "added_at": "2023-09-08 19:34:44",
-      "album": {
-        "name": "Mama's Boy",
-        "url": "https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 155721,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2023-09-05 15:02:50",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
       "added_at": "2023-09-05 15:02:50",
       "album": {
         "name": "These Things Happen",
@@ -131,6 +83,86 @@
       "duration_ms": 255680,
       "name": "Tumblr Girls (feat. Christoph Andersson)",
       "url": "https://open.spotify.com/track/4Fv6wNYUixnYkj3Dgfrls8"
+    },
+    {
+      "added_at": "2023-08-08 13:58:28",
+      "album": {
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+      },
+      "artists": [
+        {
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        }
+      ],
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+    },
+    {
+      "added_at": "2023-09-25 14:52:00",
+      "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Amour plastique",
+      "url": "https://open.spotify.com/track/0HDO6JFfplYPrSWuufUosZ"
+    },
+    {
+      "added_at": "2023-09-08 19:34:44",
+      "album": {
+        "name": "Mama's Boy",
+        "url": "https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 155721,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
+    },
+    {
+      "added_at": "2023-07-11 14:50:16",
+      "album": {
+        "name": "Faye Webster",
+        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "I Know You",
+      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
+    },
+    {
+      "added_at": "2023-09-05 15:02:50",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "added_at": "2023-09-05 15:02:50",
@@ -153,20 +185,60 @@
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
     },
     {
-      "added_at": "2023-08-08 13:58:28",
+      "added_at": "2023-09-20 13:29:37",
       "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+        "name": "F\u039bSHION",
+        "url": "https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX"
       },
       "artists": [
         {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+          "name": "Britney Manson",
+          "url": "https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf"
         }
       ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+      "duration_ms": 146531,
+      "name": "F\u039bSHION",
+      "url": "https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7"
+    },
+    {
+      "added_at": "2023-08-28 18:54:49",
+      "album": {
+        "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+        "url": "https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        },
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+      "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "added_at": "2023-09-20 13:48:23",
@@ -201,20 +273,20 @@
       "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
     },
     {
-      "added_at": "2023-07-11 14:50:16",
+      "added_at": "2023-09-18 18:38:40",
       "album": {
-        "name": "Faye Webster",
-        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
+        "name": "sins (let me in)",
+        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
         }
       ],
-      "duration_ms": 251666,
-      "name": "I Know You",
-      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
+      "duration_ms": 128326,
+      "name": "sins (let me in)",
+      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
     },
     {
       "added_at": "2023-07-20 16:22:58",
@@ -233,30 +305,6 @@
       "url": "https://open.spotify.com/track/5wHBA7ROxraWgOBcMwVJ7P"
     },
     {
-      "added_at": "2023-08-28 18:54:49",
-      "album": {
-        "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-        "url": "https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        },
-        {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
-      "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
-    },
-    {
       "added_at": "2023-08-16 18:05:26",
       "album": {
         "name": "Paint The Town Red",
@@ -271,6 +319,22 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "added_at": "2023-09-25 14:54:01",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "Harleys In Hawaii",
+      "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
     },
     {
       "added_at": "2023-06-09 16:12:25",
@@ -303,38 +367,6 @@
       "duration_ms": 125252,
       "name": "older sped up",
       "url": "https://open.spotify.com/track/75EIDyYc0excxUOzold15R"
-    },
-    {
-      "added_at": "2023-09-18 18:38:40",
-      "album": {
-        "name": "sins (let me in)",
-        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 128326,
-      "name": "sins (let me in)",
-      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
-    },
-    {
-      "added_at": "2023-09-20 13:29:37",
-      "album": {
-        "name": "F\u039bSHION",
-        "url": "https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX"
-      },
-      "artists": [
-        {
-          "name": "Britney Manson",
-          "url": "https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf"
-        }
-      ],
-      "duration_ms": 146531,
-      "name": "F\u039bSHION",
-      "url": "https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7"
     },
     {
       "added_at": "2023-08-11 19:13:14",
@@ -377,6 +409,22 @@
       "url": "https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq"
     },
     {
+      "added_at": "2023-09-21 17:11:53",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
       "added_at": "2023-09-20 13:29:37",
       "album": {
         "name": "Now You See Me",
@@ -393,6 +441,38 @@
       "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
     },
     {
+      "added_at": "2023-09-20 16:38:39",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2023-09-25 15:17:42",
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
       "added_at": "2023-09-05 13:49:28",
       "album": {
         "name": "Water",
@@ -407,6 +487,42 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-08-22 16:37:37",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2023-06-09 16:12:25",
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
       "added_at": "2023-06-09 16:12:25",
@@ -439,22 +555,6 @@
       "duration_ms": 191796,
       "name": "Need 2",
       "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
-    },
-    {
-      "added_at": "2023-09-20 16:38:39",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2023-06-09 16:12:25",
@@ -493,6 +593,22 @@
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
     },
     {
+      "added_at": "2023-08-14 17:48:03",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
+    },
+    {
       "added_at": "2023-09-15 18:59:46",
       "album": {
         "name": "Wheatus",
@@ -523,22 +639,6 @@
       "duration_ms": 193787,
       "name": "The Spectre",
       "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
-    },
-    {
-      "added_at": "2023-08-22 16:37:37",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2023-09-12 14:27:27",
@@ -599,42 +699,6 @@
       "duration_ms": 127741,
       "name": "GMFU (w/ 6arelyhuman)",
       "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
-    },
-    {
-      "added_at": "2023-06-09 16:12:25",
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "See You Again (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": "2023-09-21 17:11:53",
-      "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Rock Your Body",
-      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
       "added_at": "2023-06-09 16:12:25",
@@ -815,22 +879,6 @@
       "duration_ms": 217000,
       "name": "Blue Hair",
       "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
-    },
-    {
-      "added_at": "2023-08-14 17:48:03",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "Falling Behind",
-      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
     },
     {
       "added_at": "2023-06-09 16:12:25",

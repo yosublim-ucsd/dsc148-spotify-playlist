@@ -1,12 +1,12 @@
 {
   "description": "Unwind in time to these 70s classics.",
-  "num_followers": 278154,
+  "num_followers": 278268,
   "original_name": "Unwind 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTRkNzk3NTRjYmE5YjU5ODJlZDNlMTU2MWYyMTAyOTQzYjVhMzFk",
+  "snapshot_id": "MCw4OTBiYjc1MDgxNzg1Mzc2NTBlMWI2YWVlNDJjMTY1ZGI4OTNkYmU0",
   "tracks": [
     {
       "added_at": "2022-03-27 23:14:12",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
-    },
-    {
-      "added_at": "2022-03-27 23:14:12",
-      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 235546,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
+    },
+    {
+      "added_at": "2022-03-27 23:14:12",
+      "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
     },
     {
       "added_at": "2022-03-27 23:14:12",
@@ -251,22 +251,18 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
-        "name": "Rock Of The Westies",
-        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Kiki Dee",
-          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 275440,
-      "name": "Don't Go Breaking My Heart",
-      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
     },
     {
       "added_at": "2022-03-27 23:14:12",
@@ -287,18 +283,22 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+        "name": "Rock Of The Westies",
+        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
         }
       ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+      "duration_ms": 275440,
+      "name": "Don't Go Breaking My Heart",
+      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
     },
     {
       "added_at": "2022-03-27 23:14:12",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Imagine - Remastered 2010",
-      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
-    },
-    {
-      "added_at": "2022-03-27 23:14:12",
-      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2022-03-27 23:14:12",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
     },
     {
       "added_at": "2022-03-27 23:14:12",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
+    },
+    {
+      "added_at": "2022-03-27 23:14:12",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 288293,
       "name": "Boogie Wonderland",
       "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
-    },
-    {
-      "added_at": "2022-03-27 23:14:12",
-      "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2022-03-27 23:14:12",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 371413,
-      "name": "Heroes - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
-    },
-    {
-      "added_at": "2022-03-27 23:14:12",
-      "album": {
         "name": "Dancing in the Moonlight",
         "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 251253,
       "name": "The Logical Song - Remastered 2010",
       "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
+    },
+    {
+      "added_at": "2022-03-27 23:14:12",
+      "album": {
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 371413,
+      "name": "Heroes - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
     },
     {
       "added_at": "2022-03-27 23:14:12",

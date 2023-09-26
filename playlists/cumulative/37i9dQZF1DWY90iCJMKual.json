@@ -590,7 +590,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 205125,
       "name": "Did You Find It?",
       "url": "https://open.spotify.com/track/4PhW0Z9U99NPtPDT8Y8uhC"
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 236262,
       "name": "Sumama ka lang",
       "url": "https://open.spotify.com/track/2Jw6Yxw3yMcoWAqcpztG2l"
@@ -2826,6 +2826,24 @@
       "duration_ms": 210853,
       "name": "syf",
       "url": "https://open.spotify.com/track/65BmvLsQxNwcIlWyIDuHFe"
+    },
+    {
+      "album": {
+        "name": "T-Break",
+        "url": "https://open.spotify.com/album/6V7gUiVauT1wRvfg6akvHc"
+      },
+      "artists": [
+        {
+          "name": "Yzkk",
+          "url": "https://open.spotify.com/artist/25KaeIB4BrH1WpOG5dIV0n"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273764,
+      "name": "T-Break",
+      "url": "https://open.spotify.com/track/516epRJ6ppt3JwEuLPnAo1"
     },
     {
       "album": {
@@ -2888,6 +2906,24 @@
       "duration_ms": 213715,
       "name": "This Time",
       "url": "https://open.spotify.com/track/388tsCjEc8Qd8zfDdkXMB6"
+    },
+    {
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1XHoPyg3Dd7vjCMBmeNFnI"
+      },
+      "artists": [
+        {
+          "name": "KYLIX",
+          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215111,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/5L5AWDc2l60ERMyHcVEDvj"
     },
     {
       "album": {

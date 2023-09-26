@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 352785,
       "name": "Mere Humsafar",
       "url": "https://open.spotify.com/track/2g4xCC14UGf1wKLbH7cX5E"
@@ -2564,6 +2564,32 @@
       "duration_ms": 152277,
       "name": "So Gaya Yeh Jahan (From \"Bypass Road\")",
       "url": "https://open.spotify.com/track/6HlKDKcgvwjvWPrYIqMSaK"
+    },
+    {
+      "album": {
+        "name": "Yaariyan 2",
+        "url": "https://open.spotify.com/album/7ae6aMd39gAqmMfaPi9GUY"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Khalif",
+          "url": "https://open.spotify.com/artist/6oy4fbGgsI5HvPvMDxiN8s"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214714,
+      "name": "Sunny Sunny 2.O",
+      "url": "https://open.spotify.com/track/2BrlVkUZz1bnE7RGF7mFRq"
     },
     {
       "album": {

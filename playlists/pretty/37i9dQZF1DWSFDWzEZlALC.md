@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,516 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,780 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 19 | [streetsmart](https://open.spotify.com/track/0Qe3c6avosY3zD6m6nmK24) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [streetsmart](https://open.spotify.com/album/6dHxhtdsS5j3GxXbOr7T46) | 2:32 |
 | 20 | [zwischen allem und nichts](https://open.spotify.com/track/5UvTDAr7oqTU7e3Rm8hcjn) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [sommernacht <3](https://open.spotify.com/album/3fU8AScEC1AiQHfOSIL7hI) | 2:39 |
 | 21 | [Wenn die Sonne scheint](https://open.spotify.com/track/147m9a0XMGmDfX8bMAJ6Bg) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [Teenage Tears](https://open.spotify.com/album/5d7fleGCiM08wDF5vv3qW0) | 2:11 |
-| 22 | [Da für dich](https://open.spotify.com/track/5YP1scuRzU6LOgj7u1rnvt) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Da für dich](https://open.spotify.com/album/26JCG4Lq0kTAlmVOu6OBqt) | 3:16 |
+| 22 | [Da für dich](https://open.spotify.com/track/3NkJtlg9t7NhkyUMDetOHg) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:16 |
 | 23 | [Fürdichwürdich](https://open.spotify.com/track/2N5okxps0l2aLu01uWYE0H) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Für immer temporär](https://open.spotify.com/album/6cMHp64TomRwVrEJHIMJmd) | 2:12 |
 | 24 | [rosa rugosa](https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF) | [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [rosa rugosa](https://open.spotify.com/album/1ywF3kbsYJUOa0hxfbZY08) | 2:16 |
 | 25 | [Moshpit](https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Moshpit](https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY) | 2:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Irgendwo](https://open.spotify.com/track/1yJgf4ImIanoAfQudI60N7) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt), [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [Die Pointe](https://open.spotify.com/album/37bJUCwPLErO9HkGNJTJFs) | 2:57 |
 | 75 | [Alles Neu](https://open.spotify.com/track/1s3BpG01PThikupXaSwn9a) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Alles Neu](https://open.spotify.com/album/1fM6vzYrjVcN8RuC83bvhv) | 2:46 |
 
-Snapshot ID: `MCw3M2RiNDk3MDM5ODU5MTYzYzdiZjcxMmZiOTg4NDk0ODdhOTM5YTRm`
+Snapshot ID: `MCw2YWFkNzhlYmM5Y2Y1MDc5YmY3NjRiMWMzMjQ4ZmQ2ZWZiZmJkZTRl`

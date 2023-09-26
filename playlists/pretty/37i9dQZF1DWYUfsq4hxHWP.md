@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Dylan Gossett, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,010 likes - 165 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,069 likes - 165 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 164 | [All I Need](https://open.spotify.com/track/0ALoQRB70pKZ7uQJn73ayj) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [All I Need](https://open.spotify.com/album/4gZKOtJnkoalUg98BQONK8) | 2:51 |
 | 165 | [Heart Ain't Gonna Break Itself](https://open.spotify.com/track/7eEgQXDglOtRow46n0bcbh) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [Heart Ain't Gonna Break Itself](https://open.spotify.com/album/2ermdyMMGsZEvXe4tmMZBq) | 2:38 |
 
-Snapshot ID: `MCwxMDIyZTI0MWM1ZjU2NDU4NTlhOThhZDQ2ODg5ZGJkZDM0MGY2Yjc2`
+Snapshot ID: `MCw3YTc1ZWMyYjhhYzZmODYxNWU1Yzk2NzRmYjJhOGNiMDkxZjY1MDk5`

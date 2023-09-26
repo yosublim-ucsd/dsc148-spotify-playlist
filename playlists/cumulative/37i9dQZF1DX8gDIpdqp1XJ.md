@@ -4,11 +4,11 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-876 songs - 2 day 9 hr 24 min
+877 songs - 2 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 Steppin'](https://open.spotify.com/track/4cbV9dRnFNNsfc5B6RAbLX) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [2 Steppin'](https://open.spotify.com/album/7gEURTKTw4fIvmmnSxT16h) | 2:50 | 2023-05-26 |  |
+| [2 Steppin'](https://open.spotify.com/track/4cbV9dRnFNNsfc5B6RAbLX) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [2 Steppin'](https://open.spotify.com/album/7gEURTKTw4fIvmmnSxT16h) | 2:50 | 2023-05-26 | 2023-09-26 |
 | [2009](https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Aquarium Drunkard's Lagniappe Sessions](https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL) | 4:31 | 2021-06-04 | 2023-04-04 |
 | [20200820 Turn My TV On](https://open.spotify.com/track/7ab0dshQmFwArA3EKBOcs5) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 3:00 | 2023-04-21 | 2023-06-24 |
 | [4\-U](https://open.spotify.com/track/3rOzx4VaqWIUmeod4k6Nc9) | [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Talk to Me When I'm Sober](https://open.spotify.com/album/4yKXpjNgwKMszBOUXYEFiv) | 3:45 | 2021-04-02 | 2022-04-21 |
@@ -281,6 +281,7 @@
 | [Fuzz Jam](https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:26 | 2022-07-22 | 2023-03-07 |
 | [Gabo's Last Resort](https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Gabo's Last Resort / Hyakutake](https://open.spotify.com/album/2kIkz3jqtubvlQcnppphvV) | 3:48 | 2023-03-10 |  |
 | [Gamma Rays](https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Gamma Rays](https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3) | 4:20 | 2023-01-13 | 2023-04-09 |
+| [Gave U My Love](https://open.spotify.com/track/3Q4Pa5EybvFw8O5P3eVrMW) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 1:38 | 2023-09-25 |  |
 | [Gay Days \- Bonus Track](https://open.spotify.com/track/0ooYPyv6xa8EZYbigLcsAo) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Gay Days](https://open.spotify.com/album/5lQfWYN9oYdYFMakRSk8UA) | 3:30 | 2023-06-30 |  |
 | [Gelin Halayı](https://open.spotify.com/track/3f5tPuiyvrq4zTw4brN3pM) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Gelin Halayı / Dıv Dıv](https://open.spotify.com/album/6F8gxHLYlI7U6A2l5K1nxN) | 3:17 | 2021-04-02 | 2022-04-21 |
 | [Gem](https://open.spotify.com/track/4EWigRsUuQBFO7vCwTFFHW) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull](https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo) | 4:14 | 2023-04-04 | 2023-08-19 |

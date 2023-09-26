@@ -115,6 +115,24 @@
     },
     {
       "album": {
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166946,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
+    },
+    {
+      "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },

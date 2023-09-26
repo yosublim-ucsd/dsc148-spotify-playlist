@@ -1,12 +1,12 @@
 {
   "description": "The ultimate line-up of Summer anthems, strap in !!!",
-  "num_followers": 36605,
+  "num_followers": 36601,
   "original_name": "Summer: The Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWE5YjJiMzNkMDMzY2NhNzYzZjhiYzcyYzlhZWNjYjU5YzU5YWRk",
+  "snapshot_id": "MCxkN2JiNGZlYzhiOGE1N2VmMDg2OWM2ZWZmZDQzZmU3M2NjMjQxOWMx",
   "tracks": [
     {
       "added_at": "2023-02-28 16:56:35",
@@ -137,7 +137,7 @@
         }
       ],
       "duration_ms": 218093,
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "name": "Hips Don't Lie",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
@@ -159,50 +159,6 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
-        "name": "Peace Is The Mission (Extended)",
-        "url": "https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 176561,
-      "name": "Lean On",
-      "url": "https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG"
     },
     {
       "added_at": "2023-02-28 16:56:35",
@@ -235,22 +191,46 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+        "name": "Peace Is The Mission (Extended)",
+        "url": "https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         },
         {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         }
       ],
-      "duration_ms": 212862,
-      "name": "Don't You Worry Child - Radio Edit",
-      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
+      "duration_ms": 176561,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2023-02-28 16:56:35",
@@ -275,6 +255,26 @@
       "duration_ms": 179120,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
     },
     {
       "added_at": "2023-02-28 16:56:35",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
         "name": "Skrillex and Diplo present Jack \u00dc",
         "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 250285,
       "name": "Where Are \u00dc Now (with Justin Bieber)",
       "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
     },
     {
       "added_at": "2023-02-28 16:56:35",

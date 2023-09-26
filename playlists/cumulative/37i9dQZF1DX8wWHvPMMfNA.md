@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-638 songs - 1 day 16 hr 56 min
+641 songs - 1 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Body and Soul](https://open.spotify.com/track/3i373wW6lYwp4gkjoVw2uk) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Body and Soul](https://open.spotify.com/album/3Ao6Lz6auN7hcXvlDRxp3I) | 3:26 | 2023-09-22 | 2023-09-25 |
 | [Born To Be Blue](https://open.spotify.com/track/0q2B8hRHzThL8CTlzCv06e) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Tommy Flanagan Trio](https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu) | 4:21 | 2022-05-18 |  |
 | [Breakup Blues](https://open.spotify.com/track/3UAfrwiIszzcAlCIfpVF96) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Breakup Blues](https://open.spotify.com/album/2HdHsBiLbSjvx9GlS7cK3P) | 3:27 | 2023-08-10 |  |
-| [Bright Drops](https://open.spotify.com/track/6TgUk5sdJegSlgSqxsvqyf) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Bright Drops](https://open.spotify.com/album/0irXga7rgvezY56zr9ynVE) | 4:44 | 2023-06-01 |  |
+| [Bright Drops](https://open.spotify.com/track/6TgUk5sdJegSlgSqxsvqyf) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Bright Drops](https://open.spotify.com/album/0irXga7rgvezY56zr9ynVE) | 4:44 | 2023-06-01 | 2023-09-26 |
 | [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-11-11 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-11-11 |  |
 | [Broken Heart](https://open.spotify.com/track/15L7bPjJZDxhhaaY1pKbpK) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Broken Heart](https://open.spotify.com/album/0ywLNB1MSdhhPuyObPVKqh) | 3:53 | 2023-08-10 | 2023-09-04 |
@@ -120,6 +120,7 @@
 | [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-11-11 |  |
 | [Creepin' In \- Remastered](https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 7:26 | 2021-12-16 | 2022-11-11 |
 | [Crestfallen](https://open.spotify.com/track/2hMC0mu9GmXSqNDC1RmkYR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Crestfallen](https://open.spotify.com/album/66MHp6vMZ2jVzeyFLE3WgU) | 4:28 | 2023-06-01 |  |
+| [Crooked Politicians](https://open.spotify.com/track/3AxgIQQy36G89sU41UaIwb) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Crooked Politicians](https://open.spotify.com/album/4aqNCgPghtRszsF147PlAN) | 2:57 | 2023-09-22 |  |
 | [Cycles](https://open.spotify.com/track/3GaxNr64IWzj9FUhheY28E) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Cycles](https://open.spotify.com/album/7eP8ZPsn9f3GnR61fsIVji) | 3:40 | 2023-03-23 |  |
 | [Danny Boy](https://open.spotify.com/track/0CS1pTW0N61b4yqHYWmsBQ) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:36 | 2021-12-16 | 2022-10-16 |
 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 | 2023-06-01 | 2023-08-25 |
@@ -288,6 +289,7 @@
 | [It's Easy To Remember](https://open.spotify.com/track/1nMBhazQDRj2SdNxw4Gr0s) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads](https://open.spotify.com/album/65iE2klct5VviQiJSq9ygF) | 2:48 | 2021-12-16 | 2022-07-29 |
 | [It's Easy To Remember \- Live](https://open.spotify.com/track/2VLF3Q1yVvTwG32F5uW4z2) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tribute](https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx) | 7:08 | 2021-12-16 | 2023-08-20 |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-11-11 |  |
+| [It´s Wonderful](https://open.spotify.com/track/4fIrqRgwWZeHWx1xYzMk0z) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [It´s Wonderful](https://open.spotify.com/album/4NCJxvMwHsCIykqMx97Bew) | 3:12 | 2023-09-22 |  |
 | [It’s not a novel](https://open.spotify.com/track/2328JsPTUOHvx7eiEaIxJN) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [It’s not a novel](https://open.spotify.com/album/0L5iCQPDWPKVeccKPuclC0) | 3:12 | 2023-06-01 |  |
 | [I’m just on the road](https://open.spotify.com/track/5R6016N0exIZeQj0xAzI5k) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [I’m just on the road](https://open.spotify.com/album/45FXaj9wvYxVsEKRqEz3Ub) | 2:37 | 2023-06-01 |  |
 | [Jazz Noir](https://open.spotify.com/track/34X5CVjvYwM4yaPY1D8bAd) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Jazz Noir](https://open.spotify.com/album/3C4NdEsW6ibEIqZbXkxNf9) | 3:47 | 2023-08-10 |  |
@@ -445,6 +447,7 @@
 | [Quiet Sunset](https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:27 | 2023-02-23 |  |
 | [Railroads](https://open.spotify.com/track/5psq4yZ6YgYMIWoBRbHyAJ) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Railroads](https://open.spotify.com/album/1jjA7Gk47CSNweHOZDK65v) | 3:30 | 2023-06-01 |  |
 | [Red Roses](https://open.spotify.com/track/2bJ6vXeDbSvF2xngmc57UZ) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Red Roses](https://open.spotify.com/album/5Rz2VaBkjjV8gxfkBNycF8) | 2:48 | 2023-06-01 |  |
+| [Reflections in Blue](https://open.spotify.com/track/2vq1b2eqBWKZpxoVHECAGs) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Reflections in Blue](https://open.spotify.com/album/4y2Qcm0gdpw1ibhfj4QZD4) | 2:32 | 2023-09-22 |  |
 | [Remembering The Rain](https://open.spotify.com/track/3YMMHEfRPihLMV9L2BKrWT) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Remembering The Rain](https://open.spotify.com/album/1OIGPx7tRAreD3TfIVbMTT) | 3:22 | 2023-06-01 |  |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-11-11 |  |
 | [Reunited](https://open.spotify.com/track/6z85P76YGzmZdcGUYYeap6) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Reunited](https://open.spotify.com/album/0SQVcxNtMbuGXr6eBLC7VL) | 3:33 | 2023-06-15 |  |
@@ -458,7 +461,7 @@
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-11 |  |
 | [Salar de Uyuni](https://open.spotify.com/track/4lmHHLC06pFMx2gb7KnDJW) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Salar de Uyuni](https://open.spotify.com/album/3RcrtLDdMGa4pvCtV4AMkp) | 4:14 | 2023-06-01 |  |
 | [Sander](https://open.spotify.com/track/07VvD1Wz8hGKE2n6SEApWP) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [Sander](https://open.spotify.com/album/0oEU4hwkt4cel4aE2S9rZI) | 4:16 | 2023-06-15 |  |
-| [Say It Over And Over Again](https://open.spotify.com/track/2nivRlQMUpL7yDOS7hLPY9) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 3:20 | 2023-06-01 |  |
+| [Say It Over And Over Again](https://open.spotify.com/track/2nivRlQMUpL7yDOS7hLPY9) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 3:20 | 2023-06-01 | 2023-09-26 |
 | [Search For Peace](https://open.spotify.com/track/41pWty3Q37WlXCcXW4KfOA) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Search For Peace](https://open.spotify.com/album/0mUxdj9cQf9wZMOr5Ordnc) | 5:06 | 2023-06-01 |  |
 | [Self\-Portrait in Three Colors](https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 3:07 | 2021-12-16 | 2022-11-11 |
 | [Sentimental Moon](https://open.spotify.com/track/3PT4oQJCoeT5nEorYNHu50) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Sentimental Moon](https://open.spotify.com/album/2SrZx4X8lELW2IbFmLtJnK) | 4:04 | 2023-06-01 |  |
@@ -527,7 +530,7 @@
 | [That Ole Devil Called Love](https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:17 | 2022-01-26 |  |
 | [That's Nothing](https://open.spotify.com/track/211NFPThPEPKCoScvCAelb) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [That's Nothing](https://open.spotify.com/album/42d23WhadUq9ckCGfXMFaD) | 4:26 | 2023-06-01 |  |
 | [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-03-23 |  |
-| [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 | 2023-06-01 |  |
+| [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 | 2023-06-01 | 2023-09-26 |
 | [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-12 |  |
 | [The bag with cash](https://open.spotify.com/track/2UIP33RxIEfUCEFxY0gySi) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [The bag with cash](https://open.spotify.com/album/5nGxB4RGvlB9KdI5A09fFv) | 3:32 | 2023-08-10 |  |
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2023-06-01 |  |

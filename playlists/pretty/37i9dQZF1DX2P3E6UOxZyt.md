@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Jocelyn 9.4.0
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,895 likes - 72 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,905 likes - 72 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [揣摩](https://open.spotify.com/track/2iVgPTx2uGBwHzre52clg3) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:51 |
 | 72 | [東京夜晚聽著老派情歌](https://open.spotify.com/track/3e2FIKYgEfNb2PJObKCBfk) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [東京夜晚聽著老派情歌](https://open.spotify.com/album/4Ur25iRCAqsl1Aik9NNvJD) | 3:49 |
 
-Snapshot ID: `MCxhNTk4ODlhZTE2NWU3ZjQ5OThjMDdhM2I4YjQ3Y2NiZWU4ZGE2OTdi`
+Snapshot ID: `MCxjOGRmMDgzOTVlYTUzNTlkZTIzNjEyMmM3NjU5ZDhlODY4N2JlODJm`

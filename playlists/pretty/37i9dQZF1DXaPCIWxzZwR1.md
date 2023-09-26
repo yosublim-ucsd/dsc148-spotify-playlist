@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: David Kushner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,283,449 likes - 107 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,283,864 likes - 107 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 106 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 |
 | 107 | [Pretty In The Dark](https://open.spotify.com/track/3iuk1CB6yWPZDQ08WVOUjB) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Pretty In The Dark](https://open.spotify.com/album/3rH35zsxg2ppSufxr57UPw) | 2:56 |
 
-Snapshot ID: `MCwwYzA1MWE1Y2QzMTc0OWUwNjc1M2U0N2RkNmFjMDM4ZTRlZDA1ZWM3`
+Snapshot ID: `MCw1NTVlYTc3ZjRiN2JjNmI2M2I4MzA0YmY4ODljZjUyNWRiYmQ4ZmQ1`

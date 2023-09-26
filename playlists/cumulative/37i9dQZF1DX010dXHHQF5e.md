@@ -4,7 +4,7 @@
 
 > 
 
-362 songs - 19 hr 7 min
+365 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Darn That Dream](https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Darn That Dream](https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3) | 3:52 | 2023-03-23 |  |
 | [Day By Day](https://open.spotify.com/track/21rmrbV8sWD6G0DBErDASD) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Day By Day](https://open.spotify.com/album/2TLjiBB9ln1kQpKIzGapDN) | 3:11 | 2023-05-11 |  |
 | [Day Dream](https://open.spotify.com/track/0cWJ8W7tdobRmx362SLh6t) | [Madison Wynn\-Riley](https://open.spotify.com/artist/6q2hpvfVQLJUC04n4pjnBa) | [Day Dream](https://open.spotify.com/album/1O1g0LpkzUi1REzd2A8FCw) | 2:23 | 2023-09-22 |  |
-| [Days of Wine and Roses](https://open.spotify.com/track/2QRUDqfSSNCY6MpTUxP7We) | [Esther Davis](https://open.spotify.com/artist/42VoGaT6ypUMD1ZzOVu6hz) | [Days of Wine and Roses](https://open.spotify.com/album/0ymqZlyx7gyoeyV0RiG2uL) | 2:24 | 2023-03-23 |  |
+| [Days of Wine and Roses](https://open.spotify.com/track/2QRUDqfSSNCY6MpTUxP7We) | [Esther Davis](https://open.spotify.com/artist/42VoGaT6ypUMD1ZzOVu6hz) | [Days of Wine and Roses](https://open.spotify.com/album/0ymqZlyx7gyoeyV0RiG2uL) | 2:24 | 2023-03-23 | 2023-09-26 |
 | [Dear Old Stockholm](https://open.spotify.com/track/33aKJ1s1QC94WW868ygr3p) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Dear Old Stockholm](https://open.spotify.com/album/0OsqjFlBduMGeyZuh34U8b) | 2:40 | 2023-03-23 |  |
 | [Delusions](https://open.spotify.com/track/3ChiMcbwCPbw5hamXMt9CH) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 4:11 | 2023-06-08 | 2023-08-13 |
 | [Detour Ahead](https://open.spotify.com/track/3u2omsu82aD46ikO68QT8L) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Detour Ahead](https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih) | 4:27 | 2023-06-08 | 2023-09-14 |
@@ -101,6 +101,7 @@
 | [Figured Out](https://open.spotify.com/track/03xzKObUNNpLWE4VhYkgOV) | [Jimmy Udonis](https://open.spotify.com/artist/4GqHV4WkSR2W6K3llEOf4X) | [Figured Out](https://open.spotify.com/album/2YYkG47uGuKWyhcUW6VclR) | 3:04 | 2023-08-31 |  |
 | [Fine And Dandy](https://open.spotify.com/track/4RunbgDCYZnbNRrjVkioGK) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Fine And Dandy](https://open.spotify.com/album/0UEOR08g3eEEDoI4v6UJjY) | 2:07 | 2023-05-11 |  |
 | [First\-rate](https://open.spotify.com/track/3MJfmq7LwGPkzmFm0BBcph) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [First\-rate](https://open.spotify.com/album/6P8l5ZJ9uktJb9Shz2lnTM) | 3:14 | 2023-06-22 |  |
+| [Flaming Katy](https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Flaming Katy](https://open.spotify.com/album/3mlH54JsUWAjDCqUf2us5J) | 3:21 | 2023-09-22 |  |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2023-06-08 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 | 2023-03-23 |  |
 | [For All We Know](https://open.spotify.com/track/46YHnrTI0ZmXBOclUDsbI3) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:14 | 2023-03-23 |  |
@@ -149,6 +150,7 @@
 | [I'll Never Be The Same](https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [I'll Never Be The Same](https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg) | 2:27 | 2023-08-17 |  |
 | [I'll Take Romance](https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I'll Take Romance](https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq) | 3:09 | 2023-03-23 |  |
 | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 | 2023-03-23 |  |
+| [I'm Forever Yours](https://open.spotify.com/track/3fxTcNPr0YSZIg43iOArQr) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [I'm Forever Yours](https://open.spotify.com/album/3IdfFFoOqTGuSolYNM64wg) | 3:19 | 2023-09-22 |  |
 | [I'm Glad There Is You](https://open.spotify.com/track/0wAqaMAcQhd9Jk78XgqHWs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [I'm Glad There Is You](https://open.spotify.com/album/77MH1Wv80xJi7l26Ri1VaJ) | 4:46 | 2023-03-23 |  |
 | [I've got a crush on you](https://open.spotify.com/track/2xXLKAXQHnr3sBg37JvqWZ) | [James Earle](https://open.spotify.com/artist/0jwxdHbHsTwIrfc3IgCqa3) | [I've got a crush on you](https://open.spotify.com/album/6HXApr4Gro91aaXMUOH7ty) | 2:53 | 2023-05-11 |  |
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I've Grown Accustomed to Her Face](https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ) | 2:39 | 2023-03-23 |  |
@@ -160,7 +162,7 @@
 | [In Love In Vain](https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [In Love In Vain](https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT) | 2:54 | 2023-06-01 |  |
 | [In My Solitude](https://open.spotify.com/track/22NftQ2VUEMoD1DqUbi8rF) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [My Shining Hour](https://open.spotify.com/album/4RFgQUMZWRpdqP28HhEQH4) | 3:44 | 2023-03-23 |  |
 | [In Search of Lost Time](https://open.spotify.com/track/2vU0LYmrVaazWAah8UhPV3) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [In Search of Lost Time](https://open.spotify.com/album/5c3RmJbnZ42tbB5yccGvl8) | 3:04 | 2023-06-08 |  |
-| [In the Still of the Night](https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [In the Still of the Night](https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S) | 2:19 | 2023-05-04 |  |
+| [In the Still of the Night](https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [In the Still of the Night](https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S) | 2:19 | 2023-05-04 | 2023-09-26 |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2023-06-08 |  |
 | [Infant Eyes](https://open.spotify.com/track/5DxtTMAODwWNThoTt33YgQ) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Infant Eyes](https://open.spotify.com/album/7FMCO2zoEfzaHzpXoP8YZc) | 3:40 | 2023-04-20 |  |
 | [Intermission](https://open.spotify.com/track/6C60ydeEwcZKJzjrtBoVRm) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Intermission](https://open.spotify.com/album/7jDegbW9dR77LXTZVaQREZ) | 2:40 | 2023-08-24 |  |
@@ -243,7 +245,7 @@
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/6LP9BZW28pX0k7jimKZHwI) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Polka Dots And Moonbeams](https://open.spotify.com/album/40pHngJ4KeyHmdnvr7GV21) | 3:45 | 2023-06-08 | 2023-06-25 |
 | [Polka Dots and Moonbeams](https://open.spotify.com/track/7sVXqVvhTvRi8f9jdvh4Z0) | [Enzo Green](https://open.spotify.com/artist/5gP1SO0cGYBFIJZy7VG88p) | [I Fall in Love Too Easily](https://open.spotify.com/album/0RbnjRxCrpynyhiBsjf7Kj) | 4:08 | 2023-06-08 | 2023-09-25 |
 | [Poor Butterfly](https://open.spotify.com/track/2k2f9UhPGsOToc03hreM1X) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [My Blue Heaven](https://open.spotify.com/album/0gdVpIK1SWCHzpFSaO34Bf) | 2:21 | 2023-06-08 |  |
-| [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2023-03-23 |  |
+| [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2023-03-23 | 2023-09-26 |
 | [Raindrops Keep Fallin' on My Head](https://open.spotify.com/track/5moutRXGRI4DnhZ9UKtcnv) | [Playing To Pitch In](https://open.spotify.com/artist/6TRj5grL3SgjzITEJyMOx5), [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Raindrops Keep Fallin' on My Head](https://open.spotify.com/album/4UO6tHf2JzGt9vUwWmfM5R) | 1:54 | 2023-03-23 | 2023-09-14 |
 | [Rains diamonds](https://open.spotify.com/track/5y4uYShnlTpxgmq9igxXjt) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Rains diamonds](https://open.spotify.com/album/6H8IRrqFArtshNG4oP3oQV) | 2:54 | 2023-08-11 |  |
 | [Reflections](https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG) | [Lisa Livalli](https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR) | [Reflections](https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c) | 3:36 | 2023-03-23 |  |
@@ -254,6 +256,7 @@
 | [Ripples of a Stream](https://open.spotify.com/track/3EcrZOYXed9rQb9Y9SN8fX) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Ripples of a Stream](https://open.spotify.com/album/05KhWBwxnPe8RuqjvEOFxy) | 2:01 | 2023-03-23 |  |
 | [Rosetta](https://open.spotify.com/track/3v9ZFIFthJgy27ypoPUaij) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Rosetta](https://open.spotify.com/album/2Fhw8PxgpBbSEe8GNTzI3K) | 2:37 | 2023-08-11 |  |
 | [Round Midnight](https://open.spotify.com/track/48K9qO5shnoV2kjZi5n4aj) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [Round Midnight](https://open.spotify.com/album/1U9wFo9e4BQz7JuYmjXkTo) | 3:50 | 2023-03-23 |  |
+| [Ruby](https://open.spotify.com/track/5x2hTynUs8yDiSpVgGpr7l) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [Ruby](https://open.spotify.com/album/13zd5VDn9IMCQllBEg0xKK) | 2:56 | 2023-09-22 |  |
 | [S Wonderful](https://open.spotify.com/track/7FMLsi2Ix1FkyADYRYMA8I) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [S Wonderful](https://open.spotify.com/album/2l9fjk2KJyZ8wWOihLvCCM) | 2:43 | 2023-08-24 |  |
 | [Sad Eyes](https://open.spotify.com/track/1EOmCGRp5PYbRJ5gKQeDeF) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Sad Eyes](https://open.spotify.com/album/4fgNlENNCWFn1lnYYzih0B) | 3:44 | 2023-06-08 | 2023-08-13 |
 | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/track/3Aon4cYBKcNb5RLopJPPrG) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/album/4Oqx0PEt8Yvw4YezkBu3vv) | 2:01 | 2023-06-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellas grandes canciones desenchufadas.",
-  "num_followers": 1077344,
+  "num_followers": 1077415,
   "original_name": "Grandes Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTIxNTc2MTRlOTU4MmVmZjk4ZjQ4MzZhMTExNjY4NWM1NTgyNDll",
+  "snapshot_id": "MCw3MzU4MDE1NDM1ODJhMGYyYWI5Yzk3ZGZjODUwNDE3YjYyNGMwMjll",
   "tracks": [
     {
       "added_at": "2021-02-10 21:16:07",
@@ -111,22 +111,6 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "So\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
@@ -163,6 +147,38 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Tears in Heaven - Acoustic Live",
+      "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "So\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
         "name": "MTV Unplugged In New York",
         "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
       },
@@ -175,6 +191,26 @@
       "duration_ms": 218000,
       "name": "About A Girl - Live",
       "url": "https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "La Ley MTV Unplugged",
+        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        },
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 328906,
+      "name": "El Duelo (feat. Ely Guerra)",
+      "url": "https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8"
     },
     {
       "added_at": "2021-02-10 21:16:07",
@@ -227,18 +263,22 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+        "name": "Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends",
+        "url": "https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        },
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic Live",
-      "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
+      "duration_ms": 281000,
+      "name": "Golpes En El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0Ft9dBN6vm9bhvGaUPHyYO"
     },
     {
       "added_at": "2021-02-10 21:16:07",
@@ -263,82 +303,6 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "La Ley MTV Unplugged",
-        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        },
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 328906,
-      "name": "El Duelo (feat. Ely Guerra)",
-      "url": "https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Luna - En Vivo",
-      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends",
-        "url": "https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        },
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Golpes En El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0Ft9dBN6vm9bhvGaUPHyYO"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 237873,
-      "name": "De Nada Sirve",
-      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
         "name": "MTV Unplugged. El Libro De Las Mutaciones",
         "url": "https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h"
       },
@@ -359,6 +323,22 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Luna - En Vivo",
+      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
         "name": "MTV Unplugged - Summer Solstice",
         "url": "https://open.spotify.com/album/55SHqC4ZxSnT0wWQgg9eOY"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 253906,
       "name": "Take On Me - MTV Unplugged",
       "url": "https://open.spotify.com/track/7htt7UuxHL5wneOcMWJP5E"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 237873,
+      "name": "De Nada Sirve",
+      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
     },
     {
       "added_at": "2021-02-10 21:16:07",
@@ -423,26 +423,6 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 312442,
-      "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
-      "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
       },
@@ -455,22 +435,6 @@
       "duration_ms": 237653,
       "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged In New York",
-        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "All Apologies - Live",
-      "url": "https://open.spotify.com/track/3bH8PZsfbCRIoeNiFm7JmU"
     },
     {
       "added_at": "2021-02-10 21:16:07",
@@ -491,6 +455,26 @@
       "duration_ms": 275440,
       "name": "Sue\u00f1os (with Julieta Venegas) - MTV Unplugged",
       "url": "https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 312442,
+      "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
+      "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
     },
     {
       "added_at": "2021-02-10 21:16:07",
@@ -555,6 +539,22 @@
       "duration_ms": 231874,
       "name": "\u00daltimos D\u00edas - En Vivo",
       "url": "https://open.spotify.com/track/47NLimerGALH038upaVAwD"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "All Apologies - Live",
+      "url": "https://open.spotify.com/track/3bH8PZsfbCRIoeNiFm7JmU"
     },
     {
       "added_at": "2021-02-10 21:16:07",

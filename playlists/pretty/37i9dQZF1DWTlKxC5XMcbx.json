@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 58296,
+  "num_followers": 58344,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTEwNjA5YTYxMTVjYTIzZjI1ODM2OGJlMGQwOThlNmUyYjc2NGYx",
+  "snapshot_id": "MCw1YmQ5OTZkZjEzOTIwYmRiZTBmNDg0YWRjMDY0MjljNjlkYjRiNDI1",
   "tracks": [
     {
       "added_at": "2023-09-18 02:36:13",
@@ -55,22 +55,6 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "It's Easy To Remember",
-      "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
-    },
-    {
-      "added_at": "2023-09-18 02:36:13",
-      "album": {
         "name": "Night Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 306226,
       "name": "I Got It Bad And That Ain't Good",
       "url": "https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE"
+    },
+    {
+      "added_at": "2023-09-18 02:36:13",
+      "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "It's Easy To Remember",
+      "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
     },
     {
       "added_at": "2023-09-18 02:36:13",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
+        "name": "Today And Tomorrow",
+        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 282320,
+      "name": "When Sunny Gets Blue",
+      "url": "https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU"
+    },
+    {
+      "added_at": "2023-09-18 02:36:13",
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 319733,
       "name": "My Little Brown Book",
       "url": "https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN"
-    },
-    {
-      "added_at": "2023-09-18 02:36:13",
-      "album": {
-        "name": "Today And Tomorrow",
-        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 282320,
-      "name": "When Sunny Gets Blue",
-      "url": "https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU"
     },
     {
       "added_at": "2023-09-18 02:36:13",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
+        "name": "Quiet Kenny",
+        "url": "https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Alone Together - Rudy Van Gelder Remaster 2006",
+      "url": "https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO"
+    },
+    {
+      "added_at": "2023-09-18 02:36:13",
+      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -263,38 +279,6 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
-        "name": "Mingus Ah Um",
-        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 342373,
-      "name": "Goodbye Pork Pie Hat",
-      "url": "https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz"
-    },
-    {
-      "added_at": "2023-09-18 02:36:13",
-      "album": {
-        "name": "Quiet Kenny",
-        "url": "https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Alone Together - Rudy Van Gelder Remaster 2006",
-      "url": "https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO"
-    },
-    {
-      "added_at": "2023-09-18 02:36:13",
-      "album": {
         "name": "Recorded Fall '61",
         "url": "https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 419626,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM"
+    },
+    {
+      "added_at": "2023-09-18 02:36:13",
+      "album": {
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 342373,
+      "name": "Goodbye Pork Pie Hat",
+      "url": "https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz"
     },
     {
       "added_at": "2023-09-18 02:36:13",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
-        "name": "Whiplash (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 89026,
-      "name": "Fletcher's Song In Club",
-      "url": "https://open.spotify.com/track/0ZFortLKtHTKy7YtuJiubt"
-    },
-    {
-      "added_at": "2023-09-18 02:36:13",
-      "album": {
         "name": "The New Classic Trio",
         "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
-        "name": "Ordet",
-        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
       },
       "artists": [
         {
-          "name": "Bremer/McCoy",
-          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
         }
       ],
-      "duration_ms": 118400,
-      "name": "Forenet",
-      "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
+      "duration_ms": 89026,
+      "name": "Fletcher's Song In Club",
+      "url": "https://open.spotify.com/track/0ZFortLKtHTKy7YtuJiubt"
     },
     {
       "added_at": "2023-09-18 02:36:13",
@@ -411,6 +395,22 @@
       "duration_ms": 404160,
       "name": "Peace Piece",
       "url": "https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de"
+    },
+    {
+      "added_at": "2023-09-18 02:36:13",
+      "album": {
+        "name": "Ordet",
+        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
+      },
+      "artists": [
+        {
+          "name": "Bremer/McCoy",
+          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "Forenet",
+      "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
     },
     {
       "added_at": "2023-09-18 02:36:13",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
+        "name": "Today And Now",
+        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins Quartet",
+          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Love Song From \"Apache\"",
+      "url": "https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq"
+    },
+    {
+      "added_at": "2023-09-18 02:36:13",
+      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
-        "name": "Today And Now",
-        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins Quartet",
-          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Love Song From \"Apache\"",
-      "url": "https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq"
-    },
-    {
-      "added_at": "2023-09-18 02:36:13",
-      "album": {
         "name": "Go! (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 322000,
       "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition/Remastered 1999",
       "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
-    },
-    {
-      "added_at": "2023-09-18 02:36:13",
-      "album": {
-        "name": "Tuesday Wonderland",
-        "url": "https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y"
-      },
-      "artists": [
-        {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Where We Used to Live",
-      "url": "https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9"
     },
     {
       "added_at": "2023-09-18 02:36:13",
@@ -635,18 +619,18 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+        "name": "Tuesday Wonderland",
+        "url": "https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
         }
       ],
-      "duration_ms": 258040,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy"
+      "duration_ms": 267173,
+      "name": "Where We Used to Live",
+      "url": "https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9"
     },
     {
       "added_at": "2023-09-18 02:36:13",
@@ -663,6 +647,22 @@
       "duration_ms": 405226,
       "name": "I'm A Fool To Want You",
       "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
+    },
+    {
+      "added_at": "2023-09-18 02:36:13",
+      "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 258040,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy"
     },
     {
       "added_at": "2023-09-18 02:36:13",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 442226,
+      "name": "Strange Meadow Lark",
+      "url": "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
+    },
+    {
+      "added_at": "2023-09-18 02:36:13",
+      "album": {
         "name": "Tranquillo II",
         "url": "https://open.spotify.com/album/0YijaagftFAOjGIfwFwji3"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 212640,
       "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano & Bass)",
       "url": "https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X"
-    },
-    {
-      "added_at": "2023-09-18 02:36:13",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 442226,
-      "name": "Strange Meadow Lark",
-      "url": "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
     },
     {
       "added_at": "2023-09-18 02:36:13",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 426800,
-      "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
-    },
-    {
-      "added_at": "2023-09-18 02:36:13",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 392733,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/1vP5Ceh1SrfOalU8Yc3XE9"
+    },
+    {
+      "added_at": "2023-09-18 02:36:13",
+      "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 426800,
+      "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
     },
     {
       "added_at": "2023-09-18 02:36:13",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 477760,
-      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
-    },
-    {
-      "added_at": "2023-09-18 02:36:13",
-      "album": {
         "name": "Here's Love",
         "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 212586,
       "name": "My Wish",
       "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
+    },
+    {
+      "added_at": "2023-09-18 02:36:13",
+      "album": {
+        "name": "Blue Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 477760,
+      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
     },
     {
       "added_at": "2023-09-18 02:36:13",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 287373,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
+    },
+    {
+      "added_at": "2023-09-18 02:36:13",
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
-    },
-    {
-      "added_at": "2023-09-18 02:36:13",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 287373,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
     },
     {
       "added_at": "2023-09-18 02:36:13",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-09-18 02:36:13",
       "album": {
+        "name": "Bob Acri",
+        "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
+      },
+      "artists": [
+        {
+          "name": "Bob Acri",
+          "url": "https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Sleep Away",
+      "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
+    },
+    {
+      "added_at": "2023-09-18 02:36:13",
+      "album": {
         "name": "It Never Entered My Mind",
         "url": "https://open.spotify.com/album/3nqEfqV0hlxvOegVjThfKq"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 375276,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/6zGHpPBJFxudCfvrCmo6EF"
-    },
-    {
-      "added_at": "2023-09-18 02:36:13",
-      "album": {
-        "name": "Bob Acri",
-        "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
-      },
-      "artists": [
-        {
-          "name": "Bob Acri",
-          "url": "https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Sleep Away",
-      "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
     },
     {
       "added_at": "2023-09-18 02:36:13",

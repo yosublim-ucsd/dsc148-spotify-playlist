@@ -2,7 +2,7 @@
 
 ### [after school club 🪄](https://open.spotify.com/playlist/37i9dQZF1DX24HW7kIIcEV)
 
-> Yay me! Starring London Tipton 🩷
+> this is what dreams are made of!
 
 119 songs - 6 hr 30 min
 

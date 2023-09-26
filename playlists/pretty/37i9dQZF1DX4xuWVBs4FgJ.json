@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 1606724,
+  "num_followers": 1606889,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjI5YWQ4OGFhNjU2ODFiZGY3MTQ3ZDYyMWQ2OTZlMDJmM2VhMjcw",
+  "snapshot_id": "MCwzZDUxNzkwMjI4YmM2MjE1N2MwMDhiNjAzOGM1MTBlNzJiN2U5M2M2",
   "tracks": [
     {
       "added_at": "2023-09-22 04:01:00",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8"
       },
@@ -179,22 +195,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "So Tonight That I Might See",
         "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "Falling Behind",
-      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
@@ -239,6 +223,26 @@
       "duration_ms": 241786,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Dawns (feat. Maggie Rogers)",
+        "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 290892,
+      "name": "Dawns (feat. Maggie Rogers)",
+      "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -275,6 +279,22 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
@@ -287,22 +307,6 @@
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -323,22 +327,18 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Dawns (feat. Maggie Rogers)",
-        "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 290892,
-      "name": "Dawns (feat. Maggie Rogers)",
-      "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 223119,
-      "name": "Tennessee Orange",
-      "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
         "name": "Ashlyn",
         "url": "https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 222926,
       "name": "Till Forever Falls Apart",
       "url": "https://open.spotify.com/track/4x5YzxjrF9wvIIXJV7TveC"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
-        }
-      ],
-      "duration_ms": 286493,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "If You Love Her",
-        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 217351,
-      "name": "If You Love Her",
-      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 178000,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 217351,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Ten Summoner's Tales",
-        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 222120,
-      "name": "Fields Of Gold",
-      "url": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 286920,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 222120,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 217480,
       "name": "Almost (Sweet Music)",
       "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 240439,
-      "name": "Water Under the Bridge",
-      "url": "https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
       "artists": [
         {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 208080,
-      "name": "To Be With You - 2021 Remastered",
-      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
+      "duration_ms": 240439,
+      "name": "Water Under the Bridge",
+      "url": "https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 208040,
       "name": "WY@",
       "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "To Be With You - 2021 Remastered",
+      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Evangeline",
-        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177880,
-      "name": "Evangeline",
-      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "These Streets",
         "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 220413,
       "name": "Last Request",
       "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177880,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 191207,
-      "name": "The Show",
-      "url": "https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs"
+      "duration_ms": 286386,
+      "name": "I Guess I Just Feel Like",
+      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 286386,
-      "name": "I Guess I Just Feel Like",
-      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Baby, It's Okay",
         "url": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 219013,
       "name": "You're Somebody Else",
       "url": "https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 191207,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs"
     },
     {
       "added_at": "2023-09-22 04:01:00",

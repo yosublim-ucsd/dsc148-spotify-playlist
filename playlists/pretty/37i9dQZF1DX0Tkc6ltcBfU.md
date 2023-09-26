@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,281 likes - 76 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,474 likes - 76 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 6 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
 | 7 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 |
 | 8 | [Turks & Caicos \(feat\. 21 Savage\)](https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 3:23 |
-| 9 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:33 |
+| 9 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
 | 10 | [CRUEL WORLD](https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [CRUEL WORLD](https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC) | 2:27 |
 | 11 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj) | 3:37 |
 | 12 | [Boyz Don't Cry](https://open.spotify.com/track/5VXGNoY8O9qRJUYMciPTfc) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Boyz Don't Cry](https://open.spotify.com/album/5B5ysW40MnOKxVz2GRq1cz) | 2:46 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 75 | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/58Oj2g9GDO4xYKrtgDNeUv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:09 |
 | 76 | [Knowing \(feat\. BigWalkDog\)](https://open.spotify.com/track/6tZkiw9Uw6kYQyINbsUCZV) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Knowing \(feat\. BigWalkDog\)](https://open.spotify.com/album/1A8BuBrelEEYmBRPwYQYWs) | 2:53 |
 
-Snapshot ID: `MCxmYTUxOTdlMWE5YzAxZWY0NzNiYmNkNmQ1MmI4MzQ1M2QxMGQzNDFk`
+Snapshot ID: `MCw5N2U0ZmI2ZWQ4MWIzMjg5MzUzMDAxYzBkOWZiMjQ3ZTc1ZTQwMjQw`

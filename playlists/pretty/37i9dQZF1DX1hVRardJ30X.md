@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Shakira & Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,781 likes - 56 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,049 likes - 56 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 55 | [Esperando por ti](https://open.spotify.com/track/5dyRgwV3k4EJhU42qiKAGr) | [Alcover](https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo) | [Esperando por ti](https://open.spotify.com/album/31E7FllV2lrhSbY2Yfg06v) | 2:39 |
 | 56 | [Lil Shawty](https://open.spotify.com/track/54S2DEOEey8ylkNco8sWRB) | [YUNG BOI](https://open.spotify.com/artist/2IZTXLWKJGbmFiqly8VmvG) | [PLUGGTVLK](https://open.spotify.com/album/2coEPyeo8FulWe2LOp6Aqc) | 2:28 |
 
-Snapshot ID: `MCw5YWUzM2RkNDk1NjU5NWI5YjFjODUxOGNiNmM1MWRhZDg1NTE3NGRj`
+Snapshot ID: `MCxmMDFlNWE3ZWE4NTY3MTUwNjYwY2IxNDc3M2Q1NGRlMjYwZWUxMmVm`

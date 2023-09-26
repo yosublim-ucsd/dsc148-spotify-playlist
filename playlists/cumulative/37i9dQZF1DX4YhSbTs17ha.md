@@ -4,7 +4,7 @@
 
 > Las canciones de pop más exitosas en México\. Ricky Martin y Christian Nodal en portada.
 
-390 songs - 21 hr 7 min
+391 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Dime Que Sí](https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Dime Que Sí](https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs) | 4:34 | 2022-02-18 | 2022-08-27 |
 | [DIME QUIÉN????](https://open.spotify.com/track/186Mx1PHhT87YfoBCV93Wx) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 2:44 | 2022-11-25 | 2023-01-17 |
 | [Diosa](https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Diosa](https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG) | 3:06 | 2023-06-23 | 2023-09-09 |
-| [Dos Corazones](https://open.spotify.com/track/7m4kCkv68FyL1Sl1eAzSj6) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:34 | 2023-08-25 |  |
+| [Dos Corazones](https://open.spotify.com/track/7m4kCkv68FyL1Sl1eAzSj6) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:34 | 2023-08-25 | 2023-09-26 |
 | [Dos Veces](https://open.spotify.com/track/1OBAWijV9qQIBu5fCHRomS) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Dos Veces](https://open.spotify.com/album/4BchCVcAvu2fNGjqiqFFJe) | 2:25 | 2022-02-04 | 2022-03-09 |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2022-02-04 | 2022-02-12 |
 | [Dámelo](https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Dámelo](https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC) | 3:03 | 2023-09-08 | 2023-09-24 |
@@ -160,6 +160,7 @@
 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 | 2022-10-01 | 2023-07-29 |
 | [Kaprichosa](https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Kaprichosa](https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o) | 3:20 | 2022-02-04 | 2022-02-19 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-08-01 |  |
+| [La Carta](https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [La Carta](https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3) | 3:03 | 2023-09-25 |  |
 | [La Chama](https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Chama](https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy) | 3:12 | 2022-09-09 | 2022-10-02 |
 | [La Esquina del Mall](https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Esquina del Mall](https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8) | 3:27 | 2022-10-31 |  |
 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU) | 3:08 | 2022-02-04 | 2022-05-07 |

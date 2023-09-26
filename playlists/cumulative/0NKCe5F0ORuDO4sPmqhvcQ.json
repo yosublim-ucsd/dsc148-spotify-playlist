@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0RS8mVII3i0aAhTWcsMpG2"
+      },
+      "artists": [
+        {
+          "name": "Dugong Jr",
+          "url": "https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239792,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/3jhHrxY2eyV4zciR8WfzIc"
+    },
+    {
+      "album": {
         "name": "Chasing Paradise (with slenderbodies)",
         "url": "https://open.spotify.com/album/0B3RsQ68U3zlZlGmO1kIsi"
       },
@@ -1662,10 +1680,46 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 247558,
       "name": "Circuit Current",
       "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
+    },
+    {
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/7fbeQTIwseCf228aAhm2Ys"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229253,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/5ZQByqMsu8cb3X79WWRljG"
+    },
+    {
+      "album": {
+        "name": "Closer To You / Make Yourself At Home",
+        "url": "https://open.spotify.com/album/6g2yAFcr82CEv9ONmcfntZ"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Closer To You",
+      "url": "https://open.spotify.com/track/64UCdNSBP51U28Uduj1KiI"
     },
     {
       "album": {
@@ -3885,6 +3939,28 @@
     },
     {
       "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/7Fixp63EZJVwpQduqCJCBi"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        },
+        {
+          "name": "John Alto",
+          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140806,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/3OLuiRmi5DtpHq8SZiCtW3"
+    },
+    {
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
       },
@@ -5908,7 +5984,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 182307,
       "name": "Motion",
       "url": "https://open.spotify.com/track/09Gw3c0YxUGPVCrj2GXbSF"
@@ -7438,7 +7514,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 182126,
       "name": "RUN IT",
       "url": "https://open.spotify.com/track/7FM239I0HJpFFw7VFevY2Z"
@@ -9065,6 +9141,32 @@
     },
     {
       "album": {
+        "name": "The One You Call",
+        "url": "https://open.spotify.com/album/1r53rl1GB5DQ2Xuw99dreK"
+      },
+      "artists": [
+        {
+          "name": "Tom Ferry",
+          "url": "https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA"
+        },
+        {
+          "name": "WILL MAC",
+          "url": "https://open.spotify.com/artist/5jH1Szsgrub3R1WQHlzByy"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228188,
+      "name": "The One You Call",
+      "url": "https://open.spotify.com/track/6a3FrmdRlDvSOUH1I2caev"
+    },
+    {
+      "album": {
         "name": "Until It Isn't",
         "url": "https://open.spotify.com/album/0PUh79wOZHNlFddJytsl9z"
       },
@@ -9942,7 +10044,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 176248,
       "name": "Westside",
       "url": "https://open.spotify.com/track/397VHjYaU6hhu78CdPuop7"
@@ -10220,7 +10322,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 156363,
       "name": "You",
       "url": "https://open.spotify.com/track/4bEhrJXoZuzVxZxiP8jzfs"

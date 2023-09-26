@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Soccer Mommy
 
-419 songs - 1 day 1 hr 40 min
+420 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bloodbuzz Ohio](https://open.spotify.com/track/2pfkaHd8arhESSxyJAou6g) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Bloodbuzz Ohio](https://open.spotify.com/album/6SSiMdf8Hsgojfo8MvjIPq) | 4:39 | 2021-03-12 | 2022-07-03 |
 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 | 2021-03-12 |  |
 | [Born to Die \- piano](https://open.spotify.com/track/1wxgqctPgzOjJtQWVKlTfV) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Piano Salt EP](https://open.spotify.com/album/715OP1HtF5iNmF7yCVvPgk) | 4:25 | 2021-03-12 | 2022-07-29 |
+| [Both Sides Now](https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities 2](https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH) | 3:52 | 2023-09-22 |  |
 | [Boys Don’t Cry](https://open.spotify.com/track/2QxUePxZqeoBynXxt093Ts) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ \(Deluxe Edition\)](https://open.spotify.com/album/5ailYYtAaFrrb9TYNlJOri) | 3:15 | 2021-11-19 | 2022-04-10 |
 | [Bruises](https://open.spotify.com/track/065dXQK2VPxThlb9qoOljB) | [Anke Richards](https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF) | [Bruises](https://open.spotify.com/album/2JvhdvKblz0NVv1G0HNsUN) | 3:32 | 2023-06-16 | 2023-07-21 |
 | [Build Me Up Buttercup](https://open.spotify.com/track/5bt5mhA34P1Dncbik5EGeJ) | [Lara Anderson](https://open.spotify.com/artist/0ijXDXPqvo3fzBrGpVjpV4) | [Build Me Up Buttercup](https://open.spotify.com/album/75pu09lJh763j3ymMi9Fn5) | 2:55 | 2021-03-12 | 2023-07-21 |
@@ -105,7 +106,7 @@
 | [Don't Speak](https://open.spotify.com/track/5GFOBEhxOYCG2yM8vBgtdD) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [A Change Is Gonna Come \(U.S\. Release\)](https://open.spotify.com/album/1PI1juIuPm3zq1nIOBJl5S) | 4:43 | 2021-03-12 | 2022-04-10 |
 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 | 2021-03-12 | 2022-08-10 |
 | [Don't You Want Me](https://open.spotify.com/track/6gREYnl1rgTBE06YIDZheT) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7uFQTjB1C5Wa61owwtrYJ3) | 3:19 | 2021-03-12 | 2022-07-23 |
-| [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 | 2021-03-19 |  |
+| [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 | 2021-03-19 | 2023-09-26 |
 | [Dreams](https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 2:55 | 2023-03-17 | 2023-04-29 |
 | [Dreams](https://open.spotify.com/track/5RWbKDWHNFzmGar0rIiEev) | [JST FRNDS](https://open.spotify.com/artist/7liK6kUh6nKLH7NpvU1PLQ) | [Dreams](https://open.spotify.com/album/524NcQjDgENatNMySqXIde) | 4:21 | 2021-03-12 | 2022-06-10 |
 | [Dreams](https://open.spotify.com/track/5Ppp9IJc7xKMImEhwBTR0n) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Dreams](https://open.spotify.com/album/0SSyy4oYR6KxnQN8bPeK6r) | 4:19 | 2021-03-12 | 2022-04-21 |

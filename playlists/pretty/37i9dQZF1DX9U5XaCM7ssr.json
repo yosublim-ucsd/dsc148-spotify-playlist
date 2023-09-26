@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1100465,
+  "num_followers": 1100961,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODkzYWUxNmQ2ZmM2NzI4MTA1MTYzMzU5MDc1ZmYwNjlkNmZmNzY2",
+  "snapshot_id": "MCwxNGRlY2Q0NTgyZjkxZTQzMTYxYmM5NWU1ZDdiYjk0OGMxZWViMTk5",
   "tracks": [
     {
       "added_at": "2023-09-20 04:41:20",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-09-20 04:41:20",
       "album": {
-        "name": "Sang Dewi",
-        "url": "https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        },
-        {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
-        }
-      ],
-      "duration_ms": 247993,
-      "name": "Sang Dewi",
-      "url": "https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5"
-    },
-    {
-      "added_at": "2023-09-20 04:41:20",
-      "album": {
         "name": "Sheila On 7",
         "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 256867,
       "name": "if u could see me cryin' in my room",
       "url": "https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP"
+    },
+    {
+      "added_at": "2023-09-20 04:41:20",
+      "album": {
+        "name": "Sang Dewi",
+        "url": "https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "duration_ms": 247993,
+      "name": "Sang Dewi",
+      "url": "https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5"
     }
   ],
   "unique_name": "Generasi Galau",

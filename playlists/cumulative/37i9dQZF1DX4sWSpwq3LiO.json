@@ -14027,6 +14027,24 @@
     },
     {
       "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
+      },
+      "artists": [
+        {
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125308,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
+    },
+    {
+      "album": {
         "name": "Highlands",
         "url": "https://open.spotify.com/album/1KPOY59AEk9XcuiZVLH231"
       },
@@ -16588,6 +16606,24 @@
       "duration_ms": 171071,
       "name": "Nocturnes op.4",
       "url": "https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu"
+    },
+    {
+      "album": {
+        "name": "Nokt\u00farna Variations",
+        "url": "https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Nokt\u00farna - Upright Piano",
+      "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
     },
     {
       "album": {
@@ -26844,6 +26880,24 @@
       "duration_ms": 144256,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8"
+    },
+    {
+      "album": {
+        "name": "Under a tree",
+        "url": "https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn"
+      },
+      "artists": [
+        {
+          "name": "Janet Redger",
+          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138442,
+      "name": "Under a tree",
+      "url": "https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm"
     },
     {
       "album": {

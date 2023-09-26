@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,328 songs - 3 day 3 hr 50 min
+1,329 songs - 3 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [Kilos](https://open.spotify.com/track/0SO1znGNPqLM3PW1hmYVNv) | [Tombz](https://open.spotify.com/artist/6lib5PryDEdaqbVKPgIMbC), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 5:31 | 2022-06-03 | 2022-06-11 |
 | [Kink](https://open.spotify.com/track/5xlvJqEqgz0r54vX3IeqnG) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [Kink](https://open.spotify.com/album/22hHpWWORlMgmXH0GTcQAH) | 4:21 | 2022-07-09 | 2022-07-16 |
 | [Kiss It Better](https://open.spotify.com/track/0Aj52AQxkYz7cn0RN4tCrA) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Kiss It Better](https://open.spotify.com/album/5agOlrVME8BwiJ9WHKugq3) | 4:17 | 2022-09-30 | 2022-10-08 |
+| [Kissing New People \(feat\. Ty Dolla $ign\) \(Keeld Remix\)](https://open.spotify.com/track/0ZzCCQBq0jANlEFYsC1QRq) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Keeld](https://open.spotify.com/artist/4JU2KBLwvIFo9iH3a2FtCT) | [When I Hear Your Name \(Remixes\)](https://open.spotify.com/album/2YjWVloHIlkLR6NE6ja2KE) | 3:56 | 2023-09-25 |  |
 | [KLK](https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [KLK](https://open.spotify.com/album/2tPFlCPO1HxQ8DJFc5QLw3) | 3:10 | 2023-01-21 | 2023-01-29 |
 | [Krank](https://open.spotify.com/track/2mpoYNw6rfN2aTIPMWMRvv) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX) | [Krank](https://open.spotify.com/album/0yoJL72KD6KmXNGMfv2WBg) | 3:46 | 2022-10-28 | 2022-11-06 |
 | [KUFF](https://open.spotify.com/track/3OaBKrVRu24DwPVfFBZ2Ap) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [Mike Epsse](https://open.spotify.com/artist/7sLCily4K5uTgTA8iOTHPd) | [KUFF](https://open.spotify.com/album/5UWVCVX6zdCq7LM98BX02e) | 2:52 | 2023-01-06 | 2023-01-14 |

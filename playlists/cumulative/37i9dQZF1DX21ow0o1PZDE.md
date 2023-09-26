@@ -2,7 +2,7 @@
 
 ### [Mega Éxitos 2023](https://open.spotify.com/playlist/37i9dQZF1DX21ow0o1PZDE)
 
-> Todos los grandes éxitos del año, reunidos en un solo lugar\. Fuerza Regida en portada.
+> Todos los grandes éxitos del año, reunidos en un solo lugar\. Carin Leon en portada.
 
 379 songs - 21 hr 13 min
 

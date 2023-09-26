@@ -4,7 +4,7 @@
 
 > Diese Songs zaubern dir ein Grinsen ins Gesicht.
 
-109 songs - 6 hr 6 min
+110 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [How 2 Dance](https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [How 2 Dance](https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp) | 2:43 | 2023-07-20 |  |
 | [hunger](https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [hunger](https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg) | 3:11 | 2023-07-20 |  |
 | [I Swear It's True](https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [I Swear It's True](https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va) | 3:55 | 2023-07-20 |  |
-| [ich mags](https://open.spotify.com/track/3S81BVFGfJZ0bpX3Fthr4P) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [ich mags](https://open.spotify.com/album/5PB2mi2e4cq4HdBarm0sPS) | 2:41 | 2023-07-20 |  |
+| [ich mags](https://open.spotify.com/track/3S81BVFGfJZ0bpX3Fthr4P) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [ich mags](https://open.spotify.com/album/5PB2mi2e4cq4HdBarm0sPS) | 2:41 | 2023-07-20 | 2023-09-26 |
+| [ich mags](https://open.spotify.com/track/5v41kP2xGYclmWX6bMhKzj) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [golden hour](https://open.spotify.com/album/1HmWZnKnecBlWqYcD7Zead) | 2:41 | 2023-08-29 |  |
 | [IknowhowIfeel \- from Hansa Studios, Berlin](https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Live Vol\. 1](https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns) | 2:55 | 2023-07-20 |  |
 | [Impossible Weight \- feat\. Sharon Van Etten](https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9) | [Deep Sea Diver](https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Impossible Weight](https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi) | 3:22 | 2023-08-29 | 2023-09-23 |
 | [in my mind](https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [in my mind](https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk) | 3:01 | 2023-07-20 |  |

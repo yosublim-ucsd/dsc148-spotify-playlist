@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,685 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,893 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Timeless](https://open.spotify.com/track/0De8VsiMjYMWw43AcQqzIa) | [Nevrlands](https://open.spotify.com/artist/1DNIohNOTsWcoNmp5sx3yx) | [Timeless](https://open.spotify.com/album/2PRoNwBJcF6gaLLMqySkk3) | 3:10 |
 | 50 | [Keeping You Alive](https://open.spotify.com/track/3DKHNiRevUbn6NnlyCU8T2) | [Waterfront](https://open.spotify.com/artist/0iFZ2vkAsRYe3J1kE9XjSn) | [Keeping You Alive](https://open.spotify.com/album/0Mvw0AMmFxqRv97lajEjZD) | 3:15 |
 
-Snapshot ID: `MCwzMDYyNzA4NTYwOWI0NTExNGEzYjkyNzg1NDU2NDNkZTAyMDgyYzI5`
+Snapshot ID: `MCw5OGJmMGM4ODRmYmYwZDY5ZjA3MDZjZWUzYjNkOTExMmMzYjFhMzI3`

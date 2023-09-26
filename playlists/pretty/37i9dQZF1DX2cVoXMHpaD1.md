@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 
 > It's been a great decade for K\-Pop\. Check it out! Cover: Super Junior
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,609 likes - 121 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,605 likes - 121 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 75 | [Ooh Ooh](https://open.spotify.com/track/6v6WTbgV4Hqjdjnd44ICYD) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [HOYA](https://open.spotify.com/artist/3bGzcepRQ7Zu1J6JDDAq1T) | [Ooh Ooh](https://open.spotify.com/album/4AFxO6gMtKC8O1ksxjFncV) | 3:15 |
 | 76 | [1, 2, 3, 4](https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [1,2,3,4](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) | 3:34 |
 | 77 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |
-| 78 | [Galaxy 우주를 줄게](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
+| 78 | [Galaxy](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
 | 79 | [Secret](https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [THE SECRET](https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh) | 3:42 |
 | 80 | [WEE WOO](https://open.spotify.com/track/23XXMK9SQBFwndnbgbcMPa) | [PRISTIN](https://open.spotify.com/artist/6VAphrHp0Oc88qg9BDaH9D) | [The 1st Mini Album 'HI! PRISTIN'](https://open.spotify.com/album/0LtwNMoaoYbJE8m3dT7XFe) | 3:12 |
 | 81 | [Pick Me](https://open.spotify.com/track/7D3xNJRjMjULVcuG5Voct5) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [I.O.I 1st Mini Album 'Chrysalis'](https://open.spotify.com/album/7hBhbBkQzO1lkeVAorr9ZU) | 3:46 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 120 | [Second confession](https://open.spotify.com/track/3gJp5iMDX2yM0PN9CXrHBF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Second confession](https://open.spotify.com/album/37qwQFW0AB3WMmFwEhC8xN) | 3:54 |
 | 121 | [MIROH](https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) | 3:27 |
 
-Snapshot ID: `MCwyMzQ2NGY2NzcxNmZlN2Q5NTY5ZTNmMjVmMmU4OGFkZWQ5MTVhZDc3`
+Snapshot ID: `MCwxNTQwMDdjMTkzNzJkNWU4Yjc4ZTljNTM2MzU0NzA1ZWExYmM1Mzg0`

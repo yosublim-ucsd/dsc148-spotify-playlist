@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Cody Johnson
 
-533 songs - 1 day 7 hr 43 min
+534 songs - 1 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [El Paso](https://open.spotify.com/track/20UUqgUjpiEZWKW0wujOVP) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [El Paso](https://open.spotify.com/album/5MKHbKywea52kWXdbB78PD) | 3:21 | 2022-05-06 | 2022-07-29 |
 | [Empty Rooms](https://open.spotify.com/track/0QNV9mVU06bMQKiD38Nc1I) | [Justin Clyde Williams](https://open.spotify.com/artist/2os6M8Uk9phzs6NOxQrNnc) | [Empty Rooms](https://open.spotify.com/album/4OPidLkgqBWApKYlr0LV0w) | 4:08 | 2021-12-17 | 2022-03-19 |
 | [Even If My Wheels Fall Off](https://open.spotify.com/track/6346eATna5w8XOQy6dJSfJ) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk), [Cody Canada](https://open.spotify.com/artist/1vNm2xtFGI4KsxnDgAl4iO) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 3:36 | 2022-03-18 | 2022-07-21 |
+| [Even The River](https://open.spotify.com/track/3QpZzgamq59V4Z3buWWYGj) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Even The River](https://open.spotify.com/album/0cF94TWd8oSo6LWzP4zpUN) | 3:17 | 2023-09-22 |  |
 | [Everything Has Your Memory](https://open.spotify.com/track/0KYC7enraB6AVZ5k7cdfKk) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Everything Has Your Memory](https://open.spotify.com/album/26z3oFclQMKjKXn686cATB) | 3:45 | 2022-06-03 | 2022-10-15 |
 | [Everything I Had](https://open.spotify.com/track/70eyw755HGnxFAk8jPJGRo) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Volume 2](https://open.spotify.com/album/1Ow5quOYqrRSf4SU6SQnga) | 3:30 | 2021-12-17 | 2022-03-19 |
 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 | 2021-12-17 | 2022-03-19 |
@@ -388,7 +389,7 @@
 | [She’s Gonna Leave a Mark](https://open.spotify.com/track/2fWOsqaXh731kdtBF0SVFI) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [She’s Gonna Leave a Mark](https://open.spotify.com/album/3wSOuUweC1sMEbYiLP7dBQ) | 3:09 | 2021-12-17 | 2022-07-27 |
 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 | 2022-02-04 |  |
 | [Ship Faced](https://open.spotify.com/track/25u4pZIIX2jwe3xt9mJ7qL) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Ship Faced](https://open.spotify.com/album/3BnpLDcuk99cHosNZ5HCjr) | 3:45 | 2022-07-22 | 2022-07-26 |
-| [Shooting Hand](https://open.spotify.com/track/0Ce7IONNgK3YPWcHPBIu0P) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 3](https://open.spotify.com/album/2uCfOVYQX0MJZ0OoLOA4Vx) | 4:05 | 2023-07-07 |  |
+| [Shooting Hand](https://open.spotify.com/track/0Ce7IONNgK3YPWcHPBIu0P) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 3](https://open.spotify.com/album/2uCfOVYQX0MJZ0OoLOA4Vx) | 4:05 | 2023-07-07 | 2023-09-26 |
 | [Shoreline](https://open.spotify.com/track/36KCNp4FIpu4Ath4a8Bkeu) | [The Band Laredo](https://open.spotify.com/artist/7m5r7YRaDJ3hdvw7hYRPF0) | [Shoreline](https://open.spotify.com/album/0JTjqvIWY2SIWf6DbZMLIE) | 3:18 | 2021-12-17 | 2022-01-22 |
 | [Shot from the Heart](https://open.spotify.com/track/3uvw2lZIL6tuaCQWUP2Syp) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Shot from the Heart](https://open.spotify.com/album/5EUxYBJyHStLsVJMRipLX8) | 3:03 | 2022-10-01 | 2023-01-06 |
 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-17 | 2023-02-02 |

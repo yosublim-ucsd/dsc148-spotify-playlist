@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,161 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,382 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 91 | [Girlfriend](https://open.spotify.com/track/0jIUiSTrJuDxjkf7ddAEYy) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 4:03 |
 | 92 | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly) | 2:18 |
 | 93 | [Kill the Bill](https://open.spotify.com/track/0VhMuCqy24zbdnroEMVj07) | [Angel Maxine](https://open.spotify.com/artist/1BqJRTcbSEMJRm2eD4PRoU), [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV), [Sister Deborah](https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7) | [Kill the Bill](https://open.spotify.com/album/2InjgVxw0CJbU20NsbYOty) | 3:36 |
-| 94 | [LGBT](https://open.spotify.com/track/2PSuZ7k5bBmhkuH5vbfFPc) | [Deebo2x](https://open.spotify.com/artist/0hyMnB9nY24uy6Pc3NtKXO) | [LGBT](https://open.spotify.com/album/1rAo1kxsd4R89TWJnMVxqn) | 3:12 |
+| 94 | [LGBT](https://open.spotify.com/track/64NFSqtc66wrF9yZQrwgrw) | [Deebo2x](https://open.spotify.com/artist/0hyMnB9nY24uy6Pc3NtKXO) | [LGBT](https://open.spotify.com/album/7jFSFtzv9jaYoALuOYkyBw) | 3:12 |
 | 95 | [Wo Fie](https://open.spotify.com/track/3QF7smzmw2WWm7M1jt2Rac) | [Angel Maxine](https://open.spotify.com/artist/1BqJRTcbSEMJRm2eD4PRoU), [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV), [Sister Deborah](https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7) | [Wo Fie](https://open.spotify.com/album/6BMOcZ5pEiZU0au9pssHX8) | 3:42 |
 | 96 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 |
 | 97 | [Out of Me Head](https://open.spotify.com/track/3G9tyuUoBVNTDXY0icrUVf) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 99 | [Burning](https://open.spotify.com/track/5UCL0TZACi3cgVaIPs0UVm) | [Mista Strange](https://open.spotify.com/artist/6f2OiLi5ws1F1xkHgjDPBX) | [Strange Faces](https://open.spotify.com/album/5myzv5MVvDrFji6BKIVbzS) | 3:45 |
 | 100 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 |
 
-Snapshot ID: `MCxmMjQ3YjM5NzFhMzcyNjk3YzgwOTY3NGNiYzFmNDFhZGViNDUzOTEz`
+Snapshot ID: `MCwyYWJlMTk0YzFmZWY5MDEyNzQ1MTcxMWJiMmU4ZjllMWQ2Y2ExZDZk`

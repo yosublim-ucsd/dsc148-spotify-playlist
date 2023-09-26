@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 188434,
+  "num_followers": 188659,
   "original_name": "EDM 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWRlNTdiNDg1MTg4OTliNjNjMDcxZTBiODg2OGZkZWRjOTU2N2Ji",
+  "snapshot_id": "MCw1MmIzMWYzZWE4MDdiYjhjOTg3N2Y3MDk4MzVmMTE0NDQ1YmQ1M2Zj",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -835,6 +835,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "TAKE IT OFF",
+        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "TAKE IT OFF",
+      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "After Midnight (feat. Xoro)",
         "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 170706,
       "name": "Smash My Heart",
       "url": "https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "TAKE IT OFF",
-        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 194604,
-      "name": "TAKE IT OFF",
-      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Pink",
-        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "One with the Wolves",
-      "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
       },
@@ -1111,42 +1095,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Locked Up (ft. Akon)",
-        "url": "https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu"
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 147170,
-      "name": "Locked Up (ft. Akon)",
-      "url": "https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/5MZ8KBGWztnBxBlrLPRBZB"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/3BuHeeCEqJ41hBkiK069RA"
+      "duration_ms": 180213,
+      "name": "One with the Wolves",
+      "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1171,22 +1131,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "This Feeling",
-        "url": "https://open.spotify.com/album/1sumCybVSXAHHhMtfW3iFB"
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/5MZ8KBGWztnBxBlrLPRBZB"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 196440,
-      "name": "This Feeling",
-      "url": "https://open.spotify.com/track/79SrdoXn93tgSzksq73X2y"
+      "duration_ms": 140160,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/3BuHeeCEqJ41hBkiK069RA"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1207,6 +1163,50 @@
       "duration_ms": 236999,
       "name": "My Gasoline",
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "This Feeling",
+        "url": "https://open.spotify.com/album/1sumCybVSXAHHhMtfW3iFB"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/79SrdoXn93tgSzksq73X2y"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Locked Up (ft. Akon)",
+        "url": "https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 147170,
+      "name": "Locked Up (ft. Akon)",
+      "url": "https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1415,30 +1415,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/5GbbjwLHtRH8qSB1LfkyVn"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 153508,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X"
       },
@@ -1459,6 +1435,30 @@
       "duration_ms": 166285,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/5GbbjwLHtRH8qSB1LfkyVn"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 153508,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/4dvts8ZkUUsbQdGASHVmbi"
       },
@@ -1543,26 +1559,6 @@
       "duration_ms": 148086,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2KlnRC8jhbWokqr3PQMwgO"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "REBELS NEVER DIE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
-      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1591,18 +1587,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 155409,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1903,50 +1903,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Fool 4 U (feat. Enisa)",
-        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Enisa",
-          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
-        }
-      ],
-      "duration_ms": 146076,
-      "name": "Fool 4 U (feat. Enisa)",
-      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Alive (feat. The Moth & The Flame)",
         "url": "https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR"
       },
@@ -2019,6 +1975,50 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Fool 4 U (feat. Enisa)",
+        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        }
+      ],
+      "duration_ms": 146076,
+      "name": "Fool 4 U (feat. Enisa)",
+      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "The Chant (For Club Play Only, Pt. 8)",
         "url": "https://open.spotify.com/album/4l12XOrKoqpy2skRc8Zi6Q"
       },
@@ -2075,6 +2075,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "One in a Million (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/1XyHzo30k0PD68I63STVGP"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 159665,
+      "name": "One in a Million - David Guetta Remix",
+      "url": "https://open.spotify.com/track/1ump437qGe1gqRkMHg266F"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "All For Nothing",
         "url": "https://open.spotify.com/album/42CesxC3CLpCu2Z01Plmum"
       },
@@ -2091,26 +2111,6 @@
       "duration_ms": 206612,
       "name": "All For Nothing",
       "url": "https://open.spotify.com/track/0XYQShep48eEFHg7hcPndl"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Save Me (From Myself) (feat. Kyle Hume)",
-        "url": "https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Kyle Hume",
-          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Save Me (From Myself) (feat. Kyle Hume)",
-      "url": "https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD"
     }
   ],
   "unique_name": "EDM 2023",

@@ -2,7 +2,7 @@
 
 ### [Rap Motivazionale](https://open.spotify.com/playlist/37i9dQZF1DWYBofUhpgE88)
 
-> CHE COSA HAI FATTO, IVAN? 💪 Rap per non smettere mai di crederci.
+> Rap per non smettere mai di crederci.
 
 182 songs - 10 hr 6 min
 
@@ -119,7 +119,7 @@
 | [Not Afraid](https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:08 | 2022-07-04 |  |
 | [Numb / Encore](https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Numb / Encore: MTV Ultimate Mash\-Ups Presents Collision Course](https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw) | 3:25 | 2022-07-04 |  |
 | [ONLYFANS \(feat\. MamboLosco\)](https://open.spotify.com/track/2RrldylvtjefqddhIONP7x) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [ONLYFANS \(feat\. MamboLosco\)](https://open.spotify.com/album/1h3tfAsHDKUIWnEb4Cedn6) | 2:23 | 2022-05-03 | 2022-07-29 |
-| [Over 2,5 \(feat\. Tedua & Rkomi\)](https://open.spotify.com/track/2hJURAyTFMZM9dOQEGrwIW) | [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [VT2M](https://open.spotify.com/album/2p3ziJelLL0XuQzYFTq0bh) | 2:51 | 2023-09-20 |  |
+| [Over 2,5 \(feat\. Tedua & Rkomi\)](https://open.spotify.com/track/2hJURAyTFMZM9dOQEGrwIW) | [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [VT2M](https://open.spotify.com/album/2p3ziJelLL0XuQzYFTq0bh) | 2:51 | 2023-09-20 | 2023-09-26 |
 | [Paradiso Artificiale \(feat\. Baby Gang & Kid Yugi\)](https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:42 | 2023-09-20 |  |
 | [Party HH \- feat\. Lazza](https://open.spotify.com/track/61koTDrwN9kZQmDhtH7NpM) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Vita Vera Mixtape](https://open.spotify.com/album/3TjYHhJBeXCyoG0mmsTZd9) | 3:31 | 2022-05-03 | 2022-07-29 |
 | [Party Up](https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:28 | 2022-07-04 |  |
@@ -181,7 +181,7 @@
 | [VVS \(feat\. Gunna\)](https://open.spotify.com/track/6t5avACouegDhYdGljoKt1) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:04 | 2022-05-03 | 2022-07-29 |
 | [What's The Difference](https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:04 | 2022-07-04 |  |
 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 | 2022-07-04 |  |
-| [Where The Hood At](https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Grand Champ](https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd) | 4:46 | 2022-07-04 | 2023-09-21 |
+| [Where The Hood At](https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Grand Champ](https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd) | 4:46 | 2022-07-04 |  |
 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 | 2022-07-04 |  |
 | [Whoopty](https://open.spotify.com/track/1RSzyxqtIO4yX3EyiV4zT5) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Whoopty](https://open.spotify.com/album/3ammnTkzxZhKONeV75MJ8A) | 2:03 | 2022-05-03 | 2022-07-29 |
 | [Wow.](https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:29 | 2022-07-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 5827,
+  "num_followers": 5874,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTJiNzJjZmEwYjA0OGQ5MTgyYmMwODg2MmRmNDE3ZmVkOGQ5YTM1",
+  "snapshot_id": "MCwyYTg3NmZlZGI5ODQ5OTJjNGEyYWEwOGM3MjNmNGM0ZWJiNzVlODg2",
   "tracks": [
     {
       "added_at": "2023-09-14 03:19:01",
@@ -207,26 +207,6 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
-        "name": "Perdido en Memorias",
-        "url": "https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Perdido en Memorias",
-      "url": "https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
         "name": "Hotel Lounge in Havana",
         "url": "https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 115016,
       "name": "Hotel Lounge in Havana",
       "url": "https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
+        "name": "Perdido en Memorias",
+        "url": "https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Perdido en Memorias",
+      "url": "https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
-        "name": "Aubade",
-        "url": "https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn"
-      },
-      "artists": [
-        {
-          "name": "Bastido",
-          "url": "https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM"
-        }
-      ],
-      "duration_ms": 171870,
-      "name": "Aubade",
-      "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
         "name": "Ontem",
         "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 135017,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
+        "name": "Aubade",
+        "url": "https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn"
+      },
+      "artists": [
+        {
+          "name": "Bastido",
+          "url": "https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM"
+        }
+      ],
+      "duration_ms": 171870,
+      "name": "Aubade",
+      "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -379,6 +379,26 @@
       "duration_ms": 99000,
       "name": "Cumbiero",
       "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
+        "name": "Aves del Sur",
+        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
+      },
+      "artists": [
+        {
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+        },
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 189811,
+      "name": "Aves del Sur",
+      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -419,22 +439,22 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
-        "name": "Aves del Sur",
-        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
+        "name": "Canciones para Escuchar Frente a la Ventana",
+        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
       "artists": [
         {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
         },
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Bryan Pelayo",
+          "url": "https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK"
         }
       ],
-      "duration_ms": 189811,
-      "name": "Aves del Sur",
-      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
+      "duration_ms": 93000,
+      "name": "Ukelele At Night",
+      "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -455,26 +475,6 @@
       "duration_ms": 125861,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
-        "name": "Canciones para Escuchar Frente a la Ventana",
-        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        },
-        {
-          "name": "Bryan Pelayo",
-          "url": "https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK"
-        }
-      ],
-      "duration_ms": 93000,
-      "name": "Ukelele At Night",
-      "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
         "name": "Lofi Chill",
         "url": "https://open.spotify.com/album/1HstApWi4IFpuz5HJmoXpf"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 115017,
       "name": "El Malec\u00f3n",
       "url": "https://open.spotify.com/track/1Svr9y0d5DpH5SswUuMQv5"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -835,22 +835,6 @@
       "duration_ms": 136000,
       "name": "Ag\u00fcita de Coco",
       "url": "https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
-        "name": "Uno Es M\u00ednimo Dos",
-        "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Nos Usamos",
-      "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -887,22 +871,18 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
-        "name": "La Belleza de lo Cotidiano",
-        "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
+        "name": "Uno Es M\u00ednimo Dos",
+        "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
       },
       "artists": [
         {
-          "name": "B.L.U.N.T.S",
-          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
-        },
-        {
-          "name": "Lofi Soul",
-          "url": "https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 128000,
-      "name": "La Belleza de lo Cotidiano",
-      "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
+      "duration_ms": 269800,
+      "name": "Nos Usamos",
+      "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -939,6 +919,26 @@
       "duration_ms": 129565,
       "name": "Playa del Amor",
       "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
+        "name": "La Belleza de lo Cotidiano",
+        "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
+      },
+      "artists": [
+        {
+          "name": "B.L.U.N.T.S",
+          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
+        },
+        {
+          "name": "Lofi Soul",
+          "url": "https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "La Belleza de lo Cotidiano",
+      "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
-        "name": "Mi\u00e9rcoles Azul",
-        "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "Monno Briceno",
-          "url": "https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys"
-        }
-      ],
-      "duration_ms": 167857,
-      "name": "Mi\u00e9rcoles Azul",
-      "url": "https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
         "name": "Monte Nativo",
         "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 149333,
       "name": "Cempasuchil",
       "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
+        "name": "Mi\u00e9rcoles Azul",
+        "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Monno Briceno",
+          "url": "https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys"
+        }
+      ],
+      "duration_ms": 167857,
+      "name": "Mi\u00e9rcoles Azul",
+      "url": "https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
-        "name": "Sample Saga: Brazil",
-        "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
-      },
-      "artists": [
-        {
-          "name": "Beagle Bonnie",
-          "url": "https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3"
-        },
-        {
-          "name": "DJ No\u00e9",
-          "url": "https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3"
-        }
-      ],
-      "duration_ms": 117446,
-      "name": "Devagar",
-      "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
         "name": "Monstera",
         "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 144333,
       "name": "Monstera",
       "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
+        "name": "Sample Saga: Brazil",
+        "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
+      },
+      "artists": [
+        {
+          "name": "Beagle Bonnie",
+          "url": "https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3"
+        },
+        {
+          "name": "DJ No\u00e9",
+          "url": "https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3"
+        }
+      ],
+      "duration_ms": 117446,
+      "name": "Devagar",
+      "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
     },
     {
       "added_at": "2023-09-14 03:19:01",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
-        "name": "100% Barztep",
-        "url": "https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91"
-      },
-      "artists": [
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Shemomedjamo",
-      "url": "https://open.spotify.com/track/26HbFJdrkXgWrME5kLrk8r"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
         "name": "Ipanema Sunset",
         "url": "https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7"
       },
@@ -1411,6 +1395,54 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
+        "name": "Sunset on Vallarta",
+        "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Sunset on Vallarta",
+      "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
+        "name": "100% Barztep",
+        "url": "https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91"
+      },
+      "artists": [
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Shemomedjamo",
+      "url": "https://open.spotify.com/track/26HbFJdrkXgWrME5kLrk8r"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
+        "name": "Autorretrato",
+        "url": "https://open.spotify.com/album/4KxqWP1Cs5JbSbebfUXWRP"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 170425,
+      "name": "La Tierra del Pan y del Caf\u00e9",
+      "url": "https://open.spotify.com/track/3IUyr9sPr453ymdfGA6NjB"
+    },
+    {
+      "added_at": "2023-09-14 03:19:01",
+      "album": {
         "name": "De La Selva",
         "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
       },
@@ -1431,50 +1463,22 @@
     {
       "added_at": "2023-09-14 03:19:01",
       "album": {
-        "name": "Sunset on Vallarta",
-        "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
+        "name": "Ocaso Sin Fin",
+        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
       "artists": [
         {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Sunset on Vallarta",
-      "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
-        "name": "Break",
-        "url": "https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ"
-      },
-      "artists": [
+          "name": "Stc Beats VB",
+          "url": "https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P"
+        },
         {
-          "name": "Anto Pla",
-          "url": "https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee"
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 116624,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK"
-    },
-    {
-      "added_at": "2023-09-14 03:19:01",
-      "album": {
-        "name": "Beautiful Lights",
-        "url": "https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR"
-      },
-      "artists": [
-        {
-          "name": "L.Rey",
-          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
-        }
-      ],
-      "duration_ms": 148860,
-      "name": "Diamond Sparkle",
-      "url": "https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x"
+      "duration_ms": 98832,
+      "name": "M\u00e9xico M\u00e1gico",
+      "url": "https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp"
     }
   ],
   "unique_name": "lofi latino",

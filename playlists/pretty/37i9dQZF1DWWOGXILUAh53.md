@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Kim Petras
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,615 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,710 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 59 | [Un Deux Trois](https://open.spotify.com/track/5LZUMO0ZwB1wFqFjdamWfK) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Un Deux Trois](https://open.spotify.com/album/6JyUhSZBLGYfPVGCsQGVnL) | 2:29 |
 | 60 | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7) | 2:19 |
 
-Snapshot ID: `MCw3Njk0MGMyNzQ5ZjQwNjM2ZmE1NTg1Y2NjYzA2MDg1ODI4Mjc3MzBk`
+Snapshot ID: `MCxmMWQ3MDQ3ZjEwZDZkOTRlZGRkMWI5YWUxMGVmNDk0YTUyYTA2NDg3`

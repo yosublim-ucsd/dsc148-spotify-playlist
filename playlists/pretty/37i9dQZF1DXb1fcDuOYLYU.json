@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the powerful voices of Latin music. Cover: Anitta",
-  "num_followers": 44189,
+  "num_followers": 44238,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzRlNzBiNDNmMjg3ZGY1ZWI0M2UzMzE5YzBiYmI1YjZlNDYyZmU3",
+  "snapshot_id": "MCw0MzVlZDk5NDk5M2NmMzQwOTczZjQwNDc2Njc2MjQ3NWM3ZTk4OTRi",
   "tracks": [
     {
       "added_at": "2023-08-18 20:50:50",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Whenever, Wherever",
+      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
+    },
+    {
+      "added_at": "2023-08-18 20:50:50",
+      "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 174369,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en"
-    },
-    {
-      "added_at": "2023-08-18 20:50:50",
-      "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Whenever, Wherever",
-      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
     },
     {
       "added_at": "2023-08-18 20:50:50",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
-        "name": "LAS BABYS",
-        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 153827,
-      "name": "LAS BABYS",
-      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
-    },
-    {
-      "added_at": "2023-08-18 20:50:50",
-      "album": {
         "name": "LLYLM",
         "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 186506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
+    },
+    {
+      "added_at": "2023-08-18 20:50:50",
+      "album": {
+        "name": "LAS BABYS",
+        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 153827,
+      "name": "LAS BABYS",
+      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
     },
     {
       "added_at": "2023-08-18 20:50:50",
@@ -631,26 +631,6 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
-        "name": "Formentera",
-        "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Formentera",
-      "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
-    },
-    {
-      "added_at": "2023-08-18 20:50:50",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 156318,
       "name": "Mu\u00f1ecas",
       "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
+    },
+    {
+      "added_at": "2023-08-18 20:50:50",
+      "album": {
+        "name": "Formentera",
+        "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Formentera",
+      "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
     },
     {
       "added_at": "2023-08-18 20:50:50",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
+    },
+    {
+      "added_at": "2023-08-18 20:50:50",
+      "album": {
         "name": "Bicha",
         "url": "https://open.spotify.com/album/2LhBFY1mquGDfrsIw0oPaS"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 149696,
       "name": "Bicha",
       "url": "https://open.spotify.com/track/3Xv4C3ZIpd1D0S9lUh4S1b"
-    },
-    {
-      "added_at": "2023-08-18 20:50:50",
-      "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
     },
     {
       "added_at": "2023-08-18 20:50:50",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
+        "name": "Milagros",
+        "url": "https://open.spotify.com/album/5PjmSrnO02jzX7EzNp1ssp"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 213799,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/0gOw0j8R2X8PUY7FFL0ujC"
+    },
+    {
+      "added_at": "2023-08-18 20:50:50",
+      "album": {
         "name": "Disciplina",
         "url": "https://open.spotify.com/album/4jHkzHIr9vC2kJ55TojhVl"
       },
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
-        "name": "Milagros",
-        "url": "https://open.spotify.com/album/5PjmSrnO02jzX7EzNp1ssp"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 213799,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/0gOw0j8R2X8PUY7FFL0ujC"
-    },
-    {
-      "added_at": "2023-08-18 20:50:50",
-      "album": {
         "name": "triste pero siempre mami",
         "url": "https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-08-18 20:50:50",
       "album": {
-        "name": "Herrera",
-        "url": "https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 157268,
-      "name": "Herrera",
-      "url": "https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn"
-    },
-    {
-      "added_at": "2023-08-18 20:50:50",
-      "album": {
         "name": "Bachatica",
         "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 196461,
       "name": "Bachatica",
       "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
+    },
+    {
+      "added_at": "2023-08-18 20:50:50",
+      "album": {
+        "name": "Herrera",
+        "url": "https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 157268,
+      "name": "Herrera",
+      "url": "https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn"
     },
     {
       "added_at": "2023-08-18 20:50:50",

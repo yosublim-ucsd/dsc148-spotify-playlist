@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth joints from around the globe\. Cover: Yussef Dayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,427 likes - 85 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,637 likes - 85 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 36 | [Who By Fire](https://open.spotify.com/track/2L1f1Z7lUleocWWWg4JRKR) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Who By Fire](https://open.spotify.com/album/2ZwCEwQtkwBO9N3vq9JiSv) | 2:59 |
 | 37 | [Palmwine Riddim](https://open.spotify.com/track/1GjKddJU8jWhigwtocBith) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Palmwine Riddim](https://open.spotify.com/album/4bZ9chhQU2vfLjEqtA5EPw) | 3:15 |
 | 38 | [Nautical \- Radio Edit](https://open.spotify.com/track/2fuEnEKYed6EpgWcMjVVqx) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9), [Novak Manojlovic](https://open.spotify.com/artist/3m2QbQV4vmNLDSCbQlBkJB) | [Nautical](https://open.spotify.com/album/74YCnRRhFUIFbGbRcN4xkY) | 3:17 |
-| 39 | [I DM U](https://open.spotify.com/track/07oNLCkaprnGmx3edA3b1S) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [I DM U](https://open.spotify.com/album/5Xkm7MoWZZ8uh4aVaXuIyd) | 4:23 |
+| 39 | [I DM U](https://open.spotify.com/track/5e0gYGMPLrsSUjSQONdjlF) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Gentle Confrontation](https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx) | 4:23 |
 | 40 | [I’m The President](https://open.spotify.com/track/61KjKb7MNasVxEBMkcJblU) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [I’m The President](https://open.spotify.com/album/46uDfYz1fwX99tMqmziZ7L) | 4:07 |
 | 41 | [Otherway](https://open.spotify.com/track/1HibS69wIuHNaotBNJeCk2) | [Daniel Noah Miller](https://open.spotify.com/artist/0ofVQtXisiSCBVTW9tNUTS), [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Otherway](https://open.spotify.com/album/5oZxjxrWQOSFLahaUvAqZq) | 2:50 |
 | 42 | [Shining](https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:23 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 84 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 85 | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/track/4ptwKUD9Tsbi5Tz5MVehvy) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/album/5ZGQes5uklrLNQvwUxVBhN) | 4:42 |
 
-Snapshot ID: `MCwxNGI0YmQwNjE5OGZlMDU4MTI2NjU3ZjE3NTE5NjE2MTkzZmFiZGM3`
+Snapshot ID: `MCxlYjYxOGQyMzc1OWJjYzM5YWQ0N2FmNjBkNmM5Njk3ODRlMWQyNDQz`

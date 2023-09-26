@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Doja Cat, Zach Bryan, Brent Faiyaz, Lil Tecca, Shakira, Bakar and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,177,388 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,177,606 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 18 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 |
 | 19 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 | 20 | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl) | 2:41 |
-| 21 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:33 |
+| 21 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
 | 22 | [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Mirage \(for Assassin's Creed Mirage\)](https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz) | 2:13 |
 | 23 | [Lifetime](https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Lifetime](https://open.spotify.com/album/6PvL70jTGrQAekjocgG620) | 5:06 |
 | 24 | [Borracho y Loco](https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Borracho y Loco](https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Downtown](https://open.spotify.com/track/1agzjKir1PVW91rkCbiXks) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/1QRMi6OGmvL3PR7uctgSa7) | 2:11 |
 | 100 | [buttons!](https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr) | 3:59 |
 
-Snapshot ID: `MCxjZDhhMzhlODRhYzA2ODFjODQ2MTEwOWIyNTA3YWMwYzk1MDFiY2Qy`
+Snapshot ID: `MCxlM2IxNzkwNWY3NTE0MmRjYTg3YWEyZGM1ZDU1ZjZkMzg0NmNiNmY4`

@@ -1,12 +1,12 @@
 {
   "description": "Out of office \u2705",
-  "num_followers": 169007,
+  "num_followers": 168996,
   "original_name": "Summer Holiday 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDYzNDEyOTBiMjMxODY3Y2M0ZWZkMDA0MGUxNTFiNTgxYmZiOWU3",
+  "snapshot_id": "MCwzYjcyN2NjZmUzNGFlMjIwNjc4NmQ5Y2U3MGJiY2EzODRjNDA2MWFh",
   "tracks": [
     {
       "added_at": "2023-08-15 20:30:18",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 140241,
-      "name": "Keep Driving",
-      "url": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 140241,
+      "name": "Keep Driving",
+      "url": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 368758,
+      "name": "VIRGO'S GROOVE",
+      "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 148000,
       "name": "Soweto",
       "url": "https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 368758,
-      "name": "VIRGO'S GROOVE",
-      "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Big 7",
-        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 143042,
-      "name": "Big 7",
-      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 165000,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "COULD BE WRONG",
+        "url": "https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP"
+      },
+      "artists": [
+        {
+          "name": "LOSTBOYJAY",
+          "url": "https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL"
+        }
+      ],
+      "duration_ms": 186046,
+      "name": "COULD BE WRONG",
+      "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "COULD BE WRONG",
-        "url": "https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP"
-      },
-      "artists": [
-        {
-          "name": "LOSTBOYJAY",
-          "url": "https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL"
-        }
-      ],
-      "duration_ms": 186046,
-      "name": "COULD BE WRONG",
-      "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "Million Dollar Bill",
         "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 128024,
       "name": "Million Dollar Bill",
       "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "Big 7",
+        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "Flip A Switch.",
-      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "Vino Bandit",
         "url": "https://open.spotify.com/album/5wmkCBglZqdYFKjudx75JG"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 150344,
       "name": "Vino Bandit",
       "url": "https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "Flip A Switch.",
+      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
     },
     {
       "added_at": "2023-08-15 20:30:18",

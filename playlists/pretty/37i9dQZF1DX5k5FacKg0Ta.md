@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,834 likes - 69 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,858 likes - 69 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 68 | [Sgr A\*](https://open.spotify.com/track/5v0y5dl1jFmnLLjLsbRVlE) | [Ilmiliekki Quartet](https://open.spotify.com/artist/5lyAsOhlvbGujJCVQoDC1B), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Tuomo Prättälä](https://open.spotify.com/artist/06xoCURLIPFP4LvhXi8aLx), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Ilmiliekki Quartet](https://open.spotify.com/album/6STx4DRg71CIIy5w8mEiMC) | 5:49 |
 | 69 | [Pinetree Song](https://open.spotify.com/track/5d1Zu6beu4sUzj2j01eol0) | [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL) | [Pinetree Song](https://open.spotify.com/album/4SjXdNETKs0gfhElhsnWoZ) | 5:29 |
 
-Snapshot ID: `MCxhMzA5OWE5YWIyYTRjMzE4YTYyNjVhZTQwNWY3MzQwYTFiMWYxYzUx`
+Snapshot ID: `MCwyMGFiMjAwMTdlODI4NjgxOWRjNmRiODg5MWYwYjAwZWQ5YmI4ZmIw`

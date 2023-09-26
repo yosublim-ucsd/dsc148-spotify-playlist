@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-319 songs - 21 hr 23 min
+322 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Ballad of the Dying Man](https://open.spotify.com/track/0IFIJrJhp4UlMde4OYCPxb) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Pure Comedy](https://open.spotify.com/album/6nyf9D2M4je5BdNXwycoIe) | 4:50 | 2023-01-17 |  |
 | [Be On Your Way](https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:04 | 2023-01-17 |  |
 | [Beating](https://open.spotify.com/track/5EQHQEFO3S4Kv20cD6wSRX) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Colourgrade](https://open.spotify.com/album/0Uu5MAL65d04IDQ3h1waXy) | 3:41 | 2023-01-17 |  |
+| [Before](https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Before](https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp) | 4:28 | 2023-09-25 |  |
 | [Before We Begin](https://open.spotify.com/track/4yx0aYJgnWIy18akJtxmON) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 3:22 | 2023-01-17 |  |
 | [Believe](https://open.spotify.com/track/7LU69DVvvm8SXa3f4R7qzH) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Believe](https://open.spotify.com/album/317uI12DItPAj28IxEA8qz) | 3:22 | 2023-01-17 |  |
 | [Bend The Round](https://open.spotify.com/track/4CeI9wWFAWcxkkANWKV1XB) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Bend The Round](https://open.spotify.com/album/5wnRlXirKPPP7DrFswTIdq) | 3:27 | 2023-07-25 |  |
@@ -50,6 +51,7 @@
 | [Broken Sleep](https://open.spotify.com/track/0fJTfkGfoHwWfJiHFvGpeZ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Broken Sleep](https://open.spotify.com/album/4y4DoLI7N2irCVu1BE8wWi) | 4:55 | 2023-01-17 |  |
 | [Brooklyn Baby](https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:51 | 2023-01-17 |  |
 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 | 2023-01-17 |  |
+| [Buffalo Replaced](https://open.spotify.com/track/06m6Q2ZUHNsHGEHK9m8hLf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:40 | 2023-09-25 |  |
 | [Bump](https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bump](https://open.spotify.com/album/0BbQhd9LzpcdZJ5fn7WhaV) | 3:22 | 2023-01-17 |  |
 | [Butterflies From Monaco](https://open.spotify.com/track/211zfgFVnQLj4X1vFXizyF) | [Julien Chang](https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS) | [Jules](https://open.spotify.com/album/0OqzkgUzrDHCAnbj2JLshd) | 5:52 | 2023-01-17 |  |
 | [Can't Buy Happiness](https://open.spotify.com/track/5IwkralT3gnN9hL900X0Fr) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Can't Buy Happiness](https://open.spotify.com/album/6RKsSdVwMCq14PecYUjIQL) | 3:11 | 2023-01-17 |  |
@@ -105,7 +107,7 @@
 | [Flower \(In Full Bloom\)](https://open.spotify.com/track/7hDwJ1WwXkFgznw0ip6kIg) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:51 | 2023-01-17 |  |
 | [Forever](https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz) | 4:09 | 2023-01-17 |  |
 | [Forgetting Delaney](https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Forgetting Delaney](https://open.spotify.com/album/74cN9ID7E3WIQoc6MFS6PI) | 2:32 | 2023-01-17 |  |
-| [Fortaleza](https://open.spotify.com/track/0P6b8SxzKeB0XFkueJIA5m) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/2eOJm4JAIkQQ5k6Y7f0Zdq) | 4:53 | 2023-01-17 |  |
+| [Fortaleza](https://open.spotify.com/track/0P6b8SxzKeB0XFkueJIA5m) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/2eOJm4JAIkQQ5k6Y7f0Zdq) | 4:53 | 2023-01-17 | 2023-09-26 |
 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2023-01-17 |  |
 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 | 2023-01-17 |  |
 | [God Turn Me Into a Flower](https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:25 | 2023-01-17 |  |
@@ -165,7 +167,7 @@
 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 | 2023-01-17 |  |
 | [Linger](https://open.spotify.com/track/2TaBkGBK3NSGcaHBuvToVe) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Linger](https://open.spotify.com/album/5RPrdb4VjSduFPAyAr4FC6) | 4:22 | 2023-01-17 |  |
 | [Living](https://open.spotify.com/track/4ytv5Yzyal3LzKyMjRXjse) | [EERA](https://open.spotify.com/artist/1kr9ySHpN45SVd5nJVbIbc) | [Reflection of Youth](https://open.spotify.com/album/2OQsnw29udJZFHyNaHSRDJ) | 4:39 | 2023-01-17 |  |
-| [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2023-01-17 |  |
+| [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2023-01-17 | 2023-09-26 |
 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2023-01-17 |  |
 | [Losing My Religion](https://open.spotify.com/track/1KKO7lAg5RTGYaTJkkZC9E) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Thief](https://open.spotify.com/album/2WA5txUH1i8QHvOh9ptsWh) | 4:06 | 2023-01-17 |  |
 | [Lost Moon](https://open.spotify.com/track/5uyTTYvJ820qJUan2gNTXI) | [Nightlands](https://open.spotify.com/artist/6j1PJ7qiMlHAzkyPN3ldN6) | [I Can Feel the Night Around Me](https://open.spotify.com/album/58idVWfPZQgTcAXcDw2REd) | 5:56 | 2023-01-17 |  |
@@ -184,6 +186,7 @@
 | [Moonlight](https://open.spotify.com/track/3RGdTJbr4eWMS0upJntQAn) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:38 | 2023-01-17 |  |
 | [Moonshine Freeze](https://open.spotify.com/track/5jzHvA7xPl24wKuICkpEWL) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Moonshine Freeze](https://open.spotify.com/album/5RYg5ZR0qfRebkseuqlGJj) | 3:41 | 2023-01-17 |  |
 | [Movies](https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:53 | 2023-01-17 |  |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-25 |  |
 | [My Love Was Like the Rain](https://open.spotify.com/track/7ndzawc5kyZ7lcDpipRW77) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 4:12 | 2023-01-17 |  |
 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 | 2023-01-17 |  |
 | [Naeem](https://open.spotify.com/track/0XOsqpvDLx0FhizUCqwSNf) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 4:22 | 2023-01-17 |  |
@@ -213,7 +216,7 @@
 | [Pistol](https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/3pvGm1n0cKAfHpGKbZhKi5) | 3:54 | 2023-01-17 |  |
 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2023-01-17 | 2023-09-22 |
 | [Play The Ghost](https://open.spotify.com/track/0xtJvcniZ7aQmKFOikkh84) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Cantus, Descant](https://open.spotify.com/album/2b5zGG5gFQgy0QhWyR9ehQ) | 5:01 | 2023-01-17 |  |
-| [Point of View](https://open.spotify.com/track/3P5NoYbHxZ9cSwE6eM4xbU) | [Sonoda](https://open.spotify.com/artist/5OcA113uaLxGSU00Nkaaje) | [Point of View](https://open.spotify.com/album/3SaTO01so6SyHxZTl9R3Vb) | 2:06 | 2023-01-17 |  |
+| [Point of View](https://open.spotify.com/track/3P5NoYbHxZ9cSwE6eM4xbU) | [Sonoda](https://open.spotify.com/artist/5OcA113uaLxGSU00Nkaaje) | [Point of View](https://open.spotify.com/album/3SaTO01so6SyHxZTl9R3Vb) | 2:06 | 2023-01-17 | 2023-09-26 |
 | [Poke \- from Tiny Changes: A Celebration of Frightened Rabbit's 'The Midnight Organ Fight'](https://open.spotify.com/track/6U6ulQrWXZawrcVr6F1nVe) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Poke \(from Tiny Changes: A Celebration of Frightened Rabbit's 'The Midnight Organ Fight'\)](https://open.spotify.com/album/3A6T18gcg0tDBxOYfal8S3) | 5:06 | 2023-01-17 |  |
 | [Pop Song](https://open.spotify.com/track/6tDbJIKGcfSWElhmtt6665) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 5:05 | 2023-01-17 |  |
 | [Posing In Bondage](https://open.spotify.com/track/33qgZ7mWvlH95efOGQqfzZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 4:04 | 2023-01-17 |  |

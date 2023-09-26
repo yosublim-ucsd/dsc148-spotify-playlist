@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover:  HotWax
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,650 likes - 161 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,641 likes - 161 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 8 | [maradona](https://open.spotify.com/track/4INCIqgzproTB7jZXFFFSQ) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [sand bebé](https://open.spotify.com/album/0MhHU4Blaj1SY1BKnxFBrS) | 2:56 |
 | 9 | [Paper Planes](https://open.spotify.com/track/3idGPXVbppVgvQgKphhYe3) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [Somewhere To Fall Asleep](https://open.spotify.com/album/52BvNx6KqyyEKrbnOWr8Sy) | 3:43 |
 | 10 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns) | 2:36 |
-| 11 | [Déjà Vu](https://open.spotify.com/track/1ofyA3yOVsQPQC3UnM6oIx) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Déjà Vu](https://open.spotify.com/album/0vhflFpjfFoc5idKhuw5Jw) | 2:51 |
+| 11 | [Déjà Vu](https://open.spotify.com/track/0Uzlf3LBshr2fIU0G7OdY8) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Gentle Confrontation](https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx) | 2:51 |
 | 12 | [Poison](https://open.spotify.com/track/5DsPxrAjGRnJfRNUelP6ut) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Learning in public](https://open.spotify.com/album/18UujFD5TInXQX2mcwupKQ) | 2:31 |
 | 13 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 |
 | 14 | [STUNT GIRL](https://open.spotify.com/track/30MW0bdlhJDOyZBHAERVLe) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [\*FOR ENTERTAINMENT PURPOSES ONLY](https://open.spotify.com/album/70t4optPjcSeQJq8gg9SQQ) | 2:20 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 160 | [Anyone But Me](https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Anyone But Me](https://open.spotify.com/album/6DDUgkyC6tDXlSa3w4ua3q) | 3:02 |
 | 161 | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/track/0PXukVbYpvz40KcEFKnIw7) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/album/1UX0F7yksh3rHlEJKvliAT) | 3:27 |
 
-Snapshot ID: `MCxmZTY4ZTY1OWU2ZjdmNGU4YTVhYjAxZmZlMjEzNzdmYmI4ZjdjYTY3`
+Snapshot ID: `MCw0MjhkOTgyNTFmOGZjY2I4YzJlMGQ4OTJlOTNmNThhNGZlOTUyOTI0`

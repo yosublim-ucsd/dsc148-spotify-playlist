@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 220819,
+  "num_followers": 221388,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzM5OWViYzcxM2I5MGI1YzVjYTI2NDA4MjY3NTQ1YjgxYWM2OTFj",
+  "snapshot_id": "MCwwNDdmMjMxZGE4OGEwZjBlNjg4YTI5MWVmOWMxYWEyNWNmYWVmNDQz",
   "tracks": [
     {
       "added_at": "2023-09-08 12:01:16",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
+        "name": "Formula EP",
+        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         }
       ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
+      "duration_ms": 433971,
+      "name": "Doppler",
+      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
     },
     {
       "added_at": "2023-09-08 12:01:16",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
-        "name": "Formula EP",
-        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 433971,
-      "name": "Doppler",
-      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
     },
     {
       "added_at": "2023-09-08 12:01:16",
@@ -367,22 +367,6 @@
       "duration_ms": 363953,
       "name": "Losing Gravity",
       "url": "https://open.spotify.com/track/2lCJlVxUXg7hE187mVPLZm"
-    },
-    {
-      "added_at": "2023-09-08 12:01:16",
-      "album": {
-        "name": "Love Is Free",
-        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Love Is Free",
-      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
     },
     {
       "added_at": "2023-09-08 12:01:16",
@@ -515,6 +499,22 @@
       "duration_ms": 268235,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU"
+    },
+    {
+      "added_at": "2023-09-08 12:01:16",
+      "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
     },
     {
       "added_at": "2023-09-08 12:01:16",

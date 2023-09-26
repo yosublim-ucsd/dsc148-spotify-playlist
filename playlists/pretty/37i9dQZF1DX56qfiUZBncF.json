@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 381878,
+  "num_followers": 381928,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGM0MjkzNjgzMmQ0YTcxMjBmYzlmODI3ODMzMDRkN2YxOTI1ZjMz",
+  "snapshot_id": "MCw5YjcwOTJlNjEwOTU5Y2VmZmFkZjE4YzQwYWMxZjk3ZWM5NDY1ZDQx",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 254871,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 160505,
       "name": "My Love",
       "url": "https://open.spotify.com/track/398CKeawsPHfonnxsimsPe"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 254871,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Mangaliso",
-        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
-      },
-      "artists": [
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        }
-      ],
-      "duration_ms": 231625,
-      "name": "Ndokulandela",
-      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "And In The Darkness, Hearts Aglow",
         "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 262400,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Mangaliso",
+        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 231625,
+      "name": "Ndokulandela",
+      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
+      },
+      "artists": [
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Old T-Shirt (feat. koby)",
         "url": "https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
-      },
-      "artists": [
-        {
-          "name": "Ayoni",
-          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Santa Monica",
-      "url": "https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "That Was Now",
         "url": "https://open.spotify.com/album/1gCGFSSWkObei98ZWHVt3D"
       },
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Letter Blue",
-        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 248406,
-      "name": "On Your Side",
-      "url": "https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Wake",
         "url": "https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 202500,
       "name": "Fading",
       "url": "https://open.spotify.com/track/7lKl0UjUeIE3KJMTnn8CMW"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Letter Blue",
+        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 248406,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Avery",
+        "url": "https://open.spotify.com/album/643Gnd42azlZukIkuTucy6"
+      },
+      "artists": [
+        {
+          "name": "Oscar Welsh",
+          "url": "https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST"
+        }
+      ],
+      "duration_ms": 194634,
+      "name": "Avery",
+      "url": "https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "WONDER (reimagined)",
         "url": "https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 255976,
       "name": "WONDER - PVRIS Remix",
       "url": "https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Avery",
-        "url": "https://open.spotify.com/album/643Gnd42azlZukIkuTucy6"
-      },
-      "artists": [
-        {
-          "name": "Oscar Welsh",
-          "url": "https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST"
-        }
-      ],
-      "duration_ms": 194634,
-      "name": "Avery",
-      "url": "https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4"
     },
     {
       "added_at": "2023-01-11 21:01:15",

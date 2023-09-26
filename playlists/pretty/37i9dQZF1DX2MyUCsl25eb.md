@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,641 likes - 104 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,774 likes - 104 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 103 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 |
 | 104 | [Let Go](https://open.spotify.com/track/4vZvJQwSd7dYw6iNr6r5h7) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Let Go](https://open.spotify.com/album/0OLtyGpv64VUc6xIUIGiZf) | 2:38 |
 
-Snapshot ID: `MCxjN2ZkZGM3OTc1YWNjMDE3MjI4ZGI5MzRlZGUxOTMzOTFmMTdjMmFj`
+Snapshot ID: `MCwwNjYxYzgxYjI5ZTZmMTBlY2M4YzVhYmFlZTA2MWRlZmY0MWU5OWJl`

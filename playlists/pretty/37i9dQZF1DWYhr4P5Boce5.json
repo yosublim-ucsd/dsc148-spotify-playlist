@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 199538,
+  "num_followers": 199567,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjE1NGRmNjllMWQwMWRkYjlmZTljZDE5MmViZWMyOTIzMWZmZDU2",
+  "snapshot_id": "MCw4MDkyYmM2ODIxMjgzMTMxMjA1ZWE5ZmU0ZGMyN2NkZDQzOWQwZDdj",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 244320,
-      "name": "Hold Her",
-      "url": "https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Nothing is Ordinary. Everything is Beautiful.",
         "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 214600,
       "name": "Only One",
       "url": "https://open.spotify.com/track/1iAqQMUVtp5E1EYJkqZw2g"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 244320,
+      "name": "Hold Her",
+      "url": "https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "I Will Always Be Yours",
+      "url": "https://open.spotify.com/track/35RrDnREM1xxx4YBxDHikm"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 148800,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "My Tribe",
-        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 158023,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
       },
       "artists": [
         {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 226826,
-      "name": "I Will Always Be Yours",
-      "url": "https://open.spotify.com/track/35RrDnREM1xxx4YBxDHikm"
+      "duration_ms": 158023,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "What We Want, What We Get",
-        "url": "https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 228960,
-      "name": "God Gave Me You",
-      "url": "https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Limbs & Branches",
         "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 309840,
       "name": "Your Love Is Strong",
       "url": "https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "What We Want, What We Get",
+        "url": "https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 228960,
+      "name": "God Gave Me You",
+      "url": "https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "As for Me and My House",
+        "url": "https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2"
+      },
+      "artists": [
+        {
+          "name": "John Waller",
+          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "The Marriage Prayer",
+      "url": "https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "A Little Crazy",
         "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 198000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "As for Me and My House",
-        "url": "https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2"
-      },
-      "artists": [
-        {
-          "name": "John Waller",
-          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "The Marriage Prayer",
-      "url": "https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Out of Body",
-        "url": "https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 219613,
-      "name": "Heaven (All Around You) - Acoustic",
-      "url": "https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "This Loving",
         "url": "https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 156831,
       "name": "This Loving",
       "url": "https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 219613,
+      "name": "Heaven (All Around You) - Acoustic",
+      "url": "https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 177658,
+      "name": "What A Mystery",
+      "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Adam & Eve'n",
         "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
+        "name": "Dear Future Wife (Acoustic)",
+        "url": "https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg"
       },
       "artists": [
         {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
         }
       ],
-      "duration_ms": 177658,
-      "name": "What A Mystery",
-      "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
+      "duration_ms": 168069,
+      "name": "Dear Future Wife - Acoustic",
+      "url": "https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1215,22 +1231,6 @@
       "duration_ms": 125598,
       "name": "YOU'RE THE ONE I WANT",
       "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Dear Future Wife (Acoustic)",
-        "url": "https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 168069,
-      "name": "Dear Future Wife - Acoustic",
-      "url": "https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "The Glorious Unfolding",
-        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "What A Heart Is Beating For",
-        "url": "https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs"
+        "name": "The Glorious Unfolding",
+        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
       },
       "artists": [
         {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
         }
       ],
-      "duration_ms": 183573,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs"
+      "duration_ms": 242746,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1459,6 +1443,22 @@
       "duration_ms": 244693,
       "name": "Feel The Waters",
       "url": "https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "What A Heart Is Beating For",
+        "url": "https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Oh How I Love You",
         "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 233050,
       "name": "Oh How I Love You - R&B Version",
       "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     },
     {
       "added_at": "2023-01-31 10:01:12",

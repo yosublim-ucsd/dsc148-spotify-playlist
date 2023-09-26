@@ -1,12 +1,12 @@
 {
   "description": "Who's now and next in pop. Cover: Tyla",
-  "num_followers": 3098503,
+  "num_followers": 3099908,
   "original_name": "Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTM2MzkzZDMzODUzNDZmNTc1ZGJjMTJlM2VhY2RiNDc0NGJjODYz",
+  "snapshot_id": "MCxjZGQxZjM4NmY4ZWVlMjQ0M2FlMWZhY2QyMGFlMGVhZjU0YTkwMWM4",
   "tracks": [
     {
       "added_at": "2023-09-22 12:24:22",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-09-22 12:24:22",
       "album": {
+        "name": "AMERICAN HORROR SHOW",
+        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+    },
+    {
+      "added_at": "2023-09-22 12:24:22",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE"
       },
@@ -295,18 +311,18 @@
     {
       "added_at": "2023-09-22 12:24:22",
       "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+        "name": "cross my heart",
+        "url": "https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA"
       },
       "artists": [
         {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 232277,
-      "name": "Doesn\u2019t Do Me Any Good",
-      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
+      "duration_ms": 146228,
+      "name": "cross my heart",
+      "url": "https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU"
     },
     {
       "added_at": "2023-09-22 12:24:22",
@@ -331,18 +347,38 @@
     {
       "added_at": "2023-09-22 12:24:22",
       "album": {
-        "name": "cross my heart",
-        "url": "https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA"
+        "name": "Boys Of Faith (feat. Bon Iver)",
+        "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 146228,
-      "name": "cross my heart",
-      "url": "https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU"
+      "duration_ms": 170824,
+      "name": "Boys Of Faith (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
+    },
+    {
+      "added_at": "2023-09-22 12:24:22",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2023-09-22 12:24:22",
@@ -375,38 +411,6 @@
       "duration_ms": 171655,
       "name": "Single Soon",
       "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
-    },
-    {
-      "added_at": "2023-09-22 12:24:22",
-      "album": {
-        "name": "Probl\u00e9matique",
-        "url": "https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 115826,
-      "name": "Treat Me Like A Ho",
-      "url": "https://open.spotify.com/track/5b67O08sN2itkQPsNmafPx"
-    },
-    {
-      "added_at": "2023-09-22 12:24:22",
-      "album": {
-        "name": "AMERICAN HORROR SHOW",
-        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
-      },
-      "artists": [
-        {
-          "name": "SNOW WIFE",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 149391,
-      "name": "AMERICAN HORROR SHOW",
-      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
     },
     {
       "added_at": "2023-09-22 12:24:22",
@@ -451,6 +455,22 @@
     {
       "added_at": "2023-09-22 12:24:22",
       "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
+    },
+    {
+      "added_at": "2023-09-22 12:24:22",
+      "album": {
         "name": "Gimme Love",
         "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
       },
@@ -479,42 +499,6 @@
       "duration_ms": 189386,
       "name": "the grudge",
       "url": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt"
-    },
-    {
-      "added_at": "2023-09-22 12:24:22",
-      "album": {
-        "name": "Boys Of Faith (feat. Bon Iver)",
-        "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 170824,
-      "name": "Boys Of Faith (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
-    },
-    {
-      "added_at": "2023-09-22 12:24:22",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2023-09-22 12:24:22",
@@ -687,18 +671,18 @@
     {
       "added_at": "2023-09-22 12:24:22",
       "album": {
-        "name": "Your Bones",
-        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
+        "name": "Probl\u00e9matique",
+        "url": "https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth"
       },
       "artists": [
         {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Your Bones",
-      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
+      "duration_ms": 115826,
+      "name": "Treat Me Like A Ho",
+      "url": "https://open.spotify.com/track/5b67O08sN2itkQPsNmafPx"
     },
     {
       "added_at": "2023-09-22 12:24:22",
@@ -715,6 +699,22 @@
       "duration_ms": 136586,
       "name": "Summertime Friends",
       "url": "https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9"
+    },
+    {
+      "added_at": "2023-09-22 12:24:22",
+      "album": {
+        "name": "Your Bones",
+        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Your Bones",
+      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
     },
     {
       "added_at": "2023-09-22 12:24:22",

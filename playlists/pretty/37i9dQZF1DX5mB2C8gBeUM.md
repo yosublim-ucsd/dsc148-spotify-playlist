@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Alana Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,588 likes - 150 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,732 likes - 150 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 143 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 |
 | 144 | [Bottled Up](https://open.spotify.com/track/7ytcZJAveILPGewikd9BWS) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Bottled Up](https://open.spotify.com/album/26hH9QAdCtRTBWQO5K5cHu) | 2:37 |
 | 145 | [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/track/0MmVE2K5YbUxx54Kke0mWY) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/album/25ymYbAX8kx0LwzoDUSPzt) | 3:08 |
-| 146 | [Short Hills Rd](https://open.spotify.com/track/4Tz2IuV1BvvvYrdIlcNLST) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Hungover High](https://open.spotify.com/album/5vwpBehIqllJQB4xMrQV0W) | 3:14 |
+| 146 | [Short Hills Rd](https://open.spotify.com/track/76CbImfYH2XW0Cqg46NHk7) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Three Year Stint](https://open.spotify.com/album/7ho20BOMXgibthds40B1pn) | 3:14 |
 | 147 | [Sundress](https://open.spotify.com/track/38vqfi7hLRwfsY86jDGm6E) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Sundress](https://open.spotify.com/album/4RyDQPdeRS1ovDV58hGBKI) | 2:22 |
 | 148 | [Trust Issues](https://open.spotify.com/track/7FkaQnc8Gyd2hMpiDQrSsO) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Trust Issues](https://open.spotify.com/album/3tzlw58Anr8ZfQHqMn5lAt) | 3:23 |
 | 149 | [Why Can't Love Be The Reason \(feat\. Garzon\)](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Garzon](https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 |
 | 150 | [Built For A Small Town](https://open.spotify.com/track/63nM0Om7cYR9QJvpUVSweR) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX), [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Built For A Small Town](https://open.spotify.com/album/6QQwflGJROGzl0tYLM36if) | 3:09 |
 
-Snapshot ID: `MCw4ZWViODk2YzNmMDFhZmEwODNlYmE2NWFmMDdjYjdhZWIxMmJlZTkx`
+Snapshot ID: `MCw0OGIyZTVjNWZlMTkzYjdkZjFlOWJhZGEyNThiOTIyMmQ2YjhlYTYw`

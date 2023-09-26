@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 53910,
+  "num_followers": 54007,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWZjMmVkZDg4YTBlMDlkYzE5OWFlYTY3Y2UwYjRjNzk5ZTJkMmY3",
+  "snapshot_id": "MCxhNDViODc2MTg5MmM5M2Q4YWY0NDVhMzhmMTMzMjA3OGRlYWQ4NmVm",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Let's Face It",
         "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 194666,
       "name": "Train in Vain (Stand by Me) - Remastered",
       "url": "https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "The Shape Of Punk To Come (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
-      },
-      "artists": [
-        {
-          "name": "Refused",
-          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "New Noise",
-      "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Still Not Getting Any",
         "url": "https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 206773,
       "name": "Welcome to My Life",
       "url": "https://open.spotify.com/track/714Lw0m2SmCEhKSPw0Dn8J"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "The Shape Of Punk To Come (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
+      },
+      "artists": [
+        {
+          "name": "Refused",
+          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "New Noise",
+      "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
     },
     {
-      "added_at": "2022-01-10 21:04:09",
-      "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 136426,
-      "name": "Human Fly",
-      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
-    },
-    {
       "added_at": "2021-04-20 17:48:20",
       "album": {
         "name": "...And Out Come The Wolves",
@@ -487,6 +471,22 @@
       "duration_ms": 157586,
       "name": "Ruby Soho",
       "url": "https://open.spotify.com/track/0vfhk1lH3zYesFN1x7vV46"
+    },
+    {
+      "added_at": "2022-01-10 21:04:09",
+      "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "Human Fly",
+      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
     },
     {
       "added_at": "2022-01-10 21:04:09",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Adolescents",
-        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
-      },
-      "artists": [
-        {
-          "name": "Adolescents",
-          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
-        }
-      ],
-      "duration_ms": 186626,
-      "name": "Amoeba",
-      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 126453,
       "name": "Rockaway Beach - 2017 Remaster",
       "url": "https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Adolescents",
+        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
+      },
+      "artists": [
+        {
+          "name": "Adolescents",
+          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
     },
     {
       "added_at": "2021-04-20 17:48:20",

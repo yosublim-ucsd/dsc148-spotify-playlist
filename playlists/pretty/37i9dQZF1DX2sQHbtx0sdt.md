@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Morad
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,213 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,550 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 49 | [Oil in my Head](https://open.spotify.com/track/5zNWfIlGEVQ72uzVOGgAiZ) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:29 |
 | 50 | [YEAH](https://open.spotify.com/track/64lp69KnGmOUNnu9EaRTTI) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [YEAH](https://open.spotify.com/album/6Si3b37FOS0251tjPO3hB5) | 3:27 |
 
-Snapshot ID: `MCxlNjc4MzZiZDAxMTk0NTQ5Mjc5M2I3ZTVkMDQzNjE3YzNiOTEwOWE5`
+Snapshot ID: `MCwyMzdjY2Y5NjEwYTI5YTI1ODdmN2FkMmJmMjgyNjYzNTZhNjNmNmUy`

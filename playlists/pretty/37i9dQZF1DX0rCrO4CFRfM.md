@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,260 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,499 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 44 | [Walk On Water \- Acoustic](https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Walk On Water \(Acoustic\)](https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142) | 3:08 |
 | 45 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
 | 46 | [Pardon Me \- Acoustic](https://open.spotify.com/track/6L7CK4TVDKdfEhLHGk9Lg6) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [When Incubus Attacks, Vol\. 1](https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw) | 3:47 |
-| 47 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
-| 48 | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/track/2l2i0FeYCBkK0OdPMuBGeW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Teenage Dirtbag 2020 / Mope](https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16) | 4:32 |
+| 47 | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/track/2l2i0FeYCBkK0OdPMuBGeW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Teenage Dirtbag 2020 / Mope](https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16) | 4:32 |
+| 48 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 49 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 |
 | 50 | [Into The Fire \- Acoustic Version](https://open.spotify.com/track/5XFrgSArUenTn9wbPXDmtA) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Into The Fire \(Acoustic Version\)](https://open.spotify.com/album/0k24UhmxDogFwBroGUDymg) | 3:28 |
 
-Snapshot ID: `MCxjNGE0MGU5NWE1ODE2ZTVhNjZiY2FjYTRmMTg2ZWY4OTI4ZjRhZWI1`
+Snapshot ID: `MCxmMWIxM2Y0MDI0ZDAzZWFkMWJkNTU0ZDVhOWI1NDBmZjg3Y2NlNWZj`

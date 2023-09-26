@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 124686,
+  "num_followers": 125079,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODgyZDAwZjBjNDRjOTc5OTM3ZWVmYmNmZDgxMjQ3YzVmOGJjMDJi",
+  "snapshot_id": "MCxmOTY0NGM5ZGY1ZGQ1MzU0MmM0OGNkOTBlM2UyNzk0ZmY5N2MwOWRj",
   "tracks": [
     {
       "added_at": "2023-09-22 12:14:33",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "A I A: Alien Observer",
-        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Alien Observer",
-      "url": "https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Giles Corey",
         "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 376000,
       "name": "I'm Going to Do It",
       "url": "https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Alien Observer",
+      "url": "https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Heavy Water/I'd Rather Be Sleeping",
-      "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Giles Corey",
         "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 256394,
       "name": "Sea Creatures",
       "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Heavy Water/I'd Rather Be Sleeping",
+      "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -579,54 +579,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "Disengaged",
-      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Warmth of You",
-      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 477000,
-      "name": "The Haunting Presence",
-      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -647,6 +599,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Warmth of You",
+      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Green Wall",
         "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
       },
@@ -659,6 +627,38 @@
       "duration_ms": 122000,
       "name": "Waiting for Your Train",
       "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 477000,
+      "name": "The Haunting Presence",
+      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "Disengaged",
+      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "Below the House",
-      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "a mother's daughter",
         "url": "https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 168250,
       "name": "a mother's daughter",
       "url": "https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "Below the House",
+      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "As Bright as the Night",
+      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Eidetic",
         "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+        "name": "...Is Doomed",
+        "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "Black Wing",
+          "url": "https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo"
         }
       ],
-      "duration_ms": 296000,
-      "name": "As Bright as the Night",
-      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
+      "duration_ms": 505249,
+      "name": "If I Let Him In",
+      "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -995,22 +1011,6 @@
       "duration_ms": 645000,
       "name": "Dry Retch - 2021 Remaster",
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "...Is Doomed",
-        "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
-      },
-      "artists": [
-        {
-          "name": "Black Wing",
-          "url": "https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo"
-        }
-      ],
-      "duration_ms": 505249,
-      "name": "If I Let Him In",
-      "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
     },
     {
       "added_at": "2023-09-22 12:14:33",

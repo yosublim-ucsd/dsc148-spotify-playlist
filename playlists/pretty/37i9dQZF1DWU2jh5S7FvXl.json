@@ -1,12 +1,12 @@
 {
   "description": "15 years in the making, celebrating Random Album Title. Cover: deadmau5",
-  "num_followers": 80780,
+  "num_followers": 80875,
   "original_name": "Dance Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjYwMGMwMGFlM2E5ZjI0NDkzY2Y5Y2IwNzRkMWY2M2FmMWM3ZDk0",
+  "snapshot_id": "MCwyMzBlNzhjMmE4NjljNjEzYjZmNTEzMjg0YzhkNTYxZGU2MjdhYzJi",
   "tracks": [
     {
       "added_at": "2023-09-01 16:59:28",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-09-01 16:59:28",
       "album": {
-        "name": "The Days / Nights",
-        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 176658,
-      "name": "The Nights",
-      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
-    },
-    {
-      "added_at": "2023-09-01 16:59:28",
-      "album": {
         "name": "Give It To Me (Full Vocal Mix)",
         "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2023-09-01 16:59:28",
+      "album": {
+        "name": "The Days / Nights",
+        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 176658,
+      "name": "The Nights",
+      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
     },
     {
       "added_at": "2023-09-01 16:59:28",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2023-09-01 16:59:28",
       "album": {
+        "name": "Emorio",
+        "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Faf\u00e1 de Bel\u00e9m",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Emorio",
+      "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
+    },
+    {
+      "added_at": "2023-09-01 16:59:28",
+      "album": {
         "name": "Rainfall (Praise You)",
         "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
       },
@@ -1471,26 +1491,6 @@
     {
       "added_at": "2023-09-01 16:59:28",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 138819,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
-    },
-    {
-      "added_at": "2023-09-01 16:59:28",
-      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
       },
@@ -1555,6 +1555,26 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "added_at": "2023-09-01 16:59:28",
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 138819,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
     },
     {
       "added_at": "2023-09-01 16:59:28",
@@ -1759,22 +1779,6 @@
     {
       "added_at": "2023-09-01 16:59:28",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 273997,
-      "name": "SUMMER RENAISSANCE",
-      "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
-    },
-    {
-      "added_at": "2023-09-01 16:59:28",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -1795,6 +1799,22 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+    },
+    {
+      "added_at": "2023-09-01 16:59:28",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "SUMMER RENAISSANCE",
+      "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
     },
     {
       "added_at": "2023-09-01 16:59:28",
@@ -1875,22 +1895,6 @@
     {
       "added_at": "2023-09-01 16:59:28",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
-    },
-    {
-      "added_at": "2023-09-01 16:59:28",
-      "album": {
         "name": "My Heart Goes (La Di Da)",
         "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
       },
@@ -1907,6 +1911,22 @@
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
+    },
+    {
+      "added_at": "2023-09-01 16:59:28",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
     },
     {
       "added_at": "2023-09-01 16:59:28",
@@ -1995,22 +2015,6 @@
       "duration_ms": 319963,
       "name": "Baby again..",
       "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
-    },
-    {
-      "added_at": "2023-09-01 16:59:28",
-      "album": {
-        "name": "Never Going Home",
-        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
     }
   ],
   "unique_name": "Dance Favourites",

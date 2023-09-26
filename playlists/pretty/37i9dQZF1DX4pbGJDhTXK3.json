@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 130890,
+  "num_followers": 130922,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTQ1MDI4NDM1Y2NkMWUxMTAyMmExODJhZjA3YzEyMTVmMmU4MzI5",
+  "snapshot_id": "MCwyNWIzZDliYjJjNzZhODlkYTgxMzE4NTY0MTZlMDBlNzk2OGFkZGFk",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
+        "name": "The Ladder",
+        "url": "https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 333520,
+      "name": "The Ladder",
+      "url": "https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -155,38 +171,6 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "Byen",
-        "url": "https://open.spotify.com/album/1QBlMByP8mgFqlLPIzstKD"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
-        }
-      ],
-      "duration_ms": 474801,
-      "name": "Clean Air",
-      "url": "https://open.spotify.com/track/4EdyO4xkUucQiXbuLpSgmo"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "The Ladder",
-        "url": "https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 333520,
-      "name": "The Ladder",
-      "url": "https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -219,6 +203,22 @@
       "duration_ms": 421333,
       "name": "I Feel Space",
       "url": "https://open.spotify.com/track/2XwqNJ0IynowN5SEk3A6wP"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Byen",
+        "url": "https://open.spotify.com/album/1QBlMByP8mgFqlLPIzstKD"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+        }
+      ],
+      "duration_ms": 474801,
+      "name": "Clean Air",
+      "url": "https://open.spotify.com/track/4EdyO4xkUucQiXbuLpSgmo"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -403,6 +403,26 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
+        "name": "This Time, This Place\u2026",
+        "url": "https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Beki Mari",
+          "url": "https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6"
+        }
+      ],
+      "duration_ms": 464200,
+      "name": "This Time, This Place\u2026",
+      "url": "https://open.spotify.com/track/4JGxZc0tsSVQx2gw7rOQSz"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
         "name": "Echo to Echo",
         "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 503648,
       "name": "Closing Shot",
       "url": "https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "This Time, This Place\u2026",
-        "url": "https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Beki Mari",
-          "url": "https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6"
-        }
-      ],
-      "duration_ms": 464200,
-      "name": "This Time, This Place\u2026",
-      "url": "https://open.spotify.com/track/4JGxZc0tsSVQx2gw7rOQSz"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Staying In",
-        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
-      },
-      "artists": [
-        {
-          "name": "Diskjokke",
-          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "Staying In",
-      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
         "name": "Shortwave Memories",
         "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
@@ -567,26 +551,6 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Vegvisir (Nils Olav Remix)",
-        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
-      },
-      "artists": [
-        {
-          "name": "Helene B\u00f8ksle",
-          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
-        },
-        {
-          "name": "Nils Olav",
-          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
-        }
-      ],
-      "duration_ms": 372838,
-      "name": "Vegvisir (Nils Olav Remix)",
-      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/7nVorCP3wTcYLnvJHtURKX"
       },
@@ -603,6 +567,42 @@
       "duration_ms": 387760,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/4n8wv8NZB3HgMXYzszEDWm"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Staying In",
+        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
+      },
+      "artists": [
+        {
+          "name": "Diskjokke",
+          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Staying In",
+      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Vegvisir (Nils Olav Remix)",
+        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
+      },
+      "artists": [
+        {
+          "name": "Helene B\u00f8ksle",
+          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
+        },
+        {
+          "name": "Nils Olav",
+          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
+        }
+      ],
+      "duration_ms": 372838,
+      "name": "Vegvisir (Nils Olav Remix)",
+      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Curse of the Cancelled",
-        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
-      },
-      "artists": [
-        {
-          "name": "Ugress",
-          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
-        }
-      ],
-      "duration_ms": 142227,
-      "name": "Curse Of The Cancelled",
-      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
         "name": "Kuk Av Stal / November",
         "url": "https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 426575,
       "name": "Bommelom",
       "url": "https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Curse of the Cancelled",
+        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
+      },
+      "artists": [
+        {
+          "name": "Ugress",
+          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
+        }
+      ],
+      "duration_ms": 142227,
+      "name": "Curse Of The Cancelled",
+      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
     },
     {
       "added_at": "2023-08-02 08:46:27",

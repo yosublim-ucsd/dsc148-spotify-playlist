@@ -1,12 +1,12 @@
 {
   "description": "In the trap with Bad Bunny \ud83d\udc30 \ud83d\udd25",
-  "num_followers": 17549,
+  "num_followers": 17630,
   "original_name": "Trap Bunny",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGQ4NmI2MTg2MDhkZWQ5Y2E0ZjA2OTdjNjFjNWQ1NTYzMDMxMTAx",
+  "snapshot_id": "MCxhNjQ4MTNkZGFhMjllN2NlYWM0Zjg0NWMyYWI3MDgyMmYyMTE4NjAw",
   "tracks": [
     {
       "added_at": "2023-03-03 21:54:57",
@@ -131,6 +131,22 @@
     {
       "added_at": "2023-03-03 21:54:57",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Dos Mil 16",
+      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
+    },
+    {
+      "added_at": "2023-03-03 21:54:57",
+      "album": {
         "name": "Me Acostumbre (feat. Bad Bunny)",
         "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
       },
@@ -247,6 +263,22 @@
     {
       "added_at": "2023-03-03 21:54:57",
       "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+    },
+    {
+      "added_at": "2023-03-03 21:54:57",
+      "album": {
         "name": "Un Ratito Mas",
         "url": "https://open.spotify.com/album/0AIoxEYCgmfD856498j2dq"
       },
@@ -263,22 +295,6 @@
       "duration_ms": 283120,
       "name": "Un Ratito Mas",
       "url": "https://open.spotify.com/track/2SzgK8i6si6ETtu57nTdSn"
-    },
-    {
-      "added_at": "2023-03-03 21:54:57",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Dos Mil 16",
-      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
     },
     {
       "added_at": "2023-03-03 21:54:57",
@@ -355,22 +371,6 @@
       "duration_ms": 215593,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/4PE7pAJ3DDmJdxWzpsXrlS"
-    },
-    {
-      "added_at": "2023-03-03 21:54:57",
-      "album": {
-        "name": "Soy Peor",
-        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 257384,
-      "name": "Soy Peor",
-      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
     },
     {
       "added_at": "2023-03-03 21:54:57",

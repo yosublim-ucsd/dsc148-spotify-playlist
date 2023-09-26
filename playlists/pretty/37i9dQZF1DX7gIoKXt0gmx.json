@@ -1,12 +1,12 @@
 {
   "description": "All the vibes. All the feels. \ud83e\udee0 \ud83d\ude44 ",
-  "num_followers": 2685397,
+  "num_followers": 2685756,
   "original_name": "All The Feels",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTIwZWQwZTVkOGQ2MGIzOGRiMjZkYjQyYWFjZmIyMjcxMDYzYzFh",
+  "snapshot_id": "MCxkNDVmOGM2NTI3NTMyNjY2MjA3NGY3MGQxMDk5ZWEzN2Y4ZjY1MjNj",
   "tracks": [
     {
       "added_at": "2023-09-21 19:39:03",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 302346,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
-    },
-    {
-      "added_at": "2023-09-21 19:39:03",
-      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "added_at": "2023-09-21 19:39:03",
+      "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
     },
     {
       "added_at": "2023-09-21 19:39:03",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
-    },
-    {
-      "added_at": "2023-09-21 19:39:03",
-      "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 252746,
       "name": "Could've Been (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
+    },
+    {
+      "added_at": "2023-09-21 19:39:03",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 249320,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
     },
     {
       "added_at": "2023-09-21 19:39:03",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 249320,
-      "name": "Right My Wrongs",
-      "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2023-09-21 19:39:03",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
-        "name": "If You're Reading This It's Too Late",
-        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
-    },
-    {
-      "added_at": "2023-09-21 19:39:03",
-      "album": {
         "name": "There's Really A Wolf",
         "url": "https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 237506,
       "name": "Losin Control",
       "url": "https://open.spotify.com/track/4cxMGhkinTocPSVVKWIw0d"
+    },
+    {
+      "added_at": "2023-09-21 19:39:03",
+      "album": {
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
     },
     {
       "added_at": "2023-09-21 19:39:03",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 265120,
-      "name": "Doing It Wrong",
-      "url": "https://open.spotify.com/track/4eSGSqP2TZvvX0kadZZttM"
-    },
-    {
-      "added_at": "2023-09-21 19:39:03",
-      "album": {
         "name": "Selfless",
         "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
       },
@@ -655,38 +639,6 @@
       "duration_ms": 181266,
       "name": "Wicked Games",
       "url": "https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km"
-    },
-    {
-      "added_at": "2023-09-21 19:39:03",
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "The Worst",
-      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
-    },
-    {
-      "added_at": "2023-09-21 19:39:03",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2023-09-21 19:39:03",
@@ -711,6 +663,38 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 265120,
+      "name": "Doing It Wrong",
+      "url": "https://open.spotify.com/track/4eSGSqP2TZvvX0kadZZttM"
+    },
+    {
+      "added_at": "2023-09-21 19:39:03",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "added_at": "2023-09-21 19:39:03",
+      "album": {
         "name": "Kauai",
         "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 252013,
       "name": "Sober",
       "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
+    },
+    {
+      "added_at": "2023-09-21 19:39:03",
+      "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/0j7uROzHS1tk3SmgP6zSPi"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/4K5d58UkmjqNsA7kY43jgt"
     },
     {
       "added_at": "2023-09-21 19:39:03",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
-        "name": "Volume 1",
-        "url": "https://open.spotify.com/album/0j7uROzHS1tk3SmgP6zSPi"
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Honesty",
-      "url": "https://open.spotify.com/track/4K5d58UkmjqNsA7kY43jgt"
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
       "added_at": "2023-09-21 19:39:03",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
+    },
+    {
+      "added_at": "2023-09-21 19:39:03",
+      "album": {
         "name": "- Ugh, those feels again",
         "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "True Colors",
-      "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
-    },
-    {
-      "added_at": "2023-09-21 19:39:03",
-      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 172131,
-      "name": "Make Me Stay",
-      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
-    },
-    {
-      "added_at": "2023-09-21 19:39:03",
-      "album": {
         "name": "Give Or Take",
         "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 182439,
       "name": "Lie Again",
       "url": "https://open.spotify.com/track/2OTRqsDes7OYRRwbF2JXsa"
+    },
+    {
+      "added_at": "2023-09-21 19:39:03",
+      "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 172131,
+      "name": "Make Me Stay",
+      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
     },
     {
       "added_at": "2023-09-21 19:39:03",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "4th Baby Mama",
-      "url": "https://open.spotify.com/track/3WSBP6JEf4Y2aKD2swQ8AG"
-    },
-    {
-      "added_at": "2023-09-21 19:39:03",
-      "album": {
         "name": "Cheat (feat. JoJo)",
         "url": "https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 202009,
       "name": "Cheat (feat. JoJo)",
       "url": "https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE"
+    },
+    {
+      "added_at": "2023-09-21 19:39:03",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "4th Baby Mama",
+      "url": "https://open.spotify.com/track/3WSBP6JEf4Y2aKD2swQ8AG"
     },
     {
       "added_at": "2023-09-21 19:39:03",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
+        "name": "Give Me Time",
+        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 154702,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
+    },
+    {
+      "added_at": "2023-09-21 19:39:03",
+      "album": {
         "name": "Still FWM",
         "url": "https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO"
       },
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
-        "name": "Give Me Time",
-        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 154702,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
-    },
-    {
-      "added_at": "2023-09-21 19:39:03",
-      "album": {
         "name": "PARTYNEXTDOOR 3 (P3)",
         "url": "https://open.spotify.com/album/7wuiHCscUN4WZV4jdLEFHt"
       },
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-09-21 19:39:03",
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 153226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
-    },
-    {
-      "added_at": "2023-09-21 19:39:03",
-      "album": {
         "name": "Wake Up Love",
         "url": "https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 215329,
       "name": "Wake Up Love",
       "url": "https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin"
+    },
+    {
+      "added_at": "2023-09-21 19:39:03",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
     },
     {
       "added_at": "2023-09-21 19:39:03",

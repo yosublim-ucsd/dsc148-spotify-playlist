@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW!  BERCHANDYA! Cover: DOLLA",
-  "num_followers": 16004,
+  "num_followers": 16016,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGRiMjdkYzc1NDk5YmRkNDhmZGY4OTNlYzIzNThhZGQ3NjFjMTYy",
+  "snapshot_id": "MCw1Mzc1NzE5MTVhNGYzZjNmODJkYjU4MWZhMTg2ZmVhZGZhNTc3Y2U1",
   "tracks": [
     {
       "added_at": "2023-09-22 03:18:58",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-09-22 03:18:58",
       "album": {
-        "name": "Manusia",
-        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Diri",
-      "url": "https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U"
-    },
-    {
-      "added_at": "2023-09-22 03:18:58",
-      "album": {
         "name": "terima kasih",
         "url": "https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-09-22 03:18:58",
       "album": {
-        "name": "Jalan Pulang",
-        "url": "https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme"
+        "name": "Manusia",
+        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
       },
       "artists": [
         {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 216835,
-      "name": "Jalan Pulang",
-      "url": "https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP"
+      "duration_ms": 240000,
+      "name": "Diri",
+      "url": "https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U"
     },
     {
       "added_at": "2023-09-22 03:18:58",
@@ -799,6 +783,22 @@
       "duration_ms": 270640,
       "name": "Senja Teduh Pelita",
       "url": "https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs"
+    },
+    {
+      "added_at": "2023-09-22 03:18:58",
+      "album": {
+        "name": "Jalan Pulang",
+        "url": "https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "duration_ms": 216835,
+      "name": "Jalan Pulang",
+      "url": "https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP"
     },
     {
       "added_at": "2023-09-22 03:18:58",

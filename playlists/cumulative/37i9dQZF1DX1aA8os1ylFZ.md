@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-405 songs - 21 hr 14 min
+406 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2023-01-12 | 2023-03-09 |
 | [Pleasure & Pain](https://open.spotify.com/track/36xSEKbM5mpSiErUfYvzW0) | [K\. Roosevelt](https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu) | [Solstice](https://open.spotify.com/album/0qirqalFHKsdczuFN3mcEL) | 2:58 | 2023-05-24 |  |
 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 | 2023-01-12 |  |
-| [PPL](https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [PPL](https://open.spotify.com/album/1xpCtREzKaMD49H0qoeaGk) | 3:14 | 2023-09-21 |  |
+| [PPL](https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [PPL](https://open.spotify.com/album/1xpCtREzKaMD49H0qoeaGk) | 3:14 | 2023-09-21 | 2023-09-26 |
 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 | 2023-01-26 | 2023-09-01 |
 | [Preach](https://open.spotify.com/track/6wAFJrqup7D88zL1bB4QS4) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Preach](https://open.spotify.com/album/4vMuWB97ayjrzYVwDog2wp) | 2:55 | 2021-12-16 | 2023-01-13 |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2023-01-12 | 2023-01-27 |
@@ -302,6 +302,7 @@
 | [Ride](https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C) | [Kim Petite](https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6), [Eurosoundz](https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn) | [Ride](https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja) | 2:59 | 2023-08-31 |  |
 | [Ride with You](https://open.spotify.com/track/0pwGmwNir2jkqhWhBu9WqB) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Mike Tibbert](https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75) | [Ride with You](https://open.spotify.com/album/6Ugju3J2yU7PfOk0nSAkBF) | 2:44 | 2023-03-02 |  |
 | [Right Here](https://open.spotify.com/track/3MyV9WDPuS1k13pCuydC1P) | [Nicolas Kanza](https://open.spotify.com/artist/751YCAfHx8dQSUbAN8Q9dl) | [Same Love; A Romanticized Timeline](https://open.spotify.com/album/7zpZjaxYyeqio38VIkravV) | 3:02 | 2021-12-16 | 2022-01-21 |
+| [Rise](https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [Rise](https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU) | 2:50 | 2023-09-21 |  |
 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2023-01-12 | 2023-09-15 |
 | [Risking It All](https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ), [Kiki Rowe](https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP) | [Risking It All](https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB) | 3:10 | 2023-09-21 |  |
 | [River](https://open.spotify.com/track/0vXQyArM2NgDjaL48aO8Ha) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [From the Heart](https://open.spotify.com/album/61lKZn6WGuakiPrd6j8i9f) | 3:44 | 2021-12-16 | 2023-02-17 |

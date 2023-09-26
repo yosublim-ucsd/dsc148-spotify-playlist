@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un Negroni in mano\. 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,448 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,655 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 24 | [Kong](https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:57 |
 | 25 | [My Friend](https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 5:00 |
 | 26 | [Thinking of You \- 1995 Remaster](https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 4:26 |
-| 27 | [Ask Me](https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Ask Me / Mesmerize](https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws) | 3:13 |
-| 28 | [Falling for You](https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Falling for You](https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA) | 3:10 |
-| 29 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
+| 27 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
+| 28 | [Ask Me](https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Ask Me / Mesmerize](https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws) | 3:13 |
+| 29 | [Falling for You](https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Falling for You](https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA) | 3:10 |
 | 30 | [Armaghetton \- Aeroplane Remix](https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Greeko](https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Armaghetton \(Aeroplane Remix\)](https://open.spotify.com/album/1es3fJXc54eFu7uUZkSsrh) | 3:33 |
 | 31 | [The Big Easy](https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [The Big Easy](https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf) | 3:05 |
 | 32 | [Lightenup](https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:57 |
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 39 | [These Are Just Places To Me Now](https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Ordinary Drugs](https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms) | 7:01 |
 | 40 | [Minimal \- Dj Koze Remix](https://open.spotify.com/track/7zSDTiE5xmuXlCz7mfYhlE) | [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe) | [Minimal](https://open.spotify.com/album/55yKmNclMIb7WaDrT0bqbD) | 6:07 |
 | 41 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
-| 42 | [Instant Need](https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Time for a Change](https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb) | 4:30 |
-| 43 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
-| 44 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 |
+| 42 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
+| 43 | [Instant Need](https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Time for a Change](https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb) | 4:30 |
+| 44 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
 | 45 | [Alala](https://open.spotify.com/track/2GRrIHGGboa714SZeVcprI) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Azulejos](https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J) | 3:34 |
-| 46 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
+| 46 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 |
 | 47 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 |
 | 48 | [Keep the Fire Burning](https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [On My Way](https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9) | 5:44 |
 | 49 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 99 | [Closer](https://open.spotify.com/track/7mJvI2K63TtchC9Eyiia9W) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Beaubien Dream](https://open.spotify.com/album/1LEWPND2aRAZNw0U8qyqGJ) | 6:57 |
 | 100 | [Mandala](https://open.spotify.com/track/2gSQxp5MPT7O25IZh8xcGO) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 3:01 |
 
-Snapshot ID: `MCxiZWZiODY5NTEzMzZhZWE4NWY5MzEzNTc5YzlkMTc0YTMzODkxNDgz`
+Snapshot ID: `MCxhOWZjOWU5NTNkMWM1Yzk4OTNlODQyN2RmOThlNTdlZWIxNGZjZDhm`

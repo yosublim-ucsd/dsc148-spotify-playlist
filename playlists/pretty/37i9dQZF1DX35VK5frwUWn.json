@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1440,
+  "num_followers": 1444,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjk2NWE1YzY1NDc5MTFiZmMzMGI2MDk2YjE3Y2I5Yjc3NzBhY2Zl",
+  "snapshot_id": "MCwwYjRkNzgyOGNhMTY0ZDc1YjZkNmQyNWFiMzg3ZDhmOWNlOGQ5ZDk2",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -103,6 +103,30 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 242965,
+      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
+      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "No Flockin'",
         "url": "https://open.spotify.com/album/12YTH28wiBXQ16gvWOCMLU"
       },
@@ -115,6 +139,26 @@
       "duration_ms": 165290,
       "name": "No Flockin'",
       "url": "https://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 209269,
+      "name": "Drowning (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -139,30 +183,6 @@
       "duration_ms": 219000,
       "name": "La Mam\u00e1 de la Mam\u00e1",
       "url": "https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        }
-      ],
-      "duration_ms": 242965,
-      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
-      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -199,26 +219,6 @@
       "duration_ms": 136899,
       "name": "Time Today",
       "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "The Bigger Artist",
-        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 209269,
-      "name": "Drowning (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -311,26 +311,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "BETTER THAN YOU",
-        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 111970,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 192956,
       "name": "Wants and Needs (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "BETTER THAN YOU",
+        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 111970,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -407,6 +407,38 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Jesus Walks",
+      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "In A Minute",
         "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
       },
@@ -439,22 +471,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Jesus Walks",
-      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Let's Get It: Thug Motivation 101",
         "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
       },
@@ -471,58 +487,6 @@
       "duration_ms": 280013,
       "name": "Soul Survivor",
       "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 243227,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "High Off Life",
-        "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 193656,
-      "name": "Hard To Choose One",
-      "url": "https://open.spotify.com/track/66z5CuZkqkb18VhFTRwbZk"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 214214,
-      "name": "Commercial (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/3tDqEKKUs6gf8zMvSuLyLA"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -547,6 +511,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "High Off Life",
+        "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 193656,
+      "name": "Hard To Choose One",
+      "url": "https://open.spotify.com/track/66z5CuZkqkb18VhFTRwbZk"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "Code Red",
         "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 155168,
       "name": "Said Sum",
       "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 214214,
+      "name": "Commercial (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/3tDqEKKUs6gf8zMvSuLyLA"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 216547,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/3jweuceENR5zzn10LhcjPH"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 146732,
       "name": "See Wat I\u2019m Sayin",
       "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 216547,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/3jweuceENR5zzn10LhcjPH"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 271840,
-      "name": "I'M DAT N****",
-      "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 213000,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 271840,
+      "name": "I'M DAT N****",
+      "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
     },
     {
       "added_at": "2022-11-01 04:00:00",

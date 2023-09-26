@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 168569,
+  "num_followers": 168590,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2MyNTZmMzE0OGY3ODEzYTc4OTBlYmNjYTgzM2YyZDM1MWRmYWVk",
+  "snapshot_id": "MCw3OWE0MzBhOTE1ZDIxZmQ5ZmY3MmQ5MGU0MDZkZWYxNjg3NGFlODY5",
   "tracks": [
     {
       "added_at": "2023-09-22 17:20:44",
@@ -299,22 +299,26 @@
     {
       "added_at": "2023-09-22 17:20:44",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
       "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 203200,
-      "name": "LA NOCHE DE ANOCHE",
-      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
+      "duration_ms": 207301,
+      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
     },
     {
       "added_at": "2023-09-22 17:20:44",
@@ -343,26 +347,22 @@
     {
       "added_at": "2023-09-22 17:20:44",
       "album": {
-        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
       "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 207301,
-      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+      "duration_ms": 203200,
+      "name": "LA NOCHE DE ANOCHE",
+      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
     },
     {
       "added_at": "2023-09-22 17:20:44",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-09-22 17:20:44",
       "album": {
+        "name": "VENTE CONMIGO",
+        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "VENTE CONMIGO",
+      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
+    },
+    {
+      "added_at": "2023-09-22 17:20:44",
+      "album": {
         "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
         "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 260000,
       "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
       "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
-    },
-    {
-      "added_at": "2023-09-22 17:20:44",
-      "album": {
-        "name": "VENTE CONMIGO",
-        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "VENTE CONMIGO",
-      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
     },
     {
       "added_at": "2023-09-22 17:20:44",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-09-22 17:20:44",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
-    },
-    {
-      "added_at": "2023-09-22 17:20:44",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 171986,
       "name": "Normal",
       "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2023-09-22 17:20:44",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
     },
     {
       "added_at": "2023-09-22 17:20:44",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-22 17:20:44",
       "album": {
-        "name": "AfroLOVA' 23",
-        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "Solita y SueltAAA",
-      "url": "https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf"
-    },
-    {
-      "added_at": "2023-09-22 17:20:44",
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -747,22 +731,6 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
-    },
-    {
-      "added_at": "2023-09-22 17:20:44",
-      "album": {
-        "name": "Si Te La Encuentras Por Ah\u00ed",
-        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Si Te La Encuentras Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
     },
     {
       "added_at": "2023-09-22 17:20:44",
@@ -787,22 +755,6 @@
     {
       "added_at": "2023-09-22 17:20:44",
       "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Pineapple",
-      "url": "https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY"
-    },
-    {
-      "added_at": "2023-09-22 17:20:44",
-      "album": {
         "name": "PAPI JUANCHO",
         "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
@@ -819,6 +771,54 @@
       "duration_ms": 198569,
       "name": "Madrid (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
+    },
+    {
+      "added_at": "2023-09-22 17:20:44",
+      "album": {
+        "name": "Si Te La Encuentras Por Ah\u00ed",
+        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Si Te La Encuentras Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
+    },
+    {
+      "added_at": "2023-09-22 17:20:44",
+      "album": {
+        "name": "AfroLOVA' 23",
+        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "Solita y SueltAAA",
+      "url": "https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf"
+    },
+    {
+      "added_at": "2023-09-22 17:20:44",
+      "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY"
     },
     {
       "added_at": "2023-09-22 17:20:44",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-09-22 17:20:44",
       "album": {
+        "name": "Qui\u00e9reme Mientras Se Pueda",
+        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Qui\u00e9reme Mientras Se Pueda",
+      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
+    },
+    {
+      "added_at": "2023-09-22 17:20:44",
+      "album": {
         "name": "BILLBOARD",
         "url": "https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 234984,
       "name": "BILLBOARD",
       "url": "https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc"
-    },
-    {
-      "added_at": "2023-09-22 17:20:44",
-      "album": {
-        "name": "Qui\u00e9reme Mientras Se Pueda",
-        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Qui\u00e9reme Mientras Se Pueda",
-      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
     },
     {
       "added_at": "2023-09-22 17:20:44",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-09-22 17:20:44",
       "album": {
-        "name": "Qui\u00e9reme As\u00ed",
-        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 188193,
-      "name": "Qui\u00e9reme As\u00ed",
-      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
-    },
-    {
-      "added_at": "2023-09-22 17:20:44",
-      "album": {
         "name": "Seguro Te Pierdo",
         "url": "https://open.spotify.com/album/7h3OzZVHw9pFcnmwuYVoKt"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 174000,
       "name": "Seguro Te Pierdo",
       "url": "https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55"
+    },
+    {
+      "added_at": "2023-09-22 17:20:44",
+      "album": {
+        "name": "Qui\u00e9reme As\u00ed",
+        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188193,
+      "name": "Qui\u00e9reme As\u00ed",
+      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
     },
     {
       "added_at": "2023-09-22 17:20:44",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2023-09-22 17:20:44",
       "album": {
-        "name": "Oversize",
-        "url": "https://open.spotify.com/album/2EyTkM97uYQBLMht5Fw7tu"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "La Segura",
-      "url": "https://open.spotify.com/track/5DLK0uvYApI5xiRQTAZwJz"
-    },
-    {
-      "added_at": "2023-09-22 17:20:44",
-      "album": {
         "name": "HASTA ABAJO",
         "url": "https://open.spotify.com/album/2eM85kZYl1Lz7tjp0MTGo1"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 229946,
       "name": "HASTA ABAJO",
       "url": "https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq"
+    },
+    {
+      "added_at": "2023-09-22 17:20:44",
+      "album": {
+        "name": "Oversize",
+        "url": "https://open.spotify.com/album/2EyTkM97uYQBLMht5Fw7tu"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "La Segura",
+      "url": "https://open.spotify.com/track/5DLK0uvYApI5xiRQTAZwJz"
     },
     {
       "added_at": "2023-09-22 17:20:44",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-09-22 17:20:44",
       "album": {
-        "name": "Sin Novia",
-        "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "Sin Novia",
-      "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
-    },
-    {
-      "added_at": "2023-09-22 17:20:44",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 239206,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1"
+    },
+    {
+      "added_at": "2023-09-22 17:20:44",
+      "album": {
+        "name": "Sin Novia",
+        "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "Sin Novia",
+      "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
     },
     {
       "added_at": "2023-09-22 17:20:44",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-09-22 17:20:44",
       "album": {
-        "name": "Maviri",
-        "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 135797,
-      "name": "Maviri",
-      "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
-    },
-    {
-      "added_at": "2023-09-22 17:20:44",
-      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 181068,
       "name": "Casino",
       "url": "https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak"
+    },
+    {
+      "added_at": "2023-09-22 17:20:44",
+      "album": {
+        "name": "Maviri",
+        "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 135797,
+      "name": "Maviri",
+      "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
     },
     {
       "added_at": "2023-09-22 17:20:44",
@@ -1891,18 +1891,22 @@
     {
       "added_at": "2023-09-22 17:20:44",
       "album": {
-        "name": "SIN PASAPORTE",
-        "url": "https://open.spotify.com/album/1SALlUm92ddn9Ku78OlqhS"
+        "name": "POKE FREESTYLE",
+        "url": "https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3"
       },
       "artists": [
         {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
         }
       ],
-      "duration_ms": 128065,
-      "name": "SIN PASAPORTE",
-      "url": "https://open.spotify.com/track/2i5SWPFQ3voJAi50uhMm5D"
+      "duration_ms": 203293,
+      "name": "POKE FREESTYLE",
+      "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
     }
   ],
   "unique_name": "Tranqui",

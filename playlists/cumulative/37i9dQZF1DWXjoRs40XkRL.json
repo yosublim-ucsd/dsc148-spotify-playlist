@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 288214,
       "name": "Holi Re",
       "url": "https://open.spotify.com/track/5w75ZsIlgwwsOiDckZVJa2"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 224761,
       "name": "Ka Karoon",
       "url": "https://open.spotify.com/track/03J3QJbBmdsjdyfd9g0kYO"
@@ -1536,6 +1536,32 @@
       "duration_ms": 157920,
       "name": "Kaahe Kanha",
       "url": "https://open.spotify.com/track/4SACOzcQaUqp3Q0EDEAdj0"
+    },
+    {
+      "album": {
+        "name": "Kaahe Mora",
+        "url": "https://open.spotify.com/album/1id29HX2mmvJ7z0oBvGKtj"
+      },
+      "artists": [
+        {
+          "name": "Pratiksha Vashishtha",
+          "url": "https://open.spotify.com/artist/1kkz7GtycrTZlHi5bvwFmS"
+        },
+        {
+          "name": "Neha Karode",
+          "url": "https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN"
+        },
+        {
+          "name": "Brince Bora",
+          "url": "https://open.spotify.com/artist/3a9AFql5eXNvFoK0maNFPp"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Kaahe Mora",
+      "url": "https://open.spotify.com/track/08kAskvvh6HiUxmeiN9CnL"
     },
     {
       "album": {
@@ -2220,6 +2246,28 @@
       "duration_ms": 217808,
       "name": "Nadiya",
       "url": "https://open.spotify.com/track/5BqazWSXUaB9YdWBmSvABd"
+    },
+    {
+      "album": {
+        "name": "Nadiya Bairi Bhayi",
+        "url": "https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Nadiya Bairi Bhayi",
+      "url": "https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc"
     },
     {
       "album": {

@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "7K op je feestje",
+        "url": "https://open.spotify.com/album/3ElOBNDYJI00N3IDimQ4ex"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Antybanty",
+          "url": "https://open.spotify.com/artist/0gndIS0odhxIsyIfgDj9pK"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130485,
+      "name": "7K Op Je Feestje",
+      "url": "https://open.spotify.com/track/3StdsywJPGA9TskfcwQpPa"
+    },
+    {
+      "album": {
         "name": "Aan Vakantie Toe",
         "url": "https://open.spotify.com/album/4onWLoRGEa7joTr8apOuXg"
       },
@@ -249,6 +271,28 @@
     },
     {
       "album": {
+        "name": "After van de After",
+        "url": "https://open.spotify.com/album/1yGqOW3uDceAK1J6BUuUFS"
+      },
+      "artists": [
+        {
+          "name": "Turfy Gang",
+          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "After van de After",
+      "url": "https://open.spotify.com/track/2spa45WfQMrdEGLM9ZjDR4"
+    },
+    {
+      "album": {
         "name": "Luxeprobleem",
         "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
       },
@@ -290,7 +334,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 166666,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
@@ -826,7 +870,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 147925,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/6SEnSnZvVF9jW5OGQpSgBc"
@@ -888,6 +932,24 @@
       "duration_ms": 166778,
       "name": "Bittersweet Goodbye",
       "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
+    },
+    {
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "album": {
@@ -1968,7 +2030,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 165175,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
@@ -2340,7 +2402,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 102860,
       "name": "Give It To Me - Full Vocal Mix",
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
@@ -2446,6 +2508,24 @@
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
+    },
+    {
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "album": {
@@ -2810,7 +2890,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 171263,
       "name": "I Do",
       "url": "https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja"
@@ -2986,6 +3066,32 @@
       "duration_ms": 167476,
       "name": "Jij Weet (met Kevin)",
       "url": "https://open.spotify.com/track/14HMCFIl34MdgbIOmyfbsE"
+    },
+    {
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
     },
     {
       "album": {
@@ -3572,7 +3678,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 131357,
       "name": "Naughty",
       "url": "https://open.spotify.com/track/42UehjzjbsPaN3Xq0B8F2D"
@@ -3814,6 +3920,28 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB"
+    },
+    {
+      "album": {
+        "name": "On My Love",
+        "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222911,
+      "name": "On My Love",
+      "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
     },
     {
       "album": {
@@ -4210,7 +4338,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -5074,7 +5202,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 145001,
       "name": "Stout, Bad & Vies",
       "url": "https://open.spotify.com/track/15jJDcp0hJnpuYQz0eTf5l"
@@ -5634,7 +5762,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 191185,
       "name": "Used To Be Young",
       "url": "https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms"
@@ -5670,7 +5798,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 177637,
       "name": "Vanzelfsprekend",
       "url": "https://open.spotify.com/track/2H9CK7ENR8g4QyczIq2dE5"
@@ -6224,7 +6352,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 152990,
       "name": "Zoals Jij",
       "url": "https://open.spotify.com/track/3NjCVq7Mi6RsrG2yzY74Hl"

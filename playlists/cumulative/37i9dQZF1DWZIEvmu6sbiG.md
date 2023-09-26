@@ -4,7 +4,7 @@
 
 > Scopa, paletta e musica!
 
-289 songs - 19 hr 21 min
+290 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Never Ending Story](https://open.spotify.com/track/1F43XlPBiwAUUIhrUGzylO) | [Limahl](https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D) | [Don't Suppose](https://open.spotify.com/album/4alO1zj0clrqWUwC4a9rkL) | 3:32 | 2021-07-19 | 2022-07-29 |
 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 | 2021-07-19 |  |
 | [Next To Me](https://open.spotify.com/track/31VOknKjFrEX47bZXzqcoF) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:50 | 2021-07-19 | 2022-07-29 |
+| [Ni\*\*as In Paris](https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 3:39 | 2023-07-14 |  |
 | [Ni\*\*as In Paris](https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:39 | 2021-07-19 | 2023-08-31 |
 | [Nightswimming](https://open.spotify.com/track/2xLSFrm2oBeMtBMjlAoZSC) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People \(U.S\. Version\)](https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf) | 4:18 | 2021-07-19 | 2022-07-29 |
 | [No Woman, No Cry \- Live At The Lyceum, London/1975](https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Live!](https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik) | 7:07 | 2021-07-19 | 2022-07-28 |
@@ -238,7 +239,7 @@
 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 | 2021-07-19 | 2022-07-27 |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2021-07-19 |  |
 | [Streets of Philadelphia \- Single Edit](https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 3:15 | 2021-07-19 | 2022-07-29 |
-| [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 | 2021-07-19 |  |
+| [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 | 2021-07-19 | 2023-09-26 |
 | [Sultans Of Swing](https://open.spotify.com/track/3LTMnFa0hhwisyq6ILahyj) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits \(Remastered\)](https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX) | 5:48 | 2021-07-19 | 2022-07-29 |
 | [Sunday Best \- Acoustic Version](https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best \(Acoustic Version\)](https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu) | 2:30 | 2021-07-19 |  |
 | [Sunday Bloody Sunday \- Remastered 2008](https://open.spotify.com/track/4nuUssdgKFy2QyYHHNkZQW) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4Saua162eaEOksYc8TrB74) | 4:39 | 2021-07-19 | 2022-07-29 |

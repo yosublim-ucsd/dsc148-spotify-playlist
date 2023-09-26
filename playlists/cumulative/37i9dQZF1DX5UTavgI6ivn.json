@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Con sabor y perrenque, aqu\u00ed est\u00e1 lo mejor de \"la tierra de los mil ritmos\"! En portada: Blessd y Maluma",
+  "description": "\u00a1Con sabor y perrenque, aqu\u00ed est\u00e1 lo mejor de \"la tierra de los mil ritmos\"! En portada: Shakira. #DiaDeShakira",
   "name": "Made in Colombia",
   "tracks": [
     {
@@ -154,6 +154,24 @@
       "duration_ms": 205426,
       "name": "A Dios Le Pido - Remastered 2022",
       "url": "https://open.spotify.com/track/1qLtWgyXlpEgAstbyksv4V"
+    },
+    {
+      "album": {
+        "name": "Acr\u00f3stico",
+        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170785,
+      "name": "Acr\u00f3stico",
+      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
     },
     {
       "album": {
@@ -938,7 +956,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 148723,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi"

@@ -1,12 +1,12 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 362650,
+  "num_followers": 362736,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTA3NjUzZmQyYzVhZGQ1NmFiN2FlNjlhNGU1MjQ1ODM1NjJkOWE1",
+  "snapshot_id": "MCw4ODhiMjgxN2Y1OTIzZTljOWZhNzI4MDJhYjA0YmJmNzQ5ZDBlYTE0",
   "tracks": [
     {
       "added_at": "2023-04-28 21:32:28",
@@ -175,26 +175,6 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 270586,
-      "name": "Still D.R.E.",
-      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
       },
@@ -207,22 +187,6 @@
       "duration_ms": 202266,
       "name": "Paint It, Black",
       "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -243,6 +207,42 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 270586,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
         "name": "Eye In The Sky (Expanded Edition)",
         "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
       },
@@ -255,22 +255,6 @@
       "duration_ms": 115280,
       "name": "Sirius",
       "url": "https://open.spotify.com/track/4OV0sRTFrZLXaZZ1sS9hLn"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -339,6 +323,42 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 297786,
+      "name": "Till I Collapse",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 191946,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 297786,
-      "name": "Till I Collapse",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 180522,
       "name": "Going Bad (feat. Drake)",
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Not Afraid",
-      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
-        "name": "Trapt",
-        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
-      },
-      "artists": [
-        {
-          "name": "Trapt",
-          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
-        }
-      ],
-      "duration_ms": 285569,
-      "name": "Headstrong",
-      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
+        "name": "Trapt",
+        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
+      },
+      "artists": [
+        {
+          "name": "Trapt",
+          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
+        }
+      ],
+      "duration_ms": 285569,
+      "name": "Headstrong",
+      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
     },
     {
       "added_at": "2023-04-28 21:32:28",

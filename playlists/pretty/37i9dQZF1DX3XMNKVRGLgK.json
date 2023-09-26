@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 13926,
+  "num_followers": 13976,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjU0NzMyMGNkYWM0MDY2MTdkNDFkZTdmMGJiMmEyNDkyOTQ2NzM5",
+  "snapshot_id": "MCw3YjBhYWU3NTgwNDM1NWZjMTNmYjJiNzUzOTE3NjM3ZTQ1NzYyNDM2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 256706,
-      "name": "Who Gon Stop Me",
-      "url": "https://open.spotify.com/track/2eqOjSC8dY1iFrQiJGPDOX"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "800 BC",
         "url": "https://open.spotify.com/album/2F8sqO6n3U3NO8t1qVLWs0"
       },
@@ -515,6 +495,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 256706,
+      "name": "Who Gon Stop Me",
+      "url": "https://open.spotify.com/track/2eqOjSC8dY1iFrQiJGPDOX"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 264866,
       "name": "The Roc (Just Fire)",
       "url": "https://open.spotify.com/track/0CuKb9Iy8CLnSGJM5VemIK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 261742,
+      "name": "Championships",
+      "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -579,22 +595,6 @@
       "duration_ms": 82000,
       "name": "queens shit.",
       "url": "https://open.spotify.com/track/5fKB3QygGZfzgyapUCTpV9"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 261742,
-      "name": "Championships",
-      "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
     }
   ],
   "unique_name": "Nigel Sylvester's Taste",

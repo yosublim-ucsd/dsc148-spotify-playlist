@@ -1033,6 +1033,28 @@
     },
     {
       "album": {
+        "name": "Custom Plates",
+        "url": "https://open.spotify.com/album/0HNjgmOTGV8ItdSrdUenzB"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212804,
+      "name": "Custom Plates",
+      "url": "https://open.spotify.com/track/6E3HTboHC8qQ4Nht4XXLLx"
+    },
+    {
+      "album": {
         "name": "Daku",
         "url": "https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR"
       },
@@ -1530,7 +1552,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 175714,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/7rlulUEMn27TLbdHpNPugE"
@@ -2624,6 +2646,24 @@
       "duration_ms": 170322,
       "name": "MAJHE AALE",
       "url": "https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov"
+    },
+    {
+      "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/7ebGqKGjGg7aaBs5OTOnbM"
+      },
+      "artists": [
+        {
+          "name": "Pari Pandher",
+          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155972,
+      "name": "Malwain",
+      "url": "https://open.spotify.com/track/2BW6LkyuZjrSgRsCOLL45B"
     },
     {
       "album": {

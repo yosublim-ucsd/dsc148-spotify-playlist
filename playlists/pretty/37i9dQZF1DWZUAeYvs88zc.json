@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 569403,
+  "num_followers": 569675,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGJjYjVlYTNkZjJhMmFjNDlhYTMzNjYzZGU3ZmI4YzRhMjUzNmFj",
+  "snapshot_id": "MCxjNzgyMzY0NGIzN2VmZWM1MjRjZTg2NmYwMjBhZTY2NGZjOWZkYjEy",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "feel like shit",
+        "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 204314,
+      "name": "feel like shit",
+      "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "feel like shit",
-        "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 204314,
-      "name": "feel like shit",
-      "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Pang",
         "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 188616,
       "name": "Can't Do Better",
       "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "rubberband",
+        "url": "https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 147713,
+      "name": "rubberband",
+      "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -735,22 +751,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "How Long - From\"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 278200,
       "name": "Neon Moon - with Kacey Musgraves",
       "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "How Long - From\"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -803,42 +819,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "rubberband",
-        "url": "https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 147713,
-      "name": "rubberband",
-      "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "You Know What I Need",
-        "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "You Know What I Need",
-      "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "aftermath",
         "url": "https://open.spotify.com/album/1fwElcYJZ9su3GXu627HNs"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 180488,
       "name": "The Bottom",
       "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "You Know What I Need",
+        "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "You Know What I Need",
+      "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The Loneliest Time",
-        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        },
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "The Loneliest Time (feat. Rufus Wainwright)",
-      "url": "https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Stupid Feelings",
         "url": "https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 161125,
       "name": "Lay All Your Love On Me - Spotify Singles",
       "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "The Loneliest Time",
+        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "The Loneliest Time (feat. Rufus Wainwright)",
+      "url": "https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "My Kink Is Karma",
-        "url": "https://open.spotify.com/album/1THKx3zGlu1MkONUx95nmy"
+        "name": "closer to closure",
+        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
         }
       ],
-      "duration_ms": 222578,
-      "name": "My Kink Is Karma",
-      "url": "https://open.spotify.com/track/3U7kZNOF7SX1DtkkLhzoeq"
+      "duration_ms": 182946,
+      "name": "hate to be you",
+      "url": "https://open.spotify.com/track/4B8xshUQgezhJ8i8HWhHR1"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "closer to closure",
-        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
+        "name": "Life Support",
+        "url": "https://open.spotify.com/album/1TKYO9znkrY14VayHze05r"
       },
       "artists": [
         {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         }
       ],
-      "duration_ms": 182946,
-      "name": "hate to be you",
-      "url": "https://open.spotify.com/track/4B8xshUQgezhJ8i8HWhHR1"
+      "duration_ms": 229881,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3"
     }
   ],
   "unique_name": "Sad Bops",

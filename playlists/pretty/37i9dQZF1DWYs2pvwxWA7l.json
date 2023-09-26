@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=bfXr3vDaTPC87asGTsjBnQ\"> Ayra Starr </a> ",
-  "num_followers": 516784,
+  "num_followers": 517193,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmRiZTMxNDU5NTRkMDlhMGM3NDBmZGYwMDFjNmMyMjFjNWI2YTc2",
+  "snapshot_id": "MCxmNTJkOTAzNGU1ZDk5ZjBhNzRmNDg5N2EzMWQ3YzY5N2M3YjcxMWMz",
   "tracks": [
     {
       "added_at": "2023-09-21 23:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
       "artists": [
         {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 142120,
-      "name": "22",
-      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+        "name": "22",
+        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
         }
       ],
-      "duration_ms": 219668,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
+      "duration_ms": 142120,
+      "name": "22",
+      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -607,22 +607,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Talibans II",
-        "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 176453,
-      "name": "Talibans II",
-      "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
+      "duration_ms": 187906,
+      "name": "2 Sugar (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "2 Sugar (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Beautiful And Brutal Yard",
         "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 204880,
       "name": "Masculine (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Talibans II",
+        "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Talibans II",
+      "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Big 7",
-        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
+        "name": "AFROBOY",
+        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
         }
       ],
-      "duration_ms": 143042,
-      "name": "Big 7",
-      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
+      "duration_ms": 191827,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "AFROBOY",
-        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
-      },
-      "artists": [
-        {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 191827,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "ZaZa Vibes",
         "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
       },
@@ -811,22 +795,6 @@
       "duration_ms": 171428,
       "name": "Sempe",
       "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -847,6 +815,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Sability",
         "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 166558,
       "name": "Sability",
       "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Big 7",
+        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -1023,24 +1007,8 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Sweet Tea (Aduke)",
-        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 149481,
-      "name": "Sweet Tea (Aduke)",
-      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
@@ -1048,25 +1016,9 @@
           "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 147363,
-      "name": "reason",
-      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 175254,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1087,6 +1039,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Sweet Tea (Aduke)",
+        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 149481,
+      "name": "Sweet Tea (Aduke)",
+      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Single Again",
         "url": "https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI"
       },
@@ -1103,18 +1071,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "PRAY",
-        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
       },
       "artists": [
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 177931,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
+      "duration_ms": 175254,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1187,24 +1155,8 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Shu-Peru",
-        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 139377,
-      "name": "Shu-Peru",
-      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
       "artists": [
         {
@@ -1212,25 +1164,41 @@
           "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+      "duration_ms": 147363,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
     },
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Jonzing Boy",
-        "url": "https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP"
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         }
       ],
-      "duration_ms": 185660,
-      "name": "Jonzing Boy",
-      "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1247,6 +1215,38 @@
       "duration_ms": 207474,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Jonzing Boy",
+        "url": "https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Jonzing Boy",
+      "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
     }
   ],
   "unique_name": "Afropop",

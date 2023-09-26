@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,893 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,909 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 42 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
 | 43 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 44 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/album/51uooEnqVtqGx2K0lscvqr) | 2:54 |
-| 45 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 |
+| 45 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 |
 | 46 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 47 | [Lucky](https://open.spotify.com/track/1xbC6A2a6ecO9wcAkB1sc3) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Lucky](https://open.spotify.com/album/3ha1LSA4HRtpmA6bLhM6tJ) | 3:15 |
 | 48 | [Give Me the High \- Moods Remix](https://open.spotify.com/track/6t1bCWuoqHgGiokgOZBd2t) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Give Me the High \(Moods Remix\)](https://open.spotify.com/album/2KOzCOjBtnssMr0bYPgwgt) | 3:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 59 | [JUMP!](https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [JUMP!](https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD) | 3:14 |
 | 60 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 |
 
-Snapshot ID: `MCw5YzE0OWEzZWM3MTVmZTVlYmIxMGZiMWZiNzhjZjQ1MTFhOTFlZTQ2`
+Snapshot ID: `MCxkNDM1Mzg1YmU1ZDk4MTQ1M2U4OTUxNGQ0NTgyOTU4ZjhhMTMwZGE3`

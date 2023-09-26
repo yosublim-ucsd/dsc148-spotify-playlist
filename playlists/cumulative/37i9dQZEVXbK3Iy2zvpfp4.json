@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 101321,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/7lmmtMx2dEnF7WW4EAJomw"
@@ -5132,6 +5132,32 @@
       "duration_ms": 223006,
       "name": "Dance Dance x Hung Up - Remix",
       "url": "https://open.spotify.com/track/194lppukv9RRDj2yqHrO6N"
+    },
+    {
+      "album": {
+        "name": "Dance For Me (1, 2, 3)",
+        "url": "https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3"
+      },
+      "artists": [
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        },
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129522,
+      "name": "Dance For Me (1, 2, 3)",
+      "url": "https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac"
     },
     {
       "album": {
@@ -10574,7 +10600,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -10636,7 +10662,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 158104,
       "name": "I Wait for You",
       "url": "https://open.spotify.com/track/7EDcAz6iuKSkxH4VcC3Oko"
@@ -11302,7 +11328,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"

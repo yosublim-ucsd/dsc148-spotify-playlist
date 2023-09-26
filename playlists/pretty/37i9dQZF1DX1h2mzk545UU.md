@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,711 likes - 74 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,803 likes - 74 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 73 | [MYA LIVE P2: Corazón Guerrero](https://open.spotify.com/track/4Rs4ijFlNvhJ2fuRFNCH9h) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [MYA LIVE P2: Corazón Guerrero](https://open.spotify.com/album/4abxB4hx5B9197BK6hAccz) | 2:59 |
 | 74 | [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 |
 
-Snapshot ID: `MCxjMWE5NjY1OGRjZDc1MjM2NmVhNmEyOTczZDM1Y2UyOGU0MmEwNzgz`
+Snapshot ID: `MCxiNDhiNmJjOGE0NmE2YzhiOGFhZWI1Yjc1YzY1MjJmZTE1MjM0YWY5`

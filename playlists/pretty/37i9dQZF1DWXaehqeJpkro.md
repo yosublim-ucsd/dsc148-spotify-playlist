@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > Fancy belting out your favourite Korean songs? \(Cover: Tei\(테이\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,203 likes - 163 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,225 likes - 163 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 128 | [You Don't Know Men](https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [fuzz \. Buzz](https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux) | 4:13 |
 | 129 | [The Way To Say Goodbye](https://open.spotify.com/track/70a9hCn5BMXNDROcckHmAO) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [The Way To Say Goodbye](https://open.spotify.com/album/123HZKvdhxbDBSkRgWYCHz) | 5:07 |
 | 130 | [Enough](https://open.spotify.com/track/5TCgUf31UGoFXQkpgINv9j) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:52 |
-| 131 | [Every moment of you 너의 모든 순간](https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star 별에서 온 그대 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV) | 4:03 |
+| 131 | [Every moment of you](https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV) | 4:03 |
 | 132 | [The Lonely Bloom Stands Alone](https://open.spotify.com/track/6ylw0U4J3RFj0NoVCMZj93) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Lonely Bloom Stands Alone](https://open.spotify.com/album/0r2zfboB7deSVphi3HGk8Z) | 3:19 |
 | 133 | [For You](https://open.spotify.com/track/5naRxCy1t1RiNNmkthetWk) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Free](https://open.spotify.com/album/6VYZQTlCySwTLmP2w1Ua7O) | 4:05 |
 | 134 | [다시는 사랑하지 않고, 이별에 아파하기 싫어](https://open.spotify.com/track/3tfbmc7CnKpxjYxRzw578H) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [다시는 사랑하지 않고, 이별에 아파하기 싫어](https://open.spotify.com/album/3RZW3LGXITrs99vsrzHJQ2) | 3:30 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 162 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 |
 | 163 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 |
 
-Snapshot ID: `MCw4ZTllNzMzNDE5NDBiYzBhMDFiMDJiNmE4YTdhNDA4ZDIwODIxYTdk`
+Snapshot ID: `MCxhMWYyYmFjMTFhOTZhZDYzMDY1ZGY4MTY0NzM0NWFjYzVhNGRiN2M2`

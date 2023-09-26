@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Colo de Deus",
+  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Ziza Fernandes",
   "name": "M\u00fasica Cat\u00f3lica ",
   "tracks": [
     {
@@ -1741,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Segredos Deluxe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ouDCySsHSSI9BNe4GS9Eu"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228420,
+      "name": "O Vento (Faixa B\u00f4nus)",
+      "url": "https://open.spotify.com/track/1OWjFm57Jdchk8XhZFuHtO"
+    },
+    {
+      "album": {
         "name": "Ressonhar",
         "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
       },
@@ -2250,7 +2268,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 273428,
       "name": "Sopra Sobre os Ossos - Ao Vivo",
       "url": "https://open.spotify.com/track/2rwQvgDFW0WojeTrTJXugO"

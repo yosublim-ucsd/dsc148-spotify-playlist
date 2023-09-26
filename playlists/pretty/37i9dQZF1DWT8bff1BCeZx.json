@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 5949,
+  "num_followers": 5997,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDBmM2YzYjY2MDk3MzBhZjhlYzY5ZTc2N2NmZjJjMTBmOTQwMDc1",
+  "snapshot_id": "MCw0NDk3OTQwNGVjMzZmNjgwN2U4NDI1YWMxYWM2NDFkNTIwZmU0MTI1",
   "tracks": [
     {
       "added_at": "2023-08-11 07:09:25",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-09-22 00:12:00",
       "album": {
+        "name": "Omo Baba",
+        "url": "https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4"
+      },
+      "artists": [
+        {
+          "name": "Spirit of Prophecy",
+          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
+        }
+      ],
+      "duration_ms": 195446,
+      "name": "Omo Baba",
+      "url": "https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep"
+    },
+    {
+      "added_at": "2023-09-22 00:12:00",
+      "album": {
         "name": "God of Love",
         "url": "https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
-    },
-    {
-      "added_at": "2023-09-22 00:12:00",
-      "album": {
-        "name": "Omo Baba",
-        "url": "https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4"
-      },
-      "artists": [
-        {
-          "name": "Spirit of Prophecy",
-          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
-        }
-      ],
-      "duration_ms": 195446,
-      "name": "Omo Baba",
-      "url": "https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep"
     },
     {
       "added_at": "2023-09-22 00:12:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-09-22 00:12:00",
       "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
       "added_at": "2023-09-22 00:12:00",
@@ -491,18 +491,22 @@
     {
       "added_at": "2023-09-22 00:12:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "Big God",
+        "url": "https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
+        {
+          "name": "Buchi",
+          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
         }
       ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+      "duration_ms": 150000,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
     },
     {
       "added_at": "2023-09-22 00:12:00",
@@ -527,22 +531,18 @@
     {
       "added_at": "2023-09-22 00:12:00",
       "album": {
-        "name": "Big God",
-        "url": "https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP"
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
       "artists": [
         {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        },
-        {
-          "name": "Buchi",
-          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Big God",
-      "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2023-09-22 00:12:00",
@@ -559,6 +559,22 @@
       "duration_ms": 131065,
       "name": "My Dey",
       "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
+    },
+    {
+      "added_at": "2023-09-22 00:12:00",
+      "album": {
+        "name": "BLESS ME",
+        "url": "https://open.spotify.com/album/2XHD6EX55HJfkZXGqLOH2M"
+      },
+      "artists": [
+        {
+          "name": "Jaderah",
+          "url": "https://open.spotify.com/artist/5h0YEFbvd46PMori1xWBFM"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "BLESS ME",
+      "url": "https://open.spotify.com/track/7EUUYhtpRLorHFzPqzkdsW"
     },
     {
       "added_at": "2023-09-22 00:12:00",
@@ -599,22 +615,6 @@
       "duration_ms": 154218,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
-    },
-    {
-      "added_at": "2023-09-22 00:12:00",
-      "album": {
-        "name": "BLESS ME",
-        "url": "https://open.spotify.com/album/2XHD6EX55HJfkZXGqLOH2M"
-      },
-      "artists": [
-        {
-          "name": "Jaderah",
-          "url": "https://open.spotify.com/artist/5h0YEFbvd46PMori1xWBFM"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "BLESS ME",
-      "url": "https://open.spotify.com/track/7EUUYhtpRLorHFzPqzkdsW"
     },
     {
       "added_at": "2023-09-22 00:12:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-09-22 00:12:00",
       "album": {
+        "name": "Joyous Celebration 13: Live At The Mosaeik Theatre JHB",
+        "url": "https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 281040,
+      "name": "My God Is Good - Live",
+      "url": "https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS"
+    },
+    {
+      "added_at": "2023-09-22 00:12:00",
+      "album": {
         "name": "WINNING",
         "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 152622,
       "name": "WINNING",
       "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
-    },
-    {
-      "added_at": "2023-09-22 00:12:00",
-      "album": {
-        "name": "Joyous Celebration 13: Live At The Mosaeik Theatre JHB",
-        "url": "https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 281040,
-      "name": "My God Is Good - Live",
-      "url": "https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS"
     },
     {
       "added_at": "2023-09-22 00:12:00",
@@ -847,6 +847,30 @@
     {
       "added_at": "2023-09-22 00:12:00",
       "album": {
+        "name": "Daddy Wey Dey Pamper (Gbedu Version)",
+        "url": "https://open.spotify.com/album/2vFfnAxG1DEPzxRxakdE5r"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "duration_ms": 208575,
+      "name": "Daddy Wey Dey Pamper - Gbedu Version",
+      "url": "https://open.spotify.com/track/1TL5gkcrDrX5sOdNOzmCQ6"
+    },
+    {
+      "added_at": "2023-09-22 00:12:00",
+      "album": {
         "name": "Right Here (It Must Be)",
         "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
       },
@@ -887,30 +911,6 @@
     {
       "added_at": "2023-09-22 00:12:00",
       "album": {
-        "name": "Daddy Wey Dey Pamper (Gbedu Version)",
-        "url": "https://open.spotify.com/album/2vFfnAxG1DEPzxRxakdE5r"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        }
-      ],
-      "duration_ms": 208575,
-      "name": "Daddy Wey Dey Pamper - Gbedu Version",
-      "url": "https://open.spotify.com/track/1TL5gkcrDrX5sOdNOzmCQ6"
-    },
-    {
-      "added_at": "2023-09-22 00:12:00",
-      "album": {
         "name": "Selense",
         "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
       },
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-09-22 00:12:00",
       "album": {
+        "name": "Mon Dieu",
+        "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
+      },
+      "artists": [
+        {
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Mon Dieu",
+      "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
+    },
+    {
+      "added_at": "2023-09-22 00:12:00",
+      "album": {
         "name": "Blessings (Everywhere I Go)",
         "url": "https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 183529,
       "name": "Blessings (Everywhere I Go)",
       "url": "https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW"
-    },
-    {
-      "added_at": "2023-09-22 00:12:00",
-      "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 628354,
-      "name": "Worthy Is the Lamb (Hallelujah Challenge Praise Medley 2)",
-      "url": "https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V"
     }
   ],
   "unique_name": "Higher",

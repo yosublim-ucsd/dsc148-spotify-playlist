@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Briston Maroney
 
-402 songs - 1 day 1 hr 2 min
+403 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Air Forces](https://open.spotify.com/track/5NYwjzQXE8ug35TRHoDeuW) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/7aRQJlM2xsWAvVJPxIcnxn) | 2:58 | 2022-04-29 | 2022-12-17 |
 | [Air Forces](https://open.spotify.com/track/69bqljA2mItBcXom1vkjQX) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/3uS8BaiM7cV3lqQ5OIpgaH) | 2:58 | 2022-04-13 | 2022-04-21 |
 | [Alice Hyatt](https://open.spotify.com/track/4L6m6KIvCodAtkX8cvFph9) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [What's New, Tomboy?](https://open.spotify.com/album/2AOoaetZMVWczRP2E18Ou7) | 2:42 | 2022-01-21 | 2022-07-25 |
+| [alien](https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 2\)](https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q) | 3:18 | 2023-09-22 |  |
 | [All Burn No Bridge](https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf) | [Emily Wells](https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb) | [Regards to the End](https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO) | 5:03 | 2022-04-29 | 2022-07-29 |
 | [Andromeda](https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX) | 4:40 | 2022-01-21 | 2022-07-29 |
 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 | 2022-04-29 |  |
@@ -201,7 +202,7 @@
 | [King Street](https://open.spotify.com/track/6jEhp06H3nxblZIyBy7ueE) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [King Street](https://open.spotify.com/album/1EzN2Ajl5JdJ2Pwgz8BxKF) | 3:38 | 2022-01-21 | 2022-07-29 |
 | [Kings & Queens](https://open.spotify.com/track/03SZ2O8n8ngB92Xlnh3urC) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [Kings & Queens](https://open.spotify.com/album/3vgMeqqU1tzZRnq4aMSxA1) | 4:38 | 2022-04-13 | 2022-12-17 |
 | [Lawn](https://open.spotify.com/track/0lwRMQQ6BxVBV0WaokbQ22) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Lawn](https://open.spotify.com/album/18fBg00a9TmorB9yvQwYlq) | 3:37 | 2022-01-21 | 2022-07-29 |
-| [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 | 2022-04-29 |  |
+| [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 | 2022-04-29 | 2023-09-26 |
 | [lesson](https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 1:37 | 2022-04-13 | 2023-09-25 |
 | [Let Go](https://open.spotify.com/track/3C37PWNd6ojQD8OhIp9aKu) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Let Go](https://open.spotify.com/album/6Am8g1lq0cXcOCmv5fwnzk) | 4:00 | 2023-03-03 | 2023-04-12 |
 | [Let Go of the Myth](https://open.spotify.com/track/61KPTGdmcm1PO88DER3OPz) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Let Go of the Myth](https://open.spotify.com/album/4VSYheyF1IVK4x2SiDUmPi) | 2:45 | 2023-01-20 | 2023-02-25 |

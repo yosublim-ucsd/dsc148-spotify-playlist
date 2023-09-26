@@ -2,9 +2,9 @@
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Manuel Medrano
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Shakira \#DiaDeShakira
 
-150 songs - 8 hr 3 min
+151 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [No Sé Querer](https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [No Sé Querer](https://open.spotify.com/album/5mCGmJ3N1H0ARTdBCihqMO) | 3:25 | 2023-02-17 |  |
 | [No Sé Si Volverá](https://open.spotify.com/track/4KZrzzj4Js25wBYhmUBRNr) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [X Revisitado](https://open.spotify.com/album/0VHJPkZR0bh3dOE67Fog6v) | 4:22 | 2023-04-28 |  |
 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 | 2023-03-09 |  |
-| [Nudo Ciego](https://open.spotify.com/track/3f8pzgpatzDxuD68POqhoj) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W) | [Nudo Ciego](https://open.spotify.com/album/38rtFXKY5ccZnS4Opplsqk) | 2:45 | 2023-02-17 |  |
+| [Nudo Ciego](https://open.spotify.com/track/3f8pzgpatzDxuD68POqhoj) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W) | [Nudo Ciego](https://open.spotify.com/album/38rtFXKY5ccZnS4Opplsqk) | 2:45 | 2023-02-17 | 2023-09-26 |
 | [Nuestro Secreto](https://open.spotify.com/track/2sBTBHbqkwz0qSDhKsQ4OQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:29 | 2023-02-17 |  |
 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 | 2023-08-25 |  |
 | [Obvio](https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Obvio](https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc) | 2:45 | 2023-06-09 | 2023-09-23 |
@@ -128,6 +128,7 @@
 | [Sirena](https://open.spotify.com/track/1juHIWqgFiDFAKuEBP24Lt) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Sirena](https://open.spotify.com/album/66gJE320Be12GcqN7BKFk0) | 3:25 | 2023-02-17 |  |
 | [Solo Fue un Sueño](https://open.spotify.com/track/3PZ2fwbFnoOH34CpjypLyL) | [Sabi Satizábal](https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX), [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Solo Fue un Sueño](https://open.spotify.com/album/6o32Vp2hpfTi2aJAfZAlKj) | 3:21 | 2023-02-17 | 2023-03-10 |
 | [Soltar](https://open.spotify.com/track/5iKm6jYs4eJIQROWw69Faf) | [Wamba](https://open.spotify.com/artist/70psacNWL8yL2MPne6sgaB), [Andy G](https://open.spotify.com/artist/7rzrrEp4bNPTsktfkWphSQ) | [Soltar](https://open.spotify.com/album/6cjPFGtVkGI1KwJM2AQc3C) | 3:15 | 2023-06-30 | 2023-08-12 |
+| [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 | 2023-09-25 |  |
 | [Tabaco y Chanel \- Re\-Recorded](https://open.spotify.com/track/4HDgFMEOyaqsashrPpeAu2) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tabaco y Chanel \(Re\-Recorded\)](https://open.spotify.com/album/5icBj9TnIae7ihDILXJfW9) | 5:15 | 2023-02-17 |  |
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2023-02-17 |  |
 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 | 2023-02-17 |  |

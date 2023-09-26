@@ -1,17 +1,17 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 188057,
+  "num_followers": 188245,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGVjNTQ1OWRhNWQ3MjgzODhiNjMyMTY5NTJmMGY1YTllZTNlMmZi",
+  "snapshot_id": "MCxmYzgyOTY3MTI0ZDgxOGMwZDcwZDQ5MzNmNGQxMThiODY0OTYzYjA1",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "name": "Harold Melvin & The Blue Notes",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
       "artists": [
@@ -25,7 +25,7 @@
         }
       ],
       "duration_ms": 518000,
-      "name": "I Miss You (feat. Teddy Pendergrass)",
+      "name": "I Miss You",
       "url": "https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl"
     },
     {
@@ -87,22 +87,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 335613,
-      "name": "Only the Strong Survive",
-      "url": "https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Bottom Line",
         "url": "https://open.spotify.com/album/0bDFKtBkBTJxTVLwZ8H80N"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 232093,
       "name": "Let's Straighten It Out",
       "url": "https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 335613,
+      "name": "Only the Strong Survive",
+      "url": "https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -147,6 +147,22 @@
       "duration_ms": 152933,
       "name": "Heaven Must Have Sent You - Mono Single",
       "url": "https://open.spotify.com/track/4iWytemcQqCczcPPpT0L0P"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Is It Because I'm Black",
+        "url": "https://open.spotify.com/album/7Iw4TahLkIe8RtKT8e4HIJ"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "duration_ms": 147280,
+      "name": "Concrete Reservation",
+      "url": "https://open.spotify.com/track/1Li9HBLXG2LJSeD4fEhtcd"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -199,38 +215,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Is It Because I'm Black",
-        "url": "https://open.spotify.com/album/7Iw4TahLkIe8RtKT8e4HIJ"
-      },
-      "artists": [
-        {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
-        }
-      ],
-      "duration_ms": 147280,
-      "name": "Concrete Reservation",
-      "url": "https://open.spotify.com/track/1Li9HBLXG2LJSeD4fEhtcd"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Let 'Em In",
-        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 303080,
-      "name": "Let 'Em In",
-      "url": "https://open.spotify.com/track/7EIETgqBk63OdvVyIFDNKx"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "I Choose You (formerly Blind Over You)",
         "url": "https://open.spotify.com/album/5wBWAyctOB7SMSiF9s3Dio"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 270253,
       "name": "Mine All Mine",
       "url": "https://open.spotify.com/track/3jM1W9APJx3dG61sd89IEp"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Let 'Em In",
+        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 303080,
+      "name": "Let 'Em In",
+      "url": "https://open.spotify.com/track/7EIETgqBk63OdvVyIFDNKx"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 315693,
+      "name": "Am I Black Enough for You?",
+      "url": "https://open.spotify.com/track/7MJgHOKfiffKRPLQTSLlgo"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Time Is Slipping Away",
         "url": "https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft"
       },
@@ -359,38 +375,6 @@
       "duration_ms": 415333,
       "name": "Family Reunion",
       "url": "https://open.spotify.com/track/1ECFqMRNA6NFbRXgbHl87e"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 315693,
-      "name": "Am I Black Enough for You?",
-      "url": "https://open.spotify.com/track/7MJgHOKfiffKRPLQTSLlgo"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Detroit City Grooves Featuring \"Soul Suite\"",
-        "url": "https://open.spotify.com/album/1zIE9HT38m8YWUPFB51Cfc"
-      },
-      "artists": [
-        {
-          "name": "Dave Hamilton",
-          "url": "https://open.spotify.com/artist/7jOKLSyFFNekffU4kCIBeA"
-        }
-      ],
-      "duration_ms": 144996,
-      "name": "Pisces Pace",
-      "url": "https://open.spotify.com/track/2YU1rMaVCBm6UMSiCh23Vl"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -443,22 +427,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "You Can Count On Me",
-        "url": "https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH"
-      },
-      "artists": [
-        {
-          "name": "Mel Carter",
-          "url": "https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "You Can Count On Me",
-      "url": "https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
       },
@@ -475,18 +443,34 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "A Cellarful Of Motown!",
-        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
+        "name": "Detroit City Grooves Featuring \"Soul Suite\"",
+        "url": "https://open.spotify.com/album/1zIE9HT38m8YWUPFB51Cfc"
       },
       "artists": [
         {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+          "name": "Dave Hamilton",
+          "url": "https://open.spotify.com/artist/7jOKLSyFFNekffU4kCIBeA"
         }
       ],
-      "duration_ms": 135693,
-      "name": "It's Easy To Fall In Love (With A Guy Like You)",
-      "url": "https://open.spotify.com/track/22FxgInENXnbBjjARZ1nIv"
+      "duration_ms": 144996,
+      "name": "Pisces Pace",
+      "url": "https://open.spotify.com/track/2YU1rMaVCBm6UMSiCh23Vl"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "You Can Count On Me",
+        "url": "https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH"
+      },
+      "artists": [
+        {
+          "name": "Mel Carter",
+          "url": "https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9"
+        }
+      ],
+      "duration_ms": 196520,
+      "name": "You Can Count On Me",
+      "url": "https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -511,18 +495,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+        "name": "A Cellarful Of Motown!",
+        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1J1QKnproZR0JkQ7Der8IW"
+      "duration_ms": 135693,
+      "name": "It's Easy To Fall In Love (With A Guy Like You)",
+      "url": "https://open.spotify.com/track/22FxgInENXnbBjjARZ1nIv"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -539,6 +523,38 @@
       "duration_ms": 214893,
       "name": "This Is The Lost Generation",
       "url": "https://open.spotify.com/track/2kLALLtckvLqjGD50PGNNy"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1J1QKnproZR0JkQ7Der8IW"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 169866,
+      "name": "(We'll Be) United",
+      "url": "https://open.spotify.com/track/5Dbnnnj3PKhA3z0hSQk5J2"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -611,22 +627,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 169866,
-      "name": "(We'll Be) United",
-      "url": "https://open.spotify.com/track/5Dbnnnj3PKhA3z0hSQk5J2"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "I Learned the Hard Way",
         "url": "https://open.spotify.com/album/7tsqjPwOhgPOWHgp9RHYi6"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 226400,
       "name": "I Learned the Hard Way",
       "url": "https://open.spotify.com/track/6EfzMRn24usWjFgykZWLl2"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "That's How Heartaches Are Made",
+        "url": "https://open.spotify.com/album/1qg0TpPP1jwSiPlxhAYuPj"
+      },
+      "artists": [
+        {
+          "name": "Baby Washington",
+          "url": "https://open.spotify.com/artist/29afta7TiMlvY1fkgaFJcH"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "I've Got A Feeling",
+      "url": "https://open.spotify.com/track/6pVJiHCsqp5supHsm5GAJk"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -659,18 +675,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "That's How Heartaches Are Made",
-        "url": "https://open.spotify.com/album/1qg0TpPP1jwSiPlxhAYuPj"
+        "name": "Roots Of A Revolution",
+        "url": "https://open.spotify.com/album/6S0JoGYvVclOkz3zplzqT0"
       },
       "artists": [
         {
-          "name": "Baby Washington",
-          "url": "https://open.spotify.com/artist/29afta7TiMlvY1fkgaFJcH"
+          "name": "Yvonne Fair",
+          "url": "https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8"
+        },
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 174666,
-      "name": "I've Got A Feeling",
-      "url": "https://open.spotify.com/track/6pVJiHCsqp5supHsm5GAJk"
+      "duration_ms": 149866,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/61xfrjhEtN0jfYtcmzPY2F"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -707,26 +727,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Roots Of A Revolution",
-        "url": "https://open.spotify.com/album/6S0JoGYvVclOkz3zplzqT0"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Fair",
-          "url": "https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8"
-        },
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 149866,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/61xfrjhEtN0jfYtcmzPY2F"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Modern Soul Classics",
         "url": "https://open.spotify.com/album/2vudmNthkNWP8DVR3LqeQe"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Motown Unreleased 1965: Marvin Gaye",
-        "url": "https://open.spotify.com/album/1L5IFq2w2ZtwvzOp3fXe9V"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 151880,
-      "name": "As Long As She Needs Me",
-      "url": "https://open.spotify.com/track/58suLi0CzmcVtmRDFJIfZi"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "A Million to One",
         "url": "https://open.spotify.com/album/0gceDfD8ET1hnhUyLU3i1d"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 266106,
       "name": "One Life to Live",
       "url": "https://open.spotify.com/track/4uW41encpb6TYP6329O6FY"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Motown Unreleased 1965: Marvin Gaye",
+        "url": "https://open.spotify.com/album/1L5IFq2w2ZtwvzOp3fXe9V"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 151880,
+      "name": "As Long As She Needs Me",
+      "url": "https://open.spotify.com/track/58suLi0CzmcVtmRDFJIfZi"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Soul Clan",
+        "url": "https://open.spotify.com/album/3a6YJcsLKVftntzf3eWALy"
+      },
+      "artists": [
+        {
+          "name": "Soul Clan",
+          "url": "https://open.spotify.com/artist/3fv6GA2FEaH0u23PS66uFK"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "That's How It Feels",
+      "url": "https://open.spotify.com/track/0BCScVwlR88wcHo5KUwK47"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "The First Family of Soul: The Best of The Five Stairsteps",
         "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 165200,
       "name": "Baby Make Me Feel So Good",
       "url": "https://open.spotify.com/track/0wSvnAFcmkeP9gU5L6RRjQ"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Soul Clan",
-        "url": "https://open.spotify.com/album/3a6YJcsLKVftntzf3eWALy"
-      },
-      "artists": [
-        {
-          "name": "Soul Clan",
-          "url": "https://open.spotify.com/artist/3fv6GA2FEaH0u23PS66uFK"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "That's How It Feels",
-      "url": "https://open.spotify.com/track/0BCScVwlR88wcHo5KUwK47"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Goin' Places",
-        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 274346,
-      "name": "Find Me a Girl",
-      "url": "https://open.spotify.com/track/51CkYfiL0waVyqjLrGSX8l"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Complete Motown Singles, Vol. 6: 1966",
         "url": "https://open.spotify.com/album/3mQO3RmWVxI7U4y0HxUeh1"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 155213,
       "name": "La La La La La",
       "url": "https://open.spotify.com/track/7E2rm2hyCOXc3leRuiky7a"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Goin' Places",
+        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 274346,
+      "name": "Find Me a Girl",
+      "url": "https://open.spotify.com/track/51CkYfiL0waVyqjLrGSX8l"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Masters of Soul: George Kerr - Singles & Rarities, Vol. 2",
-        "url": "https://open.spotify.com/album/0VpyygiRwwIUPGczcqWiL2"
+        "name": "Pardon My Innocent Heart b/w Main Squeeze",
+        "url": "https://open.spotify.com/album/0wjaMjaf8nDj9MmZlVWhTk"
       },
       "artists": [
         {
-          "name": "Debbie Taylor",
-          "url": "https://open.spotify.com/artist/3AOPsb5oGscweRef0jCI1p"
+          "name": "Nate Evans",
+          "url": "https://open.spotify.com/artist/7rYvwq8TItxYTRtnYiYf2l"
         }
       ],
-      "duration_ms": 176053,
-      "name": "Let's Prove Them Wrong",
-      "url": "https://open.spotify.com/track/759eeIMuZ5KxHCOnZdFieK"
+      "duration_ms": 194386,
+      "name": "Main Squeeze",
+      "url": "https://open.spotify.com/track/4IhtiSk5MvZ6JYyXRuBqcb"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Pardon My Innocent Heart b/w Main Squeeze",
-        "url": "https://open.spotify.com/album/0wjaMjaf8nDj9MmZlVWhTk"
+        "name": "Masters of Soul: George Kerr - Singles & Rarities, Vol. 2",
+        "url": "https://open.spotify.com/album/0VpyygiRwwIUPGczcqWiL2"
       },
       "artists": [
         {
-          "name": "Nate Evans",
-          "url": "https://open.spotify.com/artist/7rYvwq8TItxYTRtnYiYf2l"
+          "name": "Debbie Taylor",
+          "url": "https://open.spotify.com/artist/3AOPsb5oGscweRef0jCI1p"
         }
       ],
-      "duration_ms": 194386,
-      "name": "Main Squeeze",
-      "url": "https://open.spotify.com/track/4IhtiSk5MvZ6JYyXRuBqcb"
+      "duration_ms": 176053,
+      "name": "Let's Prove Them Wrong",
+      "url": "https://open.spotify.com/track/759eeIMuZ5KxHCOnZdFieK"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Time Is Slipping Away",
-        "url": "https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft"
-      },
-      "artists": [
-        {
-          "name": "Dexter Wansel",
-          "url": "https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt"
-        }
-      ],
-      "duration_ms": 279760,
-      "name": "New Beginning",
-      "url": "https://open.spotify.com/track/5UKkqgXRBlGMB5Lu3n2Zfb"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Legendary Henry Stone Presents: Jimmy Bo Horne",
         "url": "https://open.spotify.com/album/4WDYgiypBayAeaGIPAzKiv"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Complete Motown Singles, Vol. 3: 1963",
-        "url": "https://open.spotify.com/album/3YCASsl45660L3pVU0sdZx"
+        "name": "Time Is Slipping Away",
+        "url": "https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft"
       },
       "artists": [
         {
-          "name": "Linda Griner",
-          "url": "https://open.spotify.com/artist/2rhBavz3cdFPmNN5M9GX6Y"
+          "name": "Dexter Wansel",
+          "url": "https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt"
         }
       ],
-      "duration_ms": 143733,
-      "name": "Goodbye Cruel Love",
-      "url": "https://open.spotify.com/track/0ogS3CBf15IZsjc1yFd8iS"
+      "duration_ms": 279760,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/5UKkqgXRBlGMB5Lu3n2Zfb"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1307,6 +1291,22 @@
       "duration_ms": 201786,
       "name": "To Love Someone (That Don't Love You)",
       "url": "https://open.spotify.com/track/5rrXRBLNgcVwEyKSel6idy"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Complete Motown Singles, Vol. 3: 1963",
+        "url": "https://open.spotify.com/album/3YCASsl45660L3pVU0sdZx"
+      },
+      "artists": [
+        {
+          "name": "Linda Griner",
+          "url": "https://open.spotify.com/artist/2rhBavz3cdFPmNN5M9GX6Y"
+        }
+      ],
+      "duration_ms": 143733,
+      "name": "Goodbye Cruel Love",
+      "url": "https://open.spotify.com/track/0ogS3CBf15IZsjc1yFd8iS"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Can't Be Satisfied - The XL and Sounds of Memphis Story Vol. 1",
-        "url": "https://open.spotify.com/album/7DiuqEndvhXnLcJYMoMIU8"
-      },
-      "artists": [
-        {
-          "name": "The Minits",
-          "url": "https://open.spotify.com/artist/6MmUaGU1jSkqByu0WfAmeC"
-        }
-      ],
-      "duration_ms": 154040,
-      "name": "Still a Part of Me",
-      "url": "https://open.spotify.com/track/3nNLy4pf06yCXoJUITMJDS"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Eccentric Soul: The Saadia Label",
         "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Eccentric Soul: The Capsoul Label",
-        "url": "https://open.spotify.com/album/04D0mW6vcrkyirMVF7x1cy"
+        "name": "Can't Be Satisfied - The XL and Sounds of Memphis Story Vol. 1",
+        "url": "https://open.spotify.com/album/7DiuqEndvhXnLcJYMoMIU8"
       },
       "artists": [
         {
-          "name": "Kool Blues",
-          "url": "https://open.spotify.com/artist/4dL8v1jwwMTtzMJiNmCu3e"
+          "name": "The Minits",
+          "url": "https://open.spotify.com/artist/6MmUaGU1jSkqByu0WfAmeC"
         }
       ],
-      "duration_ms": 199560,
-      "name": "I'm Gonna Keep on Loving You",
-      "url": "https://open.spotify.com/track/6e6rQT3ilUqn45LHSp9opu"
+      "duration_ms": 154040,
+      "name": "Still a Part of Me",
+      "url": "https://open.spotify.com/track/3nNLy4pf06yCXoJUITMJDS"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1403,6 +1387,22 @@
       "duration_ms": 161800,
       "name": "Lift This Hurt",
       "url": "https://open.spotify.com/track/3LSgGjq8enMTmioZlouR5Q"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Eccentric Soul: The Capsoul Label",
+        "url": "https://open.spotify.com/album/04D0mW6vcrkyirMVF7x1cy"
+      },
+      "artists": [
+        {
+          "name": "Kool Blues",
+          "url": "https://open.spotify.com/artist/4dL8v1jwwMTtzMJiNmCu3e"
+        }
+      ],
+      "duration_ms": 199560,
+      "name": "I'm Gonna Keep on Loving You",
+      "url": "https://open.spotify.com/track/6e6rQT3ilUqn45LHSp9opu"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Philly Groove Records Presents: The Early Years, Vol. 3",
+        "url": "https://open.spotify.com/album/2QBg8HBgmqdJl4nHsbZtQe"
+      },
+      "artists": [
+        {
+          "name": "First Choice",
+          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Yes, Maybe No",
+      "url": "https://open.spotify.com/track/0A1hpM48Yw1gYWUq5b93pP"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 228586,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5rkpxPKDNDEVzFshqyLwqS"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Philly Groove Records Presents: The Early Years, Vol. 3",
-        "url": "https://open.spotify.com/album/2QBg8HBgmqdJl4nHsbZtQe"
-      },
-      "artists": [
-        {
-          "name": "First Choice",
-          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Yes, Maybe No",
-      "url": "https://open.spotify.com/track/0A1hpM48Yw1gYWUq5b93pP"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Motown Unreleased: 1966",
-        "url": "https://open.spotify.com/album/1M1lda8aucpMc8HBPTHGjm"
-      },
-      "artists": [
-        {
-          "name": "Brenda Holloway",
-          "url": "https://open.spotify.com/artist/3nXMZsj1H0F7h9SDUeYNjg"
-        }
-      ],
-      "duration_ms": 137077,
-      "name": "Baby I've Got It",
-      "url": "https://open.spotify.com/track/5gzUMDbP6FzKHG9cdsZE4P"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Complete Motown Singles, Vol. 2: 1962",
         "url": "https://open.spotify.com/album/4PoyMn8WOciLwpMGFDYfXo"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 166133,
       "name": "Fire - Mono Single",
       "url": "https://open.spotify.com/track/4U682v3KXCkAer9bKHHPgr"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Motown Unreleased: 1966",
+        "url": "https://open.spotify.com/album/1M1lda8aucpMc8HBPTHGjm"
+      },
+      "artists": [
+        {
+          "name": "Brenda Holloway",
+          "url": "https://open.spotify.com/artist/3nXMZsj1H0F7h9SDUeYNjg"
+        }
+      ],
+      "duration_ms": 137077,
+      "name": "Baby I've Got It",
+      "url": "https://open.spotify.com/track/5gzUMDbP6FzKHG9cdsZE4P"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Soul Of Capitol Records: Rare & Well-Done",
-        "url": "https://open.spotify.com/album/5gMhwg6vHZ8Smi0FoKyOUb"
+        "name": "The Detroit Funk Vaults",
+        "url": "https://open.spotify.com/album/5TyaKsCaFybG3jMoc84iwE"
       },
       "artists": [
         {
-          "name": "Alexander Patton",
-          "url": "https://open.spotify.com/artist/2QYYQZ2HxBdx6uJ0TY7V84"
+          "name": "The Deacons",
+          "url": "https://open.spotify.com/artist/155as8cI348mUAB2F9TnNU"
         }
       ],
-      "duration_ms": 142373,
-      "name": "A Lil' Lovin' Sometimes",
-      "url": "https://open.spotify.com/track/2VVGLYIl32vJJojDHoi8pY"
+      "duration_ms": 176346,
+      "name": "A Drop in the Bucket",
+      "url": "https://open.spotify.com/track/5tr22uCdtY1ZoCOFwi0OAc"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Detroit Funk Vaults",
-        "url": "https://open.spotify.com/album/5TyaKsCaFybG3jMoc84iwE"
+        "name": "The Soul Of Capitol Records: Rare & Well-Done",
+        "url": "https://open.spotify.com/album/5gMhwg6vHZ8Smi0FoKyOUb"
       },
       "artists": [
         {
-          "name": "The Deacons",
-          "url": "https://open.spotify.com/artist/155as8cI348mUAB2F9TnNU"
+          "name": "Alexander Patton",
+          "url": "https://open.spotify.com/artist/2QYYQZ2HxBdx6uJ0TY7V84"
         }
       ],
-      "duration_ms": 176346,
-      "name": "A Drop in the Bucket",
-      "url": "https://open.spotify.com/track/5tr22uCdtY1ZoCOFwi0OAc"
+      "duration_ms": 142373,
+      "name": "A Lil' Lovin' Sometimes",
+      "url": "https://open.spotify.com/track/2VVGLYIl32vJJojDHoi8pY"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "A Cellarful Of Motown! (Vol. 2)",
-        "url": "https://open.spotify.com/album/4DvJfXChxxWBseHVBfVPfI"
+        "name": "Gently Down Your Stream",
+        "url": "https://open.spotify.com/album/6G1wOj0Gkby9CMZOz2bGy1"
       },
       "artists": [
         {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+          "name": "Four Mints",
+          "url": "https://open.spotify.com/artist/5weBoY03qqqq9uFG136tti"
         }
       ],
-      "duration_ms": 175186,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/4twNXlWDeCf810QbdsxVsH"
+      "duration_ms": 126106,
+      "name": "Too Far Gone",
+      "url": "https://open.spotify.com/track/1ZngL8YrMVSKTm3GR2Nbkm"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1843,50 +1843,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Soul Survivors",
-        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
+        "name": "A Cellarful Of Motown! (Vol. 2)",
+        "url": "https://open.spotify.com/album/4DvJfXChxxWBseHVBfVPfI"
       },
       "artists": [
         {
-          "name": "Soul Survivors",
-          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
         }
       ],
-      "duration_ms": 274920,
-      "name": "Start All Over",
-      "url": "https://open.spotify.com/track/7MS752SypWNJNeDHrhRHjK"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Gently Down Your Stream",
-        "url": "https://open.spotify.com/album/6G1wOj0Gkby9CMZOz2bGy1"
-      },
-      "artists": [
-        {
-          "name": "Four Mints",
-          "url": "https://open.spotify.com/artist/5weBoY03qqqq9uFG136tti"
-        }
-      ],
-      "duration_ms": 126106,
-      "name": "Too Far Gone",
-      "url": "https://open.spotify.com/track/1ZngL8YrMVSKTm3GR2Nbkm"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Motown Unreleased 1962: Girls",
-        "url": "https://open.spotify.com/album/2zad0ktqIMsJLY2OhyzXhR"
-      },
-      "artists": [
-        {
-          "name": "Hattie Littles",
-          "url": "https://open.spotify.com/artist/6l0RXtokGJSdv4rHfesSyv"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Sticking With You (Nobody But You)",
-      "url": "https://open.spotify.com/track/5eQtVjSUx1vNIEXraWFZhX"
+      "duration_ms": 175186,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/4twNXlWDeCf810QbdsxVsH"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1903,6 +1871,38 @@
       "duration_ms": 213453,
       "name": "Yes, You Need Love",
       "url": "https://open.spotify.com/track/64JBsxyOVpGnlmdFkHQZc8"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Soul Survivors",
+        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
+      },
+      "artists": [
+        {
+          "name": "Soul Survivors",
+          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
+        }
+      ],
+      "duration_ms": 274920,
+      "name": "Start All Over",
+      "url": "https://open.spotify.com/track/7MS752SypWNJNeDHrhRHjK"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Motown Unreleased 1962: Girls",
+        "url": "https://open.spotify.com/album/2zad0ktqIMsJLY2OhyzXhR"
+      },
+      "artists": [
+        {
+          "name": "Hattie Littles",
+          "url": "https://open.spotify.com/artist/6l0RXtokGJSdv4rHfesSyv"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Sticking With You (Nobody But You)",
+      "url": "https://open.spotify.com/track/5eQtVjSUx1vNIEXraWFZhX"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Let's Get It On (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "My Love Is Growing",
-      "url": "https://open.spotify.com/track/6XMHWGtaCQcEGMTy2QIXM5"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Complete Tamla And Motown Singles...Plus!",
         "url": "https://open.spotify.com/album/2FwTUXppv3Nt8N11zoxbRW"
       },
@@ -1983,22 +1967,6 @@
       "duration_ms": 205146,
       "name": "Let's Take It All",
       "url": "https://open.spotify.com/track/02JZTwhETBzgyov794DaNm"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Movin' On - The Early Years (Remastered)",
-        "url": "https://open.spotify.com/album/7mIldRsXig3Qb5kpusP5ft"
-      },
-      "artists": [
-        {
-          "name": "The Joneses",
-          "url": "https://open.spotify.com/artist/68e5cP09Ecpbvv5pm4zvxK"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Merry Go Round",
-      "url": "https://open.spotify.com/track/7ufWDOtatuX8McQDQoMDm5"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -2051,6 +2019,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Movin' On - The Early Years (Remastered)",
+        "url": "https://open.spotify.com/album/7mIldRsXig3Qb5kpusP5ft"
+      },
+      "artists": [
+        {
+          "name": "The Joneses",
+          "url": "https://open.spotify.com/artist/68e5cP09Ecpbvv5pm4zvxK"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/7ufWDOtatuX8McQDQoMDm5"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Plenty Good Eaton",
         "url": "https://open.spotify.com/album/3y5rM8Qy4xVHL40WVKmz9E"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 141333,
       "name": "The Day Will Come - Single Version",
       "url": "https://open.spotify.com/track/4dCwiFb6VNb3jhQpbI35lq"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Let's Get It On (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "My Love Is Growing",
+      "url": "https://open.spotify.com/track/6XMHWGtaCQcEGMTy2QIXM5"
     },
     {
       "added_at": "2022-05-11 12:29:38",

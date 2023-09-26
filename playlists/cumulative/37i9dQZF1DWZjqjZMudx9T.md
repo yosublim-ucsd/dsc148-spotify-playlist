@@ -2,9 +2,9 @@
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/37i9dQZF1DWZjqjZMudx9T)
 
-> De la CALLE a la CIMA con KAROL G y Peso Pluma.
+> De la CALLE a la CIMA con Bad Bunny.
 
-280 songs - 15 hr 57 min
+281 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [DURO](https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Jenny "La Sexy Voz"](https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr) | [DURO](https://open.spotify.com/album/6uE584km2jae91nY5N9yE4) | 3:38 | 2022-11-11 | 2022-11-26 |
 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 | 2021-12-31 | 2022-05-28 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-05-27 |  |
-| [EL AMOR DE TU VIDA](https://open.spotify.com/track/3MBzcfMRsUvA97JDiB7zN0) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [EL AMOR DE TU VIDA](https://open.spotify.com/album/4xar1X3zTK8oN2eq5yfQKE) | 2:57 | 2023-06-23 |  |
+| [EL AMOR DE TU VIDA](https://open.spotify.com/track/3MBzcfMRsUvA97JDiB7zN0) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [EL AMOR DE TU VIDA](https://open.spotify.com/album/4xar1X3zTK8oN2eq5yfQKE) | 2:57 | 2023-06-23 | 2023-09-26 |
 | [El Cielo](https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [El Cielo](https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f) | 3:11 | 2023-06-02 |  |
 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 | 2022-08-05 | 2022-09-03 |
 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 | 2023-07-27 |  |
@@ -255,6 +255,7 @@
 | [ULTRA SOLO REMIX](https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ULTRA SOLO REMIX](https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm) | 5:22 | 2022-06-16 | 2023-02-25 |
 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 | 2023-05-05 | 2023-08-12 |
 | [UN PASO](https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [UN PASO](https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL) | 3:12 | 2022-07-29 | 2022-09-10 |
+| [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 | 2023-09-26 |  |
 | [Un Viaje](https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Un Viaje](https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36) | 4:45 | 2022-04-22 | 2022-05-28 |
 | [Una en un Millón](https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Una en un Millón](https://open.spotify.com/album/297lExWtMv5C7vAlQhJcuC) | 2:35 | 2023-06-09 | 2023-07-01 |
 | [UNA MÁS](https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:46 | 2021-12-31 | 2022-01-15 |

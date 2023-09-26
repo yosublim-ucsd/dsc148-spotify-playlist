@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: 070 Shake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,443 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,502 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 126 | [Ease](https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Ease](https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm) | 2:17 |
 | 127 | [SO LONG](https://open.spotify.com/track/2nfTh8tAAHzVQCRuJZpzzw) | [SHADESOFBLUE](https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6) | [SO LONG](https://open.spotify.com/album/4LzzxPzU41zB3h7nIndR7S) | 2:47 |
 
-Snapshot ID: `MCwxZTdhZmVlZDU4ODlmYmVhMGI1YjllMTg5MTYzZDYxMTdiYmZkNzE2`
+Snapshot ID: `MCw3OGVhZDZjN2ZiMDUzOGUzMWVmYjMzMjkzYWJmOTg5MDIyZGRmYjJj`

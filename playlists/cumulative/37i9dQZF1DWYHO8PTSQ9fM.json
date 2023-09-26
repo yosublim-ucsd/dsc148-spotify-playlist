@@ -2329,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "Ma muse / Je t'haine",
+        "url": "https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178115,
+      "name": "Ma muse",
+      "url": "https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p"
+    },
+    {
+      "album": {
         "name": "MAAK",
         "url": "https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y"
       },
@@ -3322,7 +3340,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 207338,
       "name": "SI TE LLAMO",
       "url": "https://open.spotify.com/track/7LU9PXeRUwL026TqdVmOwF"

@@ -1,12 +1,12 @@
 {
   "description": "Life in plastic is fantastic ",
-  "num_followers": 267651,
+  "num_followers": 268709,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWYwMmFmY2U0ZGUzY2VlYTY2ZTQ0MTRmYjE0MGFlNmIyMzA3Mzlm",
+  "snapshot_id": "MCwzNjYzNjU5OTZmZGMyNzg2ZjkyOTJhMDY0MjgzMWFmOWYyMmU2YmEx",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 115555,
       "name": "Hey, Mickey!",
       "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Super Freaky Girl",
-        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "The New Classic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 199938,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "MIND YOUR BUSINESS",
         "url": "https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h"
       },
@@ -803,6 +823,38 @@
       "duration_ms": 195692,
       "name": "MIND YOUR BUSINESS",
       "url": "https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Femme Fatale (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1"
+      },
+      "artists": [
+        {
+          "name": "why mona",
+          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -851,54 +903,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The New Classic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
+        "name": "Lip Gloss",
+        "url": "https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5"
       },
       "artists": [
         {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Lil Mama",
+          "url": "https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c"
         }
       ],
-      "duration_ms": 199938,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Femme Fatale (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Wannabe",
-        "url": "https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1"
-      },
-      "artists": [
-        {
-          "name": "why mona",
-          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
+      "duration_ms": 219773,
+      "name": "Lip Gloss",
+      "url": "https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -915,22 +931,6 @@
       "duration_ms": 184634,
       "name": "Thot Shit",
       "url": "https://open.spotify.com/track/7FdmHr87G79PDRGy9SPBkZ"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Lip Gloss",
-        "url": "https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5"
-      },
-      "artists": [
-        {
-          "name": "Lil Mama",
-          "url": "https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "Lip Gloss",
-      "url": "https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/1pNNZl0NpdpOYQulwgkV8s"
+        "name": "Rebel Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
       },
       "artists": [
         {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 134087,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/1VpKOZ6nnap41hh5CbY8gJ"
+      "duration_ms": 227480,
+      "name": "Bitch I'm Madonna",
+      "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
     }
   ],
   "unique_name": "Hot Pink",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Argy, Omnya
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,633 likes - 88 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,765 likes - 88 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [Awake](https://open.spotify.com/track/11e5ArirTOAU63PDWcVTlz) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Awake](https://open.spotify.com/album/1hOjG47chnC77MzWO1rTah) | 5:16 |
 | 88 | [Tears In Berghain](https://open.spotify.com/track/0DJQZ0od70Z6SkuoEeOYAa) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI), [Kuldaboli](https://open.spotify.com/artist/3iqkQOfaf7oQtPfmGaMl4W) | [Tears In Berghain EP](https://open.spotify.com/album/7ez8S0rG2f4hec5NIJOaWY) | 4:27 |
 
-Snapshot ID: `MCwxNDJjNzBiNTNjNjgzODYzZTEwMWE0NmRiMGY1YWFlMDk3ODBmOWEx`
+Snapshot ID: `MCw5ODk0MDQ5M2FhODU4ZDY0MmY1NmQ0OWQyMmQzZTVmZTE1ZDA3ZWVl`

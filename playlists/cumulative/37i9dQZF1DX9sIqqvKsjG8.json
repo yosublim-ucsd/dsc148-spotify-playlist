@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 133948,
       "name": "A Dance To Remember",
       "url": "https://open.spotify.com/track/6GxrHDRTfQoLKKya0HPhMa"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 170629,
       "name": "A Quiet Grace",
       "url": "https://open.spotify.com/track/4917GPMOmDwQErO8676NZl"
@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 186815,
       "name": "Colours",
       "url": "https://open.spotify.com/track/7x9uO7wEdRrqtlDhqlCILt"
@@ -4108,7 +4108,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 148500,
       "name": "For the First Time",
       "url": "https://open.spotify.com/track/3fI53uzMr8JIQ5TSfOUi56"
@@ -4400,7 +4400,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 153258,
       "name": "Glow (Piano Version)",
       "url": "https://open.spotify.com/track/0AOeRfH6G0zS6sGb2QXavO"
@@ -4980,7 +4980,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 173000,
       "name": "Homebound",
       "url": "https://open.spotify.com/track/2TSm3aFc5f0tgzsVhIbMxp"
@@ -7108,7 +7108,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 173000,
       "name": "Meandering",
       "url": "https://open.spotify.com/track/4jpRyLpvGSUPVSx8oO8xWo"
@@ -7396,7 +7396,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 144146,
       "name": "Moonlight Waltz",
       "url": "https://open.spotify.com/track/2w4w29W62gzZ6OWWmilEB6"
@@ -7727,6 +7727,24 @@
     },
     {
       "album": {
+        "name": "Narrative",
+        "url": "https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH"
+      },
+      "artists": [
+        {
+          "name": "Emma Richter",
+          "url": "https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Narrative",
+      "url": "https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS"
+    },
+    {
+      "album": {
         "name": "Nature Shift",
         "url": "https://open.spotify.com/album/0zRlQwqGcLq31cyTExBHpl"
       },
@@ -7792,7 +7810,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 161469,
       "name": "Night Solace",
       "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
@@ -7832,6 +7850,24 @@
       "duration_ms": 201588,
       "name": "Nightwalk",
       "url": "https://open.spotify.com/track/38eJFgnWP7EfqIsuvNj90w"
+    },
+    {
+      "album": {
+        "name": "No Goodbye",
+        "url": "https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL"
+      },
+      "artists": [
+        {
+          "name": "Jules Dubois",
+          "url": "https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144624,
+      "name": "No Goodbye",
+      "url": "https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm"
     },
     {
       "album": {
@@ -8350,7 +8386,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 139694,
       "name": "Past Reflections",
       "url": "https://open.spotify.com/track/4qcYE0RRcpEB8ISLnQdYoP"
@@ -8962,7 +8998,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 170000,
       "name": "Rain In July",
       "url": "https://open.spotify.com/track/6VWXXegvaYsNkEZdKRNtlE"
@@ -10904,7 +10940,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 167244,
       "name": "Summer",
       "url": "https://open.spotify.com/track/3LVfGCqen57RXIKj8Baen5"
@@ -11632,7 +11668,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 122333,
       "name": "The Old Windmill",
       "url": "https://open.spotify.com/track/5YINZsov3qBPWjCEsWDDWX"
@@ -11704,7 +11740,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 142625,
       "name": "The Scent Of New Days",
       "url": "https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT"
@@ -11974,7 +12010,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 146053,
       "name": "Toronga",
       "url": "https://open.spotify.com/track/2tbmw8XLMswKEHrHqaKXYE"
@@ -12248,7 +12284,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 182455,
       "name": "Tuscan Nights",
       "url": "https://open.spotify.com/track/6fFGV4AKC65SksEn9eJy6R"
@@ -12284,7 +12320,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 157077,
       "name": "Un Cadeau",
       "url": "https://open.spotify.com/track/7Jrx30VldPaujIaP3c2SJn"
@@ -12396,6 +12432,24 @@
       "duration_ms": 142250,
       "name": "une nouvelle ann\u00e9e",
       "url": "https://open.spotify.com/track/2TyI8OZl0IOU18BId7MNKv"
+    },
+    {
+      "album": {
+        "name": "Unexpected Journey",
+        "url": "https://open.spotify.com/album/7G4UfvLMGm1QheYzzWrupS"
+      },
+      "artists": [
+        {
+          "name": "Hues of Ruby",
+          "url": "https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162925,
+      "name": "Unexpected Journey",
+      "url": "https://open.spotify.com/track/6HgXeN1ZnCxTJshHSK73z9"
     },
     {
       "album": {

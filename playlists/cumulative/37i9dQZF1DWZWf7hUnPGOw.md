@@ -4,7 +4,7 @@
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-255 songs - 15 hr 34 min
+256 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Someone Someday](https://open.spotify.com/track/05Bd4QYgCLBbEq8BFn1YkF) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Someone Someday](https://open.spotify.com/album/1j1ytVFYpziu8soc3Aicmu) | 3:17 | 2022-07-22 |  |
 | [Something Good](https://open.spotify.com/track/6pQQS2sAzMfy6sHhJD6UUO) | [Amy Stroup](https://open.spotify.com/artist/3dVt88018sQikXFlIocj3X), [Michael Logen](https://open.spotify.com/artist/7KaasLUJvHN32JTeXBmowR) | [Something Good](https://open.spotify.com/album/2EultUQvXZxWsOwWyvR8py) | 3:02 | 2022-07-22 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 | 2023-09-07 |  |
+| [Songbird](https://open.spotify.com/track/1FbQ74rSNPIhSe6fY7bcmf) | [The Band Willa](https://open.spotify.com/artist/1IX8IgFPoeMCn9Ep4rSkSm) | [Virgin River: Season 5 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Nm2jeC35a4pwcQbCfG2cZ) | 2:11 | 2023-09-25 |  |
 | [Songbird \- 2004 Remaster](https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:20 | 2023-09-07 |  |
 | [Spirit Fresh](https://open.spotify.com/track/3NRduYCiouMXfsQD6gcmqe) | [Paddy Conn](https://open.spotify.com/artist/6iilscTEv9jQWydJsY4uA7) | [Future Beach](https://open.spotify.com/album/0bkoN2KdMClWIOPda3R3WT) | 3:25 | 2022-07-22 |  |
 | [Steady](https://open.spotify.com/track/1BZeGezkyEuQnG9rkud3sj) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha) | [Emily Wolfe](https://open.spotify.com/album/0g29Kfki3uQXe80dTdWhxD) | 4:09 | 2022-07-22 |  |

@@ -3443,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "Virgin River: Season 5 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5Nm2jeC35a4pwcQbCfG2cZ"
+      },
+      "artists": [
+        {
+          "name": "The Band Willa",
+          "url": "https://open.spotify.com/artist/1IX8IgFPoeMCn9Ep4rSkSm"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131262,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/1FbQ74rSNPIhSe6fY7bcmf"
+    },
+    {
+      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },

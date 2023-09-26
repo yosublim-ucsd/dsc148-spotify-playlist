@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1502494,
+  "num_followers": 1502590,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2I1OGFhODk2NzU4NGFiNGNkOGU1YzdjZjllNTg4YzFlZGIwNGFl",
+  "snapshot_id": "MCxkMDNiMGI2YTY3NDU2ZTNkNmM3YTc3MDk3NWVlZDAxMmRhYmMwMTU1",
   "tracks": [
     {
       "added_at": "2023-08-30 15:31:41",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
         "name": "Tearing At The Seams",
         "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 196760,
       "name": "Run",
       "url": "https://open.spotify.com/track/7xoDqnyrBDgusvQ1AHoOSx"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
     },
     {
       "added_at": "2023-08-30 15:31:41",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
         "name": "Lemon Tree",
         "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 201720,
       "name": "Sword from the Stone",
       "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
     },
     {
       "added_at": "2023-08-30 15:31:41",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Call Me in the Afternoon",
-      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
         "name": "Fits Of Laughter",
         "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 268280,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Call Me in the Afternoon",
+      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
     },
     {
       "added_at": "2023-08-30 15:31:41",
@@ -1327,38 +1327,6 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "American Novel: Ch. I",
-        "url": "https://open.spotify.com/album/6aOqx8c8t5I7I3fg3OxSCX"
-      },
-      "artists": [
-        {
-          "name": "The Brevet",
-          "url": "https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM"
-        }
-      ],
-      "duration_ms": 279500,
-      "name": "Moving Mountains",
-      "url": "https://open.spotify.com/track/6PRr6dzkiaLTGbkLSdQCvL"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
-        "name": "The Pool",
-        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 242562,
-      "name": "The Pool",
-      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -1387,6 +1355,38 @@
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
+        "name": "The Pool",
+        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 242562,
+      "name": "The Pool",
+      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
+        "name": "American Novel: Ch. I",
+        "url": "https://open.spotify.com/album/6aOqx8c8t5I7I3fg3OxSCX"
+      },
+      "artists": [
+        {
+          "name": "The Brevet",
+          "url": "https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM"
+        }
+      ],
+      "duration_ms": 279500,
+      "name": "Moving Mountains",
+      "url": "https://open.spotify.com/track/6PRr6dzkiaLTGbkLSdQCvL"
     },
     {
       "added_at": "2023-08-30 15:31:41",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
         "name": "Heart Beats",
         "url": "https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 200400,
       "name": "Don't Let It Get You Down",
       "url": "https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
     },
     {
       "added_at": "2023-08-30 15:31:41",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
+        "name": "Lion's Den",
+        "url": "https://open.spotify.com/album/3j3lKIWIoQozFm1UHJ6mUf"
+      },
+      "artists": [
+        {
+          "name": "Little Chief",
+          "url": "https://open.spotify.com/artist/5oYrefc0gr24yRUMCDBZkB"
+        }
+      ],
+      "duration_ms": 296796,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2ZsKcXPYFPMF9RIh12XLCh"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 197458,
       "name": "Call My Name - Acoustic",
       "url": "https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
-        "name": "Lion's Den",
-        "url": "https://open.spotify.com/album/3j3lKIWIoQozFm1UHJ6mUf"
-      },
-      "artists": [
-        {
-          "name": "Little Chief",
-          "url": "https://open.spotify.com/artist/5oYrefc0gr24yRUMCDBZkB"
-        }
-      ],
-      "duration_ms": 296796,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/2ZsKcXPYFPMF9RIh12XLCh"
     },
     {
       "added_at": "2023-08-30 15:31:41",

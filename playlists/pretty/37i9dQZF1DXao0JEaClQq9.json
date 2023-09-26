@@ -1,12 +1,12 @@
 {
   "description": "melting into Mitski, and the many sounds of modern ethereal. ",
-  "num_followers": 1628286,
+  "num_followers": 1628532,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGI0NjlkYzlhNDc2ZDk0MDQ1ZTA2MGIwMjkxNzA4NGZkNzNlY2E3",
+  "snapshot_id": "MCw0YWQ2OTNlMDQ3MTIxODU4ZTgyZjI1MGE4NzEwNWYyZjRmY2U1YjU0",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 150027,
-      "name": "MALAMENTE - Cap.1: Augurio",
-      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 139805,
       "name": "Talk 2 Me",
       "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 150027,
+      "name": "MALAMENTE - Cap.1: Augurio",
+      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -637,6 +637,42 @@
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
+      "added_at": "2023-09-22 03:21:34",
+      "album": {
+        "name": "NO SZNS",
+        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "NO SZNS",
+      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Inbred",
+        "url": "https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 204317,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5"
+    },
+    {
       "added_at": "2023-08-29 22:40:54",
       "album": {
         "name": "Star b/w Heaven",
@@ -671,22 +707,6 @@
       "duration_ms": 211500,
       "name": "Playground Love",
       "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Inbred",
-        "url": "https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 204317,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -793,26 +813,6 @@
       "url": "https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY"
     },
     {
-      "added_at": "2023-09-22 03:21:34",
-      "album": {
-        "name": "NO SZNS",
-        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "NO SZNS",
-      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Call U Tomorrow",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Serenade of Water",
+      "url": "https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 257213,
       "name": "Revolution 0",
       "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Serenade of Water",
-      "url": "https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1059,6 +1059,22 @@
       "duration_ms": 202867,
       "name": "Famous Last Words (An Ode to Eaters)",
       "url": "https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX"
+    },
+    {
+      "added_at": "2023-09-22 03:21:34",
+      "album": {
+        "name": "I Just Wanna Feel Your Love Again",
+        "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 241166,
+      "name": "I Just Wanna Feel Your Love Again",
+      "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1279,22 +1295,6 @@
       "duration_ms": 219727,
       "name": "The Smoke",
       "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
-    },
-    {
-      "added_at": "2023-09-22 03:21:34",
-      "album": {
-        "name": "I Just Wanna Feel Your Love Again",
-        "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 241166,
-      "name": "I Just Wanna Feel Your Love Again",
-      "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
     }
   ],
   "unique_name": "Ethereal",

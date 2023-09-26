@@ -2,9 +2,9 @@
 
 ### [Made in Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn)
 
-> ¡Con sabor y perrenque, aquí está lo mejor de "la tierra de los mil ritmos"! En portada: Blessd y Maluma
+> ¡Con sabor y perrenque, aquí está lo mejor de "la tierra de los mil ritmos"! En portada: Shakira\. \#DiaDeShakira
 
-237 songs - 13 hr 33 min
+238 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 | 2022-10-11 | 2023-08-12 |
 | [A Dios Le Pido](https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:25 | 2023-05-25 | 2023-06-07 |
 | [A Dios Le Pido \- Remastered 2022](https://open.spotify.com/track/1qLtWgyXlpEgAstbyksv4V) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal \(20th Anniversary Remastered\)](https://open.spotify.com/album/1u6LVowYLLPQVSS2o67YyW) | 3:25 | 2022-05-20 | 2022-10-29 |
+| [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 | 2023-09-25 |  |
 | [Adiós](https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Adiós](https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3) | 3:02 | 2022-01-12 | 2022-03-05 |
 | [Agua de Jamaica](https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [\#7DJ \(7 Días En Jamaica\)](https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98) | 2:56 | 2022-01-12 |  |
 | [Aguardiente \(feat\. Pasabordo\)](https://open.spotify.com/track/7yqcWwboHSKn14hhDiwnKx) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Aguardiente \(feat\. Pasabordo\)](https://open.spotify.com/album/5ytexqtoxBTole1JhBIsEZ) | 3:34 | 2022-01-12 |  |
@@ -53,7 +54,7 @@
 | [Como Ayer](https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Como Ayer](https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe) | 2:37 | 2023-08-11 |  |
 | [Conquistar El Planeta](https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Conquistar El Planeta](https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd) | 2:43 | 2023-03-17 |  |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-07-19 |  |
-| [Corazón](https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:28 | 2023-04-28 |  |
+| [Corazón](https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:28 | 2023-04-28 | 2023-09-26 |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-02-02 | 2023-05-20 |
 | [Cómo No Amarte](https://open.spotify.com/track/6zHTsaVfFTRHw1nsQDelEE) | [Yembema](https://open.spotify.com/artist/4hbvLL1IAVzyjj0QAUFvoa), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cómo No Amarte](https://open.spotify.com/album/0CNNBLGrulMCZH9xkwcXkR) | 3:27 | 2022-01-12 | 2022-02-03 |
 | [Cuatro Rosas](https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:36 | 2023-05-25 | 2023-06-07 |

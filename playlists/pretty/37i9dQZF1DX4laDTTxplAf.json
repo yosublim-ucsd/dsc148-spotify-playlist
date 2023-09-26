@@ -1,12 +1,12 @@
 {
   "description": "All 00s, all ballads. Cover: Norah Jones",
-  "num_followers": 254777,
+  "num_followers": 254889,
   "original_name": "00s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmJhNDUzYjMyMTliMDg1NzAzN2U4MjAwZWUxYWU1YWY2Y2IzOTZi",
+  "snapshot_id": "MCw3ZTk0YTc3OTJkMTg5ZDI1MTkwMThhMTNlM2VhNGU5YThhMjQ4OTg2",
   "tracks": [
     {
       "added_at": "2021-02-10 17:52:46",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
     },
     {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
-    },
-    {
       "added_at": "2022-04-19 19:36:16",
       "album": {
         "name": "How To Save A Life",
@@ -167,6 +151,22 @@
       "duration_ms": 207186,
       "name": "So Sick",
       "url": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     },
     {
       "added_at": "2022-04-19 19:36:16",
@@ -487,38 +487,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Feels Like Today",
         "url": "https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy"
       },
@@ -531,6 +499,22 @@
       "duration_ms": 226680,
       "name": "Bless The Broken Road",
       "url": "https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 245826,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -567,6 +551,22 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
@@ -599,6 +599,22 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
         "name": "Heavier Things",
         "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 237906,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Confessions Part II",
-      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -679,18 +679,18 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 214106,
-      "name": "What Hurts The Most",
-      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
+      "duration_ms": 211200,
+      "name": "Confessions Part II",
+      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Stop All The World Now",
         "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 243373,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -999,22 +999,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 430800,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Celebrity",
         "url": "https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 292000,
       "name": "Gone",
       "url": "https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 430800,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
     },
     {
       "added_at": "2021-02-10 17:52:46",

@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 377051,
+  "num_followers": 377068,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTdiMTQ1YWI0NGQyMmQ5MjdlODk3YzgxNjcwYjc5ZDk4ZDk0NjA0",
+  "snapshot_id": "MCwxMTBkNmM3MDc1ZjFmZDZiZjA1NDBiMzJmYWYyODNkYTlhNzhjZmY5",
   "tracks": [
     {
       "added_at": "2023-09-21 15:00:00",
@@ -883,26 +883,18 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
-        "name": "Miss You feat. Vernon of SEVENTEEN",
-        "url": "https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW"
+        "name": "I say bye",
+        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
       },
       "artists": [
         {
-          "name": "(sic)boy",
-          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
-        },
-        {
-          "name": "VERNON",
-          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Miss You feat. Vernon of SEVENTEEN",
-      "url": "https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi"
+      "duration_ms": 180596,
+      "name": "I say bye",
+      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
     },
     {
       "added_at": "2023-09-21 15:00:00",
@@ -927,18 +919,26 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
-        "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
-        "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
+        "name": "Miss You feat. Vernon of SEVENTEEN",
+        "url": "https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW"
       },
       "artists": [
         {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "VERNON",
+          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
         }
       ],
-      "duration_ms": 235814,
-      "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
+      "duration_ms": 184760,
+      "name": "Miss You feat. Vernon of SEVENTEEN",
+      "url": "https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi"
     },
     {
       "added_at": "2023-09-21 15:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
-        "name": "I say bye",
-        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
+        "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
         }
       ],
-      "duration_ms": 180596,
-      "name": "I say bye",
-      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
+      "duration_ms": 235814,
+      "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
     },
     {
       "added_at": "2023-09-21 15:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
-        "name": "TOKIDOKI",
-        "url": "https://open.spotify.com/album/6BnEpQLKLJDwcVz9Wm5WUe"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "TOKIDOKI",
-      "url": "https://open.spotify.com/track/3SiUx0t1TvXEYNjRkxsfx7"
-    },
-    {
-      "added_at": "2023-09-21 15:00:00",
-      "album": {
         "name": "Don't go (feat. ASH ISLAND)",
         "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+    },
+    {
+      "added_at": "2023-09-21 15:00:00",
+      "album": {
+        "name": "TOKIDOKI",
+        "url": "https://open.spotify.com/album/6BnEpQLKLJDwcVz9Wm5WUe"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "TOKIDOKI",
+      "url": "https://open.spotify.com/track/3SiUx0t1TvXEYNjRkxsfx7"
     },
     {
       "added_at": "2023-09-21 15:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-09-21 15:00:00",
       "album": {
-        "name": "one call",
-        "url": "https://open.spotify.com/album/6LVVpAPHMnk2EDvKSTWGA1"
-      },
-      "artists": [
-        {
-          "name": "Kaneee",
-          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
-        }
-      ],
-      "duration_ms": 114089,
-      "name": "one call",
-      "url": "https://open.spotify.com/track/2ATQ3KHJowOqBzF6AiI67b"
-    },
-    {
-      "added_at": "2023-09-21 15:00:00",
-      "album": {
         "name": "We'll be fine (English Version)",
         "url": "https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 258920,
       "name": "Love (feat. Skaai)",
       "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+    },
+    {
+      "added_at": "2023-09-21 15:00:00",
+      "album": {
+        "name": "one call",
+        "url": "https://open.spotify.com/album/6LVVpAPHMnk2EDvKSTWGA1"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        }
+      ],
+      "duration_ms": 114089,
+      "name": "one call",
+      "url": "https://open.spotify.com/track/2ATQ3KHJowOqBzF6AiI67b"
     },
     {
       "added_at": "2023-09-21 15:00:00",

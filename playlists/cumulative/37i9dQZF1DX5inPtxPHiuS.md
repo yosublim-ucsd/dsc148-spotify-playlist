@@ -2,9 +2,9 @@
 
 ### [Rock Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5inPtxPHiuS)
 
-> ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
+> ¡Disfruta con los grandes del rock colombiano! Foto: Shakira
 
-209 songs - 12 hr 57 min
+210 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Alquimia](https://open.spotify.com/track/0kZbVGfQ1As85qQQpqaAFP) | [Mad Tree](https://open.spotify.com/artist/5tYyhyk6c1hUFgxiIke31W) | [Centésimo Humano](https://open.spotify.com/album/4zHaKuOxtImXo927eeh6So) | 3:27 | 2022-03-11 | 2022-07-29 |
 | [Amor Depredador](https://open.spotify.com/track/5mfaWeUAGR81onvg2m1kmZ) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK) | 3:57 | 2022-06-24 |  |
 | [Amor Depredador](https://open.spotify.com/track/1vG6SgW6amCI36waKCCpgj) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/54FlK7Mg1gDyCpE11R0hEs) | 3:58 | 2022-03-11 | 2022-07-29 |
-| [Analogía de una Laguna](https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Analogía de una Laguna](https://open.spotify.com/album/723DfEBve0LRScRimGdq9c) | 3:30 | 2022-03-11 |  |
+| [Analogía de una Laguna](https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Analogía de una Laguna](https://open.spotify.com/album/723DfEBve0LRScRimGdq9c) | 3:30 | 2022-03-11 | 2023-09-26 |
 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 | 2022-03-11 | 2022-07-20 |
 | [Antiamor](https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Antiamor](https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu) | 3:43 | 2022-10-13 |  |
 | [Antiamor](https://open.spotify.com/track/6bAxhfCA4JEeaSliO7pFUh) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Antiamor](https://open.spotify.com/album/3nNpSxqEyPHwuWh9bYkjIT) | 3:44 | 2022-03-11 | 2022-07-18 |
@@ -177,6 +177,7 @@
 | [Santa Fe](https://open.spotify.com/track/3lIDl1z8S2n0Ga1a6L4vnA) | [Distrito Especial](https://open.spotify.com/artist/2nV0WCZHU0dQpzRersbuo7), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [No Tire Tanta Bala](https://open.spotify.com/album/4Gjx7eC492BS5wKtkLBvVJ) | 2:37 | 2022-03-11 | 2022-07-28 |
 | [Sed](https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Sed](https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn) | 4:59 | 2022-03-11 | 2022-07-29 |
 | [Si no es muy tarde](https://open.spotify.com/track/5lUS2JGjBQrVvUVgd2jgdF) | [Lina Sanabria](https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV) | [Si no es muy tarde](https://open.spotify.com/album/65rezM8mnA0svYHgyRcBzb) | 2:33 | 2022-10-07 | 2023-02-14 |
+| [Si Te Vas](https://open.spotify.com/track/7Apo6o7oxgFyXaSmdx6NHN) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:30 | 2023-09-25 |  |
 | [Sigo](https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ) | 3:19 | 2022-03-11 | 2023-09-20 |
 | [Sirenas](https://open.spotify.com/track/1PkGzHg95qINSbYbsQWr3u) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Soles Negros](https://open.spotify.com/album/3ofTHUW3ZUlEMBx10gidAG) | 4:00 | 2022-03-11 | 2022-07-20 |
 | [Soledad Criminal](https://open.spotify.com/track/0Ly8FMXLrMhiJW7kgECxPZ) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Aquí Vamos Otra Vez](https://open.spotify.com/album/5Ky4OYPxlJcZDvVsN2zANf) | 3:09 | 2022-03-11 | 2022-07-28 |

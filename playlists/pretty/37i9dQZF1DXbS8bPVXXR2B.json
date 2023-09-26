@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 218653,
+  "num_followers": 218730,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDhkNmM1Y2Q4ZjNlZWEwMGFlMzJlYWZiYTI2M2QyNTg4ZDAxNWM1",
+  "snapshot_id": "MCwwNWM3MDc3ZWFmOTJkMzIyN2M3ZmE4MTRjYjVjNmE4ZGVlZjEyNDYw",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "He's the Greatest Dancer - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Step II",
         "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 299373,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Modern Heat EP",
-        "url": "https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0"
-      },
-      "artists": [
-        {
-          "name": "MAM",
-          "url": "https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi"
-        }
-      ],
-      "duration_ms": 280417,
-      "name": "Crushed Ice",
-      "url": "https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Nigeria 70 - Funky Lagos",
         "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 373333,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Modern Heat EP",
+        "url": "https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0"
+      },
+      "artists": [
+        {
+          "name": "MAM",
+          "url": "https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi"
+        }
+      ],
+      "duration_ms": 280417,
+      "name": "Crushed Ice",
+      "url": "https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Groovin' You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 376986,
-      "name": "Groovin' You - 12\" Version",
-      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Get It Right (Expanded Edition)",
         "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
@@ -1367,22 +1351,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Kiss Me Again",
-        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur",
-          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
-        }
-      ],
-      "duration_ms": 181698,
-      "name": "Kiss Me Again - Mix Edit",
-      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Magical Night (Greatest Hits Special Price)",
         "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
@@ -1395,6 +1363,38 @@
       "duration_ms": 268653,
       "name": "Hold Tight - Full Length Album Mix",
       "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Groovin' You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "duration_ms": 376986,
+      "name": "Groovin' You - 12\" Version",
+      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Kiss Me Again",
+        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur",
+          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
+        }
+      ],
+      "duration_ms": 181698,
+      "name": "Kiss Me Again - Mix Edit",
+      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
     },
     {
       "added_at": "2022-09-05 16:54:43",

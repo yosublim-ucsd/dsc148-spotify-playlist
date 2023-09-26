@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Coin coin",
+        "url": "https://open.spotify.com/album/3XSN53ondDCSSLeIXXvNrK"
+      },
+      "artists": [
+        {
+          "name": "Malaim\u00e9 Soleil",
+          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "Coin coin",
+      "url": "https://open.spotify.com/track/2EeKut39BXmeuZSeDn2Pmw"
+    },
+    {
+      "album": {
         "name": "Combien \u00e7a co\u00fbte",
         "url": "https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6"
       },
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 208754,
       "name": "Nue",
       "url": "https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6"
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 213892,
       "name": "Sentiments nouveaux",
       "url": "https://open.spotify.com/track/6LM0rvYTRtleOizjQEmkQH"
@@ -2190,6 +2208,24 @@
       "duration_ms": 195476,
       "name": "Vitesse",
       "url": "https://open.spotify.com/track/4Wtf5MWtWQ0t5mSk9xwJks"
+    },
+    {
+      "album": {
+        "name": "Voiture de course",
+        "url": "https://open.spotify.com/album/7m2z2S45pCXwA8tzDV8pdK"
+      },
+      "artists": [
+        {
+          "name": "oui merci",
+          "url": "https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205847,
+      "name": "Voiture de course",
+      "url": "https://open.spotify.com/track/5AbHwqS90lmbvhNX733j0z"
     },
     {
       "album": {

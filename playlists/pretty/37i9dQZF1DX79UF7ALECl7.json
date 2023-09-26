@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 119386,
+  "num_followers": 119415,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzA3OGViMTJjY2FiYzEyZmM1MTVmNjQ3MGMzZGQ0YmQ3YWVkNDli",
+  "snapshot_id": "MCwzZWEyMTRlODgzZGIyMTFhOGZmMDQxOWRiMmI5MDA0YWEzYmZiODVh",
   "tracks": [
     {
       "added_at": "2023-09-15 09:33:43",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Stained Teeth",
-        "url": "https://open.spotify.com/album/1uMVz2UZV5zbRYuPMVcTAA"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 165610,
-      "name": "Stained Teeth",
-      "url": "https://open.spotify.com/track/0Bcvsr304OHC9ZpBJIuFY1"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 240000,
       "name": "Through The Night",
       "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
+        "name": "Stained Teeth",
+        "url": "https://open.spotify.com/album/1uMVz2UZV5zbRYuPMVcTAA"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 165610,
+      "name": "Stained Teeth",
+      "url": "https://open.spotify.com/track/0Bcvsr304OHC9ZpBJIuFY1"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Reunion",
-        "url": "https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 247724,
-      "name": "Coffee and Feels",
-      "url": "https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 176000,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 247724,
+      "name": "Coffee and Feels",
+      "url": "https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Travellers",
-        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
-      },
-      "artists": [
-        {
-          "name": "Ran the Man",
-          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
-        }
-      ],
-      "duration_ms": 215743,
-      "name": "Suburban Sunrise",
-      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
         "name": "Ltdblbl008",
         "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
+        "name": "Travellers",
+        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
+      },
+      "artists": [
+        {
+          "name": "Ran the Man",
+          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
+        }
+      ],
+      "duration_ms": 215743,
+      "name": "Suburban Sunrise",
+      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -427,26 +427,6 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Shallow Breathing",
-        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Makk Mikkael",
-          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Shallow Breathing",
-      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 415903,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
+        "name": "Shallow Breathing",
+        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Shallow Breathing",
+      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
+        "name": "Little Airplanes",
+        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 330614,
+      "name": "Little Airplanes",
+      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
       },
@@ -531,6 +547,22 @@
       "duration_ms": 245202,
       "name": "Gaia - Radio Edit",
       "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -551,38 +583,6 @@
       "duration_ms": 239548,
       "name": "NaturHaus",
       "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
-        "name": "Little Airplanes",
-        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 330614,
-      "name": "Little Airplanes",
-      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Let Love Find Itself / You Blow My Mind",
-        "url": "https://open.spotify.com/album/5PFbIDeJUJm78Bs0Bch5TB"
-      },
-      "artists": [
-        {
-          "name": "KAYYAK",
-          "url": "https://open.spotify.com/artist/0CWKawzjg8jkvZX8HDogla"
-        }
-      ],
-      "duration_ms": 542983,
-      "name": "Let Love Find Itself",
-      "url": "https://open.spotify.com/track/6NLzOMEhcY7jBTHMxZf1Pn"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
         "name": "Golden Cage EP",
         "url": "https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY"
       },
@@ -647,6 +631,26 @@
       "duration_ms": 239249,
       "name": "Mercury Moments",
       "url": "https://open.spotify.com/track/3c8hntpeHHoS8BxppJoBBW"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -671,6 +675,22 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
+        "name": "Let Love Find Itself / You Blow My Mind",
+        "url": "https://open.spotify.com/album/5PFbIDeJUJm78Bs0Bch5TB"
+      },
+      "artists": [
+        {
+          "name": "KAYYAK",
+          "url": "https://open.spotify.com/artist/0CWKawzjg8jkvZX8HDogla"
+        }
+      ],
+      "duration_ms": 542983,
+      "name": "Let Love Find Itself",
+      "url": "https://open.spotify.com/track/6NLzOMEhcY7jBTHMxZf1Pn"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
         "name": "Half Light",
         "url": "https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 186340,
       "name": "Tide (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/4mjno1cpVrlldeElighIIw"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Speak Like the Hurricane",
-        "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
-      },
-      "artists": [
-        {
-          "name": "Marc Bianco",
-          "url": "https://open.spotify.com/artist/6XD63w7shze8nTGtkm32Y3"
-        },
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 417391,
-      "name": "Pelicanism",
-      "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
         "name": "Pro's & Con's (Kraak & Smaak Remix)",
         "url": "https://open.spotify.com/album/2tRojFBP52p93DUFiSZ9Lv"
       },
@@ -847,18 +827,22 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "After Midnyte",
-        "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
+        "name": "Speak Like the Hurricane",
+        "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
       },
       "artists": [
         {
-          "name": "Giants' Nest",
-          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+          "name": "Marc Bianco",
+          "url": "https://open.spotify.com/artist/6XD63w7shze8nTGtkm32Y3"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 191819,
-      "name": "Got to Fall Out",
-      "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
+      "duration_ms": 417391,
+      "name": "Pelicanism",
+      "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -875,6 +859,22 @@
       "duration_ms": 301909,
       "name": "What We Witness",
       "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
+        "name": "After Midnyte",
+        "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "duration_ms": 191819,
+      "name": "Got to Fall Out",
+      "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
       },
@@ -1087,22 +1071,18 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Infinity (The Remixes)",
-        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
       },
       "artists": [
         {
-          "name": "Bluma Petersen",
-          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
-        },
-        {
-          "name": "SLCT",
-          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
         }
       ],
-      "duration_ms": 176356,
-      "name": "Infinity (SLCT Remix) (Instrumental Version)",
-      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
+      "duration_ms": 207500,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -1123,6 +1103,26 @@
       "duration_ms": 298440,
       "name": "Youth - Satin Jackets Remix",
       "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
+        "name": "Infinity (The Remixes)",
+        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
+      },
+      "artists": [
+        {
+          "name": "Bluma Petersen",
+          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
+        },
+        {
+          "name": "SLCT",
+          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
+        }
+      ],
+      "duration_ms": 176356,
+      "name": "Infinity (SLCT Remix) (Instrumental Version)",
+      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
+        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8lling",
+          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Nothing Happened",
+      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
         "name": "Aftergold (5 Year Anniversary)",
         "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 228573,
       "name": "Aftergold - obli Remix",
       "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8lling",
-          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Nothing Happened",
-      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
+        "name": "Moraine",
+        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 237947,
+      "name": "Moraine",
+      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
+    },
+    {
+      "added_at": "2023-09-15 09:33:43",
+      "album": {
         "name": "Hachi",
         "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 165517,
       "name": "Hachi",
       "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
-    },
-    {
-      "added_at": "2023-09-15 09:33:43",
-      "album": {
-        "name": "Moraine",
-        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 237947,
-      "name": "Moraine",
-      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -1563,18 +1563,22 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Natural Movement",
-        "url": "https://open.spotify.com/album/5YzvYAfuFbXc36n4do35Jn"
+        "name": "Fading Memories",
+        "url": "https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd"
       },
       "artists": [
         {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
         }
       ],
-      "duration_ms": 317288,
-      "name": "Back 2 It",
-      "url": "https://open.spotify.com/track/2QBnkgX7ekkoZtlR3ZzLHO"
+      "duration_ms": 483808,
+      "name": "Fading Memories",
+      "url": "https://open.spotify.com/track/2gCzNuIjZQnKj9lMqHjk7X"
     },
     {
       "added_at": "2023-09-15 09:33:43",
@@ -1595,22 +1599,18 @@
     {
       "added_at": "2023-09-15 09:33:43",
       "album": {
-        "name": "Fading Memories",
-        "url": "https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd"
+        "name": "Natural Movement",
+        "url": "https://open.spotify.com/album/5YzvYAfuFbXc36n4do35Jn"
       },
       "artists": [
         {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
         }
       ],
-      "duration_ms": 483808,
-      "name": "Fading Memories",
-      "url": "https://open.spotify.com/track/2gCzNuIjZQnKj9lMqHjk7X"
+      "duration_ms": 317288,
+      "name": "Back 2 It",
+      "url": "https://open.spotify.com/track/2QBnkgX7ekkoZtlR3ZzLHO"
     },
     {
       "added_at": "2023-09-15 09:33:43",

@@ -4,7 +4,7 @@
 
 > Dembow dominicano to el día\. Foto: Angel Dior y Braulio Fogón
 
-399 songs - 21 hr 49 min
+400 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [El Boom](https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [El Boom](https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW) | 3:39 | 2022-11-21 |  |
 | [El Cajeroyor](https://open.spotify.com/track/2mDULtk5UUtrd8CPtFRlbQ) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Exitos del Dembow](https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0) | 3:11 | 2021-12-10 | 2022-07-16 |
 | [El Calimete](https://open.spotify.com/track/7n2aYaieYRmMEswNknIuIs) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Exitos Vol\. 1](https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU) | 3:47 | 2021-12-10 | 2022-07-27 |
-| [El Chiva](https://open.spotify.com/track/6Lpx9mRll44qoVXhSPBdSw) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Ahora Venimo Con Rango](https://open.spotify.com/album/40Tm0edfITjnxINCgdVmeU) | 2:24 | 2022-11-21 |  |
+| [El Chiva](https://open.spotify.com/track/6Lpx9mRll44qoVXhSPBdSw) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Ahora Venimo Con Rango](https://open.spotify.com/album/40Tm0edfITjnxINCgdVmeU) | 2:24 | 2022-11-21 | 2023-09-26 |
 | [El Chiva](https://open.spotify.com/track/6RwI2ttaWWptIzIQvj3G68) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Ahora Venimo' Con Rango](https://open.spotify.com/album/0Qwqq5uobfICw2CYAlzfiU) | 2:27 | 2021-12-10 | 2022-07-26 |
 | [El Con Con](https://open.spotify.com/track/4ZTbTvevmFuXUQ26LTLEoy) | [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA), [A.C.](https://open.spotify.com/artist/0nEAytOgLVljiBx1pj4uWy), [Maceo El Perro Blanco](https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6) | [El Con Con](https://open.spotify.com/album/29HCwiG8wd0LWtSzMN5SWf) | 2:36 | 2023-05-26 | 2023-08-25 |
 | [El Culon](https://open.spotify.com/track/5KHLqLHg2HcuuyzjYcJYIC) | [Cromo X](https://open.spotify.com/artist/3rDYAiKm3c9RgztxGEUfto), [X3mo](https://open.spotify.com/artist/50lPFUvJt3DTeGcTapLP9h) | [El Culon \- Single](https://open.spotify.com/album/6uD6BVQAaRi9hDyfcSg5IF) | 4:19 | 2022-01-04 | 2022-07-19 |
@@ -212,6 +212,7 @@
 | [Los Domingos Temprano](https://open.spotify.com/track/5O9Q7SvqRLXHdqA8V1zZST) | [Juangra 90](https://open.spotify.com/artist/2sHwzEqZEFO9KSRZSGQtE1), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Los Domingos Temprano](https://open.spotify.com/album/5jiIrj2Tv4DuLQRvr2Whje) | 2:47 | 2021-12-10 | 2022-07-25 |
 | [Los Lunatikos\-Siente el ki](https://open.spotify.com/track/4lyPtzBofgqxUzAfYMIl6B) | [leo martinez 12djs](https://open.spotify.com/artist/7McJxAkJsTupNa9hVhZZD7) | [Los Lunatikos\-Siente el ki](https://open.spotify.com/album/2dtjta6EGCagLB2LdYvCk4) | 3:24 | 2022-08-19 | 2022-10-06 |
 | [Los Niños Malos](https://open.spotify.com/track/4ZOyLgTrJUGiDC9833bm34) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Exitos del Dembow](https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0) | 3:03 | 2021-12-10 | 2022-07-28 |
+| [Los Niños Malos](https://open.spotify.com/track/3NVPKovyUXiYXGjz0GsxEN) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [On Fire](https://open.spotify.com/album/0m859pAzGiLM9zhTzaq4UP) | 3:03 | 2023-05-26 |  |
 | [Los Pomposo](https://open.spotify.com/track/6VrOzFtjAylmaRV5OsCFeo) | [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Los Pomposo](https://open.spotify.com/album/58Oiy0qpUaoeOjS24jUbYQ) | 2:44 | 2021-12-10 | 2022-07-29 |
 | [Los Pomposos \(feat\. Yomel El Meloso\)](https://open.spotify.com/track/1RgNUug3wnBqPNGKLHTnxG) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Cambiando el Juego](https://open.spotify.com/album/1JLwZcj57nk69vrlbCLym5) | 2:44 | 2022-11-21 |  |
 | [Lulili](https://open.spotify.com/track/3sd6QegaIxdt4c6ezhx47W) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8) | [Lulili](https://open.spotify.com/album/5nkXPtFbJPZjaVSPIebITc) | 2:12 | 2023-02-18 | 2023-02-25 |

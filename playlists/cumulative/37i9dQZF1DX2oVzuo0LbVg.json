@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Pop Anglo para acompa\u00f1ar tus mejores momentos. Foto: Taylor Swift",
+  "description": "Pop Anglo para acompa\u00f1ar tus mejores momentos. Foto: Shakira #DiaDeShakira",
   "name": "Pop en Ingl\u00e9s",
   "tracks": [
     {
@@ -824,6 +824,24 @@
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "album": {
+        "name": "Shakira. (Expanded Edition) [Spanish Version]",
+        "url": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/0t2cqTppQ4yoEW45LAngxJ"
     },
     {
       "album": {
@@ -2874,7 +2892,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 190306,
       "name": "Take You Dancing",
       "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"

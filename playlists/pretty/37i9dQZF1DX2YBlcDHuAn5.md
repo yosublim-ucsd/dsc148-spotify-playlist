@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,319 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,331 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 25 | [Forever a Prisoner](https://open.spotify.com/track/5UEffWajlacLxVJd2jODNX) | [Them Dirty Dimes](https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP), [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Forever a Prisoner](https://open.spotify.com/album/489krjRSaaFyODbOscNedG) | 3:19 |
 | 26 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 |
 | 27 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
-| 28 | [Big Time](https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Big Time](https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx) | 4:07 |
-| 29 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
+| 28 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
+| 29 | [Big Time](https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Big Time](https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx) | 4:07 |
 | 30 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 |
-| 31 | [Before The Storm](https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Before The Storm](https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP) | 3:11 |
-| 32 | [Today I Started Loving You Again](https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Down Every Road](https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf) | 2:36 |
+| 31 | [Today I Started Loving You Again](https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Down Every Road](https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf) | 2:36 |
+| 32 | [Before The Storm](https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Before The Storm](https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP) | 3:11 |
 | 33 | [Too Close](https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Too Close](https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO) | 3:28 |
 | 34 | [Russell County Line](https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Russell County Line](https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h) | 4:09 |
 | 35 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 39 | [Gonna Shine](https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Gonna Shine](https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi) | 4:01 |
 | 40 | [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 |
 | 41 | [Babe I'm Gonna Leave You \- Extended Version](https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Babe I'm Gonna Leave You \(Extended Version\)](https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL) | 4:54 |
-| 42 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 |
-| 43 | [Tower Of Song](https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:59 |
-| 44 | [Priest From Terre Haute](https://open.spotify.com/track/41AdctlVIX5Jmkbe3r5rSt) | [Marcos Cabanas](https://open.spotify.com/artist/4JBxhCOOXTqL70LD3wx402) | [Priest From Terre Haute](https://open.spotify.com/album/2g30G0QERaeiqhkeyr0oxH) | 11:43 |
+| 42 | [Tower Of Song](https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:59 |
+| 43 | [Priest From Terre Haute](https://open.spotify.com/track/41AdctlVIX5Jmkbe3r5rSt) | [Marcos Cabanas](https://open.spotify.com/artist/4JBxhCOOXTqL70LD3wx402) | [Priest From Terre Haute](https://open.spotify.com/album/2g30G0QERaeiqhkeyr0oxH) | 11:43 |
+| 44 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 |
 | 45 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 |
 | 46 | [Lola with the Light Eyes](https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man](https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH) | 3:32 |
 | 47 | [Only Love](https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Big Thing](https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [Gravel Road](https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Wandering Soul](https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv) | 2:32 |
 | 50 | [Times](https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y) | [Marlayne](https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr), [Hans Vermeulen](https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD) | [Times](https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l) | 4:04 |
 
-Snapshot ID: `MCw1MzRkNzNkZGMxOTk3MGFlZjE0ODhhYThiNDNjOTA3MzAxYWZmYWVk`
+Snapshot ID: `MCxiMTUzYjU0NzZkNTlkMDYzNTYyZjlkN2Y1MGU2Mjk0MzM2NTYzYTk5`

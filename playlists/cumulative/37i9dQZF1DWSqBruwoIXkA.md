@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this Cover: Reneé Rapp
 
-574 songs - 1 day 7 hr 39 min
+576 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Always](https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:45 | 2023-04-11 |  |
 | [Always Almost](https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Always Almost](https://open.spotify.com/album/5wNsHPJAH2NmuGg8IQ3REM) | 3:22 | 2022-03-18 | 2022-05-18 |
 | [Always Love](https://open.spotify.com/track/02TtDZcUvEJGFJSJ6fTMfn) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Always Love](https://open.spotify.com/album/6jvytXvGQ8DWZYXcL1rYba) | 3:20 | 2022-10-28 | 2023-02-04 |
-| [amnesia](https://open.spotify.com/track/33EPuIJQwfcm82vhTGJXyj) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [amnesia](https://open.spotify.com/album/6N7m2bKMX2KklL0ELXoGCH) | 2:52 | 2022-10-28 |  |
+| [amnesia](https://open.spotify.com/track/33EPuIJQwfcm82vhTGJXyj) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [amnesia](https://open.spotify.com/album/6N7m2bKMX2KklL0ELXoGCH) | 2:52 | 2022-10-28 | 2023-09-26 |
 | [anatomy](https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [anatomy](https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg) | 3:02 | 2023-07-21 |  |
 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2023-01-18 |  |
 | [Angry](https://open.spotify.com/track/46yC5Rfbg3x7AfrZb03c6N) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Angry](https://open.spotify.com/album/2L8qlmvnwChGR7OCNPTqY5) | 2:50 | 2022-10-14 | 2022-12-17 |
@@ -254,6 +254,7 @@
 | [I Guess That Was Goodbye](https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [I Guess That Was Goodbye](https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl) | 3:10 | 2022-02-04 | 2022-10-15 |
 | [I Hate Boston](https://open.spotify.com/track/5862ZA0ML6YODkxQF5UkgR) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:54 | 2023-08-18 | 2023-09-16 |
 | [I Hate The Beatles](https://open.spotify.com/track/6fPC2bl2J0s2WG4adY2HaJ) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [I Hate The Beatles](https://open.spotify.com/album/7u506EjfG4xdfO9EdzrqDQ) | 3:05 | 2022-03-11 | 2022-03-17 |
+| [I Just Wanna Feel Your Love Again](https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [I Just Wanna Feel Your Love Again](https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7) | 4:01 | 2023-09-22 |  |
 | [I know it won't work](https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 | 2023-06-16 |  |
 | [I know it won't work](https://open.spotify.com/track/3weQKQG9ZuqgYAZVswovYS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/1KR6xkLa2lvdvCABYlk7OO) | 4:05 | 2023-02-24 | 2023-07-05 |
 | [i looked into your eyes](https://open.spotify.com/track/0CwLue2qwkPcQpovNGNtVx) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [i looked into your eyes](https://open.spotify.com/album/66P0Khl1xjfiSufHMQgDF4) | 2:28 | 2021-12-17 | 2022-05-20 |
@@ -282,6 +283,7 @@
 | [i'm sorry](https://open.spotify.com/track/6WVcHr4xidTULfA2GJh2ZR) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [i'm sorry](https://open.spotify.com/album/5aWgEPJqCnnc2wdmMHWc7B) | 3:44 | 2022-10-21 | 2022-12-17 |
 | [I'm trying](https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [I'm trying](https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m) | 2:44 | 2023-05-19 | 2023-09-16 |
 | [if depression gets the best of me](https://open.spotify.com/track/1UHATOi2uLeTk3UHKBwR30) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [if depression gets the best of me](https://open.spotify.com/album/71jFeLyVXVUllf7sMI6mVE) | 3:00 | 2022-01-21 | 2023-08-14 |
+| [if depression gets the best of me](https://open.spotify.com/track/2ha6TmK7Q3mejlvZNQuEBu) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4) | 3:00 | 2023-08-18 |  |
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/1vezKKI9PZnHIMFzzDcF6U) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/0ZNj1dzkYUmgDKdL1NRvJI) | 3:18 | 2023-06-16 |  |
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-05-06 | 2023-07-27 |
 | [if you hate me, say it](https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [if you hate me, say it](https://open.spotify.com/album/3SuFmwD5seyB2fgzvJGg8r) | 3:18 | 2021-12-17 | 2022-05-20 |
@@ -570,7 +572,7 @@
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-04-28 |  |
 | [wish you were here](https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/30ssp982Ym9GCQstBVvEve) | 3:22 | 2021-12-17 | 2021-12-25 |
 | [Worst Kind of Hurt](https://open.spotify.com/track/2TvCQzggZs6tX9HmeXPja2) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Worst Kind of Hurt](https://open.spotify.com/album/59KYtAwDJMJnFoch6K8zN7) | 2:44 | 2022-01-21 | 2022-07-28 |
-| [would you love me now?](https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [would you love me now?](https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw) | 3:25 | 2022-10-07 |  |
+| [would you love me now?](https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [would you love me now?](https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw) | 3:25 | 2022-10-07 | 2023-09-26 |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2021-12-17 |  |
 | [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 | 2023-05-26 |  |
 | [You Let Me Down](https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:13 | 2022-06-21 | 2022-10-22 |

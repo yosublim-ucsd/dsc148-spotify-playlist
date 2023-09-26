@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
-  "num_followers": 1075165,
+  "num_followers": 1075260,
   "original_name": "Top 50 - Italy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ4OTIwMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "Syrup",
         "url": "https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "VETRI NERI",
         "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/6tP2AFUZkz4PuUfssawUBn"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "Papaya",
         "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
@@ -97,43 +97,7 @@
       "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 137098,
-      "name": "Hoe (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "Santeria",
         "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
@@ -153,7 +117,43 @@
       "url": "https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 137098,
+      "name": "Hoe (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "TAXI SULLA LUNA",
         "url": "https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "bellissimissima <3",
         "url": "https://open.spotify.com/album/2uKdFaQMLtLkOHthm855ns"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/2qrCResILkL1JFeRBrv3qA"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "Fake News",
         "url": "https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3"
@@ -209,7 +209,23 @@
       "url": "https://open.spotify.com/track/3mMjLv3IyxlEKmXg3JxCI5"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "COME VUOI",
+      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
@@ -229,23 +245,7 @@
       "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "COME VUOI",
-      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
         "url": "https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi"
@@ -273,23 +273,7 @@
       "url": "https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
@@ -309,7 +293,23 @@
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "Ci pensiamo domani",
         "url": "https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/0Zovm2YyZr0yUhiQAVuJAO"
@@ -349,43 +349,7 @@
       "url": "https://open.spotify.com/track/3g6ejyAz7jwE6MitrKCMVY"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "ASPETTANDO LA BELLA VITA",
-        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "Sacky",
-          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
-        }
-      ],
-      "duration_ms": 220255,
-      "name": "TOP G (feat. Sacky)",
-      "url": "https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "DISCO PARADISE",
         "url": "https://open.spotify.com/album/3DIE5BHMhtSsi38Nhi1z4e"
@@ -409,7 +373,7 @@
       "url": "https://open.spotify.com/track/6VOoSi7mgFrKCeymxG6wKB"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "Lovebars",
         "url": "https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN"
@@ -429,23 +393,27 @@
       "url": "https://open.spotify.com/track/1ytp1BZurhOk14vErLhivu"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
-        "name": "Ancora",
-        "url": "https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6"
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
       },
       "artists": [
         {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
         }
       ],
-      "duration_ms": 171775,
-      "name": "Ancora",
-      "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
+      "duration_ms": 220255,
+      "name": "TOP G (feat. Sacky)",
+      "url": "https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "Santana Season",
         "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
@@ -465,95 +433,39 @@
       "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
-        "name": "LEVANTE (feat. Paky)",
-        "url": "https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg"
+        "name": "Ancora",
+        "url": "https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6"
       },
       "artists": [
         {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         }
       ],
-      "duration_ms": 139610,
-      "name": "LEVANTE (feat. Paky)",
-      "url": "https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ"
+      "duration_ms": 171775,
+      "name": "Ancora",
+      "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "Fragole",
-        "url": "https://open.spotify.com/album/4Uyh7I3ywchoaZaZaQE4cZ"
-      },
-      "artists": [
-        {
-          "name": "Achille Lauro",
-          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
-        },
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        }
-      ],
-      "duration_ms": 209621,
-      "name": "Fragole",
-      "url": "https://open.spotify.com/track/4Js31maTathTS2flQOQr2c"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "Mon Amour",
-        "url": "https://open.spotify.com/album/6q7bwUSY4WvyD6WkyDtbzH"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Mon Amour",
-      "url": "https://open.spotify.com/track/1UcJs6RsX9upkeaFCNPBNs"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 208323,
-      "name": "CENERE",
-      "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
@@ -573,7 +485,59 @@
       "url": "https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "Fragole",
+        "url": "https://open.spotify.com/album/4Uyh7I3ywchoaZaZaQE4cZ"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "duration_ms": 209621,
+      "name": "Fragole",
+      "url": "https://open.spotify.com/track/4Js31maTathTS2flQOQr2c"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 208323,
+      "name": "CENERE",
+      "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/6q7bwUSY4WvyD6WkyDtbzH"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/1UcJs6RsX9upkeaFCNPBNs"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "Un Altro Mondo (con Tananai & Marracash)",
         "url": "https://open.spotify.com/album/4ryxRPTcHPcbSKN8WbmHDC"
@@ -597,7 +561,23 @@
       "url": "https://open.spotify.com/track/01Lhwz9MYE6hu58oLQjOxh"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "Baby Mama",
         "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
@@ -613,7 +593,7 @@
       "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "Non litighiamo pi\u00f9",
         "url": "https://open.spotify.com/album/3ARAg9P6I7BCuwRy0UJKos"
@@ -629,23 +609,27 @@
       "url": "https://open.spotify.com/track/5vHWd8yLGCxb8s9RaThO9w"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
-        "name": "WHERE SHE GOES",
-        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
+        "name": "LEVANTE (feat. Paky)",
+        "url": "https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
         }
       ],
-      "duration_ms": 231704,
-      "name": "WHERE SHE GOES",
-      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+      "duration_ms": 139610,
+      "name": "LEVANTE (feat. Paky)",
+      "url": "https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -665,27 +649,7 @@
       "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "DOV'ERI? (feat. Baby Gang)",
-        "url": "https://open.spotify.com/album/1pITHFIU30Kt38axjWvvwY"
-      },
-      "artists": [
-        {
-          "name": "Sacky",
-          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "DOV'ERI? (feat. Baby Gang)",
-      "url": "https://open.spotify.com/track/1ayxvCxpk0oFaL8lbx88on"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
@@ -709,27 +673,59 @@
       "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
-        "name": "Radio Gotham",
-        "url": "https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU"
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
       "artists": [
         {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         }
       ],
-      "duration_ms": 133266,
-      "name": "Fantasmi (feat. Geolier)",
-      "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
+      "duration_ms": 167880,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "WHERE SHE GOES",
+        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 231704,
+      "name": "WHERE SHE GOES",
+      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "DOV'ERI? (feat. Baby Gang)",
+        "url": "https://open.spotify.com/album/1pITHFIU30Kt38axjWvvwY"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "DOV'ERI? (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/1ayxvCxpk0oFaL8lbx88on"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "NO STRESS",
         "url": "https://open.spotify.com/album/6QqDUInH8FiRADP1bG8LZF"
@@ -753,7 +749,27 @@
       "url": "https://open.spotify.com/track/3RyVu4sbEBBRi9fKif6fHc"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "Radio Gotham",
+        "url": "https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 133266,
+      "name": "Fantasmi (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -773,7 +789,27 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "Guasto D'Amore",
+        "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "Guasto D'Amore",
+      "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "FEDE",
         "url": "https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK"
@@ -793,23 +829,51 @@
       "url": "https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
         }
       ],
-      "duration_ms": 167880,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U"
+      "duration_ms": 179863,
+      "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
+      "url": "https://open.spotify.com/track/4midGjEpVz0mYkIdQMFX3l"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "MIRAGE (feat. Ozuna, Sfera Ebbasta & GIMS)",
         "url": "https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH"
@@ -837,7 +901,7 @@
       "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "INNOCENTE",
         "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
@@ -857,71 +921,23 @@
       "url": "https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
-        "name": "Guasto D'Amore",
-        "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
       },
       "artists": [
         {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "SHUNE",
-          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 200080,
-      "name": "Guasto D'Amore",
-      "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
+      "duration_ms": 230922,
+      "name": "CRUDELIA - I nervi",
+      "url": "https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        }
-      ],
-      "duration_ms": 179863,
-      "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
-      "url": "https://open.spotify.com/track/4midGjEpVz0mYkIdQMFX3l"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "MATERIA (PRISMA)",
         "url": "https://open.spotify.com/album/4RVfbFT2GfDqhmaMT0ro75"
@@ -941,47 +957,7 @@
       "url": "https://open.spotify.com/track/0gEw8izgROscS30OVqPb1e"
     },
     {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "Lovebars",
-        "url": "https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        },
-        {
-          "name": "Frah Quintale",
-          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "Lovebars",
-      "url": "https://open.spotify.com/track/6O7pAOsUm3d9R37vYdQnG5"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
-      "album": {
-        "name": "Pel\u00e9",
-        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Madfingerz",
-          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
-        }
-      ],
-      "duration_ms": 133858,
-      "name": "Pel\u00e9",
-      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
-    },
-    {
-      "added_at": "2023-09-24 08:06:33",
+      "added_at": "2023-09-25 08:55:16",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
@@ -995,6 +971,30 @@
       "duration_ms": 181875,
       "name": "Malamente",
       "url": "https://open.spotify.com/track/3myPe2jZvDbPoNXY7v2TU0"
+    },
+    {
+      "added_at": "2023-09-25 08:55:16",
+      "album": {
+        "name": "Rocket (feat. Artie 5ive)",
+        "url": "https://open.spotify.com/album/1aNeLmS9s5Yq9i2IbpkS9w"
+      },
+      "artists": [
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "Rocket (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/0mBodlmNGZMVHCjv58MbBC"
     }
   ],
   "unique_name": "Top 50 - Italy",

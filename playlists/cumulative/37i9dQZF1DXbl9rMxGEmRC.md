@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Cannibal Corpse
 
-511 songs - 1 day 19 hr 25 min
+512 songs - 1 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Hide from the Sun](https://open.spotify.com/track/5sfu3mgxe0CAa1TSirTnPI) | [Ghost Bath](https://open.spotify.com/artist/37Vukf7o6CBPG68BRDpStb) | [Hide from the Sun](https://open.spotify.com/album/0lqXlSegDRpxttuqMFun9S) | 5:37 | 2021-12-17 | 2022-01-22 |
 | [His Masters Voice](https://open.spotify.com/track/7IQjBiSjclkJlwGW1RbOpn) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Eternal Hails......](https://open.spotify.com/album/0ktSEj7BjykHXm9NJkIrtL) | 7:17 | 2021-12-17 | 2022-03-11 |
 | [Holy Mountain](https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ), [Lars Nedland](https://open.spotify.com/artist/2ed4HnBvIrLITZkNsmVRgd) | [Holy Mountain](https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL) | 5:13 | 2022-04-22 |  |
+| [Homeward Polar Spirit](https://open.spotify.com/track/6OFeXeMu1CYGEl69G3j9DR) | [Hexvessel](https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI) | [Polar Veil](https://open.spotify.com/album/6UiiY91rt8kTW9ezq6pnyp) | 5:12 | 2023-09-22 |  |
 | [Homewards](https://open.spotify.com/track/3V1CdKynl6M9lhpMWtRSwW) | [Groza](https://open.spotify.com/artist/5PC1B9qDXhyin3ZgyRcio7) | [The Redemptive End](https://open.spotify.com/album/1aJDrBCHQrhSQwDxVQ7f3I) | 10:46 | 2021-12-17 | 2022-04-02 |
 | [Homunculus \(Spirit Made Flesh\) IX](https://open.spotify.com/track/73JmAiEVuWR9z2EVQo8Ni5) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Homunculus \(Spirit Made Flesh\) IX](https://open.spotify.com/album/6H3ZsGKvAFFhrZ8O2hBSxN) | 4:37 | 2023-07-28 | 2023-09-13 |
 | [Hopeless Endeavor](https://open.spotify.com/track/7cSJIf1yDgcGLj9VI4DLmg) | [Gomorran](https://open.spotify.com/artist/2gYZWsir5p6qtSkTDF7Qkt) | [Hopeless Endeavor](https://open.spotify.com/album/4iURRVj0MVYD4lt75ehOqk) | 4:15 | 2021-12-17 | 2022-01-15 |
@@ -359,7 +360,7 @@
 | [Reign Of Fate](https://open.spotify.com/track/3wFqj9dM7GptoByndbI121) | [Miseration](https://open.spotify.com/artist/625deL9i1oococeGlHdSQe) | [Reign Of Fate](https://open.spotify.com/album/4qkFvszEAXyJEBXFqSPXpI) | 6:13 | 2022-04-01 | 2022-07-18 |
 | [Replicant](https://open.spotify.com/track/2WW1RQAV1nq0TwpVqgjZu6) | [Carnation](https://open.spotify.com/artist/7s6SmrbyQvp26jN5EbnU9u) | [Replicant](https://open.spotify.com/album/780bKfjBdB8FYV3KoXWioI) | 3:50 | 2023-09-01 | 2023-09-03 |
 | [Resurgence](https://open.spotify.com/track/00KhJRzikpiLzCXMQMvF22) | [Hate](https://open.spotify.com/artist/13XggX75z0Hk0VNvOuTJoB) | [Resurgence](https://open.spotify.com/album/7JIec3VUIGOhcZnyffsgXE) | 3:40 | 2021-12-17 | 2022-04-29 |
-| [Retraversing the Void](https://open.spotify.com/track/70br3xDKEs4BWiRV0aQBJI) | [Uada](https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ) | [Retraversing the Void](https://open.spotify.com/album/3IJi4b6yWIaYA9L4C4JIUI) | 7:44 | 2023-06-09 |  |
+| [Retraversing the Void](https://open.spotify.com/track/70br3xDKEs4BWiRV0aQBJI) | [Uada](https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ) | [Retraversing the Void](https://open.spotify.com/album/3IJi4b6yWIaYA9L4C4JIUI) | 7:44 | 2023-06-09 | 2023-09-26 |
 | [Return To Cold](https://open.spotify.com/track/2ScZtDGnzFkBgu4fhRzmsS) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:31 | 2023-05-26 |  |
 | [Riitti](https://open.spotify.com/track/4Hd6i2Gsz8oteMoaz1NJ9u) | [Verikalpa](https://open.spotify.com/artist/5tqZo146ewkPULPWNGPdq3) | [Riitti](https://open.spotify.com/album/59VTx7tGkZgqWFqyK9HQDK) | 4:53 | 2022-01-07 | 2022-07-23 |
 | [Ring](https://open.spotify.com/track/0llyhbLguHtMnlW9wliY6a) | [Hexvessel](https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI) | [Ring](https://open.spotify.com/album/20rMONOdvEXzXaFscOEtpz) | 4:40 | 2023-06-30 | 2023-07-04 |

@@ -4,7 +4,7 @@
 
 > Let's DIVE into IVE.
 
-26 songs - 1 hr 20 min
+27 songs - 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Blue & Black](https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk), [ARIN](https://open.spotify.com/artist/48xUzGT4qYI9vdnVCJZpmw), [JANGWONYOUNG](https://open.spotify.com/artist/2ZoHusq9SCsHGbe105EvSw), [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8), [SERIM](https://open.spotify.com/artist/6PNb5DmTuZBGUSxXNbr1JO), [JUNGMO](https://open.spotify.com/artist/2aACxJmf5wuJMcmpdpipRV) | [Blue & Black](https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh) | 3:21 | 2023-04-10 |  |
 | [Blue Blood](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:47 | 2023-04-10 |  |
 | [Cherish](https://open.spotify.com/track/3cw6T3OEgqLiqEDLDQPSnE) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:14 | 2023-04-10 |  |
+| [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2023-09-25 |  |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2023-04-10 |  |
 | [ELEVEN \-Japanese version\-](https://open.spotify.com/track/3bXYYgpCaYZBud2fB3I4ex) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN) | 3:00 | 2023-04-10 |  |
 | [Heroine](https://open.spotify.com/track/171vXOYrexGMVNEMA5rs00) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:51 | 2023-04-10 |  |

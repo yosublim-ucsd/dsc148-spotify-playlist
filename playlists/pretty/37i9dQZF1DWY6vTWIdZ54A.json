@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 482682,
+  "num_followers": 482784,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGZmYTM0NmE1M2ZiZDNiNTk4NDc3NWVlYjgxNDNiODNlZDk0OWI5",
+  "snapshot_id": "MCw4MjZlNWVhZjhhMDY1ODE4ZjI2YzJjZWZhN2E4OGYwOWVhZTExMDc1",
   "tracks": [
     {
       "added_at": "2023-09-22 00:56:58",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 177768,
       "name": "Lo/Hi",
       "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+        "name": "Magic Potion",
+        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 183602,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
+      "duration_ms": 162586,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -411,6 +411,22 @@
       "duration_ms": 256071,
       "name": "hometown",
       "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 183602,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -443,22 +459,6 @@
       "duration_ms": 231666,
       "name": "Bury Me Face Down",
       "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Magic Potion",
-        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Mountains At Midnight",
-        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 186196,
-      "name": "Mountains At Midnight",
-      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 234466,
       "name": "Death By Rock And Roll",
       "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Mountains At Midnight",
+        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 186196,
+      "name": "Mountains At Midnight",
+      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "This is Our Life",
-        "url": "https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 224306,
-      "name": "This is Our Life",
-      "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Magic Valley",
         "url": "https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL"
       },
@@ -851,22 +835,6 @@
       "duration_ms": 221469,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Every Hour Is A Dollar Gone",
-        "url": "https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX"
-      },
-      "artists": [
-        {
-          "name": "Patrick Sweany",
-          "url": "https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5"
-        }
-      ],
-      "duration_ms": 348706,
-      "name": "Them Shoes",
-      "url": "https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -887,18 +855,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Asking For A Ride",
-        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
+        "name": "This is Our Life",
+        "url": "https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs"
       },
       "artists": [
         {
-          "name": "White Reaper",
-          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
         }
       ],
-      "duration_ms": 154098,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
+      "duration_ms": 224306,
+      "name": "This is Our Life",
+      "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -915,6 +883,38 @@
       "duration_ms": 248132,
       "name": "Alter Ego",
       "url": "https://open.spotify.com/track/2cop97v0W8YcsI7KBvOrUu"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Every Hour Is A Dollar Gone",
+        "url": "https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX"
+      },
+      "artists": [
+        {
+          "name": "Patrick Sweany",
+          "url": "https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5"
+        }
+      ],
+      "duration_ms": 348706,
+      "name": "Them Shoes",
+      "url": "https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Asking For A Ride",
+        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "duration_ms": 154098,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "I'm A King Bee",
-        "url": "https://open.spotify.com/album/57q06NuEHVw0MAqZT3hEUV"
-      },
-      "artists": [
-        {
-          "name": "The Stone Foxes",
-          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
-        }
-      ],
-      "duration_ms": 199597,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/01RPOnIW38TuFv0CvHdVmz"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Blak and Blu (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "In The Wild (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
+        "name": "I'm A King Bee",
+        "url": "https://open.spotify.com/album/57q06NuEHVw0MAqZT3hEUV"
       },
       "artists": [
         {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+          "name": "The Stone Foxes",
+          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
         }
       ],
-      "duration_ms": 181797,
-      "name": "Raised By Wolves",
-      "url": "https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ"
+      "duration_ms": 199597,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/01RPOnIW38TuFv0CvHdVmz"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1075,6 +1059,22 @@
       "duration_ms": 202687,
       "name": "daphne did it",
       "url": "https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "In The Wild (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 181797,
+      "name": "Raised By Wolves",
+      "url": "https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Man Of The Moment",
-        "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Man Of The Moment",
-      "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 253599,
       "name": "Grace",
       "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Man Of The Moment",
+        "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Man Of The Moment",
+      "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Love Is All You Love",
         "url": "https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Who You Selling For",
-        "url": "https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 180226,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Are You Real?",
         "url": "https://open.spotify.com/album/4rkueE4vDufCTC5OKoREtR"
       },
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Who You Selling For",
+        "url": "https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 180226,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Rumble And Sway EP",
         "url": "https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 185866,
       "name": "Rumble And Sway",
       "url": "https://open.spotify.com/track/6qxQLXOAboXpXHcHTMYC1K"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 195358,
-      "name": "Bad Spell",
-      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
     },
     {
       "added_at": "2023-09-22 00:56:58",

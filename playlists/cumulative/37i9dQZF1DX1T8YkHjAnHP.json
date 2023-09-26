@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/1RiR3zFbVWboM5ceNCwI58"
+      },
+      "artists": [
+        {
+          "name": "Rony Seikaly",
+          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
+        },
+        {
+          "name": "Matthias Tanzmann",
+          "url": "https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341459,
+      "name": "Bad Boys Ft Diddy - Matthias Tanzmann Remix",
+      "url": "https://open.spotify.com/track/2hCEBzBn9rSkSUyeMxoZkh"
+    },
+    {
+      "album": {
         "name": "Banho de Folhas (Maz Remix)",
         "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
       },
@@ -490,10 +512,36 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 229897,
       "name": "Coldman (feat. Nathan Daisy)",
       "url": "https://open.spotify.com/track/6KGUd0ub0UmCX5IFVCBnRf"
+    },
+    {
+      "album": {
+        "name": "Temple Of Dreams (Remixes Part 2)",
+        "url": "https://open.spotify.com/album/5f9hCba38bncD1S8xtX7og"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Nathan Daisy",
+          "url": "https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf"
+        },
+        {
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156349,
+      "name": "Coldman (feat. Nathan Daisy) - Robin M Remix",
+      "url": "https://open.spotify.com/track/2GoRThvRyJS8Z8AMmdudMW"
     },
     {
       "album": {
@@ -590,7 +638,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 256773,
       "name": "Crazy (feat. Iveta Mukuchyan)",
       "url": "https://open.spotify.com/track/6XG6VKBORCSGMuWlF30YvO"
@@ -810,7 +858,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 203428,
       "name": "Enjoy The Rain (feat. Nathan Daisy)",
       "url": "https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ"
@@ -864,7 +912,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 424323,
       "name": "Fill The Space",
       "url": "https://open.spotify.com/track/65FU6gTGSKvTPhaN1A9eJR"
@@ -958,7 +1006,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 277894,
       "name": "Fortune Teller",
       "url": "https://open.spotify.com/track/1t8Q66Stnzgm6VExvVmNHG"
@@ -1078,7 +1126,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 486993,
       "name": "Henna Beth",
       "url": "https://open.spotify.com/track/7kTxtJ5AkQns3MjQZgCQoc"
@@ -1126,10 +1174,36 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 302521,
       "name": "Hokema (feat. Delaram Kamareh)",
       "url": "https://open.spotify.com/track/1VoTZU5zicdDgvKu2DLxRv"
+    },
+    {
+      "album": {
+        "name": "Temple Of Dreams (Remixes Part 2)",
+        "url": "https://open.spotify.com/album/5f9hCba38bncD1S8xtX7og"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Delaram Kamareh",
+          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
+        },
+        {
+          "name": "Made By Pete",
+          "url": "https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216198,
+      "name": "Hokema (feat. Delaram Kamareh) - Made By Pete Remix",
+      "url": "https://open.spotify.com/track/2zEDNozY6o81duPjEuTSzg"
     },
     {
       "album": {
@@ -1264,7 +1338,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 340440,
       "name": "Kalimba",
       "url": "https://open.spotify.com/track/5KsE8PudCoHMqMUDUzLGdV"
@@ -1476,7 +1550,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 367273,
       "name": "Like A Drug",
       "url": "https://open.spotify.com/track/3TdbskPWR3ZtAny7ZKZJjj"
@@ -1685,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/5cWpr0E5DEEv81ZkxfqriZ"
+      },
+      "artists": [
+        {
+          "name": "TMPLE",
+          "url": "https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193955,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/5Fqjs7ZInBmy7fkRWOQ94i"
+    },
+    {
+      "album": {
         "name": "Balsame Remixes",
         "url": "https://open.spotify.com/album/5jcS2BaMRrM7ZPo6pXIX1z"
       },
@@ -1740,7 +1832,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 454000,
       "name": "Nanana",
       "url": "https://open.spotify.com/track/1UvM3VzlwYts5IldSnJ8RT"
@@ -1988,7 +2080,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 469596,
       "name": "Power",
       "url": "https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q"
@@ -2257,6 +2349,28 @@
     },
     {
       "album": {
+        "name": "Tuesday Maybe (Remixed)",
+        "url": "https://open.spotify.com/album/5hZJq3tQTNmLd7uZm3ljZw"
+      },
+      "artists": [
+        {
+          "name": "Way Out West",
+          "url": "https://open.spotify.com/artist/3HghjRl8Mo6OJWG0WElY2z"
+        },
+        {
+          "name": "Maxxi Soundsystem",
+          "url": "https://open.spotify.com/artist/4aS7S2ESEryZfhTWcSgLXk"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304920,
+      "name": "Set My Mind - Maxxi Soundsystem Remix",
+      "url": "https://open.spotify.com/track/1t5HR7NX7KdTQeFxQERZyz"
+    },
+    {
+      "album": {
         "name": "Shibuya",
         "url": "https://open.spotify.com/album/5EqW4b6QJvRuVrxjrW6JND"
       },
@@ -2453,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "The Fall / My Place",
+        "url": "https://open.spotify.com/album/5dlkQeTQ5VR8lXfCzqdGhl"
+      },
+      "artists": [
+        {
+          "name": "Raxon",
+          "url": "https://open.spotify.com/artist/6gp9WP1OleU89x2gF9w2ID"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430540,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5SGxyinOC5xopxJXS0DsUq"
+    },
+    {
+      "album": {
         "name": "Metaphysical",
         "url": "https://open.spotify.com/album/3r3mNtkVqo1X0TAdK4lz4g"
       },
@@ -2522,7 +2654,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 272000,
       "name": "Tijuana",
       "url": "https://open.spotify.com/track/0GXNKuzGu6a5w9TcmDc6T2"
@@ -2860,7 +2992,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 314181,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/3QL6Q8HFEhAURfU5AqOBj7"
@@ -3066,6 +3198,24 @@
       "duration_ms": 306086,
       "name": "Yes - Club Version",
       "url": "https://open.spotify.com/track/1gcPomDSpxuRptrxDv9KNx"
+    },
+    {
+      "album": {
+        "name": "You Can Dance Now",
+        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244802,
+      "name": "You Can Dance Now",
+      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
     },
     {
       "album": {

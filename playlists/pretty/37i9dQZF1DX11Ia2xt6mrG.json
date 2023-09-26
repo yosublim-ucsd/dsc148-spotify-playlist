@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mr Pig y Mario Bautista en portada.",
-  "num_followers": 54976,
+  "num_followers": 54980,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWVjZWJjNjk4YmUyZTgxNTZiYWUwNDQ5Y2VlZDc1MGMxYmIyMmU5",
+  "snapshot_id": "MCxiNmE2NDE0NDRhNWExNzA1YzY2ODBkOGZjZjBhNzgzNjAyNGM2ODlm",
   "tracks": [
     {
       "added_at": "2023-09-12 19:22:53",
@@ -371,6 +371,42 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "MASERATI",
+        "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "MASERATI",
+      "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
         "name": "Franca Barona",
         "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
       },
@@ -395,38 +431,22 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "MASERATI",
-        "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
       },
       "artists": [
         {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "MASERATI",
-      "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         },
         {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+      "duration_ms": 222366,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -451,26 +471,6 @@
       "duration_ms": 161378,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/3WxbeGN19v2MGGbHBvHxFF"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
-        "name": "Melancol\u00eda",
-        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "\u00c1cido Pantera",
-          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
-        }
-      ],
-      "duration_ms": 222366,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -587,6 +587,42 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "Trago a Trago",
+        "url": "https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "duration_ms": 137829,
+      "name": "Trago a Trago",
+      "url": "https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
         "name": "Amanece",
         "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
       },
@@ -643,42 +679,6 @@
       "duration_ms": 149250,
       "name": "Quem\u00e1",
       "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
-        "name": "Trago a Trago",
-        "url": "https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        }
-      ],
-      "duration_ms": 137829,
-      "name": "Trago a Trago",
-      "url": "https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -763,6 +763,22 @@
       "duration_ms": 252579,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "Sexy Velocity",
+        "url": "https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Sexy Velocity",
+      "url": "https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -887,22 +903,6 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "Sexy Velocity",
-        "url": "https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Sexy Velocity",
-      "url": "https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
         "name": "Density",
         "url": "https://open.spotify.com/album/2Bocmy767YuGNfbMPuMRGl"
       },
@@ -939,30 +939,6 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
-      },
-      "artists": [
-        {
-          "name": "Alfred Beck",
-          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
-        },
-        {
-          "name": "Riallo",
-          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
-        },
-        {
-          "name": "Sapir Amar",
-          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
         "name": "Ojos (La Noche Mix)",
         "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 172800,
       "name": "This Generation",
       "url": "https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
+      },
+      "artists": [
+        {
+          "name": "Alfred Beck",
+          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
+        },
+        {
+          "name": "Riallo",
+          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
+        },
+        {
+          "name": "Sapir Amar",
+          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
         "name": "Just Leave The Past Behind",
         "url": "https://open.spotify.com/album/69sTttBrKs2MQBoND8cDcU"
       },
@@ -1135,26 +1155,6 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "Empty Words",
-        "url": "https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Empty Words",
-      "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
         "name": "Covalent Bond",
         "url": "https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK"
       },
@@ -1171,6 +1171,50 @@
       "duration_ms": 159359,
       "name": "Covalent Bond",
       "url": "https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "Ra Ta Ta (LNY TNZ Remix)",
+        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "duration_ms": 174420,
+      "name": "Ra Ta Ta - LNY TNZ Remix",
+      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "Scare",
+        "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "Gerard Butler",
+          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Scare",
+      "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -1195,26 +1239,6 @@
       "duration_ms": 228907,
       "name": "Huellas",
       "url": "https://open.spotify.com/track/6GmNKFbiPwZJ01fYkBeToB"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
-        "name": "Ra Ta Ta (LNY TNZ Remix)",
-        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 174420,
-      "name": "Ra Ta Ta - LNY TNZ Remix",
-      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -1259,30 +1283,6 @@
       "duration_ms": 177627,
       "name": "Clap Your Hands For Love",
       "url": "https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
-        "name": "Scare",
-        "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "Gerard Butler",
-          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Scare",
-      "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
     },
     {
       "added_at": "2023-09-12 19:22:53",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Plastic Skin",
-          "url": "https://open.spotify.com/artist/0KGfsjwVzi26JfxCj2gcRq"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
         "name": "Filosof\u00eda",
         "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
       },
@@ -1407,66 +1383,6 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF"
-      },
-      "artists": [
-        {
-          "name": "Maciel",
-          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
-        },
-        {
-          "name": "Benlon",
-          "url": "https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls"
-        },
-        {
-          "name": "Sharpz",
-          "url": "https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4"
-        }
-      ],
-      "duration_ms": 174735,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
-        "name": "I Saw You",
-        "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
-      },
-      "artists": [
-        {
-          "name": "Fortu & Mendoza",
-          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
-        },
-        {
-          "name": "A-Dyad",
-          "url": "https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "I Saw You",
-      "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
-        "name": "Galactic Feelings",
-        "url": "https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 250775,
-      "name": "Galactic Feelings",
-      "url": "https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R"
-    },
-    {
-      "added_at": "2023-09-12 19:22:53",
-      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/19068iWscfCtBIkmza7Mur"
       },
@@ -1491,6 +1407,90 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF"
+      },
+      "artists": [
+        {
+          "name": "Maciel",
+          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
+        },
+        {
+          "name": "Benlon",
+          "url": "https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls"
+        },
+        {
+          "name": "Sharpz",
+          "url": "https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Plastic Skin",
+          "url": "https://open.spotify.com/artist/0KGfsjwVzi26JfxCj2gcRq"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "I Saw You",
+        "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
+      },
+      "artists": [
+        {
+          "name": "Fortu & Mendoza",
+          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
+        },
+        {
+          "name": "A-Dyad",
+          "url": "https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "I Saw You",
+      "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
+        "name": "DiabloTeam (The Night After)",
+        "url": "https://open.spotify.com/album/5sJ3mPiyNF1H8H0wMCRf2Y"
+      },
+      "artists": [
+        {
+          "name": "Dapuntobeat",
+          "url": "https://open.spotify.com/artist/1V45Te1AQmLsqtRGylNLKs"
+        }
+      ],
+      "duration_ms": 290483,
+      "name": "DiabloTeam (The Night After)",
+      "url": "https://open.spotify.com/track/5EWYl7g5Kr1dMY6fpRApbh"
+    },
+    {
+      "added_at": "2023-09-12 19:22:53",
+      "album": {
         "name": "Like a Dream",
         "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
       },
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-09-12 19:22:53",
       "album": {
-        "name": "DiabloTeam (The Night After)",
-        "url": "https://open.spotify.com/album/5sJ3mPiyNF1H8H0wMCRf2Y"
+        "name": "Galactic Feelings",
+        "url": "https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X"
       },
       "artists": [
         {
-          "name": "Dapuntobeat",
-          "url": "https://open.spotify.com/artist/1V45Te1AQmLsqtRGylNLKs"
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
         }
       ],
-      "duration_ms": 290483,
-      "name": "DiabloTeam (The Night After)",
-      "url": "https://open.spotify.com/track/5EWYl7g5Kr1dMY6fpRApbh"
+      "duration_ms": 250775,
+      "name": "Galactic Feelings",
+      "url": "https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R"
     },
     {
       "added_at": "2023-09-12 19:22:53",

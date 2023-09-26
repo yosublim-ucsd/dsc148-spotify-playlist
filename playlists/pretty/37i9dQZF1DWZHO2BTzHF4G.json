@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 34132,
+  "num_followers": 34131,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTYzNmEzNTU0YjEwZDZhZGQzMzViYmViNDcyNTI1NzgzNTY0Njli",
+  "snapshot_id": "MCwwYTMxMTllZTUzZjNkODNjODQ4YzA5OGE5ZmEyMTRiMWEyOGJlYTYy",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Bleed American",
         "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 185586,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "What I've Done",
-      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "The Better Life",
         "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
       },
@@ -267,18 +251,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 285653,
-      "name": "Wake Me up When September Ends",
-      "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
+      "duration_ms": 205613,
+      "name": "What I've Done",
+      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -347,24 +331,8 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Faint",
-      "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "Greatest Hits: God's Favorite Band",
-        "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
       "artists": [
         {
@@ -372,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 262333,
-      "name": "Boulevard of Broken Dreams",
-      "url": "https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd"
+      "duration_ms": 285653,
+      "name": "Wake Me up When September Ends",
+      "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -443,8 +411,8 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
       },
       "artists": [
         {
@@ -452,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 208960,
-      "name": "Crawling",
-      "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
+      "duration_ms": 162600,
+      "name": "Faint",
+      "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -471,6 +439,38 @@
       "duration_ms": 245373,
       "name": "Human",
       "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Greatest Hits: God's Favorite Band",
+        "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "By the Way",
+      "url": "https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -507,6 +507,22 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -519,38 +535,6 @@
       "duration_ms": 321040,
       "name": "Take A Look Around",
       "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "By the Way",
-      "url": "https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 321093,
-      "name": "21 Guns",
-      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -619,6 +603,22 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 321093,
+      "name": "21 Guns",
+      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
         "name": "Human Clay",
         "url": "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 287906,
       "name": "Speed of Sound",
       "url": "https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -699,6 +683,22 @@
       "duration_ms": 294986,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "When The World Comes Down",
-        "url": "https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Gives You Hell",
-      "url": "https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "All the Right Reasons",
         "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 258920,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "When The World Comes Down",
+        "url": "https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Gives You Hell",
+      "url": "https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "My Life Would Suck Without You",
-      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Dark Horse",
         "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 238880,
       "name": "Move Along",
       "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "My Life Would Suck Without You",
+      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },
       "artists": [
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 183493,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB"
+      "duration_ms": 170253,
+      "name": "Brianstorm",
+      "url": "https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 170253,
-      "name": "Brianstorm",
-      "url": "https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G"
+      "duration_ms": 183493,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "All The Right Reasons (15th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Rockstar - 2020 Remaster",
-      "url": "https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "It's Not Over....The Hits So Far",
         "url": "https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 255253,
       "name": "Home",
       "url": "https://open.spotify.com/track/7KPTwEENcZ5r4KJ6FHmhLP"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "All The Right Reasons (15th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Rockstar - 2020 Remaster",
+      "url": "https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN"
     },
     {
       "added_at": "2021-04-09 06:36:41",

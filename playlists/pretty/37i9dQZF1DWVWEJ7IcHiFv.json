@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 110912,
+  "num_followers": 110970,
   "original_name": "80s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzI4OGQ5MjhjYmRkNzQzY2Y1MTA5ZTE1Mjc5YmEzMDdkMzI1M2Fm",
+  "snapshot_id": "MCxmZTAyMjIxMDRhMzk1MGM0YmFlNjhiOWY0NTJlYjJkMjkzM2MwYWFm",
   "tracks": [
     {
       "added_at": "2023-02-17 21:03:29",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
         "name": "Timbiriche 7",
         "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 207466,
       "name": "Lambada - Original Version 1989",
       "url": "https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+        "name": "Timbiriche 7",
+        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
         }
       ],
-      "duration_ms": 236413,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
+      "duration_ms": 233666,
+      "name": "Si No Es Ahora",
+      "url": "https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
-        "name": "Timbiriche 7",
-        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
       "artists": [
         {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Si No Es Ahora",
-      "url": "https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0"
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -527,6 +527,38 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
+        "name": "Gipsy Kings",
+        "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 203173,
+      "name": "Bamboleo",
+      "url": "https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
+        "name": "Flans",
+        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "No Controles",
+      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff"
       },
@@ -559,22 +591,6 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
-        "name": "Gipsy Kings",
-        "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 203173,
-      "name": "Bamboleo",
-      "url": "https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
         "name": "Original Masters",
         "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 210333,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
-        "name": "Flans",
-        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "No Controles",
-      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -660,22 +660,6 @@
       "added_at": "2023-02-17 21:03:29",
       "album": {
         "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 290786,
-      "name": "Persiana Americana",
-      "url": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
-        "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
       "artists": [
@@ -687,6 +671,22 @@
       "duration_ms": 173866,
       "name": "El Extra\u00f1o del Pelo Largo",
       "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 290786,
+      "name": "Persiana Americana",
+      "url": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -755,42 +755,6 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/3kDq0nsk9B7EJ9MhaPXuqj"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lisa & Cult Jam",
-          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
-        },
-        {
-          "name": "Full Force",
-          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
-        }
-      ],
-      "duration_ms": 410693,
-      "name": "Can You Feel the Beat (with Full Force)",
-      "url": "https://open.spotify.com/track/6ArFGc1tVxYEhmGreRYoAi"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
-        "name": "15 A\u00f1os De Historia",
-        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
-      },
-      "artists": [
-        {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "S\u00fabete a Mi Moto",
-      "url": "https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
         "name": "Cuts Both Ways",
         "url": "https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9"
       },
@@ -819,6 +783,42 @@
       "duration_ms": 292200,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/0cslUTJ5eB4hUNs0fKyh59"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
+        "name": "15 A\u00f1os De Historia",
+        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
+      },
+      "artists": [
+        {
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "S\u00fabete a Mi Moto",
+      "url": "https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/3kDq0nsk9B7EJ9MhaPXuqj"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lisa & Cult Jam",
+          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
+        },
+        {
+          "name": "Full Force",
+          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
+        }
+      ],
+      "duration_ms": 410693,
+      "name": "Can You Feel the Beat (with Full Force)",
+      "url": "https://open.spotify.com/track/6ArFGc1tVxYEhmGreRYoAi"
     }
   ],
   "unique_name": "80s Latino",

@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: DIDIxDADA
 
-385 songs - 23 hr 10 min
+386 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\)](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 | 2023-05-02 | 2023-05-11 |
 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 | 2022-09-08 | 2022-09-16 |
 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 | 2023-07-16 |  |
-| [don't wanna miss you](https://open.spotify.com/track/4RfKwkEosc5ObAzKRMyU5b) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [don't wanna miss you](https://open.spotify.com/album/48hRUZvo0w1yOgBZOAUEyf) | 4:17 | 2023-09-15 |  |
+| [don't wanna miss you](https://open.spotify.com/track/4RfKwkEosc5ObAzKRMyU5b) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [don't wanna miss you](https://open.spotify.com/album/48hRUZvo0w1yOgBZOAUEyf) | 4:17 | 2023-09-15 | 2023-09-26 |
 | [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 | 2023-03-15 | 2023-06-16 |
 | [Everytime](https://open.spotify.com/track/5PYOHo2Nbd6bQI1RovNJLN) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Everytime](https://open.spotify.com/album/5w8irJm7unlKJ6gIzlTaLe) | 3:04 | 2022-10-13 | 2022-11-04 |
 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 | 2022-11-03 |  |
@@ -83,6 +83,7 @@
 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 | 2022-05-26 | 2022-10-27 |
 | [SuperCarCare](https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [SuperCarCare](https://open.spotify.com/album/0kXMZh2WQ9PjlGRXOSknC7) | 3:27 | 2022-05-26 | 2022-12-09 |
 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 | 2022-11-23 | 2023-02-11 |
+| [TOY](https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [SUN](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) | 2:16 | 2023-09-25 |  |
 | [U can't hurt me no more](https://open.spotify.com/track/7MF3ugIgl06Fi8CX5NKA4m) | [Venita](https://open.spotify.com/artist/1suxWOTjtwWh0CNcydUeWQ) | [U can't hurt me no more](https://open.spotify.com/album/6DofRSGlqkwj4jLDxk0JRd) | 3:14 | 2022-08-25 | 2022-09-01 |
 | [UMM UMM](https://open.spotify.com/track/2DZDnHMcGd71AuKP4b8OM2) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [UMM UMM](https://open.spotify.com/album/1arBxJSSZSdEPZKIYKAH9O) | 3:07 | 2023-08-04 | 2023-08-25 |
 | [While We’re Young](https://open.spotify.com/track/4XU7XpYsuIkfRDDrvAP0a4) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [While We’re Young](https://open.spotify.com/album/0LwBRRXyiACQX7ykl1mTbc) | 3:24 | 2022-12-01 | 2022-12-09 |
@@ -252,7 +253,7 @@
 | [ลบไม่ได้ช่วยให้ลืม \(Erase\)](https://open.spotify.com/track/5AMYykC6sdveY7NfwHNUm4) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ลบไม่ได้ช่วยให้ลืม \(Erase\)](https://open.spotify.com/album/4eQhhdfCD27Z4Bqx3J8R23) | 3:44 | 2022-05-26 | 2022-07-24 |
 | [ลองคุย \(TRY\)](https://open.spotify.com/track/4Fengh8aD0M4QLZB21nloU) | [Baby Mic Candy](https://open.spotify.com/artist/77Z7s7XB4PIcoWQIoYK8ww) | [ลองคุย \(TRY\)](https://open.spotify.com/album/0AcOnm6igHeqUYQMtOShIQ) | 3:55 | 2022-11-18 | 2022-12-02 |
 | [ลังเล](https://open.spotify.com/track/592XwpszQAW8olTXXIesls) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ลังเล](https://open.spotify.com/album/1BX9k3e5SqOAY9nBGEYUhp) | 3:46 | 2023-02-15 |  |
-| [ลาก่อน](https://open.spotify.com/track/3vfwUrq22haMmIJyyyI7Hq) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [ลาก่อน](https://open.spotify.com/album/2MM6NjLf7zzQxVNfD93wU1) | 3:08 | 2022-07-14 |  |
+| [ลาก่อน](https://open.spotify.com/track/3vfwUrq22haMmIJyyyI7Hq) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [ลาก่อน](https://open.spotify.com/album/2MM6NjLf7zzQxVNfD93wU1) | 3:08 | 2022-07-14 | 2023-09-26 |
 | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6) | 4:22 | 2022-09-23 |  |
 | [ล้น \(Overload\)](https://open.spotify.com/track/50wPHjbH9CLpaaMGkVuMuY) | [PAM ANSHISA](https://open.spotify.com/artist/5Y84b3jX9aGpTr4F1CMNnP) | [ล้น \(Overload\)](https://open.spotify.com/album/50GNBFiyYpDoPgjGvVihYp) | 3:54 | 2022-05-26 | 2022-06-01 |
 | [วังวน\(BOXX FROM HOME\)](https://open.spotify.com/track/3o4erj1cYrVQFUNcKAYZoH) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [วังวน\(BOXX FROM HOME\)](https://open.spotify.com/album/6FGIbgcEoo3V6nnMT6H0h8) | 4:40 | 2022-05-26 | 2022-07-29 |
@@ -327,7 +328,7 @@
 | [เพลงนี้ชื่อว่าเธอ \(From KinnPorsche The Series\)](https://open.spotify.com/track/0qKYQGK62HSNiSih00ySjL) | [Barcode Tinnasit Isarapongporn](https://open.spotify.com/artist/7kBYXxfsNkiMGawDOsvE67) | [เพลงนี้ชื่อว่าเธอ \(From KinnPorsche The Series\)](https://open.spotify.com/album/6Kb4XkS1pGS8O7nWmQVASk) | 3:59 | 2022-06-09 | 2022-06-24 |
 | [เพลงรัก \(Hook\) \- เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI) | [Gemini Norawit](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS) | 4:15 | 2023-02-23 |  |
 | [เพื่อนดีเด่น \(BEST FRIEND 4EVER\)](https://open.spotify.com/track/0dB8mLoawZ04XoJRewGiqj) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เพื่อนดีเด่น \(BEST FRIEND 4EVER\)](https://open.spotify.com/album/6ZmUUmhdfsGDdd1nUG0v7P) | 3:27 | 2023-02-23 |  |
-| [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\)](https://open.spotify.com/track/19KNYtZF0xP7VCIItvGSJZ) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [MILLI](https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz) | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\) \[feat\. MILLI\]](https://open.spotify.com/album/1aO65qDUbY2vJWXYzHP2vj) | 3:39 | 2022-05-26 | 2023-09-09 |
+| [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\)](https://open.spotify.com/track/19KNYtZF0xP7VCIItvGSJZ) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [MILLI](https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz) | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\) \[feat\. MILLI\]](https://open.spotify.com/album/1aO65qDUbY2vJWXYzHP2vj) | 3:39 | 2022-05-26 |  |
 | [เฟรนด์ลี่หรือมีใจ \- What are we?](https://open.spotify.com/track/3wopuhnCy32TQCsx7bXkri) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [เฟรนด์ลี่หรือมีใจ \(What are we?\)](https://open.spotify.com/album/71LGeCnc40MoZvBLLdH2zF) | 3:15 | 2022-07-28 | 2022-08-06 |
 | [เมะ](https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เมะ](https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw) | 3:06 | 2022-05-26 | 2022-11-16 |
 | [เมื่อไหร่จะได้เจอ \(Miss You\)](https://open.spotify.com/track/2MhltgwCtdahdAJTrFUbIm) | [Chypre](https://open.spotify.com/artist/4mMIQJKMHFmFW2DVdFBUqp) | [เมื่อไหร่จะได้เจอ \(Miss You\)](https://open.spotify.com/album/4n3hdmxkvLv3IvsLbH5Frj) | 3:52 | 2022-07-07 | 2022-07-15 |

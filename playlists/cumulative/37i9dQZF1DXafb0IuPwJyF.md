@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Ado
 
-1,028 songs - 2 day 16 hr 1 min
+1,029 songs - 2 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,6 +675,7 @@
 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2022-02-27 | 2022-06-06 |
 | [カレンダー](https://open.spotify.com/track/5hgqyx5zALVzkSzXadrX0m) | [Takaya Kawasaki](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [カレンダー](https://open.spotify.com/album/1T18qFuxU67pmxaZWQRY3f) | 4:39 | 2021-12-19 | 2021-12-27 |
 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 | 2022-01-23 | 2022-03-21 |
+| [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 | 2023-09-25 |  |
 | [クラフト feat\. ZORN](https://open.spotify.com/track/3SK8OeL2MYLg77zEqbMyzh) | [KREVA](https://open.spotify.com/artist/6lAinPkC2U1Huibu6Vfr9R), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [LOOP END / LOOP START \(Deluxe Edition\)](https://open.spotify.com/album/4x3VLHO2P4ENCNfiMKlZfi) | 3:25 | 2022-02-20 | 2022-02-28 |
 | [クリスマスイブ](https://open.spotify.com/track/1g6Elo93E6SecrU4iVJXpA) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [クリスマスイブ](https://open.spotify.com/album/4PNo67FkFcvATpEhXEvYLT) | 3:53 | 2022-12-04 | 2022-12-26 |
 | [クリスマスキャロルの頃には \(feat\. ひかり\)](https://open.spotify.com/track/2tYs5Knxzt3TwuRjRWlKLR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [クリスマスキャロルの頃には \(feat\. ひかり\)](https://open.spotify.com/album/60Um9oNI6c3zWIa6dF93Q2) | 4:33 | 2021-12-19 | 2021-12-27 |
@@ -821,7 +822,7 @@
 | [単焦点](https://open.spotify.com/track/5hSPZjxHkaMOJSPoatZrIp) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [単焦点](https://open.spotify.com/album/3SJDK6D7UJXJhaATo1ql6j) | 3:01 | 2022-02-13 | 2022-04-11 |
 | [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 | 2021-12-26 | 2022-02-07 |
 | [双葉](https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [双葉](https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw) | 4:37 | 2022-03-27 | 2022-05-16 |
-| [名前のない街](https://open.spotify.com/track/6eJetNdi0WMj1BAoqIsX7t) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [名前のない街](https://open.spotify.com/album/3hN8H85mT5RFr2IyXrpCfJ) | 4:11 | 2023-09-24 |  |
+| [名前のない街](https://open.spotify.com/track/6eJetNdi0WMj1BAoqIsX7t) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [名前のない街](https://open.spotify.com/album/3hN8H85mT5RFr2IyXrpCfJ) | 4:11 | 2023-09-24 | 2023-09-26 |
 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 | 2023-01-29 | 2023-07-17 |
 | [君がいない世界](https://open.spotify.com/track/1BduWmGXpjUAbunc1hrOr0) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [君がいない世界](https://open.spotify.com/album/3VCTWwETLTZtm0iXmFSq6A) | 2:34 | 2022-08-21 | 2022-11-07 |
 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 | 2022-08-28 | 2022-09-12 |

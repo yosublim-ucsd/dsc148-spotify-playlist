@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 41160,
+  "num_followers": 41222,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGQyYmM4YjNmZmZjYTI5YzIwM2NhZTBmNTNmOWJiMjRmZDIyMTE5",
+  "snapshot_id": "MCw2MGY2MDNiZThjOWNjMGM4NmFjMjM0ZTQzYzhkNGU2ZjBhNDkyNWQy",
   "tracks": [
     {
       "added_at": "2023-08-31 13:38:27",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
         "name": "Process (Bonus Edition)",
         "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "Unconditionally",
-        "url": "https://open.spotify.com/album/1X4HVedRMhLlr8qMaEGtKO"
-      },
-      "artists": [
-        {
-          "name": "JKING",
-          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
-        }
-      ],
-      "duration_ms": 152673,
-      "name": "Unconditionally",
-      "url": "https://open.spotify.com/track/566cpgeAsU9eyAgedWbwyk"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
         "name": "Bittersweet (Radio Edit)",
         "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 236640,
       "name": "Bittersweet - Radio Edit",
       "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "Unconditionally",
+        "url": "https://open.spotify.com/album/1X4HVedRMhLlr8qMaEGtKO"
+      },
+      "artists": [
+        {
+          "name": "JKING",
+          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
+        }
+      ],
+      "duration_ms": 152673,
+      "name": "Unconditionally",
+      "url": "https://open.spotify.com/track/566cpgeAsU9eyAgedWbwyk"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "ALICIA",
-        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "So Done (feat. Khalid)",
-      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
         "name": "Summer Moon (feat. Kevin Kaarl)",
         "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 177673,
       "name": "Summer Moon (feat. Kevin Kaarl)",
       "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "So Done (feat. Khalid)",
+      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "It's A Long Road",
-        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 282773,
-      "name": "Tell You Not To Worry",
-      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 157152,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/71KtVFmu7lY2AsKgdG1cZl"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "It's A Long Road",
+        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "Tell You Not To Worry",
+      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -803,38 +803,6 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 186053,
-      "name": "SOW",
-      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 233298,
-      "name": "Oceans Of Emotions",
-      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
         "name": "New Ways",
         "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
@@ -847,6 +815,22 @@
       "duration_ms": 409866,
       "name": "Transatlantic Flight",
       "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 186053,
+      "name": "SOW",
+      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -883,6 +867,22 @@
       "duration_ms": 137546,
       "name": "The Room",
       "url": "https://open.spotify.com/track/7euupBRn1BnMdWecnyBWU6"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 233298,
+      "name": "Oceans Of Emotions",
+      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -983,18 +983,22 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "Spider",
-        "url": "https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7"
+        "name": "No One But You",
+        "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
       },
       "artists": [
         {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 174614,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/2mmffn8SKL7XMeccLOXSgY"
+      "duration_ms": 213404,
+      "name": "No One But You",
+      "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -1019,26 +1023,6 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "No One But You",
-        "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
-      },
-      "artists": [
-        {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 213404,
-      "name": "No One But You",
-      "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
         "name": "Songs To Come Home To",
         "url": "https://open.spotify.com/album/3RyNOK2vXaGdkRWoh8QmjN"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 165600,
       "name": "BETTER (feat. Jay Prince & Billy Davis)",
       "url": "https://open.spotify.com/track/2uwes91y2qqJrutmEZJtlB"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "Spider",
+        "url": "https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "duration_ms": 174614,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/2mmffn8SKL7XMeccLOXSgY"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -1099,42 +1099,6 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "Find My Way",
-        "url": "https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Annalisa Fernandez",
-          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
-        }
-      ],
-      "duration_ms": 222945,
-      "name": "Find My Way",
-      "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
-        "name": "No Flowers",
-        "url": "https://open.spotify.com/album/6XGqMVKj10Cq6Du0NpnIGo"
-      },
-      "artists": [
-        {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
-        }
-      ],
-      "duration_ms": 184557,
-      "name": "No Flowers",
-      "url": "https://open.spotify.com/track/3LhW1olpSXYzzQta9OpTSl"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
         "name": "Like a Ship",
         "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
       },
@@ -1151,6 +1115,26 @@
       "duration_ms": 353506,
       "name": "Like a Ship",
       "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "Find My Way",
+        "url": "https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Annalisa Fernandez",
+          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
+        }
+      ],
+      "duration_ms": 222945,
+      "name": "Find My Way",
+      "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -1207,6 +1191,22 @@
       "duration_ms": 303408,
       "name": "Find You",
       "url": "https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "No Flowers",
+        "url": "https://open.spotify.com/album/6XGqMVKj10Cq6Du0NpnIGo"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "duration_ms": 184557,
+      "name": "No Flowers",
+      "url": "https://open.spotify.com/track/3LhW1olpSXYzzQta9OpTSl"
     }
   ],
   "unique_name": "Soulful",

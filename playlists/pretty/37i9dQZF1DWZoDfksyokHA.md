@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoDfksyokHA.md) - [plain]
 
 > Love was in the air this year <3 \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,369 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,411 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoDfksyokHA.md) - [plain]
 | 49 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 |
 | 50 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 |
 
-Snapshot ID: `MCw5YTgwNmQ3ZmM2MzQ4NGRjNGU5NTcyMWU3NzI4MTA4ZDAxZWY4Y2Q2`
+Snapshot ID: `MCxiY2RjODQwNjZhYzU5MGE1MjY3MzQ1YWRmOGI1YWJhMWRmNmRhNTgz`

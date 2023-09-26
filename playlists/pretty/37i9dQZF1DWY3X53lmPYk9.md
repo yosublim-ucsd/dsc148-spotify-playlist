@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,467 likes - 333 songs - 17 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,479 likes - 333 songs - 17 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -342,4 +342,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 332 | [Detour Ahead](https://open.spotify.com/track/3u2omsu82aD46ikO68QT8L) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Detour Ahead](https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih) | 4:27 |
 | 333 | [Ask Me Now](https://open.spotify.com/track/0Fjj6Gvywafx1n5HStRNs5) | [Daniel Hopeland](https://open.spotify.com/artist/2vrFPeJli5gfJIv5zxVwbO) | [Ask Me Now](https://open.spotify.com/album/0q9x1QQbHUsNMuSwbuvclJ) | 3:56 |
 
-Snapshot ID: `MCw5NzM4MzY1ZjE4NDhhYmUyNGFhNDI2MTkwY2Q3OTU2ODE0MDJhNjUx`
+Snapshot ID: `MCwwYjk2ZWZiMTUxNzViZDMxZDJlZGY5YTg4MGJkOWFjOTljZTdjYjc3`

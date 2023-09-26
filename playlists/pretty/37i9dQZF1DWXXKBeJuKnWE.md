@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy rockers\. Cover: While She Sleeps
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,383 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,407 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 79 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 |
 | 80 | [Sold!](https://open.spotify.com/track/1YFr8vK0dEfSl1DmTxcncY) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Rivers Of Heresy](https://open.spotify.com/album/6ro94rJ539uMG9hDwDtICk) | 3:29 |
 
-Snapshot ID: `MCw3YWZkNWE0YTViNWJlMDVjNTRiM2NjMmM5Mzk1YjMyODgzNzVlMzMy`
+Snapshot ID: `MCw1MTlhMjk4YTMzZjk0OTliZGEyMWFhMDNkYjExMTRkNjliZjBkZjQ1`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 370305,
+  "num_followers": 370303,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzYzMDBhYjA4YWZiOThkYjY2MTBmNGI4YzY5YWZkZmE5NDA1NzRi",
+  "snapshot_id": "MCwyYjU4ZDViYzQ3NjU1M2M1ZTUxYmIwMjdlMjE5NzRkNGJlZDFkZDAy",
   "tracks": [
     {
       "added_at": "2023-01-13 21:02:37",
@@ -147,18 +147,18 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 145667,
+      "name": "i'm yours",
+      "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -383,22 +399,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "THE LONELIEST",
         "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "The Astronaut",
+        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
+      },
+      "artists": [
+        {
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 282463,
+      "name": "The Astronaut",
+      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -435,18 +451,18 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "The Astronaut",
-        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 282463,
-      "name": "The Astronaut",
-      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -595,30 +611,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198081,
-      "name": "Peaches (feat. Daniel Caesar & Giveon)",
-      "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -639,6 +631,30 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 198081,
+      "name": "Peaches (feat. Daniel Caesar & Giveon)",
+      "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -743,6 +759,22 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -791,22 +823,6 @@
       "duration_ms": 151444,
       "name": "Happier Than Ever - Edit",
       "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 245896,
-      "name": "Your Power",
-      "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "I'm Sure",
         "url": "https://open.spotify.com/album/6KXHP4v4hYN887RGeQwc8b"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 321438,
       "name": "Swing Lynn",
       "url": "https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1051,6 +1067,22 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
+        "name": "Therefore I Am",
+        "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 174321,
+      "name": "Therefore I Am",
+      "url": "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
         "name": "Lonely (with benny blanco)",
         "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
@@ -1087,22 +1119,6 @@
       "duration_ms": 161384,
       "name": "WITHOUT YOU (with Miley Cyrus)",
       "url": "https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
-        "name": "Therefore I Am",
-        "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 174321,
-      "name": "Therefore I Am",
-      "url": "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "A Boy from Colorado",
-        "url": "https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK"
-      },
-      "artists": [
-        {
-          "name": "Gabe James",
-          "url": "https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj"
-        }
-      ],
-      "duration_ms": 138136,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1dFzOEaw0sm022IIBgTDU4"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD"
       },
@@ -1691,6 +1691,22 @@
       "duration_ms": 163560,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "A Boy from Colorado",
+        "url": "https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK"
+      },
+      "artists": [
+        {
+          "name": "Gabe James",
+          "url": "https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj"
+        }
+      ],
+      "duration_ms": 138136,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1dFzOEaw0sm022IIBgTDU4"
     },
     {
       "added_at": "2023-01-13 21:02:37",

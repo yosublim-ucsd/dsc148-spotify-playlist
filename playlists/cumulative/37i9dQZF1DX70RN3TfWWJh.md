@@ -4,7 +4,7 @@
 
 > Pop hits to keep your workout fresh,
 
-508 songs - 1 day 1 hr 53 min
+509 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,7 @@
 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 | 2021-12-17 |  |
 | [Ready For Love](https://open.spotify.com/track/7Dq4YNgsltQuTmhYz1wJzq) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:04 | 2022-10-28 | 2022-11-13 |
 | [Red Eye \(feat\. TroyBoi\)](https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:07 | 2021-12-17 | 2022-03-05 |
-| [Red Flags](https://open.spotify.com/track/6W3UEFq0oD8EBILiyn9B48) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:21 | 2023-04-14 |  |
+| [Red Flags](https://open.spotify.com/track/6W3UEFq0oD8EBILiyn9B48) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:21 | 2023-04-14 | 2023-09-26 |
 | [Remember](https://open.spotify.com/track/0lhNhUbsJBdfXoGFOQVOST) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Remember](https://open.spotify.com/album/3gl10yxLkcC2qZBkMTykM8) | 2:55 | 2021-12-17 | 2022-06-08 |
 | [Revolver](https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Revolver](https://open.spotify.com/album/5h5Phe6GYcTrFRyjfDcNPv) | 2:48 | 2022-03-25 | 2022-04-19 |
 | [Right Now](https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Right Now](https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P) | 3:21 | 2022-03-25 | 2022-04-20 |
@@ -500,6 +500,7 @@
 | [Wonder](https://open.spotify.com/track/6ZuahEctZD6w75peme58hm) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 2:52 | 2021-12-17 | 2022-06-21 |
 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2021-12-17 | 2022-07-29 |
 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-08-15 | 2023-03-11 |
+| [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 | 2023-08-30 |  |
 | [Yandel 150](https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:36 | 2023-01-19 | 2023-03-11 |
 | [yoga \(feat\. Rebecca Black\)](https://open.spotify.com/track/6Dbjbkuzp4QEudONcqFNsi) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [eat ya veggies](https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp) | 2:37 | 2022-03-25 | 2022-04-20 |
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2021-12-17 |  |

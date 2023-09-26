@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 225489,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/74RE99ZIixd6P7tzg0yY06"
@@ -2264,6 +2264,24 @@
       "duration_ms": 274005,
       "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
+    },
+    {
+      "album": {
+        "name": "Homem Lit\u00fargico, Ao Vivo",
+        "url": "https://open.spotify.com/album/3pBtEZlLUVr9ljXjY0zeH5"
+      },
+      "artists": [
+        {
+          "name": "Projeto Sola",
+          "url": "https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234771,
+      "name": "\u00caxodo - ao vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7AKkT7q6Kxdrh2n2qvLAHk"
     },
     {
       "album": {

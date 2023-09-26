@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "O Som das Multid\u00f5es (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/4d329KQXDPuJgo2828KdKA"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227413,
+      "name": "Lancinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/6CeeLpwJUYA4b0xL7eSvzn"
+    },
+    {
+      "album": {
         "name": "Z\u00e9 Neto & Cristiano - Ac\u00fastico",
         "url": "https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN"
       },
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 169244,
       "name": "Pesquisa no Google (feat. Henrique & Diego) - Ao Vivo",
       "url": "https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k"

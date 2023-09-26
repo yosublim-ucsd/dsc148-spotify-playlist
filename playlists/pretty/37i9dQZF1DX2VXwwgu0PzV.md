@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa?si=o\-BsO1cbSLeas1VyOMyGFQ">Oyije</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,885 likes - 89 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,988 likes - 89 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 88 | [Try Love](https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Try Love](https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW) | 4:32 |
 | 89 | [NOBODY BETTER](https://open.spotify.com/track/50BOHK5CSjdQQ00IL3UJ8C) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [NOBODY BETTER](https://open.spotify.com/album/6pQySyUxDkg0FMHQprwYUz) | 2:59 |
 
-Snapshot ID: `MCwzODYyN2M5MTc4M2E5YTRjNTA4YTdjNjEwOWMwNmRmNDk1MzcxNjZj`
+Snapshot ID: `MCxjZjBmMzA0MmU5YjRkNDRlZWU3NjJkODQ2ZGQ3NDg2ZGU5ZDZmMGY5`

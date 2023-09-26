@@ -1,12 +1,12 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2354190,
+  "num_followers": 2354360,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmQ2ZWIzNmUwNGNlZjViMTRhYjI2MTUzOTMzZmZiN2U2ZDcxNzMz",
+  "snapshot_id": "MCxiZDk0NTkyZDYwNDFhNDJhMGNmNjRmMTc5NTU5MmM4YWFmZmJiOWFi",
   "tracks": [
     {
       "added_at": "2020-11-18 19:14:53",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "The Better Life",
-        "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 233933,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "So Tonight That I Might See",
         "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 295600,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "The Better Life",
+        "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 233933,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Make Yourself",
-        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 266200,
       "name": "1979 - Remastered 2012",
       "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 257480,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
@@ -379,22 +363,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Marcy Playground",
-        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
-      },
-      "artists": [
-        {
-          "name": "Marcy Playground",
-          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Sex & Candy",
-      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "New Beginning",
         "url": "https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB"
       },
@@ -411,6 +379,22 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
+        "name": "Marcy Playground",
+        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
+      },
+      "artists": [
+        {
+          "name": "Marcy Playground",
+          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Sex & Candy",
+      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 413826,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 257480,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "14:59",
         "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 270400,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 290706,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Villains",
-        "url": "https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi"
-      },
-      "artists": [
-        {
-          "name": "The Verve Pipe",
-          "url": "https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "The Freshmen",
-      "url": "https://open.spotify.com/track/21jEuMn2lf37715rwjow2M"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 141200,
       "name": "Between the Bars",
       "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi"
+      },
+      "artists": [
+        {
+          "name": "The Verve Pipe",
+          "url": "https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "The Freshmen",
+      "url": "https://open.spotify.com/track/21jEuMn2lf37715rwjow2M"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -943,22 +943,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Jagged Little Pill",
-        "url": "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Ironic",
-      "url": "https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 272920,
       "name": "Lilac Wine",
       "url": "https://open.spotify.com/track/1StXVL5gClph4z4XzanYko"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Jagged Little Pill",
+        "url": "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Ironic",
+      "url": "https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -991,22 +991,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Pieces Of You",
-        "url": "https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr"
-      },
-      "artists": [
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 340666,
-      "name": "Foolish Games",
-      "url": "https://open.spotify.com/track/2LflDhyBXVNrfmHxAayS3K"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 161893,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Pieces Of You",
+        "url": "https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr"
+      },
+      "artists": [
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 340666,
+      "name": "Foolish Games",
+      "url": "https://open.spotify.com/track/2LflDhyBXVNrfmHxAayS3K"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "Pitseleh",
-      "url": "https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Bringing Down The Horse",
         "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 324066,
       "name": "Kiss from a Rose - Acoustic",
       "url": "https://open.spotify.com/track/3YfiGjwBzBsDrYPqAJsD4z"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "Pitseleh",
+      "url": "https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt"
     }
   ],
   "unique_name": "90s Acoustic",

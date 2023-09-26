@@ -2832,7 +2832,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -3654,7 +3654,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-22",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Bei Nacht",
       "url": "https://open.spotify.com/track/1kKvfCmzXzRcfszwQrXFPM"
@@ -21026,7 +21026,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 158080,
       "name": "Nachts wach (Lila Wolken Bootleg)",
       "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
@@ -29063,6 +29063,24 @@
     },
     {
       "album": {
+        "name": "Superstars",
+        "url": "https://open.spotify.com/album/1DxDAh1Qxro1JxWY3TS7PR"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139234,
+      "name": "Superstars",
+      "url": "https://open.spotify.com/track/3dgOu83QnvkooEa4Jz2Msr"
+    },
+    {
+      "album": {
         "name": "trip",
         "url": "https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC"
       },
@@ -29880,7 +29898,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 194831,
       "name": "The Feeling - Lost Frequencies & Andromedik Deluxe Mix",
       "url": "https://open.spotify.com/track/3rFHJDslBgt9rHu8p22aFN"
@@ -29982,6 +30000,24 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
       "album": {

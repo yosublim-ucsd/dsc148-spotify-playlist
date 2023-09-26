@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Paige",
-  "num_followers": 41244,
+  "num_followers": 41266,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDg3YjQwOGEyZTgxNmU3MzU0ZTc0NWQwZWExNTg5MTFmNGZiMjFl",
+  "snapshot_id": "MCwzOTVkMDE0M2Q0NjI5YzY3MjM3NjU2Y2U2OTgwYzNiMGEyNmViZTA0",
   "tracks": [
     {
       "added_at": "2023-09-22 03:01:00",
@@ -215,26 +215,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Gostosa Posturada",
-        "url": "https://open.spotify.com/album/3mp2ekGulGPeycSW8kugCr"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "Gostosa Posturada",
-      "url": "https://open.spotify.com/track/0QrZOO5aW18qjKHbjcClWu"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "F\u00e9 nas Maluca",
         "url": "https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 143221,
       "name": "F\u00e9 nas Maluca",
       "url": "https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Gostosa Posturada",
+        "url": "https://open.spotify.com/album/3mp2ekGulGPeycSW8kugCr"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "Gostosa Posturada",
+      "url": "https://open.spotify.com/track/0QrZOO5aW18qjKHbjcClWu"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -375,30 +375,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "8KG",
-        "url": "https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J"
-      },
-      "artists": [
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "8KG",
-      "url": "https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Oompa Loompa",
         "url": "https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M"
       },
@@ -423,6 +399,54 @@
       "duration_ms": 194884,
       "name": "Oompa Loompa",
       "url": "https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "HSEH",
+        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "HSEH",
+      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "8KG",
+        "url": "https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J"
+      },
+      "artists": [
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "8KG",
+      "url": "https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -471,30 +495,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "HSEH",
-        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "HSEH",
-      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Sou + As Negras",
         "url": "https://open.spotify.com/album/6Z6uUrQRgrTv9Uw8k1rgkg"
       },
@@ -511,6 +511,26 @@
       "duration_ms": 161076,
       "name": "Sou + As Negras",
       "url": "https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -639,26 +659,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Baby Hair",
         "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 153393,
       "name": "Baby Hair",
       "url": "https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Glossy",
+        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 151596,
+      "name": "Glossy",
+      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -707,26 +723,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
       },
       "artists": [
         {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Kash",
-          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 224841,
-      "name": "N.I.N.A",
-      "url": "https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ"
+      "duration_ms": 199986,
+      "name": "Seu Particular",
+      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -763,54 +775,26 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Ashley Banks",
-        "url": "https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY"
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
       },
       "artists": [
         {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        }
-      ],
-      "duration_ms": 208264,
-      "name": "Ashley Banks",
-      "url": "https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Glossy",
-        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 151596,
-      "name": "Glossy",
-      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 199986,
-      "name": "Seu Particular",
-      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
+      "duration_ms": 224841,
+      "name": "N.I.N.A",
+      "url": "https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -895,6 +879,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Ashley Banks",
+        "url": "https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        }
+      ],
+      "duration_ms": 208264,
+      "name": "Ashley Banks",
+      "url": "https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Preta Patr\u00edcia",
         "url": "https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX"
       },
@@ -931,22 +931,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Tukikis",
-        "url": "https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n"
+        "name": "Carta Aberta (Lado A)",
+        "url": "https://open.spotify.com/album/269fUNW56hNShvHyuGwIgA"
       },
       "artists": [
         {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+          "name": "Gabily",
+          "url": "https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz"
         },
         {
-          "name": "MDN Beatz",
-          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
         }
       ],
-      "duration_ms": 174083,
-      "name": "Tukikis",
-      "url": "https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7"
+      "duration_ms": 131680,
+      "name": "Como Eu Virei A Bad Girl",
+      "url": "https://open.spotify.com/track/2c4vnV4CFPMHaR76qdmxwn"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -971,22 +971,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Carta Aberta (Lado A)",
-        "url": "https://open.spotify.com/album/269fUNW56hNShvHyuGwIgA"
+        "name": "Sangue Negro",
+        "url": "https://open.spotify.com/album/5BVSiqnFTBc9VNvGmwHT8R"
       },
       "artists": [
         {
-          "name": "Gabily",
-          "url": "https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz"
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
         },
         {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
         }
       ],
-      "duration_ms": 131680,
-      "name": "Como Eu Virei A Bad Girl",
-      "url": "https://open.spotify.com/track/2c4vnV4CFPMHaR76qdmxwn"
+      "duration_ms": 104810,
+      "name": "Sangue Negro",
+      "url": "https://open.spotify.com/track/5XFmilgqTejITyL7XTpDBc"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -1011,22 +1011,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Sangue Negro",
-        "url": "https://open.spotify.com/album/5BVSiqnFTBc9VNvGmwHT8R"
+        "name": "Tukikis",
+        "url": "https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n"
       },
       "artists": [
         {
-          "name": "Guetta FInelly",
-          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
         },
         {
-          "name": "Noemi Leal",
-          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
         }
       ],
-      "duration_ms": 104810,
-      "name": "Sangue Negro",
-      "url": "https://open.spotify.com/track/5XFmilgqTejITyL7XTpDBc"
+      "duration_ms": 174083,
+      "name": "Tukikis",
+      "url": "https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7"
     },
     {
       "added_at": "2023-09-22 03:01:00",

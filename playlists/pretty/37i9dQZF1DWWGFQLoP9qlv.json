@@ -1,12 +1,12 @@
 {
   "description": "Great songs by indisputable music legends. Cover: Queen",
-  "num_followers": 3404379,
+  "num_followers": 3404754,
   "original_name": "Legendary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODVhYzZlZjhjZTZlZGQyYjdmNWY3ZTM0NzhkMWJmMWRiMDcyYTU3",
+  "snapshot_id": "MCxhYjYzOTc1NWVhNmI4YTM2MjRlNmMwM2UyMDgyYTY3MjA2OWRiM2Vm",
   "tracks": [
     {
       "added_at": "2022-01-21 11:38:49",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
         "name": "Highway to Hell",
         "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
       },
@@ -303,6 +287,22 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 283800,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -415,6 +399,38 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
         "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 180055,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 180055,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -539,6 +539,22 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -603,22 +619,6 @@
       "duration_ms": 153693,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 284026,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Hello, I Must Be Going! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "You Can't Hurry Love - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 245200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Hello, I Must Be Going! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "You Can't Hurry Love - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
         "name": "Face Value (Deluxe Editon)",
         "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 336453,
       "name": "In The Air Tonight - 2015 Remastered",
       "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
       "added_at": "2022-01-21 11:38:49",

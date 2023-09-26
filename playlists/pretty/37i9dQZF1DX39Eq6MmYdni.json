@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Grupo Frontera & Grupo Firme",
-  "num_followers": 15198,
+  "num_followers": 15263,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjllZDFiYTk5ZTRiNmYwMWM0NmMzZTljYWZhYzczMGIyYzZjZWE5",
+  "snapshot_id": "MCxlMjIwMGRlMmY5ZmY0YmJiYTY1ZjExODc5NmRmODc5ZmY5MzQ2NmVk",
   "tracks": [
     {
       "added_at": "2023-08-18 21:56:20",
@@ -235,26 +235,6 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
-        "name": "Dijeron Que No La Iba Lograr",
-        "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 113019,
-      "name": "Dijeron Que No La Iba Lograr",
-      "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
-    },
-    {
-      "added_at": "2023-08-18 21:56:20",
-      "album": {
         "name": "Sobran Motivos",
         "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
       },
@@ -275,6 +255,26 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
+        "name": "Dijeron Que No La Iba Lograr",
+        "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 113019,
+      "name": "Dijeron Que No La Iba Lograr",
+      "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
+    },
+    {
+      "added_at": "2023-08-18 21:56:20",
+      "album": {
         "name": "Pacas De Billetes",
         "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
       },
@@ -287,26 +287,6 @@
       "duration_ms": 188074,
       "name": "Pacas De Billetes",
       "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
-    },
-    {
-      "added_at": "2023-08-18 21:56:20",
-      "album": {
-        "name": "Billete Grande (En Vivo)",
-        "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 163940,
-      "name": "Billete Grande (En Vivo)",
-      "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
     },
     {
       "added_at": "2023-08-18 21:56:20",
@@ -327,6 +307,26 @@
       "duration_ms": 184066,
       "name": "PRC",
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "added_at": "2023-08-18 21:56:20",
+      "album": {
+        "name": "Billete Grande (En Vivo)",
+        "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 163940,
+      "name": "Billete Grande (En Vivo)",
+      "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
     },
     {
       "added_at": "2023-08-18 21:56:20",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
-        "name": "Corridos y Sentimientos (Vol 2)",
-        "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 130250,
-      "name": "Y Es Que Contigo",
-      "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
-    },
-    {
-      "added_at": "2023-08-18 21:56:20",
-      "album": {
         "name": "Beses a Quien Beses",
         "url": "https://open.spotify.com/album/3MQPEMiB4zdwh5BYQ38AQj"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 177845,
       "name": "Beses a Quien Beses",
       "url": "https://open.spotify.com/track/2NGXJSNQE4rsTts8TZfeS3"
+    },
+    {
+      "added_at": "2023-08-18 21:56:20",
+      "album": {
+        "name": "Corridos y Sentimientos (Vol 2)",
+        "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 130250,
+      "name": "Y Es Que Contigo",
+      "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
     },
     {
       "added_at": "2023-08-18 21:56:20",
@@ -803,18 +803,22 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
-        "name": "Perfecci\u00f3n",
-        "url": "https://open.spotify.com/album/6JmjHJcvGcNv6JEjZb7Hwv"
+        "name": "Que Vas a Hacer",
+        "url": "https://open.spotify.com/album/4nrkaHH7b5PwDkrJ3AivRF"
       },
       "artists": [
         {
           "name": "Nivel",
           "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        },
+        {
+          "name": "Jos\u00e9 Mej\u00eda",
+          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
         }
       ],
-      "duration_ms": 120857,
-      "name": "Perfecci\u00f3n",
-      "url": "https://open.spotify.com/track/70PhHGQlEU2C5pcAR7rVnY"
+      "duration_ms": 185906,
+      "name": "Que Vas a Hacer",
+      "url": "https://open.spotify.com/track/6TLxQyd8AJG1zzbp3LXio0"
     },
     {
       "added_at": "2023-08-18 21:56:20",
@@ -871,6 +875,22 @@
     {
       "added_at": "2023-08-18 21:56:20",
       "album": {
+        "name": "Pa Quererte",
+        "url": "https://open.spotify.com/album/0oBSqtS4zt2ZGSAiTZuHvF"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 197355,
+      "name": "Pa Quererte",
+      "url": "https://open.spotify.com/track/2nRx0se0bGzdFBqAjEmKce"
+    },
+    {
+      "added_at": "2023-08-18 21:56:20",
+      "album": {
         "name": "Mi Tesoro (En Vivo)",
         "url": "https://open.spotify.com/album/3izA85ST6c3tnSLoYg8v6W"
       },
@@ -899,22 +919,6 @@
       "duration_ms": 179158,
       "name": "Te Quiero, I Love You",
       "url": "https://open.spotify.com/track/3RrbxvX4plpA9uNdLDTXjm"
-    },
-    {
-      "added_at": "2023-08-18 21:56:20",
-      "album": {
-        "name": "Para Que No Te Acuerdes",
-        "url": "https://open.spotify.com/album/3shHERdaWkHmrHloMSHbCg"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 174027,
-      "name": "Para Que No Te Acuerdes",
-      "url": "https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v"
     }
   ],
   "unique_name": "Rompiendo: Texas",

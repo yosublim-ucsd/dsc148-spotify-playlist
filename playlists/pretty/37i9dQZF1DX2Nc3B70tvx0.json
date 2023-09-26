@@ -1,12 +1,12 @@
 {
   "description": "Newsworthy indie of 2023: Mitski's album is here. ",
-  "num_followers": 2230563,
+  "num_followers": 2230698,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGZhMTVkYmMwOWQ3MzY5ZTBiMTM1YjA2OTFkNDEwOTJlZWJhZDc2",
+  "snapshot_id": "MCw0YTdmYmQ0NzRiN2I1Yjk2YjllZTJjODZhYTE1ZGViMDJjOTgyZWMx",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -73,6 +73,26 @@
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
+      "added_at": "2023-09-25 17:24:50",
+      "album": {
+        "name": "Boys Of Faith (feat. Bon Iver)",
+        "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 170824,
+      "name": "Boys Of Faith (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
+    },
+    {
       "added_at": "2023-07-07 00:52:15",
       "album": {
         "name": "Say Yes To Heaven",
@@ -87,22 +107,6 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
-    },
-    {
-      "added_at": "2023-07-13 00:44:27",
-      "album": {
-        "name": "Shut up My Moms Calling",
-        "url": "https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Shut up My Moms Calling",
-      "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
     },
     {
       "added_at": "2023-09-01 02:22:07",
@@ -137,24 +141,20 @@
       "url": "https://open.spotify.com/track/0BjU4kaYvJPjRIQqdxtNom"
     },
     {
-      "added_at": "2023-07-19 17:44:49",
+      "added_at": "2023-07-13 00:44:27",
       "album": {
-        "name": "Dial Drunk (with Post Malone)",
-        "url": "https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe"
+        "name": "Shut up My Moms Calling",
+        "url": "https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
         }
       ],
-      "duration_ms": 213817,
-      "name": "Dial Drunk (with Post Malone)",
-      "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
+      "duration_ms": 164571,
+      "name": "Shut up My Moms Calling",
+      "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
     },
     {
       "added_at": "2023-09-08 18:02:09",
@@ -293,20 +293,24 @@
       "url": "https://open.spotify.com/track/7aprF5ADDukD1JWHXG9h9z"
     },
     {
-      "added_at": "2023-08-08 22:20:55",
+      "added_at": "2023-07-19 17:44:49",
       "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+        "name": "Dial Drunk (with Post Malone)",
+        "url": "https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe"
       },
       "artists": [
         {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+      "duration_ms": 213817,
+      "name": "Dial Drunk (with Post Malone)",
+      "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -341,20 +345,20 @@
       "url": "https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1"
     },
     {
-      "added_at": "2023-07-10 21:15:05",
+      "added_at": "2023-08-08 22:20:55",
       "album": {
-        "name": "Faye Webster",
-        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
         }
       ],
-      "duration_ms": 251666,
-      "name": "I Know You",
-      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "added_at": "2023-09-08 18:02:09",
@@ -393,6 +397,22 @@
       "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
     },
     {
+      "added_at": "2023-07-10 21:15:05",
+      "album": {
+        "name": "Faye Webster",
+        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "I Know You",
+      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
+    },
+    {
       "added_at": "2023-07-07 00:52:15",
       "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
@@ -411,22 +431,6 @@
       "duration_ms": 278126,
       "name": "Let The Light In (feat. Father John Misty)",
       "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Everything So Far",
-        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
-      },
-      "artists": [
-        {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
-        }
-      ],
-      "duration_ms": 191796,
-      "name": "Need 2",
-      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
       "added_at": "2023-09-22 03:15:37",
@@ -467,6 +471,22 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
+        "name": "Everything So Far",
+        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 191796,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
         "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
         "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
       },
@@ -479,22 +499,6 @@
       "duration_ms": 186066,
       "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
       "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
-    },
-    {
-      "added_at": "2023-07-19 19:37:11",
-      "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
       "added_at": "2023-08-25 05:05:21",
@@ -513,20 +517,20 @@
       "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
     },
     {
-      "added_at": "2023-07-07 00:52:15",
+      "added_at": "2023-07-19 19:37:11",
       "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -567,22 +571,18 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Glue Song (feat. Clairo)",
-        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 135066,
-      "name": "Glue Song (feat. Clairo)",
-      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -651,6 +651,26 @@
       "duration_ms": 319493,
       "name": "Hummingbird (Metro Boomin & James Blake)",
       "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Glue Song (feat. Clairo)",
+        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "Glue Song (feat. Clairo)",
+      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -765,22 +785,6 @@
       "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
     },
     {
-      "added_at": "2023-07-13 00:44:27",
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/4PMdq7Q7xOFrY424ZelZEb"
-    },
-    {
       "added_at": "2023-09-22 03:15:37",
       "album": {
         "name": "World of Hassle",
@@ -795,6 +799,22 @@
       "duration_ms": 194876,
       "name": "Is There Nightlife After Death?",
       "url": "https://open.spotify.com/track/1hPRiRIEeYpjIa8VFLpRab"
+    },
+    {
+      "added_at": "2023-07-13 00:44:27",
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/4PMdq7Q7xOFrY424ZelZEb"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -881,22 +901,6 @@
       "url": "https://open.spotify.com/track/1PJe0Vt9p0QaV4ZNHUwml0"
     },
     {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Remember Me? EP from Mp",
-        "url": "https://open.spotify.com/album/2wb8GfeGtwL1sKPzHs0ffA"
-      },
-      "artists": [
-        {
-          "name": "Macabre Plaza",
-          "url": "https://open.spotify.com/artist/7r8EHfxHZHU16sUV3BEH1t"
-        }
-      ],
-      "duration_ms": 61340,
-      "name": "Middle of Nowhere",
-      "url": "https://open.spotify.com/track/52Td1R2HmvP5gevSgUaifx"
-    },
-    {
       "added_at": "2023-07-19 04:00:00",
       "album": {
         "name": "i'll be okay",
@@ -911,6 +915,22 @@
       "duration_ms": 98750,
       "name": "Better",
       "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Remember Me? EP from Mp",
+        "url": "https://open.spotify.com/album/2wb8GfeGtwL1sKPzHs0ffA"
+      },
+      "artists": [
+        {
+          "name": "Macabre Plaza",
+          "url": "https://open.spotify.com/artist/7r8EHfxHZHU16sUV3BEH1t"
+        }
+      ],
+      "duration_ms": 61340,
+      "name": "Middle of Nowhere",
+      "url": "https://open.spotify.com/track/52Td1R2HmvP5gevSgUaifx"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -961,6 +981,22 @@
       "url": "https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo"
     },
     {
+      "added_at": "2023-08-23 23:58:36",
+      "album": {
+        "name": "Star b/w Heaven",
+        "url": "https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC"
+    },
+    {
       "added_at": "2023-07-13 00:37:25",
       "album": {
         "name": "Unknown / Nth",
@@ -977,20 +1013,20 @@
       "url": "https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh"
     },
     {
-      "added_at": "2023-08-23 23:58:36",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Star b/w Heaven",
-        "url": "https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU"
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 179346,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC"
+      "duration_ms": 279133,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1045,20 +1081,20 @@
       "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 279133,
-      "name": "Bubblegum",
-      "url": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
+      "duration_ms": 279413,
+      "name": "Bags - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/3ISKxnCGKc5B9zr9CTUB3v"
     },
     {
       "added_at": "2023-07-13 22:53:19",
@@ -1077,20 +1113,20 @@
       "url": "https://open.spotify.com/track/5fX8WljoAFrmFrFqahjz4Y"
     },
     {
-      "added_at": "2023-07-07 00:52:15",
+      "added_at": "2023-08-23 23:58:36",
       "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
+        "name": "Star b/w Heaven",
+        "url": "https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 279413,
-      "name": "Bags - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/3ISKxnCGKc5B9zr9CTUB3v"
+      "duration_ms": 224333,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4inoOfvjCBQrJKdVwfJjlT"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1139,22 +1175,6 @@
       "duration_ms": 170788,
       "name": "Drop Stop Roll",
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
-    },
-    {
-      "added_at": "2023-08-23 23:58:36",
-      "album": {
-        "name": "Star b/w Heaven",
-        "url": "https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4inoOfvjCBQrJKdVwfJjlT"
     },
     {
       "added_at": "2023-08-01 17:19:49",
@@ -1331,22 +1351,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "Spirit 2.0",
         "url": "https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv"
       },
@@ -1409,6 +1413,26 @@
       "url": "https://open.spotify.com/track/2EpduTUFSZfeb0GI4CaCQD"
     },
     {
+      "added_at": "2023-08-25 17:54:45",
+      "album": {
+        "name": "Victorious//Bullets",
+        "url": "https://open.spotify.com/album/0ExGbjosILPh9lf3dCIM9z"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "Victorious",
+      "url": "https://open.spotify.com/track/7xZSy1YRvAbhkKVDMJWI1W"
+    },
+    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Flaws in Our Design",
@@ -1433,26 +1457,6 @@
       "url": "https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c"
     },
     {
-      "added_at": "2023-08-25 17:54:45",
-      "album": {
-        "name": "Victorious//Bullets",
-        "url": "https://open.spotify.com/album/0ExGbjosILPh9lf3dCIM9z"
-      },
-      "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        },
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        }
-      ],
-      "duration_ms": 144657,
-      "name": "Victorious",
-      "url": "https://open.spotify.com/track/7xZSy1YRvAbhkKVDMJWI1W"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Diving (feat. Holly Humberstone)",
@@ -1473,22 +1477,6 @@
       "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
     },
     {
-      "added_at": "2023-08-01 23:37:51",
-      "album": {
-        "name": "Loading",
-        "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 284551,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
-    },
-    {
       "added_at": "2023-09-01 02:22:07",
       "album": {
         "name": "Hot in NY",
@@ -1503,6 +1491,22 @@
       "duration_ms": 118787,
       "name": "Hot in NY",
       "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
+    },
+    {
+      "added_at": "2023-08-01 23:37:51",
+      "album": {
+        "name": "Loading",
+        "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
     },
     {
       "added_at": "2023-07-17 18:25:56",
@@ -1589,22 +1593,6 @@
       "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
     },
     {
-      "added_at": "2023-07-13 22:53:19",
-      "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
-      },
-      "artists": [
-        {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
-        }
-      ],
-      "duration_ms": 172921,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
-    },
-    {
       "added_at": "2023-08-25 05:05:21",
       "album": {
         "name": "Sandhills",
@@ -1619,6 +1607,22 @@
       "duration_ms": 205546,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
+    },
+    {
+      "added_at": "2023-07-13 22:53:19",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "duration_ms": 172921,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
     },
     {
       "added_at": "2023-08-11 04:01:00",

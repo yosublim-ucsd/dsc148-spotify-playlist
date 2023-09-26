@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\.  Cover: <a href="https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u?si=edb18f0406944953">Jarv Dee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,466 likes - 45 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,497 likes - 45 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 44 | [1942](https://open.spotify.com/track/1QWia9D463o0WuHSUEgPPM) | [Dmann](https://open.spotify.com/artist/2nCBL8gOThAAnLFlVVeVlH) | [1942](https://open.spotify.com/album/1QOg0bZdxyoWavWxwBP3t3) | 1:36 |
 | 45 | [MARNI](https://open.spotify.com/track/7x2RBaaUE7lQesLVyunWB8) | [Lil Boof](https://open.spotify.com/artist/5F0TXqGLk4v8EAe0TZq0XC) | [My Turn](https://open.spotify.com/album/3BkOlKAZKhgLbU386hbkrF) | 1:29 |
 
-Snapshot ID: `MCxhYTdlZDA0MWU0YzdkOWI0ODNlZDdlMDU2MTU5NjAzNDU4ZTcyZTIy`
+Snapshot ID: `MCwxZGRmOTM0ZTE3N2UwYTdjODJjZjcwYjhhNWJjN2RmMTYxOTYzYjRm`

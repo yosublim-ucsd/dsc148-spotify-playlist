@@ -14699,6 +14699,28 @@
     },
     {
       "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196821,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
+    },
+    {
+      "album": {
         "name": "Past Time",
         "url": "https://open.spotify.com/album/6YRT6QgneqPW6wsAAO5ZS9"
       },
@@ -19724,7 +19746,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 188571,
       "name": "Trompeta",
       "url": "https://open.spotify.com/track/6o4BO9LLCPe5p43YKZzFuv"

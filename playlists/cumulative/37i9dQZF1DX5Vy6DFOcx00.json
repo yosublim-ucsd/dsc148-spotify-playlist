@@ -1155,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "Amour plastique",
+      "url": "https://open.spotify.com/track/0HDO6JFfplYPrSWuufUosZ"
+    },
+    {
+      "album": {
         "name": "anatomy",
         "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
       },
@@ -2502,6 +2520,24 @@
       "duration_ms": 109120,
       "name": "BIZCOCHITO",
       "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
+    },
+    {
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "album": {
@@ -7774,6 +7810,24 @@
       "duration_ms": 173951,
       "name": "Happening Again",
       "url": "https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185480,
+      "name": "Harleys In Hawaii",
+      "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
     },
     {
       "album": {

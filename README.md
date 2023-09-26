@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6658\)
+## Playlists \(6659\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1683,7 +1683,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Electro Chill](/playlists/pretty/37i9dQZF1DX9ND1QF5hZNF.md)
 - [Electro Funk](/playlists/pretty/37i9dQZF1DWSkwtKvzMAAN.md)
 - [Electro Mix](/playlists/pretty/37i9dQZF1DWW668oFRU96k.md)
-- [Electro Swing](/playlists/pretty/37i9dQZF1DX3bH0P2uDnWA.md)
+- [Electro Swing Halloween Edition](/playlists/pretty/37i9dQZF1DX3bH0P2uDnWA.md)
 - [Electronic + Dance Frequency](/playlists/pretty/37i9dQZF1DXa1pcUVlBhYz.md)
 - [Electronic Christmas](/playlists/pretty/37i9dQZF1DX2zhLcnFr1qI.md)
 - [Electronic Circus](/playlists/pretty/37i9dQZF1DWVCHIm2MEeIy.md)
@@ -2049,7 +2049,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fusion Finds](/playlists/pretty/37i9dQZF1DX5P7I5ymjBC0.md)
 - [Future Funk](/playlists/pretty/37i9dQZF1DXbjGYBfEmjR5.md)
 - [Futurs Hits](/playlists/pretty/37i9dQZF1DWUI9wBgUr4BH.md)
-- [Fé Pelo Ouvir: Cassiane](/playlists/pretty/37i9dQZF1DX1AqQsk9faDK.md)
+- [Fé Pelo Ouvir: Thalles Roberto](/playlists/pretty/37i9dQZF1DX1AqQsk9faDK.md)
 - [G.O.O.D\. Music](/playlists/pretty/37i9dQZF1DX83ZswDLVXae.md)
 - [G2 Esports](/playlists/pretty/37i9dQZF1DXdp5YOcv5TSe.md)
 - [GENERAZIONE Z](/playlists/pretty/37i9dQZF1DWYCIYGXn56uz.md)
@@ -2220,6 +2220,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Halloween Fiesta](/playlists/pretty/37i9dQZF1DX3z5yKRkYm4P.md)
 - [Halloween Monster Jams](/playlists/pretty/37i9dQZF1DX6SpcerLn1dx.md)
 - [Halloween Party](/playlists/pretty/37i9dQZF1DX8S9gwdi7dev.md)
+- [Halloween Perreo Party](/playlists/pretty/37i9dQZF1DWXRx4AFLjzB2.md)
 - [Hallyu Boy Bands](/playlists/pretty/37i9dQZF1DX1gjl24GAQC0.md)
 - [Halo](/playlists/pretty/37i9dQZF1DX5YyEO1dtgbR.md)
 - [Hanging Out & Relaxing](/playlists/pretty/37i9dQZF1DXci7j0DJQgGp.md)
@@ -4578,7 +4579,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Summer K\-Pop Hits \(썸머 히트\)](/playlists/pretty/37i9dQZF1DX1lU51fgoMhF.md)
 - [Summer Love](/playlists/pretty/37i9dQZF1DWY0BsMpCzERZ.md)
 - [Summer Party](/playlists/pretty/37i9dQZF1DX5Ozry5U6G0d.md)
-- [Summer Perreo Party](/playlists/pretty/37i9dQZF1DWXRx4AFLjzB2.md)
 - [Summer Pop](/playlists/pretty/37i9dQZF1DX9nkam6FKfgM.md)
 - [Summer Reading](/playlists/pretty/37i9dQZF1DX51qI8MDEx8N.md)
 - [Summer Rizz](/playlists/pretty/37i9dQZF1DX9jvC1xBh84q.md)
@@ -5240,6 +5240,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Lata Mangeshkar](/playlists/pretty/37i9dQZF1DX4Y3BGcCFrIX.md)
 - [This Is Latto](/playlists/pretty/37i9dQZF1DZ06evO2csqsN.md)
 - [This Is Laura Marling](/playlists/pretty/37i9dQZF1DX3Hdbt1R3mYP.md)
+- [This Is Laura Pausini](/playlists/pretty/37i9dQZF1DX2SJZvej5CcO.md)
 - [This Is Lauren Daigle](/playlists/pretty/37i9dQZF1DZ06evO2lcXXq.md)
 - [This Is Led Zeppelin](/playlists/pretty/37i9dQZF1DZ06evO1NyWWI.md)
 - [This Is Lee Kernaghan](/playlists/pretty/37i9dQZF1DZ06evO4prP6L.md)

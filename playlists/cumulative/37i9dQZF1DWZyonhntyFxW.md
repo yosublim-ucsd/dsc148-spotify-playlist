@@ -2,7 +2,7 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> <a href="https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb?si=qnqr0FIPT7eEnmom3PfSCA"> Marwan Moussa </a> :شغلي ملوك السين مش عايز اسمع اي حاجة تانية\. غلاف
+> <a href="https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR?si=NCDLeoLkTPiSgYtBdEOq\-Q"> Afroto </a> : عشان تثبتلي انك ليبرو تيجي تسمع ملوك السين\. غلاف
 
 242 songs - 12 hr 20 min
 

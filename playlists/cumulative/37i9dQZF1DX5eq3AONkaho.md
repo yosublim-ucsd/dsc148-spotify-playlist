@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-889 songs - 2 day 2 hr 16 min
+890 songs - 2 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,8 +305,8 @@
 | [Friday drive](https://open.spotify.com/track/4OylLmHfNa1xuYPUfMEcvU) | [Ludwig](https://open.spotify.com/artist/5XfH6udbuZrLJlc67Fy5UA), [천수민](https://open.spotify.com/artist/7xkXKX3rZHXfnQ1fnZyPd8) | [LiaJyuaFamily’albumⅢ](https://open.spotify.com/album/3zSGWGLXmZbxpNhe9afGDG) | 3:03 | 2021-11-17 | 2022-05-16 |
 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 | 2021-11-17 | 2023-06-04 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-08 | 2023-03-29 |
+| [Galaxy](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 | 2022-07-08 |  |
 | [Galaxy](https://open.spotify.com/track/21uJQVH68gc5UZCo5dU9LP) | [LADIES' CODE](https://open.spotify.com/artist/4epPY1AW9lQeVUM1XaFiwi) | [MYST3RY](https://open.spotify.com/album/2hBKoIT80i1iUt9t6lDw2Z) | 3:32 | 2022-01-03 | 2022-05-20 |
-| [Galaxy 우주를 줄게](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 | 2022-07-08 |  |
 | [Galaxy 우주를 줄게](https://open.spotify.com/track/6T3Mlx5fr71sm0u1YDAb4R) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/2xvcemzzyUJOIXd9J2TbCo) | 3:33 | 2021-11-17 | 2022-07-28 |
 | [GAMBLER](https://open.spotify.com/track/1Zsy7gMUcHDhxC0bbyZmC2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:33 | 2021-11-17 | 2022-07-22 |
 | [Gas Pedal](https://open.spotify.com/track/0IYOm3308cQ6drkr4M92WE) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [CRAVITY 1ST ALBUM PART 1 \[The Awakening: Written In The Stars\]](https://open.spotify.com/album/7CtpVv2DV2DXiZxjsf6jEo) | 3:17 | 2021-11-17 | 2022-07-18 |
@@ -428,7 +428,7 @@
 | [Karma \(feat\. Nino Lucarelli\)](https://open.spotify.com/track/28tllebADXUaV2omFEhoSB) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:26 | 2021-11-17 | 2022-07-27 |
 | [Kick It](https://open.spotify.com/track/1ayaOin9hxCtyhg4UsBTpg) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:53 | 2021-11-17 | 2023-03-29 |
 | [Kill This Love](https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:09 | 2021-11-17 | 2022-07-20 |
-| [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-07-08 |  |
+| [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-07-08 | 2023-09-26 |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2022-02-03 |  |
 | [KILLING ME](https://open.spotify.com/track/1IbpTcFDHRD87cGQOhVCDP) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) | 3:13 | 2022-07-08 |  |
 | [KILLING ME](https://open.spotify.com/track/27kB4qLUCV8nZd2eOgj1Tk) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS : CONTINUE](https://open.spotify.com/album/2yUTAuGu8Xu7xoTdASjClx) | 3:13 | 2021-11-17 | 2022-07-28 |
@@ -832,6 +832,7 @@
 | [WHAT'S GOIN' ON](https://open.spotify.com/track/5RYFLurX0Vg85bgnClS6im) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Single Album \[WHAT'S GOIN' ON\]](https://open.spotify.com/album/0DYLNTiiA03sjrXPHDaU7z) | 3:11 | 2022-02-16 | 2022-07-19 |
 | [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-12-01 |  |
 | [Whiplash](https://open.spotify.com/track/2iPxDFeN27VrKgGdZ0AIKw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:21 | 2022-03-24 | 2022-04-16 |
+| [WHISTLE](https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) | 3:31 | 2023-09-15 |  |
 | [WHISTLE](https://open.spotify.com/track/3hfN1wQSiLPa6b1RX5Kfbj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0zlJOlDdsJ6Y14GnPoYGD8) | 3:31 | 2021-11-17 | 2022-07-29 |
 | [WHISTLE \- KR Ver.](https://open.spotify.com/track/67BbMuItfrHmaNqDxBPF7c) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/71QEBJY33oG0l5rqs2kR1c) | 3:32 | 2022-01-03 | 2022-07-16 |
 | [Who Am I](https://open.spotify.com/track/05FIKEv2c1TiKGzx6uK37S) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [MOMENT](https://open.spotify.com/album/5Lfy8FTaRJzo7vMgnwyuOD) | 3:26 | 2021-11-17 | 2022-07-29 |

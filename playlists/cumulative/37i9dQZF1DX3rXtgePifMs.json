@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279810,
+      "name": "Fall Right In",
+      "url": "https://open.spotify.com/track/5NqxYiQuZFRIlhZmNVQEPX"
+    },
+    {
+      "album": {
         "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
         "url": "https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU"
       },
@@ -1300,8 +1318,8 @@
           "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
         },
         {
-          "name": "Tsubaki",
-          "url": "https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx"
+          "name": "tubakiii",
+          "url": "https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1"
         },
         {
           "name": "OZworld",
@@ -1774,6 +1792,24 @@
       "duration_ms": 201047,
       "name": "We Can Be Anything",
       "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
+    },
+    {
+      "album": {
+        "name": "STRUGGLER",
+        "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231240,
+      "name": "What Comes Will Come",
+      "url": "https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT"
     },
     {
       "album": {

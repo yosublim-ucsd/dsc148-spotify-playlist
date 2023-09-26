@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 187900,
+  "num_followers": 188079,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWQ1YTc4YWUwYmQ5YzZiZGY4MDkyNTBhMWY2YmI4NmMzY2ZlYjA0",
+  "snapshot_id": "MCw2OGEwOThjYTU3OTc4ZDIxZGQxNTYyM2MyNGU4ODlmY2RkNmIzZWQ5",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -395,26 +395,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Fade Out (with MKLA)",
-        "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        }
-      ],
-      "duration_ms": 230909,
-      "name": "Fade Out (with MKLA)",
-      "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 222605,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Fade Out (with MKLA)",
+        "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 230909,
+      "name": "Fade Out (with MKLA)",
+      "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "In The Rain",
+        "url": "https://open.spotify.com/album/1dKSdR7wJvaNwbB1cE0Mha"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 239441,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Better (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 182462,
       "name": "Better (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "In The Rain",
-        "url": "https://open.spotify.com/album/1dKSdR7wJvaNwbB1cE0Mha"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 239441,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "On My Knees",
         "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 261001,
       "name": "On My Knees",
       "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Angie (i\u2019ve been lost) [feat. Angie McMahon]",
+      "url": "https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "BRONSON",
         "url": "https://open.spotify.com/album/7zUK6seRiiD2x2HhzOLdrg"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 209600,
       "name": "HEART ATTACK",
       "url": "https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Angie (i\u2019ve been lost) [feat. Angie McMahon]",
-      "url": "https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -955,18 +955,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+      "duration_ms": 203947,
+      "name": "Broken Glass",
+      "url": "https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -987,26 +991,6 @@
       "duration_ms": 183536,
       "name": "Maze",
       "url": "https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 203947,
-      "name": "Broken Glass",
-      "url": "https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1087,6 +1071,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Little Planets - Remix",
+        "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
+      },
+      "artists": [
+        {
+          "name": "RIZ LA VIE",
+          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
+        },
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Little Planets - Remix",
+      "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "To be honest (SG Lewis Remix)",
         "url": "https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en"
       },
@@ -1107,22 +1111,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Little Planets - Remix",
-        "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
+        "name": "I Can Make It",
+        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
       },
       "artists": [
         {
-          "name": "RIZ LA VIE",
-          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
-        },
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Little Planets - Remix",
-      "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
+      "duration_ms": 249012,
+      "name": "I Can Make It",
+      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1147,22 +1147,6 @@
       "duration_ms": 205440,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "I Can Make It",
-        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 249012,
-      "name": "I Can Make It",
-      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1407,6 +1391,26 @@
       "duration_ms": 236400,
       "name": "Can't Do Without You",
       "url": "https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Len\u00e7\u00f3is (Love Me) [Notre Dame Remix]",
+        "url": "https://open.spotify.com/album/1PcJTDyhWQ0zIvl5gbFPfZ"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 304927,
+      "name": "Len\u00e7\u00f3is (Love Me) - Notre Dame Remix",
+      "url": "https://open.spotify.com/track/5eqCFsvNDpNqlRnaq7yYLw"
     }
   ],
   "unique_name": "crying on the dance floor",

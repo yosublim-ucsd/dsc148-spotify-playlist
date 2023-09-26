@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Silvina Moreno",
-  "num_followers": 177883,
+  "num_followers": 177913,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWRmZjg4NDc0MzQ4OTY0ZDU1YTg3Y2YwNjFmNDliMDlkYTAxNDUw",
+  "snapshot_id": "MCxmNjJhOWIxZmJmMTcyOGVhNTdiOGUyMmNhZDI3MTg4ZjllYTVjMTA3",
   "tracks": [
     {
       "added_at": "2023-09-01 03:00:00",
@@ -295,26 +295,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 312442,
-      "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
-      "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
@@ -327,22 +307,6 @@
       "duration_ms": 274586,
       "name": "Un Misil En Mi Placard - MTV Unplugged",
       "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 295160,
-      "name": "Un Pacto - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -363,6 +327,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 295160,
+      "name": "Un Pacto - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Paris Texas",
         "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 240000,
       "name": "siente m\u00e1s",
       "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 312442,
+      "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
+      "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 294146,
-      "name": "Entre Canibales - MTV Unplugged",
-      "url": "https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Plegarias (Ac\u00fastico Premios Gardel 2020)",
         "url": "https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 179393,
       "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
       "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 294146,
+      "name": "Entre Canibales - MTV Unplugged",
+      "url": "https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Pu\u00f1al",
+        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Soltar",
+      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "El Ruise\u00f1or, el Amor y la Muerte",
         "url": "https://open.spotify.com/album/18XJ0o0XkXC6K9OZTilVfN"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 171573,
       "name": "El Callej\u00f3n de los Milagros",
       "url": "https://open.spotify.com/track/0KAEdRme7EioqZPD2dQlj1"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Pu\u00f1al",
-        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Soltar",
-      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "No me pidas que no sea un inconsciente",
-        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        }
-      ],
-      "duration_ms": 133859,
-      "name": "No me pidas que no sea un inconsciente",
-      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "T\u00fa Ve",
         "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 208289,
       "name": "A Little Respect",
       "url": "https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "No me pidas que no sea un inconsciente",
+        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        }
+      ],
+      "duration_ms": 133859,
+      "name": "No me pidas que no sea un inconsciente",
+      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "M\u00e1gica",
-        "url": "https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 136132,
-      "name": "M\u00e1gica",
-      "url": "https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Tributo A Los Fabulosos Cadillacs",
         "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 321433,
       "name": "Vasos Vac\u00edos",
       "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "M\u00e1gica",
+        "url": "https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 136132,
+      "name": "M\u00e1gica",
+      "url": "https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+        "name": "Tren Al Sur",
+        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
       },
       "artists": [
         {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Arrancacorazones - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul"
+      "duration_ms": 235982,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

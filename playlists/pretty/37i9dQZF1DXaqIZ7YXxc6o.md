@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: BIG WETT
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,486 likes - 104 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,527 likes - 104 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 5 | [Fall Right Back To You](https://open.spotify.com/track/5yiB7R5WclJUQT7GV0sr3n) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/album/5NLqeErirxjepCcE7uvrLT) | 4:06 |
 | 6 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 |
 | 7 | [Feel Good](https://open.spotify.com/track/4gIqcguWXG18Q3z9jikCHC) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Feel Good](https://open.spotify.com/album/3PqAyJinIE6pmgVcV8Vw5U) | 2:51 |
-| 8 | [And We \(Official Remix\)](https://open.spotify.com/track/57vSwos5T22v9sGqNWJuy7) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We \(NRG Official Remix\)](https://open.spotify.com/album/2pq08blBD7IqCUPxBTRt5Z) | 3:01 |
+| 8 | [And We \(NRG Official Remix\)](https://open.spotify.com/track/57vSwos5T22v9sGqNWJuy7) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [And We \(NRG Official Remix\)](https://open.spotify.com/album/2pq08blBD7IqCUPxBTRt5Z) | 3:01 |
 | 9 | [Hold On To Now](https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 3:57 |
 | 10 | [Frauds \(DJ Plead Remix\)](https://open.spotify.com/track/5YgBTwMX7M1w6DZ7Ak4JOD) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg) | [Frauds \(Reworked\)](https://open.spotify.com/album/6QnPjjXrL8PBfwJHxtqSdm) | 3:28 |
 | 11 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 103 | [We Could Be Love](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [We Could Be Love](https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z) | 3:09 |
 | 104 | [Oblivion Is Bliss](https://open.spotify.com/track/0EDZZavyZyH83xRxP9A34p) | [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR), [Merzost](https://open.spotify.com/artist/3fqgA6t6v53Ni8BJNDyQd2) | [Oblivion Is Bliss](https://open.spotify.com/album/311DWvlGaRfNjDVDWuNohM) | 2:11 |
 
-Snapshot ID: `MCwwOTgxZWYwNTdjMDVjYjg3ZmZmNGQ1NWQ5NzNmZDAzODQxZmU4NjI2`
+Snapshot ID: `MCxhNDM1MDJhNmM0NzQxZWI0MjQ1YzRjNzk5MDU4M2M5ZDc0NTQyYTJl`

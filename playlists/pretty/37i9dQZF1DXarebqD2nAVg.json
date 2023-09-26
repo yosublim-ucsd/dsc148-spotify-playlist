@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 439551,
+  "num_followers": 439625,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzVkYWI0N2E2YmFkMjkzZjllZTI0NzJkY2U1MzdmNWVmMjZiNDI3",
+  "snapshot_id": "MCxkNzZhZjlhNDE1NDE2NTgyZTE0YmZiOGFhYWUwYzRmMTliNzQ1Zjc4",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "[oops]",
-        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 142182,
-      "name": "[oops]",
-      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "I Don't Sleep",
         "url": "https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 97050,
       "name": "You're in My Head",
       "url": "https://open.spotify.com/track/6xLeyTBwtgC1hQWFJ1vlC2"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "[oops]",
+        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 142182,
+      "name": "[oops]",
+      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP"
-      },
-      "artists": [
-        {
-          "name": "Harris Cole",
-          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
-        }
-      ],
-      "duration_ms": 171627,
-      "name": "Louie's Lullaby",
-      "url": "https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 147474,
       "name": "Memories Fade",
       "url": "https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP"
+      },
+      "artists": [
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "Louie's Lullaby",
+      "url": "https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71"
     },
     {
       "added_at": "2023-02-16 22:50:07",

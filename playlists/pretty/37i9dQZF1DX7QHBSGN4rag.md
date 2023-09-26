@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain]
 
 > 如果愛是不同形狀組成的密碼，八個女孩子便會有八組不同的愛的密碼！
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,298 likes - 25 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,297 likes - 25 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain]
 | 24 | [2084](https://open.spotify.com/track/6pJT4f6S8GPQ7hWCDvygrN) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [2084](https://open.spotify.com/album/2j3mX8c4hex5NmMlL4x7g4) | 5:16 |
 | 25 | [我的秘密 \(MySecret\)](https://open.spotify.com/track/04colE4oJt50AHwFhrT57v) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [MySecret](https://open.spotify.com/album/2ZkF6zANeekBDgwMFGLIlf) | 4:08 |
 
-Snapshot ID: `MCwwNDdiMDBjOTIyNzhjNmNmNjZkOGQzNGFhY2JjZTYwMjY4YjA3OTlk`
+Snapshot ID: `MCxlZjYzZjA2NTQ4ZTJkNWM2OGE5YzhiM2QwZjBmNjk0YmYyMTQzMGNi`

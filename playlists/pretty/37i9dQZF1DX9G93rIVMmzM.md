@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > seduced in the shadows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921 likes - 52 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,682 likes - 52 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 |
-| 2 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
+| 2 | [Closer](https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 6:13 |
 | 3 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 |
-| 4 | [Make Me Bad](https://open.spotify.com/track/286ek1kspX7VFaheXFSvPk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:55 |
-| 5 | [Weak And Powerless](https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 3:15 |
-| 6 | [Closer](https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 6:13 |
-| 7 | [What do you want from me?](https://open.spotify.com/track/5vf08i7oQHGPKFAkSxJBcv) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 2:55 |
+| 4 | [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:47 |
+| 5 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
+| 6 | [Weak And Powerless](https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 3:15 |
+| 7 | [Make Me Bad](https://open.spotify.com/track/286ek1kspX7VFaheXFSvPk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:55 |
 | 8 | [Sun Killer](https://open.spotify.com/track/2glEXDEzubpETiDRXfC4oX) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:47 |
-| 9 | [Is It Really You?](https://open.spotify.com/track/4OmlsAT8r4q9vPFBvfYgyZ) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [I Let It in and It Took Everything](https://open.spotify.com/album/6nUUV3haj8ug8okTmOyIU2) | 4:47 |
-| 10 | [Chokehold](https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Chokehold](https://open.spotify.com/album/7kU4ySCd35MaGnS93a6AMl) | 5:04 |
-| 11 | [Gaunt](https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Gaunt](https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs) | 3:29 |
-| 12 | [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:47 |
+| 9 | [What do you want from me?](https://open.spotify.com/track/5vf08i7oQHGPKFAkSxJBcv) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 2:55 |
+| 10 | [Is It Really You?](https://open.spotify.com/track/4OmlsAT8r4q9vPFBvfYgyZ) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [I Let It in and It Took Everything](https://open.spotify.com/album/6nUUV3haj8ug8okTmOyIU2) | 4:47 |
+| 11 | [Chokehold](https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Chokehold](https://open.spotify.com/album/7kU4ySCd35MaGnS93a6AMl) | 5:04 |
+| 12 | [Gaunt](https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Gaunt](https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs) | 3:29 |
 | 13 | [Lithium](https://open.spotify.com/track/5YaLFRpqpUzgLLDcukNn0H) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:44 |
 | 14 | [Vermilion, Pt\. 2](https://open.spotify.com/track/0O7lENhqOySbsL743G7PqD) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 3:44 |
 | 15 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 51 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 |
 | 52 | [Knees](https://open.spotify.com/track/49WaJosNna7DBveejaBjra) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Healing Is Not Linear](https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0) | 3:08 |
 
-Snapshot ID: `MCw1Y2EzYTc0ZWQ2YzgwZjdjYWUwN2FiYTg4NGRmYWE0YmRjZDVjMTAy`
+Snapshot ID: `MCxmMDM4MDk5NjUyZjNjMjU4ZGM4MzYxNzBiZjAxNjIxYzFlZDUxOGFm`

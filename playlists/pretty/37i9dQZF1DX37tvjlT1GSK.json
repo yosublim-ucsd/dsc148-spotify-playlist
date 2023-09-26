@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Becky G en portada. ",
-  "num_followers": 742334,
+  "num_followers": 742394,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjJmNzk1YTVmMzBiZjVlNGU3YzdiN2YyMGI5MWNiNWUzZTgzZmRi",
+  "snapshot_id": "MCwyNWY3OGQzMTlhNzFjZGM1MTYzZWVhZjA4NzBkYWIwMjVhM2UzMmYx",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -307,6 +307,42 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "EL HECHIZO",
+        "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 167988,
+      "name": "EL HECHIZO",
+      "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 239845,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Dijeron Que No La Iba Lograr",
         "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
       },
@@ -343,22 +379,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "EL HECHIZO",
-        "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
+        "name": "Corridos Tumbados",
+        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
       },
       "artists": [
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 167988,
-      "name": "EL HECHIZO",
-      "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
+      "duration_ms": 259402,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -375,58 +407,6 @@
       "duration_ms": 140983,
       "name": "Me Acostumbre A Lo Bueno",
       "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Tony Melendez",
-          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
-        }
-      ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Por las Noches",
-        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 239845,
-      "name": "Por las Noches",
-      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Corridos Tumbados",
-        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 259402,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -451,6 +431,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Tony Melendez",
+          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
+        }
+      ],
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Ya Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
       },
@@ -467,26 +467,6 @@
       "duration_ms": 177666,
       "name": "Ya Coraz\u00f3n",
       "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 172360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -523,6 +503,42 @@
       "duration_ms": 163551,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 172360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 225152,
+      "name": "Como Jordan",
+      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -579,6 +595,42 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 154760,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "No Le Aflojo",
         "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
       },
@@ -595,38 +647,6 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 225152,
-      "name": "Como Jordan",
-      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 154760,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -667,6 +687,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Cruisin' with Junior H",
+        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 235858,
+      "name": "Se Amerita",
+      "url": "https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -679,26 +715,6 @@
       "duration_ms": 213999,
       "name": "Soy El Unico",
       "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -759,22 +775,6 @@
       "duration_ms": 136120,
       "name": "La Bolsa Gucci",
       "url": "https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Cruisin' with Junior H",
-        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 235858,
-      "name": "Se Amerita",
-      "url": "https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/6o7M6eInloIKefh7YsXEJR"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
-        }
-      ],
-      "duration_ms": 199147,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Obsessed Pt. 2",
         "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 197365,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/6o7M6eInloIKefh7YsXEJR"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        }
+      ],
+      "duration_ms": 199147,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Las Preferidas, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 182909,
-      "name": "El Rapido",
-      "url": "https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Los Envidiosos",
         "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 234189,
       "name": "Falso",
       "url": "https://open.spotify.com/track/7FF8AgGRyOzjKQ4SpTVJ7D"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Las Preferidas, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 182909,
+      "name": "El Rapido",
+      "url": "https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+        "name": "Noches De Verano",
+        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
         }
       ],
-      "duration_ms": 187440,
-      "name": "Si Tu Te Fueras De Mi",
-      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
+      "duration_ms": 158000,
+      "name": "Efecto Al Corazon",
+      "url": "https://open.spotify.com/track/467uh81a8AkjzFd77ly5M0"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Noches De Verano",
-        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
       },
       "artists": [
         {
-          "name": "Proximo Nivel",
-          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Efecto Al Corazon",
-      "url": "https://open.spotify.com/track/467uh81a8AkjzFd77ly5M0"
+      "duration_ms": 187440,
+      "name": "Si Tu Te Fueras De Mi",
+      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Y Yo Voy",
-        "url": "https://open.spotify.com/album/7qnA2gzuQmvSI07ddFCiIu"
-      },
-      "artists": [
-        {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
-        }
-      ],
-      "duration_ms": 177534,
-      "name": "Y Yo Voy",
-      "url": "https://open.spotify.com/track/1ld0TsEKmNTl3FptSEu0dI"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Ando Triste",
         "url": "https://open.spotify.com/album/0QGvhNBMCUs4UKSyHUSdyW"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 163750,
       "name": "GPI",
       "url": "https://open.spotify.com/track/2kDAwCfoTqKQePz2ZZEGdm"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Y Yo Voy",
+        "url": "https://open.spotify.com/album/7qnA2gzuQmvSI07ddFCiIu"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 177534,
+      "name": "Y Yo Voy",
+      "url": "https://open.spotify.com/track/1ld0TsEKmNTl3FptSEu0dI"
     },
     {
       "added_at": "2023-09-15 04:00:00",

@@ -446,7 +446,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 229045,
       "name": "3002",
       "url": "https://open.spotify.com/track/1f6IgwFxZE3NcNFgajuJMK"
@@ -3035,6 +3035,32 @@
     },
     {
       "album": {
+        "name": "B\u1ec1 N\u1ed5i",
+        "url": "https://open.spotify.com/album/2kvYXvTZIjRXQGU4MQTE3G"
+      },
+      "artists": [
+        {
+          "name": "72 LSixxk",
+          "url": "https://open.spotify.com/artist/31La8rNfuKxE85xDcw6yB8"
+        },
+        {
+          "name": "Boned",
+          "url": "https://open.spotify.com/artist/4vrbDOYJD87WWpgwKs2b2p"
+        },
+        {
+          "name": "Eoauci",
+          "url": "https://open.spotify.com/artist/1Jd3KvJDwaEjFgLkq8s0dh"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "B\u1ec1 N\u1ed5i",
+      "url": "https://open.spotify.com/track/3K91ZqCfDUwiYr4ZvGDBY7"
+    },
+    {
+      "album": {
         "name": "B\u1ed1n B\u1ee9c T\u01b0\u1eddng",
         "url": "https://open.spotify.com/album/4RNp6hEWoDeDXh8PTKXdik"
       },
@@ -4944,7 +4970,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 197642,
       "name": "Collective",
       "url": "https://open.spotify.com/track/2jBUhjzQubI0r2129rxh5U"
@@ -6248,7 +6274,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 202669,
       "name": "C\u1ee8 TH\u1ebe \u0110I",
       "url": "https://open.spotify.com/track/445d1lEPCVVIcnh1AQmaoj"
@@ -7152,7 +7178,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 147368,
       "name": "Em b\u00e9 cookie",
       "url": "https://open.spotify.com/track/7ev8itwV9go3mIvA26w3r4"
@@ -8569,6 +8595,24 @@
     },
     {
       "album": {
+        "name": "Se7enth5en2e Mixtape",
+        "url": "https://open.spotify.com/album/1v9pjcrIEcuBahVYwaJ2ST"
+      },
+      "artists": [
+        {
+          "name": "RICK",
+          "url": "https://open.spotify.com/artist/6Yn4MreaTnwOoahPtGExW4"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240651,
+      "name": "GI\u00c1C QUAN TH\u1ee8 7",
+      "url": "https://open.spotify.com/track/3Y41hKIzA8OPOGrfYFBLvT"
+    },
+    {
+      "album": {
         "name": "Gi\u00f3 (Official)",
         "url": "https://open.spotify.com/album/1N6qUEJau1cE4DJ7PRKnGg"
       },
@@ -9300,6 +9344,40 @@
       "duration_ms": 130975,
       "name": "HIPPU",
       "url": "https://open.spotify.com/track/0s4Cbhk9kKpfrVu2jzuSzc"
+    },
+    {
+      "album": {
+        "name": "M\u1ed9ng M\u01a1 v\u00e0 L\u00e3ng Qu\u00ean",
+        "url": "https://open.spotify.com/album/6X9xHmutgGUqnSanIYjR7Y"
+      },
+      "artists": [
+        {
+          "name": "Do\u00e3n Ho\u00e0i Nam",
+          "url": "https://open.spotify.com/artist/67ClgdSWviDqQOKMsDz1WP"
+        },
+        {
+          "name": "M\u1ea1c Mai S\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/7fMznGrNJs6H2kZbiqDPgE"
+        },
+        {
+          "name": "Ph\u1ea1m H\u1ea3i \u0110\u0103ng",
+          "url": "https://open.spotify.com/artist/5yNJC1YYeDMH8g5P6uFugH"
+        },
+        {
+          "name": "L\u01b0\u01a1ng Nguy\u1ec7t Di\u1ec7u",
+          "url": "https://open.spotify.com/artist/3n2zcHhMajRaPywFvzFwvR"
+        },
+        {
+          "name": "Jay Nguyen",
+          "url": "https://open.spotify.com/artist/60vfqKOOQaTHoMGI9BdDTq"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178940,
+      "name": "Hoa",
+      "url": "https://open.spotify.com/track/0Emy83bYCc274EyKJiNXxy"
     },
     {
       "album": {
@@ -12787,6 +12865,24 @@
     },
     {
       "album": {
+        "name": "Make A Hit",
+        "url": "https://open.spotify.com/album/4tY3gJjZFlsELw0OTG2z6d"
+      },
+      "artists": [
+        {
+          "name": "Queen B",
+          "url": "https://open.spotify.com/artist/5gfQbUvWUkA77GzQudtMpZ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209790,
+      "name": "Make A Hit",
+      "url": "https://open.spotify.com/track/3fNslARwgEr03kpQFoThYl"
+    },
+    {
+      "album": {
         "name": "Make Up",
         "url": "https://open.spotify.com/album/1gVNnGp38sQjdOQYtfjUME"
       },
@@ -13542,7 +13638,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 173771,
       "name": "M\u00e0y tao",
       "url": "https://open.spotify.com/track/3oNyiw07Fsij41SwcBsHse"
@@ -15236,7 +15332,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 273230,
       "name": "Ng\u1ed3i Nh\u00ecn Em Kh\u00f3c",
       "url": "https://open.spotify.com/track/1wvLeW8THXNent0N2sGSgF"
@@ -15905,6 +16001,24 @@
     },
     {
       "album": {
+        "name": "noiemnghe",
+        "url": "https://open.spotify.com/album/2fxwjBmOyIics0eTu2uPeE"
+      },
+      "artists": [
+        {
+          "name": "NP.2",
+          "url": "https://open.spotify.com/artist/0FqdaYWdo1r4esDdZ4wA8n"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "noiemnghe",
+      "url": "https://open.spotify.com/track/57Rih8cHYr3gbJ7iNMLgrU"
+    },
+    {
+      "album": {
         "name": "NOIVOIANH",
         "url": "https://open.spotify.com/album/1Bgk336Ij6myaDodxkywSr"
       },
@@ -16568,6 +16682,28 @@
       "duration_ms": 142375,
       "name": "ON YOU",
       "url": "https://open.spotify.com/track/2L6uWjXkP6c8TI0nL2jZvh"
+    },
+    {
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/4WyKu8M55pa1UvWeuyLbdb"
+      },
+      "artists": [
+        {
+          "name": "NAMVEE",
+          "url": "https://open.spotify.com/artist/0Xdh4oLzLFDUuUwhuRmv6g"
+        },
+        {
+          "name": "KAIEN",
+          "url": "https://open.spotify.com/artist/2kJwYtg4dmJ3yOY1OQcp2j"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133892,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/4n2x9QJgafRN8Vj49pQqf2"
     },
     {
       "album": {
@@ -18630,7 +18766,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 162421,
       "name": "STAR",
       "url": "https://open.spotify.com/track/5OP3g7opaZvWn6fvypHrT6"
@@ -22945,6 +23081,24 @@
     },
     {
       "album": {
+        "name": "V\u1ea5n V\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/6aCjFFW9hu5OEpDzoaIpQP"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/4WrHN2kQ4tWMN0twrkKA7q"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215182,
+      "name": "V\u1ea5n V\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/2JkIw0w4Hev1g4TBhobvqP"
+    },
+    {
+      "album": {
         "name": "V\u1eabn ch\u01b0a \u0111\u1ebfn l\u00fac",
         "url": "https://open.spotify.com/album/61U5TndnJGyNdQ87B74ZYk"
       },
@@ -23720,6 +23874,24 @@
       "duration_ms": 284728,
       "name": "Xin \u0110\u01b0\u1ee3c Ph\u00e9p",
       "url": "https://open.spotify.com/track/2rhgT7eLB7QgO2fLsqHlyt"
+    },
+    {
+      "album": {
+        "name": "Xinh Nh\u1eadt",
+        "url": "https://open.spotify.com/album/2Ak69RFidVNREfXVxipP31"
+      },
+      "artists": [
+        {
+          "name": "Vang",
+          "url": "https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182431,
+      "name": "Xinh Nh\u1eadt",
+      "url": "https://open.spotify.com/track/4UOtjFtKytdg9Io6aqo45X"
     },
     {
       "album": {
@@ -25984,7 +26156,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 203993,
       "name": "\u1ede Trong Em",
       "url": "https://open.spotify.com/track/0s0miHlc60MwKktiRgY9SQ"

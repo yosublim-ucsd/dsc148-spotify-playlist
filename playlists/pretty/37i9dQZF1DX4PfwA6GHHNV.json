@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil",
-  "num_followers": 11037,
+  "num_followers": 11064,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDBmMmIwZWI5NjA2OWIwMGFlM2NjMDU5YjEwNTczYWY3Y2UxN2Q2",
+  "snapshot_id": "MCw5OTdhNmJjNDJjNjUxZTFiZjM0MzgzM2UyOTI3MzVlZDM3Y2Q2YjJm",
   "tracks": [
     {
       "added_at": "2023-09-22 03:01:00",
@@ -171,30 +171,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Levado - Spotify Singles",
-        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rennan Guerra",
-          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
-        },
-        {
-          "name": "Patrick Laplan",
-          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
-        }
-      ],
-      "duration_ms": 175922,
-      "name": "Levado - Spotify Singles",
-      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "AluSina",
         "url": "https://open.spotify.com/album/3dNOgfJ2zEpqt2ablgMG4C"
       },
@@ -227,6 +203,30 @@
       "duration_ms": 145454,
       "name": "em santa",
       "url": "https://open.spotify.com/track/5TGZX3PqtdyIXKMS3GapxW"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Levado - Spotify Singles",
+        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Rennan Guerra",
+          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
+        },
+        {
+          "name": "Patrick Laplan",
+          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
+        }
+      ],
+      "duration_ms": 175922,
+      "name": "Levado - Spotify Singles",
+      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Inten\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
+      },
+      "artists": [
+        {
+          "name": "Teresa",
+          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
+        },
+        {
+          "name": "Ramiroquai Beats",
+          "url": "https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU"
+        }
+      ],
+      "duration_ms": 135625,
+      "name": "Inten\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Hipnose",
         "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
       },
@@ -547,42 +567,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "VxRxS",
-        "url": "https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6"
-      },
-      "artists": [
-        {
-          "name": "V\u00edrus",
-          "url": "https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv"
-        }
-      ],
-      "duration_ms": 90618,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Inten\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
-      },
-      "artists": [
-        {
-          "name": "Teresa",
-          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
-        },
-        {
-          "name": "Ramiroquai Beats",
-          "url": "https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU"
-        }
-      ],
-      "duration_ms": 135625,
-      "name": "Inten\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "COLADINHO",
         "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
       },
@@ -603,6 +587,46 @@
       "duration_ms": 152079,
       "name": "COLADINHO",
       "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "VxRxS",
+        "url": "https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6"
+      },
+      "artists": [
+        {
+          "name": "V\u00edrus",
+          "url": "https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv"
+        }
+      ],
+      "duration_ms": 90618,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Nem Me Beijou",
+        "url": "https://open.spotify.com/album/1mKB7qlzATgaGbU1bq11if"
+      },
+      "artists": [
+        {
+          "name": "Marvyn",
+          "url": "https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU"
+        },
+        {
+          "name": "Naldo Benny",
+          "url": "https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU"
+        },
+        {
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
+        }
+      ],
+      "duration_ms": 193768,
+      "name": "Nem Me Beijou",
+      "url": "https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -631,30 +655,6 @@
       "duration_ms": 156781,
       "name": "Compasso",
       "url": "https://open.spotify.com/track/6NnlPOIrYoKhYfiJzDTNNd"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Nem Me Beijou",
-        "url": "https://open.spotify.com/album/1mKB7qlzATgaGbU1bq11if"
-      },
-      "artists": [
-        {
-          "name": "Marvyn",
-          "url": "https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU"
-        },
-        {
-          "name": "Naldo Benny",
-          "url": "https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU"
-        },
-        {
-          "name": "BM Ally",
-          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
-        }
-      ],
-      "duration_ms": 193768,
-      "name": "Nem Me Beijou",
-      "url": "https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "AMOR \u00c9 ARTE (DELUXE)",
-        "url": "https://open.spotify.com/album/3b0seNILUwFDSugWj6CpCB"
-      },
-      "artists": [
-        {
-          "name": "MARTTE",
-          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
-        },
-        {
-          "name": "tal do dias",
-          "url": "https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD"
-        }
-      ],
-      "duration_ms": 188738,
-      "name": "IMAGINA",
-      "url": "https://open.spotify.com/track/5ZtyZDWL1HGtLhFQpGC0PD"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "S\u00f3 Sei Falar de Amor",
         "url": "https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 151304,
       "name": "Amor e Paz",
       "url": "https://open.spotify.com/track/0LHKT3P0wMRL8zD4V7BAEb"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "AMOR \u00c9 ARTE (DELUXE)",
+        "url": "https://open.spotify.com/album/3b0seNILUwFDSugWj6CpCB"
+      },
+      "artists": [
+        {
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
+        },
+        {
+          "name": "tal do dias",
+          "url": "https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD"
+        }
+      ],
+      "duration_ms": 188738,
+      "name": "IMAGINA",
+      "url": "https://open.spotify.com/track/5ZtyZDWL1HGtLhFQpGC0PD"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
+      },
+      "artists": [
+        {
+          "name": "D'Castelo",
+          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
+        },
+        {
+          "name": "BRUNNOASH",
+          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
+        }
+      ],
+      "duration_ms": 220389,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Incertezas",
         "url": "https://open.spotify.com/album/3xjeeEaGOriHi8XUMRt3bn"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 156600,
       "name": "Incertezas",
       "url": "https://open.spotify.com/track/5Id3vKSAubS0XxJMg1g3xx"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
-      },
-      "artists": [
-        {
-          "name": "D'Castelo",
-          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
-        },
-        {
-          "name": "BRUNNOASH",
-          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
-        }
-      ],
-      "duration_ms": 220389,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -971,6 +971,38 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Deixa Falar",
+        "url": "https://open.spotify.com/album/3dHxbFlLTseVIyhHyusGqu"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Deixa Falar",
+      "url": "https://open.spotify.com/track/0FiYoFSKLu3UgbmfR6i0Ph"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Anos Luz",
+        "url": "https://open.spotify.com/album/3ODbaa0vBZtfyZXaNFGgxy"
+      },
+      "artists": [
+        {
+          "name": "Karen Francis",
+          "url": "https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Pele Prata",
+      "url": "https://open.spotify.com/track/0lUC1F84DG4m4UIdsAsn5T"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Me Deixa",
         "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
       },
@@ -991,22 +1023,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Deixa Falar",
-        "url": "https://open.spotify.com/album/3dHxbFlLTseVIyhHyusGqu"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Deixa Falar",
-      "url": "https://open.spotify.com/track/0FiYoFSKLu3UgbmfR6i0Ph"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Arrepios",
         "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 205000,
       "name": "Arrepios",
       "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Anos Luz",
-        "url": "https://open.spotify.com/album/3ODbaa0vBZtfyZXaNFGgxy"
-      },
-      "artists": [
-        {
-          "name": "Karen Francis",
-          "url": "https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Pele Prata",
-      "url": "https://open.spotify.com/track/0lUC1F84DG4m4UIdsAsn5T"
     },
     {
       "added_at": "2023-09-22 03:01:00",

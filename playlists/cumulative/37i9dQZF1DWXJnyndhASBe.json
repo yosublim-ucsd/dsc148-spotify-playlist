@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 185142,
       "name": "Anio\u0142",
       "url": "https://open.spotify.com/track/3NLM8pSlBATBXG2TswsXDN"
@@ -231,6 +231,32 @@
     },
     {
       "album": {
+        "name": "1-800-O\u015aWIECENIE",
+        "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
+      },
+      "artists": [
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "Zeppy Zep",
+          "url": "https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194610,
+      "name": "Cichosza",
+      "url": "https://open.spotify.com/track/3kjMeY6ZgOZYAFRiPHMqmS"
+    },
+    {
+      "album": {
         "name": "COLOSSEUM",
         "url": "https://open.spotify.com/album/0wq5kKpVAGKAgvERJbGlXG"
       },
@@ -345,6 +371,32 @@
     },
     {
       "album": {
+        "name": "Dawaj ten sos",
+        "url": "https://open.spotify.com/album/5zOBRjPuCCQ0J0Iqdx6FBn"
+      },
+      "artists": [
+        {
+          "name": "Miszel",
+          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+        },
+        {
+          "name": "Alberto",
+          "url": "https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni"
+        },
+        {
+          "name": "Premixm",
+          "url": "https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "Dawaj ten sos",
+      "url": "https://open.spotify.com/track/2Px76pOZiCjIYAph4hftIg"
+    },
+    {
+      "album": {
         "name": "STYXXX",
         "url": "https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7"
       },
@@ -382,7 +434,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 195463,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/5J8YMg4sdC4aRHjhumCrdc"
@@ -506,6 +558,28 @@
       "duration_ms": 296793,
       "name": "Hotel Maffija 3",
       "url": "https://open.spotify.com/track/4pjhE3Avv9UuZAfhF9JXgw"
+    },
+    {
+      "album": {
+        "name": "JEREMY SOCHAN",
+        "url": "https://open.spotify.com/album/1joqopmcT1uPuuXoQLvzVw"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "bvdy47",
+          "url": "https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145984,
+      "name": "JEREMY SOCHAN",
+      "url": "https://open.spotify.com/track/2WBejVahXeC1gjCXVOlgbq"
     },
     {
       "album": {
@@ -1008,10 +1082,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 170986,
       "name": "RYSY",
       "url": "https://open.spotify.com/track/6d2W4tWQGGhhnJe4zddAUi"
+    },
+    {
+      "album": {
+        "name": "SAFE",
+        "url": "https://open.spotify.com/album/5rzQB82IYueZ2BQXjNPYWl"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204798,
+      "name": "SAFE",
+      "url": "https://open.spotify.com/track/6nte3xu43Nzu8AyePDtiJN"
     },
     {
       "album": {
@@ -1126,7 +1218,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 135211,
       "name": "TOP BOY",
       "url": "https://open.spotify.com/track/3scqNOemrtRMZA3mGEpDS6"

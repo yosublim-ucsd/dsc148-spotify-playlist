@@ -504,7 +504,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 318053,
       "name": "Costa del Soul",
       "url": "https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 241306,
       "name": "Givin\u2019 It Up",
       "url": "https://open.spotify.com/track/31gDZG7i3ui4oLmWnhN0mG"
@@ -1374,6 +1374,40 @@
       "duration_ms": 207416,
       "name": "Le Marais",
       "url": "https://open.spotify.com/track/61VdFwwPfRbgvPiVe1gQjJ"
+    },
+    {
+      "album": {
+        "name": "Le Tour d'Amour",
+        "url": "https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8"
+      },
+      "artists": [
+        {
+          "name": "Boulevard Pacific",
+          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
+        },
+        {
+          "name": "Thomas Darelid",
+          "url": "https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ"
+        },
+        {
+          "name": "Henrik Janson",
+          "url": "https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED"
+        },
+        {
+          "name": "Jenny Kristoffersson",
+          "url": "https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy"
+        },
+        {
+          "name": "Per Lindvall",
+          "url": "https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "Le Tour d'Amour",
+      "url": "https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn"
     },
     {
       "album": {
@@ -1918,7 +1952,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 266960,
       "name": "Old School",
       "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"

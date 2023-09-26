@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 386423,
+  "num_followers": 386536,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmI1NjZlODRkMjJhOTAzMTk3Mjg4NmRiMzIxYzI4OWViNzQ1NjM1",
+  "snapshot_id": "MCxhZjU1MmViNGY2NThiNWYyYzk4OWEyMDU0NWE5Y2ExZGIzNDFhZWMw",
   "tracks": [
     {
       "added_at": "2023-09-20 14:48:25",
@@ -131,6 +131,22 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
+        "name": "42nd Street Shuffle",
+        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "duration_ms": 259786,
+      "name": "42nd Street Shuffle",
+      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
+    },
+    {
+      "added_at": "2023-09-20 14:48:25",
+      "album": {
         "name": "Mondenkind",
         "url": "https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 277968,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/7IYXZHYRWyhaKwoZGHckkM"
-    },
-    {
-      "added_at": "2023-09-20 14:48:25",
-      "album": {
-        "name": "42nd Street Shuffle",
-        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
-      },
-      "artists": [
-        {
-          "name": "Rikard From",
-          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
-        }
-      ],
-      "duration_ms": 259786,
-      "name": "42nd Street Shuffle",
-      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
-        "name": "End of Summer",
-        "url": "https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ"
+        "name": "Ballad for K",
+        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
       },
       "artists": [
         {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+          "name": "Ruhi Erdogan",
+          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
         }
       ],
-      "duration_ms": 235773,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp"
+      "duration_ms": 235360,
+      "name": "Ballad for K",
+      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
-        "name": "Ballad for K",
-        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
+        "name": "End of Summer",
+        "url": "https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ"
       },
       "artists": [
         {
-          "name": "Ruhi Erdogan",
-          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
         }
       ],
-      "duration_ms": 235360,
-      "name": "Ballad for K",
-      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
+      "duration_ms": 235773,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
-    },
-    {
-      "added_at": "2023-09-20 14:48:25",
-      "album": {
         "name": "Cloud 10",
         "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
-        "name": "Via de la Plata",
-        "url": "https://open.spotify.com/album/4nwGWXjKct2mSfGjQQcbYI"
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
       },
       "artists": [
         {
-          "name": "Daniel Garc\u00eda Trio",
-          "url": "https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Spring of Life",
-      "url": "https://open.spotify.com/track/1jfeTu7iQd0vhGSXJ1FEjw"
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -687,22 +671,6 @@
       "duration_ms": 334925,
       "name": "Hopeful Morning",
       "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
-    },
-    {
-      "added_at": "2023-09-20 14:48:25",
-      "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 393000,
-      "name": "Softly As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -739,18 +707,18 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
+        "name": "Via de la Plata",
+        "url": "https://open.spotify.com/album/4nwGWXjKct2mSfGjQQcbYI"
       },
       "artists": [
         {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+          "name": "Daniel Garc\u00eda Trio",
+          "url": "https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP"
         }
       ],
-      "duration_ms": 319706,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
+      "duration_ms": 215200,
+      "name": "Spring of Life",
+      "url": "https://open.spotify.com/track/1jfeTu7iQd0vhGSXJ1FEjw"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -767,6 +735,38 @@
       "duration_ms": 397173,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey"
+    },
+    {
+      "added_at": "2023-09-20 14:48:25",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 393000,
+      "name": "Softly As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
+    },
+    {
+      "added_at": "2023-09-20 14:48:25",
+      "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 319706,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
-        "name": "Sun Khosi",
-        "url": "https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb"
+        "name": "Flotten",
+        "url": "https://open.spotify.com/album/3OxWm6cNSa63awGmVV9WwU"
       },
       "artists": [
         {
-          "name": "Ruby Rushton",
-          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
+          "name": "Tingvall Trio",
+          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
         }
       ],
-      "duration_ms": 236886,
-      "name": "Sun Khosi",
-      "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
+      "duration_ms": 288664,
+      "name": "Flotten",
+      "url": "https://open.spotify.com/track/0Cni65EmkblPcDDM6f1Nwd"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
-        "name": "Flotten",
-        "url": "https://open.spotify.com/album/3OxWm6cNSa63awGmVV9WwU"
+        "name": "Sun Khosi",
+        "url": "https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb"
       },
       "artists": [
         {
-          "name": "Tingvall Trio",
-          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
+          "name": "Ruby Rushton",
+          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
         }
       ],
-      "duration_ms": 288664,
-      "name": "Flotten",
-      "url": "https://open.spotify.com/track/0Cni65EmkblPcDDM6f1Nwd"
+      "duration_ms": 236886,
+      "name": "Sun Khosi",
+      "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -883,22 +883,6 @@
       "duration_ms": 358853,
       "name": "Pure Imagination",
       "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
-    },
-    {
-      "added_at": "2023-09-20 14:48:25",
-      "album": {
-        "name": "On the Second Day",
-        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8rgen Emborg",
-          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
-        }
-      ],
-      "duration_ms": 272794,
-      "name": "On The Second Day",
-      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
-        "name": "Homeward Bound",
-        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
+        "name": "On the Second Day",
+        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
       },
       "artists": [
         {
-          "name": "Johnathan Blake",
-          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+          "name": "J\u00f8rgen Emborg",
+          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
         }
       ],
-      "duration_ms": 204733,
-      "name": "Abiyoyo",
-      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
+      "duration_ms": 272794,
+      "name": "On The Second Day",
+      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -1007,34 +991,18 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
-        "name": "Waltz for Hal Willner",
-        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+        "name": "Homeward Bound",
+        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
       "artists": [
         {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
         }
       ],
-      "duration_ms": 167906,
-      "name": "Waltz for Hal Willner",
-      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
-    },
-    {
-      "added_at": "2023-09-20 14:48:25",
-      "album": {
-        "name": "Relations",
-        "url": "https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd"
-      },
-      "artists": [
-        {
-          "name": "Martin Brandqvist Quartet",
-          "url": "https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7"
-        }
-      ],
-      "duration_ms": 298423,
-      "name": "Ginge",
-      "url": "https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h"
+      "duration_ms": 204733,
+      "name": "Abiyoyo",
+      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -1063,22 +1031,6 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
-        "name": "P\u00e5 nye eventyr",
-        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        }
-      ],
-      "duration_ms": 322253,
-      "name": "P\u00e5 nye eventyr",
-      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
-    },
-    {
-      "added_at": "2023-09-20 14:48:25",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
       },
@@ -1103,30 +1055,50 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
-        "name": "RoundAgain (feat. Brad Mehldau, Christian McBride, Brian Blade)",
-        "url": "https://open.spotify.com/album/6glNa1tv5xDIevYwSvxNkm"
+        "name": "Relations",
+        "url": "https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd"
       },
       "artists": [
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        },
-        {
-          "name": "Brian Blade",
-          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
-        },
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+          "name": "Martin Brandqvist Quartet",
+          "url": "https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7"
         }
       ],
-      "duration_ms": 360680,
-      "name": "Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",
-      "url": "https://open.spotify.com/track/3ONFcrwlLYLUZBPh0WSD6q"
+      "duration_ms": 298423,
+      "name": "Ginge",
+      "url": "https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h"
+    },
+    {
+      "added_at": "2023-09-20 14:48:25",
+      "album": {
+        "name": "Waltz for Hal Willner",
+        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Waltz for Hal Willner",
+      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
+    },
+    {
+      "added_at": "2023-09-20 14:48:25",
+      "album": {
+        "name": "P\u00e5 nye eventyr",
+        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        }
+      ],
+      "duration_ms": 322253,
+      "name": "P\u00e5 nye eventyr",
+      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -1155,6 +1127,34 @@
       "duration_ms": 515253,
       "name": "The Lion Turtle",
       "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
+    },
+    {
+      "added_at": "2023-09-20 14:48:25",
+      "album": {
+        "name": "RoundAgain (feat. Brad Mehldau, Christian McBride, Brian Blade)",
+        "url": "https://open.spotify.com/album/6glNa1tv5xDIevYwSvxNkm"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "duration_ms": 360680,
+      "name": "Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",
+      "url": "https://open.spotify.com/track/3ONFcrwlLYLUZBPh0WSD6q"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
+        "name": "Let Love Be Genuine",
+        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
+      },
+      "artists": [
+        {
+          "name": "Nuvole",
+          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
+        }
+      ],
+      "duration_ms": 318620,
+      "name": "Let Love Be Genuine",
+      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
+    },
+    {
+      "added_at": "2023-09-20 14:48:25",
+      "album": {
         "name": "A Drums Comes True",
         "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
-        "name": "Let Love Be Genuine",
-        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
-      },
-      "artists": [
-        {
-          "name": "Nuvole",
-          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
-        }
-      ],
-      "duration_ms": 318620,
-      "name": "Let Love Be Genuine",
-      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
-    },
-    {
-      "added_at": "2023-09-20 14:48:25",
-      "album": {
         "name": "Lovers Moment (H\u00e5kan Brostr\u00f6m Meets Carl Winther Trio)",
         "url": "https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 327642,
       "name": "Sweet Smile",
       "url": "https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb"
-    },
-    {
-      "added_at": "2023-09-20 14:48:25",
-      "album": {
-        "name": "Happy Hours",
-        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
-      },
-      "artists": [
-        {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
-        }
-      ],
-      "duration_ms": 397306,
-      "name": "Dear Don",
-      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -1355,6 +1339,22 @@
       "duration_ms": 280011,
       "name": "Blues Arabesque",
       "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
+    },
+    {
+      "added_at": "2023-09-20 14:48:25",
+      "album": {
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
+      },
+      "artists": [
+        {
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
+        }
+      ],
+      "duration_ms": 397306,
+      "name": "Dear Don",
+      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2023-09-20 14:48:25",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-09-20 14:48:25",
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
+        }
+      ],
+      "duration_ms": 244191,
+      "name": "Son binocle",
+      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
+    },
+    {
+      "added_at": "2023-09-20 14:48:25",
+      "album": {
         "name": "Mosa\u00efque",
         "url": "https://open.spotify.com/album/0O9jMs6Dvt9L17P6KMChd5"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 285770,
       "name": "Mosa\u00efque",
       "url": "https://open.spotify.com/track/46ENsWZeNIoYgu8VQfxhUc"
-    },
-    {
-      "added_at": "2023-09-20 14:48:25",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
-      },
-      "artists": [
-        {
-          "name": "Cyrus Chestnut",
-          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
-        }
-      ],
-      "duration_ms": 244191,
-      "name": "Son binocle",
-      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
     },
     {
       "added_at": "2023-09-20 14:48:25",

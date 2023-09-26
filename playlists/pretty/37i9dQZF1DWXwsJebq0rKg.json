@@ -1,12 +1,12 @@
 {
   "description": "Tracks para inspirar tu ofni perfecto \ud83c\udf3c",
-  "num_followers": 1442,
+  "num_followers": 1449,
   "original_name": "GRWM\u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmNiZmQ2NjU3NDEwMDcxODMzNzIyMWVmNmMxYzMzMTA0M2YwZTFk",
+  "snapshot_id": "MCw3OGM5MThjOGIyYzYwNjE4MGU0OTc4NjA5MjlkNDQ1NjA5YzQxOTc4",
   "tracks": [
     {
       "added_at": "2023-09-22 17:01:25",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-09-22 17:01:25",
       "album": {
-        "name": "Jagger.mp3",
-        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 155861,
-      "name": "Jagger.mp3",
-      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
-    },
-    {
-      "added_at": "2023-09-22 17:01:25",
-      "album": {
         "name": "Se fue la luz",
         "url": "https://open.spotify.com/album/2qR1JnuuOc6xl48pE9elFb"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 212000,
       "name": "Se fue la luz",
       "url": "https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE"
+    },
+    {
+      "added_at": "2023-09-22 17:01:25",
+      "album": {
+        "name": "Jagger.mp3",
+        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 155861,
+      "name": "Jagger.mp3",
+      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
     },
     {
       "added_at": "2023-09-22 17:01:25",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-09-22 17:01:25",
       "album": {
-        "name": "Give It To Me (Tiktok Remix)",
-        "url": "https://open.spotify.com/album/429LXyHyMVLd2k69iLUe2d"
-      },
-      "artists": [
-        {
-          "name": "Levis Remix",
-          "url": "https://open.spotify.com/artist/11zVzNHj5hETQ17BilwY3I"
-        }
-      ],
-      "duration_ms": 171865,
-      "name": "Give It To Me Tiktok - Remix",
-      "url": "https://open.spotify.com/track/77p46YUr5SA0Ft7CUt7P7C"
-    },
-    {
-      "added_at": "2023-09-22 17:01:25",
-      "album": {
         "name": "Gentle Boy",
         "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 65790,
       "name": "my new love",
       "url": "https://open.spotify.com/track/1uPLrGFdfHtTPvqsDpdVsL"
+    },
+    {
+      "added_at": "2023-09-22 17:01:25",
+      "album": {
+        "name": "Give It To Me (Tiktok Remix)",
+        "url": "https://open.spotify.com/album/429LXyHyMVLd2k69iLUe2d"
+      },
+      "artists": [
+        {
+          "name": "Levis Remix",
+          "url": "https://open.spotify.com/artist/11zVzNHj5hETQ17BilwY3I"
+        }
+      ],
+      "duration_ms": 171865,
+      "name": "Give It To Me Tiktok - Remix",
+      "url": "https://open.spotify.com/track/77p46YUr5SA0Ft7CUt7P7C"
     },
     {
       "added_at": "2023-09-22 17:01:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,736 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,741 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,23 +21,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 11 | [If I Were Sorry](https://open.spotify.com/track/6oDkCmfVcSd9NXAKk1b4Ll) | [Frans](https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ) | [If I Were Sorry](https://open.spotify.com/album/7e5vrZ4iPy74CmBgbIpQKX) | 3:04 |
 | 12 | [Guld och gröna skogar](https://open.spotify.com/track/6EnNjWkk1YX3fsTXtwO773) | [Hasse Andersson](https://open.spotify.com/artist/08JjzDgK2ltxMBWlez1YyH) | [Guld och gröna skogar](https://open.spotify.com/album/7JVTdIGoQzBnzf8dwqE0HW) | 3:03 |
 | 13 | [In i dimman](https://open.spotify.com/track/3zNUWltBz3xrZhXkoSMgJX) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Tropicalisera](https://open.spotify.com/album/0UQp20m1BlovpSh9zIowVB) | 2:53 |
-| 14 | [Jag ljuger så bra](https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 3:04 |
-| 15 | [Kom](https://open.spotify.com/track/000uPbEAb9tlFkCJ1DIOcw) | [Timoteij](https://open.spotify.com/artist/2KToq66TzR2OM0PZJSh5bR) | [Längtan](https://open.spotify.com/album/7bmBYDzXffP3R5lECEdzkH) | 2:58 |
+| 14 | [Kom](https://open.spotify.com/track/000uPbEAb9tlFkCJ1DIOcw) | [Timoteij](https://open.spotify.com/artist/2KToq66TzR2OM0PZJSh5bR) | [Längtan](https://open.spotify.com/album/7bmBYDzXffP3R5lECEdzkH) | 2:58 |
+| 15 | [Jag ljuger så bra](https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 3:04 |
 | 16 | [Bra vibrationer](https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6) | [Kikki Danielsson](https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i) | [Bra vibrationer](https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU) | 3:06 |
 | 17 | [Satellit](https://open.spotify.com/track/10AwlsmVEASSiWORkKcgRo) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Blue Virgin Isles](https://open.spotify.com/album/5xHCzowaod3845uvIfXAkg) | 4:17 |
 | 18 | [\(Du är så\) Yeah Yeah, Wow Wow](https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio) | [Martin](https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F) | [En helt vanlig Svensson](https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO) | 3:14 |
 | 19 | [En dag](https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [En Samling 1981 \- 2001](https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9) | 3:18 |
 | 20 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 |
 | 21 | [Vem e som oss](https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Vem e som oss](https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb) | 2:55 |
-| 22 | [Cara mia](https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Stand By For...](https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV) | 3:04 |
-| 23 | [Bada nakna](https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Bada Nakna](https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas) | 3:11 |
-| 24 | [Alla flickor](https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 2:49 |
+| 22 | [Alla flickor](https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 2:49 |
+| 23 | [Cara mia](https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Stand By For...](https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV) | 3:04 |
+| 24 | [Bada nakna](https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Bada Nakna](https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas) | 3:11 |
 | 25 | [När vindarna viskar mitt namn](https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7) | [Roger Pontare](https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG) | [När vindarna viskar mitt namn \- Single](https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H) | 3:04 |
 | 26 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
 | 27 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
 | 28 | [Håll om mig](https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz) | [Nanne](https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi) | [Alltid på väg](https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy) | 3:02 |
-| 29 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 |
-| 30 | [Habibi](https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Dolly Styles bästa](https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE) | 2:51 |
+| 29 | [Habibi](https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Dolly Styles bästa](https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE) | 2:51 |
+| 30 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 |
 | 31 | [Sean den förste Banan](https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81) | [Sean Banan](https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q) | [Sean den förste Banan](https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh) | 3:03 |
 | 32 | [Kom och ta mig](https://open.spotify.com/track/22T3LCFXjOfxkiq5JgJacE) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l) | [Rök 'n Roll](https://open.spotify.com/album/3GjCjRj6hI2tzAeKs5nIKD) | 2:57 |
 | 33 | [Diggiloo Diggiley](https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg) | 3:07 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 40 | [90\-talet](https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [90\-talet](https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn) | 2:56 |
 | 41 | [Manboy](https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Masquerade](https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp) | 3:00 |
 | 42 | [Om om och om igen](https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Om om och om igen](https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd) | 2:47 |
-| 43 | [Let Your Spirit Fly](https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf), [Pernilla Wahlgren](https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf) | [X My Heart](https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd) | 2:54 |
-| 44 | [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 |
+| 43 | [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 |
+| 44 | [Let Your Spirit Fly](https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf), [Pernilla Wahlgren](https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf) | [X My Heart](https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd) | 2:54 |
 | 45 | [My Way](https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [My Way](https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P) | 3:02 |
 | 46 | [La Dolce Vita](https://open.spotify.com/track/1b5yFVBwIbjKI2TULxtDoC) | [After Dark](https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl) | [La Dolce Vita](https://open.spotify.com/album/7rELI4gV9vdWKbSDF7Jsmi) | 3:00 |
 | 47 | [Det gör ont](https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Det gör ont en stund på natten men inget på dan](https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr) | 3:03 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 51 | [Busy Doin' Nothin'](https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7) | [Ace Wilder](https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY) | [Busy Doin' Nothin'](https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo) | 2:53 |
 | 52 | [Everyday](https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c) | [Mendez](https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL) | [Everyday](https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW) | 3:05 |
 
-Snapshot ID: `MCxhNGQzNjBiYjFiM2E5ZGQzMDlhZTMzMjU5YjlmM2I0ODc0OTMzYjIw`
+Snapshot ID: `MCw2NjU0MzA3ZWZiOTFkODI5OWI4MTc3YTE1ZjY2MDA3YmI5ODhjNWMy`

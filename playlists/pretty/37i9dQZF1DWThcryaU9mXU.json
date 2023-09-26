@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 46524,
+  "num_followers": 46563,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDZiOTBlNjMzMDgxYTQ2MTUzYmQyZTAxYTk3OTkzOTA4MWExZDU5",
+  "snapshot_id": "MCwxNGMxYmRjNTQ0NWY3YTBlMjM3NjExZjRmZWI2OThjNTk0YjRjYmU4",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:52",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "My Dearest Darling",
+      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
         "name": "You Can't Lose What You Ain't Never Had",
         "url": "https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 464453,
       "name": "The Memory of Our Love",
       "url": "https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "My Dearest Darling",
-      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
-        "name": "The Blues",
-        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 502973,
-      "name": "Lonely World",
-      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
         "name": "Lucille",
         "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 257440,
       "name": "Loneliest Road That I Know",
       "url": "https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
+        "name": "The Blues",
+        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 502973,
+      "name": "Lonely World",
+      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
-        "name": "Sings Raining In My Heart",
-        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Blues Hangover",
-      "url": "https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
         "name": "Put In a Little Time",
         "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 280062,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Blues Hangover",
+      "url": "https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
         "name": "Man of the World: The Anthology 1968-1988",
         "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 464666,
       "name": "A Fool No More",
       "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
+        "name": "I'm A Mad Man",
+        "url": "https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp"
+      },
+      "artists": [
+        {
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+        }
+      ],
+      "duration_ms": 359133,
+      "name": "35 Long Years",
+      "url": "https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
         "name": "Soul for the Heart",
         "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 275973,
       "name": "Drown in My Own Tears",
       "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
-        "name": "I'm A Mad Man",
-        "url": "https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp"
-      },
-      "artists": [
-        {
-          "name": "Byther Smith",
-          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
-        }
-      ],
-      "duration_ms": 359133,
-      "name": "35 Long Years",
-      "url": "https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
+        "name": "Woman Across The River",
+        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/6BCPs3UOkxbeTpI7cYsOkk"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
         "name": "End Of The World (Dancing In The Dust)",
         "url": "https://open.spotify.com/album/3CgUUmrSEBweiFkZ8pXGOJ"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 207140,
       "name": "End Of The World (Dancing In The Dust)",
       "url": "https://open.spotify.com/track/4IWEHdLO2GBkldUlfoOY0X"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
-        "name": "Woman Across The River",
-        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/6BCPs3UOkxbeTpI7cYsOkk"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
-      },
-      "artists": [
-        {
-          "name": "Mud Morganfield",
-          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
-        }
-      ],
-      "duration_ms": 214194,
-      "name": "You Can't Lose What You Ain't Never Had",
-      "url": "https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
         "name": "Roll and Tumble",
         "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 205182,
       "name": "Sometimes I Worry",
       "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
+      },
+      "artists": [
+        {
+          "name": "Mud Morganfield",
+          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
+        }
+      ],
+      "duration_ms": 214194,
+      "name": "You Can't Lose What You Ain't Never Had",
+      "url": "https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
-        "name": "Marshall Texas Is My Home",
-        "url": "https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb"
+        "name": "Be Cool",
+        "url": "https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27"
       },
       "artists": [
         {
-          "name": "Floyd Dixon",
-          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
+          "name": "Willie J. Campbell",
+          "url": "https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Hard Living Alone",
-      "url": "https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys"
+      "duration_ms": 342677,
+      "name": "Use As Needed",
+      "url": "https://open.spotify.com/track/0jcyLI0xuoNn2ENh1Vvzxv"
     }
   ],
   "unique_name": "Just Me and the Blues",

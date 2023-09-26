@@ -1392,7 +1392,7 @@
     {
       "album": {
         "name": "B\u00e4st h\u00e4r inne",
-        "url": "https://open.spotify.com/album/5StD84eoU8BOFcReirunrU"
+        "url": "https://open.spotify.com/album/08lVeLxkGMau5sBa2J6045"
       },
       "artists": [
         {
@@ -1403,6 +1403,24 @@
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 299733,
+      "name": "B\u00e4st h\u00e4r inne",
+      "url": "https://open.spotify.com/track/1VoOX1ecMP7YVzyu32gWVf"
+    },
+    {
+      "album": {
+        "name": "B\u00e4st h\u00e4r inne",
+        "url": "https://open.spotify.com/album/5StD84eoU8BOFcReirunrU"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
       "duration_ms": 299733,
       "name": "B\u00e4st h\u00e4r inne",
       "url": "https://open.spotify.com/track/2r8X5szspfSyhUlVes7plU"

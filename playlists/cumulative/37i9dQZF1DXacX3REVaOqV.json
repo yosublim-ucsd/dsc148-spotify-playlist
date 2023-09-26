@@ -709,6 +709,28 @@
     },
     {
       "album": {
+        "name": "Better Take That",
+        "url": "https://open.spotify.com/album/0Uva7Ssbo70ZuIMsA9r8ba"
+      },
+      "artists": [
+        {
+          "name": "Block & Crown",
+          "url": "https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7"
+        },
+        {
+          "name": "Sean Finn",
+          "url": "https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175748,
+      "name": "Better Take That",
+      "url": "https://open.spotify.com/track/6x4lOp1oRmtfFgQIIw2ipY"
+    },
+    {
+      "album": {
         "name": "Both Of Us",
         "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
@@ -3910,7 +3932,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 160437,
       "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
       "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"

@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 125543,
+  "num_followers": 125612,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjY0NmU2ZGVhZjg2Mjk1ZDhmMjk5MDE2YTZhMmQ4ZmM5ZjdmZDIx",
+  "snapshot_id": "MCwxNjNjZmNhNTIzMTlmYmE2MWIxMzM2OWNiM2QxNTUzYTk0NTMyYjYx",
   "tracks": [
     {
       "added_at": "2023-09-21 14:42:27",
@@ -303,58 +303,6 @@
     {
       "added_at": "2023-09-21 14:42:27",
       "album": {
-        "name": "Yeah The Girls",
-        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Yeah The Girls",
-      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
-    },
-    {
-      "added_at": "2023-09-21 14:42:27",
-      "album": {
-        "name": "On My Knees",
-        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
-    },
-    {
-      "added_at": "2023-09-21 14:42:27",
-      "album": {
-        "name": "A Lover\u2019s Guide to a Lucid Dream",
-        "url": "https://open.spotify.com/album/6FsAeOl2J8a52BRIPEULqM"
-      },
-      "artists": [
-        {
-          "name": "SAFIA",
-          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
-        }
-      ],
-      "duration_ms": 319840,
-      "name": "A Lover\u2019s Guide to a Lucid Dream",
-      "url": "https://open.spotify.com/track/7Jkka9vkLDhKoB7zlzVvM5"
-    },
-    {
-      "added_at": "2023-09-21 14:42:27",
-      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
       },
@@ -379,18 +327,38 @@
     {
       "added_at": "2023-09-21 14:42:27",
       "album": {
-        "name": "Bop",
-        "url": "https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj"
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
       },
       "artists": [
         {
-          "name": "Surusinghe",
-          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
         }
       ],
-      "duration_ms": 308705,
-      "name": "Bop",
-      "url": "https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK"
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+    },
+    {
+      "added_at": "2023-09-21 14:42:27",
+      "album": {
+        "name": "A Lover\u2019s Guide to a Lucid Dream",
+        "url": "https://open.spotify.com/album/6FsAeOl2J8a52BRIPEULqM"
+      },
+      "artists": [
+        {
+          "name": "SAFIA",
+          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
+        }
+      ],
+      "duration_ms": 319840,
+      "name": "A Lover\u2019s Guide to a Lucid Dream",
+      "url": "https://open.spotify.com/track/7Jkka9vkLDhKoB7zlzVvM5"
     },
     {
       "added_at": "2023-09-21 14:42:27",
@@ -415,6 +383,38 @@
     {
       "added_at": "2023-09-21 14:42:27",
       "album": {
+        "name": "Bop",
+        "url": "https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        }
+      ],
+      "duration_ms": 308705,
+      "name": "Bop",
+      "url": "https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK"
+    },
+    {
+      "added_at": "2023-09-21 14:42:27",
+      "album": {
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+    },
+    {
+      "added_at": "2023-09-21 14:42:27",
+      "album": {
         "name": "DEVOTION",
         "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
       },
@@ -427,22 +427,6 @@
       "duration_ms": 231978,
       "name": "DEVOTION",
       "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
-    },
-    {
-      "added_at": "2023-09-21 14:42:27",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
       "added_at": "2023-09-21 14:42:27",
@@ -499,6 +483,30 @@
     {
       "added_at": "2023-09-21 14:42:27",
       "album": {
+        "name": "Oh My (feat. Moby)",
+        "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 160116,
+      "name": "Oh My (feat. Moby)",
+      "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
+    },
+    {
+      "added_at": "2023-09-21 14:42:27",
+      "album": {
         "name": "Say Nothing (feat. MAY-A)",
         "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
       },
@@ -543,30 +551,6 @@
     {
       "added_at": "2023-09-21 14:42:27",
       "album": {
-        "name": "Oh My (feat. Moby)",
-        "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        },
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 160116,
-      "name": "Oh My (feat. Moby)",
-      "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
-    },
-    {
-      "added_at": "2023-09-21 14:42:27",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
@@ -576,9 +560,9 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 269480,
-      "name": "I Don't Wanna Leave",
-      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
       "added_at": "2023-09-21 14:42:27",
@@ -667,6 +651,22 @@
     {
       "added_at": "2023-09-21 14:42:27",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 269480,
+      "name": "I Don't Wanna Leave",
+      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
+    },
+    {
+      "added_at": "2023-09-21 14:42:27",
+      "album": {
         "name": "MACHINE",
         "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-09-21 14:42:27",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 334754,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
-    },
-    {
-      "added_at": "2023-09-21 14:42:27",
-      "album": {
         "name": "Do You Want Me",
         "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 272523,
       "name": "Do You Want Me",
       "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
+    },
+    {
+      "added_at": "2023-09-21 14:42:27",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
     },
     {
       "added_at": "2023-09-21 14:42:27",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-09-21 14:42:27",
       "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
+    },
+    {
+      "added_at": "2023-09-21 14:42:27",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
       },
@@ -987,38 +1003,6 @@
     {
       "added_at": "2023-09-21 14:42:27",
       "album": {
-        "name": "Perfect World",
-        "url": "https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn"
-    },
-    {
-      "added_at": "2023-09-21 14:42:27",
-      "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "Something Real",
-      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
-    },
-    {
-      "added_at": "2023-09-21 14:42:27",
-      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 216818,
       "name": "Highest Building (feat. Oklou)",
       "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
+    },
+    {
+      "added_at": "2023-09-21 14:42:27",
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn"
     },
     {
       "added_at": "2023-09-21 14:42:27",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2023-09-21 14:42:27",
       "album": {
+        "name": "What Comes Next",
+        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 243599,
+      "name": "Get To Know (feat. Winston Surfshirt)",
+      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
+    },
+    {
+      "added_at": "2023-09-21 14:42:27",
+      "album": {
         "name": "Your Love (feat. House Gospel Choir) (Helsloot Remix)",
         "url": "https://open.spotify.com/album/6MoSADkkX59Vn5RDrNcDyw"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 253548,
       "name": "Your Love (feat. House Gospel Choir) (Helsloot Remix)",
       "url": "https://open.spotify.com/track/2NHygo6Jm4sUgKw76WvaJp"
-    },
-    {
-      "added_at": "2023-09-21 14:42:27",
-      "album": {
-        "name": "What Comes Next",
-        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 243599,
-      "name": "Get To Know (feat. Winston Surfshirt)",
-      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
     },
     {
       "added_at": "2023-09-21 14:42:27",

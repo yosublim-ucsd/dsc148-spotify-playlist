@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Haley Blais",
-  "num_followers": 345967,
+  "num_followers": 346066,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjBkNDI0NjgxMWNkNzQzYmEzNDA5NTllNzEwMjU0ZTZlNjg0ZjJl",
+  "snapshot_id": "MCwzY2IyZWNmMTg3Y2VkN2YyNTVkZGY0OTE1MWQ3ZjZlMzlmNWIzZmE2",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -251,34 +251,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 212467,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "One That Got Away",
         "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
       },
@@ -291,22 +263,6 @@
       "duration_ms": 232266,
       "name": "One That Got Away",
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Inbred",
-        "url": "https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 204317,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -343,6 +299,50 @@
       "duration_ms": 193373,
       "name": "Gasoline (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/645Exr2lJIO45Guht3qyIa"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Inbred",
+        "url": "https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 204317,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "to Perth, before the border closes",
         "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
       },
@@ -471,38 +471,6 @@
       "duration_ms": 176733,
       "name": "to Perth, before the border closes",
       "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Laurel Hell",
-        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 184549,
-      "name": "The Only Heartbreaker",
-      "url": "https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -555,6 +523,38 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 184549,
+      "name": "The Only Heartbreaker",
+      "url": "https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "We've Been Going About This All Wrong",
         "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 182500,
       "name": "Apple Juice",
       "url": "https://open.spotify.com/track/3A5aS28dQBFswox9AefLSX"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Bittersweet (Radio Edit)",
+        "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "Bittersweet - Radio Edit",
+      "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Bittersweet (Radio Edit)",
-        "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 236640,
-      "name": "Bittersweet - Radio Edit",
-      "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Big Wheel",
-      "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "concussion",
         "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Big Wheel",
+      "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Soak Up The Sun",
-        "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 304413,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 174773,
       "name": "Faith Healer",
       "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Soak Up The Sun",
+        "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 304413,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "When You Know You Know",
-      "url": "https://open.spotify.com/track/5LgpO5RdeHPEDSww4XP0WO"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Remind Me Tomorrow",
         "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "When You Know You Know",
+      "url": "https://open.spotify.com/track/5LgpO5RdeHPEDSww4XP0WO"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Any Shape You Take",
         "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 260355,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 253983,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Bunny Is A Rider",
-        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
         }
       ],
-      "duration_ms": 193957,
-      "name": "Bunny Is A Rider",
-      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
+      "duration_ms": 253983,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 195626,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Bunny Is A Rider",
+        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 193957,
+      "name": "Bunny Is A Rider",
+      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Household Name",
-        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/3381KgaT7kBV2Cuno9scbe"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/3381KgaT7kBV2Cuno9scbe"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Coming Of Age pt. 1",
+        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 261475,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Coming Of Age pt. 1",
-        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 261475,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Jump Rope Gazers",
         "url": "https://open.spotify.com/album/08RHgulG8GrXeC9Igz1Rcx"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Vagabon",
-        "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 272230,
-      "name": "Water Me Down",
-      "url": "https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 300586,
       "name": "Cool Dry Place",
       "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Vagabon",
+        "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 272230,
+      "name": "Water Me Down",
+      "url": "https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "90s American Superstar",
-        "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
       "artists": [
         {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
         }
       ],
-      "duration_ms": 139400,
-      "name": "90s American Superstar",
-      "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
+      "duration_ms": 200480,
+      "name": "Coming to Get You Nowhere",
+      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+        "name": "90s American Superstar",
+        "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
       },
       "artists": [
         {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
         }
       ],
-      "duration_ms": 200480,
-      "name": "Coming to Get You Nowhere",
-      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+      "duration_ms": 139400,
+      "name": "90s American Superstar",
+      "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
     },
     {
       "added_at": "2023-09-15 04:00:00",

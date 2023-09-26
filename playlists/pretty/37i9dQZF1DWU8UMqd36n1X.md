@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 
 > Music from that amazing era\. Cover: Teddy Riley
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,377 likes - 56 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,487 likes - 56 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 | 3 | [New Jack Swing](https://open.spotify.com/track/5qGIsQVWC725BvwHwxgbKz) | [Wrecks\-N\-Effect](https://open.spotify.com/artist/4CFScydzUUXYOnIEbOz3vi) | [Wrecks\-N\-Effect](https://open.spotify.com/album/1J39sasRRbZhlOQPCqjun1) | 3:48 |
 | 4 | [I Want Her](https://open.spotify.com/track/2Iw5Rd1IGACxv2CPUZguiG) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [Make It Last Forever](https://open.spotify.com/album/1UwtBNOPmXRtdxPJAiNryN) | 6:00 |
 | 5 | [Is It Good To You](https://open.spotify.com/track/6cOb0Ag4iI3YVwHvuxkErn) | [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [Tammy Lucas](https://open.spotify.com/artist/47PW7jNEh3qCVQWq4rsrmP) | [Juice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7rgb9wvpQawjb0GAR2D5rI) | 4:17 |
-| 6 | [It's Gonna Be Alright \(feat\. Charlie Wilson\)](https://open.spotify.com/track/6cMybQhimXpkzQdgKca80j) | [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:33 |
+| 6 | [It's Gonna Be Alright](https://open.spotify.com/track/6cMybQhimXpkzQdgKca80j) | [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:33 |
 | 7 | [Remember the Time](https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 3:59 |
 | 8 | [Reminisce](https://open.spotify.com/track/0EWT5JnKOf6saRn4ASff3j) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 5:23 |
 | 9 | [I'm Dreamin'](https://open.spotify.com/track/04VArZKHm1xesMxqnsutDY) | [Christopher Williams](https://open.spotify.com/artist/27TmRLInIAVyWyU14KlALf) | [New Jack City \(Music from the Motion Picture\)](https://open.spotify.com/album/3N1GCkG6Z5Rs4Qy1iwnIEB) | 5:03 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 | 42 | [Rub You The Right Way](https://open.spotify.com/track/40xz60ciGIpsRtDqRfPKBE) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Johnny Gill](https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC) | 5:32 |
 | 43 | [B.B.D\. \(I Thought It Was Me\)?](https://open.spotify.com/track/4oRDt0qQeY4XQOQWYOQUmt) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:35 |
 | 44 | [Baby Be Mine](https://open.spotify.com/track/3c2noI6hwdH2YoETIriUbX) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [David Roland Williams](https://open.spotify.com/artist/3SYKJoZtFzV5d8ngCgxqTE), [Richard Iverson](https://open.spotify.com/artist/5dbRY8iAB9vdUACnschuB2) | [Blackstreet](https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb) | 3:02 |
-| 45 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
+| 45 | [Give U My Heart](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
 | 46 | [Rump Shaker](https://open.spotify.com/track/4dY4JVC0Q9CwpeZ6JAclIc) | [Wreckx\-N\-Effect](https://open.spotify.com/artist/6lLYZf9GpSq6Pf09g2N2xK) | [Hard Or Smooth](https://open.spotify.com/album/6xLyv6QON3hOuKiqRKvNOw) | 5:12 |
 | 47 | [Let Me Be the One](https://open.spotify.com/track/0T3xmp3KqDklZ12Ze0Nm13) | [Intro](https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm) | [INTRO](https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY) | 4:57 |
 | 48 | [The One For Me](https://open.spotify.com/track/6xnJvIPLh9bWG2ZagAL6UN) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Everything](https://open.spotify.com/album/41vhgxFJ8NUqKMejOkhDCj) | 4:38 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 | 55 | [Under Pressure](https://open.spotify.com/track/3mcbFloFZLeAWJYFR0HITA) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO) | 4:13 |
 | 56 | [Call Me A Mack](https://open.spotify.com/track/32dRq8sTlXLGbDgZ3ZSKQO) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 4:06 |
 
-Snapshot ID: `MCxjYmI5ZDM3NDkwN2I0ZDk2ZTNjMDQwMDExNjBjZmVhYTdmMThiYjE0`
+Snapshot ID: `MCwzNzA0MjFjZjY4N2JlNjA3NTE1ZDM5MzMyZmQ3ZWMxMmYxMzE5ZjFl`

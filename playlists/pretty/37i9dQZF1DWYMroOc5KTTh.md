@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,509 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,737 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 40 | [Crash and Burn \- Edit](https://open.spotify.com/track/3QEX74TIjnACccveQCC8WH) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Crash and Burn / Said Nothing](https://open.spotify.com/album/4XWv8Kw5seA17Ki0uMwnBf) | 1:30 |
 | 41 | [Liquid Spirit \- Claptone Remix](https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Liquid Spirit \(Claptone Remix\)](https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2) | 6:23 |
 | 42 | [Dopamine](https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd) | 4:03 |
-| 43 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
-| 44 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 |
-| 45 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
-| 46 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
+| 43 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 |
+| 44 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
+| 45 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
+| 46 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 47 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 | 48 | [Feel Good](https://open.spotify.com/track/3PURbsY67tLMyausOABtit) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:27 |
 | 49 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 |
 | 50 | [Coming Home](https://open.spotify.com/track/0eOcjJgpO8XdJbPMYJgKqq) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Coming Home](https://open.spotify.com/album/7GnbITNZyR4bk4pzCzIlMJ) | 3:10 |
 
-Snapshot ID: `MCw2NWY3YTAyYmFjN2U3N2YxZThlZmI3NDZlMDRjNGM1NTFkYzk0NDY1`
+Snapshot ID: `MCxmMmY4ZDdmMDQ5Njg4YmNlN2Q1NDZiMDdiNWY2NjI5MGM2YjM5NTM4`

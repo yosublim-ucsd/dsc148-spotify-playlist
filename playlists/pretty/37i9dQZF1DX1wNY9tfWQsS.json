@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Whitney Houston",
-  "num_followers": 521945,
+  "num_followers": 522044,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2NlMDliZDlhOGYxY2JjYzQ2NmFhZDYyYTZiZDZkMDQ3YTQzYjky",
+  "snapshot_id": "MCwxNGVlZTZhMDRmZWMwMTcwZjEzZTc4NTA0NTY3NzhlOWY3Y2M0YTQ2",
   "tracks": [
     {
       "added_at": "2022-12-16 17:40:09",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -163,22 +179,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -223,6 +223,26 @@
       "duration_ms": 226880,
       "name": "What's Love Got to Do with It",
       "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 275080,
+      "name": "Love Galore (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -287,26 +307,6 @@
       "duration_ms": 254319,
       "name": "PLASTIC OFF THE SOFA",
       "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 275080,
-      "name": "Love Galore (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
         "name": "Keep the Faith",
         "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2022-12-16 17:40:09",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "I Feel for You",
-        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 343400,
-      "name": "I Feel for You",
-      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
+        "name": "I Feel for You",
+        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 343400,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
         "name": "Jade To The Max",
         "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
       },
@@ -759,6 +759,26 @@
       "duration_ms": 216373,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -795,26 +815,6 @@
       "duration_ms": 217801,
       "name": "Not Another Love Song",
       "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
-        "name": "You're All I Need",
-        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "You're All I Need To Get By",
-      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
     },
     {
       "added_at": "2022-03-08 19:58:52",

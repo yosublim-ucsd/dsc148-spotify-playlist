@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,788 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,685 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 26 | [Marking My Time](https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau) | 4:28 |
 | 27 | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl) | 2:41 |
 | 28 | [One Last Dance](https://open.spotify.com/track/07B9SsrBhdpcVBGb7vOKYL) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [One Last Dance](https://open.spotify.com/album/4YYQxEE1F9q99lwD6HEzzJ) | 3:06 |
-| 29 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:33 |
+| 29 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
 | 30 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 |
 | 31 | [Lifetime](https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Lifetime](https://open.spotify.com/album/6PvL70jTGrQAekjocgG620) | 5:06 |
 | 32 | [Australia](https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Weird & Bizarre](https://open.spotify.com/track/46OGrRCC0Y7ZyF0qvXsPNt) | [Posh Chocolates](https://open.spotify.com/artist/3xTWaGPtvulmX73dfT71J1) | [Weird & Bizarre](https://open.spotify.com/album/4fLINYR36a8frZuUoefi6j) | 3:15 |
 | 100 | [Heartbreak Hangover](https://open.spotify.com/track/4nEmjzru7UcuqtXQuCVgBb) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ) | [Heartbreak Hangover](https://open.spotify.com/album/7t7gZelBweppkMgJ1ZabEN) | 2:34 |
 
-Snapshot ID: `MCxlOGZjNDJlYWZhMjAxZGE1YzliNzkyOWQyNDM5NDA1Y2UzZTBkMjY2`
+Snapshot ID: `MCw5NjI1NGNlYjhlZmZlMWQyNjMxMGNkMWVjOWFlMWRkNWJmYjVjOTM3`

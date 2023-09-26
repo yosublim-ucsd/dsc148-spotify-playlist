@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 154080,
+  "num_followers": 154140,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWZhZTBiZTliNWFiZWZhMWI5MzQ5YWZiMDllNDA1Y2EwN2MxYWE1",
+  "snapshot_id": "MCwwZWVkYjI2MGQ3MGVmNzBiNDMzY2I0NjVhYmYxMTc3ZTM3OWIwOGVl",
   "tracks": [
     {
       "added_at": "2023-09-18 01:37:28",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 212787,
-      "name": "I Want You Around",
-      "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
       },
@@ -179,18 +163,18 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
-        "name": "The Lost Petals",
-        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 121695,
-      "name": "Once More",
-      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
+      "duration_ms": 212787,
+      "name": "I Want You Around",
+      "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
     },
     {
       "added_at": "2023-09-18 01:37:28",
@@ -207,6 +191,22 @@
       "duration_ms": 221543,
       "name": "wish you were gay",
       "url": "https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
       "added_at": "2023-09-18 01:37:28",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -335,6 +319,38 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 181140,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -371,38 +387,6 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 212496,
-      "name": "Lost Cause",
-      "url": "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 181140,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
     },
     {
       "added_at": "2023-09-18 01:37:28",
@@ -455,22 +439,6 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 180018,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
         "name": "Wish I Was Better",
         "url": "https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr"
       },
@@ -487,6 +455,38 @@
       "duration_ms": 140571,
       "name": "Wish I Was Better",
       "url": "https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 180018,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 212496,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna"
     },
     {
       "added_at": "2023-09-18 01:37:28",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
         "name": "Chilly",
         "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 151041,
       "name": "I Wouldn't Know Any Better Than You",
       "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
     },
     {
       "added_at": "2023-09-18 01:37:28",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
+        "name": "Want U Bad",
+        "url": "https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Want U Bad",
+      "url": "https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 216961,
       "name": "What About Me (feat. Sosamann)",
       "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
-        "name": "Want U Bad",
-        "url": "https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT"
-      },
-      "artists": [
-        {
-          "name": "Fern.",
-          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Want U Bad",
-      "url": "https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3"
     },
     {
       "added_at": "2023-09-18 01:37:28",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
-        "name": "Slowing Down",
-        "url": "https://open.spotify.com/album/3D7t1vyMzSbE98hO5yLHiG"
-      },
-      "artists": [
-        {
-          "name": "Bronze Whale",
-          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/7mV7MXnHBHMhKC3aRQX6z4"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/3D7t1vyMzSbE98hO5yLHiG"
+      },
+      "artists": [
+        {
+          "name": "Bronze Whale",
+          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/7mV7MXnHBHMhKC3aRQX6z4"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
         "name": "Mordechai",
         "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 238215,
       "name": "Dearest Alfred",
       "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2023-09-18 01:37:28",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        }
-      ],
-      "duration_ms": 202991,
-      "name": "Inkeri",
-      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
         "name": "at least i look cool",
         "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 171695,
       "name": "at least i look cool",
       "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        }
+      ],
+      "duration_ms": 202991,
+      "name": "Inkeri",
+      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
     },
     {
       "added_at": "2023-09-18 01:37:28",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
-        "name": "late night thoughts",
-        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 153905,
-      "name": "wait it out",
-      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
         "name": "Wavvy",
         "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 187546,
       "name": "Wavvy",
       "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 153905,
+      "name": "wait it out",
+      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
     },
     {
       "added_at": "2023-09-18 01:37:28",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
-        "name": "The Juice: Vol. I",
-        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "Built That Way",
-      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
         "name": "Animal Magic",
         "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 278346,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
+        "name": "The Juice: Vol. I",
+        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Built That Way",
+      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
     },
     {
       "added_at": "2023-09-18 01:37:28",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
         "name": "Me In Dat Blue",
         "url": "https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx"
       },
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
         "name": "Something to Feel",
         "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 213535,
       "name": "Something to Feel",
       "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
+    },
+    {
+      "added_at": "2023-09-18 01:37:28",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2023-09-18 01:37:28",
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2023-09-18 01:37:28",
-      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd"
       },
@@ -1719,22 +1719,18 @@
     {
       "added_at": "2023-09-18 01:37:28",
       "album": {
-        "name": "((( 2 )))",
-        "url": "https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ"
+        "name": "Gone 2 Long",
+        "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
       },
       "artists": [
         {
-          "name": "((( O )))",
-          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
-        },
-        {
-          "name": "Please Wait",
-          "url": "https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E"
+          "name": "PRETTYMUCH",
+          "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
         }
       ],
-      "duration_ms": 133377,
-      "name": "Bayou",
-      "url": "https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5"
+      "duration_ms": 195013,
+      "name": "Gone 2 Long",
+      "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

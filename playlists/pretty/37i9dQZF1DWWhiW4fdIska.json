@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 22595,
+  "num_followers": 22627,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWYyMjU4YWZkODI2MGEwN2JkMDcxOGU0MmY3OTllYjczY2ZjNzU5",
+  "snapshot_id": "MCxmZjIyYTA0ZGQ4NWRlMWFiNmQ1MGQ5YzgzNjA4N2UzMzQ4ZjJlNGYy",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 187600,
       "name": "Call It Stormy Monday",
       "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 150667,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 150667,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "Blue Guitar",
         "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 161479,
       "name": "Blue Guitar",
       "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "All Blues'd Up: Songs of the Rolling Stones",
+        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 373000,
+      "name": "Ventilator Blues",
+      "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -707,22 +723,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "All Blues'd Up: Songs of the Rolling Stones",
-        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 373000,
-      "name": "Ventilator Blues",
-      "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Blue On Blues",
         "url": "https://open.spotify.com/album/7I1hciUQhs0IlNPxR6yluS"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Ain't Enough Comin' In",
-        "url": "https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "It's My Own Fault",
-      "url": "https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "The Very Best Of Albert King",
         "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 192493,
       "name": "Blues Power",
       "url": "https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Ain't Enough Comin' In",
+        "url": "https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "It's My Own Fault",
+      "url": "https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU"
     }
   ],
   "unique_name": "Classic Blues Guitar",

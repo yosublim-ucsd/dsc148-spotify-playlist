@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 767146,
+  "num_followers": 767616,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmU0ZGFiMGFiNjgxNGVjNjJiZTVjZGExZGQwOTdiYzM2YzFmNWMx",
+  "snapshot_id": "MCxlMmY2NWUwNzZmMDBmNTFjOTFjOThjZGU0YzVlOGE1NjY1NDBkOGRi",
   "tracks": [
     {
       "added_at": "2023-01-24 23:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Building The Perfect Beast",
         "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 336453,
       "name": "In The Air Tonight - 2015 Remastered",
       "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277476,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -379,38 +379,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "...But Seriously (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
       },
@@ -423,6 +391,22 @@
       "duration_ms": 322133,
       "name": "Another Day in Paradise - 2016 Remaster",
       "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -443,6 +427,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 438493,
       "name": "Just the Two of Us (feat. Bill Withers)",
       "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Singles (Expanded)",
+        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -555,22 +571,6 @@
       "duration_ms": 183733,
       "name": "Red Red Wine",
       "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "The Singles (Expanded)",
-        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "What's Love Got to Do with It?",
         "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 226880,
       "name": "What's Love Got to Do with It",
       "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 354636,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "From Time To Time - The Singles Collection",
         "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 267000,
       "name": "Every Time You Go Away - Radio Edit",
       "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 354636,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "Greatest Love of All",
-      "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "No Jacket Required (2016 Remaster)",
         "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "Greatest Love of All",
+      "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Kissing To Be Clever",
         "url": "https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 262173,
       "name": "Do You Really Want To Hurt Me",
       "url": "https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "A Groovy Kind of Love",
+      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 238000,
       "name": "Cherish - Single Version",
       "url": "https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "A Groovy Kind of Love",
-      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Electric Youth",
-        "url": "https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC"
-      },
-      "artists": [
-        {
-          "name": "Debbie Gibson",
-          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "Lost in Your Eyes",
-      "url": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "We've Got Tonight",
         "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
       },
@@ -1403,6 +1387,38 @@
       "duration_ms": 234560,
       "name": "We've Got Tonight",
       "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Electric Youth",
+        "url": "https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC"
+      },
+      "artists": [
+        {
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "Lost in Your Eyes",
+      "url": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 318680,
+      "name": "Man in the Mirror - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 318680,
-      "name": "Man in the Mirror - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Foreign Affair",
         "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Where Do Broken Hearts Go",
-      "url": "https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "One Eighty",
         "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 324040,
       "name": "Biggest Part of Me",
       "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Where Do Broken Hearts Go",
+      "url": "https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 306560,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Baggariddim",
         "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 189093,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 306560,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Simply the Best",
+        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 255186,
+      "name": "We Don't Need Another Hero (Thunderdome)",
+      "url": "https://open.spotify.com/track/1qyJ6XpMHdsJD8pkiA7Qww"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Human Racing",
         "url": "https://open.spotify.com/album/5cl4eOKYrrX0pcFFnEieYR"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 211973,
       "name": "Don't Know Much (with Aaron Neville)",
       "url": "https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Simply the Best",
-        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 255186,
-      "name": "We Don't Need Another Hero (Thunderdome)",
-      "url": "https://open.spotify.com/track/1qyJ6XpMHdsJD8pkiA7Qww"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "Hey Nineteen",
-      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
         "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
       },
@@ -1831,22 +1815,34 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Siedah Garrett",
-          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 251760,
-      "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
-      "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
+      "duration_ms": 307400,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Every Home Should Have One",
+        "url": "https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU"
+      },
+      "artists": [
+        {
+          "name": "Patti Austin",
+          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Baby, Come To Me",
+      "url": "https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1867,18 +1863,38 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Every Home Should Have One",
-        "url": "https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU"
+        "name": "Heart Break",
+        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
       },
       "artists": [
         {
-          "name": "Patti Austin",
-          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
         }
       ],
-      "duration_ms": 215386,
-      "name": "Baby, Come To Me",
-      "url": "https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4"
+      "duration_ms": 297706,
+      "name": "Can You Stand The Rain",
+      "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Siedah Garrett",
+          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1915,18 +1931,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Heart Break",
-        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
+        "name": "Share Your Love",
+        "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
       },
       "artists": [
         {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 297706,
-      "name": "Can You Stand The Rain",
-      "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
+      "duration_ms": 286066,
+      "name": "Through The Years",
+      "url": "https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1947,18 +1963,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Share Your Love",
-        "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 286066,
-      "name": "Through The Years",
-      "url": "https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx"
+      "duration_ms": 305066,
+      "name": "Didn't We Almost Have It All",
+      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1979,18 +1995,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "Jeffrey Osborne",
+        "url": "https://open.spotify.com/album/0Z4d4VItwYl3FavOak829u"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Jeffrey Osborne",
+          "url": "https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK"
         }
       ],
-      "duration_ms": 305066,
-      "name": "Didn't We Almost Have It All",
-      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
+      "duration_ms": 241760,
+      "name": "On The Wings Of Love",
+      "url": "https://open.spotify.com/track/6AEdWbrFREOUNmI1hMPbyc"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2007,22 +2023,6 @@
       "duration_ms": 200506,
       "name": "Truly",
       "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Jeffrey Osborne",
-        "url": "https://open.spotify.com/album/0Z4d4VItwYl3FavOak829u"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Osborne",
-          "url": "https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK"
-        }
-      ],
-      "duration_ms": 241760,
-      "name": "On The Wings Of Love",
-      "url": "https://open.spotify.com/track/6AEdWbrFREOUNmI1hMPbyc"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Whitesnake (2018 Remaster)",
         "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 351920,
       "name": "Live to Tell",
       "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
     },
     {
       "added_at": "2023-01-24 23:00:00",

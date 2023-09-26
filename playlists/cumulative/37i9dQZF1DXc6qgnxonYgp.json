@@ -167,6 +167,36 @@
     },
     {
       "album": {
+        "name": "Anjaana",
+        "url": "https://open.spotify.com/album/4lXOpV3vrxdFRolEfrX61m"
+      },
+      "artists": [
+        {
+          "name": "KEVIN PERERA",
+          "url": "https://open.spotify.com/artist/14kSeTnRRFhV3KoOt3JKch"
+        },
+        {
+          "name": "Hustler Bhai",
+          "url": "https://open.spotify.com/artist/6nTrUONhTLf2LgPZ8iukC2"
+        },
+        {
+          "name": "Shanker",
+          "url": "https://open.spotify.com/artist/1fblT0Y2Eq5zyTHBUJ29eM"
+        },
+        {
+          "name": "She Shree",
+          "url": "https://open.spotify.com/artist/5r075HLkPyURcCks3osmtp"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167052,
+      "name": "Anjaana",
+      "url": "https://open.spotify.com/track/758vno0xytbJNhfE8d2kbw"
+    },
+    {
+      "album": {
         "name": "Azhage (Fallin)",
         "url": "https://open.spotify.com/album/5bzJnIdqMWlwYevnciFP8h"
       },
@@ -1401,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Kaliyugam",
+        "url": "https://open.spotify.com/album/1262cUOU4oUzUPyICgMWGY"
+      },
+      "artists": [
+        {
+          "name": "Black Brother",
+          "url": "https://open.spotify.com/artist/6CMdawkZH22r1VIDx4GdO1"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Kaliyugam",
+      "url": "https://open.spotify.com/track/0b520HyJdK1KnYVUre8kYS"
+    },
+    {
+      "album": {
         "name": "KARMA II",
         "url": "https://open.spotify.com/album/26VenaVuTneUUqXQ9dihry"
       },
@@ -1490,6 +1538,28 @@
       "duration_ms": 184269,
       "name": "Kazhivara",
       "url": "https://open.spotify.com/track/386Irrx3UfMmOwzmKX3b8m"
+    },
+    {
+      "album": {
+        "name": "KGF Monster",
+        "url": "https://open.spotify.com/album/5kYWMbACccy4e0uRbjgM3s"
+      },
+      "artists": [
+        {
+          "name": "Hustler Bhai",
+          "url": "https://open.spotify.com/artist/6nTrUONhTLf2LgPZ8iukC2"
+        },
+        {
+          "name": "Hyde Karty",
+          "url": "https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339692,
+      "name": "KGF Monster",
+      "url": "https://open.spotify.com/track/0QsxHp0eiG7gtF6FojQkLO"
     },
     {
       "album": {
@@ -1674,7 +1744,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 207636,
       "name": "Lady Bird",
       "url": "https://open.spotify.com/track/27uhM2BAIaSi5OvtBbPdRk"
@@ -1830,7 +1900,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 230190,
       "name": "My Indian Girls",
       "url": "https://open.spotify.com/track/2VQPI1L5lQsMqJVrTus7RS"
@@ -2184,7 +2254,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 220000,
       "name": "Neram",
       "url": "https://open.spotify.com/track/0f9KUdTXGwjOYLINwuQ4SA"
@@ -3296,7 +3366,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 224842,
       "name": "Start That Thiruvizha",
       "url": "https://open.spotify.com/track/1jcL3tCnSpMdj5tnzHD3iX"
@@ -3358,7 +3428,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 262574,
       "name": "Sughamaai Subbulakshmi",
       "url": "https://open.spotify.com/track/1IB74mbEhfJP47gqSkiC1C"
@@ -3614,7 +3684,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 235520,
       "name": "Thale Therikeh",
       "url": "https://open.spotify.com/track/6TRXKw4ao9fogxMuQGRuB0"
@@ -3654,6 +3724,28 @@
       "duration_ms": 205413,
       "name": "Thani Aalu",
       "url": "https://open.spotify.com/track/7vQh7Cxd7QUeqhVbdSaC03"
+    },
+    {
+      "album": {
+        "name": "The Gym (Feat. Hyde Karty, J Mic)",
+        "url": "https://open.spotify.com/album/2ie6Opxa86GV3gXjONECb6"
+      },
+      "artists": [
+        {
+          "name": "Azim Ousman",
+          "url": "https://open.spotify.com/artist/6Yu7WrUqltHbkBXZekd58r"
+        },
+        {
+          "name": "Hustler Bhai",
+          "url": "https://open.spotify.com/artist/6nTrUONhTLf2LgPZ8iukC2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376354,
+      "name": "The Gym (Feat. Hyde Karty, J Mic)",
+      "url": "https://open.spotify.com/track/4JqF7JsvHJsYp9YpxiJnhe"
     },
     {
       "album": {
@@ -3806,7 +3898,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 154223,
       "name": "Urvashi Urvashi - Remix",
       "url": "https://open.spotify.com/track/54ZFwfyOkQNCfeDjmoYhrf"

@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave",
-  "num_followers": 316640,
+  "num_followers": 316845,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWQ5YmJjNGYwNTBjMTkwNzA5ODVhNDA3NWE1YThhYjM1Y2YxNGU1",
+  "snapshot_id": "MCwzOTk5MTU1Yzg1M2M4Nzc3ZjY4NjFlZWU5ZmE0N2U2NWI4M2M5MzE4",
   "tracks": [
     {
       "added_at": "2023-03-10 08:53:36",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "What Are We Waiting For?",
-        "url": "https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 196846,
-      "name": "For God Is With Us",
-      "url": "https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "This Is The Gospel",
         "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 168011,
       "name": "PRAISES",
       "url": "https://open.spotify.com/track/68KVmSqAOYem04YsC37U7B"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "What Are We Waiting For?",
+        "url": "https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 196846,
+      "name": "For God Is With Us",
+      "url": "https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -307,26 +307,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Love Me Like I Am (with Jordin Sparks)",
-        "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Love Me Like I Am (with Jordin Sparks)",
-      "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "How Can You Not",
         "url": "https://open.spotify.com/album/2TBFTCdartNacGPFgiVxSz"
       },
@@ -391,18 +371,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
+        "name": "Love Me Like I Am (with Jordin Sparks)",
+        "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
         }
       ],
-      "duration_ms": 299453,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
+      "duration_ms": 187306,
+      "name": "Love Me Like I Am (with Jordin Sparks)",
+      "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -419,6 +403,22 @@
       "duration_ms": 208680,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/0N9C6owb2juxsvAFESepTe"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 299453,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 237179,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Make It Through",
         "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
       },
@@ -483,22 +467,6 @@
       "duration_ms": 192196,
       "name": "Make It Through",
       "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "God Is Good",
-        "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
-      },
-      "artists": [
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "God Is Good",
-      "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -519,6 +487,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 237179,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "We The Kingdom",
         "url": "https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 234146,
       "name": "Jesus Does",
       "url": "https://open.spotify.com/track/3DdQcdK52TKydq5tN3Iehd"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "God Is Good",
+        "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Sound Mind (Studio Version)",
-        "url": "https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 222655,
-      "name": "Sound Mind - Studio Version",
-      "url": "https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "I'll Fight for You",
         "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Grace In The Wilderness",
-        "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
+        "name": "Sound Mind (Studio Version)",
+        "url": "https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD"
       },
       "artists": [
         {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
         }
       ],
-      "duration_ms": 166788,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK"
+      "duration_ms": 222655,
+      "name": "Sound Mind - Studio Version",
+      "url": "https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -815,6 +799,22 @@
       "duration_ms": 172327,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Grace In The Wilderness",
+        "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 166788,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "Somebody Loves You",
+        "url": "https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 191944,
+      "name": "Somebody Loves You",
+      "url": "https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "Teach Me to Dance (Acoustic Version)",
         "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Holy Spirit Come",
-        "url": "https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq"
-      },
-      "artists": [
-        {
-          "name": "Patrick Mayberry",
-          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
-        }
-      ],
-      "duration_ms": 243161,
-      "name": "How You Love Me",
-      "url": "https://open.spotify.com/track/0gsuWWKdj8JjXEto69wKsd"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Me on Your Mind",
         "url": "https://open.spotify.com/album/5TUX13ACKvoUotFkFgrMvV"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 239431,
       "name": "Me on Your Mind",
       "url": "https://open.spotify.com/track/28WYdGMY9SGNfJ0SarLbxB"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Holy Spirit Come",
+        "url": "https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        }
+      ],
+      "duration_ms": 243161,
+      "name": "How You Love Me",
+      "url": "https://open.spotify.com/track/0gsuWWKdj8JjXEto69wKsd"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1039,22 +1055,6 @@
       "duration_ms": 216266,
       "name": "That's Enough",
       "url": "https://open.spotify.com/track/1ggtVukTS0C2ifnnD7bzhF"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Somebody Loves You",
-        "url": "https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 191944,
-      "name": "Somebody Loves You",
-      "url": "https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Good Feeling (Radio Version)",
-        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
-      },
-      "artists": [
-        {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
-        }
-      ],
-      "duration_ms": 161583,
-      "name": "Good Feeling - Radio Version",
-      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "For All My Life",
         "url": "https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 210066,
       "name": "For All My Life",
       "url": "https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "New Creation (Deluxe)",
-        "url": "https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI"
-      },
-      "artists": [
-        {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
-        }
-      ],
-      "duration_ms": 176099,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "a thousand shores",
         "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 255586,
       "name": "a thousand shores",
       "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "New Creation (Deluxe)",
+        "url": "https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "duration_ms": 176099,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT"
     },
     {
       "added_at": "2023-03-10 08:53:36",

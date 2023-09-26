@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,025 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,042 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 71 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 |
 | 72 | [Too Late to Write a Love Song](https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Riddy Arman](https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney) | 3:14 |
 | 73 | [Seven Words](https://open.spotify.com/track/500G3gVwV5vrP2DWhOF7Tw) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Front Row Seat to Earth](https://open.spotify.com/album/2jBj6Qyedfd0XwbvJFuzTh) | 4:37 |
-| 74 | [Lockdown On Date Night Tuesday](https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Folk n’ Roll Vol\. 1: Tales Of Isolation](https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d) | 5:03 |
-| 75 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
-| 76 | [Lonely Time](https://open.spotify.com/track/23pqwMUUlCAgk5bc3I0wW1) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [More From the Levee](https://open.spotify.com/album/7gTpnJLwYoQYS4oIJtnnpv) | 3:22 |
-| 77 | [Trouble so Hard](https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7) | [Amythyst Kiah & Her Chest of Glass](https://open.spotify.com/artist/03l8MKqtSTRh6MaKr0m4aQ) | [Amythyst Kiah and Her Chest of Glass](https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5) | 6:02 |
-| 78 | [Freedom](https://open.spotify.com/track/32Eae9D5LH16lMQfsFVUaO) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2) | 4:28 |
+| 74 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
+| 75 | [Lockdown On Date Night Tuesday](https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Folk n’ Roll Vol\. 1: Tales Of Isolation](https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d) | 5:03 |
+| 76 | [Trouble so Hard](https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7) | [Amythyst Kiah & Her Chest of Glass](https://open.spotify.com/artist/03l8MKqtSTRh6MaKr0m4aQ) | [Amythyst Kiah and Her Chest of Glass](https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5) | 6:02 |
+| 77 | [Freedom](https://open.spotify.com/track/32Eae9D5LH16lMQfsFVUaO) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2) | 4:28 |
+| 78 | [Lonely Time](https://open.spotify.com/track/23pqwMUUlCAgk5bc3I0wW1) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [More From the Levee](https://open.spotify.com/album/7gTpnJLwYoQYS4oIJtnnpv) | 3:22 |
 | 79 | [Arkansas](https://open.spotify.com/track/58pPTbmSDuuvTwLYSNTySO) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Arkansas](https://open.spotify.com/album/2pPXvdMEK5v7rD1xMcSAxL) | 4:20 |
 | 80 | [The Morning Song](https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Souvenir](https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY) | 4:38 |
 | 81 | [Believe](https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 |
 | 100 | [Indigo](https://open.spotify.com/track/4dEShdbZOn5qXWXQbUyGh9) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [The Eternal Rocks Beneath](https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS) | 4:14 |
 
-Snapshot ID: `MCwyODk3MWNmY2U5NTE0OTM4ZTUzZjE2ODljOGRmZTE2ZWE0MmNhN2Fi`
+Snapshot ID: `MCw1NjEzODE4NjY0ZWYzNTFmNGMwZTU1YTBhMDRmOTMzNjUxZDU3Njg1`

@@ -884,7 +884,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 120000,
       "name": "Always, All Ways",
       "url": "https://open.spotify.com/track/5o01wc9R8BeRvHd3KYRkCL"
@@ -1798,6 +1798,24 @@
       "duration_ms": 101759,
       "name": "Blossom's Day",
       "url": "https://open.spotify.com/track/2kQKAtga9QYY9RV4xO8huL"
+    },
+    {
+      "album": {
+        "name": "blue bird",
+        "url": "https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA"
+      },
+      "artists": [
+        {
+          "name": "Slipp",
+          "url": "https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134703,
+      "name": "blue bird",
+      "url": "https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj"
     },
     {
       "album": {
@@ -3072,7 +3090,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 145094,
       "name": "Cold Breeze",
       "url": "https://open.spotify.com/track/1vhYXAKylvmoBAeWVMnXVg"
@@ -3854,6 +3872,28 @@
       "duration_ms": 135200,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/4ul0cUhwgISLz2ktt0ydZ3"
+    },
+    {
+      "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/4vXK0iBdHtyGNGRgwAADVN"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        },
+        {
+          "name": "Max Merseny",
+          "url": "https://open.spotify.com/artist/6aRqlZxNdGFk7AGAOsl83u"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144375,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/1I6iZmlHDMAqqRVN0osX9b"
     },
     {
       "album": {
@@ -5132,7 +5172,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 108073,
       "name": "Endless Trial",
       "url": "https://open.spotify.com/track/6khoEFdFHEJvKpEqjscyXc"
@@ -7280,7 +7320,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 118250,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW"
@@ -11761,6 +11801,24 @@
     },
     {
       "album": {
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/2TlLf3wfR8DJvYACgVs4Ct"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137391,
+      "name": "Mystical Feels",
+      "url": "https://open.spotify.com/track/76URto3L7L6xwQxM3Zw4ou"
+    },
+    {
+      "album": {
         "name": "Naiad",
         "url": "https://open.spotify.com/album/10XG8K8j8xceOzTBAhxuN3"
       },
@@ -11946,7 +12004,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 180009,
       "name": "Nesting",
       "url": "https://open.spotify.com/track/1rAr1l1UYqxSjiGLKxQRkV"
@@ -14273,6 +14331,24 @@
     },
     {
       "album": {
+        "name": "Resurrected",
+        "url": "https://open.spotify.com/album/3Mu69V1Epb8T2he3BcYhnc"
+      },
+      "artists": [
+        {
+          "name": "Byz Playground",
+          "url": "https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126225,
+      "name": "Resurrected",
+      "url": "https://open.spotify.com/track/3kSNdHcFAtT2PRIDhhEfPf"
+    },
+    {
+      "album": {
         "name": "returning",
         "url": "https://open.spotify.com/album/1jWv7zMhHEKdVnfU7en8KK"
       },
@@ -16300,7 +16376,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 103111,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/6E5hM1qsPCHVzzgRF2uusg"
@@ -16388,6 +16464,24 @@
       "duration_ms": 100604,
       "name": "Starlight Kiss",
       "url": "https://open.spotify.com/track/0G4kfyzE1PeSrhsO1fkXaG"
+    },
+    {
+      "album": {
+        "name": "Sthlm Night",
+        "url": "https://open.spotify.com/album/1GgvBY2L1UVmlysJu45aWS"
+      },
+      "artists": [
+        {
+          "name": "Jolly Jordan",
+          "url": "https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Sthlm Night",
+      "url": "https://open.spotify.com/track/7eMXZGWOAL7clS5ki24HDO"
     },
     {
       "album": {
@@ -18462,6 +18556,28 @@
       "duration_ms": 122000,
       "name": "u make me",
       "url": "https://open.spotify.com/track/6OyPiy5eWajl56cC6Em7no"
+    },
+    {
+      "album": {
+        "name": "Ubongo Extreme",
+        "url": "https://open.spotify.com/album/6UdCLCk1mdYkYyctZz4a6t"
+      },
+      "artists": [
+        {
+          "name": "Bokoya",
+          "url": "https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170373,
+      "name": "Ubongo Extreme",
+      "url": "https://open.spotify.com/track/01mOFVIoSPGQQVodkz7qB4"
     },
     {
       "album": {

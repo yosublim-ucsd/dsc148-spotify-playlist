@@ -772,7 +772,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 250684,
       "name": "Ee Vela (From \"Raa Raa Penimiti\")",
       "url": "https://open.spotify.com/track/3tKo5EmcMW9BzgwaHceHHc"
@@ -3018,6 +3018,28 @@
       "duration_ms": 254128,
       "name": "Oh My Aadhya (From \"Aadavallu Meeku Joharlu\")",
       "url": "https://open.spotify.com/track/6pkV2jeDAifyguITSJNJtK"
+    },
+    {
+      "album": {
+        "name": "Oh Na Madhu (From \"Month Of Madhu\")",
+        "url": "https://open.spotify.com/album/4h23jUnEssjWKPVUAyQWIC"
+      },
+      "artists": [
+        {
+          "name": "Karthik (South Singer)",
+          "url": "https://open.spotify.com/artist/05VRxxBthh4OVz7aPZJvST"
+        },
+        {
+          "name": "Yamini Ghantasala",
+          "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224554,
+      "name": "Oh Na Madhu (From \"Month Of Madhu\")",
+      "url": "https://open.spotify.com/track/1Q3toQpRmia59SoJpo8m0g"
     },
     {
       "album": {

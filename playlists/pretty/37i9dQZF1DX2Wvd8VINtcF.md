@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,106 likes - 110 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,201 likes - 110 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 109 | [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 |
 | 110 | [Selfish Lies \(Laudanum\)](https://open.spotify.com/track/7JgtzJ7LfrqejT438nZ5tx) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Pink Cloud EP](https://open.spotify.com/album/5OGKTqF0cpjVK70i0hjibj) | 3:16 |
 
-Snapshot ID: `MCwyYzA2ZGRjNzNlYjc1Y2IxYWM2MjdjYjhkYjA5NGNkNzcwMmJkNTVm`
+Snapshot ID: `MCxmMWUzNGZjODlhYzE3OTRjMGQzNTcyODJiMzYwMmZiZDEwN2IzZDEx`

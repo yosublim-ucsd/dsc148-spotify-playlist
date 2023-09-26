@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,314 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,332 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 9 | [지금 이대로 Stay with me](https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [하루 한방울 One drop a day \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3) | 3:10 |
 | 10 | [You are My Night](https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Someone's playlist \#7](https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em) | 2:35 |
 | 11 | [안녕 Bye \(feat\. LeeHi\)](https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [안부 Greeting](https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371) | 6:40 |
-| 12 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 |
-| 13 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 |
+| 12 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 |
+| 13 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 |
 | 14 | [Falling In Love \(feat\. 10cm\)](https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:28 |
 | 15 | [Think About You](https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH) | [Acoustic Collabo](https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G) | [Think About You](https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp) | 3:44 |
 | 16 | [Star](https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 3:20 |
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 24 | [Just You](https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Record of Youth \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt) | 3:45 |
 | 25 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:53 |
 | 26 | [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 |
-| 27 | [What Should I do](https://open.spotify.com/track/4ARhTCA10vYH49DceecURl) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [What Should I do](https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt) | 4:27 |
-| 28 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
+| 27 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
+| 28 | [What Should I do](https://open.spotify.com/track/4ARhTCA10vYH49DceecURl) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [What Should I do](https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt) | 4:27 |
 | 29 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
 | 30 | [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 |
 | 31 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
-| 32 | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [여락이들](https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU) | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd) | 3:28 |
+| 32 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |
 | 33 | [When It’s Cold](https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [When It's Cold](https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey) | 3:03 |
-| 34 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |
+| 34 | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [여락이들](https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU) | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd) | 3:28 |
 | 35 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 |
 | 36 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 |
 | 37 | [우리에게 쏟아지는 별들을 Starry Night \(feat\. Ku One Chan\)](https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [우리에게 쏟아지는 별들을 Starry Night \(feat\. Ku One Chan\)](https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87) | 3:40 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 43 | [곁에 있어도 될까 Gently, By Your Side](https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [곁에 있어도 될까 Gently, By Your Side](https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld) | 2:58 |
 | 44 | [Lost Stars](https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:07 |
 | 45 | [지쳤어 Burned out](https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [건강하세모 Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 3:06 |
-| 46 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 |
-| 47 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 |
+| 46 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 |
+| 47 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 |
 | 48 | [시소](https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J) | [KiTak](https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM) | [시소](https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR) | 2:43 |
-| 49 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [조은세](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 |
-| 50 | [Lazy Me](https://open.spotify.com/track/3WHtA1TRzo9TCLFAPBafnq) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [My Little Thought](https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g) | 3:07 |
+| 49 | [Lazy Me](https://open.spotify.com/track/3WHtA1TRzo9TCLFAPBafnq) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [My Little Thought](https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g) | 3:07 |
+| 50 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [조은세](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 |
 
-Snapshot ID: `MCxhYmZhYTEwODAwZmNkYjUyNDViZjU0ZDIyOGJiYmI5ZTg2YzU2NzFm`
+Snapshot ID: `MCwyNWYyN2MwNjkyMWZhMTgwOTFmMjU1ZGNmYWFkNGNhMWE0NWQzNzk5`

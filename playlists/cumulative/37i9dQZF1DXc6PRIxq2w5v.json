@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Brunno Ramos",
+  "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN",
   "name": "Gospel Flow",
   "tracks": [
     {
@@ -688,6 +688,24 @@
     {
       "album": {
         "name": "Calma",
+        "url": "https://open.spotify.com/album/1c1UsM1NjxmLxlqV9RmPlU"
+      },
+      "artists": [
+        {
+          "name": "Jhonysul",
+          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220753,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/50Gp5YWpRz8Qo0BxmO7okA"
+    },
+    {
+      "album": {
+        "name": "Calma",
         "url": "https://open.spotify.com/album/5xOFDQNt2vNsse9z7auAs3"
       },
       "artists": [
@@ -706,6 +724,32 @@
       "duration_ms": 155076,
       "name": "Calma",
       "url": "https://open.spotify.com/track/5y4TUzw7Nn4H1OtXUdd6Vr"
+    },
+    {
+      "album": {
+        "name": "Caminhos da Vida",
+        "url": "https://open.spotify.com/album/1TE4JunRsZ4INVJUTBVsdN"
+      },
+      "artists": [
+        {
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "Duda Matos",
+          "url": "https://open.spotify.com/artist/4ZE7FQEuAyaqqG8wYi2mRq"
+        },
+        {
+          "name": "Yuri DSR",
+          "url": "https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231647,
+      "name": "Caminhos da Vida",
+      "url": "https://open.spotify.com/track/5f8wNnCFZfx0Lh8fhNgt7I"
     },
     {
       "album": {
@@ -3152,7 +3196,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 192187,
       "name": "Manh\u00e3",
       "url": "https://open.spotify.com/track/3h1cO432yKliTbViVAT6zr"
@@ -3348,7 +3392,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 140000,
       "name": "Menino Sonhador",
       "url": "https://open.spotify.com/track/5px1RdpmuxLZ3ysoR81k7W"

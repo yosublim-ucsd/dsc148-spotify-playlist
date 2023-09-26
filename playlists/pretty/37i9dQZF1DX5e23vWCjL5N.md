@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Il Tre
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,306 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,357 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 23 | [COL CUORE IN GOLA \- lords of dogtown](https://open.spotify.com/track/2ypcWaliFPJ9c3JeWMqi1w) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:08 |
 | 24 | [Lo\-fi For U](https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Lo\-fi For U](https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb) | 3:23 |
 | 25 | [WEEKEND \(feat\. Lazza, Madame & Massimo Pericolo\)](https://open.spotify.com/track/6xOC20CkoRKAwGWh32nPHL) | [BLOODY VINYL](https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU), [Slait](https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w), [5019](https://open.spotify.com/artist/0bIICDFvg6PqEWaZsfvpCR), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [BV3](https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW) | 3:00 |
-| 26 | [STO CHIN \(feat\. MadMan & Gemitaiz\)](https://open.spotify.com/track/4wiYIygHmce1gYERsSICnX) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 3:26 |
+| 26 | [STO CHIN \(feat\. MadMan & Gemitaiz\)](https://open.spotify.com/track/7I0w1w78nA41HxXXw8lH4y) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 3:26 |
 | 27 | [Cocaine](https://open.spotify.com/track/5xIlm5Scz7D2UFo6RyMMQE) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 3:05 |
 | 28 | [L'amore e la violenza \(feat\. Paky & 8blevrai\)](https://open.spotify.com/track/1FZU4LJgp5zKSR9QYfgSBK) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [L'amore e la violenza \(feat\. Paky & 8blevrai\)](https://open.spotify.com/album/0w8qPojpLzeQNbxgMq8aKf) | 4:06 |
 | 29 | [Re Mida](https://open.spotify.com/track/7fnHSgIITveyrYBAA1sxKR) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Re Mida](https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk) | 2:28 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 55 | [Noia](https://open.spotify.com/track/67eVdMdbm9cp8A1Thsdcr1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 4:44 |
 | 56 | [Veleno 8 \(feat\. Gemitaiz\)](https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 3:02 |
 
-Snapshot ID: `MCw2MjE2OTNmNTMwNGY4NGMzYWUwZDZiZTI3Y2FhNDUzOTQ2Mjk0YjVk`
+Snapshot ID: `MCwyZTc3ODM1M2UxNDEyMWE1N2FiNjVkNGM5NjFlYzgzYWNjMGQ3NGRj`

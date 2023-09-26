@@ -1,12 +1,12 @@
 {
   "description": "Canciones de rock con un toque de nostalgia.",
-  "num_followers": 102313,
+  "num_followers": 102383,
   "original_name": "Nostalgia + Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODk4NjcyMTFmNDUzMTc5M2MxMjNkZWZiYTE1MmFkYjQ4YTdiOTc1",
+  "snapshot_id": "MCxkMzdlODg0ZTU4NGNlZDlkYmJlZTNmZTZjZDRmZjE0ZjQ2NDI2MDAy",
   "tracks": [
     {
       "added_at": "2023-09-14 02:53:01",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-09-14 02:53:01",
       "album": {
-        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
-        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Devu\u00e9lveme a mi chica",
-      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
-    },
-    {
-      "added_at": "2023-09-14 02:53:01",
-      "album": {
         "name": "Tea For The Tillerman (Remastered 2020)",
         "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 200560,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
+    },
+    {
+      "added_at": "2023-09-14 02:53:01",
+      "album": {
+        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
+        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Devu\u00e9lveme a mi chica",
+      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
     },
     {
       "added_at": "2023-09-14 02:53:01",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-09-14 02:53:01",
       "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2023-09-14 02:53:01",
+      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -331,18 +347,18 @@
     {
       "added_at": "2023-09-14 02:53:01",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2023-09-14 02:53:01",
@@ -375,22 +391,6 @@
       "duration_ms": 263306,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
-    },
-    {
-      "added_at": "2023-09-14 02:53:01",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2023-09-14 02:53:01",
@@ -475,6 +475,38 @@
     {
       "added_at": "2023-09-14 02:53:01",
       "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
+    },
+    {
+      "added_at": "2023-09-14 02:53:01",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 334743,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
+    },
+    {
+      "added_at": "2023-09-14 02:53:01",
+      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -539,22 +571,6 @@
     {
       "added_at": "2023-09-14 02:53:01",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
-    },
-    {
-      "added_at": "2023-09-14 02:53:01",
-      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 267600,
       "name": "Eres",
       "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
-    },
-    {
-      "added_at": "2023-09-14 02:53:01",
-      "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 334743,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
     },
     {
       "added_at": "2023-09-14 02:53:01",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-09-14 02:53:01",
       "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 316826,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ"
-    },
-    {
-      "added_at": "2023-09-14 02:53:01",
-      "album": {
         "name": "One of These Nights (2013 Remaster)",
         "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 198333,
       "name": "No Te Apartes de M\u00ed",
       "url": "https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO"
+    },
+    {
+      "added_at": "2023-09-14 02:53:01",
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 316826,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ"
     },
     {
       "added_at": "2023-09-14 02:53:01",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-14 02:53:01",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
-      },
-      "artists": [
-        {
-          "name": "La Uni\u00f3n",
-          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Lobo-hombre en Par\u00eds",
-      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
-    },
-    {
-      "added_at": "2023-09-14 02:53:01",
-      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
+    {
+      "added_at": "2023-09-14 02:53:01",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Lobo-hombre en Par\u00eds",
+      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
     },
     {
       "added_at": "2023-09-14 02:53:01",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-14 02:53:01",
       "album": {
-        "name": "La Ley MTV Unplugged",
-        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 288066,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
-    },
-    {
-      "added_at": "2023-09-14 02:53:01",
-      "album": {
         "name": "Corazones",
         "url": "https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 336933,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv"
+    },
+    {
+      "added_at": "2023-09-14 02:53:01",
+      "album": {
+        "name": "La Ley MTV Unplugged",
+        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 288066,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
     },
     {
       "added_at": "2023-09-14 02:53:01",

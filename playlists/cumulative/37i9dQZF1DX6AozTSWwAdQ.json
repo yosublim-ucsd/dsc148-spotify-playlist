@@ -456,7 +456,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 205158,
       "name": "bloody valentine",
       "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
@@ -714,6 +714,24 @@
       "duration_ms": 218948,
       "name": "Broken & Beautiful",
       "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143407,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv"
     },
     {
       "album": {
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 156909,
       "name": "Desperate",
       "url": "https://open.spotify.com/track/5mzB0agonYZ1RDfsPdXt1K"
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 151533,
       "name": "EDGING",
       "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
@@ -2638,6 +2656,24 @@
       "duration_ms": 203000,
       "name": "I Like the Way",
       "url": "https://open.spotify.com/track/5fH69xcVMUgnhgXOd1V7bY"
+    },
+    {
+      "album": {
+        "name": "i suck at grieving",
+        "url": "https://open.spotify.com/album/7rwgNUuOGESDGhkAP98Ywu"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238414,
+      "name": "i suck at grieving",
+      "url": "https://open.spotify.com/track/1MIkIg97L17FYEUo3UCskt"
     },
     {
       "album": {
@@ -4484,7 +4520,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 191102,
       "name": "Shower Beer",
       "url": "https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S"

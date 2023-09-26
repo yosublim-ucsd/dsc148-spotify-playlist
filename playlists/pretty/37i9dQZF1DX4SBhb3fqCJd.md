@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 
 > Where R&B lives\. Featuring Brent Faiyaz, SZA, Summer Walker and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,270,464 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,271,525 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 | 50 | [Luv Songs \(Unruly\)](https://open.spotify.com/track/0puWG0IhM981IsC1hd2640) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Don't Get Too Cozy](https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI) | 2:55 |
 | 51 | [BAD HABITS](https://open.spotify.com/track/6syPVEsTBgBnBORZAsNQnH) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:05 |
 
-Snapshot ID: `MCw3ODk5OTliNDI4MmQxODAzZmViMWQ5Mjg2OWI4NGE1YzcyN2Q2ZDll`
+Snapshot ID: `MCw2MTIwMzY4OGI4Y2FiOGUzNWFlZTM3OTk4M2EyYzA4NzU3OWMwZmEz`

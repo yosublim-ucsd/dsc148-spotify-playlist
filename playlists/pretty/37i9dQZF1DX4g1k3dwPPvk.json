@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 267338,
+  "num_followers": 267406,
   "original_name": "90s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjJkNzczOGNiNTIxZjA3ZjRjZTJhMTM5NjA2MzU3Y2JlMjEyNmYw",
+  "snapshot_id": "MCxhM2ExNTg1OTI3NWYwMGQ5YWU0MGE1OGJjMzU2ZmY2OTk5M2Q4MDFh",
   "tracks": [
     {
       "added_at": "2023-02-17 21:06:33",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -439,38 +455,6 @@
       "duration_ms": 236800,
       "name": "Still Not a Player - Radio Version",
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -507,22 +491,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 307866,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -532,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 289600,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -551,6 +519,22 @@
       "duration_ms": 267826,
       "name": "Ciega, Sordomuda",
       "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 307866,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+      "duration_ms": 289600,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -715,6 +699,22 @@
       "duration_ms": 274773,
       "name": "Corazon Espinado",
       "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "If You Had My Love",
+      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
         "name": "Enrique Iglesias",
         "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 266000,
-      "name": "If You Had My Love",
-      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+      "duration_ms": 295280,
+      "name": "A Pedir Su Mano",
+      "url": "https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -843,22 +859,6 @@
       "duration_ms": 235906,
       "name": "Me haces tanto bien",
       "url": "https://open.spotify.com/track/5PM8SxOW02F9ChM0BLjALX"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "A Pedir Su Mano",
-      "url": "https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
+        "name": "Cara De Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 296026,
+      "name": "Cara de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 275040,
       "name": "Angel",
       "url": "https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
-        "name": "Cara De Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 296026,
-      "name": "Cara de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Marc Anthony",
-        "url": "https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "I Need to Know",
-      "url": "https://open.spotify.com/track/7ffwRz8lZyDOE4Vj58Lo72"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Hispanic Causing Panic",
         "url": "https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX"
       },
@@ -1311,6 +1295,38 @@
       "duration_ms": 206453,
       "name": "Vida",
       "url": "https://open.spotify.com/track/6i8KuACD15eZ84THZaG19i"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 277426,
+      "name": "La Copa de la Vida (La Cancion Oficial de la Copa Mundial, Francia '98) - Spanglish Radio Edit",
+      "url": "https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Marc Anthony",
+        "url": "https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "I Need to Know",
+      "url": "https://open.spotify.com/track/7ffwRz8lZyDOE4Vj58Lo72"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 277426,
-      "name": "La Copa de la Vida (La Cancion Oficial de la Copa Mundial, Francia '98) - Spanglish Radio Edit",
-      "url": "https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "En Concierto, Vol. 2",
         "url": "https://open.spotify.com/album/3LPGevFYVZeBWHbcik2qgu"
       },
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
+        "name": "Unidos Para Siempre",
+        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "El Circo",
+      "url": "https://open.spotify.com/track/0b4NG6vOqNdqzuJauiQkwE"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
         "name": "Serie 2000",
         "url": "https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 260533,
       "name": "Rica y Apretadita (feat. Anayka)",
       "url": "https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
-        "name": "Unidos Para Siempre",
-        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "El Circo",
-      "url": "https://open.spotify.com/track/0b4NG6vOqNdqzuJauiQkwE"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Quien Como T\u00fa",
-        "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Qui\u00e9n Como T\u00fa",
-      "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Sopa de Caracol, Golden Hits - Exitos de Siempre",
         "url": "https://open.spotify.com/album/01naNJTQzXeef1d5oYd7AQ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 288365,
       "name": "Sopa de Caracol",
       "url": "https://open.spotify.com/track/3ralpk3PMxEPoFKO0hiJMv"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Quien Como T\u00fa",
+        "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Qui\u00e9n Como T\u00fa",
+      "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1559,30 +1559,6 @@
       "duration_ms": 351333,
       "name": "Pero Qu\u00e9 Necesidad",
       "url": "https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Feelin' So Good - Remix featuring Big Pun & Fat Joe",
-      "url": "https://open.spotify.com/track/1AlvKwk3NBZ8lAt7GC6SiT"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1647,6 +1623,30 @@
       "duration_ms": 231640,
       "name": "Cerca De Ti",
       "url": "https://open.spotify.com/track/2NVcJgPcBsY2jQczl9y74L"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Feelin' So Good - Remix featuring Big Pun & Fat Joe",
+      "url": "https://open.spotify.com/track/1AlvKwk3NBZ8lAt7GC6SiT"
     }
   ],
   "unique_name": "90s Latino",

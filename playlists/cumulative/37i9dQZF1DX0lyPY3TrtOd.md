@@ -4,7 +4,7 @@
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-139 songs - 7 hr 48 min
+140 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,8 +105,9 @@
 | [Nuts](https://open.spotify.com/track/0CCjJJ7H7R8NMDggyZxIZU) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Nuts](https://open.spotify.com/album/2W6d846yiktbTixQ8IdKuX) | 2:03 | 2023-03-02 | 2023-08-23 |
 | [Off Goes The Light](https://open.spotify.com/track/2jXZYoIEspEBQzRQuJp0hf) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [BIB10](https://open.spotify.com/album/0oQnzhETkhY0LgeWGeEI4S) | 4:33 | 2023-02-23 |  |
 | [On Repeat \- Single Edit](https://open.spotify.com/track/6DYYvuS33ooMZgNXrYk1cJ) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [On Repeat](https://open.spotify.com/album/39KoavteTlQETyKudqlegD) | 3:28 | 2023-02-23 | 2023-04-05 |
+| [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-24 |  |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-01 | 2023-06-18 |
-| [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-09 |  |
+| [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-09 | 2023-09-26 |
 | [Paper Straws](https://open.spotify.com/track/2gGseH8fhd7BIkQQdIBnHo) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Echo Palace](https://open.spotify.com/album/2GVqe5obMxcMojXO9Rsrkj) | 3:07 | 2023-05-12 |  |
 | [Peace, Love & Profit](https://open.spotify.com/track/7jByqm6en8id0GM0NbVth9) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [yellow](https://open.spotify.com/album/5COeDegmKD30s0oDWAY1Cb) | 2:57 | 2023-02-23 | 2023-04-05 |
 | [Peachy Free](https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Peachy Free](https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94) | 2:34 | 2023-09-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 16049,
+  "num_followers": 16059,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTg1N2UwODMxNDE3Yzc0OWRmNDAyNjVkZjg5OGRkN2U4YTIxN2M3",
+  "snapshot_id": "MCwwODY0YmRmOTkyZjI0NzMxY2RhZWNhZTI4YmU1MmZmYWMxNTU2ZmIy",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -155,38 +155,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danzones a la Manera del Campeon, Vol. 1",
-        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
-      },
-      "artists": [
-        {
-          "name": "Carlos Campos Y Orquesta",
-          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Palillos Chinos",
-      "url": "https://open.spotify.com/track/68HJErw94TSvoBPiddSnwo"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danzones a la Mexicana",
-        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
-      },
-      "artists": [
-        {
-          "name": "Acerina Y Su Danzonera",
-          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
-        }
-      ],
-      "duration_ms": 152006,
-      "name": "Sal\u00f3n M\u00e9xico",
-      "url": "https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Popurr\u00ed Mambos, Danz\u00f3n Nereidas y Varios M\u00e1s",
         "url": "https://open.spotify.com/album/50DGxJynqVVHx33ZKp96NN"
       },
@@ -199,38 +167,6 @@
       "duration_ms": 269573,
       "name": "Potpurr\u00ed Cha Cha Cha: El Maletero / Coraz\u00f3n de Mel\u00f3n / Calculadora",
       "url": "https://open.spotify.com/track/2YhwzPB0x55lsG7BZ8VzYH"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danzon",
-        "url": "https://open.spotify.com/album/3qVi26P9QDNh5YlBaF6aEI"
-      },
-      "artists": [
-        {
-          "name": "Merceron y Acerina",
-          "url": "https://open.spotify.com/artist/4uUwbi4eyZLxoR2J8v2Ja3"
-        }
-      ],
-      "duration_ms": 196053,
-      "name": "Floresita",
-      "url": "https://open.spotify.com/track/68oyMk9WvPVRIVSAWa5V7G"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danzones Y Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
-      },
-      "artists": [
-        {
-          "name": "Orquesta de Mexico de Pedro Mendoza",
-          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Donde Estas Corazon",
-      "url": "https://open.spotify.com/track/6t8FrQomRssRv71KTqjkj6"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -251,18 +187,34 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Leyenda Viviente del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
+        "name": "Danzon",
+        "url": "https://open.spotify.com/album/3qVi26P9QDNh5YlBaF6aEI"
       },
       "artists": [
         {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+          "name": "Merceron y Acerina",
+          "url": "https://open.spotify.com/artist/4uUwbi4eyZLxoR2J8v2Ja3"
         }
       ],
-      "duration_ms": 257613,
-      "name": "Mocambo",
-      "url": "https://open.spotify.com/track/0on8z1fhBmY13qS34qSSnM"
+      "duration_ms": 196053,
+      "name": "Floresita",
+      "url": "https://open.spotify.com/track/68oyMk9WvPVRIVSAWa5V7G"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danzones a la Mexicana",
+        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "duration_ms": 152006,
+      "name": "Sal\u00f3n M\u00e9xico",
+      "url": "https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -276,9 +228,41 @@
           "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
         }
       ],
-      "duration_ms": 251585,
-      "name": "Zacatlan",
-      "url": "https://open.spotify.com/track/1O6WPRh15WrrE01jmvDToB"
+      "duration_ms": 190066,
+      "name": "Palillos Chinos",
+      "url": "https://open.spotify.com/track/68HJErw94TSvoBPiddSnwo"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danzones Y Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
+      },
+      "artists": [
+        {
+          "name": "Orquesta de Mexico de Pedro Mendoza",
+          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Donde Estas Corazon",
+      "url": "https://open.spotify.com/track/6t8FrQomRssRv71KTqjkj6"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "La Leyenda Viviente del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
+      },
+      "artists": [
+        {
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        }
+      ],
+      "duration_ms": 257613,
+      "name": "Mocambo",
+      "url": "https://open.spotify.com/track/0on8z1fhBmY13qS34qSSnM"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -299,22 +283,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Almendra",
-        "url": "https://open.spotify.com/album/0Utl34K58CpnPGNsdxpzUx"
-      },
-      "artists": [
-        {
-          "name": "Acerina Y Su Danzonera",
-          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
-        }
-      ],
-      "duration_ms": 162632,
-      "name": "Almendra",
-      "url": "https://open.spotify.com/track/2d7enT2XqHbg5xZSylQt7P"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Moliendo Caf\u00e9",
         "url": "https://open.spotify.com/album/1HXvBAMUIJYDXtB9prveKb"
       },
@@ -327,22 +295,6 @@
       "duration_ms": 187861,
       "name": "Moliendo Caf\u00e9",
       "url": "https://open.spotify.com/track/1mRo2DqYRkchxYHMg6ng2u"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danzones Y Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
-      },
-      "artists": [
-        {
-          "name": "Orquesta de Mexico de Pedro Mendoza",
-          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
-        }
-      ],
-      "duration_ms": 189266,
-      "name": "Popurri Cha Cha Cha",
-      "url": "https://open.spotify.com/track/2OmOONZmSrUjePmpBVvUzX"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -363,6 +315,38 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
+        "name": "Almendra",
+        "url": "https://open.spotify.com/album/0Utl34K58CpnPGNsdxpzUx"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "duration_ms": 162632,
+      "name": "Almendra",
+      "url": "https://open.spotify.com/track/2d7enT2XqHbg5xZSylQt7P"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danzones Salon Mexico",
+        "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
+      },
+      "artists": [
+        {
+          "name": "Los Mejores Danzones",
+          "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
+        }
+      ],
+      "duration_ms": 155297,
+      "name": "Salon de Mexico",
+      "url": "https://open.spotify.com/track/2WbErabj0cRWagyYlnRY3G"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
         "name": "Danzon Cubano, Vol. I",
         "url": "https://open.spotify.com/album/5DRDkmsYbw7aQ9P4CWfOCa"
       },
@@ -375,6 +359,70 @@
       "duration_ms": 186644,
       "name": "Emilio Amarra A Tu Perro",
       "url": "https://open.spotify.com/track/5IT4KXtDnBXfW0ZJ8gAYTC"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Dios Mio Amparame",
+        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
+      },
+      "artists": [
+        {
+          "name": "Danzonera La Playa",
+          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
+        }
+      ],
+      "duration_ms": 287360,
+      "name": "La Antigua",
+      "url": "https://open.spotify.com/track/03Mn7cdbPJMiv16jcaK0lQ"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danzones Y Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
+      },
+      "artists": [
+        {
+          "name": "Orquesta de Mexico de Pedro Mendoza",
+          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
+        }
+      ],
+      "duration_ms": 189266,
+      "name": "Popurri Cha Cha Cha",
+      "url": "https://open.spotify.com/track/2OmOONZmSrUjePmpBVvUzX"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danzones a la Manera del Campeon, Vol. 1",
+        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
+      },
+      "artists": [
+        {
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+        }
+      ],
+      "duration_ms": 251585,
+      "name": "Zacatlan",
+      "url": "https://open.spotify.com/track/1O6WPRh15WrrE01jmvDToB"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Mis Danzones Favoritos",
+        "url": "https://open.spotify.com/album/2z7IE1mfHDEqWcRTlTKgU8"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "duration_ms": 189178,
+      "name": "Tel\u00e9fono a Larga Distancia",
+      "url": "https://open.spotify.com/track/1i3TNrkFQvNbLkIJaoPGr2"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -399,22 +447,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Algo Nuevo en Danzon",
-        "url": "https://open.spotify.com/album/7ACakhlXywfd8Uvv2HAOEP"
-      },
-      "artists": [
-        {
-          "name": "Carlos Campos Y Orquesta",
-          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
-        }
-      ],
-      "duration_ms": 222197,
-      "name": "Campanario",
-      "url": "https://open.spotify.com/track/2zPOyiVqfcMmTyG3hi5Sen"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Danzones Salon Mexico",
         "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
       },
@@ -424,57 +456,9 @@
           "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
         }
       ],
-      "duration_ms": 155297,
-      "name": "Salon de Mexico",
-      "url": "https://open.spotify.com/track/2WbErabj0cRWagyYlnRY3G"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Mis Danzones Favoritos",
-        "url": "https://open.spotify.com/album/2z7IE1mfHDEqWcRTlTKgU8"
-      },
-      "artists": [
-        {
-          "name": "Acerina Y Su Danzonera",
-          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
-        }
-      ],
-      "duration_ms": 189178,
-      "name": "Tel\u00e9fono a Larga Distancia",
-      "url": "https://open.spotify.com/track/1i3TNrkFQvNbLkIJaoPGr2"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danzones Y Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
-      },
-      "artists": [
-        {
-          "name": "Orquesta de Mexico de Pedro Mendoza",
-          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "Pulque Para Dos",
-      "url": "https://open.spotify.com/track/0asAw2SlEosgffdp0Fn6F9"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Dios Mio Amparame",
-        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
-      },
-      "artists": [
-        {
-          "name": "Danzonera La Playa",
-          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
-        }
-      ],
-      "duration_ms": 287360,
-      "name": "La Antigua",
-      "url": "https://open.spotify.com/track/03Mn7cdbPJMiv16jcaK0lQ"
+      "duration_ms": 182517,
+      "name": "El 13-20",
+      "url": "https://open.spotify.com/track/1ViXZ4USiaIIAsk5RgR9sw"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -495,18 +479,50 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Los Reyes del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4gcpaZ5fvmHylo6d019Nk9"
+        "name": "Sal\u00f3n M\u00e9xico Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DBbnXxLEWfCJuRjF4BayU"
       },
       "artists": [
         {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+          "name": "Int. P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/705bmH4mbFipocBj4Cc3U3"
         }
       ],
-      "duration_ms": 250800,
-      "name": "Nereidas",
-      "url": "https://open.spotify.com/track/1K8dbgWWPoEdB6OP5bfHt0"
+      "duration_ms": 158493,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/4jQ4EzE3W26jD5lU2YleHD"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Algo Nuevo en Danzon",
+        "url": "https://open.spotify.com/album/7ACakhlXywfd8Uvv2HAOEP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+        }
+      ],
+      "duration_ms": 222197,
+      "name": "Campanario",
+      "url": "https://open.spotify.com/track/2zPOyiVqfcMmTyG3hi5Sen"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danzones Y Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
+      },
+      "artists": [
+        {
+          "name": "Orquesta de Mexico de Pedro Mendoza",
+          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "Pulque Para Dos",
+      "url": "https://open.spotify.com/track/0asAw2SlEosgffdp0Fn6F9"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -531,66 +547,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danzones Salon Mexico",
-        "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
+        "name": "Los Reyes del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4gcpaZ5fvmHylo6d019Nk9"
       },
       "artists": [
         {
-          "name": "Los Mejores Danzones",
-          "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
         }
       ],
-      "duration_ms": 182517,
-      "name": "El 13-20",
-      "url": "https://open.spotify.com/track/1ViXZ4USiaIIAsk5RgR9sw"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danzones Y Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
-      },
-      "artists": [
-        {
-          "name": "Orquesta de Mexico de Pedro Mendoza",
-          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
-        }
-      ],
-      "duration_ms": 313253,
-      "name": "Acayucan",
-      "url": "https://open.spotify.com/track/1J30Fv6OF4KDDYIfhHUcua"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Sal\u00f3n M\u00e9xico Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DBbnXxLEWfCJuRjF4BayU"
-      },
-      "artists": [
-        {
-          "name": "Int. P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/705bmH4mbFipocBj4Cc3U3"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/4jQ4EzE3W26jD5lU2YleHD"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danzones a la Manera del Campeon, Vol. 1",
-        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
-      },
-      "artists": [
-        {
-          "name": "Carlos Campos Y Orquesta",
-          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
-        }
-      ],
-      "duration_ms": 275879,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/2gSZ9m946bHN9NeHITL5rf"
+      "duration_ms": 250800,
+      "name": "Nereidas",
+      "url": "https://open.spotify.com/track/1K8dbgWWPoEdB6OP5bfHt0"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -627,22 +595,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danzones Salon Mexico",
-        "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
-      },
-      "artists": [
-        {
-          "name": "Los Mejores Danzones",
-          "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
-        }
-      ],
-      "duration_ms": 199288,
-      "name": "Caldo de Oso",
-      "url": "https://open.spotify.com/track/3MsAogIkJ57WmRm1G8mu7X"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Sones y Tradiciones (feat. Cachao)",
         "url": "https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte"
       },
@@ -659,6 +611,54 @@
       "duration_ms": 251866,
       "name": "Isora Club (Danzon)",
       "url": "https://open.spotify.com/track/1NaLxDm29Sw7ecSYVt29Ii"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danzones Salon Mexico",
+        "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
+      },
+      "artists": [
+        {
+          "name": "Los Mejores Danzones",
+          "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
+        }
+      ],
+      "duration_ms": 199288,
+      "name": "Caldo de Oso",
+      "url": "https://open.spotify.com/track/3MsAogIkJ57WmRm1G8mu7X"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danzones Y Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
+      },
+      "artists": [
+        {
+          "name": "Orquesta de Mexico de Pedro Mendoza",
+          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
+        }
+      ],
+      "duration_ms": 313253,
+      "name": "Acayucan",
+      "url": "https://open.spotify.com/track/1J30Fv6OF4KDDYIfhHUcua"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danzones a la Manera del Campeon, Vol. 1",
+        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
+      },
+      "artists": [
+        {
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+        }
+      ],
+      "duration_ms": 275879,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/2gSZ9m946bHN9NeHITL5rf"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -695,50 +695,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Photograph",
-        "url": "https://open.spotify.com/album/0U3vkKfqKfL2qwIeIDuhAu"
+        "name": "Danzones Salon Mexico",
+        "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
       },
       "artists": [
         {
-          "name": "Acerina Danzones Clasicos",
-          "url": "https://open.spotify.com/artist/2LoK59Px8zPQ22MdDbvZ6m"
+          "name": "Los Mejores Danzones",
+          "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
         }
       ],
-      "duration_ms": 115919,
-      "name": "Ju\u00e1rez No Debio Morir",
-      "url": "https://open.spotify.com/track/1vGFJE6X3Gcm0JSlofUqM6"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danzonera Joven de Mexico de Chamaco Aguilar, Vol. 8",
-        "url": "https://open.spotify.com/album/3CCGZUuLXFevDPis8kFCtO"
-      },
-      "artists": [
-        {
-          "name": "Danzonera Joven De Mexico De Chamaco Aguilar",
-          "url": "https://open.spotify.com/artist/6Fi7yJcvGE7amhDjYSg0fs"
-        }
-      ],
-      "duration_ms": 259765,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/3X0dPC4fhVM09yXmlzQkfc"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danz\u00f3n Inmortal",
-        "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
-      },
-      "artists": [
-        {
-          "name": "Alex Lora Serna",
-          "url": "https://open.spotify.com/artist/7G80zio9xkTiB15XdToqNX"
-        }
-      ],
-      "duration_ms": 320806,
-      "name": "Danz\u00f3n de Lora",
-      "url": "https://open.spotify.com/track/6JRLkLO9e5DSq5dAWJv0It"
+      "duration_ms": 179591,
+      "name": "La Margarita",
+      "url": "https://open.spotify.com/track/5KPmUdqg6aJIXsyPLOQ8Yh"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -759,18 +727,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danzones Salon Mexico",
-        "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
+        "name": "Photograph",
+        "url": "https://open.spotify.com/album/0U3vkKfqKfL2qwIeIDuhAu"
       },
       "artists": [
         {
-          "name": "Los Mejores Danzones",
-          "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
+          "name": "Acerina Danzones Clasicos",
+          "url": "https://open.spotify.com/artist/2LoK59Px8zPQ22MdDbvZ6m"
         }
       ],
-      "duration_ms": 179591,
-      "name": "La Margarita",
-      "url": "https://open.spotify.com/track/5KPmUdqg6aJIXsyPLOQ8Yh"
+      "duration_ms": 115919,
+      "name": "Ju\u00e1rez No Debio Morir",
+      "url": "https://open.spotify.com/track/1vGFJE6X3Gcm0JSlofUqM6"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -787,6 +755,54 @@
       "duration_ms": 294066,
       "name": "Juan Va Pa'l Guerra",
       "url": "https://open.spotify.com/track/2DJDXmZcKjvSxtFbp7j97z"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danzonera Joven de Mexico de Chamaco Aguilar, Vol. 8",
+        "url": "https://open.spotify.com/album/3CCGZUuLXFevDPis8kFCtO"
+      },
+      "artists": [
+        {
+          "name": "Danzonera Joven De Mexico De Chamaco Aguilar",
+          "url": "https://open.spotify.com/artist/6Fi7yJcvGE7amhDjYSg0fs"
+        }
+      ],
+      "duration_ms": 259765,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/3X0dPC4fhVM09yXmlzQkfc"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "La Leyenda Viviente del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
+      },
+      "artists": [
+        {
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/1izJYZ9SVsZfJrE3bqbVp7"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danz\u00f3n Inmortal",
+        "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
+      },
+      "artists": [
+        {
+          "name": "Alex Lora Serna",
+          "url": "https://open.spotify.com/artist/7G80zio9xkTiB15XdToqNX"
+        }
+      ],
+      "duration_ms": 320806,
+      "name": "Danz\u00f3n de Lora",
+      "url": "https://open.spotify.com/track/6JRLkLO9e5DSq5dAWJv0It"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -823,22 +839,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Leyenda Viviente del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
-      },
-      "artists": [
-        {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/1izJYZ9SVsZfJrE3bqbVp7"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Danz\u00f3n Inmortal",
         "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 211622,
       "name": "Ofelia",
       "url": "https://open.spotify.com/track/2coXrhZjBOV8jjwNbpLyf2"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Aut\u00e9ntico Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
-      },
-      "artists": [
-        {
-          "name": "La Danzonera Joven De M\u00e9xico Del \"Chamaco Aguilar\"",
-          "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
-        }
-      ],
-      "duration_ms": 258530,
-      "name": "Bodas de Oro",
-      "url": "https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -887,18 +871,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Dios Mio Amparame",
-        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
+        "name": "Aut\u00e9ntico Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
       },
       "artists": [
         {
-          "name": "Danzonera La Playa",
-          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
+          "name": "La Danzonera Joven De M\u00e9xico Del \"Chamaco Aguilar\"",
+          "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
         }
       ],
-      "duration_ms": 379626,
-      "name": "Hay Que Echar Manteca",
-      "url": "https://open.spotify.com/track/2gp3a4KYsboX8thnGHtpmH"
+      "duration_ms": 258530,
+      "name": "Bodas de Oro",
+      "url": "https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -915,6 +899,22 @@
       "duration_ms": 135053,
       "name": "Murmurando (Whispering)",
       "url": "https://open.spotify.com/track/4dyo74hkzmo3r263Cjiw82"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Dios Mio Amparame",
+        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
+      },
+      "artists": [
+        {
+          "name": "Danzonera La Playa",
+          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
+        }
+      ],
+      "duration_ms": 379626,
+      "name": "Hay Que Echar Manteca",
+      "url": "https://open.spotify.com/track/2gp3a4KYsboX8thnGHtpmH"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "El Embrujo del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
-      },
-      "artists": [
-        {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        },
-        {
-          "name": "Vicente Labastida Velasco",
-          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "Josefina",
-      "url": "https://open.spotify.com/track/19eylWjaNeiQThuH2dKKIc"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Danzones Salon Mexico",
         "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 273345,
       "name": "Kid Azteca",
       "url": "https://open.spotify.com/track/0gjzQGng626FCeJu9xFfrq"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "El Embrujo del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
+      },
+      "artists": [
+        {
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        },
+        {
+          "name": "Vicente Labastida Velasco",
+          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "Josefina",
+      "url": "https://open.spotify.com/track/19eylWjaNeiQThuH2dKKIc"
     },
     {
       "added_at": "2022-08-02 23:28:22",

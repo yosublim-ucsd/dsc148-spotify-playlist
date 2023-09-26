@@ -1,12 +1,12 @@
 {
-  "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3606204,
+  "description": "Porque todo el mundo se merece una playlist con las mejores canciones pop rom\u00e1nticas.",
+  "num_followers": 3606249,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjJhMzlmNDM1YjZjODNhNTg1YWZiMDY1MWIzOTJhOGM1ZTY3NWIw",
+  "snapshot_id": "MCw4ZmM3ZjFkOTc3YTZmNzlkYjM4OTQ3ZWYzNTNkZmJjYzEyOGY2Yzg5",
   "tracks": [
     {
       "added_at": "2022-12-08 16:33:34",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -207,18 +207,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -351,26 +351,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
         "url": "https://open.spotify.com/album/4i7GEsKuuCtECD5l0VUctL"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 218293,
       "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
       "url": "https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 162797,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Get Weird (Expanded Edition)",
         "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 162797,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -843,38 +843,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
-      "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -887,6 +855,22 @@
       "duration_ms": 295502,
       "name": "Hello",
       "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
+      "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -907,6 +891,22 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -959,22 +959,6 @@
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 231120,
-      "name": "Pointless",
-      "url": "https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 231120,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Halcyon Nights",
         "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
       },
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
       },
       "artists": [
         {
           "name": "Justin Bieber",
           "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 190779,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
+      "duration_ms": 212093,
+      "name": "Holy (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1207,6 +1211,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190779,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 219493,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Holy (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 276289,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/2ntpyUU3itxHWcJnOJmVic"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 212224,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 211253,
       "name": "Nobody's Love",
       "url": "https://open.spotify.com/track/2ST72jD2KVe7f3fbcGyX1b"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Come On Over (Diamond Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 211842,
-      "name": "You're Still The One - International Mix",
-      "url": "https://open.spotify.com/track/0KANgTW49bVyG7IcI7HIia"
     },
     {
       "added_at": "2022-12-08 16:33:34",

@@ -1,12 +1,12 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: James Francis",
-  "num_followers": 33216,
+  "num_followers": 33266,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2UxYjkzODI4YmRmY2QyYTg5OWY2NzNmMjEzNzI3ODVkMzhiMzQw",
+  "snapshot_id": "MCw3MjEwZGNjYTJhN2E3Y2IzMDQwMjQ3NmI1MzgxYTIyZjVjZDMzNTVi",
   "tracks": [
     {
       "added_at": "2023-09-22 00:01:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Keep Cruising",
-        "url": "https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT"
-      },
-      "artists": [
-        {
-          "name": "Erik von Spreckelsen",
-          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Keep Cruising",
-      "url": "https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Hypnagogia Wakefull Dreams",
         "url": "https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 114162,
       "name": "Mollo",
       "url": "https://open.spotify.com/track/2zAW1pqECiIMWZ9CvqpdS2"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Keep Cruising",
+        "url": "https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT"
+      },
+      "artists": [
+        {
+          "name": "Erik von Spreckelsen",
+          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Keep Cruising",
+      "url": "https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Midnight Tokyo",
-        "url": "https://open.spotify.com/album/1vIQMLWca2bhhBYnyDq2b0"
-      },
-      "artists": [
-        {
-          "name": "Dreamlike Studio",
-          "url": "https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF"
-        }
-      ],
-      "duration_ms": 129373,
-      "name": "Midnight Tokyo",
-      "url": "https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Cruize",
         "url": "https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 160200,
       "name": "Cruize",
       "url": "https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Midnight Tokyo",
+        "url": "https://open.spotify.com/album/1vIQMLWca2bhhBYnyDq2b0"
+      },
+      "artists": [
+        {
+          "name": "Dreamlike Studio",
+          "url": "https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF"
+        }
+      ],
+      "duration_ms": 129373,
+      "name": "Midnight Tokyo",
+      "url": "https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -459,22 +459,6 @@
       "duration_ms": 205000,
       "name": "Jumbled",
       "url": "https://open.spotify.com/track/4GRqG2sOqaHKnHkkMaiuMF"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 272124,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -519,6 +503,22 @@
       "duration_ms": 170451,
       "name": "Extra Careless",
       "url": "https://open.spotify.com/track/08TvszYfAO8OYcpizm5R82"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 272124,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -571,22 +571,18 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "SGJAZZ, Vol. 2",
-        "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
+        "name": "Digilog I",
+        "url": "https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V"
       },
       "artists": [
         {
-          "name": "SGJAZZ",
-          "url": "https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G"
-        },
-        {
-          "name": "Dr. Dundiff",
-          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+          "name": "Rob Araujo",
+          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
         }
       ],
-      "duration_ms": 90600,
-      "name": "Night Swim",
-      "url": "https://open.spotify.com/track/0COa6aw2qYulXlzsraUqCk"
+      "duration_ms": 167710,
+      "name": "no, regrets",
+      "url": "https://open.spotify.com/track/2npDMSs7eYvQl81VEKMRKX"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -615,18 +611,38 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Digilog I",
-        "url": "https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V"
+        "name": "SGJAZZ, Vol. 2",
+        "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
       },
       "artists": [
         {
-          "name": "Rob Araujo",
-          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
+          "name": "SGJAZZ",
+          "url": "https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G"
+        },
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
         }
       ],
-      "duration_ms": 167710,
-      "name": "no, regrets",
-      "url": "https://open.spotify.com/track/2npDMSs7eYvQl81VEKMRKX"
+      "duration_ms": 90600,
+      "name": "Night Swim",
+      "url": "https://open.spotify.com/track/0COa6aw2qYulXlzsraUqCk"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "OLDRICH",
+        "url": "https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl"
+      },
+      "artists": [
+        {
+          "name": "Tamotsu LeftGroove",
+          "url": "https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx"
+        }
+      ],
+      "duration_ms": 141020,
+      "name": "OLDRICH",
+      "url": "https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -663,22 +679,6 @@
       "duration_ms": 138000,
       "name": "Nardis",
       "url": "https://open.spotify.com/track/0MO6SnNz53dYGbAb0UFBx9"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "OLDRICH",
-        "url": "https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl"
-      },
-      "artists": [
-        {
-          "name": "Tamotsu LeftGroove",
-          "url": "https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx"
-        }
-      ],
-      "duration_ms": 141020,
-      "name": "OLDRICH",
-      "url": "https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -855,54 +855,34 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Jazz Cats",
-        "url": "https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv"
+        "name": "Sun Drops",
+        "url": "https://open.spotify.com/album/6JhhmF9rjvZ7rIIMqsa91k"
       },
       "artists": [
         {
-          "name": "Gas Lab",
-          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
         }
       ],
-      "duration_ms": 145272,
-      "name": "Ancestors",
-      "url": "https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc"
+      "duration_ms": 184500,
+      "name": "Sun Drops",
+      "url": "https://open.spotify.com/track/329x1AzCPqgaeiYLayRKQt"
     },
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "fugla",
-        "url": "https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO"
+        "name": "It's Ok, B U",
+        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
       },
       "artists": [
         {
-          "name": "Flughand",
-          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
-        },
-        {
-          "name": "steichi",
-          "url": "https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl"
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
         }
       ],
-      "duration_ms": 130240,
-      "name": "fugla",
-      "url": "https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Floatin'",
-        "url": "https://open.spotify.com/album/7shx8fYQh8g5BbUcFI5O8j"
-      },
-      "artists": [
-        {
-          "name": "Charlie Calz Beats",
-          "url": "https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp"
-        }
-      ],
-      "duration_ms": 112985,
-      "name": "Floatin'",
-      "url": "https://open.spotify.com/track/7JPmC8sAcMDf6io63mPmIB"
+      "duration_ms": 262846,
+      "name": "It's Ok, B U",
+      "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -927,18 +907,54 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Sun Drops",
-        "url": "https://open.spotify.com/album/6JhhmF9rjvZ7rIIMqsa91k"
+        "name": "Jazz Cats",
+        "url": "https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv"
       },
       "artists": [
         {
-          "name": "Midan",
-          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+          "name": "Gas Lab",
+          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
         }
       ],
-      "duration_ms": 184500,
-      "name": "Sun Drops",
-      "url": "https://open.spotify.com/track/329x1AzCPqgaeiYLayRKQt"
+      "duration_ms": 145272,
+      "name": "Ancestors",
+      "url": "https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Floatin'",
+        "url": "https://open.spotify.com/album/7shx8fYQh8g5BbUcFI5O8j"
+      },
+      "artists": [
+        {
+          "name": "Charlie Calz Beats",
+          "url": "https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp"
+        }
+      ],
+      "duration_ms": 112985,
+      "name": "Floatin'",
+      "url": "https://open.spotify.com/track/7JPmC8sAcMDf6io63mPmIB"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "fugla",
+        "url": "https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO"
+      },
+      "artists": [
+        {
+          "name": "Flughand",
+          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
+        },
+        {
+          "name": "steichi",
+          "url": "https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl"
+        }
+      ],
+      "duration_ms": 130240,
+      "name": "fugla",
+      "url": "https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1043,6 +1059,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Remote Planet",
+        "url": "https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Remote Planet",
+      "url": "https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Twelve Chapters",
         "url": "https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf"
       },
@@ -1060,45 +1092,13 @@
           "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
         },
         {
-          "name": "Yasper",
-          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
+          "name": "Slug",
+          "url": "https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3"
         }
       ],
-      "duration_ms": 139451,
-      "name": "The Banquet",
-      "url": "https://open.spotify.com/track/0zBVBRE5tTBUCi3EKgECpO"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Remote Planet",
-        "url": "https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R"
-      },
-      "artists": [
-        {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Remote Planet",
-      "url": "https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "It's Ok, B U",
-        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 262846,
-      "name": "It's Ok, B U",
-      "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
+      "duration_ms": 223475,
+      "name": "Dr. Disclosure",
+      "url": "https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1175,34 +1175,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Twelve Chapters",
-        "url": "https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf"
-      },
-      "artists": [
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
-        },
-        {
-          "name": "S\u00f8ren S\u00f8strom",
-          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        },
-        {
-          "name": "Slug",
-          "url": "https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3"
-        }
-      ],
-      "duration_ms": 223475,
-      "name": "Dr. Disclosure",
-      "url": "https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Realm of Ideas",
         "url": "https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1"
       },
@@ -1223,18 +1195,30 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Is This Jazz?",
-        "url": "https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8"
+        "name": "Twelve Chapters",
+        "url": "https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf"
       },
       "artists": [
         {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        },
+        {
+          "name": "Yasper",
+          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
         }
       ],
-      "duration_ms": 181855,
-      "name": "Is This Jazz?",
-      "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
+      "duration_ms": 139451,
+      "name": "The Banquet",
+      "url": "https://open.spotify.com/track/0zBVBRE5tTBUCi3EKgECpO"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1259,26 +1243,18 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Kebab Sauce",
-        "url": "https://open.spotify.com/album/2ErhKjzJvbAV07mb7VWD54"
+        "name": "Is This Jazz?",
+        "url": "https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8"
       },
       "artists": [
         {
-          "name": "James Iwa",
-          "url": "https://open.spotify.com/artist/1fmklyMt530qdVGqeYfB23"
-        },
-        {
-          "name": "Jo Mayasi",
-          "url": "https://open.spotify.com/artist/4mwPFf1mRv53R17AYvoiUK"
-        },
-        {
-          "name": "Shems Bendali",
-          "url": "https://open.spotify.com/artist/0JxUQEHGmTmloT5BoqtHQG"
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
         }
       ],
-      "duration_ms": 181032,
-      "name": "Kebab Sauce",
-      "url": "https://open.spotify.com/track/0xfbi9XImWDPx2cmuqzFzZ"
+      "duration_ms": 181855,
+      "name": "Is This Jazz?",
+      "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1299,6 +1275,30 @@
       "duration_ms": 148556,
       "name": "Discovery at the Beach",
       "url": "https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Kebab Sauce",
+        "url": "https://open.spotify.com/album/2ErhKjzJvbAV07mb7VWD54"
+      },
+      "artists": [
+        {
+          "name": "James Iwa",
+          "url": "https://open.spotify.com/artist/1fmklyMt530qdVGqeYfB23"
+        },
+        {
+          "name": "Jo Mayasi",
+          "url": "https://open.spotify.com/artist/4mwPFf1mRv53R17AYvoiUK"
+        },
+        {
+          "name": "Shems Bendali",
+          "url": "https://open.spotify.com/artist/0JxUQEHGmTmloT5BoqtHQG"
+        }
+      ],
+      "duration_ms": 181032,
+      "name": "Kebab Sauce",
+      "url": "https://open.spotify.com/track/0xfbi9XImWDPx2cmuqzFzZ"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Verdant",
+        "url": "https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t"
+      },
+      "artists": [
+        {
+          "name": "khoa",
+          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
+        }
+      ],
+      "duration_ms": 146437,
+      "name": "Verdant",
+      "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Complete",
         "url": "https://open.spotify.com/album/3ui55ZOYWJ4WF1UCjAGGD6"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 217778,
       "name": "Complete",
       "url": "https://open.spotify.com/track/1iKafONIrGrPtZf5R4zXAh"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Verdant",
-        "url": "https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t"
-      },
-      "artists": [
-        {
-          "name": "khoa",
-          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
-        }
-      ],
-      "duration_ms": 146437,
-      "name": "Verdant",
-      "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Dunt Dunt",
-        "url": "https://open.spotify.com/album/0d44FiJn8kD8I5rS87GCEp"
-      },
-      "artists": [
-        {
-          "name": "Graeme Gengras",
-          "url": "https://open.spotify.com/artist/2Czbu25dJ8diFJ2ahMgcCq"
-        }
-      ],
-      "duration_ms": 269636,
-      "name": "Dunt Dunt",
-      "url": "https://open.spotify.com/track/4DbTun4ivORsEpwLJ877qw"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Routes To Knowledge",
         "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 177201,
       "name": "Routes To Knowledge",
       "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Dunt Dunt",
+        "url": "https://open.spotify.com/album/0d44FiJn8kD8I5rS87GCEp"
+      },
+      "artists": [
+        {
+          "name": "Graeme Gengras",
+          "url": "https://open.spotify.com/artist/2Czbu25dJ8diFJ2ahMgcCq"
+        }
+      ],
+      "duration_ms": 269636,
+      "name": "Dunt Dunt",
+      "url": "https://open.spotify.com/track/4DbTun4ivORsEpwLJ877qw"
     },
     {
       "added_at": "2023-09-22 00:01:00",

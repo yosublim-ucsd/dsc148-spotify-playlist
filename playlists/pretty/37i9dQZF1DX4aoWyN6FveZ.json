@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 14540,
+  "num_followers": 14560,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWZkZDRlYjAxZDRjYTc0MGM4ODBiZTE0M2IxZTljZGU2ZGNiY2Ex",
+  "snapshot_id": "MCw2Y2IwNTRkMmY4OWQzZGVkMzdiMmJkOTg3ZjcyMmI5ZjVmMjZjNTJj",
   "tracks": [
     {
       "added_at": "2022-10-01 20:09:45",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 434960,
+      "name": "Cameras / Good Ones Go Interlude - Medley",
+      "url": "https://open.spotify.com/track/2FbGlEPAjNhWvrVvlentVq"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "For Broken Ears",
         "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
@@ -247,22 +263,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 434960,
-      "name": "Cameras / Good Ones Go Interlude - Medley",
-      "url": "https://open.spotify.com/track/2FbGlEPAjNhWvrVvlentVq"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "Dream Girl (Remix)",
         "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
       },
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 223078,
-      "name": "Send My Love (To Your New Lover)",
-      "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
       "artists": [
         {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+      "duration_ms": 223078,
+      "name": "Send My Love (To Your New Lover)",
+      "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
     },
     {
       "added_at": "2022-10-01 20:09:45",
@@ -343,6 +327,22 @@
       "duration_ms": 204346,
       "name": "No Friends In The Industry",
       "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
     },
     {
       "added_at": "2022-10-01 20:09:45",
@@ -551,26 +551,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "Big Conspiracy",
-        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Play Play (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 156759,
       "name": "Pretty Boy (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/0f1G5SHFoFC9lO03gHCGVS"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "Big Conspiracy",
+        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Play Play (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
     },
     {
       "added_at": "2022-10-01 20:09:45",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 240956,
+      "name": "The Motion",
+      "url": "https://open.spotify.com/track/0Tacxc5lDJ8LwiO1pWNSl8"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 301133,
       "name": "Me, Myself and I",
       "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 240956,
-      "name": "The Motion",
-      "url": "https://open.spotify.com/track/0Tacxc5lDJ8LwiO1pWNSl8"
     },
     {
       "added_at": "2022-10-01 20:09:45",

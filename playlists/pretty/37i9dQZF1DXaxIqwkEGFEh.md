@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,138 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,258 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 7 | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/58Oj2g9GDO4xYKrtgDNeUv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:09 |
 | 8 | [Keep It Low \(feat\. Future\)](https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 |
 | 9 | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 |
-| 10 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:33 |
+| 10 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
 | 11 | [Family Freestyle](https://open.spotify.com/track/5u8m1YQAVoyu5k81b5DWvr) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Family Freestyle](https://open.spotify.com/album/1QkPatRtkzJahrvBV56gJe) | 3:35 |
 | 12 | [Bonecrusher \(feat\. Key Glock\)](https://open.spotify.com/track/3DmurtaoUILQC8e4XMPW4K) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Bonecrusher \(feat\. Key Glock\)](https://open.spotify.com/album/3tb85w0VG9SO5mTZR3Gxmd) | 3:25 |
 | 13 | [Bubba Man](https://open.spotify.com/track/03Z1yhSewsReSk6a5GBZOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Welcome To Bubba Land](https://open.spotify.com/album/2gxWI53PddwWddJQyrII3h) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/track/2HvORsttUMTfUqEyhX7z1x) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/album/2DTtyXTqV77kHcu20TDNyE) | 2:51 |
 | 100 | [Bitch Let's Do It](https://open.spotify.com/track/3EN9CgupFLmuwmHYUPq0ny) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Richest Opp](https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2) | 3:05 |
 
-Snapshot ID: `MCwxNWRhNjcwMDIzZTc3Njc5MThmMDBiNDU0ODNlY2IyZjZlNjJlMTIy`
+Snapshot ID: `MCxkZjUzMzlmOGZlZWE4ZTE0NmIyYmU2Yzc5ZGMyMThkNTc3NzRkMDQ5`

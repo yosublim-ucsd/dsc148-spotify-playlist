@@ -4,7 +4,7 @@
 
 > Get your creep on with these freaky 'love' songs.
 
-98 songs - 6 hr 29 min
+99 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,11 +86,12 @@
 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 | 2019-10-30 |  |
 | [Shot Down](https://open.spotify.com/track/1Ob94QesoxHSBrypyBbdfd) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:27 | 2019-10-30 |  |
 | [Somebody's Watching Me](https://open.spotify.com/track/7nqnMxJAtbgctaOtUpyHVK) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Motown 40 Forever](https://open.spotify.com/album/2pDkwIVnS6xnsXvHkdUw5a) | 3:56 | 2019-10-30 | 2022-07-29 |
-| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2PmXD1CyQHqxhbi79osKTn) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [ドライブが楽しくなる洋楽ヒッツ！80年代 HITS](https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD) | 3:56 | 2019-10-30 |  |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2PmXD1CyQHqxhbi79osKTn) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [ドライブが楽しくなる洋楽ヒッツ！80年代 HITS](https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD) | 3:56 | 2019-10-30 | 2023-09-26 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/30W04PUt6gHISFbrtFYkp0) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Happy Haunted Halloween Tunes](https://open.spotify.com/album/0Imh8AJGlHc3S0hHy8fImK) | 3:56 | 2019-10-30 | 2022-10-17 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/4P0UmzUN00aoPLrgnqfZUX) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Kids Songs: Halloween Party!](https://open.spotify.com/album/3ieg9cbiq6SacHVpPFQo14) | 3:56 | 2019-10-30 | 2022-11-07 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6tUEdj7qGKPN3rV6GpBwuc) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Halloween for Kids](https://open.spotify.com/album/7oYdF4y0Djq4nQpyHlcfYq) | 3:56 | 2019-10-30 | 2022-11-14 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/18SBju6wBZGpevPcsWMAM3) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 | 2019-10-30 | 2023-06-30 |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody’s Watching Me \(Sped Up\)](https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT) | 3:58 | 2019-10-30 |  |
 | [Spooky](https://open.spotify.com/track/5z4iT44mMHyZozsTFy4A51) | [Classics IV](https://open.spotify.com/artist/6XGJvNG372fPJ2TV2OoN0Z) | [Best Of](https://open.spotify.com/album/1Tt7kLJ0EC4t8w3D4WyySr) | 2:55 | 2019-10-30 |  |
 | [Stay Lonely](https://open.spotify.com/track/3c2uUO5bA97qnoVefIvskA) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Stay Lonely](https://open.spotify.com/album/126IXdtcJZMzpSkgTSOhHG) | 3:59 | 2019-10-30 |  |
 | [Stay Lonely](https://open.spotify.com/track/5cgzaJm9Q7wkRnUdscHKFV) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Stay Lonely](https://open.spotify.com/album/4hkTlNKpcO5IEakjAq5hik) | 3:59 | 2019-10-30 | 2022-07-29 |

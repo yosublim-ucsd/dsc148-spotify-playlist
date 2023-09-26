@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Travis Scott
 
-870 songs - 1 day 17 hr 39 min
+870 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Beverly Hills](https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Beverly Hills](https://open.spotify.com/album/2dfgoGW5M3v3Zrn940j9Rp) | 2:18 | 2021-12-13 | 2022-01-15 |
 | [Bezzal Land](https://open.spotify.com/track/0YuGBW9XmWiUMXGVsnt9P2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Bezzal Land](https://open.spotify.com/album/5yqpAwyhVsmdbrDIItyPs7) | 2:42 | 2023-08-04 |  |
 | [Big Business Remix \(feat\. Rick Ross\)](https://open.spotify.com/track/3QrNVAhmulzykPkJmn5Zo7) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Big Business Remix \(feat\. Rick Ross\)](https://open.spotify.com/album/3bFPyM5Wq67BowbEwBfIwp) | 2:52 | 2022-08-12 | 2022-10-22 |
-| [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:33 | 2023-09-22 |  |
+| [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 | 2023-09-22 |  |
 | [Big League \(with Yo Gotti, Moneybagg Yo, CMG The Label feat\. Mozzy & Lil Poppa\)](https://open.spotify.com/track/4i32zrLpygBg5Ruy1uqN78) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Big League \(with Yo Gotti, Moneybagg Yo, CMG The Label feat\. Mozzy & Lil Poppa\)](https://open.spotify.com/album/0F7yQR5SY5IJ9G8xUg15h6) | 2:43 | 2022-06-03 | 2022-07-16 |
 | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/album/04jIgr8btAumWJzTRIhrxl) | 1:50 | 2023-09-22 |  |
 | [Big Money](https://open.spotify.com/track/6QueNJeQGIW8qZoHqCF7un) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Big Money](https://open.spotify.com/album/76fs9BkDU369ScWTlWaTt4) | 2:41 | 2022-06-10 | 2022-06-18 |

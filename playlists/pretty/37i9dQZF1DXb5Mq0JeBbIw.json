@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 3162,
+  "num_followers": 3237,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2JjYTRiOWI3YmQ4MDE1ZTRmNjk2MTI2ZGI4NTg0NTdmNjc1ZmMy",
+  "snapshot_id": "MCw4YzVlYzQyOWU4ODY4YTQ1YWMwNjkzZGZlZmE0ZDZjZTExZmNmNmM2",
   "tracks": [
     {
       "added_at": "2023-02-10 06:37:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Wild Love (Acoustic)",
-        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Wild Love - Acoustic",
-      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Crazier",
         "url": "https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 233339,
       "name": "Crazier",
       "url": "https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Wild Love (Acoustic)",
+        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Wild Love - Acoustic",
+      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
+      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Starving (Acoustic)",
         "url": "https://open.spotify.com/album/5btWj40qkYd8xGP9K42E7Q"
       },
@@ -345,38 +361,6 @@
       "url": "https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ"
     },
     {
-      "added_at": "2023-02-24 11:06:00",
-      "album": {
-        "name": "Mean It",
-        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 171138,
-      "name": "Mean It",
-      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
-      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Around the Well",
@@ -391,6 +375,22 @@
       "duration_ms": 251280,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN"
+    },
+    {
+      "added_at": "2023-02-24 11:06:00",
+      "album": {
+        "name": "Mean It",
+        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 171138,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "#Covers",
-        "url": "https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "It Aint Me",
-      "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Mama (Acoustic)",
         "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 192277,
       "name": "Mama - Acoustic",
       "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "#Covers",
+        "url": "https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "It Aint Me",
+      "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Three Flights From Alto Nido",
-        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
-      },
-      "artists": [
-        {
-          "name": "Greg Laswell",
-          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
-        }
-      ],
-      "duration_ms": 67746,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 199462,
       "name": "Free",
       "url": "https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Three Flights From Alto Nido",
+        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
+      },
+      "artists": [
+        {
+          "name": "Greg Laswell",
+          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
+        }
+      ],
+      "duration_ms": 67746,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "So Sick - Acoustic",
-      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Sometimes It's Something, Sometimes It's Nothing at All",
         "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
       },
@@ -923,22 +907,6 @@
       "duration_ms": 118826,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "This Is What It Takes",
-      "url": "https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -959,6 +927,38 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "So Sick - Acoustic",
+      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "This Is What It Takes",
+      "url": "https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Most of Us Are Strangers",
         "url": "https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Chasing After the Moon",
-        "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
-      },
-      "artists": [
-        {
-          "name": "Michael Shynes",
-          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
-        }
-      ],
-      "duration_ms": 238994,
-      "name": "Chasing After the Moon",
-      "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "T-Shirts (Acoustic)",
         "url": "https://open.spotify.com/album/6hqV9kF9ktgt9BFWz8oQTG"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 195480,
       "name": "T-Shirts - Acoustic",
       "url": "https://open.spotify.com/track/4TuldNZ6ojVCsvVh0yJyrw"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Chasing After the Moon",
+        "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
+      },
+      "artists": [
+        {
+          "name": "Michael Shynes",
+          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
+        }
+      ],
+      "duration_ms": 238994,
+      "name": "Chasing After the Moon",
+      "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Bizarre Love Triangle (Acoustic)",
+        "url": "https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb"
+      },
+      "artists": [
+        {
+          "name": "The Macarons Project",
+          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
+        }
+      ],
+      "duration_ms": 131644,
+      "name": "Bizarre Love Triangle - Acoustic",
+      "url": "https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Island Life Coffee House (Vol. 1)",
         "url": "https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 234133,
       "name": "Be As You Are - Acoustic",
       "url": "https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Clean Eyes",
-        "url": "https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 222810,
-      "name": "Clean Eyes - Acoustic",
-      "url": "https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Bizarre Love Triangle (Acoustic)",
-        "url": "https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb"
+        "name": "Clean Eyes",
+        "url": "https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f"
       },
       "artists": [
         {
-          "name": "The Macarons Project",
-          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 131644,
-      "name": "Bizarre Love Triangle - Acoustic",
-      "url": "https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy"
+      "duration_ms": 222810,
+      "name": "Clean Eyes - Acoustic",
+      "url": "https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Wonderwall",
         "url": "https://open.spotify.com/album/5dqiCzCXC1zrV6H6RDoLKe"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 236094,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/4b6ru8IDPaVNw4ccHjYOSg"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Hold On To Happiness",
+        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Hold On To Happiness",
+      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Hailey (Acoustic)",
         "url": "https://open.spotify.com/album/4xEYNfrEr2Jz9e52KevWRm"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 252346,
       "name": "Mirou",
       "url": "https://open.spotify.com/track/5GHr2k1v1ACD5MqkuCRz87"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Hold On To Happiness",
-        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "Hold On To Happiness",
-      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
     },
     {
       "added_at": "2023-02-10 06:37:00",

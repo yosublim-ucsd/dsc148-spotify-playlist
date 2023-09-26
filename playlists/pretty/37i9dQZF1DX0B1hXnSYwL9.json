@@ -1,12 +1,12 @@
 {
   "description": "Canciones para sacarle brillo a la pista de baile.",
-  "num_followers": 94037,
+  "num_followers": 94062,
   "original_name": "Sal\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjQ5NDRjODEyZGJlOWI5MzA1MzQ0MzJmZmY3ZmYyZmZkMmQxYTkw",
+  "snapshot_id": "MCxmNjkxMmRkNzYyMzFlYWUwNDk3NTY0ZWQ4NWU2Y2E1MzBlMjY3YjA1",
   "tracks": [
     {
       "added_at": "2023-08-14 15:51:23",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 279320,
-      "name": "Talento De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
+      "duration_ms": 250640,
+      "name": "Eres M\u00eda",
+      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 250640,
-      "name": "Eres M\u00eda",
-      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
+      "duration_ms": 279320,
+      "name": "Talento De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -239,6 +239,22 @@
       "duration_ms": 238236,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 292920,
+      "name": "Te Va A Doler",
+      "url": "https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -275,22 +291,6 @@
       "duration_ms": 200346,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 292920,
-      "name": "Te Va A Doler",
-      "url": "https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 289840,
-      "name": "La Boda",
-      "url": "https://open.spotify.com/track/2jQeX1fMZo5z82w3BviN5x"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Desde Abajo",
         "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 289840,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/2jQeX1fMZo5z82w3BviN5x"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Los Yaguaru",
         "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "Burbujas de Amor",
-      "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 316093,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Burbujas de Amor",
+      "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Show",
-        "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "Dese\u00e1ndote",
-      "url": "https://open.spotify.com/track/1THrLq1IPWwpisMdF9Ivya"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Versatilidad & Vivencias (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0cYaWyKgFJQRM8LV6RdNeB"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 209960,
       "name": "Te Encontre",
       "url": "https://open.spotify.com/track/2kP6fOqdSQ5CYqVH5z5844"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "Dese\u00e1ndote",
+      "url": "https://open.spotify.com/track/1THrLq1IPWwpisMdF9Ivya"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Caribe",
-        "url": "https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd"
-      },
-      "artists": [
-        {
-          "name": "Garibaldi",
-          "url": "https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/49nYkvvZTU06Pcwu1SrK4h"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Caribe",
+        "url": "https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd"
+      },
+      "artists": [
+        {
+          "name": "Garibaldi",
+          "url": "https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/49nYkvvZTU06Pcwu1SrK4h"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1435,38 +1435,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Amor, Familia Y Respeto",
-        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Exitos Sonideros, Vol. 2",
-        "url": "https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz"
-      },
-      "artists": [
-        {
-          "name": "Sonideros de MEX USA",
-          "url": "https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm"
-        }
-      ],
-      "duration_ms": 196637,
-      "name": "Cumbia Yemaya",
-      "url": "https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Dicen Que Soy",
         "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
       },
@@ -1483,6 +1451,22 @@
       "duration_ms": 367026,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/4qAknKWl2aMvWn4r1nzWAa"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Exitos Sonideros, Vol. 2",
+        "url": "https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz"
+      },
+      "artists": [
+        {
+          "name": "Sonideros de MEX USA",
+          "url": "https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm"
+        }
+      ],
+      "duration_ms": 196637,
+      "name": "Cumbia Yemaya",
+      "url": "https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1515,6 +1499,22 @@
       "duration_ms": 253426,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/1PD6BmSC7JULxOlJWAI2jJ"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Amor, Familia Y Respeto",
+        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "Juntos Por La Sonora",
+        "url": "https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+        }
+      ],
+      "duration_ms": 254986,
+      "name": "Qu\u00e9 Bello",
+      "url": "https://open.spotify.com/track/18buHOK6zcFhpMDOUO5MCw"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Descarga Espectacular",
         "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
       },
@@ -1611,26 +1631,6 @@
       "duration_ms": 267613,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Juntos Por La Sonora",
-        "url": "https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
-        }
-      ],
-      "duration_ms": 254986,
-      "name": "Qu\u00e9 Bello",
-      "url": "https://open.spotify.com/track/18buHOK6zcFhpMDOUO5MCw"
     },
     {
       "added_at": "2023-08-14 15:51:23",

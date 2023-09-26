@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,527 songs - 4 day 9 hr 7 min
+1,528 songs - 4 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [Easy On My Love](https://open.spotify.com/track/42vz4Q29BTq6MH4HFDtsi1) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Easy On My Love](https://open.spotify.com/album/3FL3JphfQUd1U0TCmToEnU) | 3:04 | 2020-05-18 | 2020-07-03 |
 | [ECHO \(LET GO\)](https://open.spotify.com/track/5wRrFp0QbRIMfWrdUdanE7) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [IZII](https://open.spotify.com/artist/161mym5juYaMTRpbcVqmFf) | [ECHO \(LET GO\)](https://open.spotify.com/album/6cokunXDFVhfjAQaaPTewC) | 4:05 | 2020-05-22 | 2020-07-03 |
 | [Egypt](https://open.spotify.com/track/6fXMWTckEitvM78hW5PilD) | [Diamans](https://open.spotify.com/artist/76tvOhyl5wZuIAvNNzm8Se) | [Egypt](https://open.spotify.com/album/4RGqIg01HZeuerR3ABzMcV) | 3:51 | 2020-03-20 | 2021-07-28 |
-| [Elenore](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:34 | 2023-02-24 |  |
+| [Elenore](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:34 | 2023-02-24 | 2023-09-26 |
 | [Elenore \- Sonnee Remix](https://open.spotify.com/track/5lvYn1cD6rUHkZCSRDuwwp) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY), [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Elenore \(Sonnee Remix\)](https://open.spotify.com/album/2TiXMwd38pdddcopaSBT4P) | 3:50 | 2023-05-26 | 2023-07-09 |
 | [Elounda](https://open.spotify.com/track/34IuscyAzI857oEJDoa3Qs) | [Brierley](https://open.spotify.com/artist/6ezlJbJEZYHeibXIoXWrxV) | [Free Life EP](https://open.spotify.com/album/60HpYf4DNcF4v919jqqEFR) | 3:37 | 2020-05-18 | 2020-07-03 |
 | [Embrace](https://open.spotify.com/track/3PdeXolnH5r6rN0ycXlHvf) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [Embrace](https://open.spotify.com/album/6pBg6D3fp68XXFusIejMI0) | 4:03 | 2020-05-18 | 2020-07-03 |
@@ -1275,6 +1275,7 @@
 | [Sumatra](https://open.spotify.com/track/1HKy1dIWhAalbTCyyYR8kZ) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Sumatra](https://open.spotify.com/album/3mRnQHYsw2FC3tRgKIJj3k) | 2:56 | 2020-03-16 | 2022-08-20 |
 | [Sumatra \- Lstn Remix](https://open.spotify.com/track/23jieIC481GBJSSisCISOj) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Sumatra \(Lstn Remix\)](https://open.spotify.com/album/0VDPMeq01iUSHoUOm5CGef) | 3:21 | 2021-01-08 | 2021-11-13 |
 | [Summer Haze](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Summer Haze](https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw) | 3:15 | 2022-07-01 | 2022-10-13 |
+| [Summer Love \- Jan Blomqvist Remix](https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Summer Love \(Jan Blomqvist Remix\)](https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i) | 5:49 | 2023-09-22 |  |
 | [Summertime](https://open.spotify.com/track/21CBWF1OV9OrAz9votwzVN) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [New Blood](https://open.spotify.com/album/1mYDKw3w4jPWautkQEs56K) | 3:42 | 2020-05-18 | 2020-07-03 |
 | [Sun Phase](https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Sun Phase](https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE) | 5:16 | 2022-08-26 | 2022-09-10 |
 | [sun+tide](https://open.spotify.com/track/0bLKKrrEeAxQPgq8HtXVsR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [everythingeverydayeverything](https://open.spotify.com/album/5gumyvjIFS1YM8VI5bF5wV) | 3:43 | 2022-08-26 | 2022-09-10 |

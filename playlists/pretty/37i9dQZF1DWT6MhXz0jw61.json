@@ -1,13 +1,29 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Larry June",
-  "num_followers": 1295457,
+  "num_followers": 1295670,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzYzMzNhZjA5YzUwNzBkMzUyNDdmN2VhYjRiMTBhZGUzYWZkNjAz",
+  "snapshot_id": "MCw4NDQ1ZmQ1YjA1ZmE5MmYzNjU1ODlkNGU1Zjc4ZDhjNTY2NjE0Mjgx",
   "tracks": [
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "SUNDAY DINNER",
+        "url": "https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl"
+      },
+      "artists": [
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        }
+      ],
+      "duration_ms": 208887,
+      "name": "ALL I WANT/80's PARENTS",
+      "url": "https://open.spotify.com/track/57ZjEZwFveRQVPtTp6UZV7"
+    },
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
@@ -24,29 +40,9 @@
           "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
         }
       ],
-      "duration_ms": 265076,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/73wXgS33gR5XYBsIm2SUCd"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "SUNDAY DINNER",
-        "url": "https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl"
-      },
-      "artists": [
-        {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
-        },
-        {
-          "name": "Tweet",
-          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/196TOEj4MWqLCsDBzZGYLi"
+      "duration_ms": 274558,
+      "name": "Flavors of Karma",
+      "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -307,6 +303,26 @@
       "duration_ms": 189310,
       "name": "Save Yours",
       "url": "https://open.spotify.com/track/20ONgMrt1QKEo1xRvyv8Jx"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "RIP Human Art",
+        "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "duration_ms": 265076,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/73wXgS33gR5XYBsIm2SUCd"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -834,11 +850,15 @@
         {
           "name": "Nick Grant",
           "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        },
+        {
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
         }
       ],
-      "duration_ms": 208887,
-      "name": "ALL I WANT/80's PARENTS",
-      "url": "https://open.spotify.com/track/57ZjEZwFveRQVPtTp6UZV7"
+      "duration_ms": 229306,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/196TOEj4MWqLCsDBzZGYLi"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -899,26 +919,6 @@
       "duration_ms": 213240,
       "name": "Mind My Business (feat. Ben Reilly & DavidTheTragic)",
       "url": "https://open.spotify.com/track/7y0NT4p3ls8Bam8aOL2iks"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "RIP Human Art",
-        "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        }
-      ],
-      "duration_ms": 274558,
-      "name": "Flavors of Karma",
-      "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
     },
     {
       "added_at": "2023-09-22 04:00:00",

@@ -4,7 +4,7 @@
 
 > Empowered rhymes and vibes\. Cover: Tinashe
 
-126 songs - 7 hr 4 min
+127 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Kill the Bill](https://open.spotify.com/track/0VhMuCqy24zbdnroEMVj07) | [Angel Maxine](https://open.spotify.com/artist/1BqJRTcbSEMJRm2eD4PRoU), [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV), [Sister Deborah](https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7) | [Kill the Bill](https://open.spotify.com/album/2InjgVxw0CJbU20NsbYOty) | 3:36 | 2022-11-14 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-09-30 |  |
 | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 | 2022-06-24 |  |
-| [LGBT](https://open.spotify.com/track/2PSuZ7k5bBmhkuH5vbfFPc) | [Deebo2x](https://open.spotify.com/artist/0hyMnB9nY24uy6Pc3NtKXO) | [LGBT](https://open.spotify.com/album/1rAo1kxsd4R89TWJnMVxqn) | 3:12 | 2022-11-14 |  |
+| [LGBT](https://open.spotify.com/track/2PSuZ7k5bBmhkuH5vbfFPc) | [Deebo2x](https://open.spotify.com/artist/0hyMnB9nY24uy6Pc3NtKXO) | [LGBT](https://open.spotify.com/album/1rAo1kxsd4R89TWJnMVxqn) | 3:12 | 2022-11-14 | 2023-09-26 |
+| [LGBT](https://open.spotify.com/track/64NFSqtc66wrF9yZQrwgrw) | [Deebo2x](https://open.spotify.com/artist/0hyMnB9nY24uy6Pc3NtKXO) | [LGBT](https://open.spotify.com/album/7jFSFtzv9jaYoALuOYkyBw) | 3:12 | 2023-07-21 |  |
 | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/track/0Ky1dUtWUl9WvaAuXrqWU1) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/album/5Hab2rAzF8c8tEQxmRKrrL) | 2:46 | 2022-01-21 |  |
 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 | 2023-05-14 |  |
 | [LMK\_WHAT’S REALLY GOOD REMIX\_ FEAT\_PRINCESS NOKIA\_JUNGLEPUSSY\_CUPCAKKE\_MS\. BOOGIE\_100 BPM](https://open.spotify.com/track/1JblDE7lQlw09HD3vm2YyZ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Ms\. Boogie](https://open.spotify.com/artist/7HVlaChQbM9guWdiKMGxBq), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [TAKE ME A\_PART, THE REMIXES](https://open.spotify.com/album/5S5ZRw92uGjaWUlIDPIlPY) | 5:20 | 2022-11-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas pra voc\u00ea curtir com seu amorzinho (ou pensando nele) ",
-  "num_followers": 790238,
+  "num_followers": 790317,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGYxNWEwOTBmNmQxN2M4NDU1NzcwNzRiNDVjMWY0MjBlNTk1MTc3",
+  "snapshot_id": "MCw4YWExNGQwMmI0MDVhZjBhZmVkMTRjZGQ1Zjg2ZDY0MGVjZTc0NTBk",
   "tracks": [
     {
       "added_at": "2023-09-01 06:32:36",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-09-01 06:32:36",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
-    },
-    {
-      "added_at": "2023-09-01 06:32:36",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 242000,
       "name": "Slow Dancing in a Burning Room",
       "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
+    },
+    {
+      "added_at": "2023-09-01 06:32:36",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2023-09-01 06:32:36",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-09-01 06:32:36",
       "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 210889,
+      "name": "Ouvi Dizer",
+      "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
+    },
+    {
+      "added_at": "2023-09-01 06:32:36",
+      "album": {
         "name": "Troco Likes",
         "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
       },
@@ -423,6 +439,22 @@
       "duration_ms": 178718,
       "name": "Coisa Linda",
       "url": "https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE"
+    },
+    {
+      "added_at": "2023-09-01 06:32:36",
+      "album": {
+        "name": "O Tempo \u00c9 Agora",
+        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 220566,
+      "name": "Ai, Amor",
+      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
     },
     {
       "added_at": "2023-09-01 06:32:36",
@@ -475,38 +507,6 @@
       "duration_ms": 233613,
       "name": "All Star - Ao Vivo",
       "url": "https://open.spotify.com/track/3g5FrnRdbmDQyWNiDIprts"
-    },
-    {
-      "added_at": "2023-09-01 06:32:36",
-      "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 210889,
-      "name": "Ouvi Dizer",
-      "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
-    },
-    {
-      "added_at": "2023-09-01 06:32:36",
-      "album": {
-        "name": "O Tempo \u00c9 Agora",
-        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 220566,
-      "name": "Ai, Amor",
-      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
     },
     {
       "added_at": "2023-09-01 06:32:36",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-01 06:32:36",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 394706,
-      "name": "Quando Bate Aquela Saudade",
-      "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
-    },
-    {
-      "added_at": "2023-09-01 06:32:36",
-      "album": {
         "name": "Toda Forma De Amor",
         "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2023-09-01 06:32:36",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
+      "duration_ms": 394706,
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
     },
     {
       "added_at": "2023-09-01 06:32:36",
@@ -679,6 +663,22 @@
     {
       "added_at": "2023-09-01 06:32:36",
       "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
+    },
+    {
+      "added_at": "2023-09-01 06:32:36",
+      "album": {
         "name": "Nossa Miss\u00e3o",
         "url": "https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE"
       },
@@ -691,6 +691,38 @@
       "duration_ms": 254026,
       "name": "Quero Ser Feliz Tamb\u00e9m",
       "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS"
+    },
+    {
+      "added_at": "2023-09-01 06:32:36",
+      "album": {
+        "name": "Musica para Churrasco, Vol. 2",
+        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
+    },
+    {
+      "added_at": "2023-09-01 06:32:36",
+      "album": {
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 198039,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa"
     },
     {
       "added_at": "2023-09-01 06:32:36",
@@ -731,22 +763,6 @@
     {
       "added_at": "2023-09-01 06:32:36",
       "album": {
-        "name": "Musica para Churrasco, Vol. 2",
-        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
-    },
-    {
-      "added_at": "2023-09-01 06:32:36",
-      "album": {
         "name": "Troco Likes",
         "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2023-09-01 06:32:36",
       "album": {
-        "name": "Medo Bobo",
-        "url": "https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr"
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
         }
       ],
-      "duration_ms": 198039,
-      "name": "Medo Bobo",
-      "url": "https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa"
+      "duration_ms": 131426,
+      "name": "Devolva-Me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
       "added_at": "2023-09-01 06:32:36",
@@ -807,22 +823,6 @@
       "duration_ms": 301346,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0YBq701BXkMaK6V5UyvOpT"
-    },
-    {
-      "added_at": "2023-09-01 06:32:36",
-      "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "Devolva-Me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
       "added_at": "2023-09-01 06:32:36",

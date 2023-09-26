@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Anthems from a generation of party starters\. Cover: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,359 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,406 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 71 | [Spaceship](https://open.spotify.com/track/25JgFc6e28yXV6B9IizfgC) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Spaceship](https://open.spotify.com/album/3q6IkJ4jV6qX4g6ZM9UQVs) | 3:18 |
 | 72 | [Ecstasy \(Over & Over\)](https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Ecstasy \(Over & Over\)](https://open.spotify.com/album/4IMEWyvS2r1mpnTYD8j4Sb) | 3:36 |
 | 73 | [Gold](https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Gold](https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq) | 2:03 |
-| 74 | [Living My Life \(Golden\)](https://open.spotify.com/track/76NUmCZmMu1BODL1aL8Nz0) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Living My Life \(Golden\)](https://open.spotify.com/album/6IW0oyAHzdQbWsBlU5HBzQ) | 3:23 |
-| 75 | [Rude Boy](https://open.spotify.com/track/1WlpK6hLHUNhuMFwnTISqi) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [USAI](https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt) | [Rude Boy](https://open.spotify.com/album/50g7h0uVDn1StQRebq1pZl) | 2:31 |
-| 76 | [Memories \(Burning in Time\)](https://open.spotify.com/track/5vwcuTK4QMBIY14CulbeKo) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Memories \(Burning in Time\)](https://open.spotify.com/album/2Lt2eRqMeVMr0ayksEh7mD) | 2:33 |
-| 77 | [On & On](https://open.spotify.com/track/1xgRUkB6OZH70aFtTGkk9n) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [On & On](https://open.spotify.com/album/02IhYgiRbwckRrXTKYrRPV) | 2:45 |
+| 74 | [Rude Boy](https://open.spotify.com/track/1WlpK6hLHUNhuMFwnTISqi) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [USAI](https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt) | [Rude Boy](https://open.spotify.com/album/50g7h0uVDn1StQRebq1pZl) | 2:31 |
+| 75 | [Living My Life \(Golden\)](https://open.spotify.com/track/76NUmCZmMu1BODL1aL8Nz0) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Living My Life \(Golden\)](https://open.spotify.com/album/6IW0oyAHzdQbWsBlU5HBzQ) | 3:23 |
+| 76 | [On & On](https://open.spotify.com/track/1xgRUkB6OZH70aFtTGkk9n) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [On & On](https://open.spotify.com/album/02IhYgiRbwckRrXTKYrRPV) | 2:45 |
+| 77 | [Memories \(Burning in Time\)](https://open.spotify.com/track/5vwcuTK4QMBIY14CulbeKo) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Memories \(Burning in Time\)](https://open.spotify.com/album/2Lt2eRqMeVMr0ayksEh7mD) | 2:33 |
 | 78 | [Feels Darker \(Feel It\)](https://open.spotify.com/track/4BbBV9dK1kMqD7gGypB5WO) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Feels Darker \(Feel It\)](https://open.spotify.com/album/4CM6i2MQ9dm8kIjk0wh55g) | 3:23 |
 | 79 | [It's Your Time](https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [Jamie Boy Bassline](https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj) | [It's Your Time](https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt) | 3:06 |
 | 80 | [Torta](https://open.spotify.com/track/3eCZhR3W7lMWm8C7WUe17s) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Kapoh](https://open.spotify.com/artist/6zmjY4utOtTz5N4Q1PdTVC) | [Torta](https://open.spotify.com/album/4vtE1c1L7oaeg5s4kiciN8) | 2:24 |
 
-Snapshot ID: `MCw4YzMwYzY0M2YxMGJhYzc4MDM1ZDQwMjY3MjJkMzVlODk2MzhmYjM4`
+Snapshot ID: `MCxlOTY0Nzc0ZWVkOTRmYmExYTkyMDZhNDFmMTVjOTFjNTNjYjhjNDhm`

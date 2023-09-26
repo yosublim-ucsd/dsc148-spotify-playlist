@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Sophie Castillo
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,090 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,163 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 20 | [Cheap Wine](https://open.spotify.com/track/7n0INXhB8nOwpBD8EQYenI) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Cheap Wine](https://open.spotify.com/album/4qz8A46Nmjnz1L0PovbUja) | 2:57 |
 | 21 | [GORGEOUS](https://open.spotify.com/track/5Zhy4H9ui735rDmxbPqJd9) | [Ashley Iman](https://open.spotify.com/artist/7EtQAZo28sS3vNwbHrOmqx) | [GORGEOUS](https://open.spotify.com/album/6Ro7TrW0bVU1pYpGIgVo4l) | 1:57 |
 | 22 | [Coffee](https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3), [Ralph Taylor](https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK) | [Coffee](https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO) | 2:31 |
-| 23 | [Brighter Days](https://open.spotify.com/track/4HDKvFUmzTcpIwtNz9PoXt) | [Georgia Chanel](https://open.spotify.com/artist/5NIKNQjGVoCZduiBmn5gYw), [Roll a Dice](https://open.spotify.com/artist/4ashlZ8aGuAU6HL3ytCOa3) | [Brighter Days](https://open.spotify.com/album/2osDMytd1wW61UQbzMfyjh) | 2:59 |
+| 23 | [Brighter Days](https://open.spotify.com/track/4HDKvFUmzTcpIwtNz9PoXt) | [Georgia Chanel](https://open.spotify.com/artist/5NIKNQjGVoCZduiBmn5gYw) | [Brighter Days](https://open.spotify.com/album/2osDMytd1wW61UQbzMfyjh) | 2:59 |
 | 24 | [Black Barbie](https://open.spotify.com/track/3WoUlIFCa8qUYX4y4MXaXk) | [A\-MVN](https://open.spotify.com/artist/1lz4pJDZYG0nVkGRKznVZB) | [Black Barbie](https://open.spotify.com/album/4AMPt4FJbGWKSeLA0jE5bF) | 2:34 |
 | 25 | [Curls](https://open.spotify.com/track/0BPy60PdmcrS7STu7JZCuO) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Curls](https://open.spotify.com/album/2jzKI1ssT4IblnPxe5B3W4) | 2:55 |
 | 26 | [Capri\-Sun](https://open.spotify.com/track/5r5T65MwdI0mCYSnFamnqc) | [AE](https://open.spotify.com/artist/4UWcOm40hIpudoHIcpQQxg) | [Capri\-Sun](https://open.spotify.com/album/6TN0q8rUBBC375qtkbbBi9) | 2:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Hyperdrive](https://open.spotify.com/track/3dZqnbLuUGo2n9QL2QHW0E) | [Talulah Ruby](https://open.spotify.com/artist/2TNbAqw8Vycd0xtFz7RWzZ) | [Hyperdrive](https://open.spotify.com/album/0UzMpfxDnb62ueatyPMMY5) | 3:58 |
 | 80 | [Girlcow](https://open.spotify.com/track/4rSMMxuQVQ1oFiz6UyaDTO) | [Duvet](https://open.spotify.com/artist/7MTj1g81iA5DITR276prZH) | [Girlcow](https://open.spotify.com/album/4RmTh9VcUqUAcI2Ug4AgYS) | 2:57 |
 
-Snapshot ID: `MCxlZGU5OTM4MjI1MWZkMjZhNWJmNjdhZmExMjU1NTcxNWUxMjVmZjAy`
+Snapshot ID: `MCwwZDk2NDkwZDQ5NzRiZTQ4MzAxNjVjNDVmZjgyOGNjZTQ5YTkwYjYz`

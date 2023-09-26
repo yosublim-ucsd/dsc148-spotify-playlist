@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,245 likes - 83 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,296 likes - 83 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 48 | [Burn](https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf) | 2:23 |
 | 49 | [We Could Be Falling In Love \- Edit](https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [We Could Be Falling In Love](https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L) | 2:59 |
 | 50 | [Care](https://open.spotify.com/track/7ufdMq8GG789tKdX0ZwhRB) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Care](https://open.spotify.com/album/0qYnV1xm3h9NWSnhsqHivb) | 2:31 |
-| 51 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:33 |
+| 51 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
 | 52 | [Falling In Love](https://open.spotify.com/track/03c2bluectSWUWsIRbSpjB) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Dinah Jane](https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V) | [Falling In Love](https://open.spotify.com/album/4RDu4REbJHnc4rgvulKdUs) | 2:25 |
 | 53 | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/album/04jIgr8btAumWJzTRIhrxl) | 1:50 |
 | 54 | [Pacer](https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Pacer](https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm) | 2:56 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 82 | [Safe Forever](https://open.spotify.com/track/0bJjmBXXf2610nAjRQGHwc) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Safe Forever](https://open.spotify.com/album/2lu3Z6ZZ3gms0kf1IvWYM3) | 4:17 |
 | 83 | [RUSH OF ADRENALINE](https://open.spotify.com/track/5rEoBScdfgC3uARpgA6Ppp) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [PU$$Y](https://open.spotify.com/album/3fdjotd2Jlz5UI3H5nQb2o) | 3:20 |
 
-Snapshot ID: `MCwxMDM0ZGRkN2ViZjAxNDY5ZmU5Yzg5ZTI3OGNmMjE5ZTE0OTczY2M5`
+Snapshot ID: `MCxiZTVhOGYwODc2YmY3YTdlYWYyZjJmYjJiYWMwMDJkZjc3ZWY3MTAw`

@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Chris Lake & Aluna
 
-1,276 songs - 3 day 1 hr 22 min
+1,277 songs - 3 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Aphrodisiac](https://open.spotify.com/track/1aF44sAhhcCOfizdoCGBrT) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Aphrodisiac](https://open.spotify.com/album/7jJWlYWsbcEcaiNwkJcUmO) | 2:36 | 2022-03-25 | 2022-04-23 |
 | [Around Me](https://open.spotify.com/track/3vqCl5emqR14MHKxqQAsXH) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR) | [Around Me](https://open.spotify.com/album/74fhAZahEaM6cLlEmVKbCf) | 3:17 | 2023-07-07 | 2023-09-02 |
 | [Asereje](https://open.spotify.com/track/5uNeepsaxfWN63qmsXkyES) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Enrico Palermo](https://open.spotify.com/artist/3aR0LAXgMD6d6m6dCMuRxj) | [Asereje](https://open.spotify.com/album/4fUJlmLWhrty63jBdsrMI4) | 2:36 | 2023-03-31 | 2023-08-12 |
-| [Attracted](https://open.spotify.com/track/6q2i1xuJRaqncz3x5gb18t) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Attracted](https://open.spotify.com/album/7j8l735NUQPSJS2JK8uV1b) | 3:46 | 2023-06-23 |  |
+| [Attracted](https://open.spotify.com/track/6q2i1xuJRaqncz3x5gb18t) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Attracted](https://open.spotify.com/album/7j8l735NUQPSJS2JK8uV1b) | 3:46 | 2023-06-23 | 2023-09-26 |
 | [Aura](https://open.spotify.com/track/2Bj5ZUeHEke7ovkkpPbG7d) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jargen](https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl) | [Aura](https://open.spotify.com/album/0itIElpJrQZ30aPUilSDgn) | 3:04 | 2022-07-22 | 2022-09-06 |
 | [B.T.H.D \(Bring The House Down\)](https://open.spotify.com/track/6d39vg2NYSYH584ioqev75) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [B.T.H.D \(Bring The House Down\)](https://open.spotify.com/album/3G3tu0CoisV0m8QlE1MXu6) | 3:40 | 2023-03-31 | 2023-05-27 |
 | [B2B](https://open.spotify.com/track/4SU7GlHigihx2d5MP27eRA) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Muntu](https://open.spotify.com/artist/1pCS8OLLdUA77m3aHkOdsI) | [B2B](https://open.spotify.com/album/71sk7yMpH4gQH53zZDWOz1) | 2:47 | 2023-06-23 |  |
@@ -934,6 +934,7 @@
 | [Rumpa Pa](https://open.spotify.com/track/3bTBJsslOhNlRqGLCrqnES) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Rumpa Pa](https://open.spotify.com/album/0jlYkUzRxnFHxdGTR1b4xH) | 3:37 | 2023-07-28 | 2023-07-31 |
 | [RUN AWAY](https://open.spotify.com/track/1Z5ac1dGUnC6DAoLKOfeLz) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [RUN AWAY](https://open.spotify.com/album/1Oge65H28ANOgBWnvjhrBB) | 4:56 | 2022-05-13 | 2022-05-28 |
 | [Run It Back \(feat\. Kid Enigma\)](https://open.spotify.com/track/4dDpTrqAAddlGRpgBCsuaS) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [Run It Back \(feat\. Kid Enigma\)](https://open.spotify.com/album/1kwtrdI6tXhYIM48KPZ1YF) | 3:02 | 2022-09-16 | 2022-12-24 |
+| [Run To The Rhythm](https://open.spotify.com/track/7L7lq0sjeVcyg5Phg4CkCv) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Run To The Rhythm](https://open.spotify.com/album/6l10qp0sJOYUgnwOuhufD5) | 3:50 | 2023-09-22 |  |
 | [Running](https://open.spotify.com/track/5K59VdBAhtTYIxBlne1WT2) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Francesca Sardi](https://open.spotify.com/artist/1qI2ett9td7YVX6C1eiq1Z) | [Running](https://open.spotify.com/album/5JMbsiPcxRBVNztGimHvyw) | 2:39 | 2022-08-12 | 2022-12-03 |
 | [Running](https://open.spotify.com/track/7bMWMh0hw63TtpM5UWKPZQ) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Running](https://open.spotify.com/album/0DHip6BOwZ2uyLvQwQ870n) | 2:54 | 2023-01-27 | 2023-04-01 |
 | [Running Order](https://open.spotify.com/track/0ImtueQ8PGHSp8ZB2nmZWW) | [Den Haas](https://open.spotify.com/artist/5nDmfxAH6PGt1bntoYwkn3) | [Running Order](https://open.spotify.com/album/6lWgkgdug10GykkzbB9vya) | 5:59 | 2022-12-28 | 2023-01-06 |

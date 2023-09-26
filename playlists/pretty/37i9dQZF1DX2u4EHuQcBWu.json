@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 179658,
+  "num_followers": 179740,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2I0YmNhYmU5MjlkYmU3ZWVjNTM4NjgyYTJiZjZkOWQzMDZkM2Q3",
+  "snapshot_id": "MCxkNDBkN2ZkOWJkYjk0ZWQ0ZTZiMTYzODk3MDRhZjMxYzg1Njk2ZThi",
   "tracks": [
     {
       "added_at": "2021-09-24 14:38:22",
@@ -183,38 +183,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "MultiViral",
-        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 288746,
-      "name": "El Aguante",
-      "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Donde Jugaran Las Ni\u00f1as",
-        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Gimme Tha Power",
-      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Un Panteon Muy Vivo",
         "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
       },
@@ -227,6 +195,22 @@
       "duration_ms": 423360,
       "name": "La Carencia",
       "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "MultiViral",
+        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 288746,
+      "name": "El Aguante",
+      "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -357,6 +341,22 @@
       "url": "https://open.spotify.com/track/2xuYcmQW7sFoVHygnyP2k1"
     },
     {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Piano Bar",
+        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 280546,
+      "name": "Cerca De La Revolucion",
+      "url": "https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd"
+    },
+    {
       "added_at": "2022-12-16 02:27:34",
       "album": {
         "name": "Un Verano Sin Ti",
@@ -375,18 +375,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Piano Bar",
-        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
         }
       ],
-      "duration_ms": 280546,
-      "name": "Cerca De La Revolucion",
-      "url": "https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd"
+      "duration_ms": 250640,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
     },
     {
       "added_at": "2022-11-18 06:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Nuestro Amo Juega al Esclavo",
-      "url": "https://open.spotify.com/track/0xt7T3rqNolRjO0AUWqBiD"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Mercedes Sosa En Argentina (En Directo)",
         "url": "https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC"
       },
@@ -511,66 +495,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Casa Babylon",
-        "url": "https://open.spotify.com/album/0DzXs04hKcMYg7D2JSLptk"
+        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
+        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
       },
       "artists": [
         {
-          "name": "Mano Negra",
-          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 237640,
-      "name": "Senor Matanza",
-      "url": "https://open.spotify.com/track/2uR6DAqwZCfDeD6jFrD5zA"
-    },
-    {
-      "added_at": "2022-12-16 02:27:34",
-      "album": {
-        "name": "SE BUSCA",
-        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 154450,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Antolog\u00eda del Canto Nuevo Vol. 2",
-        "url": "https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu"
-      },
-      "artists": [
-        {
-          "name": "Sol y Lluvia",
-          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
-        }
-      ],
-      "duration_ms": 147520,
-      "name": "Para Que Nunca Mas",
-      "url": "https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Mexico: Days of Struggle",
-        "url": "https://open.spotify.com/album/6yoETsLDj9sIsVT8eLxQoi"
-      },
-      "artists": [
-        {
-          "name": "Judith Reyes",
-          "url": "https://open.spotify.com/artist/1krCDSISPTMSQiJmIAXQUV"
-        }
-      ],
-      "duration_ms": 330946,
-      "name": "Tragedia de la Plaza de las Tres Culturas (Tragedy of Plaza of the Three Cultures)",
-      "url": "https://open.spotify.com/track/1El3NtUxsm0jc429xajs3I"
+      "duration_ms": 239906,
+      "name": "Nuestro Amo Juega al Esclavo",
+      "url": "https://open.spotify.com/track/0xt7T3rqNolRjO0AUWqBiD"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -591,6 +527,70 @@
       "duration_ms": 257181,
       "name": "Escribo Rap Con R De Revolucio\u0301n",
       "url": "https://open.spotify.com/track/6vmrsiaeNq7LpiGdvB2bJT"
+    },
+    {
+      "added_at": "2022-12-16 02:27:34",
+      "album": {
+        "name": "SE BUSCA",
+        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 154450,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Casa Babylon",
+        "url": "https://open.spotify.com/album/0DzXs04hKcMYg7D2JSLptk"
+      },
+      "artists": [
+        {
+          "name": "Mano Negra",
+          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
+        }
+      ],
+      "duration_ms": 237640,
+      "name": "Senor Matanza",
+      "url": "https://open.spotify.com/track/2uR6DAqwZCfDeD6jFrD5zA"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Mexico: Days of Struggle",
+        "url": "https://open.spotify.com/album/6yoETsLDj9sIsVT8eLxQoi"
+      },
+      "artists": [
+        {
+          "name": "Judith Reyes",
+          "url": "https://open.spotify.com/artist/1krCDSISPTMSQiJmIAXQUV"
+        }
+      ],
+      "duration_ms": 330946,
+      "name": "Tragedia de la Plaza de las Tres Culturas (Tragedy of Plaza of the Three Cultures)",
+      "url": "https://open.spotify.com/track/1El3NtUxsm0jc429xajs3I"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Antolog\u00eda del Canto Nuevo Vol. 2",
+        "url": "https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu"
+      },
+      "artists": [
+        {
+          "name": "Sol y Lluvia",
+          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
+        }
+      ],
+      "duration_ms": 147520,
+      "name": "Para Que Nunca Mas",
+      "url": "https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Viva Italia",
-        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
-      },
-      "artists": [
-        {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
-      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "La Bala",
         "url": "https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 253360,
       "name": "Sacar la Voz",
       "url": "https://open.spotify.com/track/1tR0tdHtTapWhGkUAEfgVR"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Viva Italia",
+        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
+      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Adicto al Rock N Roll",
-        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 121706,
-      "name": "Abuso de Autoridad",
-      "url": "https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "La Bala",
         "url": "https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 210040,
       "name": "Shock",
       "url": "https://open.spotify.com/track/322LgcUL3uhHbpUQP57WUF"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Adicto al Rock N Roll",
+        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 121706,
+      "name": "Abuso de Autoridad",
+      "url": "https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -871,18 +871,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+        "name": "Vengo",
+        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
       },
       "artists": [
         {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 279333,
-      "name": "La Muralla",
-      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
+      "duration_ms": 184378,
+      "name": "Antipatriarca",
+      "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -903,6 +903,22 @@
       "duration_ms": 250080,
       "name": "Somos M\u00e1s Americanos",
       "url": "https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "La Muralla",
+      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -939,22 +955,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Vengo",
-        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 184378,
-      "name": "Antipatriarca",
-      "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
         "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "que lo que",
-        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 124448,
-      "name": "que lo que",
-      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 287986,
       "name": "Tlatelolco 68",
       "url": "https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "que lo que",
+        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 124448,
+      "name": "que lo que",
+      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Aerolineas Makiza",
-        "url": "https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ"
-      },
-      "artists": [
-        {
-          "name": "Makiza",
-          "url": "https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "En Paro",
-      "url": "https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Vengo",
         "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 226922,
       "name": "Somos Sur",
       "url": "https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Aerolineas Makiza",
+        "url": "https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ"
+      },
+      "artists": [
+        {
+          "name": "Makiza",
+          "url": "https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "En Paro",
+      "url": "https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Antifa Dance",
-        "url": "https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 155689,
-      "name": "Antifa Dance",
-      "url": "https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 220533,
       "name": "Los Dinosaurios - Live",
       "url": "https://open.spotify.com/track/0BWhmRyHvBLMcEJDAos2PD"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Antifa Dance",
+        "url": "https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 155689,
+      "name": "Antifa Dance",
+      "url": "https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Mostros",
-        "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 266386,
-      "name": "El Barz\u00f3n",
-      "url": "https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Yo Vivo en Esta Ciudad",
         "url": "https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 227093,
       "name": "La Marcha De La Bronca",
       "url": "https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Mostros",
+        "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 266386,
+      "name": "El Barz\u00f3n",
+      "url": "https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
     },
     {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Antolog\u00eda 1968-1992",
-        "url": "https://open.spotify.com/album/1rJ7VkFSDPEB9m27A8NAO4"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Plegaria A Un Labrador",
-      "url": "https://open.spotify.com/track/1AD8C9GGDDvzm6i0r0v4c2"
-    },
-    {
       "added_at": "2022-07-15 04:43:21",
       "album": {
         "name": "M\u00fasica Guerrera",
@@ -1471,6 +1455,22 @@
       "duration_ms": 186000,
       "name": "M\u00fasica Guerrera",
       "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Antolog\u00eda 1968-1992",
+        "url": "https://open.spotify.com/album/1rJ7VkFSDPEB9m27A8NAO4"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Plegaria A Un Labrador",
+      "url": "https://open.spotify.com/track/1AD8C9GGDDvzm6i0r0v4c2"
     },
     {
       "added_at": "2022-03-18 03:36:26",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Circular Colectivo",
-        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "El Pa\u00eds de No Pasa Nada",
-      "url": "https://open.spotify.com/track/1JklEfdFt8U7HMck9etQjs"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Un Le\u00f3n D-Mente",
         "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 346946,
       "name": "La Memoria",
       "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Circular Colectivo",
+        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "El Pa\u00eds de No Pasa Nada",
+      "url": "https://open.spotify.com/track/1JklEfdFt8U7HMck9etQjs"
     },
     {
       "added_at": "2022-01-13 03:30:36",

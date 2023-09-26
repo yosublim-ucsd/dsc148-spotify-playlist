@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Chelsea Cutler
 
-1,461 songs - 3 day 4 hr 39 min
+1,462 songs - 3 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Bird Sing](https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Bird Sing](https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH) | 3:10 | 2022-08-26 | 2022-09-17 |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-03-18 | 2022-05-28 |
 | [Bitter \(feat\. Trevor Daniel\)](https://open.spotify.com/track/21vPjrAwqTWvNm4HqODEIY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Bitter \(feat\. Trevor Daniel\)](https://open.spotify.com/album/46JzNo2nsnGWzYyjnbPjL0) | 3:14 | 2020-10-13\* | 2020-11-20 |
+| [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-25 |  |
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 | 2023-05-10 |
 | [Blame](https://open.spotify.com/track/63qWXTXbAaB4RZ9gopoz1Y) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Blame](https://open.spotify.com/album/4gcHcNCrWU1yVL3cM9dJQ2) | 3:19 | 2021-01-08 | 2021-03-14 |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2022-12-09 | 2023-07-22 |

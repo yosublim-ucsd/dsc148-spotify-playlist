@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Lola Brooke, Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,867 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,881 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 7 | [TRIPLE THREAT](https://open.spotify.com/track/2URQXBVDvENWHvUodr5ScN) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [TRIPLE THREAT](https://open.spotify.com/album/4ClTS36W38BNdWMFNvvFam) | 3:17 |
 | 8 | [Run It Back](https://open.spotify.com/track/2IYpRftIpXXNJi82WFilZM) | [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ), [Tony Stone](https://open.spotify.com/artist/5di9hYUH42sv9IPcSYEdOn) | [Run It Back](https://open.spotify.com/album/53Hi67UgaiDyv566SgzMQU) | 2:24 |
 | 9 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 |
-| 10 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:33 |
+| 10 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
 | 11 | [Bad Dreams](https://open.spotify.com/track/2TZYUGEvd0S9805K9jpU94) | [Eazy Mac](https://open.spotify.com/artist/1qHkWv9sHlhqmNdPbMU5tN), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Bad Dreams](https://open.spotify.com/album/1oSynjMTnMo9SCR5C54jTW) | 3:24 |
 | 12 | [Fly god manners](https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [LONERWRLD, vol 1](https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah) | 2:10 |
 | 13 | [Fever](https://open.spotify.com/track/2Ikg6hRQOa6e29sq5xWhM8) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 |
 | 50 | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/album/0kFq7Bvlr9eiE3Za6kx1Ub) | 2:52 |
 
-Snapshot ID: `MCw3MWJiOGYzY2ZkNmI5YTBjNDVkYTVkNWRlMmM1YWEwYWU3Y2U3NmQx`
+Snapshot ID: `MCxmMWEzOTQwNTQ2NzU4NzdlOTllYzMwMjYwNTFmNzFjNjRiY2RiYWQy`

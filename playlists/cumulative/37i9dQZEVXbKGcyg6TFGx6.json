@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
@@ -4556,7 +4556,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -4886,7 +4886,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 196384,
       "name": "Chakras",
       "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
@@ -5930,7 +5930,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -10651,6 +10651,24 @@
     },
     {
       "album": {
+        "name": "Green Brown and Hazelish Eyes",
+        "url": "https://open.spotify.com/album/1V3mrhJtTMJbs65h4hensA"
+      },
+      "artists": [
+        {
+          "name": "Scott Isbell",
+          "url": "https://open.spotify.com/artist/4SXhj3NqYExbHwRacypqaH"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146054,
+      "name": "Green Brown and Hazelish Eyes",
+      "url": "https://open.spotify.com/track/6hIFV3ORkNFkkNvGIZCupg"
+    },
+    {
+      "album": {
         "name": "Faits Divers",
         "url": "https://open.spotify.com/album/0D1l1fmXKbfT9auNhqkc51"
       },
@@ -13942,7 +13960,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -14672,7 +14690,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -16440,7 +16458,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 152546,
       "name": "Meuda",
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
@@ -19760,7 +19778,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -20681,6 +20699,28 @@
     },
     {
       "album": {
+        "name": "Reinvented",
+        "url": "https://open.spotify.com/album/19pRk58dX0GrEEZ0rQsKUi"
+      },
+      "artists": [
+        {
+          "name": "YUNGGREEDY TRIPLED",
+          "url": "https://open.spotify.com/artist/5FxM2ZIeawRPpFnmtByeI0"
+        },
+        {
+          "name": "SouthDallas KeKe",
+          "url": "https://open.spotify.com/artist/2lgdsRK9YiaM2zDvh94jDg"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166009,
+      "name": "Reinvented",
+      "url": "https://open.spotify.com/track/6uzxlXvbxxVRZo23kZZLUU"
+    },
+    {
+      "album": {
         "name": "RENN RENN",
         "url": "https://open.spotify.com/album/3CYIlp65qThM8xkS97nbZR"
       },
@@ -20910,7 +20950,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 137419,
       "name": "Rock My Body",
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
@@ -21210,7 +21250,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
@@ -26918,7 +26958,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 168146,
       "name": "Wei\u00dfes Haus",
       "url": "https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt"

@@ -5698,7 +5698,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 187419,
       "name": "Mosh Bimazagak",
       "url": "https://open.spotify.com/track/4QXvNMueJu3X10pJwMF0Zn"
@@ -6884,6 +6884,24 @@
       "duration_ms": 165671,
       "name": "Shway Shway",
       "url": "https://open.spotify.com/track/6sTssq4X4cBGcMsT9vmymq"
+    },
+    {
+      "album": {
+        "name": "Siahak Tarab",
+        "url": "https://open.spotify.com/album/4NhrRfjq5gt75bA7ig52xK"
+      },
+      "artists": [
+        {
+          "name": "Shaimaa El Maghraby",
+          "url": "https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "Siahak Tarab",
+      "url": "https://open.spotify.com/track/7ludZiL5pdp3QKDjEEmMt0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,180 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,215 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 79 | [Passionate \(feat\. Roddy Ricch\)](https://open.spotify.com/track/5k3xP19vac82Kweo4mOvlw) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Just For Clarity 2](https://open.spotify.com/album/4nw05bSkWU3oVxK5dBcSQE) | 2:50 |
 | 80 | [Intelligent Bad Bwoy](https://open.spotify.com/track/1gw7vCvbE2z6lwGDOxkW4M) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Daigos](https://open.spotify.com/artist/2E1k7NNNu4SJcMKrGPVVLO) | [Intelligent Bad Bwoy](https://open.spotify.com/album/3izQI59ta8LnH8wIvgXFU9) | 4:28 |
 
-Snapshot ID: `MCw3MzJmM2QyMjM1ZTA2ODllMTkyOTY5M2M4YjE5N2E4MDFkY2VjYTRh`
+Snapshot ID: `MCxmZDc3Y2ZkMjhmZjdmMjM4OWY0NjNlNjFhYTk1M2QzYzhhMTY1MmYy`

@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 6522,
+  "num_followers": 6521,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NzU5MyxkMTBiNzkwYWY0MjQ0ZWYzN2E4YjA3MTk0ZjhmNTk3MzJkYmU3MDli",
+  "snapshot_id": "NzU5NSxhZjc3NGRkMWY1MmUyMDBlMGI0ZWEyZDA5MjU5MzdkYTg2ZTJmYmRh",
   "tracks": [
     {
       "added_at": "2023-09-15 09:03:38",
@@ -131,6 +131,30 @@
       "duration_ms": 322500,
       "name": "Boom",
       "url": "https://open.spotify.com/track/0OkFEj1W0O9lT9vXr1figp"
+    },
+    {
+      "added_at": "2023-09-25 09:58:14",
+      "album": {
+        "name": "When I Hear Your Name (Remixes)",
+        "url": "https://open.spotify.com/album/2YjWVloHIlkLR6NE6ja2KE"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Keeld",
+          "url": "https://open.spotify.com/artist/4JU2KBLwvIFo9iH3a2FtCT"
+        }
+      ],
+      "duration_ms": 236363,
+      "name": "Kissing New People (feat. Ty Dolla $ign) (Keeld Remix)",
+      "url": "https://open.spotify.com/track/0ZzCCQBq0jANlEFYsC1QRq"
     },
     {
       "added_at": "2023-09-22 22:14:01",

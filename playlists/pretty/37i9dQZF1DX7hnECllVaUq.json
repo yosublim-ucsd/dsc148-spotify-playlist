@@ -1,12 +1,12 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Josh Ross",
-  "num_followers": 34611,
+  "num_followers": 34711,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjFmMDVhNTRhNmNkZDU1ZTQzZDYzOTJlNGZiMjQ2ZjMwYzQ0OGEz",
+  "snapshot_id": "MCxmZjUxN2M1YzQyZmY1Yzg2YmViOTBiZmUzNzQ3MTgzYWVmNDFiZjMx",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 207540,
-      "name": "Rock and A Hard Place",
-      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
+      "duration_ms": 213493,
+      "name": "You Should Probably Leave",
+      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 213493,
-      "name": "You Should Probably Leave",
-      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Beautiful Crazy",
-      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "Lady May",
+      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "You Proof",
         "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
       },
@@ -807,26 +823,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "10,000 Hours (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "10,000 Hours (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Giddy Up!",
         "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
       },
@@ -843,18 +839,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+        "name": "10,000 Hours (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Lady May",
-      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
+      "duration_ms": 167693,
+      "name": "10,000 Hours (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Wild World",
-        "url": "https://open.spotify.com/album/4IzjQzx4s48rZm0q8wVXWS"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "She's Mine",
-      "url": "https://open.spotify.com/track/6NCbMyR7A8MjbX0UhaEgbd"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Dear Life",
         "url": "https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N"
       },
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Wild World",
+        "url": "https://open.spotify.com/album/4IzjQzx4s48rZm0q8wVXWS"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "She's Mine",
+      "url": "https://open.spotify.com/track/6NCbMyR7A8MjbX0UhaEgbd"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Life Upside Down EP",
         "url": "https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr"
       },
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "My Mind's Projection",
+        "url": "https://open.spotify.com/album/7fSZE2xLU6bZ1iobxww9WP"
+      },
+      "artists": [
+        {
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+        }
+      ],
+      "duration_ms": 221025,
+      "name": "Give Me Tonight",
+      "url": "https://open.spotify.com/track/5trK9XKx6v9zoAOlaDJ6Hr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "GOT IT GOOD",
         "url": "https://open.spotify.com/album/6YTjgeiAZe31mPENUnSsqF"
       },
@@ -1647,26 +1663,6 @@
       "duration_ms": 173031,
       "name": "GOT IT GOOD",
       "url": "https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "If I Was Your Lover",
-        "url": "https://open.spotify.com/album/3RwhwntJuYBPUl6tCJI7wr"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        },
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "If I Was Your Lover",
-      "url": "https://open.spotify.com/track/2zWbXUgWEWwubCja3ArCTu"
     }
   ],
   "unique_name": "Country Worldwide",

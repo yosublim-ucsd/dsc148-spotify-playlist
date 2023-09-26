@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 330126,
+  "num_followers": 330291,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDhkMGFhZmEzMTdmNTY4ZWMxZTNkYTBkMTBlYzAwZjhhZDE4Zjdl",
+  "snapshot_id": "MCwxNTg4ODk4ZDAyYTdiZTE5OGJjZTc3MGFkNzZhNmUxMDM0NGI5MjFi",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Put Yourself Back Together",
+        "url": "https://open.spotify.com/album/3G8a4ZUKQ5b2dEzXbeZ9LZ"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 163999,
+      "name": "I've Given Up on You",
+      "url": "https://open.spotify.com/track/4MR6PGC6LHMSXbK8iCfpug"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "Today I Saw The Whole World EP",
         "url": "https://open.spotify.com/album/3jpj1gAA8kbB6HFDByBaJt"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 206973,
       "name": "Today I Saw The Whole World - Acoustic Version",
       "url": "https://open.spotify.com/track/5EbsXX8qzNSnD88ulWSXGW"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Adornment",
-        "url": "https://open.spotify.com/album/3Mh4cazNSfQaGhGS7lx8Q5"
-      },
-      "artists": [
-        {
-          "name": "Grayscale",
-          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
-        }
-      ],
-      "duration_ms": 257693,
-      "name": "Forever Yours",
-      "url": "https://open.spotify.com/track/2fWRRecCCnzAE4gLBUjz8M"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -171,34 +171,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Put Yourself Back Together",
-        "url": "https://open.spotify.com/album/3G8a4ZUKQ5b2dEzXbeZ9LZ"
+        "name": "Adornment",
+        "url": "https://open.spotify.com/album/3Mh4cazNSfQaGhGS7lx8Q5"
       },
       "artists": [
         {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
         }
       ],
-      "duration_ms": 163999,
-      "name": "I've Given Up on You",
-      "url": "https://open.spotify.com/track/4MR6PGC6LHMSXbK8iCfpug"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Proper Dose",
-        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 222869,
-      "name": "Take Me as You Please",
-      "url": "https://open.spotify.com/track/5JCD9hxovnHVF72WXt7App"
+      "duration_ms": 257693,
+      "name": "Forever Yours",
+      "url": "https://open.spotify.com/track/2fWRRecCCnzAE4gLBUjz8M"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -215,6 +199,22 @@
       "duration_ms": 240019,
       "name": "Catching Fire (Acoustic)",
       "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Proper Dose",
+        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 222869,
+      "name": "Take Me as You Please",
+      "url": "https://open.spotify.com/track/5JCD9hxovnHVF72WXt7App"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -263,6 +263,22 @@
       "duration_ms": 175198,
       "name": "Lucky People",
       "url": "https://open.spotify.com/track/7EJw4qOq9wtJw0FoU3GeBq"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "In Bloom: Versions",
+        "url": "https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 212534,
+      "name": "In Bloom (Acoustic)",
+      "url": "https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -319,22 +335,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "In Bloom: Versions",
-        "url": "https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 212534,
-      "name": "In Bloom (Acoustic)",
-      "url": "https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Aggressive (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 200117,
       "name": "She's Quiet - Acoustic",
       "url": "https://open.spotify.com/track/4PkfRaum27YPheL0Kdu6wx"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 184490,
+      "name": "Little Dove",
+      "url": "https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -431,22 +447,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 184490,
-      "name": "Little Dove",
-      "url": "https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Skinny Dipping",
         "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 215186,
       "name": "Toothpick",
       "url": "https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Beautiful Mess",
-        "url": "https://open.spotify.com/album/0wf7JnnpOSRkgfVfbXEfwZ"
-      },
-      "artists": [
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        }
-      ],
-      "duration_ms": 215522,
-      "name": "Here's My Heart",
-      "url": "https://open.spotify.com/track/1V4ks332ryWHKyBv67mdSG"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -495,6 +479,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Beautiful Mess",
+        "url": "https://open.spotify.com/album/0wf7JnnpOSRkgfVfbXEfwZ"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        }
+      ],
+      "duration_ms": 215522,
+      "name": "Here's My Heart",
+      "url": "https://open.spotify.com/track/1V4ks332ryWHKyBv67mdSG"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "Sunnyland",
         "url": "https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Into The Dark (Acoustic)",
-        "url": "https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 220941,
-      "name": "Into The Dark (Acoustic)",
-      "url": "https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Better Weather",
         "url": "https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 213742,
       "name": "Long Night",
       "url": "https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Into The Dark (Acoustic)",
+        "url": "https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 220941,
+      "name": "Into The Dark (Acoustic)",
+      "url": "https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Dammit (Acoustic)",
+        "url": "https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC"
+      },
+      "artists": [
+        {
+          "name": "FigureItOut",
+          "url": "https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Dammit (Acoustic)",
+      "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "Stay Beautiful",
         "url": "https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 227349,
       "name": "Knuckles (Acoustic)",
       "url": "https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 196307,
-      "name": "Drink To Drown",
-      "url": "https://open.spotify.com/track/4oCGjSBibZ4vQDzxcvupBH"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Dammit (Acoustic)",
-        "url": "https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC"
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
       "artists": [
         {
-          "name": "FigureItOut",
-          "url": "https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 241714,
-      "name": "Dammit (Acoustic)",
-      "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
+      "duration_ms": 196307,
+      "name": "Drink To Drown",
+      "url": "https://open.spotify.com/track/4oCGjSBibZ4vQDzxcvupBH"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l"
         }
       ],
-      "duration_ms": 174947,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/70RDWC722GJncJpg5m8Veq"
+      "duration_ms": 199431,
+      "name": "Fentanyl - Stripped",
+      "url": "https://open.spotify.com/track/5Ut3opgBBOXRnQmN4XmJXZ"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Blue in the Dark",
-        "url": "https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42"
-      },
-      "artists": [
-        {
-          "name": "Bearings",
-          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
-        }
-      ],
-      "duration_ms": 159553,
-      "name": "Tide",
-      "url": "https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Empty Throne (Acoustic)",
         "url": "https://open.spotify.com/album/5Oad5COo5IwNpeqDsWedmg"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 295800,
       "name": "Empty Throne - Acoustic",
       "url": "https://open.spotify.com/track/6ENH2r9VtuBrPmAV5R7t1f"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Blue in the Dark",
+        "url": "https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "duration_ms": 159553,
+      "name": "Tide",
+      "url": "https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Redux: The First 10 Years",
+        "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Still Dreaming (Acoustic)",
+      "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "Cruel Summer",
         "url": "https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED"
       },
@@ -936,9 +952,9 @@
           "url": "https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l"
         }
       ],
-      "duration_ms": 199431,
-      "name": "Fentanyl - Stripped",
-      "url": "https://open.spotify.com/track/5Ut3opgBBOXRnQmN4XmJXZ"
+      "duration_ms": 174947,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/70RDWC722GJncJpg5m8Veq"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -955,22 +971,6 @@
       "duration_ms": 199750,
       "name": "Dakota (Reimagined)",
       "url": "https://open.spotify.com/track/3Rkpb1WRkkFD7AlFjNZf1i"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Redux: The First 10 Years",
-        "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Still Dreaming (Acoustic)",
-      "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1019,6 +1019,22 @@
       "duration_ms": 214275,
       "name": "10 Am",
       "url": "https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Disarm",
+        "url": "https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 199086,
+      "name": "Disarm",
+      "url": "https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Disarm",
-        "url": "https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 199086,
-      "name": "Disarm",
-      "url": "https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Punk Goes Acoustic, Vol. 3",
         "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "When the Dust Settles",
-        "url": "https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "\u201csometimes you meet the right people at the wrong times\u201d - Revisited",
-      "url": "https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 190166,
       "name": "Agree to Disagree - Acoustic",
       "url": "https://open.spotify.com/track/5uxbUvPyzIU64kyuKgrKab"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "When the Dust Settles",
+        "url": "https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "\u201csometimes you meet the right people at the wrong times\u201d - Revisited",
+      "url": "https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ"
     },
     {
       "added_at": "2022-04-04 15:03:53",

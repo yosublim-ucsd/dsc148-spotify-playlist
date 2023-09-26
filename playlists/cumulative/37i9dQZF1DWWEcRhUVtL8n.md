@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rocco
 
-1,672 songs - 3 day 16 hr 5 min
+1,673 songs - 3 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1096,7 +1096,7 @@
 | [Ohio](https://open.spotify.com/track/1nyXYgcOxmCPzMay9q5StX) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Ohio](https://open.spotify.com/album/3uD77mMOEfgvh6WdbFix8y) | 4:53 | 2021-02-22 | 2021-02-28 |
 | [OK](https://open.spotify.com/track/0APAKxMXB7jdDs4kw1l30y) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [OK](https://open.spotify.com/album/6AMTezrkvSp7i1PqL0Mb7F) | 3:13 | 2020-10-20 | 2022-04-07 |
 | [Ok on My Own](https://open.spotify.com/track/76gAbSOSA7zC1w90wOWGAW) | [Comfort Club](https://open.spotify.com/artist/21G9CpO300CeQxXo8R3FXw) | [Ok on My Own](https://open.spotify.com/album/4U7hgHFYrPFSDWhSGk9Rkx) | 3:20 | 2022-01-14 | 2022-07-28 |
-| [Old Friends](https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0) | 2:52 | 2023-08-04 |  |
+| [Old Friends](https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0) | 2:52 | 2023-08-04 | 2023-09-26 |
 | [Oldest Teenager](https://open.spotify.com/track/0PNVMcb2Y6q4SHnKQLl4b5) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [Oldest Teenager](https://open.spotify.com/album/4Moa9v6iF62W4410haXRJp) | 3:16 | 2021-01-12 | 2022-06-27 |
 | [Olivia](https://open.spotify.com/track/7KGMmSI2vaHim1DlfES5U2) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Olivia](https://open.spotify.com/album/54hr285PmUoNIBfDCGKV2J) | 2:51 | 2021-04-03 | 2021-05-22 |
 | [Olivia](https://open.spotify.com/track/5ruQHtb5I60wPAq0672ytg) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Olivia](https://open.spotify.com/album/6F6a1eVUXuO96dW55DZHfl) | 3:48 | 2022-03-04 | 2022-04-21 |
@@ -1481,6 +1481,7 @@
 | [The Clouds](https://open.spotify.com/track/5SegYKHnOYeNSroxWdJ1Wc) | [Matilda Cole](https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI) | [The Clouds](https://open.spotify.com/album/6FFq4AVPFU1Ig4uAIi14kr) | 2:19 | 2020-11-20 | 2021-02-28 |
 | [the craziest thing i've ever done](https://open.spotify.com/track/504MLnUGC8qPxtsWmwY3hl) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [the craziest thing i've ever done](https://open.spotify.com/album/4s2wMCiGFlOwbJwW63ZRec) | 3:11 | 2021-03-16 | 2021-05-28 |
 | [The Drummer](https://open.spotify.com/track/6hfjUCMCN2uA4PVAek7yU3) | [Petite Meller](https://open.spotify.com/artist/2gUVyV9z7T6cielHCMSpvb) | [The Drummer](https://open.spotify.com/album/1Y1X2eWAXaiYhaG2UXTPXA) | 3:29 | 2022-09-09 | 2022-09-17 |
+| [The Earth is a Very Small Dot](https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [The Earth is a Very Small Dot](https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG) | 3:56 | 2023-09-22 |  |
 | [The Edge](https://open.spotify.com/track/6qz0vy1Vmlk0CkcIZVfDe6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [The Edge](https://open.spotify.com/album/4xBRWqgv6LwgOO15guGN5Z) | 4:07 | 2022-01-28 | 2022-04-21 |
 | [The Eviction Song](https://open.spotify.com/track/6oQiyu9WMFDSKn2my0k7p7) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [The Eviction Song](https://open.spotify.com/album/6aPgylNrj1zdb5TfUbdYzb) | 2:59 | 2020-11-10 | 2020-11-15 |
 | [The Fool](https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0) | 3:26 | 2023-02-24 |  |

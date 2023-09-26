@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 71357,
+  "num_followers": 71368,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ4OTIwMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1tCIXEBHBFHO1x3M07z3xy"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -57,7 +57,27 @@
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
+      "album": {
+        "name": "Valencia",
+        "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
+      },
+      "artists": [
+        {
+          "name": "Tomi",
+          "url": "https://open.spotify.com/artist/3T7cPgj4vAIoSdypl7cNH8"
+        },
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "Valencia",
+      "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
+    },
+    {
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "tripq",
         "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
@@ -77,7 +97,7 @@
       "url": "https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/1MiseUuQlh2ktcmD3FonJo"
@@ -101,7 +121,7 @@
       "url": "https://open.spotify.com/track/6eaaIxWaso3ooRdPDS5PuN"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -117,7 +137,7 @@
       "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -133,7 +153,7 @@
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -149,7 +169,7 @@
       "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "tripq",
         "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
@@ -169,7 +189,23 @@
       "url": "https://open.spotify.com/track/1VPU7SKdABCb3gNCNjMFIZ"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -189,23 +225,7 @@
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "\u00d6rd\u00f6g N\u00f3rika",
         "url": "https://open.spotify.com/album/1JaFdpKwzHa9KdPdqQ98Yw"
@@ -221,7 +241,27 @@
       "url": "https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
+      "album": {
+        "name": "V\u00e1rn\u00e9k",
+        "url": "https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "V\u00e1rn\u00e9k",
+      "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
+    },
+    {
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "tripq",
         "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
@@ -253,7 +293,23 @@
       "url": "https://open.spotify.com/track/000n6Lx4yqUAslF1x3JeFY"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -277,27 +333,7 @@
       "url": "https://open.spotify.com/track/5SDMdbd64hSpeg1OTCUy7L"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "V\u00e1rn\u00e9k",
-        "url": "https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "V\u00e1rn\u00e9k",
-      "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "Meg\u00e1ll Az Id\u0151",
         "url": "https://open.spotify.com/album/44FAquiBnYU5AnSXSsz4No"
@@ -317,7 +353,7 @@
       "url": "https://open.spotify.com/track/1lfErXcHIp6Ail8bFuONMF"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "tripq",
         "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
@@ -337,7 +373,7 @@
       "url": "https://open.spotify.com/track/6bmTNiH8blviXxFDVoAuL7"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "tripq",
         "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
@@ -357,23 +393,7 @@
       "url": "https://open.spotify.com/track/7xdiiqtQPUXrKcd6BoFyYd"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 203529,
-      "name": "four moods",
-      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "Sose Alszok",
         "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
@@ -389,23 +409,7 @@
       "url": "https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "Vill\u00e1m",
         "url": "https://open.spotify.com/album/5nBEJhjzLkpzIl7kM1aRcn"
@@ -425,7 +429,23 @@
       "url": "https://open.spotify.com/track/7AZobwHObSuZQDCGXWYuop"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
+      "album": {
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 203529,
+      "name": "four moods",
+      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
+    },
+    {
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "KINCUGI",
         "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
@@ -441,7 +461,39 @@
       "url": "https://open.spotify.com/track/3Ccwu3ujS9lyxW9CtTchk8"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-09-25 08:55:13",
+      "album": {
+        "name": "Sose Alszok",
+        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
+      },
+      "artists": [
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "duration_ms": 146013,
+      "name": "Sz\u00e1zszorsz\u00e9p",
+      "url": "https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L"
+    },
+    {
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -457,7 +509,7 @@
       "url": "https://open.spotify.com/track/3UlXaigjBM3sHyOpDbh1RI"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -477,7 +529,7 @@
       "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "MENTALITAT",
         "url": "https://open.spotify.com/album/7jLv7WmSyuS3jVjTMg1H95"
@@ -493,7 +545,7 @@
       "url": "https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/5U5KhcGgli7Y4aQySFG1Cd"
@@ -517,59 +569,43 @@
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
-        "name": "Valencia",
-        "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
       },
       "artists": [
         {
-          "name": "Tomi",
-          "url": "https://open.spotify.com/artist/3T7cPgj4vAIoSdypl7cNH8"
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 172956,
+      "name": "ERN\u0150",
+      "url": "https://open.spotify.com/track/1INwADAW4dAAaCoGFXgcg7"
+    },
+    {
+      "added_at": "2023-09-25 08:55:13",
+      "album": {
+        "name": "Csavarg\u00f3",
+        "url": "https://open.spotify.com/album/7brKQyvjCymITjb8SEZiZe"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
         },
         {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+          "name": "L.L. Junior",
+          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
         }
       ],
-      "duration_ms": 175081,
-      "name": "Valencia",
-      "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
+      "duration_ms": 174000,
+      "name": "Csavarg\u00f3",
+      "url": "https://open.spotify.com/track/1jI95q1ZSLZuVNdOMwaoUL"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "Sose Alszok",
-        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
-      },
-      "artists": [
-        {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        }
-      ],
-      "duration_ms": 146013,
-      "name": "Sz\u00e1zszorsz\u00e9p",
-      "url": "https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 164290,
-      "name": "figyelj",
-      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "DESHPERADO",
         "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
@@ -589,23 +625,23 @@
       "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
-        "name": "KINCUGI",
-        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
       },
       "artists": [
         {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 172956,
-      "name": "ERN\u0150",
-      "url": "https://open.spotify.com/track/1INwADAW4dAAaCoGFXgcg7"
+      "duration_ms": 164290,
+      "name": "figyelj",
+      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -621,23 +657,7 @@
       "url": "https://open.spotify.com/track/3DTF2AIcHMwZ1q1gz9zspi"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -653,7 +673,7 @@
       "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -669,59 +689,23 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
         }
       ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "SZ\u00cdNVAK",
-        "url": "https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl"
-      },
-      "artists": [
-        {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        }
-      ],
-      "duration_ms": 198278,
-      "name": "SZ\u00cdNVAK",
-      "url": "https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "M\u00e9g nem",
-        "url": "https://open.spotify.com/album/0M64Q9GZzg6qkP4gdJJiOW"
-      },
-      "artists": [
-        {
-          "name": "Filo",
-          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
-        },
-        {
-          "name": "Apu",
-          "url": "https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN"
-        }
-      ],
-      "duration_ms": 139014,
-      "name": "seholse",
-      "url": "https://open.spotify.com/track/520pvY0G0yZ9Jcwlhik7lD"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "24 kar\u00e1t",
         "url": "https://open.spotify.com/album/4ozjvpme21Vi5afFYaibBB"
@@ -741,7 +725,59 @@
       "url": "https://open.spotify.com/track/4f1ZqRQsjJq06CHmpvju2p"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
+      "album": {
+        "name": "M\u00e9g nem",
+        "url": "https://open.spotify.com/album/0M64Q9GZzg6qkP4gdJJiOW"
+      },
+      "artists": [
+        {
+          "name": "Filo",
+          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+        },
+        {
+          "name": "Apu",
+          "url": "https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN"
+        }
+      ],
+      "duration_ms": 139014,
+      "name": "seholse",
+      "url": "https://open.spotify.com/track/520pvY0G0yZ9Jcwlhik7lD"
+    },
+    {
+      "added_at": "2023-09-25 08:55:13",
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "F\u00dcGG\u0150",
+      "url": "https://open.spotify.com/track/2zzQFIe6kZ53LffgplVLSd"
+    },
+    {
+      "added_at": "2023-09-25 08:55:13",
+      "album": {
+        "name": "SZ\u00cdNVAK",
+        "url": "https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl"
+      },
+      "artists": [
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        }
+      ],
+      "duration_ms": 198278,
+      "name": "SZ\u00cdNVAK",
+      "url": "https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo"
+    },
+    {
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "R\u00e9t",
         "url": "https://open.spotify.com/album/4QTBjYfiHEcmUrX0PkKIlt"
@@ -761,27 +797,23 @@
       "url": "https://open.spotify.com/track/5pYNDOTIoZZ5ab77vb8EO3"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         }
       ],
-      "duration_ms": 193542,
-      "name": "Miafasz",
-      "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
+      "duration_ms": 220194,
+      "name": "\u2265 L\u00c1NY",
+      "url": "https://open.spotify.com/track/5cgPPG5JKKAJR49vFMyjGV"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -809,39 +841,7 @@
       "url": "https://open.spotify.com/track/4Os68ICIOhJVOPfl53TjBP"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "KINCUGI",
-        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "F\u00dcGG\u0150",
-      "url": "https://open.spotify.com/track/2zzQFIe6kZ53LffgplVLSd"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "KINCUGI",
-        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 220194,
-      "name": "\u2265 L\u00c1NY",
-      "url": "https://open.spotify.com/track/5cgPPG5JKKAJR49vFMyjGV"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "KINCUGI",
         "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
@@ -857,27 +857,43 @@
       "url": "https://open.spotify.com/track/66st0N9k5A2yw2Le6qnSNM"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
-        "name": "Csavarg\u00f3",
-        "url": "https://open.spotify.com/album/7brKQyvjCymITjb8SEZiZe"
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
       },
       "artists": [
         {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         },
         {
-          "name": "L.L. Junior",
-          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Csavarg\u00f3",
-      "url": "https://open.spotify.com/track/1jI95q1ZSLZuVNdOMwaoUL"
+      "duration_ms": 193542,
+      "name": "Miafasz",
+      "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 166808,
+      "name": "SEMMI",
+      "url": "https://open.spotify.com/track/2FESRN1CsZIuVjunVVEGBV"
+    },
+    {
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "KINCUGI",
         "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
@@ -893,43 +909,7 @@
       "url": "https://open.spotify.com/track/0uL4P24GkIY7p2Y9Dfgsfk"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 180749,
-      "name": "Tiszt\u00e1n iszom",
-      "url": "https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:13",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -947,6 +927,26 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "added_at": "2023-09-25 08:55:13",
+      "album": {
+        "name": "Fotof\u00f3bia",
+        "url": "https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        },
+        {
+          "name": "Lil Frakk",
+          "url": "https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev"
+        }
+      ],
+      "duration_ms": 168800,
+      "name": "Lej",
+      "url": "https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E"
     }
   ],
   "unique_name": "Top 50 - Hungary",

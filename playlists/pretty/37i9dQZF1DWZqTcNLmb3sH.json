@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 53115,
+  "num_followers": 53159,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWVjNzRlNjk5YmQ3MGFhZjUwMDQ2ODY2M2E0NTg5OGE3MTEyNmZh",
+  "snapshot_id": "MCw5MmJlYWQ1YjlhN2QxODYwYTU2NDU2MTJhMDgwYjdkNjk3YzBiZWI4",
   "tracks": [
     {
       "added_at": "2023-09-12 08:17:16",
@@ -33,6 +33,54 @@
       "url": "https://open.spotify.com/track/1SRXTf3yNjZh1x0DTQv6MH"
     },
     {
+      "added_at": "2023-09-20 12:59:03",
+      "album": {
+        "name": "Bad Boys (from \"Bheema\")",
+        "url": "https://open.spotify.com/album/7l7dcwAVpFOUt7eRAsyXed"
+      },
+      "artists": [
+        {
+          "name": "Rahul Dit-O",
+          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
+        },
+        {
+          "name": "M.C.Bijju",
+          "url": "https://open.spotify.com/artist/4Um1J2sDY8esAapos04b4X"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Bad Boys (from \"Bheema\")",
+      "url": "https://open.spotify.com/track/1fpHvSPEF5au5OTIrkroeV"
+    },
+    {
+      "added_at": "2023-09-25 13:17:12",
+      "album": {
+        "name": "Kanna Baana (From \"Chikku\")",
+        "url": "https://open.spotify.com/album/7CUojzbqOxiSCmtLEvs1FS"
+      },
+      "artists": [
+        {
+          "name": "Dhibu Ninan Thomas",
+          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        }
+      ],
+      "duration_ms": 243080,
+      "name": "Kanna Baana - From \"Chikku\"",
+      "url": "https://open.spotify.com/track/46giPH7ozi1yQhqFoMbQ0u"
+    },
+    {
       "added_at": "2023-09-22 09:38:53",
       "album": {
         "name": "OGM (From \"Ghost\")",
@@ -55,6 +103,30 @@
       "duration_ms": 165323,
       "name": "OGM (From \"Ghost\")",
       "url": "https://open.spotify.com/track/25T3o2LN7IV1mIXCt1FPbQ"
+    },
+    {
+      "added_at": "2023-09-25 13:19:24",
+      "album": {
+        "name": "Garadi Title Track (From \"Garadi\")",
+        "url": "https://open.spotify.com/album/40LN2w1d5n8cq4c1pPmf4m"
+      },
+      "artists": [
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Garadi Title Track (From \"Garadi\")",
+      "url": "https://open.spotify.com/track/61vsNRNqUQs9htOvb2pTH7"
     },
     {
       "added_at": "2023-09-11 13:29:48",
@@ -171,26 +243,6 @@
       "duration_ms": 257920,
       "name": "O Maaye (From \"Dvandva\")",
       "url": "https://open.spotify.com/track/6Lp1E4RRJKlqfhR5MZYXYm"
-    },
-    {
-      "added_at": "2023-09-20 12:59:03",
-      "album": {
-        "name": "Bad Boys (from \"Bheema\")",
-        "url": "https://open.spotify.com/album/7l7dcwAVpFOUt7eRAsyXed"
-      },
-      "artists": [
-        {
-          "name": "Rahul Dit-O",
-          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
-        },
-        {
-          "name": "M.C.Bijju",
-          "url": "https://open.spotify.com/artist/4Um1J2sDY8esAapos04b4X"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Bad Boys (from \"Bheema\")",
-      "url": "https://open.spotify.com/track/1fpHvSPEF5au5OTIrkroeV"
     },
     {
       "added_at": "2023-09-21 13:49:00",
@@ -483,26 +535,6 @@
       "duration_ms": 264807,
       "name": "Maathella Haage Ide",
       "url": "https://open.spotify.com/track/25eMW2PZwdlOeBZE2TdOQc"
-    },
-    {
-      "added_at": "2023-09-11 13:31:49",
-      "album": {
-        "name": "Miss Shetty Mr Polishetty (Kannada)",
-        "url": "https://open.spotify.com/album/5rNXY0g7EayqIo8dwnzbga"
-      },
-      "artists": [
-        {
-          "name": "Supriya Ram",
-          "url": "https://open.spotify.com/artist/1rCuDODEULFxCDFeH7H292"
-        },
-        {
-          "name": "Lady Kash",
-          "url": "https://open.spotify.com/artist/2a1ts2wPvq6Vif1x7KJV7a"
-        }
-      ],
-      "duration_ms": 240935,
-      "name": "No No No",
-      "url": "https://open.spotify.com/track/5nPUhuhjBRThVKSqHW1VIh"
     },
     {
       "added_at": "2023-09-12 10:06:17",
@@ -1675,26 +1707,6 @@
       "duration_ms": 174133,
       "name": "Yaaro Yaaro (From \"Yadha Yadha Hi\")",
       "url": "https://open.spotify.com/track/1ASDt2sOPKNGdb4m84fQMS"
-    },
-    {
-      "added_at": "2023-05-18 07:14:00",
-      "album": {
-        "name": "Ninnanu Nodida (from \"Baanadariyalli\")",
-        "url": "https://open.spotify.com/album/2jBMbxmjZGr3RAPY6tafvS"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        }
-      ],
-      "duration_ms": 256665,
-      "name": "Ninnanu Nodida (from \"Baanadariyalli\")",
-      "url": "https://open.spotify.com/track/4PMvYkH1nrA1KvJmWexQGW"
     }
   ],
   "unique_name": "Latest Kannada",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nosotras s\u00f3lo queremos divertirnos! ",
-  "num_followers": 135149,
+  "num_followers": 135198,
   "original_name": "Noche de Amigas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Yzc1MzVmZGMxYWIxZTJmYmQyOGJlMGU1ZWU0MDU4NzE4NzhhNGMz",
+  "snapshot_id": "MCxlMmM2NTc0YjcxNzg3YmM0NzVjOGM5ZWQ3MDc0MGM3YzhlZWYxNTEz",
   "tracks": [
     {
       "added_at": "2022-10-04 22:06:12",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -215,6 +199,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "Darte Un Beso - Spotify Singles",
         "url": "https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML"
       },
@@ -227,6 +227,22 @@
       "duration_ms": 195573,
       "name": "Darte Un Beso - Spotify Singles",
       "url": "https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -247,22 +263,6 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 213061,
-      "name": "Efecto",
-      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 172324,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -755,6 +755,26 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 192313,
+      "name": "M\u00f3naco",
+      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
       },
@@ -775,22 +795,18 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
+        "name": "The Time Of Our Lives",
+        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 192313,
-      "name": "M\u00f3naco",
-      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
+      "duration_ms": 202066,
+      "name": "Party In The U.S.A.",
+      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -831,6 +847,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -847,22 +879,6 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "The Time Of Our Lives",
-        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Party In The U.S.A.",
-      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -891,22 +907,6 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 263306,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -959,18 +943,18 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1047,26 +1031,6 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "Nuevas Metas",
-        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
-      },
-      "artists": [
-        {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
-        },
-        {
-          "name": "Eddy Lover",
-          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
-        }
-      ],
-      "duration_ms": 242390,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
         "name": "Pa' Otro La 'O",
         "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
@@ -1083,6 +1047,42 @@
       "duration_ms": 271031,
       "name": "Procura",
       "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
+        "name": "Nuevas Metas",
+        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
+      },
+      "artists": [
+        {
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+        },
+        {
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+        }
+      ],
+      "duration_ms": 242390,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1111,6 +1111,30 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1183,30 +1207,6 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -1219,30 +1219,6 @@
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "Nost\u00e1lgico",
-        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
-      },
-      "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 209883,
-      "name": "Nost\u00e1lgico",
-      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1271,6 +1247,30 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "Nost\u00e1lgico",
+        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 209883,
+      "name": "Nost\u00e1lgico",
+      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 196613,
       "name": "Perfect Strangers",
       "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 263899,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1343,6 +1327,22 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 263899,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "Ven Bailalo (Reggaeton Mix)",
+        "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
+      },
+      "artists": [
+        {
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Ven Bailalo - Reggaeton Mix",
+      "url": "https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -1607,42 +1623,6 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "Ven Bailalo (Reggaeton Mix)",
-        "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
-      },
-      "artists": [
-        {
-          "name": "Angel Y Khriz",
-          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Ven Bailalo - Reggaeton Mix",
-      "url": "https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "Fantasias",
-        "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 199711,
-      "name": "Fantasias",
-      "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
+        "name": "Fantasias",
+        "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 199711,
+      "name": "Fantasias",
+      "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1691,6 +1691,46 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/2u4Yp2ADTKYPwFSBFL4ffa"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214289,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1711,26 +1751,6 @@
       "duration_ms": 230693,
       "name": "Una Locura",
       "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1771,6 +1791,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 180239,
+      "name": "La Chica Del Bikini Azul",
+      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -1795,58 +1831,6 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "Palabra De Honor",
-        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 180239,
-      "name": "La Chica Del Bikini Azul",
-      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/2u4Yp2ADTKYPwFSBFL4ffa"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214289,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
         "name": "Dj Pablito Presenta- La Factor\u00eda",
         "url": "https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 203360,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -2363,22 +2363,18 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "TKN (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
+        "name": "Timbiriche 7",
+        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
         }
       ],
-      "duration_ms": 129370,
-      "name": "TKN (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
+      "duration_ms": 184946,
+      "name": "Con Todos Menos Conmigo",
+      "url": "https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv"
     }
   ],
   "unique_name": "Noche de Amigas",

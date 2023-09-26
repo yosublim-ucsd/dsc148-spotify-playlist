@@ -2,9 +2,9 @@
 
 ### [Éxitos Puerto Rico](https://open.spotify.com/playlist/37i9dQZF1DX1Zs6DCeRyof)
 
-> Aquí viven los hits más grandes en La Isla del Encanto\. Mora en portada.
+> Aquí viven los hits más grandes en La Isla del Encanto\. Bad Bunny en portada.
 
-88 songs - 4 hr 58 min
+89 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [DONDE SE APRENDE A QUERER?](https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:24 | 2023-08-30 |  |
 | [Easy](https://open.spotify.com/track/5V42ESWm6CPVldc1vzKwAU) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Easy](https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp) | 4:14 | 2023-08-30 |  |
 | [El Cielo](https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [El Cielo](https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f) | 3:11 | 2023-06-12 |  |
-| [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-06-12 |  |
+| [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-06-12 | 2023-09-26 |
 | [EL NENE](https://open.spotify.com/track/5erXVUirf9qivKY5sJOanE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 2:59 | 2023-06-12 | 2023-07-11 |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-06-12 |  |
 | [en guerra](https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [en guerra](https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1) | 3:11 | 2023-06-22 | 2023-07-26 |
@@ -86,6 +86,7 @@
 | [Triste Verano](https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Triste Verano](https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y) | 3:32 | 2023-06-12 | 2023-08-16 |
 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 | 2023-06-22 | 2023-07-11 |
 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 | 2023-06-12 |  |
+| [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 | 2023-09-26 |  |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-06-12 |  |
 | [VAMPIROS](https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 2:56 | 2023-06-12 | 2023-07-11 |
 | [VENTE CONMIGO](https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VENTE CONMIGO](https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB) | 3:06 | 2023-08-15 |  |

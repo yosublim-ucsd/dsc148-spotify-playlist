@@ -1,12 +1,12 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 410779,
+  "num_followers": 411144,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGYwOGQwY2E3N2E5NmVlYjA5MGFlMmJjODBiMGUyOTQxN2M5YmZh",
+  "snapshot_id": "MCw2OGQyZjRjZWNhYzM5YmU0NzQwMjVjZWNkYTk3OTBjZGRlMGEyOGVh",
   "tracks": [
     {
       "added_at": "2021-12-22 16:16:43",
@@ -195,22 +195,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
       },
@@ -227,18 +211,18 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 273173,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -255,6 +239,22 @@
       "duration_ms": 228000,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 273173,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -983,22 +967,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Whenever You Need Somebody",
-        "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
-      },
-      "artists": [
-        {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Together Forever",
-      "url": "https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Best Of Blondie",
         "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
       },
@@ -1011,6 +979,38 @@
       "duration_ms": 275733,
       "name": "Heart Of Glass - Special Mix",
       "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Whenever You Need Somebody",
+        "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
+      },
+      "artists": [
+        {
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Together Forever",
+      "url": "https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 HITS",
-        "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
+        "name": "Heaven On Earth (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no"
       },
       "artists": [
         {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
         }
       ],
-      "duration_ms": 236480,
-      "name": "Somebody's Watching Me - Single Version",
-      "url": "https://open.spotify.com/track/2PmXD1CyQHqxhbi79osKTn"
+      "duration_ms": 233666,
+      "name": "Heaven Is A Place On Earth - Promo 7\" Edit",
+      "url": "https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g"
     }
   ],
   "unique_name": "80s Workout",

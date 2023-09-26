@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 222000,
       "name": "Aasa Dhan",
       "url": "https://open.spotify.com/track/7Ag6nMoZNfsK7yf9p670nn"
@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 232058,
       "name": "All Star Dancer",
       "url": "https://open.spotify.com/track/0wlv59Trb8ALs2Gws9dXLH"
@@ -310,6 +310,24 @@
       "duration_ms": 290117,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv"
+    },
+    {
+      "album": {
+        "name": "Chance eh ille",
+        "url": "https://open.spotify.com/album/7KY5QzrzH4bwic3HK7IPJI"
+      },
+      "artists": [
+        {
+          "name": "Abhilash Gupta",
+          "url": "https://open.spotify.com/artist/1BoGQCuyexXTqacYNHCN3M"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "Chance eh ille",
+      "url": "https://open.spotify.com/track/5fLu5jziyGa6W9sO6hQjDw"
     },
     {
       "album": {
@@ -592,7 +610,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 187890,
       "name": "Engeyo",
       "url": "https://open.spotify.com/track/1VbGNyEYDJOYl0rMu6ZdWT"
@@ -912,7 +930,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 231428,
       "name": "Jinukku Jikka",
       "url": "https://open.spotify.com/track/595MCW6XYXF10IBVpLBPrV"
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 169611,
       "name": "Kaatrile",
       "url": "https://open.spotify.com/track/3ozRf60fIEOFABQB5r792F"
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 179049,
       "name": "Kanavin Azhagi",
       "url": "https://open.spotify.com/track/7ij3EIOUwmt8cp6O8BktQ4"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 240000,
       "name": "Kannil Veesum",
       "url": "https://open.spotify.com/track/5Csa0chWVHlZAKDIGKmYkG"
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 240460,
       "name": "Mitta Mirasu",
       "url": "https://open.spotify.com/track/6geWnMs5Jo9IXEQpbRNkN9"
@@ -2608,7 +2626,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 207820,
       "name": "Thalayaatti Bommai - From \"Think Originals\"",
       "url": "https://open.spotify.com/track/13peKDjGU45w5yvKR8QvCC"
@@ -2638,6 +2656,32 @@
       "duration_ms": 330731,
       "name": "Thamarai Poovilum",
       "url": "https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K"
+    },
+    {
+      "album": {
+        "name": "Thangapulla",
+        "url": "https://open.spotify.com/album/6pZB09ZNIIdwmaeIEH16Qw"
+      },
+      "artists": [
+        {
+          "name": "JEY",
+          "url": "https://open.spotify.com/artist/3HBWkGUsqeYfxJAgGTB4CX"
+        },
+        {
+          "name": "J. C. Joe",
+          "url": "https://open.spotify.com/artist/1TLA1QzI89k3WQ7MaYaaq5"
+        },
+        {
+          "name": "Svm",
+          "url": "https://open.spotify.com/artist/0CgOe9zyD5WVIGjXF2BBb4"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110500,
+      "name": "Thangapulla",
+      "url": "https://open.spotify.com/track/517mBtRX7D3fnQDcDPQXY4"
     },
     {
       "album": {
@@ -2822,7 +2866,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 187692,
       "name": "Tholayure Naane",
       "url": "https://open.spotify.com/track/0D0ZSPvk2MBrs1eZHvoKUH"
@@ -3078,7 +3122,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 124799,
       "name": "Veruthu Pochu",
       "url": "https://open.spotify.com/track/5G8ax76K5ZmOgi2KRkaaDk"

@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-696 songs - 1 day 5 hr 15 min
+698 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Portraits Of Jane](https://open.spotify.com/track/43roNryaSvhJl44nkaf9IX) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Portraits Of Jane](https://open.spotify.com/album/5NOzttfi0gigAsCfWweEC0) | 2:13 | 2022-05-27 | 2022-09-24 |
 | [Potomac](https://open.spotify.com/track/4IMDvjtSlnkDlpH9sRS5Iq) | [Fiona Astier](https://open.spotify.com/artist/0lbcryc0VC6meVy7yoreV4) | [Potomac](https://open.spotify.com/album/25NV8qmZcF6pp4CvmbWSsE) | 2:10 | 2022-05-27 | 2023-03-13 |
 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 | 2022-05-27 | 2023-08-15 |
+| [Poussière](https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Poussière](https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6) | 2:12 | 2023-09-25 |  |
 | [Precious Amber](https://open.spotify.com/track/0THG8FXDsGFI3KInDcaQGs) | [Riks Vollis](https://open.spotify.com/artist/1ZBvM6NuWuoDZJW6upjjhF) | [Precious Amber](https://open.spotify.com/album/6nWS9DqVLr3NG8MXg17VYv) | 2:13 | 2022-05-27 | 2023-09-09 |
 | [Prelude](https://open.spotify.com/track/7oQaKrNNFpzgGprrD8oirn) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Silent season](https://open.spotify.com/album/223FCnAQ89tkeqnNHMqF4G) | 3:23 | 2023-01-20 |  |
 | [Prelude In A\-Flat](https://open.spotify.com/track/26ufMVgpojM835miVaoTZG) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Prelude In A\-Flat](https://open.spotify.com/album/1cAx6BheD7zUvHlhr0S4Ph) | 2:40 | 2022-05-27 | 2022-09-24 |
@@ -527,7 +528,7 @@
 | [Serafin](https://open.spotify.com/track/4SxsBPupdAIjYxxSVcJTQP) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Serafin](https://open.spotify.com/album/7m5cGnPhZ4LeoaYYBG54Ey) | 2:39 | 2023-08-21 |  |
 | [Serenade](https://open.spotify.com/track/0xczKUSyVIfX9rekmTBkbv) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Serenade](https://open.spotify.com/album/5deoUv9fEIqoxOy1sM3z9M) | 2:25 | 2022-05-27 | 2022-09-24 |
 | [Serenity Now](https://open.spotify.com/track/16r3YFSpECmTrFUcmltR7n) | [Mona Chu](https://open.spotify.com/artist/2bowTrIAI8wwWxf1ZpdzYS) | [Serenity Now](https://open.spotify.com/album/0t5x0OjeZVhEJB73hv9IKX) | 2:10 | 2022-05-27 | 2022-09-24 |
-| [Serre moi](https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt) | [Mainfred Arthur](https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P) | [Serre moi](https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9) | 2:25 | 2022-05-27 |  |
+| [Serre moi](https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt) | [Mainfred Arthur](https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P) | [Serre moi](https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9) | 2:25 | 2022-05-27 | 2023-09-26 |
 | [Settle Down In Somewhere](https://open.spotify.com/track/1e8NCyJxZaMd1XNZhKO9ez) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Settle Down In Somewhere](https://open.spotify.com/album/3nVJWV34H2s7zigZIZnxTr) | 2:37 | 2022-05-27 |  |
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2022-05-27 | 2023-05-04 |
 | [Shadows On The Lawn](https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Shadows On The Lawn](https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN) | 2:13 | 2023-09-04 |  |
@@ -642,12 +643,13 @@
 | [Tu me donne de la force](https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Tu me donne de la force](https://open.spotify.com/album/5UgRWAzUPftuejgEhpjdM8) | 2:16 | 2022-05-27 | 2023-01-21 |
 | [Tuesday Rain](https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Tuesday Rain](https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF) | 1:48 | 2022-08-09 | 2023-01-21 |
 | [Tulip](https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Tulip](https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8) | 2:03 | 2022-05-27 | 2022-09-24 |
-| [Turquoise Move](https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Turquoise Move](https://open.spotify.com/album/2jqDjTZvqtCnRpBuuK3yZZ) | 3:08 | 2022-05-27 |  |
+| [Turquoise Move](https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Turquoise Move](https://open.spotify.com/album/2jqDjTZvqtCnRpBuuK3yZZ) | 3:08 | 2022-05-27 | 2023-09-26 |
 | [Tålamod](https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Tålamod](https://open.spotify.com/album/6QFz6Bw5GxaANTxIiL67EW) | 2:39 | 2022-05-27 |  |
 | [Un instante](https://open.spotify.com/track/3IekwR2RInfv68Xyu7rk2B) | [Lukas Wall](https://open.spotify.com/artist/4N5fnolz7HorIGjo95HuB2) | [Un instante](https://open.spotify.com/album/02BuTkEn4fJqESdijpzFaJ) | 3:35 | 2022-05-27 | 2022-09-24 |
 | [Un Jour Viendra](https://open.spotify.com/track/3ccBuCUCjkArY2U3x3gA8s) | [Francis Laplanne](https://open.spotify.com/artist/5CKQ9qNvPaV6mZ3eeOcUMY) | [Un Jour Viendra](https://open.spotify.com/album/34RXSvhj4VpACMwyx1LDeX) | 1:44 | 2023-03-13 | 2023-07-25 |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-05-27 |  |
 | [Unbroken](https://open.spotify.com/track/0sYYa0fs1PVKGyceC2QEP4) | [William Heller](https://open.spotify.com/artist/0bblIjmXpe2k574egtCQnr) | [Unbroken](https://open.spotify.com/album/3Mxgp3hM0MrIQN8iIoDPJG) | 2:34 | 2022-05-27 | 2022-07-21 |
+| [Under a tree](https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Under a tree](https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn) | 2:18 | 2023-09-25 |  |
 | [Under the Willow Tree](https://open.spotify.com/track/3qto6LgDhFq9FGrAORDBzX) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [Summer Breeze](https://open.spotify.com/album/4u92wdvS8QrFikLjgPBsZa) | 2:06 | 2022-05-27 |  |
 | [Undulations](https://open.spotify.com/track/53FjteGUXpjef8J3SD7HoP) | [Vittoriano di Grazia](https://open.spotify.com/artist/68dOCHt1KCAYTYsiFNxRsI) | [Undulations](https://open.spotify.com/album/1Ua1JPkMvE0Quzllx33hyi) | 3:05 | 2022-05-27 | 2023-09-07 |
 | [Une main tendue](https://open.spotify.com/track/5rqAxnEsenuRJjUAXbzima) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Une main tendue](https://open.spotify.com/album/33xfKJOTxE3XQPsinEubFw) | 2:01 | 2023-01-20 |  |

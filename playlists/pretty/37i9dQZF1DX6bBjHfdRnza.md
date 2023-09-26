@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Kuren\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,353 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,373 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Get On Down](https://open.spotify.com/track/1T6FYYAZ9EBFcwNG4wxQ45) | [Edan](https://open.spotify.com/artist/1CgA8b6FL1s26NYpHqSqAp), [Berrow](https://open.spotify.com/artist/47pmchHoS8EYM5yvX1SATs) | [Get On Down / Make You Feel Good](https://open.spotify.com/album/2YEy9PT3FGgIxexoXs8ETN) | 4:55 |
 | 100 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 |
 
-Snapshot ID: `MCxhMzQ0NWExMzJkMWExODRhMmQyYzU2YjM5YjdhYzM5ZmIxYjNjNDE0`
+Snapshot ID: `MCxhZTcyMGFlMjJiNGFhOTQ0YjZiNTkzNzg1NDg0OWRmZmNjNTUwNWU3`

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 30797,
+  "num_followers": 30839,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjExMDNlZDExMDc0Mzk4NTM0NzE1MjJkZjA4MDk5NDc2NmJiNjNi",
+  "snapshot_id": "MCw5OTM2MTE5NjVmYzgxNGNmMDZmZTZiYmFhOTFjOTJlMmE2MmJlZTFl",
   "tracks": [
     {
       "added_at": "2021-06-30 15:18:23",
@@ -323,6 +323,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
+      },
+      "artists": [
+        {
+          "name": "Masakazu Sugimori",
+          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
+      "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "MONSTER HUNTER RISE Extra Tracks",
         "url": "https://open.spotify.com/album/02v01ZbI91kG3WAQMqCOlf"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 199493,
       "name": "Theme of Ryu -SFIV Arrange-",
       "url": "https://open.spotify.com/track/4uOVEIuJohifTMgFicMUPq"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
-      },
-      "artists": [
-        {
-          "name": "Masakazu Sugimori",
-          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
-      "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -435,6 +435,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "Devil May Cry 4 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "The Time Has Come (Nero's Combat)",
+      "url": "https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Devil May Cry 4 Original Soundtrack",
-        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "The Time Has Come (Nero's Combat)",
-      "url": "https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "We are ROCK-MEN!2",
         "url": "https://open.spotify.com/album/4Xg2Jvqvhurzo6UZtfmwKg"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 233826,
       "name": "Mega Man 2 / Dr. Wily Stage 1",
       "url": "https://open.spotify.com/track/2PCurI9hftlXKUtUFSTFX7"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "MEGA MAN X3 SOUND COLLECTION",
+        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
+      },
+      "artists": [
+        {
+          "name": "Kinuyo Yamashita",
+          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
+        }
+      ],
+      "duration_ms": 114160,
+      "name": "GRAVITY BEETBOOD STAGE",
+      "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -575,22 +591,6 @@
       "duration_ms": 108160,
       "name": "Ryu's Theme -The Fist That Knows No End-",
       "url": "https://open.spotify.com/track/4vEztJsa9I5aTb9dPh2onZ"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "MEGA MAN X3 SOUND COLLECTION",
-        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
-      },
-      "artists": [
-        {
-          "name": "Kinuyo Yamashita",
-          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
-        }
-      ],
-      "duration_ms": 114160,
-      "name": "GRAVITY BEETBOOD STAGE",
-      "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -679,6 +679,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "SENGOKU BASARA 15th Anniversary BEST",
+        "url": "https://open.spotify.com/album/7wSvpfURZ4bmv5RcHGC3RB"
+      },
+      "artists": [
+        {
+          "name": "CHAMY.Ishi",
+          "url": "https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw"
+        }
+      ],
+      "duration_ms": 117460,
+      "name": "SENGOKU BASARA",
+      "url": "https://open.spotify.com/track/32NJz13iQTkQaPIWaGjSd6"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u30d5\u30ed\u30f3\u30c6\u30a3\u30a2G \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5V9SaJ7QjH2Gq56Yt8HpXE"
       },
@@ -695,18 +711,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "SENGOKU BASARA 15th Anniversary BEST",
-        "url": "https://open.spotify.com/album/7wSvpfURZ4bmv5RcHGC3RB"
+        "name": "E.X.TROOPERS - END OF CONVERSATION",
+        "url": "https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F"
       },
       "artists": [
         {
-          "name": "CHAMY.Ishi",
-          "url": "https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw"
+          "name": "Yasumasa Kitagawa",
+          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
+        },
+        {
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
         }
       ],
-      "duration_ms": 117460,
-      "name": "SENGOKU BASARA",
-      "url": "https://open.spotify.com/track/32NJz13iQTkQaPIWaGjSd6"
+      "duration_ms": 298874,
+      "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9 The Soar",
+      "url": "https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -743,42 +763,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "E.X.TROOPERS - END OF CONVERSATION",
-        "url": "https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F"
-      },
-      "artists": [
-        {
-          "name": "Yasumasa Kitagawa",
-          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
-        },
-        {
-          "name": "Saori Hayami",
-          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
-        }
-      ],
-      "duration_ms": 298874,
-      "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9 The Soar",
-      "url": "https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "Resident Evil 3 Special Soundtrack",
-        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
-      },
-      "artists": [
-        {
-          "name": "Masami Ueda",
-          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
-        }
-      ],
-      "duration_ms": 345666,
-      "name": "Staff & Credits",
-      "url": "https://open.spotify.com/track/0glg0lhZFpn5oPz5YDtf83"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
         "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 102588,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/4WLG39EfWheywWdmo4exqh"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "duration_ms": 345666,
+      "name": "Staff & Credits",
+      "url": "https://open.spotify.com/track/0glg0lhZFpn5oPz5YDtf83"
     },
     {
       "added_at": "2021-06-30 15:18:23",

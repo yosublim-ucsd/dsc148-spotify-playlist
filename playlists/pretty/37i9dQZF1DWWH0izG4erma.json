@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: Lakeview",
-  "num_followers": 563306,
+  "num_followers": 563496,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTBlNTUwMDY1NmZiMmU3YWZkNTI5OGY4NWU5MmExNGU3OTRkODE0",
+  "snapshot_id": "MCxiNDQ3OGFiYTI3Y2VlNDlkZmNkYjBlYmQ1MjdhOGViYTAwMzViODJh",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -283,42 +283,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 205767,
-      "name": "red (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Jesus and Joan Jett",
-        "url": "https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl"
-      },
-      "artists": [
-        {
-          "name": "Kasey Tyndall",
-          "url": "https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Jesus and Joan Jett",
-      "url": "https://open.spotify.com/track/0S2e09dlc561hiVKan4sgY"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Town Line",
         "url": "https://open.spotify.com/album/080zNTXnyXccahBk0Vv6wG"
       },
@@ -343,6 +307,42 @@
       "duration_ms": 283346,
       "name": "Country Boy (feat. Charlie Daniels, Chris Young, & George Jones)",
       "url": "https://open.spotify.com/track/5TzoqLAFczwhUMrjNlWITI"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Jesus and Joan Jett",
+        "url": "https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl"
+      },
+      "artists": [
+        {
+          "name": "Kasey Tyndall",
+          "url": "https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Jesus and Joan Jett",
+      "url": "https://open.spotify.com/track/0S2e09dlc561hiVKan4sgY"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 205767,
+      "name": "red (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -683,22 +683,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Ride It Hard",
-        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
+        "name": "SOLD OUT",
+        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        },
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 150861,
-      "name": "Ride It Hard",
-      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -719,18 +715,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Kill Me",
-        "url": "https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT"
+        "name": "Ride It Hard",
+        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 163110,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E"
+      "duration_ms": 150861,
+      "name": "Ride It Hard",
+      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "SOLD OUT",
-        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
+        "name": "Kill Me",
+        "url": "https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 202912,
-      "name": "SOLD OUT",
-      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
+      "duration_ms": 163110,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 193271,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Like an Arrow",
         "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
       },
@@ -963,6 +979,22 @@
       "duration_ms": 247008,
       "name": "Waiting for the Thunder",
       "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Tough Crowd",
+        "url": "https://open.spotify.com/album/3BC1GZqDkYOdF0Icf2iebE"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "Tough Crowd",
+      "url": "https://open.spotify.com/track/3CK7htQR2ighxCjU2vra9z"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -983,38 +1015,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Hit Different",
-        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 193271,
-      "name": "Hit Different",
-      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 147508,
-      "name": "Heavy Pour",
-      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Young & Hungry",
         "url": "https://open.spotify.com/album/4vzl6sDzw1y0D0490NvALa"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Tough Crowd",
-        "url": "https://open.spotify.com/album/3BC1GZqDkYOdF0Icf2iebE"
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 200200,
-      "name": "Tough Crowd",
-      "url": "https://open.spotify.com/track/3CK7htQR2ighxCjU2vra9z"
+      "duration_ms": 147508,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 187899,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "April Showers",
         "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 182346,
       "name": "April Showers",
       "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 187899,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Pecos & the Rooftops",
-        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 214582,
-      "name": "Hurt No More",
-      "url": "https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "'21",
         "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 169813,
       "name": "There's Always Next Year",
       "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Pecos & the Rooftops",
+        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 214582,
+      "name": "Hurt No More",
+      "url": "https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Come Get Your Memory",
-        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Come Get Your Memory",
-      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Call It Country",
         "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 151148,
       "name": "Call It Country",
       "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "duration_ms": 194896,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
     }
   ],
   "unique_name": "Country Rocks",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE?si=WqKJk6IgSLq3ymoTb4T59Q">Miel San Marcos</a> y <a href="https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m?si=EJdRgFjpQo6stbxUb9cvkQ">Chris Tomlin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,042 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,219 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Adorarte](https://open.spotify.com/track/4UjiwbR78RsS1ZKASBNKCi) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Adorarte](https://open.spotify.com/album/0ORfXwWPcTgjSOl22fIyCE) | 4:45 |
 | 100 | [Cordero y León](https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Joel Figueroa](https://open.spotify.com/artist/3TuURLCO7Vv4QTUtCTkwCl), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza) | [FLUIR 2](https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ) | 5:13 |
 
-Snapshot ID: `MCxhMDNkNWZmOGEyNjMyZTZmNmIxNGYwODczMTVmOWM4OTU2YjlmZjc3`
+Snapshot ID: `MCw0NmY2ZTI1NjVjNmYyNGU5MGEyZjk2Y2M0MTFkY2QyNmE0NjA4YzFk`

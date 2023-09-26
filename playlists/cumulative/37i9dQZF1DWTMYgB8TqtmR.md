@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-559 songs - 1 day 4 hr 7 min
+560 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [BREAK MY SOUL](https://open.spotify.com/track/40KCN2nYImUounlfO5Cdzn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 4:38 | 2022-07-29 | 2022-08-19 |
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-06-23 | 2022-08-02 |
 | [Bullet](https://open.spotify.com/track/3DMq9xe5H8TTwi1FQfvcDF) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [PLAYLIST](https://open.spotify.com/album/132gMGh5RhiR5XC0jkc4nD) | 3:23 | 2022-06-16 | 2022-08-26 |
-| [Bäst här inne](https://open.spotify.com/track/2r8X5szspfSyhUlVes7plU) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Bäst här inne](https://open.spotify.com/album/5StD84eoU8BOFcReirunrU) | 4:59 | 2023-09-21 |  |
+| [Bäst här inne](https://open.spotify.com/track/1VoOX1ecMP7YVzyu32gWVf) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Bäst här inne](https://open.spotify.com/album/08lVeLxkGMau5sBa2J6045) | 4:59 | 2023-09-21 |  |
+| [Bäst här inne](https://open.spotify.com/track/2r8X5szspfSyhUlVes7plU) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Bäst här inne](https://open.spotify.com/album/5StD84eoU8BOFcReirunrU) | 4:59 | 2023-09-21 | 2023-09-26 |
 | [Bästa var du](https://open.spotify.com/track/544i2kupbLppslcGI1PhlL) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bästa var du](https://open.spotify.com/album/6S6WCiLAWuTOT1gBWOvm7m) | 3:18 | 2023-08-17 |  |
 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2022-11-08 | 2023-05-26 |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-12-16 | 2022-01-21 |

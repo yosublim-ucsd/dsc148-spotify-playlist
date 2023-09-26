@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 433266,
       "name": "Ancient and Distant",
       "url": "https://open.spotify.com/track/2kXJ6su5YWx1a3YQilPxmF"
@@ -3540,7 +3540,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 365880,
       "name": "Dim",
       "url": "https://open.spotify.com/track/7M2CYOlGuAC73LnWPPbNGA"
@@ -12617,6 +12617,24 @@
     },
     {
       "album": {
+        "name": "Seven Steps",
+        "url": "https://open.spotify.com/album/2wL9qSFeIhYBfxfSFxJSqk"
+      },
+      "artists": [
+        {
+          "name": "Belmont Central",
+          "url": "https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Seven Steps",
+      "url": "https://open.spotify.com/track/2unapOMh63c9FDNQHskpGL"
+    },
+    {
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/6F1iyLE5hOfOxYLBP0PUmZ"
       },
@@ -13842,6 +13860,24 @@
       "duration_ms": 164682,
       "name": "Sunset Stroll",
       "url": "https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y"
+    },
+    {
+      "album": {
+        "name": "Swedish sauce",
+        "url": "https://open.spotify.com/album/1obVmVYjVAIRiWOo97UNVc"
+      },
+      "artists": [
+        {
+          "name": "Sodermalm Strand",
+          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201954,
+      "name": "Swedish sauce",
+      "url": "https://open.spotify.com/track/17EQIcoPaLULq6gpDVwRWM"
     },
     {
       "album": {

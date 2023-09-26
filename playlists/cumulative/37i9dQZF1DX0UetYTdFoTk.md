@@ -4,7 +4,7 @@
 
 > To all the 7abieb out there\. Cover: Elissa.
 
-124 songs - 7 hr 44 min
+125 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,11 +126,12 @@
 | [ظروف معنداني](https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Omry Wzekrayatoh](https://open.spotify.com/album/2relDIBiXiNOFAnQmdFoQt) | 4:05 | 2023-06-06 |  |
 | [عمر جديد](https://open.spotify.com/track/0bwb8u3Gs8gm9z7EiD9FK3) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [عمر جديد](https://open.spotify.com/album/5P6tyKNIjwNXbRxCdnSZbG) | 3:03 | 2022-05-04 | 2022-07-29 |
 | [قصة حب \- نسخة شرقي](https://open.spotify.com/track/6ojYumgu8f7i15xshyg6Bj) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [قصة حب](https://open.spotify.com/album/2gHjRyeFIB4rji4JuChbGX) | 3:33 | 2022-05-04 |  |
+| [كلام عينيه](https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:55 | 2023-09-25 |  |
 | [لحظة بعادك](https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [لحظة بعادك](https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd) | 3:41 | 2023-05-01 |  |
 | [ما عرفتك](https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [ما عرفتك](https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7) | 5:39 | 2023-03-16 |  |
 | [ملحم زين ونور الزين \(feat\. Noor Al Zain\)](https://open.spotify.com/track/66pcEVrz1i9un38OpJvGXW) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0), [Nour Al Zain](https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH) | [ملحم زين ونور الزين \(feat\. Noor Al Zain\)](https://open.spotify.com/album/2sPvLAdwUWpMFWaiL4Z8Gm) | 2:46 | 2022-05-04 | 2023-04-18 |
 | [هي الي](https://open.spotify.com/track/5gsySuD8jP4quf9HHmBpeZ) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [الجرح اللي بعدو](https://open.spotify.com/album/43YudfflH4ShSAe4FFX2OI) | 3:54 | 2022-05-04 | 2022-11-15 |
-| [و انا معاك](https://open.spotify.com/track/3DrcdweC4NVvPsbYvBedv6) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [و انا معاك](https://open.spotify.com/album/2EmNYsE7Kv9QivyM66BdbY) | 3:01 | 2022-10-23 |  |
+| [و انا معاك](https://open.spotify.com/track/3DrcdweC4NVvPsbYvBedv6) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [و انا معاك](https://open.spotify.com/album/2EmNYsE7Kv9QivyM66BdbY) | 3:01 | 2022-10-23 | 2023-09-26 |
 | [و انا معاك](https://open.spotify.com/track/36ekrEyHv96RLDSoQFbBot) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx), [زينة عماد](https://open.spotify.com/artist/7DhHYTuGOB46RI0zG0UVXa) | [و انا معاك](https://open.spotify.com/album/5ONxpuGaRJfwR69fSc1bAN) | 3:01 | 2022-05-04 | 2022-11-13 |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

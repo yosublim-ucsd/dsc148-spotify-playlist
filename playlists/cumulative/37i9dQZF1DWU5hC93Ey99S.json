@@ -2398,10 +2398,32 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 170582,
       "name": "Let Me Know (feat. CLMD)",
       "url": "https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh"
+    },
+    {
+      "album": {
+        "name": "Floor Plan 2.0",
+        "url": "https://open.spotify.com/album/7eUfwcYbaAxfkSkZaZyktZ"
+      },
+      "artists": [
+        {
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+        },
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170582,
+      "name": "Let Me Know (feat. CLMD)",
+      "url": "https://open.spotify.com/track/6Q25Z9gsiXLOqcirOD5mrl"
     },
     {
       "album": {

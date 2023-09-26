@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Manuel Medrano
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,391 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,452 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 45 | [Ya No Se Mueve](https://open.spotify.com/track/1ySJxsLuBOwc3BOvNGeIdZ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ya No Se Mueve](https://open.spotify.com/album/2DXjnfXuEeacuThcytHodq) | 2:35 |
 | 46 | [LOTO](https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [LOTO](https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg) | 2:46 |
 | 47 | [Nunca Deja de Llover](https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Nunca Deja De Llover](https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I) | 2:50 |
-| 48 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 |
-| 49 | [Disculpa Amiga](https://open.spotify.com/track/1zfJC7Zm6WpbmklOBJGZEL) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Disculpa Amiga](https://open.spotify.com/album/52D4v7ZG7eta1PSjm3zdSp) | 2:48 |
-| 50 | [Amor](https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Amor](https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu) | 2:52 |
+| 48 | [Alguien Más](https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Alguien Más](https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj) | 2:25 |
+| 49 | [Amor](https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Amor](https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu) | 2:52 |
+| 50 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 |
 
-Snapshot ID: `MCxkNjE4ZThkZGY4ODJmNDExYjQzYjcxMGU3M2ViZDM2MTFlMjI4ZjI5`
+Snapshot ID: `MCxlMTU0NzRlZGUyZDM4NmI1MzNmMGZmYjRmZmVlNDNkMTdhZjk5ODJl`

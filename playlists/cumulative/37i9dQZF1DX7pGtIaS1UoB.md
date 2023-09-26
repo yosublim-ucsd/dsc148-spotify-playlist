@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-306 songs - 18 hr 11 min
+307 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Morning Coffee](https://open.spotify.com/track/5k2eyrx86Q5f5DFtRvkSvN) | [蜜雪薇琪](https://open.spotify.com/artist/2PvxkWnXNsFWiZVnXSf4Mq) | [Morning Coffee](https://open.spotify.com/album/6gnYvMta73slbta2wnJt5Z) | 3:48 | 2023-04-24 | 2023-05-02 |
 | [My Love](https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [My Love](https://open.spotify.com/album/1zJjFyrP8j58HHcvBj9okd) | 3:00 | 2023-05-01 | 2023-06-30 |
 | [My Only](https://open.spotify.com/track/5moOeYLCth43bfjWtrjLoZ) | [AcQUA 源少年](https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn) | [My Only](https://open.spotify.com/album/51sZueI8QTDvCQnsCokQ6n) | 2:26 | 2022-12-13 | 2023-01-15 |
-| [No One Else but You](https://open.spotify.com/track/4Sj3jeyShkgMwFBqzHrrKy) | [Richard Lim 林耀亮](https://open.spotify.com/artist/7udFRD8aeVyZBuJWnfJmNH), [安映霏](https://open.spotify.com/artist/01TNqVsmC0GF1VTBab9Emr), [罗振宏](https://open.spotify.com/artist/2nbMroXrzyBOJIvJKAYfRG) | [No One Else but You](https://open.spotify.com/album/71UqkCjNLHW5ytfmBWLLfT) | 3:46 | 2023-09-18 |  |
+| [No One Else but You](https://open.spotify.com/track/4Sj3jeyShkgMwFBqzHrrKy) | [Richard Lim 林耀亮](https://open.spotify.com/artist/7udFRD8aeVyZBuJWnfJmNH), [安映霏](https://open.spotify.com/artist/01TNqVsmC0GF1VTBab9Emr), [罗振宏](https://open.spotify.com/artist/2nbMroXrzyBOJIvJKAYfRG) | [No One Else but You](https://open.spotify.com/album/71UqkCjNLHW5ytfmBWLLfT) | 3:46 | 2023-09-18 | 2023-09-26 |
 | [NOT OVER U](https://open.spotify.com/track/7ka7lf2RSsKpBncHGrxE3A) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [NOT OVER U](https://open.spotify.com/album/37RjBAZMoEQAnmbOC3BRJF) | 2:59 | 2022-06-06 | 2022-07-20 |
 | [Only Have Feelings For You](https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT) | [Fahrenheit](https://open.spotify.com/artist/12JKvbMl7cQqmtumTZTT3g) | [Fahrenheit](https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD) | 3:59 | 2022-07-25 |  |
 | [Room For Two](https://open.spotify.com/track/2T7RvLmznqgV8WneaoW4EZ) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT), [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [Room For Two](https://open.spotify.com/album/4inR4ojKMWTFd5APWMriZO) | 3:30 | 2023-05-01 | 2023-08-26 |
@@ -65,7 +65,7 @@
 | [Will You Be My Love \~ 問問 \- WBL系列影集第一季<永遠的第一名>片頭曲](https://open.spotify.com/track/0X0yv9i8T1YdeGbOI0PnwN) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [Will You Be My Love \~ 問問 \(WBL系列影集第一季<永遠的第一名>片頭曲\)](https://open.spotify.com/album/6zFcUqZETFY38EQOhZgeHL) | 3:23 | 2022-06-06 | 2022-07-27 |
 | [Xiao Guai Guai](https://open.spotify.com/track/2uPnipbrzbRK6FBjpZmUNP) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [0 cm to YO](https://open.spotify.com/album/7z2oSPZDtelkc6cT4ymViw) | 3:45 | 2022-06-06 | 2022-07-17 |
 | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 | 2022-06-13 | 2023-09-12 |
-| [You're My Love](https://open.spotify.com/track/4oOlDUTm41YVy23XzRssrS) | [李佳翰](https://open.spotify.com/artist/0Smp4iNiSczpOof3x08L1T) | [You're My Love](https://open.spotify.com/album/4vmKVMmlL0aEAaGBWJ12Uo) | 3:17 | 2023-09-18 |  |
+| [You're My Love](https://open.spotify.com/track/4oOlDUTm41YVy23XzRssrS) | [李佳翰](https://open.spotify.com/artist/0Smp4iNiSczpOof3x08L1T) | [You're My Love](https://open.spotify.com/album/4vmKVMmlL0aEAaGBWJ12Uo) | 3:17 | 2023-09-18 | 2023-09-26 |
 | [⼀直在⼀起好嗎](https://open.spotify.com/track/70cB4HoaERBIDIzIZcIOg5) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [⼀直在⼀起好嗎](https://open.spotify.com/album/4KnTEJL7azTJwzgS5XCGVd) | 2:59 | 2022-09-05 | 2022-09-20 |
 | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 | 2022-06-06 |  |
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0n620D2UF9SNRKny1vFdQo) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/album/6mVkOMZ2W2fZX0WLPijazf) | 2:24 | 2022-06-06 | 2022-07-25 |
@@ -176,6 +176,7 @@
 | [心跳的证明](https://open.spotify.com/track/4uUhSzyDTVrUWnoC0nF8uO) | [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [心跳的证明](https://open.spotify.com/album/6hokzS13ICxagb1nxZR9OI) | 3:48 | 2022-06-13 | 2022-07-18 |
 | [心跳的证明](https://open.spotify.com/track/6bw3pxp4Pb5LYdRhpVKp6g) | [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [心跳的证明](https://open.spotify.com/album/6dejStq75Dg4p2u1LCQA7o) | 3:48 | 2023-07-17 |  |
 | [心願便利貼](https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv) | [元若藍](https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK), [Daikyu Wu](https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg) | [命中注定我愛你 \(電視原聲帶\)](https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem) | 4:15 | 2022-08-08 |  |
+| [情非得已](https://open.spotify.com/track/3HSUm30W0GQ49I2YmS2rxH) | [林茉曦](https://open.spotify.com/artist/1OSIaRRBGsNFVVqc38YSH7) | [情非得已](https://open.spotify.com/album/5OUsCB2yJFyzFfAdGDN8OK) | 4:25 | 2023-09-25 |  |
 | [惡作劇](https://open.spotify.com/track/1I0wNk30nKoyFgs1hVIi3C) | [Tangerine Wong](https://open.spotify.com/artist/3Njp7uhQShnPMdKarS6Vsu) | [惡作劇之吻 電視原聲帶](https://open.spotify.com/album/0FiMDZOsRsYtKJjF8hZZo2) | 3:46 | 2022-06-06 | 2022-07-29 |
 | [惡作劇](https://open.spotify.com/track/643hRiTY9vzD6P0cWO8UP3) | [Tangerine Wong](https://open.spotify.com/artist/3Njp7uhQShnPMdKarS6Vsu) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:46 | 2022-07-25 |  |
 | [想和你在一起 \(TVBS 『機智校園生活』插曲 \)](https://open.spotify.com/track/4sr4x6zcAUiSfUP2CV0ioa) | [Vera Chai](https://open.spotify.com/artist/5kVplRVD7ap9f1dpWln6Mf), [Soya 許素瑄](https://open.spotify.com/artist/5cp42YkACm1QIsk8F5hEnr) | [想和你在一起 \(TVBS 『機智校園生活』插曲 \)](https://open.spotify.com/album/5X37eBmzqql57QagxpGkYp) | 3:07 | 2022-06-13 | 2022-07-21 |
@@ -213,7 +214,7 @@
 | [敬嘮叨](https://open.spotify.com/track/7B3O98DIT9hOVB8sbwgtYY) | [繆以欣](https://open.spotify.com/artist/43aTla1ZVfTG1AUNhhbqsv) | [如果心情會說話](https://open.spotify.com/album/5BwIe4tDn9K8LVKJP1uFyr) | 3:58 | 2022-07-18 | 2022-07-20 |
 | [數到五答應我](https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [格格blue](https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX) | 4:29 | 2022-06-06 | 2023-06-13 |
 | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ) | [洋蔥](https://open.spotify.com/artist/6Q6qP18xDxLbiw0um1t7pw) | [明明就很ㄍㄧㄥ但我還是喜歡妳](https://open.spotify.com/album/5p46ZRmGIMGZgbeHV5fp6i) | 3:48 | 2022-06-06 | 2023-06-16 |
-| [星星都聽懂 \(W劇場《因為你如此耀眼》插曲\)](https://open.spotify.com/track/5uvleLnm4RYiJvoMwZtziI) | [九澤CP](https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR) | [星星都聽懂](https://open.spotify.com/album/7JBgAdKg5VOiQAf0d0jX0s) | 3:08 | 2023-07-03 | 2023-09-25 |
+| [星星都聽懂 \(W劇場《因為你如此耀眼》插曲\)](https://open.spotify.com/track/5uvleLnm4RYiJvoMwZtziI) | [九澤CP](https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR) | [星星都聽懂](https://open.spotify.com/album/7JBgAdKg5VOiQAf0d0jX0s) | 3:08 | 2023-07-03 |  |
 | [星晴](https://open.spotify.com/track/4VWn7L2kONeMEQ6cAIfzXC) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/0yS6jOCvKaY6KfJ1Cpc7FZ) | 4:16 | 2022-07-25 |  |
 | [星晴](https://open.spotify.com/track/5oZh0gPKEioN2la70JsKHR) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/6r6z1ChrXORrklFyEdRfNs) | 4:16 | 2022-06-06 | 2022-07-28 |
 | [是你啊](https://open.spotify.com/track/4Qu4L6TmIJoFzumjxp3lGw) | [Niko Sun](https://open.spotify.com/artist/0PjwjckyZwud4p7iAIcspa) | [不枉年少](https://open.spotify.com/album/2WuKpPZ2qoabkAeyCU6Y9e) | 3:55 | 2022-06-13 | 2022-07-18 |

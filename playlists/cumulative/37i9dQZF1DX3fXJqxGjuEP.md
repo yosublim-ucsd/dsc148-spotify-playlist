@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-482 songs - 1 day 4 hr 55 min
+483 songs - 1 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Eres Tú](https://open.spotify.com/track/2mCJpbOH8h7vwu2oJYFCjh) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Eres Tú](https://open.spotify.com/album/21fMKfrrSkfaUvvWu5wrJR) | 2:39 | 2021-10-20 | 2022-04-21 |
 | [Espinas](https://open.spotify.com/track/5UbXtPeRaCWGhA3KiZ3OMC) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Espinas](https://open.spotify.com/album/2DbUtUuR9pAuyARLiBBKTG) | 3:14 | 2021-10-20 | 2022-07-22 |
 | [Espiritual](https://open.spotify.com/track/5XU7fx5eLBb8C3uFYqikrQ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Espiritual](https://open.spotify.com/album/0pzR57yGM9wOsRzmVU64lP) | 3:51 | 2021-10-20 |  |
+| [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 | 2023-09-26 |  |
 | [Estamos Bien](https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Estamos Bien](https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G) | 2:40 | 2022-11-25 | 2023-01-29 |
 | [Esto Es Real \(8100mg\)](https://open.spotify.com/track/7vCYM3eDr2ZDpYOie5oVDI) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Esto Es Real \(8100mg\)](https://open.spotify.com/album/15dVE1XgRGM4XRy2F3KPJK) | 4:58 | 2021-10-20 | 2022-04-15 |
 | [Estos Días](https://open.spotify.com/track/1sU1f9ivTcNvxSDyygim3G) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [Estos Días](https://open.spotify.com/album/56HAfUfBAVGaPSwfaH0QJX) | 3:31 | 2021-10-22 | 2022-07-22 |
@@ -279,7 +280,7 @@
 | [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2021-10-20 | 2022-12-01 |
 | [Maré](https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3) | 3:33 | 2021-10-20 |  |
 | [Mata Sede](https://open.spotify.com/track/00cXGXJcYmzfHut7Vvvuoa) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG), [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [Mata Sede](https://open.spotify.com/album/7nxl1QFQaHyy6ovhcWaddt) | 3:15 | 2021-10-20 | 2022-04-17 |
-| [Maz Paz](https://open.spotify.com/track/6Js2gWnnIDA9lrn7l1mIxg) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:57 | 2021-10-20 |  |
+| [Maz Paz](https://open.spotify.com/track/6Js2gWnnIDA9lrn7l1mIxg) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:57 | 2021-10-20 | 2023-09-26 |
 | [Me Despido](https://open.spotify.com/track/1oUg14EXsSP4PBGwUdi9pK) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Me Despido](https://open.spotify.com/album/5MhjG5ue9lQZpZnapV2QMw) | 3:49 | 2021-10-20 | 2022-04-20 |
 | [Me Duele](https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Me Duele](https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV) | 3:16 | 2022-09-16 |  |
 | [Me Fui de Vacaciones](https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:00 | 2022-05-09 | 2023-05-26 |

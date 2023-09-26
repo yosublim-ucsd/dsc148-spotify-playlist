@@ -2,7 +2,7 @@
 
 ### [Frecuencia Pop](https://open.spotify.com/playlist/37i9dQZF1DXbDPWblNlzy4)
 
-> Los éxitos más POPulares en español los encuentras aquí\. Foto: Maluma, Carin Leon
+> Los éxitos más POPulares en español los encuentras aquí\. Foto: Shakira
 
 179 songs - 9 hr 21 min
 

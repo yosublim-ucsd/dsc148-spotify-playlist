@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8scDqTzxoFw.md) - [plain]
 
 > Watch the kids go wild for these party tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,435 likes - 110 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,428 likes - 110 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8scDqTzxoFw.md) - [plain]
 | 94 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 |
 | 95 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 |
 | 96 | [They Don't Know](https://open.spotify.com/track/1w1kzejjmiMhdWAOecgo4l) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:17 |
-| 97 | [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/4uZBBwJwTJeL3Swlk2ufLr) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [7](https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt) | 3:04 |
+| 97 | [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2M3g1eQZvnmsi8iMESZYY9) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [7: Anniversary Edition](https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7) | 3:04 |
 | 98 | [You're My Best Friend \(Glee Cast Version\)](https://open.spotify.com/track/2YDrZAjkF4h9b48bW081it) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [You're My Best Friend \(Glee Cast Version\)](https://open.spotify.com/album/7hfocNMGpLvuA6mwg7OPnf) | 2:43 |
 | 99 | [Falling to Pieces](https://open.spotify.com/track/0xJvnVngNvftnyYMvp6rDK) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Falling to Pieces](https://open.spotify.com/album/2L7YILiyCS4lPvfAFwuBDv) | 4:21 |
 | 100 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8scDqTzxoFw.md) - [plain]
 | 109 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
 | 110 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 |
 
-Snapshot ID: `MCw4MzI3ZjU3YjgxODczZGZiM2E5MzNmOTJlYjUxYzg3ZTMyNjc5MGFj`
+Snapshot ID: `MCxiNjYwZDc5NTdlOWJlM2RlMTIwZGRmMjg2MDIwMDNiZTMzZWMxNDU4`

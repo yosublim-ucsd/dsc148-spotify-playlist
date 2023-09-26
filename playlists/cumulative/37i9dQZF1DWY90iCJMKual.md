@@ -4,7 +4,7 @@
 
 > vibe out w some 🇵🇭 R&B Cover: Denise Julia, Haven
 
-152 songs - 8 hr 56 min
+154 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Dazed](https://open.spotify.com/track/6gPB7r1NuSNfiC4GSnARcz) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [Dazed](https://open.spotify.com/album/5XVE9feP9gPeaEnYDzHMaB) | 4:00 | 2022-10-12 | 2022-12-15 |
 | [DESPERADO](https://open.spotify.com/track/5OhOlK3n9t6vCsDjNQvdOc) | [ARDEE](https://open.spotify.com/artist/5KyAtSiun66X0W4l9azY1J), [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB), [aust\|nn](https://open.spotify.com/artist/02qicH9o3fQf9RhfhzGgKm) | [DESPERADO](https://open.spotify.com/album/0zpdy5QT4W1S138ntxeywQ) | 4:57 | 2022-10-12 | 2023-05-18 |
 | [Di Na Babalik](https://open.spotify.com/track/0Gt84LW4Ec1ptxIQiIJY3N) | [yshy](https://open.spotify.com/artist/5DKxABYbjG07LuQ929VRST), [Limpo](https://open.spotify.com/artist/5pRXGrEPlgwQLEKeO2NQhp) | [Di Na Babalik](https://open.spotify.com/album/5RAmV5jGpAZTz99u1sVIJM) | 3:51 | 2023-09-06 |  |
-| [Did You Find It?](https://open.spotify.com/track/4PhW0Z9U99NPtPDT8Y8uhC) | [Miguel Abella](https://open.spotify.com/artist/7gStcwSNzziJ8QL0QswaXd) | [Did You Find It?](https://open.spotify.com/album/53drB90hiqveZhAeUsRah5) | 3:25 | 2023-06-13 |  |
+| [Did You Find It?](https://open.spotify.com/track/4PhW0Z9U99NPtPDT8Y8uhC) | [Miguel Abella](https://open.spotify.com/artist/7gStcwSNzziJ8QL0QswaXd) | [Did You Find It?](https://open.spotify.com/album/53drB90hiqveZhAeUsRah5) | 3:25 | 2023-06-13 | 2023-09-26 |
 | [Diggin On You](https://open.spotify.com/track/1U3eywESMeRvn6OSdh5HzU) | [Kiddo Chris](https://open.spotify.com/artist/4ZO0HvlndussEIrQsozD2G) | [Diggin On You](https://open.spotify.com/album/4nt0w0fvGSRWIIawUbeC1J) | 2:54 | 2022-12-14 | 2023-09-07 |
 | [DKL](https://open.spotify.com/track/0Qaw53g5q0uD5DMmMa5bha) | [MYR](https://open.spotify.com/artist/260WCUxqybRg1I8Dh2JcUY) | [DKL](https://open.spotify.com/album/3mMNDqFmww0WMzYPS5zGJT) | 3:10 | 2023-09-13 |  |
 | [Drunk](https://open.spotify.com/track/3oF6MdGHiwi1okqanYETU8) | [Pisces.MN](https://open.spotify.com/artist/38Xmv6NoOX157hPeH5Tzsh), [David Daliva](https://open.spotify.com/artist/4O82yAA1c1eHsb0swmwxCp) | [Drunk](https://open.spotify.com/album/10JVIHH4p8FqDMfVPjTrpo) | 3:17 | 2022-10-12 | 2023-05-18 |
@@ -145,12 +145,14 @@
 | [Stay](https://open.spotify.com/track/7iHFyFiyd2Iebl1Cle2AFi) | [Kacee Cortes](https://open.spotify.com/artist/0TJNUEzHtlI9OKM4i9QXts) | [Solace](https://open.spotify.com/album/1YFp4JQZ2cAUREbNQna9d7) | 3:57 | 2022-10-12 | 2023-05-18 |
 | [Staying On My Phone Tonight](https://open.spotify.com/track/3Ok8zKZ039wgZkXzwagnmP) | [L•Y](https://open.spotify.com/artist/6TX5wo8K752OtN0iDcTPs3), [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Staying On My Phone Tonight](https://open.spotify.com/album/715iMxdVwD4JYpx99Axge0) | 4:26 | 2022-10-12 | 2023-05-03 |
 | [Sumama Ka](https://open.spotify.com/track/6oRWij7VgIgb4Ysux6UVEj) | [Vaughn](https://open.spotify.com/artist/5jy8TSg982wcBINinxTMc1), [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5), [Louis Angelo](https://open.spotify.com/artist/2IxYn7kml5dzf4HptTMJWo) | [Sumama Ka](https://open.spotify.com/album/7Gwjn6SEKBBKY9mXK6HTrA) | 3:07 | 2022-10-12 | 2023-07-29 |
-| [Sumama ka lang](https://open.spotify.com/track/2Jw6Yxw3yMcoWAqcpztG2l) | [Damarsian](https://open.spotify.com/artist/7mAWX7tSditTSCnoVYNVBp) | [Sumama ka lang](https://open.spotify.com/album/53K1lwl5Asu8uoRzwJrCyT) | 3:56 | 2023-06-13 |  |
+| [Sumama ka lang](https://open.spotify.com/track/2Jw6Yxw3yMcoWAqcpztG2l) | [Damarsian](https://open.spotify.com/artist/7mAWX7tSditTSCnoVYNVBp) | [Sumama ka lang](https://open.spotify.com/album/53K1lwl5Asu8uoRzwJrCyT) | 3:56 | 2023-06-13 | 2023-09-26 |
 | [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 | 2022-10-12 | 2023-07-29 |
 | [syf](https://open.spotify.com/track/65BmvLsQxNwcIlWyIDuHFe) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE) | [syf](https://open.spotify.com/album/1DQFkQPkf9cLxiIA7fnYAl) | 3:30 | 2023-04-06 |  |
+| [T\-Break](https://open.spotify.com/track/516epRJ6ppt3JwEuLPnAo1) | [Yzkk](https://open.spotify.com/artist/25KaeIB4BrH1WpOG5dIV0n) | [T\-Break](https://open.spotify.com/album/6V7gUiVauT1wRvfg6akvHc) | 4:33 | 2023-09-25 |  |
 | [Takaw Tingin](https://open.spotify.com/track/4N8ScJCglGFgpTnD39KFQF) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Takaw Tingin](https://open.spotify.com/album/2AAnmzyeMl25pWn3SHElA9) | 3:09 | 2023-06-13 |  |
 | [TALK](https://open.spotify.com/track/2F5Qkb1wJNnmQFQ3Edrzfb) | [dulai](https://open.spotify.com/artist/1DwP6HIWrPItZ3hmJkKxQ1), [leeza](https://open.spotify.com/artist/7KmrzNyuaqGPAVVXd9A0Nx) | [TALK](https://open.spotify.com/album/41cjmYpOgI1BKgiGLwJM44) | 2:24 | 2023-09-20 |  |
 | [This Time](https://open.spotify.com/track/388tsCjEc8Qd8zfDdkXMB6) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [a.v.d.i](https://open.spotify.com/artist/5PWqgLVse2O4ANi7UDk3nV) | [This Time](https://open.spotify.com/album/4N57PO4kgbTw8ndDQ2bf1L) | 3:33 | 2022-10-12 | 2023-07-29 |
+| [This Time](https://open.spotify.com/track/5L5AWDc2l60ERMyHcVEDvj) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [This Time](https://open.spotify.com/album/1XHoPyg3Dd7vjCMBmeNFnI) | 3:35 | 2023-09-25 |  |
 | [Thought Of U \- slowed & reverb](https://open.spotify.com/track/5fLQYQqxU84ZYuCz7h66vr) | [ApMontyy](https://open.spotify.com/artist/4Fme6fUX56OGZvgE55ph5E), [joey roque](https://open.spotify.com/artist/11MBKb57L3HI0dQneBD4In) | [Thought Of U \(slowed & reverb\)](https://open.spotify.com/album/2VTDr7UcQc1Xm0e2dXkohN) | 3:20 | 2022-10-12 | 2023-07-29 |
 | [u & i](https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [u & i](https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh) | 3:03 | 2022-10-12 | 2023-07-29 |
 | [Vibin](https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT) | 2:45 | 2022-10-12 | 2023-07-29 |

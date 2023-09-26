@@ -1,12 +1,12 @@
 {
   "description": "Revive la \u00e9poca de los pantalones acampanados en compa\u00f1\u00eda de mam\u00e1.",
-  "num_followers": 38647,
+  "num_followers": 38692,
   "original_name": "Mam\u00e1 70era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTZhMzNkM2JhMmNjZjQwMTlmMDBjZjI3ZjM3YTk4MzdiOGFlN2Fl",
+  "snapshot_id": "MCw3YjhmMTZkNTU2M2ZmYWIzNzJkMWIzZjkwNThmMjcxYTEwNWM3YmUy",
   "tracks": [
     {
       "added_at": "2021-04-28 05:02:55",
@@ -331,18 +331,18 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
         }
       ],
-      "duration_ms": 365466,
-      "name": "Don't Stop 'Til You Get Enough",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+      "duration_ms": 220706,
+      "name": "Footloose",
+      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -363,18 +363,18 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 220706,
-      "name": "Footloose",
-      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
+      "duration_ms": 365466,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Me and Bobby McGee",
-      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 234773,
       "name": "El Amar y el Querer",
       "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -475,22 +475,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Camilo",
-        "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "\u00bfQuieres Ser Mi Amante?",
-      "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "Nightflight to Venus",
         "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 261266,
       "name": "Rivers of Babylon",
       "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Camilo",
+        "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "\u00bfQuieres Ser Mi Amante?",
+      "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
     },
     {
       "added_at": "2021-04-28 05:02:55",

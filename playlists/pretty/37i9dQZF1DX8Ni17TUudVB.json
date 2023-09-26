@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 139691,
+  "num_followers": 139720,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzliNjE1MWJlNjEyZGEwYzBhMTYwMTAzZTNkNGRiMzk2ZDAxNTM1",
+  "snapshot_id": "MCwwZTdmNDkzYTRhNTVkMTc0ODdiMTFlMDU0Y2Y3OWUyMmY3ODQzZDli",
   "tracks": [
     {
       "added_at": "2023-09-11 15:59:41",
@@ -295,26 +295,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Nataaoki",
-      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 212500,
       "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "New Rave",
-        "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 208095,
-      "name": "Kill Me Slow",
-      "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Gold Skies",
         "url": "https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 234255,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "New Rave",
+        "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 208095,
+      "name": "Kill Me Slow",
+      "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8"
-      },
-      "artists": [
-        {
-          "name": "RICCI",
-          "url": "https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "BRAVE",
         "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 285860,
       "name": "IM GONE",
       "url": "https://open.spotify.com/track/7CEvYqcXhE11M8tBVIpUb0"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8"
+      },
+      "artists": [
+        {
+          "name": "RICCI",
+          "url": "https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G"
     },
     {
       "added_at": "2023-09-11 15:59:41",

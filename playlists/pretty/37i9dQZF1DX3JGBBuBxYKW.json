@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 85919,
+  "num_followers": 85961,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTdlNDZkMjlmYTQ2ZjU2NmM0Nzc5YmU2ZjRhZWVkZGRmMjlhZGQ0",
+  "snapshot_id": "MCw4Nzk1OGRkYjUzYTIxYTEzYjZhOGQ4NDIzOGI3YzNlZDkwMmVmNTNm",
   "tracks": [
     {
       "added_at": "2023-08-04 05:01:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -147,6 +131,62 @@
       "duration_ms": 266760,
       "name": "Con la Misma Moneda",
       "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        },
+        {
+          "name": "Zaida y su Sonora La Tremenda",
+          "url": "https://open.spotify.com/artist/7jUKdlvwrJB1UDHMa7fP4x"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "Que nadie sepa mi sufrir (Amor de mis amores)",
+      "url": "https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
+        "name": "Tonto Cari\u00f1o",
+        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
+      },
+      "artists": [
+        {
+          "name": "Los Papis RA7",
+          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
+        }
+      ],
+      "duration_ms": 299284,
+      "name": "Estupido",
+      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
+        "name": "Cumbiecitas Elegantes",
+        "url": "https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq"
+      },
+      "artists": [
+        {
+          "name": "Diana Burco",
+          "url": "https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 167629,
+      "name": "Cumbiecitas Elegantes",
+      "url": "https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -179,74 +219,34 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "Cumbiecitas Elegantes",
-        "url": "https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
-          "name": "Diana Burco",
-          "url": "https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i"
-        },
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 167629,
-      "name": "Cumbiecitas Elegantes",
-      "url": "https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq"
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
+        "name": "Sin Verg\u00fcenza",
+        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
       },
       "artists": [
         {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        },
-        {
-          "name": "Zaida y su Sonora La Tremenda",
-          "url": "https://open.spotify.com/artist/7jUKdlvwrJB1UDHMa7fP4x"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 259466,
-      "name": "Que nadie sepa mi sufrir (Amor de mis amores)",
-      "url": "https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
-        "name": "Tonto Cari\u00f1o",
-        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
-      },
-      "artists": [
-        {
-          "name": "Los Papis RA7",
-          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
-        }
-      ],
-      "duration_ms": 299284,
-      "name": "Estupido",
-      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
+      "duration_ms": 179213,
+      "name": "Corazon Mentiroso",
+      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 161906,
       "name": "Baila Esta Cumbia",
       "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
-        "name": "Sin Verg\u00fcenza",
-        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Corazon Mentiroso",
-      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
+        "name": "Tiempo de Cambio",
+        "url": "https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "Fuera",
+      "url": "https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
         "name": "La Pollera Amarilla",
         "url": "https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE"
       },
@@ -419,26 +435,6 @@
       "duration_ms": 189106,
       "name": "La Pollera Amarilla",
       "url": "https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
-        "name": "Nunca Es Suficiente",
-        "url": "https://open.spotify.com/album/2MklkALAfaelRjcEzQ8jaq"
-      },
-      "artists": [
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        },
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 256052,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/4MT6VBDcFQzcrXwjDv7GYk"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -459,18 +455,22 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "Tiempo de Cambio",
-        "url": "https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP"
+        "name": "Nunca Es Suficiente",
+        "url": "https://open.spotify.com/album/2MklkALAfaelRjcEzQ8jaq"
       },
       "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        },
         {
           "name": "Karina",
           "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 202946,
-      "name": "Fuera",
-      "url": "https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv"
+      "duration_ms": 256052,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/4MT6VBDcFQzcrXwjDv7GYk"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "Cumbia de los Dos",
-        "url": "https://open.spotify.com/album/7L3WNcm7mLtYU2D11t7wXi"
-      },
-      "artists": [
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        },
-        {
-          "name": "Natalia Oreiro",
-          "url": "https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo"
-        }
-      ],
-      "duration_ms": 264149,
-      "name": "Cumbia de los Dos",
-      "url": "https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
         "name": "Viru Kumbieron",
         "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 176255,
       "name": "Karma",
       "url": "https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
+        "name": "Cumbia de los Dos",
+        "url": "https://open.spotify.com/album/7L3WNcm7mLtYU2D11t7wXi"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Natalia Oreiro",
+          "url": "https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo"
+        }
+      ],
+      "duration_ms": 264149,
+      "name": "Cumbia de los Dos",
+      "url": "https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "Amandititita",
-        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
-      },
-      "artists": [
-        {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Metrosexual",
-      "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
         "name": "No te confundas",
         "url": "https://open.spotify.com/album/6Sp9EMuyxQtWwDri5dRji4"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 198800,
       "name": "Que no se entere",
       "url": "https://open.spotify.com/track/0PtHJn4KCLVoFI5gR4nBRU"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
+        "name": "Amandititita",
+        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
+      },
+      "artists": [
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Metrosexual",
+      "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "La Mejor Versi\u00f3n de Mi",
-        "url": "https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5"
+        "name": "Si hay alguien en tu vida",
+        "url": "https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs"
       },
       "artists": [
         {
-          "name": "JOHANA RODRIGUEZ",
-          "url": "https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw"
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 245701,
-      "name": "La Mejor Versi\u00f3n de Mi",
-      "url": "https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997"
+      "duration_ms": 231280,
+      "name": "Si Tu Te Vas",
+      "url": "https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "Si hay alguien en tu vida",
-        "url": "https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs"
+        "name": "La Mejor Versi\u00f3n de Mi",
+        "url": "https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "JOHANA RODRIGUEZ",
+          "url": "https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw"
         }
       ],
-      "duration_ms": 231280,
-      "name": "Si Tu Te Vas",
-      "url": "https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec"
+      "duration_ms": 245701,
+      "name": "La Mejor Versi\u00f3n de Mi",
+      "url": "https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
+        "name": "La Voz de los Barrios",
+        "url": "https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Poco Asado, Mucho Humo",
+      "url": "https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
         "name": "La Reina",
         "url": "https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2023-08-04 05:01:00",
       "album": {
-        "name": "La Voz de los Barrios",
-        "url": "https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1"
+        "name": "Es Mi Culpa",
+        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
       },
       "artists": [
         {
-          "name": "Roc\u00edo Quiroz",
-          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
         }
       ],
-      "duration_ms": 181333,
-      "name": "Poco Asado, Mucho Humo",
-      "url": "https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4"
+      "duration_ms": 215067,
+      "name": "Es Mi Culpa",
+      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 219282,
       "name": "La Chismeadera",
       "url": "https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
-        "name": "Es Mi Culpa",
-        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
-      },
-      "artists": [
-        {
-          "name": "Erica",
-          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
-        }
-      ],
-      "duration_ms": 215067,
-      "name": "Es Mi Culpa",
-      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -1055,22 +1055,6 @@
       "duration_ms": 182338,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm"
-    },
-    {
-      "added_at": "2023-08-04 05:01:00",
-      "album": {
-        "name": "Ya No Cabes en Mi Vida",
-        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 211489,
-      "name": "Ya No Cabes en Mi Vida",
-      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
     },
     {
       "added_at": "2023-08-04 05:01:00",
@@ -1135,6 +1119,22 @@
       "duration_ms": 207121,
       "name": "Falso Malo",
       "url": "https://open.spotify.com/track/1AYcHW1tRB3AiVQ1OM7O19"
+    },
+    {
+      "added_at": "2023-08-04 05:01:00",
+      "album": {
+        "name": "Ya No Cabes en Mi Vida",
+        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 211489,
+      "name": "Ya No Cabes en Mi Vida",
+      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
     }
   ],
   "unique_name": "Cumbieras",

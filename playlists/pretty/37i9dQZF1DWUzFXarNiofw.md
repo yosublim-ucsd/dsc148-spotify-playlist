@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,807 likes - 165 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,897 likes - 165 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 164 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 165 | [For Sport](https://open.spotify.com/track/6ThZW4vNLnr0RxsNfNE3wa) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/7dJsh48oFzbFGsyjCrMUm4) | 2:26 |
 
-Snapshot ID: `MCw1MWYzNTQxOWQ1MTY2NmI4YWI1MDUxYTMwMGIwYmUxYTVkNmFjZjFl`
+Snapshot ID: `MCw0ODhkNDUxOWQwMmU1MDBhZjYzZTA5NzkzMjQxZmVhMmMwOGUxNzUz`

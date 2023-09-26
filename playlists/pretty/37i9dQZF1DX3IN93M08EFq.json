@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 61372,
+  "num_followers": 61387,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTIyMDIxZTI3NTE3ODVlMjFlNmI2NThlNjJjZWIyNzQ1NmEyNzgz",
+  "snapshot_id": "MCw1N2JjOThkY2NkNmU5NzUxYjQ4ZjYxNDE2ZWE2OWEyMDcyMDM0Nzkw",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Too Rye Ay",
         "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 287306,
       "name": "Come On Eileen",
       "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -187,18 +187,18 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Don't Look Back In Anger - Remastered",
-      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Don't Look Back In Anger - Remastered",
+      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
         "name": "Different Class",
         "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 351626,
       "name": "Common People - Full Length Version",
       "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Scouting For Girls (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6kX0sZ1DFl2TE3e7SNJbkV"
-      },
-      "artists": [
-        {
-          "name": "Scouting For Girls",
-          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
-        }
-      ],
-      "duration_ms": 223813,
-      "name": "She's So Lovely",
-      "url": "https://open.spotify.com/track/0wG4gampO24nC7VKm5pxjg"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Scouting For Girls (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6kX0sZ1DFl2TE3e7SNJbkV"
+      },
+      "artists": [
+        {
+          "name": "Scouting For Girls",
+          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
+        }
+      ],
+      "duration_ms": 223813,
+      "name": "She's So Lovely",
+      "url": "https://open.spotify.com/track/0wG4gampO24nC7VKm5pxjg"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Fulkultur",
-        "url": "https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Sl\u00e5 mig h\u00e5rt i ansiktet",
-      "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Miike Snow",
         "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 263426,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Fulkultur",
+        "url": "https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Sl\u00e5 mig h\u00e5rt i ansiktet",
+      "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
     },
     {
       "added_at": "2021-06-15 09:25:05",

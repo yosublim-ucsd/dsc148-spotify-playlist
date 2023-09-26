@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3937,
+  "num_followers": 3933,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTdlMWQxMDJkMmFhNGVkNjQxOWZkMjdiODk5NDkxZjFlMTY3ODI4",
+  "snapshot_id": "MCw0MDg1NGE3ZGJiNTBhM2UyM2FjNTc4ZmFjODhjYjI0MjA1YjlmODVk",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Moussa",
-        "url": "https://open.spotify.com/album/1oxEKKN1NH5dTgQKiLkOiX"
-      },
-      "artists": [
-        {
-          "name": "Prince Waly",
-          "url": "https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy"
-        },
-        {
-          "name": "Freeze corleone",
-          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Balotelli (feat. Freeze Corleone)",
-      "url": "https://open.spotify.com/track/41DFvj092Ab3wcUJXTCRqG"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "10 ans d'Enfantillages !",
         "url": "https://open.spotify.com/album/20yuAjZhTVhDHcYx6dep1w"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 194813,
       "name": "Pour louper l'\u00e9cole",
       "url": "https://open.spotify.com/track/0XW5XY9LcCw6hpS7EuORkj"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Moussa",
+        "url": "https://open.spotify.com/album/1oxEKKN1NH5dTgQKiLkOiX"
+      },
+      "artists": [
+        {
+          "name": "Prince Waly",
+          "url": "https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy"
+        },
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "Balotelli (feat. Freeze Corleone)",
+      "url": "https://open.spotify.com/track/41DFvj092Ab3wcUJXTCRqG"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Un trou dans les nuages",
-        "url": "https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN"
-      },
-      "artists": [
-        {
-          "name": "Michel Rivard",
-          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
-        }
-      ],
-      "duration_ms": 319840,
-      "name": "Je voudrais voir la mer",
-      "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Aux portes du matin",
         "url": "https://open.spotify.com/album/16KeQd5pDMvrMI4Kt4NyHW"
       },
@@ -847,22 +831,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Charlie",
-        "url": "https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ"
+        "name": "Un trou dans les nuages",
+        "url": "https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN"
       },
       "artists": [
         {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        },
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+          "name": "Michel Rivard",
+          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
         }
       ],
-      "duration_ms": 186453,
-      "name": "Charlie",
-      "url": "https://open.spotify.com/track/05wB5Ut97mzE0nHUbfBsOW"
+      "duration_ms": 319840,
+      "name": "Je voudrais voir la mer",
+      "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -883,6 +863,26 @@
       "duration_ms": 181613,
       "name": "Future Ex",
       "url": "https://open.spotify.com/track/4c5hY1uAZGRFWrcwb3ZSjO"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Charlie",
+        "url": "https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        },
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/05wB5Ut97mzE0nHUbfBsOW"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1239,30 +1239,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Magie \u00e0 minuit",
-        "url": "https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt"
-      },
-      "artists": [
-        {
-          "name": "Super Plage",
-          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
-        },
-        {
-          "name": "Meggie Lennon",
-          "url": "https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq"
-        },
-        {
-          "name": "Virginie B",
-          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
-        }
-      ],
-      "duration_ms": 138855,
-      "name": "+1 (feat. Meggie Lennon & Virginie B)",
-      "url": "https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Soif",
         "url": "https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC"
       },
@@ -1291,6 +1267,30 @@
       "duration_ms": 178405,
       "name": "Penses-tu rester encore?",
       "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Magie \u00e0 minuit",
+        "url": "https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        },
+        {
+          "name": "Meggie Lennon",
+          "url": "https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq"
+        },
+        {
+          "name": "Virginie B",
+          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
+        }
+      ],
+      "duration_ms": 138855,
+      "name": "+1 (feat. Meggie Lennon & Virginie B)",
+      "url": "https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Le soleil et la mer",
-        "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
-      },
-      "artists": [
-        {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
-        }
-      ],
-      "duration_ms": 168190,
-      "name": "Le matin",
-      "url": "https://open.spotify.com/track/1vNQPck3HugkKRZrmRrRp6"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Soap Box",
         "url": "https://open.spotify.com/album/3hm10jsgb47voscEXgHW2W"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 205030,
       "name": "Te revoir",
       "url": "https://open.spotify.com/track/6mmc1ZPn4H3bD16P3Gh74z"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Le soleil et la mer",
+        "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "duration_ms": 168190,
+      "name": "Le matin",
+      "url": "https://open.spotify.com/track/1vNQPck3HugkKRZrmRrRp6"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1799,38 +1799,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "L'\u00e9chec h\u00e9ro\u00efque",
-        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
-      },
-      "artists": [
-        {
-          "name": "Thick Glasses",
-          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Mydriase",
-      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Volume 2",
-        "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
-      },
-      "artists": [
-        {
-          "name": "Zoo Baby",
-          "url": "https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO"
-        }
-      ],
-      "duration_ms": 165973,
-      "name": "Diff\u00e9rent de toi",
-      "url": "https://open.spotify.com/track/3lBN3qdOdRezs6VgKbqJ6r"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Teinte",
         "url": "https://open.spotify.com/album/5OhCrmOqckXZRLicXsmMWS"
       },
@@ -1863,6 +1831,38 @@
       "duration_ms": 257880,
       "name": "creusercreuser",
       "url": "https://open.spotify.com/track/6Z9RMVyBJkWnF6GlemwMIk"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
+      },
+      "artists": [
+        {
+          "name": "Zoo Baby",
+          "url": "https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO"
+        }
+      ],
+      "duration_ms": 165973,
+      "name": "Diff\u00e9rent de toi",
+      "url": "https://open.spotify.com/track/3lBN3qdOdRezs6VgKbqJ6r"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "L'\u00e9chec h\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
+      },
+      "artists": [
+        {
+          "name": "Thick Glasses",
+          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
+        }
+      ],
+      "duration_ms": 204461,
+      "name": "Mydriase",
+      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Hauterive",
-        "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
-      },
-      "artists": [
-        {
-          "name": "Hauterive",
-          "url": "https://open.spotify.com/artist/1FjP1PNg8eZOJ5uuRe6UWj"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Le temps d'avance",
-      "url": "https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Pas l'temps d'niaiser",
         "url": "https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 189986,
       "name": "Inconfortable",
       "url": "https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Hauterive",
+        "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
+      },
+      "artists": [
+        {
+          "name": "Hauterive",
+          "url": "https://open.spotify.com/artist/1FjP1PNg8eZOJ5uuRe6UWj"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Le temps d'avance",
+      "url": "https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Nouvelle administration",
+        "url": "https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u"
+      },
+      "artists": [
+        {
+          "name": "Philippe B",
+          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
+        }
+      ],
+      "duration_ms": 198145,
+      "name": "Nouvelle administration",
+      "url": "https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Or",
         "url": "https://open.spotify.com/album/7baidwdjs0YAGX4eKVMK7e"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 207058,
       "name": "Or",
       "url": "https://open.spotify.com/track/6kVJIh50Nw8zDXCQEWAkBT"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Nouvelle administration",
-        "url": "https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u"
-      },
-      "artists": [
-        {
-          "name": "Philippe B",
-          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
-        }
-      ],
-      "duration_ms": 198145,
-      "name": "Nouvelle administration",
-      "url": "https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Tous les jours printemps",
+        "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
+      },
+      "artists": [
+        {
+          "name": "Original Gros Bonnet",
+          "url": "https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "Glace noire",
+      "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Petite fille devient grande",
         "url": "https://open.spotify.com/album/0HkbzxdXq9eY7Bp4FzFkqf"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 152126,
       "name": "T'es la reine",
       "url": "https://open.spotify.com/track/1M4zFvJ4c7jJvvZ5FUCufg"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Tous les jours printemps",
-        "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
-      },
-      "artists": [
-        {
-          "name": "Original Gros Bonnet",
-          "url": "https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "Glace noire",
-      "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
     },
     {
       "added_at": "2023-05-25 23:46:15",

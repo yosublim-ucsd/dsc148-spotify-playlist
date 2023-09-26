@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-220 songs - 15 hr 12 min
+221 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [NYC Dirty Talks](https://open.spotify.com/track/4pf4aRWUDzJTHacddS3e25) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [JAH Love](https://open.spotify.com/album/4s2kxIRXTtf2Fu4oyh4Lqa) | 6:23 | 2022-06-20 | 2023-05-20 |
 | [NYC Dirty Talks \- Original Mix](https://open.spotify.com/track/4WRrZknAyG38JPLFL2Sej0) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [This Is House, Vol\. 1](https://open.spotify.com/album/0XNQ1bQRX7M37TUGeoeLji) | 6:23 | 2022-06-20 | 2022-11-13 |
 | [ON THE MOVE](https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [ON THE MOVE](https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu) | 3:24 | 2023-06-09 |  |
-| [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-07-28 |  |
+| [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-07-28 | 2023-09-26 |
 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 | 2021-07-24 |  |
 | [Patti](https://open.spotify.com/track/4T5Z0tSggegOb89AORT6AM) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [Patti](https://open.spotify.com/album/3ZNk3kfQlopQkWvdGWna5s) | 3:22 | 2021-07-24 | 2023-06-25 |
 | [phoenix](https://open.spotify.com/track/0JiS119XxHV9RfowD0GnIJ) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [phoenix](https://open.spotify.com/album/43nJVcXlrXfu540KyCab82) | 2:33 | 2023-05-26 | 2023-07-09 |
@@ -188,6 +188,7 @@
 | [Sleepwalking](https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:45 | 2023-05-19 |  |
 | [So Close Now](https://open.spotify.com/track/1P5WxDUWkG5xwgbnTn4i21) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [So Close Now](https://open.spotify.com/album/6FTDsy98nHodCOgQ8e2b3F) | 3:37 | 2021-07-24 | 2023-05-20 |
 | [So Sweet](https://open.spotify.com/track/0UXqqOq4p6ycJXBBrOLjJ9) | [Thomaz Krauze](https://open.spotify.com/artist/2vYp24qYifgpdEUR2ebhDE) | [So Sweet](https://open.spotify.com/album/4fVj0O6kjlCv6eW3j6q4WG) | 6:22 | 2021-07-24 | 2023-05-20 |
+| [Some Nights](https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv) | [Class Fools](https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt) | [Some Nights](https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r) | 2:48 | 2023-09-25 |  |
 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 | 2023-09-08 |  |
 | [Spice Run](https://open.spotify.com/track/0chAFMgYUeaiZ5Z0C3X6JQ) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Spice Run](https://open.spotify.com/album/34fLn0Jy7bi8bpkJRT0Pqm) | 5:49 | 2022-06-20 | 2023-05-20 |
 | [Spice Run](https://open.spotify.com/track/1TkJTS4V23IjVDUxaMWhyf) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Spice Run](https://open.spotify.com/album/39FVH5JgmFDDGxkF99QsIL) | 5:49 | 2021-07-24 | 2022-07-29 |

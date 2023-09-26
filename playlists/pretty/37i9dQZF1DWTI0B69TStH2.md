@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: KiM \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,153 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,155 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Tonę](https://open.spotify.com/track/16hFr0U7L8ULbQ23zmjmIY) | [Toria](https://open.spotify.com/artist/7en3fAhUJ8j0cl7ylW8rl6) | [Tonę](https://open.spotify.com/album/06aOJxzKqd9MMYkG5WSFc0) | 2:24 |
 | 100 | [Peter Pan](https://open.spotify.com/track/6JY2VXHPCQ2rQctD9LD6qb) | [Oh Bards!](https://open.spotify.com/artist/2nUzudCrsDVAoGAgtaiueQ) | [Peter Pan](https://open.spotify.com/album/3OUrSQcYF595xr3kmWHod8) | 4:33 |
 
-Snapshot ID: `MCw1NmVmM2E3YjAwMzdiNDQ2MGI5NzkxODBiMzEzMzcyNjI0OThkNTlj`
+Snapshot ID: `MCw2ZjQxODZkNjlhNDUyOGM0MjU1NzY5YzVjYTVmOGZlMjlkYWVhNmY3`

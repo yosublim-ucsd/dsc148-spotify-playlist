@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-784 songs - 1 day 21 hr 9 min
+785 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [Hari Raya Hari Bahagia](https://open.spotify.com/track/4lo91W9xVrGOooj0wAv8S3) | [Ideal Sisters](https://open.spotify.com/artist/5HPs9rzylVQBZ2nw7wqH4A) | [Hurey! Raya](https://open.spotify.com/album/2tDIojUILkustiyFGqcpB3) | 2:48 | 2022-05-02 | 2022-05-04 |
 | [Hasrat \(OST Imaginur\)](https://open.spotify.com/track/3Q6DYlT649Y1tgyf5We71c) | [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Hasrat \(OST Imaginur\)](https://open.spotify.com/album/3ABD4eXxckIrnVXKYRkClU) | 3:58 | 2023-03-03 | 2023-07-05 |
 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2022-03-31 | 2022-09-07 |
-| [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 | 2023-09-23 | 2023-09-25 |
+| [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 | 2023-09-23 |  |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-03-27\* | 2022-03-11 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-04 | 2022-10-06 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-17 | 2023-04-20 |
@@ -376,7 +376,7 @@
 | [Just as usual](https://open.spotify.com/track/64xTu0cKbXu3ZSRkfXiBnx) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:27 | 2021-06-09 | 2021-06-11 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-11-06 |
 | [Kau Tigakan Cinta](https://open.spotify.com/track/44PWXTnHRRpKvldbfKK9Oq) | [Elkasih](https://open.spotify.com/artist/3VHrNovOUrILgQxTyVsZGs) | [Pesan Dari Surga](https://open.spotify.com/album/6sRTe26Ku29Ia4xvRxxin9) | 3:36 | 2023-08-22 | 2023-09-17 |
-| [Kau Tigakan Cinta](https://open.spotify.com/track/7F3RSsk4kgdWDF0h8xvalZ) | [Elkasih](https://open.spotify.com/artist/3VHrNovOUrILgQxTyVsZGs) | [Kau Tigakan Cinta](https://open.spotify.com/album/5c1SVP01BdGT3chGeQhlHE) | 3:36 | 2023-09-16 |  |
+| [Kau Tigakan Cinta](https://open.spotify.com/track/7F3RSsk4kgdWDF0h8xvalZ) | [Elkasih](https://open.spotify.com/artist/3VHrNovOUrILgQxTyVsZGs) | [Kau Tigakan Cinta](https://open.spotify.com/album/5c1SVP01BdGT3chGeQhlHE) | 3:36 | 2023-09-16 | 2023-09-26 |
 | [Kepulangan Yang Di Nanti](https://open.spotify.com/track/5eI3a4RJ5Qfum61vdQMy6B) | [Aman Shah](https://open.spotify.com/artist/5Za3d8fOzNa1aYojLj6fSh) | [Kepulangan Yang Dinanti](https://open.spotify.com/album/7HoFrmavhQ08QX5vqk7wJ8) | 3:45 | 2021-05-10 | 2023-04-25 |
 | [Kesetiaan](https://open.spotify.com/track/3EdUroPyP7PpNkAFzUDK0l) | [Sarah](https://open.spotify.com/artist/0ZLlXP2F6EWO0CkFz1Teky) | [Sarah](https://open.spotify.com/album/6l56EYISKqObgkylSZD1d4) | 4:21 | 2021-08-11 | 2021-08-25 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-10 |  |
@@ -480,6 +480,7 @@
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-05-23 |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2021-11-21 | 2021-11-25 |
 | [My Love](https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:54 | 2021-07-28 | 2021-07-30 |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-25 |  |
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2023-05-23 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-05-28 |
@@ -496,7 +497,7 @@
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-10 | 2023-07-16 |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-01-06 |  |
 | [Nostalgia Aidilfitri](https://open.spotify.com/track/2NTay1SiXWWGPhX8J1pEqt) | [Datuk Sharifah Aini](https://open.spotify.com/artist/0EAfDSxGzS4bal72IMoHHQ) | [Nostalgia Aidilfitri](https://open.spotify.com/album/0OqggXFFwxdt63p5jjQMFh) | 5:51 | 2021-05-14 | 2022-05-05 |
-| [Not You](https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:33 | 2023-05-19 |  |
+| [Not You](https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:33 | 2023-05-19 | 2023-09-26 |
 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 | 2022-06-10 | 2022-06-12 |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-19 | 2023-01-13 |
 | [O.O](https://open.spotify.com/track/1m2PksrrMpIev63uPxT1V0) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt) | 2:52 | 2022-03-01 | 2022-05-11 |

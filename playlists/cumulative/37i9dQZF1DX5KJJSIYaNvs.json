@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Aarzoo",
+        "url": "https://open.spotify.com/album/0uT6JKN3Hmnddw20ls9mvA"
+      },
+      "artists": [
+        {
+          "name": "Sumedha Karmahe",
+          "url": "https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200929,
+      "name": "Aarzoo",
+      "url": "https://open.spotify.com/track/4ybn8237JziPYlxFIxeQz5"
+    },
+    {
+      "album": {
         "name": "Ab Na Jaunga",
         "url": "https://open.spotify.com/album/2ggeROqHV0dc7Ft7cqNtW9"
       },
@@ -1544,6 +1562,28 @@
       "duration_ms": 192186,
       "name": "Hasi - Female Version",
       "url": "https://open.spotify.com/track/1cmZbGkCEVVAck2MsWpPYQ"
+    },
+    {
+      "album": {
+        "name": "Yaariyan 2",
+        "url": "https://open.spotify.com/album/7ae6aMd39gAqmMfaPi9GUY"
+      },
+      "artists": [
+        {
+          "name": "Manan Bhardwaj",
+          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240198,
+      "name": "Heer Bhi Roye",
+      "url": "https://open.spotify.com/track/62nq2n3teHwI7oDlpffV9H"
     },
     {
       "album": {
@@ -3212,7 +3252,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 257771,
       "name": "Ni Main Jaana",
       "url": "https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0"
@@ -3894,7 +3934,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 225897,
       "name": "Rihaa Rihaa",
       "url": "https://open.spotify.com/track/6PiX99SqLYPd6TvYvM9PYe"

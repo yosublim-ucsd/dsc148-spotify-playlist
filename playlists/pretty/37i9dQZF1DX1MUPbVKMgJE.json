@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites. Cover: Earth Wind & Fire",
-  "num_followers": 1526296,
+  "num_followers": 1526483,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmYyMTY2MThiNTE3NTA0ZWNlYjBiYWJhYjE2YWRkN2Y2YjU1MmVm",
+  "snapshot_id": "MCwyOWEzNDQzYmZkZTQxMTBkYWYxMmU2ZjZiZmVjYWNhNzJkNDc0YzI0",
   "tracks": [
     {
       "added_at": "2023-09-20 21:46:22",
@@ -123,6 +123,38 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Daddy Cool",
+      "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"
+    },
+    {
+      "added_at": "2023-09-20 21:46:22",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2023-09-20 21:46:22",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -143,22 +175,6 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Daddy Cool",
-      "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"
-    },
-    {
-      "added_at": "2023-09-20 21:46:22",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 243933,
       "name": "Take A Chance On Me",
       "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
-    },
-    {
-      "added_at": "2023-09-20 21:46:22",
-      "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
     },
     {
       "added_at": "2023-09-20 21:46:22",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
-    },
-    {
-      "added_at": "2023-09-20 21:46:22",
-      "album": {
         "name": "Young Hearts Run Free (US Internet Release)",
         "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 274000,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+    },
+    {
+      "added_at": "2023-09-20 21:46:22",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "added_at": "2023-09-20 21:46:22",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
-        "name": "KC & the Sunshine Band",
-        "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "That's the Way (I Like It) - 2004 Remaster",
-      "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
-    },
-    {
-      "added_at": "2023-09-20 21:46:22",
-      "album": {
         "name": "Cruisin'",
         "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 286666,
       "name": "Y.M.C.A.",
       "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
+    },
+    {
+      "added_at": "2023-09-20 21:46:22",
+      "album": {
+        "name": "KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 185106,
+      "name": "That's the Way (I Like It) - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
     },
     {
       "added_at": "2023-09-20 21:46:22",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
+        "name": "Success",
+        "url": "https://open.spotify.com/album/04tDE69ZArhHkFaZzRNOrt"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "The Weather Girls",
+          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
         }
       ],
-      "duration_ms": 256453,
-      "name": "You Should Be Dancing",
-      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
+      "duration_ms": 325426,
+      "name": "It's Raining Men",
+      "url": "https://open.spotify.com/track/2IvetNzSZMH5gwjInoyr18"
     },
     {
       "added_at": "2023-09-20 21:46:22",
@@ -523,22 +523,6 @@
       "duration_ms": 491933,
       "name": "Ring My Bell",
       "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
-    },
-    {
-      "added_at": "2023-09-20 21:46:22",
-      "album": {
-        "name": "Success",
-        "url": "https://open.spotify.com/album/04tDE69ZArhHkFaZzRNOrt"
-      },
-      "artists": [
-        {
-          "name": "The Weather Girls",
-          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
-        }
-      ],
-      "duration_ms": 325426,
-      "name": "It's Raining Men",
-      "url": "https://open.spotify.com/track/2IvetNzSZMH5gwjInoyr18"
     },
     {
       "added_at": "2023-09-20 21:46:22",
@@ -575,18 +559,18 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
-        "name": "Walk Away - Collector's Edition The Best Of 1977-1980",
-        "url": "https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7"
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 199800,
-      "name": "Last Dance - Single Version",
-      "url": "https://open.spotify.com/track/29RcVe2M9l8rHyWHffBmjf"
+      "duration_ms": 256453,
+      "name": "You Should Be Dancing",
+      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
     },
     {
       "added_at": "2023-09-20 21:46:22",
@@ -619,6 +603,22 @@
       "duration_ms": 237120,
       "name": "Lady Marmalade",
       "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
+    },
+    {
+      "added_at": "2023-09-20 21:46:22",
+      "album": {
+        "name": "Walk Away - Collector's Edition The Best Of 1977-1980",
+        "url": "https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Last Dance - Single Version",
+      "url": "https://open.spotify.com/track/29RcVe2M9l8rHyWHffBmjf"
     },
     {
       "added_at": "2023-09-20 21:46:22",
@@ -667,22 +667,6 @@
       "duration_ms": 486186,
       "name": "Good Times - 2018 Remaster",
       "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
-    },
-    {
-      "added_at": "2023-09-20 21:46:22",
-      "album": {
-        "name": "I Remember Yesterday",
-        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 355173,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
     },
     {
       "added_at": "2023-09-20 21:46:22",
@@ -767,22 +751,6 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
-        "name": "The Whispers: Greatest Hits",
-        "url": "https://open.spotify.com/album/5tBvVqK2M7wiBwOQEcnRkp"
-      },
-      "artists": [
-        {
-          "name": "The Whispers",
-          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
-        }
-      ],
-      "duration_ms": 454253,
-      "name": "And the Beat Goes On",
-      "url": "https://open.spotify.com/track/7oQ1wkBmYSBEC2x7U08dvn"
-    },
-    {
-      "added_at": "2023-09-20 21:46:22",
-      "album": {
         "name": "Chic (2018 Remaster)",
         "url": "https://open.spotify.com/album/388S3dsftPqG1nwgauItcx"
       },
@@ -795,6 +763,38 @@
       "duration_ms": 402693,
       "name": "Everybody Dance - 2018 Remaster",
       "url": "https://open.spotify.com/track/15ifyO8wYntwyXAptfxhKr"
+    },
+    {
+      "added_at": "2023-09-20 21:46:22",
+      "album": {
+        "name": "I Remember Yesterday",
+        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 355173,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
+      "added_at": "2023-09-20 21:46:22",
+      "album": {
+        "name": "The Whispers: Greatest Hits",
+        "url": "https://open.spotify.com/album/5tBvVqK2M7wiBwOQEcnRkp"
+      },
+      "artists": [
+        {
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+        }
+      ],
+      "duration_ms": 454253,
+      "name": "And the Beat Goes On",
+      "url": "https://open.spotify.com/track/7oQ1wkBmYSBEC2x7U08dvn"
     },
     {
       "added_at": "2023-09-20 21:46:22",

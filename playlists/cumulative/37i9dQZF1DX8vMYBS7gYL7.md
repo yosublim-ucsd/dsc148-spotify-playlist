@@ -4,7 +4,7 @@
 
 > Un poco de sabrosura y color para esos días lluviosos.
 
-54 songs - 4 hr 4 min
+55 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,13 +31,14 @@
 | [La Mejor De Todas](https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Quiero Ser Tu Amor](https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16) | 3:39 | 2021-11-23 |  |
 | [La Rueda](https://open.spotify.com/track/1a7HYjlRmgLWuKP7RUWLQV) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz La Leyenda](https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ) | 6:22 | 2021-11-23 | 2023-09-16 |
 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 | 2021-11-23 |  |
+| [Lejos De Ti](https://open.spotify.com/track/2F13ZZuJ1EQnWhdvBpsvpD) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Sabor](https://open.spotify.com/album/4sJYlpxdpG1nnResKUbAKD) | 4:15 | 2021-11-23 |  |
 | [Linda Guajira](https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Our Man In Havana](https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN) | 3:03 | 2021-11-23 | 2023-08-25 |
 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 | 2021-11-23 |  |
 | [Llorar Lloviendo](https://open.spotify.com/track/3QeU2rcc5buv0B9VA0gRKH) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:45 | 2021-11-23 | 2023-09-19 |
 | [Lluvia](https://open.spotify.com/track/54vtEWLZyP51FGh9R585Zo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia \(Baile Total\)](https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW) | 4:56 | 2021-11-23 |  |
 | [Lluvia con Nieve](https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averiguá](https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY) | 2:57 | 2021-11-23 |  |
 | [Llévame Contigo](https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:46 | 2021-11-23 |  |
-| [Margie](https://open.spotify.com/track/468KewwnYDaGofS7CHhR3K) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [El “Ray” Criollo](https://open.spotify.com/album/4YQdtCI5Cx84mTFZQObPcK) | 3:19 | 2021-11-23 |  |
+| [Margie](https://open.spotify.com/track/468KewwnYDaGofS7CHhR3K) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [El “Ray” Criollo](https://open.spotify.com/album/4YQdtCI5Cx84mTFZQObPcK) | 3:19 | 2021-11-23 | 2023-09-26 |
 | [Me Voy \(feat\. Romeo Santos\)](https://open.spotify.com/track/3ucH40KXUWWQ5pFw2685G8) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Mitad Mitad](https://open.spotify.com/album/0jtFUO3fffRXGa7OsWw9iN) | 4:01 | 2021-11-23 |  |
 | [Medicina De Amor](https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:00 | 2021-11-23 |  |
 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 | 2021-11-23 |  |

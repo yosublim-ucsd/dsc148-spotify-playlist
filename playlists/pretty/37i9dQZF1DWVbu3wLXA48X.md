@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: The National
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,266 likes - 92 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,280 likes - 92 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 36 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 |
 | 37 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 |
 | 38 | [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 |
-| 39 | [Nun](https://open.spotify.com/track/2cDNCAsL794kS4lRg3Bpvl) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Nun](https://open.spotify.com/album/7j1ejF21Qf7iyg9KJztFnF) | 3:28 |
+| 39 | [Nun](https://open.spotify.com/track/11pe9feCGo4KnxynmJ9yVR) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 3:28 |
 | 40 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 |
 | 41 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
 | 42 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 91 | [Losing You](https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Losing You](https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t) | 3:02 |
 | 92 | [Better Than Life](https://open.spotify.com/track/1W7Gfi0JgMORjjPZkhNRlj) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB) | 1:29 |
 
-Snapshot ID: `MCwzYzkxOTE5MjdhMmNlZDMwMWE1YzU2ZWQ1Y2VlNzcwYjc0MDZkMGQ2`
+Snapshot ID: `MCw3ZmY0MDRlMjcyMjAzYTUzNTY4MjMyNjQ2ZTUwZTJjMTI5YWIyMjQ0`

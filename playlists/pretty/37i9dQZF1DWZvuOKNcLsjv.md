@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Kim Petras
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,910 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,934 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [hug.](https://open.spotify.com/track/7MhElI8fkwK5W4w5o8KMQw) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [Crop](https://open.spotify.com/album/1TV3g1CcsSAQcqAtkLp7Dm) | 3:54 |
 | 100 | [Diamonds](https://open.spotify.com/track/6ePcctSJw3azgink6S2QTw) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [Diamonds](https://open.spotify.com/album/75ST1ttxNj07ds4erJcPV2) | 3:26 |
 
-Snapshot ID: `MCwwOWI0MjMyMTVmMjg3ZjgwMmI0ZjBjZWM0M2IxMzIzYjcwZTZmZjEx`
+Snapshot ID: `MCwzOGI2MTJkODhhMzhjYTEzY2Q2OGU3Njg5NTljMWNlODlkZDdjMDc0`

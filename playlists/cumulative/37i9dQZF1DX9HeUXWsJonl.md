@@ -4,7 +4,7 @@
 
 > Écoute en boucle les hits tunisiens du moment.
 
-178 songs - 10 hr 57 min
+179 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Echkek](https://open.spotify.com/track/3diqgJlL2lIJyopupiWSy8) | [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [Echkek](https://open.spotify.com/album/6LmpxuN1ZqwGvoWrhNuaTd) | 2:53 | 2022-01-03 | 2022-07-29 |
 | [EL Barra \- البرّا](https://open.spotify.com/track/6IYi94UJsMphrh9dm88LA3) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [EL Barra \(البرّا\)](https://open.spotify.com/album/0yFDbPZaNQGaxrklitEBdo) | 3:24 | 2023-05-01 |  |
 | [Elli Tchelou](https://open.spotify.com/track/0FGu0SbwOOyHrSRzhSA34m) | [Gultrah Sound System](https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba) | [PRELUDE](https://open.spotify.com/album/1F9rHP1TBv73QVgvxqfF9R) | 5:26 | 2022-09-12 | 2022-10-22 |
-| [Ena](https://open.spotify.com/track/2ALQWCgk5wq7qJco8XCng0) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/306Ofv0B37wDNlgX354JtR) | 5:12 | 2023-03-30 |  |
+| [Ena](https://open.spotify.com/track/2ALQWCgk5wq7qJco8XCng0) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/306Ofv0B37wDNlgX354JtR) | 5:12 | 2023-03-30 | 2023-09-26 |
 | [Ena](https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit) | 5:12 | 2021-12-10 | 2023-04-01 |
 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 | 2022-11-07 | 2023-06-11 |
 | [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 | 2022-12-05 |  |
@@ -103,6 +103,7 @@
 | [Ma3Likesh Elloum](https://open.spotify.com/track/2BDStFDyWmfAKYw1Vz0LTA) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:12 | 2022-11-26 | 2023-05-02 |
 | [Maghrebins](https://open.spotify.com/track/4U5h7GaXXXNOLpuo5vr3dU) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:23 | 2023-01-06 |  |
 | [Maghrebins](https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Maghrebins](https://open.spotify.com/album/1etFNKjDP2lFtXd6NGTzwF) | 3:23 | 2021-12-10 | 2022-07-12 |
+| [Manansech \- مننساش](https://open.spotify.com/track/0ZHftCnY8Dlvpo8CFF2SBn) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Manansech \(مننساش\)](https://open.spotify.com/album/1uTvUDzsXMJlFuIbeNyvKp) | 2:56 | 2023-09-25 |  |
 | [Manetfergou](https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Manetfergou](https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8) | 3:17 | 2023-08-15 |  |
 | [Mani Nassi \- مانى ناسى](https://open.spotify.com/track/3GdU3rvO5odP2AIGSmm24z) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Mani Nassi \(مانى ناسى\)](https://open.spotify.com/album/6k0QEgsFV320r0Sr16RJVM) | 3:29 | 2023-03-22 | 2023-04-21 |
 | [Mani Wlidek](https://open.spotify.com/track/3sWOuPS3srcCShuoYjd6hG) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Mani Wlidek](https://open.spotify.com/album/7cRWMRusoJ6juDguMnq7pI) | 2:56 | 2021-12-10 | 2022-10-05 |

@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Alana Springsteen
 
-392 songs - 19 hr 44 min
+393 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,8 @@
 | [She Ain't](https://open.spotify.com/track/6me4kri7ccTesxEQzRMRXa) | [Seth Alley](https://open.spotify.com/artist/03iUAGyJwZiIhAF6PcSoxt) | [She Ain't](https://open.spotify.com/album/2REjfGJcn53lxTZI2VlJpS) | 2:50 | 2021-12-10 | 2022-02-26 |
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2021-12-10 |  |
 | [Short Hills Rd](https://open.spotify.com/track/1BZ5Odd4Y7qYuQ6Yv3wxee) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Short Hills Rd](https://open.spotify.com/album/61UHUB64YbzfBarOkW5M2u) | 3:14 | 2022-06-10 | 2022-10-16 |
-| [Short Hills Rd](https://open.spotify.com/track/4Tz2IuV1BvvvYrdIlcNLST) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Hungover High](https://open.spotify.com/album/5vwpBehIqllJQB4xMrQV0W) | 3:14 | 2022-10-14 |  |
+| [Short Hills Rd](https://open.spotify.com/track/4Tz2IuV1BvvvYrdIlcNLST) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Hungover High](https://open.spotify.com/album/5vwpBehIqllJQB4xMrQV0W) | 3:14 | 2022-10-14 | 2023-09-26 |
+| [Short Hills Rd](https://open.spotify.com/track/76CbImfYH2XW0Cqg46NHk7) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Three Year Stint](https://open.spotify.com/album/7ho20BOMXgibthds40B1pn) | 3:14 | 2023-09-22 |  |
 | [Should Have Known Better](https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Should Have Known Better](https://open.spotify.com/album/1rx8rmLDRuBdpDxf6Jfd3c) | 2:26 | 2021-12-10 | 2022-02-26 |
 | [Slow](https://open.spotify.com/track/6RXYoYRAvIDlAlHwFO2ytj) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Slow](https://open.spotify.com/album/7FKTfpN6qcqlNqJ46UAUjT) | 3:08 | 2022-10-28 |  |
 | [Slow Cookin'](https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Slow Cookin' & Soul Food: The 2 Piece Combo](https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC) | 3:28 | 2021-12-10 | 2023-03-11 |

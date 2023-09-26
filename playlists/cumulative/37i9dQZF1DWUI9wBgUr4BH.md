@@ -4,7 +4,7 @@
 
 > Les hits de demain sont déjà ici\. Photo : Tate McRae
 
-119 songs - 5 hr 57 min
+120 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Petit génie](https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD) | 3:37 | 2023-08-10 | 2023-09-09 |
 | [Piranha \(feat\. Vacra\)](https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Piranha \(feat\. Vacra\)](https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK) | 2:35 | 2023-07-27 | 2023-09-09 |
 | [Popular \(with Playboi Carti & Madonna\) \- Music from the HBO Original Series](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 | 2023-07-27 | 2023-08-04 |
-| [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-28 |  |
+| [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-28 | 2023-09-26 |
 | [Retiens les rêves](https://open.spotify.com/track/3tYSZZjpt5lth5lZbWdQVR) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Retiens les rêves](https://open.spotify.com/album/6pWAMFNK0xTDAj3CLFaYKy) | 3:39 | 2023-09-22 |  |
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2023-09-13 |  |
 | [Roméo](https://open.spotify.com/track/3uBlI0TvJ1QGOPesQ7yL6W) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 3:12 | 2023-08-21 |  |
@@ -117,6 +117,7 @@
 | [Summertime Friends](https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Summertime Friends](https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV) | 2:16 | 2023-09-08 |  |
 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 | 2023-07-27 |  |
 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 | 2023-07-27 | 2023-08-25 |
+| [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 | 2023-09-26 |  |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-07-27 | 2023-08-18 |
 | [Used To Be](https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:52 | 2023-08-17 | 2023-09-13 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-24 |  |

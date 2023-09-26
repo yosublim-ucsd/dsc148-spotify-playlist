@@ -2771,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "A.Mago - Playlist do Mago",
+        "url": "https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So"
+      },
+      "artists": [
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "MONTAGEM ANOS 2000",
+      "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -3076,6 +3094,36 @@
       "duration_ms": 137062,
       "name": "OLHADINHA",
       "url": "https://open.spotify.com/track/0pOZWyXIqROnYI24H5AVsk"
+    },
+    {
+      "album": {
+        "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
+        "url": "https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Chic\u00e3o do Piseiro",
+          "url": "https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG"
+        },
+        {
+          "name": "Roni Bruno",
+          "url": "https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1"
+        },
+        {
+          "name": "Mts No Beat",
+          "url": "https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135892,
+      "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
+      "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
     },
     {
       "album": {
@@ -4316,6 +4364,32 @@
       "duration_ms": 162221,
       "name": "Vai Vendo",
       "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
+    },
+    {
+      "album": {
+        "name": "Vem Quebrando",
+        "url": "https://open.spotify.com/album/0aQOJ7eiOSyP0Yf3mwIEdF"
+      },
+      "artists": [
+        {
+          "name": "Mc Danone",
+          "url": "https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ"
+        },
+        {
+          "name": "DJ THG",
+          "url": "https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc"
+        },
+        {
+          "name": "Dj Hm Oliveira",
+          "url": "https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "Vem Quebrando",
+      "url": "https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1"
     },
     {
       "album": {

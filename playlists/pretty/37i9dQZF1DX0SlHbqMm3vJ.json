@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Kemuel",
-  "num_followers": 214895,
+  "num_followers": 214939,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODgxNDAwZTc3M2E1MDcyNDc3MWFjODUyOTg3ZTk5YTU0ZWY5NTc3",
+  "snapshot_id": "MCxkODYzODliYWJmMmM0Y2JjZDg2NWI3YjUyZDNmOTFhNzNlMWRjYjVj",
   "tracks": [
     {
       "added_at": "2023-09-21 23:00:00",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Baby Riddim",
         "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 190677,
       "name": "Baby Riddim",
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -251,38 +251,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "IN CASE I NEVER LOVE AGAIN ( ICINLA)",
-        "url": "https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY"
-      },
-      "artists": [
-        {
-          "name": "Oladapo",
-          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
-        }
-      ],
-      "duration_ms": 182361,
-      "name": "Break Up",
-      "url": "https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "What's Poppin",
         "url": "https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam"
       },
@@ -303,22 +271,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+        "name": "IN CASE I NEVER LOVE AGAIN ( ICINLA)",
+        "url": "https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
         }
       ],
-      "duration_ms": 132052,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
+      "duration_ms": 182361,
+      "name": "Break Up",
+      "url": "https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -335,6 +299,42 @@
       "duration_ms": 124076,
       "name": "Anabella",
       "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "duration_ms": 132052,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Ogaranya",
-        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 168610,
-      "name": "Ogaranya",
-      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -571,34 +571,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
+        "name": "Ogaranya",
+        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 154455,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 160611,
-      "name": "Jara",
-      "url": "https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx"
+      "duration_ms": 168610,
+      "name": "Ogaranya",
+      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -615,6 +599,22 @@
       "duration_ms": 188411,
       "name": "SOMETHING",
       "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 160611,
+      "name": "Jara",
+      "url": "https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Sad Romance (Deluxe)",
-        "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 184942,
-      "name": "nwayi",
-      "url": "https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "OVAMI",
         "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 140246,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Sad Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 184942,
+      "name": "nwayi",
+      "url": "https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Don't Lie/See It Through - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 338975,
+      "name": "Don't Lie/See It Through - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 142040,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Don't Lie/See It Through - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 338975,
-      "name": "Don't Lie/See It Through - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1083,26 +1083,6 @@
       "duration_ms": 200000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Spell (Remix)",
-        "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 173304,
-      "name": "Spell - Remix",
-      "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1139,6 +1119,26 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Spell (Remix)",
+        "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 173304,
+      "name": "Spell - Remix",
+      "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Saati Ramoni",
-        "url": "https://open.spotify.com/album/0VmgXMeTpKOknX6Vy6dBbV"
-      },
-      "artists": [
-        {
-          "name": "MUIS",
-          "url": "https://open.spotify.com/artist/5UhxuCNM1djBJLm5VhvuRy"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Saati Ramoni",
-      "url": "https://open.spotify.com/track/6zLC5tfSmJmotGcOKF37Gc"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Jejely",
         "url": "https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 181250,
       "name": "Jejely",
       "url": "https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Saati Ramoni",
+        "url": "https://open.spotify.com/album/0VmgXMeTpKOknX6Vy6dBbV"
+      },
+      "artists": [
+        {
+          "name": "MUIS",
+          "url": "https://open.spotify.com/artist/5UhxuCNM1djBJLm5VhvuRy"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Saati Ramoni",
+      "url": "https://open.spotify.com/track/6zLC5tfSmJmotGcOKF37Gc"
     },
     {
       "added_at": "2023-09-21 23:00:00",

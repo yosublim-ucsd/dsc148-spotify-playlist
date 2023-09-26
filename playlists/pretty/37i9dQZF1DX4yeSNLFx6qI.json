@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1765231,
+  "num_followers": 1765376,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTM3YTgxNjM1YTUyYzI0NzMzMGViMWYwMDkxNzNiMjRlYjdjMWJm",
+  "snapshot_id": "MCxhMTZkNmI2Y2M4NjM1OTIyMmFkMDMwNmQ5ZjU4NjM0NTQ4MTAyYzE2",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -363,6 +363,30 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Ricky Martin MTV Unplugged",
+        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Lamari",
+          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -395,30 +419,6 @@
       "duration_ms": 212986,
       "name": "Todav\u00eda No Te Olvido (feat. Carlos Rivera)",
       "url": "https://open.spotify.com/track/1o4NhRBP3RSnK73rxfW4tU"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Ricky Martin MTV Unplugged",
-        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Lamari",
-          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
-        },
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -527,6 +527,26 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
+      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Empezar Desde Cero",
         "url": "https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ"
       },
@@ -583,26 +603,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -615,26 +615,6 @@
       "duration_ms": 298293,
       "name": "Me va a extra\u00f1ar (aka Unchain My Heart)",
       "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
-      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -671,6 +651,26 @@
       "duration_ms": 190360,
       "name": "Amor Ordinario",
       "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Vidas Pasadas",
+        "url": "https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 138937,
+      "name": "Vidas Pasadas",
+      "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/6zardvJflEyoRedCUCBUw9"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 231951,
       "name": "amantes y amigos",
       "url": "https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Vidas Pasadas",
-        "url": "https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 138937,
-      "name": "Vidas Pasadas",
-      "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "PAUSA",
         "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "No Le Llames Amor",
         "url": "https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 203639,
       "name": "No Le Llames Amor",
       "url": "https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Te echo de menos",
-        "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Te echo de menos",
-      "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1187,22 +1171,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Devu\u00e9lveme El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6bWoGN8NnZ5IHuwU7PBp3d"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "Devu\u00e9lveme El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0AbUjX0KljK02Ts6q7YITU"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
@@ -1215,6 +1183,22 @@
       "duration_ms": 208986,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Devu\u00e9lveme El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6bWoGN8NnZ5IHuwU7PBp3d"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "Devu\u00e9lveme El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0AbUjX0KljK02Ts6q7YITU"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 209221,
       "name": "Hablemos de amor",
       "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Te echo de menos",
+        "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Te echo de menos",
+      "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1319,18 +1319,34 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Si hubieras querido",
-        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
+        "name": "Rabia",
+        "url": "https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 221139,
-      "name": "Si hubieras querido",
-      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
+      "duration_ms": 217133,
+      "name": "Rabia",
+      "url": "https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/4iCm5y1XREMD9eIq0rIbct"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 236485,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/3FVnwugdti1mSy5xjpXCaz"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1355,18 +1371,34 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Rabia",
-        "url": "https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf"
+        "name": "Verano, por siempre",
+        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
       },
       "artists": [
         {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
         }
       ],
-      "duration_ms": 217133,
-      "name": "Rabia",
-      "url": "https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD"
+      "duration_ms": 176000,
+      "name": "una luz",
+      "url": "https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Si hubieras querido",
+        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 221139,
+      "name": "Si hubieras querido",
+      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1383,38 +1415,6 @@
       "duration_ms": 135739,
       "name": "Me vas a ver",
       "url": "https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/4iCm5y1XREMD9eIq0rIbct"
-      },
-      "artists": [
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 236485,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/3FVnwugdti1mSy5xjpXCaz"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Verano, por siempre",
-        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "una luz",
-      "url": "https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "rifresh",
-        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 177515,
-      "name": "Doler\u00eda",
-      "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Amar Sin Mentiras",
         "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "A\u00fan me amas",
-        "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
+        "name": "rifresh",
+        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
       },
       "artists": [
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 220000,
-      "name": "A\u00fan me amas",
-      "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
+      "duration_ms": 177515,
+      "name": "Doler\u00eda",
+      "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1531,6 +1515,22 @@
       "duration_ms": 237373,
       "name": "Nunca Voy a Olvidarte - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "A\u00fan me amas",
+        "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "A\u00fan me amas",
+      "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Nada de Nada",
-        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Nada de Nada",
-      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Atado Entre Tus Manos",
         "url": "https://open.spotify.com/album/4ynLSCZ4KGaB3mIbYHb2dw"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 196626,
       "name": "Atado Entre Tus Manos",
       "url": "https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Nada de Nada",
+        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
     },
     {
       "added_at": "2023-09-15 04:01:00",

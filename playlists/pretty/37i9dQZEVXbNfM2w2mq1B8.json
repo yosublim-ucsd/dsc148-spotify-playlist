@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
-  "num_followers": 13986,
+  "num_followers": 13996,
   "original_name": "Top 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ4OTIwMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ5MDA2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "\u041a'\u044a\u0432 \u0441\u044a\u043c \u044f\u043a",
         "url": "https://open.spotify.com/album/7j3nIj23kSaqcZ0bYaWswl"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "MAZNA",
-        "url": "https://open.spotify.com/album/3cugOGZrC7vLybuDCJ3L0B"
-      },
-      "artists": [
-        {
-          "name": "Dimoff",
-          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
-        }
-      ],
-      "duration_ms": 121297,
-      "name": "MAZNA",
-      "url": "https://open.spotify.com/track/6fDWIHsi9yw805Op5G6dtD"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
         "url": "https://open.spotify.com/album/4sSVZfarKHR318eTUD2avZ"
@@ -73,7 +57,39 @@
       "url": "https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "MAZNA",
+        "url": "https://open.spotify.com/album/3cugOGZrC7vLybuDCJ3L0B"
+      },
+      "artists": [
+        {
+          "name": "Dimoff",
+          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
+        }
+      ],
+      "duration_ms": 121297,
+      "name": "MAZNA",
+      "url": "https://open.spotify.com/track/6fDWIHsi9yw805Op5G6dtD"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "MARGINALA",
         "url": "https://open.spotify.com/album/5gDt0JJ8LDNz22Qt0FNH9i"
@@ -93,23 +109,7 @@
       "url": "https://open.spotify.com/track/0QW4josN9fFAy5cbN4oHHh"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "\u0415\u043b\u0430, \u0425\u0430\u0431\u0438\u0431\u0438",
         "url": "https://open.spotify.com/album/4yarZg2w7Qn15Nc1lDecVD"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/0mOFdyp76eRHMi09yTolXS"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
         "url": "https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7"
@@ -145,7 +145,27 @@
       "url": "https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
         "url": "https://open.spotify.com/album/30tRJ14dRISdoMJeedfayf"
@@ -161,23 +181,7 @@
       "url": "https://open.spotify.com/track/2Fs3HuNZQ2QK0Qcfr19L8Y"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
-        "url": "https://open.spotify.com/album/793qXnOneVVHQrbebbRpfc"
-      },
-      "artists": [
-        {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
-      "url": "https://open.spotify.com/track/2LMdXVxVRKM5Ls7IVBjqb9"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -201,7 +205,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "Alcohol",
         "url": "https://open.spotify.com/album/57UKx4LXqW0P7PmT9OHXw8"
@@ -221,7 +225,23 @@
       "url": "https://open.spotify.com/track/1Oxshg4204lRdcogzvdP4x"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
+        "url": "https://open.spotify.com/album/793qXnOneVVHQrbebbRpfc"
+      },
+      "artists": [
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
+      "url": "https://open.spotify.com/track/2LMdXVxVRKM5Ls7IVBjqb9"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "FREESTYLE 1",
         "url": "https://open.spotify.com/album/0NTHsDHK0ocVXHpOUSlyhN"
@@ -237,27 +257,7 @@
       "url": "https://open.spotify.com/track/6g12ki5xI3oUmz8yznhCxt"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "Seven (feat. Latto)",
-        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "\u0425\u0430\u0440\u0435\u0441\u0432\u0430 \u0442\u0438, \u043f\u0440\u0438\u0437\u043d\u0430\u0439",
         "url": "https://open.spotify.com/album/0e3JPQtq6EWfFkEpXPNZrp"
@@ -273,39 +273,23 @@
       "url": "https://open.spotify.com/track/5VJYqzkoqgf5yXHNdsGv5b"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
-        "name": "Se Perno Gia Na Sou Po",
-        "url": "https://open.spotify.com/album/3eyN8gT097UThbE4RdiYOp"
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
       "artists": [
         {
-          "name": "Triantafillos",
-          "url": "https://open.spotify.com/artist/21DdJEcvxk3t2u53LWUQ0H"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 234935,
-      "name": "Se Perno Gia Na Sou Po",
-      "url": "https://open.spotify.com/track/6wDkQnxxbRwGsWMElQkrdB"
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "3/3",
         "url": "https://open.spotify.com/album/0iPAgdeorXevx4eVGu3rpt"
@@ -329,7 +313,7 @@
       "url": "https://open.spotify.com/track/3H1jUz6uPDIIUmfBvS0YhQ"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
         "url": "https://open.spotify.com/album/2YnlJgWFLWQcP5JMoNZG3C"
@@ -349,55 +333,59 @@
       "url": "https://open.spotify.com/track/6XJc1nK44MNSV2kK1IuyKU"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+        "name": "\u0417\u0430 \u043c\u0430\u043b\u043a\u043e",
+        "url": "https://open.spotify.com/album/0TXOInhUIspxmzgH6COp95"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "DENIS TEOFIKOV",
+          "url": "https://open.spotify.com/artist/5QO5nSTzmwGYnTFsJb8Gq6"
+        },
+        {
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
         }
       ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+      "duration_ms": 202382,
+      "name": "\u0417\u0430 \u043c\u0430\u043b\u043a\u043e",
+      "url": "https://open.spotify.com/track/2ztqAbI1bIzIlKBd2JCSvH"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
-        "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
-        "url": "https://open.spotify.com/album/2u9hkU7grdSjkLPClwZ3He"
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
       "artists": [
         {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 185217,
-      "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
-      "url": "https://open.spotify.com/track/3VjtC9G89HrlWKwd1TuWwk"
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
-        "name": "Zakachen",
-        "url": "https://open.spotify.com/album/5AlHkEVB2Lsx9lNruKiNSL"
+        "name": "Se Perno Gia Na Sou Po",
+        "url": "https://open.spotify.com/album/3eyN8gT097UThbE4RdiYOp"
       },
       "artists": [
         {
-          "name": "Kiara",
-          "url": "https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z"
+          "name": "Triantafillos",
+          "url": "https://open.spotify.com/artist/21DdJEcvxk3t2u53LWUQ0H"
         }
       ],
-      "duration_ms": 197250,
-      "name": "Zakachen",
-      "url": "https://open.spotify.com/track/7l0PQwiw5MZJhBSt7zMLwv"
+      "duration_ms": 234935,
+      "name": "Se Perno Gia Na Sou Po",
+      "url": "https://open.spotify.com/track/6wDkQnxxbRwGsWMElQkrdB"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "TOP CONNECTION",
         "url": "https://open.spotify.com/album/73uApRuqHZwuNn5Seu1Crl"
@@ -417,7 +405,7 @@
       "url": "https://open.spotify.com/track/0YeqCYaK0ZOvksy54BNADO"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "AZ I TI",
         "url": "https://open.spotify.com/album/1sGVD9m3Z9kTgDAZjt5W4H"
@@ -437,43 +425,7 @@
       "url": "https://open.spotify.com/track/0itd5lrE0cjqqIho0TYTKN"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "Spomeni / Anamniseis",
-        "url": "https://open.spotify.com/album/1gBBu1rUFOXrVNEuOmXnZc"
-      },
-      "artists": [
-        {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-        },
-        {
-          "name": "Aristos Constantinou",
-          "url": "https://open.spotify.com/artist/2YVliflb2HHp7RBP3AtUuK"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Spomeni / Anamniseis",
-      "url": "https://open.spotify.com/track/4ihsE0B7tB0rIKdBRig7qq"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "7 Dni",
         "url": "https://open.spotify.com/album/6FjH4zDKyAEV8dZgzcFXOK"
@@ -489,27 +441,39 @@
       "url": "https://open.spotify.com/track/1BnF35gLqCRWiTzSWgC9hK"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
-        "name": "\u041d\u044f\u043c\u0430\u0448 \u043c\u0435\u043d\u0435",
-        "url": "https://open.spotify.com/album/3YDsTkqKN1V7ujLFGChKqZ"
+        "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
+        "url": "https://open.spotify.com/album/2u9hkU7grdSjkLPClwZ3He"
       },
       "artists": [
         {
-          "name": "Anelia",
-          "url": "https://open.spotify.com/artist/5tUV7pEJAFzJXWbJBtTkjt"
-        },
-        {
-          "name": "Konstantin",
-          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
         }
       ],
-      "duration_ms": 234041,
-      "name": "\u041d\u044f\u043c\u0430\u0448 \u043c\u0435\u043d\u0435",
-      "url": "https://open.spotify.com/track/37vQo8j33koOfhL5qK0YId"
+      "duration_ms": 185217,
+      "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
+      "url": "https://open.spotify.com/track/3VjtC9G89HrlWKwd1TuWwk"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
         "url": "https://open.spotify.com/album/4appOGvrMiOg4RjZOYkcCV"
@@ -529,7 +493,43 @@
       "url": "https://open.spotify.com/track/772ARvmnEjryug7ce0lRAF"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "Zakachen",
+        "url": "https://open.spotify.com/album/5AlHkEVB2Lsx9lNruKiNSL"
+      },
+      "artists": [
+        {
+          "name": "Kiara",
+          "url": "https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z"
+        }
+      ],
+      "duration_ms": 197250,
+      "name": "Zakachen",
+      "url": "https://open.spotify.com/track/7l0PQwiw5MZJhBSt7zMLwv"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "Spomeni / Anamniseis",
+        "url": "https://open.spotify.com/album/1gBBu1rUFOXrVNEuOmXnZc"
+      },
+      "artists": [
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        },
+        {
+          "name": "Aristos Constantinou",
+          "url": "https://open.spotify.com/artist/2YVliflb2HHp7RBP3AtUuK"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Spomeni / Anamniseis",
+      "url": "https://open.spotify.com/track/4ihsE0B7tB0rIKdBRig7qq"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "\u0418\u043c\u0435\u0442\u043e \u0442\u0438",
         "url": "https://open.spotify.com/album/7Jh9LuSFGZOghAGvFPsyTD"
@@ -545,7 +545,27 @@
       "url": "https://open.spotify.com/track/5NiOXQipgtTWT7BSDJz8eg"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "\u041d\u044f\u043c\u0430\u0448 \u043c\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/3YDsTkqKN1V7ujLFGChKqZ"
+      },
+      "artists": [
+        {
+          "name": "Anelia",
+          "url": "https://open.spotify.com/artist/5tUV7pEJAFzJXWbJBtTkjt"
+        },
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+        }
+      ],
+      "duration_ms": 234041,
+      "name": "\u041d\u044f\u043c\u0430\u0448 \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/37vQo8j33koOfhL5qK0YId"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "JESTOVE",
         "url": "https://open.spotify.com/album/0ytKkMWgXfbcHUaUZCyERH"
@@ -565,27 +585,7 @@
       "url": "https://open.spotify.com/track/1tXCBU0KYj80kAVOjfKL37"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/1e3AsihMn2vg7ivyWt1Hgt"
-      },
-      "artists": [
-        {
-          "name": "Marso",
-          "url": "https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv"
-        },
-        {
-          "name": "MBT",
-          "url": "https://open.spotify.com/artist/3yFsv1OXPdnKzt9dqdkrgQ"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Kradena",
-      "url": "https://open.spotify.com/track/2RgC1nTzRNAf9MiOhoLHxk"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -605,159 +605,27 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
-        "name": "\u0413\u043e\u0440\u0447\u0438\u0432\u043e",
-        "url": "https://open.spotify.com/album/0FjTFwmO3GBJT7ASdZsist"
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/1e3AsihMn2vg7ivyWt1Hgt"
       },
       "artists": [
         {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        }
-      ],
-      "duration_ms": 202271,
-      "name": "\u0413\u043e\u0440\u0447\u0438\u0432\u043e",
-      "url": "https://open.spotify.com/track/5oH8yCgjc0GoB9HTHB3wA0"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "My Flex",
-        "url": "https://open.spotify.com/album/5uXhw6aPhwFQmng52eQoDI"
-      },
-      "artists": [
-        {
-          "name": "DJEFX",
-          "url": "https://open.spotify.com/artist/1gtiugmWqsfjfweMnPrv43"
+          "name": "Marso",
+          "url": "https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv"
         },
-        {
-          "name": "Mooski",
-          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
-        },
-        {
-          "name": "euro",
-          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
-        }
-      ],
-      "duration_ms": 156841,
-      "name": "My Flex",
-      "url": "https://open.spotify.com/track/67AgOrAogVDA4tvtWnSGcR"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "FACTOR",
-        "url": "https://open.spotify.com/album/4UryWPho5YcedoV2E8ukOE"
-      },
-      "artists": [
         {
           "name": "MBT",
-          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
+          "url": "https://open.spotify.com/artist/3yFsv1OXPdnKzt9dqdkrgQ"
         }
       ],
-      "duration_ms": 177230,
-      "name": "Skupa",
-      "url": "https://open.spotify.com/track/6LpL3NUIJuJ3zyBfdMXD2O"
+      "duration_ms": 137142,
+      "name": "Kradena",
+      "url": "https://open.spotify.com/track/2RgC1nTzRNAf9MiOhoLHxk"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/2aqCdoM9yEWZkXkikyMdH5"
-      },
-      "artists": [
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        },
-        {
-          "name": "Tea Tairovic",
-          "url": "https://open.spotify.com/artist/39QpkKA8DlIerdivENnMdU"
-        }
-      ],
-      "duration_ms": 220190,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/4dEkUVNnb3flPRtdknJ1yw"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 211582,
-      "name": "I KNOW ?",
-      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "\u041f\u043e\u043b\u0443\u0434\u044f\u0445",
-        "url": "https://open.spotify.com/album/7gJItUuU2u9TynYjbMB7QP"
-      },
-      "artists": [
-        {
-          "name": "Alisia",
-          "url": "https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6"
-        },
-        {
-          "name": "Toni Storaro",
-          "url": "https://open.spotify.com/artist/42APSc9etBGptl3otzihIZ"
-        }
-      ],
-      "duration_ms": 201790,
-      "name": "\u041f\u043e\u043b\u0443\u0434\u044f\u0445",
-      "url": "https://open.spotify.com/track/5SVhcxTgaQjQZBg8bFWiAV"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "Starboy",
-      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
-      "album": {
-        "name": "Gonka",
-        "url": "https://open.spotify.com/album/5PhF3fH2LwQ8ht03WIrsfR"
-      },
-      "artists": [
-        {
-          "name": "Tedi Aleksandrova",
-          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
-        },
-        {
-          "name": "Don Mario",
-          "url": "https://open.spotify.com/artist/2lKSCvxuWDRCyImWLIXqre"
-        }
-      ],
-      "duration_ms": 270495,
-      "name": "Gonka",
-      "url": "https://open.spotify.com/track/1HhDpamkdO5DK65VjAmxBf"
-    },
-    {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "Gucci Forema",
         "url": "https://open.spotify.com/album/6UkkP8qztSAwlnQLEgk8wY"
@@ -781,7 +649,43 @@
       "url": "https://open.spotify.com/track/4ZXqF3KNXMeaeS6VukUKFD"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "\u041f\u043e\u043b\u0443\u0434\u044f\u0445",
+        "url": "https://open.spotify.com/album/7gJItUuU2u9TynYjbMB7QP"
+      },
+      "artists": [
+        {
+          "name": "Alisia",
+          "url": "https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6"
+        },
+        {
+          "name": "Toni Storaro",
+          "url": "https://open.spotify.com/artist/42APSc9etBGptl3otzihIZ"
+        }
+      ],
+      "duration_ms": 201790,
+      "name": "\u041f\u043e\u043b\u0443\u0434\u044f\u0445",
+      "url": "https://open.spotify.com/track/5SVhcxTgaQjQZBg8bFWiAV"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 211582,
+      "name": "I KNOW ?",
+      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -797,83 +701,119 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/47oLHYHuwdGtZ70V7hVxQL"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "\u0413\u043e\u0440\u0447\u0438\u0432\u043e",
+        "url": "https://open.spotify.com/album/0FjTFwmO3GBJT7ASdZsist"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "duration_ms": 202271,
+      "name": "\u0413\u043e\u0440\u0447\u0438\u0432\u043e",
+      "url": "https://open.spotify.com/track/5oH8yCgjc0GoB9HTHB3wA0"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "FACTOR",
+        "url": "https://open.spotify.com/album/4UryWPho5YcedoV2E8ukOE"
       },
       "artists": [
         {
           "name": "MBT",
           "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/7dIMk9WD4Q6zenoCibMWyu"
         }
       ],
-      "duration_ms": 215771,
-      "name": "Nqma Kak",
-      "url": "https://open.spotify.com/track/5nuqX3R4iAhbXO1sGrBLqi"
+      "duration_ms": 177230,
+      "name": "Skupa",
+      "url": "https://open.spotify.com/track/6LpL3NUIJuJ3zyBfdMXD2O"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
-        "name": "FREESTYLE2",
-        "url": "https://open.spotify.com/album/5B0DBG2YvwBZgROJSyPWDf"
+        "name": "Gonka",
+        "url": "https://open.spotify.com/album/5PhF3fH2LwQ8ht03WIrsfR"
       },
       "artists": [
         {
-          "name": "Dimoff",
-          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
+          "name": "Tedi Aleksandrova",
+          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
+        },
+        {
+          "name": "Don Mario",
+          "url": "https://open.spotify.com/artist/2lKSCvxuWDRCyImWLIXqre"
         }
       ],
-      "duration_ms": 124806,
-      "name": "FREESTYLE2",
-      "url": "https://open.spotify.com/track/6WdB48ut73Y4Dx4swcZoxM"
+      "duration_ms": 270495,
+      "name": "Gonka",
+      "url": "https://open.spotify.com/track/1HhDpamkdO5DK65VjAmxBf"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
-        "name": "\u041d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d",
-        "url": "https://open.spotify.com/album/2508B3fZ3ydH58AolXMxp5"
+        "name": "\u0426\u044f\u043b\u043e\u0442\u043e \u0432\u0440\u0435\u043c\u0435",
+        "url": "https://open.spotify.com/album/6s7oGfomxLI0SevxWrfFrv"
       },
       "artists": [
         {
-          "name": "Krisko",
-          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
-        },
-        {
-          "name": "Konstantin",
-          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
         }
       ],
-      "duration_ms": 188082,
-      "name": "\u041d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d",
-      "url": "https://open.spotify.com/track/601FfTcj3tkX4tSBG9UK8S"
+      "duration_ms": 224301,
+      "name": "\u0426\u044f\u043b\u043e\u0442\u043e \u0432\u0440\u0435\u043c\u0435",
+      "url": "https://open.spotify.com/track/5wzAdu3hiINC5egjffwlpA"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -897,48 +837,104 @@
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
-        "name": "Krasiv geroy",
-        "url": "https://open.spotify.com/album/4cFfpJg1tx82Z7A7dlJ97v"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "Tsvetelina Yaneva",
-          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 233881,
-      "name": "Krasiv geroy",
-      "url": "https://open.spotify.com/track/6UyMkM4523bYKwHIIrfuJu"
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2023-09-24 08:06:29",
+      "added_at": "2023-09-25 08:55:17",
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2aqCdoM9yEWZkXkikyMdH5"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
         },
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Tea Tairovic",
+          "url": "https://open.spotify.com/artist/39QpkKA8DlIerdivENnMdU"
         }
       ],
-      "duration_ms": 221520,
-      "name": "Creepin' (with The Weeknd & 21 Savage)",
-      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+      "duration_ms": 220190,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/4dEkUVNnb3flPRtdknJ1yw"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/0fv4ZkhqYX39VAB6IYmkbx"
+      },
+      "artists": [
+        {
+          "name": "Torino",
+          "url": "https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM"
+        },
+        {
+          "name": "Pashata",
+          "url": "https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF"
+        },
+        {
+          "name": "Kamelia",
+          "url": "https://open.spotify.com/artist/0m8Tk5oVIhtGD0QRQGKnNe"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/6rQCv5zfqq8NLcUJbS5G1u"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "\u041d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d",
+        "url": "https://open.spotify.com/album/2508B3fZ3ydH58AolXMxp5"
+      },
+      "artists": [
+        {
+          "name": "Krisko",
+          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
+        },
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+        }
+      ],
+      "duration_ms": 188082,
+      "name": "\u041d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d",
+      "url": "https://open.spotify.com/track/601FfTcj3tkX4tSBG9UK8S"
+    },
+    {
+      "added_at": "2023-09-25 08:55:17",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     }
   ],
   "unique_name": "Top 50 - Bulgaria",

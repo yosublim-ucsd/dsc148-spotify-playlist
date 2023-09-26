@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos de todos los tiempos musicalizan tu cocina.",
-  "num_followers": 222891,
+  "num_followers": 223023,
   "original_name": "Cocina de cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTQzM2U2OWUzYjI1Y2U1YTE3NmRkNDMzMDFmZjk1MTcwOGI5OTEx",
+  "snapshot_id": "MCw1YmEwYzA3ZDU4ODlhNWUxYTkwZDVhYzM4NDJkOTBkMTYwMzc2YzIy",
   "tracks": [
     {
       "added_at": "2022-07-04 19:21:16",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-07-04 19:21:16",
       "album": {
-        "name": "Pablo Honey",
-        "url": "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
-    },
-    {
-      "added_at": "2022-07-04 19:21:16",
-      "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "added_at": "2022-07-04 19:21:16",
+      "album": {
+        "name": "Pablo Honey",
+        "url": "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
     },
     {
       "added_at": "2022-07-04 19:21:16",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-07-04 19:21:16",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
-    },
-    {
-      "added_at": "2022-07-04 19:21:16",
-      "album": {
         "name": "Highway to Hell",
         "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 267596,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
+    },
+    {
+      "added_at": "2022-07-04 19:21:16",
+      "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
     },
     {
       "added_at": "2022-07-04 19:21:16",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-07-04 19:21:16",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2022-07-04 19:21:16",
-      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 241786,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2022-07-04 19:21:16",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2022-07-04 19:21:16",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-07-04 19:21:16",
       "album": {
-        "name": "Hello, I Must Be Going! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "You Can't Hurry Love - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
-    },
-    {
-      "added_at": "2022-07-04 19:21:16",
-      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 283733,
       "name": "Don't Cry (Original)",
       "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
+    },
+    {
+      "added_at": "2022-07-04 19:21:16",
+      "album": {
+        "name": "Hello, I Must Be Going! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "You Can't Hurry Love - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
     },
     {
       "added_at": "2022-07-04 19:21:16",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-07-04 19:21:16",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2022-07-04 19:21:16",
-      "album": {
         "name": "Face Value (Deluxe Editon)",
         "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 336453,
       "name": "In The Air Tonight - 2015 Remastered",
       "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
+    },
+    {
+      "added_at": "2022-07-04 19:21:16",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
       "added_at": "2022-07-04 19:21:16",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-07-04 19:21:16",
       "album": {
-        "name": "Once Upon A Time (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
-    },
-    {
-      "added_at": "2022-07-04 19:21:16",
-      "album": {
         "name": "Kaya",
         "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 232200,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+    },
+    {
+      "added_at": "2022-07-04 19:21:16",
+      "album": {
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
     },
     {
       "added_at": "2022-07-04 19:21:16",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-07-04 19:21:16",
       "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
+    },
+    {
+      "added_at": "2022-07-04 19:21:16",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2022-07-04 19:21:16",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2022-07-04 19:21:16",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-07-04 19:21:16",
       "album": {
-        "name": "Let It Bleed",
-        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
-    },
-    {
-      "added_at": "2022-07-04 19:21:16",
-      "album": {
         "name": "Chicago X",
         "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 235373,
       "name": "If You Leave Me Now",
       "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+    },
+    {
+      "added_at": "2022-07-04 19:21:16",
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
     },
     {
       "added_at": "2022-07-04 19:21:16",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2022-07-04 19:21:16",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp"
       },
       "artists": [
         {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
         }
       ],
-      "duration_ms": 221332,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
+      "duration_ms": 251066,
+      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq"
     }
   ],
   "unique_name": "Cocina de cl\u00e1sicos",

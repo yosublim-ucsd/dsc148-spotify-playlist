@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Doja Cat, New West, CRi, Arkells and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,191 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,223 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 22 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
 | 23 | [walk on wine](https://open.spotify.com/track/5wwGlGBFLmCqJIKOrPxBd8) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf), [Milkshakes In The Valley](https://open.spotify.com/artist/3AdVyuXU8TnsPXgAv68icd) | [walk on wine](https://open.spotify.com/album/5Y96Jp7V3uICafv2Kd1Piy) | 2:57 |
 | 24 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 |
-| 25 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:33 |
+| 25 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
 | 26 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 | 27 | [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 |
 | 28 | [This Beautiful Life](https://open.spotify.com/track/2ezz2WUsgs3ZwYn6VTPrYx) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [This Beautiful Life](https://open.spotify.com/album/4oP1IooqkgeGhJUusjnNm7) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Addiction](https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:29 |
 | 100 | [die a little less](https://open.spotify.com/track/4SSkNGqyT3NMoDBevo4aIC) | [Gwyn Love](https://open.spotify.com/artist/4o5ZquVPYCsS90FQYPkGzN), [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [die a little less](https://open.spotify.com/album/3v6Pl74V5UvjrVaVzQbnyD) | 2:22 |
 
-Snapshot ID: `MCxhMmY1Yjk2MDY5Njg5NGNhNjY5NTMwYzQwMTNhZjZhMTI4NDNiNGE0`
+Snapshot ID: `MCwxYzhiYjM5MDljNTA0ZGM1NGUxNDNmZjRjZWY4YWMzNDkwOTQ1MTg3`

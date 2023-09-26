@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels\. Cover: Babsy.
 
-261 songs - 14 hr 28 min
+262 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [La leçon particulière](https://open.spotify.com/track/3NWRapFZSlpHXO38LW21rw) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [La leçon particulière](https://open.spotify.com/album/0ZcIjW5V4jfAEAP2mcIJ5r) | 2:34 | 2023-08-03 |  |
 | [Lavendel](https://open.spotify.com/track/0lbjpK5PxeMycGZaZ1idNf) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:25 | 2023-06-08 |  |
 | [Leave The Water Still](https://open.spotify.com/track/7IiLsCv7fvoqnZ95NPfRsw) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Leave The Water Still](https://open.spotify.com/album/2rCUuPSpWfx1XUi0HApTjz) | 3:00 | 2023-08-03 |  |
-| [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/album/2SmDq2lOPO1ErprHSC1Cr7) | 2:50 | 2023-06-15 |  |
+| [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/album/2SmDq2lOPO1ErprHSC1Cr7) | 2:50 | 2023-06-15 | 2023-09-26 |
+| [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/track/6Q25Z9gsiXLOqcirOD5mrl) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Floor Plan 2.0](https://open.spotify.com/album/7eUfwcYbaAxfkSkZaZyktZ) | 2:50 | 2023-08-31 |  |
 | [Let Me Know Feat\. CLMD](https://open.spotify.com/track/0EJeElSggv9GanclAqmRN8) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Let Me Know Feat\. CLMD](https://open.spotify.com/album/6wYSmRineXwxLpxEEOq6vi) | 2:50 | 2023-06-15 | 2023-06-17 |
 | [let’s end it](https://open.spotify.com/track/52tlJzalr0InyauY1TGBfV) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8), [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [let's end it](https://open.spotify.com/album/7xTS4LeLQdd9NkIHAxQJjs) | 2:58 | 2023-09-07 |  |
 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 | 2023-06-08 |  |

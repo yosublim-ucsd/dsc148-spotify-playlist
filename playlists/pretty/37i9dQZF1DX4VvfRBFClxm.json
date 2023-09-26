@@ -1,12 +1,12 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Ed Sheeran",
-  "num_followers": 1477069,
+  "num_followers": 1477141,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWY2OGRjZGU1MDEzNmJiYzc2Yzk3ZGFkMGIwMmM5MjRjN2FiMWZj",
+  "snapshot_id": "MCw1YmVkYTNjZmQ0YjU2MDMxN2ZkZDZhYjM0ZTlmMjEzNzU1YmZkYzQ0",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "In A Perfect World (Expanded Edition)",
         "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "SYML",
+        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Where's My Love",
+      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "SYML",
-        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Where's My Love",
-      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 197178,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Wild Love (Acoustic)",
         "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 189146,
       "name": "Wild Love - Acoustic",
       "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 197178,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 285866,
+      "name": "Let It Go - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "A Few More Hours at YYZ",
         "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 249535,
       "name": "Grenade - Acoustic",
       "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 285866,
-      "name": "Let It Go - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "This Town",
-        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 179173,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "This Town",
+        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Wouldn't Come Back",
-        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Wouldn't Come Back",
-      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
@@ -1747,38 +1731,6 @@
       "duration_ms": 219466,
       "name": "Poison & Wine",
       "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "Chandelier - Piano Version",
-      "url": "https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "A Face Like Mine",
-        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1799,22 +1751,50 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Unbreakable Smile",
-        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
+        "name": "Wouldn't Come Back",
+        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
       "artists": [
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
         }
       ],
-      "duration_ms": 188946,
-      "name": "I Was Made For Loving You",
-      "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
+      "duration_ms": 219533,
+      "name": "Wouldn't Come Back",
+      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "A Face Like Mine",
+        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Chandelier - Piano Version",
+      "url": "https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1851,6 +1831,26 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Unbreakable Smile",
+        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "I Was Made For Loving You",
+      "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
     },
     {
       "added_at": "2023-09-01 04:00:00",

@@ -4,7 +4,7 @@
 
 > Smooth joints from around the globe\. Cover: Yussef Dayes
 
-139 songs - 9 hr 14 min
+140 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Good Hair Day \- Harvey Sutherland Remix](https://open.spotify.com/track/1iHtGA7VOlHET7JScO42vB) | [Simon Mavin](https://open.spotify.com/artist/7cLYKsKV8Xsyrn1cvszju4), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Good Hair Day \(Harvey Sutherland Remix\)](https://open.spotify.com/album/6Tzr0ct0zPtuUWU5tyFg0B) | 4:27 | 2023-08-10 | 2023-09-08 |
 | [Habibi](https://open.spotify.com/track/5jnbywCzkcLKBjUqVRiJpO) | [Horatio Luna](https://open.spotify.com/artist/2J1cLnr7Zips2B4hfMxdqk) | [Habibi](https://open.spotify.com/album/4WIZcuQmryKVoltVHn7alR) | 4:22 | 2023-08-10 | 2023-08-25 |
 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 | 2023-08-10 |  |
-| [I DM U](https://open.spotify.com/track/07oNLCkaprnGmx3edA3b1S) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [I DM U](https://open.spotify.com/album/5Xkm7MoWZZ8uh4aVaXuIyd) | 4:23 | 2023-09-14 |  |
+| [I DM U](https://open.spotify.com/track/07oNLCkaprnGmx3edA3b1S) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [I DM U](https://open.spotify.com/album/5Xkm7MoWZZ8uh4aVaXuIyd) | 4:23 | 2023-09-14 | 2023-09-26 |
+| [I DM U](https://open.spotify.com/track/5e0gYGMPLrsSUjSQONdjlF) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Gentle Confrontation](https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx) | 4:23 | 2023-09-25 |  |
 | [I Met God](https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [I Met God](https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6) | 4:22 | 2023-09-21 |  |
 | [I Need Therapy 2.4 \(alt\_demo\)](https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [I Need Therapy 2.4 \(alt\_demo\)](https://open.spotify.com/album/6YQvIFdk95oCIGcO4sCI05) | 2:06 | 2023-09-14 |  |
 | [I'm Scanning Things I Can't See](https://open.spotify.com/track/6PFMHtcCD9l1O7PVUvxRn5) | [Fievel Is Glauque](https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ) | [I'm Scanning Things I Can't See / Dark Dancing](https://open.spotify.com/album/0KwTL3GstzmHzXYVfVYpx9) | 2:28 | 2023-08-17 |  |

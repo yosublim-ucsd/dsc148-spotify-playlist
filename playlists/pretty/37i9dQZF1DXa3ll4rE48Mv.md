@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: The Oozes
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,821 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,007 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,16 +15,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 5 | [Sweet Cis Teen](https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S) | 4:29 |
 | 6 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
 | 7 | [Thrash Unreal](https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 4:14 |
-| 8 | [Bitchboy](https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Bitchboy](https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG) | 1:47 |
-| 9 | [I Fucked Yr Mom](https://open.spotify.com/track/70WFvp0yF9m1asIb60gKcj) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Juno Goes to the Big House](https://open.spotify.com/album/0bPiaza1NaQbzdg8s1CJOn) | 2:32 |
+| 8 | [I Fucked Yr Mom](https://open.spotify.com/track/70WFvp0yF9m1asIb60gKcj) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Juno Goes to the Big House](https://open.spotify.com/album/0bPiaza1NaQbzdg8s1CJOn) | 2:32 |
+| 9 | [Fences](https://open.spotify.com/track/5BzxNPsMQhrRnwNRKyMNXB) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Fences](https://open.spotify.com/album/64b3SlMzVbSWqcPTvBxWLW) | 3:58 |
 | 10 | [Help Me I'm Gay](https://open.spotify.com/track/2A8yiyOUJGDlaNVg4mSe3c) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Help Me I'm Gay](https://open.spotify.com/album/6uIFrLApG5BD5hWhcW4sum) | 2:22 |
-| 11 | [Fences](https://open.spotify.com/track/5BzxNPsMQhrRnwNRKyMNXB) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Fences](https://open.spotify.com/album/64b3SlMzVbSWqcPTvBxWLW) | 3:58 |
+| 11 | [Bitchboy](https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Bitchboy](https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG) | 1:47 |
 | 12 | [Standing In the Way of Control](https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW) | 4:16 |
 | 13 | [Damage](https://open.spotify.com/track/4wnQakFNePOBNxRDYqgeix) | [Fit For Rivals](https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV) | [Steady Damage](https://open.spotify.com/album/6Y1wY8wtyTz65k4hhfrPy2) | 3:07 |
 | 14 | [Hate Me \(Sometimes\)](https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:53 |
 | 15 | [Seashore](https://open.spotify.com/track/6kQ3W5LMxh6ftjEBssYgAd) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Feel Your Feelings Fool!](https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98) | 3:28 |
-| 16 | [Becky](https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Get Damaged](https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk) | 3:00 |
-| 17 | [The Rent](https://open.spotify.com/track/61aNP3upsNJMLRdWf8Mj5v) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [The Rent](https://open.spotify.com/album/7ctFtUf0RzsBUNzOIkl1kL) | 2:53 |
+| 16 | [The Rent](https://open.spotify.com/track/61aNP3upsNJMLRdWf8Mj5v) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [The Rent](https://open.spotify.com/album/7ctFtUf0RzsBUNzOIkl1kL) | 2:53 |
+| 17 | [Becky](https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Get Damaged](https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk) | 3:00 |
 | 18 | [Boys Wanna Be Her](https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/5CSak2h5F36n6QieudTObv) | 3:55 |
 | 19 | [Don't You Feel Amazing?](https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Don't You Feel Amazing?](https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3) | 3:45 |
 | 20 | [They / Them / Theirs](https://open.spotify.com/track/7BNTExktKvdHBU9yspah6H) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Imaginary Life](https://open.spotify.com/album/3uCYNGmkNe9udFYrzB373J) | 2:18 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 25 | [I Wanna Be Your Joey Ramone](https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 2:36 |
 | 26 | [Pigs Is Pigs](https://open.spotify.com/track/6wOfwjT2TowI9OJEnd07Yw) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Perfect](https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD) | 1:56 |
 | 27 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 |
-| 28 | [the kids aren't alright](https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:16 |
-| 29 | [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 |
-| 30 | [She's so Lovely](https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp) | [The Butchies](https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9) | [Make Yr Life](https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ) | 3:22 |
-| 31 | [SuperNatural Possession](https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh) | 2:04 |
+| 28 | [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 |
+| 29 | [She's so Lovely](https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp) | [The Butchies](https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9) | [Make Yr Life](https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ) | 3:22 |
+| 30 | [SuperNatural Possession](https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh) | 2:04 |
+| 31 | [the kids aren't alright](https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:16 |
 | 32 | [Bird in Space](https://open.spotify.com/track/4PYyyaASFb3gZ9Jh4zisiz) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A) | 4:51 |
 | 33 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
 | 34 | [G.L.O.S.S\. \(We're from the Future\)](https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f) | [G.L.O.S.S.](https://open.spotify.com/artist/2s4gtd98phMFZf7dMagxjU) | [Demo 2015](https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl) | 1:31 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 49 | [Fagetarian and Dyke](https://open.spotify.com/track/5tO8kFjt6vhHVAFzRxDaYK) | [Team Dresch](https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs) | [Personal Best](https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5) | 2:45 |
 | 50 | [Chickens](https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U) | [Forrest Flowers](https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8) | [Chickens](https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI) | 4:20 |
 | 51 | [Total 90](https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Total 90](https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj) | 2:43 |
-| 52 | [Brighter Days \(Are Before Us\)](https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Model Citizen](https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5) | 3:03 |
-| 53 | [Night in the Woods](https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5) | [Gender Chores](https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi) | [Night in the Woods](https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0) | 3:03 |
+| 52 | [Night in the Woods](https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5) | [Gender Chores](https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi) | [Night in the Woods](https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0) | 3:03 |
+| 53 | [Brighter Days \(Are Before Us\)](https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Model Citizen](https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5) | 3:03 |
 | 54 | [Baby, I Had an Abortion](https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Baby](https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx) | 3:12 |
 | 55 | [I Saw Jesus Hanging on a Basketball Hoop](https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 1:14 |
 | 56 | [Tinder Girl](https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Free Bleedin'](https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA) | 3:17 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 58 | [Blood](https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS) | [Butch Baby](https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr) | [Stoned Butch Blues](https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn) | 2:47 |
 | 59 | [Wrong Bathroom](https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS) | [Tribe 8](https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn) | [Snarkism](https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP) | 2:55 |
 | 60 | [They/Them](https://open.spotify.com/track/7BuZgwIl9cx2hk2fsVlVYu) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [They/Them](https://open.spotify.com/album/1OaojIxnExbR4O45XHJUIW) | 2:17 |
-| 61 | [Play the Field](https://open.spotify.com/track/5bLvqbeBT72cnJ53BQ3XHk) | [Partner](https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU) | [In Search of Lost Time](https://open.spotify.com/album/43q6kUOk6TRY9m343H9cLf) | 2:56 |
-| 62 | [CCCHOKEMEEE](https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A) | [Danny Denial](https://open.spotify.com/artist/6jzsOmxoZhStlS4jaJy95U) | [Fuck Danny Denial](https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR) | 3:25 |
+| 61 | [CCCHOKEMEEE](https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A) | [Danny Denial](https://open.spotify.com/artist/6jzsOmxoZhStlS4jaJy95U) | [Fuck Danny Denial](https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR) | 3:25 |
+| 62 | [Play the Field](https://open.spotify.com/track/5bLvqbeBT72cnJ53BQ3XHk) | [Partner](https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU) | [In Search of Lost Time](https://open.spotify.com/album/43q6kUOk6TRY9m343H9cLf) | 2:56 |
 | 63 | [This Is What We Look Like](https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q) | [Personal Best](https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64) | [Arnos Vale](https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5) | 3:43 |
 | 64 | [Sick Sad World](https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ) | [Nervus](https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv) | [Everything Dies](https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS) | 3:11 |
 | 65 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 79 | [Queer For You](https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa) | [The Degenerettes](https://open.spotify.com/artist/5aLqmIsEKz8r0bIaSRsf7z) | [Bad Girls Go to Hell](https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp) | 2:08 |
 | 80 | [Woodchuck](https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Egg on Face\. Foot in Mouth\. Wriggling Wriggling Wriggling.](https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC) | 2:33 |
 
-Snapshot ID: `MCwyMDQyZDE3MGY1ZjA0YzgzNmI4ZTU3Y2E4NTEwYjJhODExZDBkYmMz`
+Snapshot ID: `MCwyNThhMTkzOWY4NGE0ZDU4NzA0ZDY3NzM4MmNiODJhMDYwOGE3NzI5`

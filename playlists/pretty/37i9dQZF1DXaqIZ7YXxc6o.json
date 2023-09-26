@@ -1,12 +1,12 @@
 {
   "description": "Future Dance hits. Cover: BIG WETT",
-  "num_followers": 136486,
+  "num_followers": 136527,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTgxZWYwNTdjMDVjYjg3ZmZmNGQ1NWQ5NzNmZDAzODQxZmU4NjI2",
+  "snapshot_id": "MCxhNDM1MDJhNmM0NzQxZWI0MjQ1YzRjNzk5MDU4M2M5ZDc0NTQyYTJl",
   "tracks": [
     {
       "added_at": "2023-09-22 07:03:45",
@@ -152,16 +152,16 @@
       },
       "artists": [
         {
-          "name": "Dimatik",
-          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
-        },
-        {
           "name": "Hooligan Hefs",
           "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
         }
       ],
       "duration_ms": 181446,
-      "name": "And We (Official Remix)",
+      "name": "And We (NRG Official Remix)",
       "url": "https://open.spotify.com/track/57vSwos5T22v9sGqNWJuy7"
     },
     {

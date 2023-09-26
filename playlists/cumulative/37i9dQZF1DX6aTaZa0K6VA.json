@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Super mega hits! Foto: Doja Cat",
+  "description": "Super mega hits! Foto: Shakira",
   "name": "Pop Up",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
@@ -1541,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K"
+    },
+    {
+      "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
       },
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -2956,6 +2974,28 @@
       "duration_ms": 160714,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R"
+    },
+    {
+      "album": {
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Hips Don't Lie",
+      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
       "album": {

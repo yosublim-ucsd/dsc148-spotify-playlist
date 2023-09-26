@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Los Primos del Este
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,422 likes - 71 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,474 likes - 71 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 70 | [Días De Rose](https://open.spotify.com/track/3rof58ZLsWXv8qfu9HZy9i) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Días De Rose](https://open.spotify.com/album/2j9U19Dtq3yFmRGU2Xbnct) | 2:20 |
 | 71 | [Mi Vicio](https://open.spotify.com/track/7xJjhpSC30ssCEPHifmwvm) | [Giovanni Vázquez](https://open.spotify.com/artist/4uwo70JDuIt4LDWDUb1WlT) | [Mi Vicio](https://open.spotify.com/album/6fZ7mQT6IXHFj4ZWc7h8JS) | 3:09 |
 
-Snapshot ID: `MCwzZDk3NWI2YWI4NWJlMWMxNmU5ZTkzODJkOGU3MGIwZTRjZjljOTVk`
+Snapshot ID: `MCxmZTM0N2QyYTM1ZTgxM2MwZWRjZTU0ODJiYjRkNWI0NmFkNTYyZTZk`

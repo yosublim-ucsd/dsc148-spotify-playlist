@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl?si=qj9Lt2qKS2ewS5zi05IX1w">Kuami Eugene</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,063 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,144 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 49 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
 | 50 | [Apotheke](https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 4:34 |
 
-Snapshot ID: `MCxkODVkN2YyMzBmOTg4NTk3NjU0NDdlYWVmYzRhNDQzMjFkN2Y1Y2M5`
+Snapshot ID: `MCwwZjkyNTE5ZGQyYTc3MTliNjQxZGVkNGY2MmM5ZTJhZTMwYjhkZDI5`

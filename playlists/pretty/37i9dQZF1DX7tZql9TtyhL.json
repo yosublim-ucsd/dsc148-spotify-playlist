@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica de ayer, el party de hoy.",
-  "num_followers": 431360,
+  "num_followers": 431434,
   "original_name": "TBT Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzNjYzBhMjRlMWI0MDYyZTdkYWY2MjlkMDc4NzE1NGZmMjc1YmJk",
+  "snapshot_id": "MCwyYzA2ZTVlMzE2Y2MyYTkyZTQ4ZjhmOTcwY2NjYjI3ZjJiOGY4OGIw",
   "tracks": [
     {
       "added_at": "2022-08-05 16:22:41",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Eres M\u00eda",
-      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 307910,
       "name": "Sola (Remix)",
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Eres M\u00eda",
+      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "Mundial (Deluxe Version)",
+        "url": "https://open.spotify.com/album/45se0M80yOL4t9j3REDyEK"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/33a2zTGZocgU9XVDDILHM3"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "Prince Royce",
         "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
       },
@@ -443,6 +459,26 @@
       "duration_ms": 211453,
       "name": "Coraz\u00f3n Sin Cara",
       "url": "https://open.spotify.com/track/0u4N6w5lBw5xMrzJitRWUo"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 300579,
+      "name": "La Romana",
+      "url": "https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -483,22 +519,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Mundial (Deluxe Version)",
-        "url": "https://open.spotify.com/album/45se0M80yOL4t9j3REDyEK"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/33a2zTGZocgU9XVDDILHM3"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
@@ -519,26 +539,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 300579,
-      "name": "La Romana",
-      "url": "https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "F.A.M.E.",
         "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 230000,
       "name": "Felices los 4",
       "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "Soy el Mismo",
-        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Darte un Beso",
-      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -643,6 +627,22 @@
       "duration_ms": 222560,
       "name": "Reggaet\u00f3n Lento (Bailemos)",
       "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Soy el Mismo",
+        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
       },
@@ -907,42 +923,18 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "L\u00edderes",
-        "url": "https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae"
+        "name": "Olha A Explos\u00e3o",
+        "url": "https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 274946,
-      "name": "Algo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/2FqoR7diymD1Eh7cVb3DMg"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Flor P\u00e1lida",
-      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
+      "duration_ms": 162053,
+      "name": "Olha A Explos\u00e3o",
+      "url": "https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -967,18 +959,26 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Olha A Explos\u00e3o",
-        "url": "https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg"
+        "name": "L\u00edderes",
+        "url": "https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae"
       },
       "artists": [
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 162053,
-      "name": "Olha A Explos\u00e3o",
-      "url": "https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56"
+      "duration_ms": 274946,
+      "name": "Algo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/2FqoR7diymD1Eh7cVb3DMg"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1043,6 +1043,42 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "Don Omar Presents MTO2: New Generation",
+        "url": "https://open.spotify.com/album/7vyVMX83PJNulUZUgbKfuY"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "Dutty Love",
+      "url": "https://open.spotify.com/track/2oJH69cuNyWpCmZyTmvrEN"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Dura",
+        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Dura",
+      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -1071,26 +1107,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Don Omar Presents MTO2: New Generation",
-        "url": "https://open.spotify.com/album/7vyVMX83PJNulUZUgbKfuY"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "Dutty Love",
-      "url": "https://open.spotify.com/track/2oJH69cuNyWpCmZyTmvrEN"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 182600,
       "name": "Mala Fama",
       "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "Dura",
-        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Dura",
-      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1139,22 +1139,6 @@
       "duration_ms": 143291,
       "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
       "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "La Familia B Sides",
-        "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "Ay Vamos",
-      "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+        "name": "La Familia B Sides",
+        "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 219506,
-      "name": "El Amante",
-      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
+      "duration_ms": 226413,
+      "name": "Ay Vamos",
+      "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1263,6 +1247,22 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "El Amante",
+      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Valiente",
-        "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 217653,
-      "name": "No Me Acuerdo",
-      "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "Bola Rebola",
         "url": "https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 219786,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/2QSuNcQxqFfokvbS7SInHG"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 217653,
+      "name": "No Me Acuerdo",
+      "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Sin Culpa (feat. DrefQuila)",
-        "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 244771,
-      "name": "Sin Culpa (feat.DrefQuila)",
-      "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "Visionary",
         "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
       },
@@ -1815,26 +1795,22 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Vai Embrazando",
-        "url": "https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q"
+        "name": "Sin Culpa (feat. DrefQuila)",
+        "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
       },
       "artists": [
         {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         },
         {
-          "name": "MC Vigary",
-          "url": "https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe"
-        },
-        {
-          "name": "DJ Yuri Martins",
-          "url": "https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9"
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
         }
       ],
-      "duration_ms": 166060,
-      "name": "Vai Embrazando",
-      "url": "https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC"
+      "duration_ms": 244771,
+      "name": "Sin Culpa (feat.DrefQuila)",
+      "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1867,6 +1843,30 @@
       "duration_ms": 144992,
       "name": "Loquita",
       "url": "https://open.spotify.com/track/2xjcDF21U2ccgE2LEeiMbf"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Vai Embrazando",
+        "url": "https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q"
+      },
+      "artists": [
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        },
+        {
+          "name": "MC Vigary",
+          "url": "https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe"
+        },
+        {
+          "name": "DJ Yuri Martins",
+          "url": "https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9"
+        }
+      ],
+      "duration_ms": 166060,
+      "name": "Vai Embrazando",
+      "url": "https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC"
     },
     {
       "added_at": "2022-08-05 16:22:41",

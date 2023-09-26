@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: CRi",
-  "num_followers": 866203,
+  "num_followers": 866247,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmRjOGYyYzBlMDdmNDA3YmUyYTk2MzgyNjBhYWZlNWJjNTIyNWZk",
+  "snapshot_id": "MCxkMTMwOWZjYTJjOGFlZDhkYTJlOTBhNTUwYTc4NDJlZjgwYjFiYzEy",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Blackoak",
         "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
       },
@@ -563,22 +547,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1KT4zt8tTkUTQlUWJKLjQW"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "VAN GOGH",
         "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
       },
@@ -591,6 +559,22 @@
       "duration_ms": 197080,
       "name": "VAN GOGH",
       "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1KT4zt8tTkUTQlUWJKLjQW"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -829,6 +813,30 @@
       "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Summer of Luv (feat. Unknown Mortal Orchestra) [Bakermat Remix]",
+        "url": "https://open.spotify.com/album/1PoyQK1c3DiDe0TeNz21z0"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Summer of Luv (feat. Unknown Mortal Orchestra) - Bakermat Remix",
+      "url": "https://open.spotify.com/track/2i7dmjiBBXxJEBwTg0XO4o"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "Winter Solstice (Braxe + Falcon Remix)",
@@ -895,30 +903,6 @@
       "duration_ms": 172319,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Summer of Luv (feat. Unknown Mortal Orchestra) [Bakermat Remix]",
-        "url": "https://open.spotify.com/album/1PoyQK1c3DiDe0TeNz21z0"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Summer of Luv (feat. Unknown Mortal Orchestra) - Bakermat Remix",
-      "url": "https://open.spotify.com/track/2i7dmjiBBXxJEBwTg0XO4o"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1017,6 +1001,22 @@
       "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
     },
     {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/0d8gBiY0neOTYJmbd8Muw6"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Standing My Ground",
+      "url": "https://open.spotify.com/track/6zNm2BIV6gbsRRG0jwQA2d"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "OFF+ON",
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/0d8gBiY0neOTYJmbd8Muw6"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Standing My Ground",
-      "url": "https://open.spotify.com/track/6zNm2BIV6gbsRRG0jwQA2d"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Back To Life",
         "url": "https://open.spotify.com/album/7aJdFN1wN5WTF9kP0tJQVz"
       },
@@ -1103,6 +1071,22 @@
       "duration_ms": 253200,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/3HqPsN2UyQAn4QxMJKbs1w"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1163,22 +1147,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "You Don't Ignore (Too Late)",
-        "url": "https://open.spotify.com/album/5zzxMokPf1XRxfM1n6NnFB"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "You Don't Ignore (Too Late)",
-      "url": "https://open.spotify.com/track/2uWCpK3UYOCF4lDcE36XHM"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Differences",
         "url": "https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy"
       },
@@ -1195,6 +1163,22 @@
       "duration_ms": 140806,
       "name": "Differences",
       "url": "https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "You Don't Ignore (Too Late)",
+        "url": "https://open.spotify.com/album/5zzxMokPf1XRxfM1n6NnFB"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "You Don't Ignore (Too Late)",
+      "url": "https://open.spotify.com/track/2uWCpK3UYOCF4lDcE36XHM"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1273,22 +1257,6 @@
       "url": "https://open.spotify.com/track/2GqjQzjkjdyRm4IER4rP9a"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "How To Fly On The Ground",
-        "url": "https://open.spotify.com/album/57UvRKHtmVsruKLf9MN1S2"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "This Way",
-      "url": "https://open.spotify.com/track/4ZJXvZJ4W6L6Xm9uscpALi"
-    },
-    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "Aching (On A High)",
@@ -1307,6 +1275,22 @@
       "duration_ms": 219761,
       "name": "Aching (On A High)",
       "url": "https://open.spotify.com/track/0nLo87MKJJUumGJqNAHACx"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "How To Fly On The Ground",
+        "url": "https://open.spotify.com/album/57UvRKHtmVsruKLf9MN1S2"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "This Way",
+      "url": "https://open.spotify.com/track/4ZJXvZJ4W6L6Xm9uscpALi"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1361,6 +1345,26 @@
       "url": "https://open.spotify.com/track/74KoMmEZUjg01KyqNlrr5E"
     },
     {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Show Me The Money (with Tkay Maidza)",
+        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "Show Me The Money (with Tkay Maidza)",
+      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "The Mall",
@@ -1399,26 +1403,6 @@
       "duration_ms": 226908,
       "name": "Dummy \u2013 Chrome Sparks Remix",
       "url": "https://open.spotify.com/track/3VsuqAQ7XXKsygtCGyPzO1"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Show Me The Money (with Tkay Maidza)",
-        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "Show Me The Money (with Tkay Maidza)",
-      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1569,22 +1553,6 @@
       "url": "https://open.spotify.com/track/2vHCoBojKudmRjFUnPsKys"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Time To Run",
-        "url": "https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Time To Run",
-      "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
-    },
-    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "lovergirl (veggi remix)",
@@ -1607,6 +1575,22 @@
       "duration_ms": 172004,
       "name": "lovergirl - veggi remix",
       "url": "https://open.spotify.com/track/0t0FRj21IhRtgxbV5BNf1b"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Time To Run",
+        "url": "https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Time To Run",
+      "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1667,26 +1651,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "turn it all the way up",
-        "url": "https://open.spotify.com/album/5TGDbBxkgpfVtjZF6FTyUX"
-      },
-      "artists": [
-        {
-          "name": "jungle bobby",
-          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
-        },
-        {
-          "name": "lentra",
-          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
-        }
-      ],
-      "duration_ms": 156097,
-      "name": "turn it all the way up",
-      "url": "https://open.spotify.com/track/40FhKFG0SIUpxE7doxifpZ"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "hollatchu",
         "url": "https://open.spotify.com/album/6v2Carq39870pglhzZeHqx"
       },
@@ -1707,6 +1671,26 @@
       "duration_ms": 242711,
       "name": "hollatchu",
       "url": "https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "turn it all the way up",
+        "url": "https://open.spotify.com/album/5TGDbBxkgpfVtjZF6FTyUX"
+      },
+      "artists": [
+        {
+          "name": "jungle bobby",
+          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
+        },
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "duration_ms": 156097,
+      "name": "turn it all the way up",
+      "url": "https://open.spotify.com/track/40FhKFG0SIUpxE7doxifpZ"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1739,22 +1723,6 @@
       "duration_ms": 231316,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Soy Gitano EP",
-        "url": "https://open.spotify.com/album/5pB761K03E09m3aZz9YFOM"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 204848,
-      "name": "Our Way",
-      "url": "https://open.spotify.com/track/0CdNOaZUy8JAbx7cuDoks1"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1799,6 +1767,22 @@
       "duration_ms": 277865,
       "name": "Sirens (feat. Caroline Polachek) [Tourist Remix]",
       "url": "https://open.spotify.com/track/6OoLVkHNPsKuPdOBAkhg4r"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Soy Gitano EP",
+        "url": "https://open.spotify.com/album/5pB761K03E09m3aZz9YFOM"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 204848,
+      "name": "Our Way",
+      "url": "https://open.spotify.com/track/0CdNOaZUy8JAbx7cuDoks1"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1851,6 +1835,26 @@
       "duration_ms": 185400,
       "name": "Love In C Minor - Franc Moody Remix",
       "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "RISE (Darius Remix)",
+        "url": "https://open.spotify.com/album/11H0eAX1PYOz4XENIBHmRL"
+      },
+      "artists": [
+        {
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 451034,
+      "name": "RISE - Darius Remix",
+      "url": "https://open.spotify.com/track/0zyDQF49c8BZObY8Figpew"
     }
   ],
   "unique_name": "metropolis",

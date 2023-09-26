@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Brent Cobb
 
-424 songs - 1 day 2 hr 3 min
+425 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [It Must Be Someone Else’s Fault](https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 3:18 | 2021-11-12 |  |
 | [It's a good day \(to fight the system\)](https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I \(motsi\)](https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G) | 3:17 | 2021-11-12 |  |
 | [Joy'All](https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:44 | 2023-06-09 |  |
+| [Judy](https://open.spotify.com/track/0bLoEqjAAzozfFOiBBRxUw) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L), [Kim Harris](https://open.spotify.com/artist/4Z4L0pVDUIQuI48pBKlij6) | [Champagne Problems](https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz) | 3:21 | 2023-09-22 |  |
 | [Just For Love](https://open.spotify.com/track/2246ZUM5h7YS1Lz9AokksS) | [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Dixie Blur](https://open.spotify.com/album/2J7ySwyyvdBeP8EcNYrgZv) | 3:15 | 2021-11-12 | 2022-07-21 |
 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/3XnpvaKBaEhdzDbLdIhcKs) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/60XvBfx16DrRu5GKrH4E5E) | 2:53 | 2021-11-12 | 2022-07-29 |
 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 | 2022-07-11 | 2023-05-09 |
@@ -271,7 +272,7 @@
 | [Nothing Is Real](https://open.spotify.com/track/6D0QkwvPIe6hz1Twvnu2Ae) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 2:44 | 2021-11-12 | 2022-01-18 |
 | [Now is the Time](https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 3:35 | 2022-09-16 |  |
 | [Now is the Time](https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Now is the Time](https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4) | 3:35 | 2021-11-12 | 2022-10-04 |
-| [Nun](https://open.spotify.com/track/2cDNCAsL794kS4lRg3Bpvl) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Nun](https://open.spotify.com/album/7j1ejF21Qf7iyg9KJztFnF) | 3:28 | 2023-09-01 |  |
+| [Nun](https://open.spotify.com/track/2cDNCAsL794kS4lRg3Bpvl) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Nun](https://open.spotify.com/album/7j1ejF21Qf7iyg9KJztFnF) | 3:28 | 2023-09-01 | 2023-09-26 |
 | [Old Black Magic](https://open.spotify.com/track/2101msXT4EW6S1QWDMqFA5) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Old Black Magic](https://open.spotify.com/album/4fBlyjkl18CQinati1cdsv) | 4:46 | 2021-11-12 | 2022-04-21 |
 | [Old Black Magic](https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Fever Breaks](https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS) | 4:46 | 2022-07-11 |  |
 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 | 2021-11-12 |  |

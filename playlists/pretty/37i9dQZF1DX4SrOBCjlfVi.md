@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Doja Cat, Moneybagg Yo and more\. Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,961 likes - 51 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,211 likes - 51 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 |
-| 2 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
-| 3 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:33 |
+| 1 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
+| 2 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
+| 3 | [Gun](https://open.spotify.com/track/15sNe8FD178zMsVz6ug0AS) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:56 |
 | 4 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 |
 | 5 | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl) | 2:41 |
 | 6 | [Pacer](https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Pacer](https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm) | 2:56 |
 | 7 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 |
-| 8 | [Gun](https://open.spotify.com/track/15sNe8FD178zMsVz6ug0AS) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:56 |
+| 8 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 |
 | 9 | [Ochoa](https://open.spotify.com/track/5hmKP4aC7jSNXYD6Suoq4y) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Catch Me If You Can](https://open.spotify.com/album/4l2DlHC3hnZlhpu7SxGYUR) | 2:19 |
 | 10 | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/album/04jIgr8btAumWJzTRIhrxl) | 1:50 |
 | 11 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 |
 | 51 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj) | 3:37 |
 
-Snapshot ID: `MCxmMzI5N2QyZTEzNmYzMjI2Njk0YjEzY2MwMTA0M2MyMGM4MWZiZjhh`
+Snapshot ID: `MCw4MTEwZmU3NDFhZDZjNDBlNWM4MDI3MjBkNWIxNjA2NWRiMTE3ZTAx`

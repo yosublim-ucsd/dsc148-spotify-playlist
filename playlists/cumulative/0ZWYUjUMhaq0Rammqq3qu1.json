@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 137250,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/0FpqoxLdZcP4FmTeypWBn3"
@@ -1012,6 +1012,28 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "album": {
+        "name": "Come To Me",
+        "url": "https://open.spotify.com/album/6CBguKwAueet7ftDs2m9cq"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "\u00c4TNA",
+          "url": "https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153303,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/1otEy9kQnCyhQa1qvl7KoM"
     },
     {
       "album": {
@@ -3679,6 +3701,28 @@
     },
     {
       "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196821,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
+    },
+    {
+      "album": {
         "name": "Perfect Melody",
         "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
       },
@@ -3848,7 +3892,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 165714,
       "name": "Promise You",
       "url": "https://open.spotify.com/track/0gw7l4VVk82MCXoI1i3e8t"
@@ -4162,7 +4206,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3EUCz8zsdU6mD6Pc2Frr8n"

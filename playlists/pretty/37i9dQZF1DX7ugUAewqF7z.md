@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,698 likes - 101 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,773 likes - 101 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 27 | [hope you stay](https://open.spotify.com/track/2P0rwx1GoRmoNVXKtVJkgr) | [WOOBIN](https://open.spotify.com/artist/6f30L8Kfp6eCfXSks9cTgY) | [Romance by Romance \(Original Television Soundtrack\)](https://open.spotify.com/album/4f3sJgDZOL90O6iXc1xTaO) | 3:41 |
 | 28 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 |
 | 29 | [Signal](https://open.spotify.com/track/15rX80MpEJ2OqW3dPunQvI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SIGNAL](https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf) | 3:16 |
-| 30 | [Galaxy 우주를 줄게](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
+| 30 | [Galaxy](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
 | 31 | [CROOKED](https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [COUP D'ETAT](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) | 3:44 |
 | 32 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 |
 | 33 | [너 때문에 미쳐](https://open.spotify.com/track/5vCXnSlbAEkuJ3w2O0ALan) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Breaking Heart](https://open.spotify.com/album/7C3YPRZQVhmE7TStRdXshF) | 3:14 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 100 | [Why Not?](https://open.spotify.com/track/7zdzUXDmFWX2fU0lRRjwBS) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Why Not?](https://open.spotify.com/album/5BPXrF9UC8cckWFWNMcdO6) | 3:28 |
 | 101 | [Beginning of Love](https://open.spotify.com/track/1X4dEyCWKnHS6cMA1n02n7) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [As A Man Rather Than A Friend](https://open.spotify.com/album/1jnSwvqHYKcsx57mOxXt25) | 3:28 |
 
-Snapshot ID: `MCxjZDNmZTQ4NTQzOWYyMWQzMjg0ZDE2ZThkMWU1NGM1NGFkMmIwYmU2`
+Snapshot ID: `MCw0MWMwMWI2YTMxZGU4ZjU3MjM3NDVmMjllNTM2YzYyNmEyYWUxYjZh`

@@ -902,7 +902,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 151000,
       "name": "autumn breeze",
       "url": "https://open.spotify.com/track/04SMi5SXZhiEg18r4q8sHN"
@@ -3030,7 +3030,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 188500,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq"
@@ -3394,7 +3394,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 131666,
       "name": "Evensong",
       "url": "https://open.spotify.com/track/4b3x8mk3a6N9ccMIMdGLy1"
@@ -4168,7 +4168,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 139124,
       "name": "Fr\u00fchlingsmorgen",
       "url": "https://open.spotify.com/track/4DS4TRvAEwnpi5A1Qm2oCb"
@@ -5202,7 +5202,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 166320,
       "name": "In The End",
       "url": "https://open.spotify.com/track/23FvAAvnx3NzbTmMiod5nf"
@@ -5274,7 +5274,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 163916,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
@@ -8256,6 +8256,24 @@
       "duration_ms": 144576,
       "name": "Pour toujours",
       "url": "https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO"
+    },
+    {
+      "album": {
+        "name": "Poussi\u00e8re",
+        "url": "https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6"
+      },
+      "artists": [
+        {
+          "name": "Anne Vallayer",
+          "url": "https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132378,
+      "name": "Poussi\u00e8re",
+      "url": "https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se"
     },
     {
       "album": {
@@ -11608,6 +11626,24 @@
       "duration_ms": 146430,
       "name": "Unchanged",
       "url": "https://open.spotify.com/track/0q4JUAatgC3sES0zcFc38T"
+    },
+    {
+      "album": {
+        "name": "Under a tree",
+        "url": "https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn"
+      },
+      "artists": [
+        {
+          "name": "Janet Redger",
+          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138442,
+      "name": "Under a tree",
+      "url": "https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm"
     },
     {
       "album": {

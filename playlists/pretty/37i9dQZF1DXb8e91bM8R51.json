@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 44267,
+  "num_followers": 44352,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTFkMjQ1ODk0MDhjZTM3NzkzYWI0MWFhN2FiM2FhNjZiYWE2MjJi",
+  "snapshot_id": "MCxiMjBkNzBlNWU0MmQ2ZDg0M2YwYWUxZTNlMmQxNjM4YmQ3YWI0MTcy",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -247,6 +231,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -283,26 +299,6 @@
       "duration_ms": 161041,
       "name": "DOGTOOTH",
       "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "RIOT (Rowdy Pipe'n)",
-        "url": "https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 189011,
-      "name": "RIOT (Rowdy Pipe'n)",
-      "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -323,18 +319,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+        "name": "RIOT (Rowdy Pipe'n)",
+        "url": "https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+      "duration_ms": 189011,
+      "name": "RIOT (Rowdy Pipe'n)",
+      "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -399,6 +399,22 @@
       "duration_ms": 156306,
       "name": "FAN",
       "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Balut",
+        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 207507,
+      "name": "Balut",
+      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -479,22 +495,6 @@
       "duration_ms": 216135,
       "name": "Cash In Cash Out",
       "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Balut",
-        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 207507,
-      "name": "Balut",
-      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Grinding All My Life",
-      "url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "From The D 2 The LBC (with Snoop Dogg)",
         "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 215120,
       "name": "From The D 2 The LBC (with Snoop Dogg)",
       "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Grinding All My Life",
+      "url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Tyler Herro",
+        "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 156497,
+      "name": "Tyler Herro",
+      "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Tommy Lee (feat. Post Malone)",
         "url": "https://open.spotify.com/album/2PFiZ23ZyPTcgwmXk4X6o0"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 224638,
       "name": "Tommy Lee (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Tyler Herro",
-        "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 156497,
-      "name": "Tyler Herro",
-      "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "We Set The Trends",
-        "url": "https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq"
-      },
-      "artists": [
-        {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 220043,
-      "name": "We Set The Trends",
-      "url": "https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Flatline",
         "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 240080,
       "name": "Flatline (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "We Set The Trends",
+        "url": "https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 220043,
+      "name": "We Set The Trends",
+      "url": "https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Sremm 4 Life",
-        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 240967,
-      "name": "Torpedo",
-      "url": "https://open.spotify.com/track/3hT2zPRGkrL9wutPeZtvKQ"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
       },
@@ -1691,6 +1675,38 @@
       "duration_ms": 178041,
       "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
       "url": "https://open.spotify.com/track/3wJdRtq7bgSvO85aTn4qpq"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Sremm 4 Life",
+        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 240967,
+      "name": "Torpedo",
+      "url": "https://open.spotify.com/track/3hT2zPRGkrL9wutPeZtvKQ"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1763,22 +1779,6 @@
       "duration_ms": 214434,
       "name": "EPMD 2 (feat. Eminem & EPMD)",
       "url": "https://open.spotify.com/track/4bRPecD9suGW8CfNZhzjS1"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "King's Disease III",
-        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 167724,
-      "name": "Michael & Quincy",
-      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Denial",
         "url": "https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc"
       },
@@ -1959,6 +1943,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Rice N Gravy - A COLORS SHOW",
         "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
       },
@@ -1971,6 +1971,30 @@
       "duration_ms": 159733,
       "name": "Rice N Gravy - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "SOUTHEND LEGEND",
+        "url": "https://open.spotify.com/album/6Vgj49lQTXVfMCLaRiew7A"
+      },
+      "artists": [
+        {
+          "name": "KingTrey",
+          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "femdot.",
+          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
+        }
+      ],
+      "duration_ms": 241582,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5KSffXZ5exiUZabwpXwrj7"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -2015,30 +2039,6 @@
       "duration_ms": 153264,
       "name": "Crocadillaz (feat. De La Soul and Dawn Penn)",
       "url": "https://open.spotify.com/track/07bE8BmqXXMGUiAHcZwl2q"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "SOUTHEND LEGEND",
-        "url": "https://open.spotify.com/album/6Vgj49lQTXVfMCLaRiew7A"
-      },
-      "artists": [
-        {
-          "name": "KingTrey",
-          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "femdot.",
-          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
-        }
-      ],
-      "duration_ms": 241582,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5KSffXZ5exiUZabwpXwrj7"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Zipcodes",
+      "url": "https://open.spotify.com/track/2S3PBAzoPAxnmdOtdEuaLW"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "USEE4YOURSELF",
         "url": "https://open.spotify.com/album/1aOVW07qHIiMe3f3HKXo8r"
       },
@@ -2239,6 +2255,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Stakes Is High",
+        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 330408,
+      "name": "Stakes Is High",
+      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
         "url": "https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY"
       },
@@ -2259,38 +2291,6 @@
       "duration_ms": 289826,
       "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
       "url": "https://open.spotify.com/track/6rdKv5xmdOs3zsg6mpBK53"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Zipcodes",
-      "url": "https://open.spotify.com/track/2S3PBAzoPAxnmdOtdEuaLW"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Stakes Is High",
-        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 330408,
-      "name": "Stakes Is High",
-      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
     },
     {
       "added_at": "2023-09-15 03:01:00",

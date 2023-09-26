@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Doja Cat \(pictured\), Nasty C, Drake, FLVME, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,828 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,886 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 4 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 |
 | 5 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 |
 | 6 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
-| 7 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:33 |
+| 7 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34) | 2:31 |
 | 8 | [018](https://open.spotify.com/track/5UW0G8L04TboUR2yzPNr5K) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Solomon](https://open.spotify.com/album/3Yx3a2caBpL5Id5c6hkaru) | 3:15 |
 | 9 | [Sosh Plata \- Remix](https://open.spotify.com/track/3x3aen8g82ZErdMyGBuHNN) | [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Thapelo Ghutra](https://open.spotify.com/artist/1KOyVpsHg06svISF8XgSbi) | [Sosh Plata](https://open.spotify.com/album/3pvgrTHdJ0tA8hLJOvuIQm) | 3:58 |
 | 10 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 49 | [MOP](https://open.spotify.com/track/6vKzxT4FXGHECZEw3tIIge) | [Squeeks](https://open.spotify.com/artist/52jwaLGrYTCFAEwDW0rI52), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [MOP](https://open.spotify.com/album/5KZLDvg135ffnDcl6IRaja) | 3:32 |
 | 50 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 |
 
-Snapshot ID: `MCxjOWY2NTQ0NWFiODM1YThmZjI5MmE5NmVjNGY3MThkYjA4MTU2ZDAw`
+Snapshot ID: `MCxjODkzMzMxMmM4NDAyOWQ1YWYzMzdiMTZkNzc1YjdhZDNmMTI2OTI3`

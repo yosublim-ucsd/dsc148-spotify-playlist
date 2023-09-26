@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Tina Turner",
-  "num_followers": 1148175,
+  "num_followers": 1148305,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjBmODU2ZGU0MDhiN2NjOTk2ZWU5NDM2ZTI5ZGI1YWZjMDQ2OGNk",
+  "snapshot_id": "MCxhMDk4Yzg3YmIwZjJhMTk0NGI0ZDVhOWJmM2UxN2IyYmU4Y2E5NzFl",
   "tracks": [
     {
       "added_at": "2023-05-24 19:29:38",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Skid Row",
         "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
       },
@@ -411,6 +395,22 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
         "name": "No More Tears (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 251866,
       "name": "Mama, I'm Coming Home",
       "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 508333,
-      "name": "Paradise By the Dashboard Light",
-      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -459,34 +443,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Straight Shooter",
-        "url": "https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO"
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
       },
       "artists": [
         {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
         }
       ],
-      "duration_ms": 313840,
-      "name": "Feel like Makin' Love - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 288933,
-      "name": "Never Say Goodbye",
-      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
+      "duration_ms": 508333,
+      "name": "Paradise By the Dashboard Light",
+      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -503,6 +471,38 @@
       "duration_ms": 313693,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Straight Shooter",
+        "url": "https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Feel like Makin' Love - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 267080,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+      "duration_ms": 288933,
+      "name": "Never Say Goodbye",
+      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Bad English",
-        "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
-      },
-      "artists": [
-        {
-          "name": "Bad English",
-          "url": "https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "When I See You Smile",
-      "url": "https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Bump Ahead [Expanded]",
         "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 208560,
       "name": "Wild World - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Bad English",
+        "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
+      },
+      "artists": [
+        {
+          "name": "Bad English",
+          "url": "https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "When I See You Smile",
+      "url": "https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Firehouse",
-        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
-      },
-      "artists": [
-        {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Love of a Lifetime",
-      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Dirty Rotten Filthy Stinking Rich",
         "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
       },
@@ -855,6 +839,38 @@
       "duration_ms": 236866,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Don't Know What You Got (Till It's Gone)",
+      "url": "https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Firehouse",
+        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
+      },
+      "artists": [
+        {
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Love of a Lifetime",
+      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -875,22 +891,6 @@
       "duration_ms": 283133,
       "name": "Close My Eyes Forever",
       "url": "https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Don't Know What You Got (Till It's Gone)",
-      "url": "https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -959,8 +959,8 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
       "artists": [
         {
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
         }
       ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+      "duration_ms": 265160,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Firehouse",
         "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 304693,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Vital Signs",
-        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "The Search Is Over",
-      "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Dr. Feelgood (Deluxe Version)",
         "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 270186,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "The Search Is Over",
+      "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "I Can't Hold Back",
+      "url": "https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
         "name": "Wings Of Tomorrow",
         "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 326826,
       "name": "Til Death Do Us Part",
       "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
-        "name": "Vital Signs",
-        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "I Can't Hold Back",
-      "url": "https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 295066,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Psychotic Supper",
         "url": "https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY"
       },
@@ -1487,22 +1471,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Boogie Nights / Music From The Original Motion Picture",
-        "url": "https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U"
-      },
-      "artists": [
-        {
-          "name": "Night Ranger",
-          "url": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
-        }
-      ],
-      "duration_ms": 300066,
-      "name": "Sister Christian",
-      "url": "https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "W.A.S.P.",
         "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
       },
@@ -1515,6 +1483,38 @@
       "duration_ms": 235893,
       "name": "Sleeping (In The Fire)",
       "url": "https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 295066,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Boogie Nights / Music From The Original Motion Picture",
+        "url": "https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U"
+      },
+      "artists": [
+        {
+          "name": "Night Ranger",
+          "url": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
+        }
+      ],
+      "duration_ms": 300066,
+      "name": "Sister Christian",
+      "url": "https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG"
     },
     {
       "added_at": "2023-05-24 19:29:38",

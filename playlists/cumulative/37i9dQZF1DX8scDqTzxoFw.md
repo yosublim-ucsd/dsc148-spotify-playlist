@@ -4,7 +4,7 @@
 
 > Watch the kids go wild for these party tunes!
 
-175 songs - 9 hr 26 min
+176 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Dance To The Music \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5PB5GPADqc74DvB6vxhD3I) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Dance To The Music \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/1dAzt59wZ2lkkJNgecsO1a) | 2:43 | 2022-07-05 |  |
 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2021-10-08 |  |
 | [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2zy9TMoZlYGuCNY4TLqG24) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [7](https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit) | 3:03 | 2021-10-08 | 2022-07-29 |
-| [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/4uZBBwJwTJeL3Swlk2ufLr) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [7](https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt) | 3:04 | 2022-07-05 |  |
+| [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2M3g1eQZvnmsi8iMESZYY9) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [7: Anniversary Edition](https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7) | 3:04 | 2023-05-12 |  |
+| [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/4uZBBwJwTJeL3Swlk2ufLr) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [7](https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt) | 3:04 | 2022-07-05 | 2023-09-26 |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2021-10-08 |  |
 | [Don't Wanna Know](https://open.spotify.com/track/2jnQwhY8Xa6voNfQKaEzGq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Best Of 2017](https://open.spotify.com/album/197YY02cK93Yjrtpa1FrMY) | 3:34 | 2022-10-14 | 2022-11-13 |
 | [Don't Wanna Know \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/1nueTG77MzNkJTKQ0ZdGzT) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:34 | 2022-07-05 |  |

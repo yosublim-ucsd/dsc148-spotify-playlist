@@ -4,7 +4,7 @@
 
 > Les hits du moment sont ici\. Cover : Lartiste
 
-213 songs - 11 hr 43 min
+214 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 | 2023-02-18 | 2023-07-28 |
 | [Ma colombe \- Moroccan Remix](https://open.spotify.com/track/1MbHeoSYFMKzkbybU9FQtF) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Ma colombe \(Moroccan Remix\)](https://open.spotify.com/album/3Wrj1ika3KdChgr8UZFN09) | 3:09 | 2022-05-19 | 2023-01-18 |
 | [Ma Jolie](https://open.spotify.com/track/7pktxOiANdgQnzJmp7vwON) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:24 | 2022-06-02 | 2023-03-04 |
+| [Ma muse](https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ma muse / Je t'haine](https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H) | 2:58 | 2023-09-25 |  |
 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 | 2022-05-12 | 2023-01-19 |
 | [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 | 2022-07-26 | 2023-06-16 |
 | [Magic](https://open.spotify.com/track/7ckHoMRErhCP9QMqGRPnLv) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/7A52XPHtuD0dvuwMzV52qN) | 3:04 | 2022-05-12 | 2022-07-29 |
@@ -175,7 +176,7 @@
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2022-05-12 | 2022-08-12 |
 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-08-14 |  |
 | [SHADOW BOXING](https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:47 | 2023-03-25 |  |
-| [SI TE LLAMO](https://open.spotify.com/track/7LU9PXeRUwL026TqdVmOwF) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/5fTUdCEbXnb9uv0XCadNvo) | 3:27 | 2023-09-23 |  |
+| [SI TE LLAMO](https://open.spotify.com/track/7LU9PXeRUwL026TqdVmOwF) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/5fTUdCEbXnb9uv0XCadNvo) | 3:27 | 2023-09-23 | 2023-09-26 |
 | [Sid Lghram](https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Sid Lghram](https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6) | 3:56 | 2023-01-01 | 2023-02-01 |
 | [Silhouette](https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Silhouette](https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs) | 4:25 | 2022-11-18 | 2023-07-08 |
 | [Son Style](https://open.spotify.com/track/4UY9CCwEvBplRAM2p6gSGk) | [GIHED](https://open.spotify.com/artist/68hskyqiGo9g5pTObISiBj) | [Son Style](https://open.spotify.com/album/7sctJwnx2aH1WiiWqid10U) | 2:11 | 2023-08-03 |  |

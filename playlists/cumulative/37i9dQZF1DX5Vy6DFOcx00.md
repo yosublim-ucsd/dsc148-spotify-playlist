@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,139 songs - 2 day 13 hr 5 min
+1,142 songs - 2 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 | 2022-01-09 | 2022-02-13 |
 | [AMERICA HAS A PROBLEM](https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:18 | 2023-02-08 | 2023-06-16 |
 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 | 2023-08-11 |  |
+| [Amour plastique](https://open.spotify.com/track/0HDO6JFfplYPrSWuufUosZ) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Euphories](https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg) | 3:47 | 2023-09-25 |  |
 | [anatomy](https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [anatomy](https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg) | 3:02 | 2023-07-26 | 2023-09-09 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-04-03 | 2022-05-07 |
 | [Angel Baby \- Slowed](https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Angel Baby \(Slowed\)](https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w) | 4:22 | 2022-05-06 | 2022-05-19 |
@@ -138,6 +139,7 @@
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-03-02 | 2022-05-21 |
 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 | 2023-02-13 | 2023-07-11 |
 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2022-07-14 | 2022-10-21 |
+| [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-25 |  |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-06-13 | 2023-07-21 |
 | [Bleed](https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Bleed](https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq) | 2:25 | 2022-11-30 | 2022-12-16 |
 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 | 2022-06-15 | 2022-06-26 |
@@ -410,6 +412,7 @@
 | [HANDSOMER](https://open.spotify.com/track/4v1TTTCadimzZkTuDTnYBc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [HANDSOMER](https://open.spotify.com/album/3zCqTgk4dwtws1HhNoHqWI) | 2:23 | 2022-02-12 | 2022-03-11 |
 | [HANDSOMER \(Remix\) \(Feat\. Ktlyn\)](https://open.spotify.com/track/0vp1sk3FzuDBeLMLcRhQdL) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [HANDSOMER \(Remix\) \(Feat\. Ktlyn\)](https://open.spotify.com/album/5EMb5JomVavgkhB6ce0xfS) | 2:23 | 2022-03-11 | 2022-04-28 |
 | [Happening Again](https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM) | 2:53 | 2022-08-05 | 2022-08-13 |
+| [Harleys In Hawaii](https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:05 | 2023-09-25 |  |
 | [Hate You](https://open.spotify.com/track/4TgyIbBZCW0UIwS8eua06z) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Hate You](https://open.spotify.com/album/31NZ6pVFfwKQssNexrqb7k) | 2:56 | 2022-11-18 | 2022-12-12 |
 | [Hater's Anthem](https://open.spotify.com/track/6zNDaCnyrI3uUuvYqLpnAO) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hater's Anthem](https://open.spotify.com/album/55cVPdr31Rh54Oq2HX0c4x) | 2:51 | 2023-08-29 | 2023-09-09 |
 | [HAUNTED](https://open.spotify.com/track/2y3kTv2pxaLM7YEwyazSH7) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HAUNTED](https://open.spotify.com/album/0NJhMR5JGpXyDaqCgKywvf) | 2:16 | 2022-03-28 | 2022-05-05 |

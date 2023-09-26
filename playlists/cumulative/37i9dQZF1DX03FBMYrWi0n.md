@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Laurence\-Anne
 
-129 songs - 7 hr 32 min
+131 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Chambre d'écho](https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 3:57 | 2023-02-10 |  |
 | [Christopher Robbins](https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u) | [Paul Jacobs](https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2) | [Pink Dogs on the Green Grass](https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx) | 3:45 | 2023-02-10 |  |
 | [Coin coin](https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA) | 3:26 | 2023-02-10 | 2023-09-07 |
+| [Coin coin](https://open.spotify.com/track/2EeKut39BXmeuZSeDn2Pmw) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/3XSN53ondDCSSLeIXXvNrK) | 3:29 | 2023-09-08 |  |
 | [Combien ça coûte](https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Combien ça coûte](https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6) | 2:43 | 2023-08-18 |  |
 | [Comfort, Edge](https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:43 | 2023-02-10 |  |
 | [Cool et branchée](https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Cool et branchée](https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz) | 2:57 | 2023-09-08 |  |
@@ -91,7 +92,7 @@
 | [N'importe Où Sauf Ici](https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [L'air d'aller \(Musique de la série télévisée\)](https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO) | 2:26 | 2023-08-18 |  |
 | [Nimueshtaten nete](https://open.spotify.com/track/3KtPaEk8dzOJ9GpQZzkvza) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Nimueshtaten nete](https://open.spotify.com/album/5SEtpOliFRWSyPucn4A2PO) | 4:00 | 2023-02-10 | 2023-06-09 |
 | [Nos corps](https://open.spotify.com/track/2l8apbCCTwY4XpAjR57JW8) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Maladie d'amour](https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV) | 3:39 | 2023-02-10 |  |
-| [Nue](https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6) | [Paupière](https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq) | [Sade Sati \(Deluxe\)](https://open.spotify.com/album/3PXo9tdk59o5O8VHJcrR6K) | 3:28 | 2023-07-07 |  |
+| [Nue](https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6) | [Paupière](https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq) | [Sade Sati \(Deluxe\)](https://open.spotify.com/album/3PXo9tdk59o5O8VHJcrR6K) | 3:28 | 2023-07-07 | 2023-09-26 |
 | [Nyx](https://open.spotify.com/track/5atArqWjcTEjYuoEODbwHU) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 3:07 | 2023-02-10 | 2023-07-01 |
 | [OK](https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Disruption](https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8) | 3:13 | 2023-02-10 |  |
 | [OMG \(oiseau\)](https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Totalement Sublime](https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td) | 4:03 | 2023-02-24 | 2023-03-25 |
@@ -110,7 +111,7 @@
 | [Salaire Minimum](https://open.spotify.com/track/5FyydM82oQSSp2OBidKZBW) | [Sèxe Illégal](https://open.spotify.com/artist/5rWz0pTrCLoCPfQ68KFcH8) | [Spätkapitalismusik](https://open.spotify.com/album/41sPlypAmlnRQJOi4aisrH) | 2:50 | 2023-02-10 | 2023-02-19 |
 | [See You Soon](https://open.spotify.com/track/02QiB7pfuiK2ifgG9n0bjR) | [Sasha Cay](https://open.spotify.com/artist/70PKezrSmt6UkxyZU6ueHc) | [See You Soon](https://open.spotify.com/album/0a3FIHk0VYBaRU7VcwBotl) | 5:28 | 2023-06-16 | 2023-08-14 |
 | [Sentiments nouveaux](https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH) | 3:33 | 2023-03-03 | 2023-08-06 |
-| [Sentiments nouveaux](https://open.spotify.com/track/6LM0rvYTRtleOizjQEmkQH) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/5gBFPLneuXdVVGTV6usDgb) | 3:33 | 2023-09-08 |  |
+| [Sentiments nouveaux](https://open.spotify.com/track/6LM0rvYTRtleOizjQEmkQH) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/5gBFPLneuXdVVGTV6usDgb) | 3:33 | 2023-09-08 | 2023-09-26 |
 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 | 2023-02-10 |  |
 | [Shoegaze](https://open.spotify.com/track/6t5COdf65qd8igj588vkET) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:22 | 2023-02-10 |  |
 | [Si oui ou non](https://open.spotify.com/track/0OPEi21gk2S0fg8yMRcews) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Si oui ou non](https://open.spotify.com/album/1BBSrtHVh6HuAmaOVgahGm) | 2:20 | 2023-06-02 | 2023-06-17 |
@@ -128,6 +129,7 @@
 | [veux veux pas](https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [tu penses\-tu + veux veux pas](https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy) | 3:10 | 2023-08-25 |  |
 | [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 | 2023-03-17 |  |
 | [Vitesse](https://open.spotify.com/track/4Wtf5MWtWQ0t5mSk9xwJks) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Vitesse](https://open.spotify.com/album/4Xx7ZyYbDFcHycDtffNjzf) | 3:15 | 2023-09-08 |  |
+| [Voiture de course](https://open.spotify.com/track/5AbHwqS90lmbvhNX733j0z) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Voiture de course](https://open.spotify.com/album/7m2z2S45pCXwA8tzDV8pdK) | 3:25 | 2023-09-08 |  |
 | [Wave](https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [Wave](https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE) | 3:59 | 2023-02-10 | 2023-05-20 |
 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 | 2023-03-24 |  |
 | [whatwasthatwine](https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [whatwasthatwine](https://open.spotify.com/album/4r5raINIASmps1EZ090fio) | 4:01 | 2023-02-10 | 2023-04-16 |

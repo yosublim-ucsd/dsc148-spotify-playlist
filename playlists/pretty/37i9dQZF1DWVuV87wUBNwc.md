@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Calvin Harris x Sam Smith au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,188,848 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,189,269 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 50 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 
-Snapshot ID: `MCxjZmVlZTE3NDM0OTI4NWRkMzIyZGE0MzM1NzI3ODM2ZjkwOTJhYmVi`
+Snapshot ID: `MCxmODE5OTNlNTdmMjNlMmVhYzE0YjFjZjg0MjkzMjg2OGE4Y2UyOWEw`

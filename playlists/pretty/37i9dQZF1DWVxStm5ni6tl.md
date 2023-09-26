@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Anaïs Cardot, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,249 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [COOL](https://open.spotify.com/track/4jopTOlVUYONkRx455b1up) | [Hayleau](https://open.spotify.com/artist/3Ad8KmjgFzpcTvmVf69GwR) | [COOL](https://open.spotify.com/album/0Vxk7NYYySxi34KkQARGHo) | 2:59 |
 | 75 | [Fake Money](https://open.spotify.com/track/5ZAkwPHjuje4eM3gItHXoB) | [Sarah Itamah](https://open.spotify.com/artist/5E5tgdinLfCPJAccYJjsta) | [Fake Money](https://open.spotify.com/album/41YFlcejLMS6h0Ak8DYQbb) | 2:28 |
 
-Snapshot ID: `MCw2NTk2ZTMyMTVkOTkyNDY5YjY1NDJkYWVhZGRlYTkzZjJiYjE4MDgw`
+Snapshot ID: `MCxjYzUzZjZhODAxZTE4ODgyZDI1NGMxNjgxZjEwNGIyOTYyN2U2NWI5`

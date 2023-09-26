@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-167 songs - 13 hr 42 min
+168 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bagi Nwali Milliardaire](https://open.spotify.com/track/5PEdfV2WSVKIywE2dTgPQF) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Bagi Nwali Milliardaire](https://open.spotify.com/album/0HLrF0mYDsHcIPtUcILGhN) | 4:24 | 2021-10-19 | 2023-02-28 |
 | [Balaki](https://open.spotify.com/track/6NCLdvK4Pi2jdtruM8U60k) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Balaki](https://open.spotify.com/album/0wHfl44Cnqe7MhoilgjZLg) | 4:14 | 2022-09-20 | 2022-12-27 |
 | [Bechouiya 3la Galbi](https://open.spotify.com/track/073EMBsQPqd4j89yoztZ47) | [Rai Mix](https://open.spotify.com/artist/03sJ8qPVXuuOkHBdswV4pj) | [Dj ANes ReMix Rai](https://open.spotify.com/album/3e4hbnsuCNBmXPXdTDexzO) | 4:05 | 2021-10-19 | 2022-03-26 |
-| [Bghaw 3liya Yba3dok](https://open.spotify.com/track/0qgOUOYQrfWWYI42FLvxum) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Bghaw 3liya Yba3dok](https://open.spotify.com/album/5Yhd5B4XDx6DVLdVa1jVnY) | 4:47 | 2023-02-27 |  |
+| [Bghaw 3liya Yba3dok](https://open.spotify.com/track/0qgOUOYQrfWWYI42FLvxum) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Bghaw 3liya Yba3dok](https://open.spotify.com/album/5Yhd5B4XDx6DVLdVa1jVnY) | 4:47 | 2023-02-27 | 2023-09-26 |
 | [Bghitona natfarko](https://open.spotify.com/track/30SPX8Eue4UhihxU9cio7p) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [Bghitona natfarko](https://open.spotify.com/album/4baIAIwbTC2MqgKeIliPKU) | 2:33 | 2021-10-19 | 2022-09-21 |
 | [Brad Lgalb](https://open.spotify.com/track/200vD11oSSH2B8C73kXyRC) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheba Souad](https://open.spotify.com/artist/2mtGLDeonPnIV8HDyrxCfl) | [Brad Lgalb](https://open.spotify.com/album/1tKZOpA4RUscWGOgzgxZtK) | 3:43 | 2023-03-24 | 2023-08-26 |
 | [Bravo](https://open.spotify.com/track/3v7uGitLi89jWMK5F6BUjh) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Bravo](https://open.spotify.com/album/6YZsunqkk3ZzwDsJtqZHvA) | 3:59 | 2021-10-19 | 2023-01-14 |
@@ -167,6 +167,7 @@
 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 | 2022-09-20 | 2023-07-28 |
 | [روحو ليها فيت شاب عباس](https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi) | [Mohamed Adly](https://open.spotify.com/artist/0YNxTS81q1b2z9qdtJkmCO) | [روحو ليها فيت شاب عباس](https://open.spotify.com/album/2MHopoMeZ4jOVhubBcSmXk) | 4:01 | 2021-10-19 |  |
 | [زهري وميموني](https://open.spotify.com/track/58waEmZ6y9DR4Un90peUBg) | [Cheb Mustapha](https://open.spotify.com/artist/6mWYICO5NsvtzQ7VEwvOf1), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [زهري وميموني](https://open.spotify.com/album/3hkW0KlNQCAQUnqyZVlxSh) | 4:18 | 2023-06-19 |  |
+| [شوفو لامور مدار فيا](https://open.spotify.com/track/3c58Jl3ddpirlnR6mkEiED) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [شوفو لامور مدار فيا](https://open.spotify.com/album/1PTe3yvpsDEAOpN06oB0jv) | 3:06 | 2023-09-25 |  |
 | [طيري يا طيارة](https://open.spotify.com/track/0qJPN8mWjsORy7v2a6Benw) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [طيري يا طيارة](https://open.spotify.com/album/7jaNQ3MZzO2FS2aCkxP6Xv) | 3:07 | 2022-09-20 | 2023-07-12 |
 | [على رواحنا منكذبوش](https://open.spotify.com/track/5BaSu9ES2R8LIYxAZBTqQA) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [على رواحنا منكذبوش](https://open.spotify.com/album/0Oe1AG3aTF6lEyNyKAzo68) | 4:20 | 2021-10-19 | 2022-09-09 |
 | [ليكيدي عليا لخردة](https://open.spotify.com/track/4E0xwTHdmwB2DehuA6QdeX) | [Cheikh Mamidou](https://open.spotify.com/artist/3P1VjlJbXPj8x46HKvbyTB), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [ليكيدي عليا لخردة](https://open.spotify.com/album/3CnWIRpGHGTgeZLjDjpXZY) | 4:58 | 2023-07-27 |  |

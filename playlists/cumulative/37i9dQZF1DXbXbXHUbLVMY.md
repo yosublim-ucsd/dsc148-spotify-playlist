@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop holder det 100! 🚨
 
-64 songs - 2 hr 40 min
+65 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [KALASH](https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [KALASH](https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f) | 2:10 | 2023-09-21 |  |
 | [kjemiker/romantiker.](https://open.spotify.com/track/3PWtq9chrzLwFdGc9a7IIx) | [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp) | [kjemiker/romantiker.](https://open.spotify.com/album/6uRQ5gZJtJ9v5wHBmTGTWF) | 2:35 | 2023-09-21 |  |
 | [Koppla Av](https://open.spotify.com/track/5x50GMyuhq1hDixrPzNs3S) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Koppla Av](https://open.spotify.com/album/2AbUZYMLbNr7PEQqKeWOXX) | 2:53 | 2023-09-21 |  |
+| [Känslokall](https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Känslokall](https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p) | 2:03 | 2023-09-21 |  |
 | [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 | 2023-09-21 |  |
 | [Lenge Leve](https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:15 | 2023-09-21 |  |
 | [M.O.B](https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7) | 1:48 | 2023-09-21 |  |
@@ -61,7 +62,7 @@
 | [Saint Laurent \(feat\. C.Gambino\)](https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Saint Laurent \(feat\. C.Gambino\)](https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC) | 2:48 | 2023-09-21 |  |
 | [Salam](https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Salam](https://open.spotify.com/album/56xgHK320guDeJaXou4VQu) | 2:17 | 2023-09-21 |  |
 | [Seriøs \(feat\. Amara\)](https://open.spotify.com/track/1sEYjmfPxDMS0tRxEqbWTy) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Seriøs \(feat\. Amara\)](https://open.spotify.com/album/680vIkkksZ7C7MOoLMNbwS) | 2:36 | 2023-09-21 |  |
-| [SIPPER](https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [SIPPER](https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x) | 2:15 | 2023-09-21 |  |
+| [SIPPER](https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [SIPPER](https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x) | 2:15 | 2023-09-21 | 2023-09-26 |
 | [Sjunka](https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Sjunka](https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7) | 2:13 | 2023-09-21 |  |
 | [Soldat](https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [Soldat](https://open.spotify.com/album/30rq6uVi2lypmp6787cImE) | 2:19 | 2023-09-21 |  |
 | [Sommerhus](https://open.spotify.com/track/08dWbd4W1hhUusqsJ7zk2J) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sommerhus](https://open.spotify.com/album/1xzkyK5V6Q6PXMdJzLtW3y) | 2:21 | 2023-09-21 |  |

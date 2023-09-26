@@ -1,12 +1,12 @@
 {
   "description": "The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh",
-  "num_followers": 169665,
+  "num_followers": 169757,
   "original_name": "Latino Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODA2MTE2NTVjZmZmMGMwNDllOWUyMGQyN2E0MTY4ZDY0ZDRkYjk4",
+  "snapshot_id": "MCw2OGE3NWM2ZDYwZGZkMzgyZWZiZGY2ZWJhODQwMjE4Y2Q3NzM2OTI1",
   "tracks": [
     {
       "added_at": "2023-09-22 07:16:39",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "Funk Rave",
         "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -527,30 +527,6 @@
       "duration_ms": 185040,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
-        "name": "Te Menti",
-        "url": "https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 187129,
-      "name": "Te Menti",
-      "url": "https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -655,6 +631,30 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
+        "name": "Te Menti",
+        "url": "https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 187129,
+      "name": "Te Menti",
+      "url": "https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 151666,
       "name": "Palpita",
       "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Baila Baila Baila",
-      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -815,6 +799,22 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Baila Baila Baila",
+      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -887,26 +887,6 @@
       "duration_ms": 154493,
       "name": "HOT",
       "url": "https://open.spotify.com/track/5Pg4qYTcvCUBBq3jBhKq0t"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "In Da Getto",
-      "url": "https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -991,6 +971,26 @@
       "duration_ms": 146000,
       "name": "Cuando Salga La Luna",
       "url": "https://open.spotify.com/track/5eCEYfCUQ9JJOIhyUVEmyq"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "In Da Getto",
+      "url": "https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn"
     },
     {
       "added_at": "2023-09-22 07:16:39",

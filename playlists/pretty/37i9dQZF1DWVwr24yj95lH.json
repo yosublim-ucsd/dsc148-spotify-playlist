@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Staind",
-  "num_followers": 616428,
+  "num_followers": 616623,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmE4YzQ2NmU0NWEzNzJhMjg2MmRmODIyMjk2Y2I5YTU2ZDI3N2Vl",
+  "snapshot_id": "MCxjMzIwNGY3MzQ1NGZhNDJkNTgxNGRmZDA0N2I3YzU4ZmJlYTkwMjA3",
   "tracks": [
     {
       "added_at": "2023-05-26 14:18:30",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
-        "name": "Karma and Effect",
-        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
-    },
-    {
-      "added_at": "2023-05-26 14:18:30",
-      "album": {
         "name": "Marcy Playground",
         "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
       },
@@ -519,22 +503,6 @@
       "duration_ms": 173493,
       "name": "Sex & Candy",
       "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
-    },
-    {
-      "added_at": "2023-05-26 14:18:30",
-      "album": {
-        "name": "Three Days Grace (Expanded Edition)",
-        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "I Hate Everything About You",
-      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
     },
     {
       "added_at": "2023-05-26 14:18:30",
@@ -555,18 +523,34 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+        "name": "Three Days Grace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 258920,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
+      "duration_ms": 231480,
+      "name": "I Hate Everything About You",
+      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
+    },
+    {
+      "added_at": "2023-05-26 14:18:30",
+      "album": {
+        "name": "Karma and Effect",
+        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
     },
     {
       "added_at": "2023-05-26 14:18:30",
@@ -639,22 +623,6 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
-        "name": "Disclaimer",
-        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 243640,
-      "name": "Fine Again",
-      "url": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6"
-    },
-    {
-      "added_at": "2023-05-26 14:18:30",
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 304373,
       "name": "Awake",
       "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
+    },
+    {
+      "added_at": "2023-05-26 14:18:30",
+      "album": {
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 258920,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
+    },
+    {
+      "added_at": "2023-05-26 14:18:30",
+      "album": {
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 243640,
+      "name": "Fine Again",
+      "url": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6"
     },
     {
       "added_at": "2023-05-26 14:18:30",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
-        "name": "The Beautiful Letdown (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "Meant to Live",
-      "url": "https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg"
-    },
-    {
-      "added_at": "2023-05-26 14:18:30",
-      "album": {
         "name": "Savages",
         "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
+        "name": "The Beautiful Letdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "Meant to Live",
+      "url": "https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg"
+    },
+    {
+      "added_at": "2023-05-26 14:18:30",
+      "album": {
         "name": "Title Of Record (Expanded Edition)",
         "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 363800,
       "name": "Take A Picture",
       "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
-    },
-    {
-      "added_at": "2023-05-26 14:18:30",
-      "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
     },
     {
       "added_at": "2023-05-26 14:18:30",
@@ -879,6 +863,38 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
+    },
+    {
+      "added_at": "2023-05-26 14:18:30",
+      "album": {
+        "name": "Short Bus",
+        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 314440,
+      "name": "Hey Man, Nice Shot - Remastered Version",
+      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
+    },
+    {
+      "added_at": "2023-05-26 14:18:30",
+      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 326666,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr"
-    },
-    {
-      "added_at": "2023-05-26 14:18:30",
-      "album": {
-        "name": "Short Bus",
-        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 314440,
-      "name": "Hey Man, Nice Shot - Remastered Version",
-      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
     },
     {
       "added_at": "2023-05-26 14:18:30",

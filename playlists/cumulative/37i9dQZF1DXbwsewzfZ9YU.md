@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Soul Glo
 
-154 songs - 6 hr 27 min
+155 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Point of View](https://open.spotify.com/track/0fU9H6KTGKtthrZZ5AHjZ1) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Spaced Jams](https://open.spotify.com/album/3JcTBkIo5IvXcynwij8AOt) | 2:01 | 2023-02-24 | 2023-07-18 |
 | [Poison Darts](https://open.spotify.com/track/0JVWDMYRBnxv5XLcR6dSU2) | [NØ MAN](https://open.spotify.com/artist/3YVOPyK3WSherrqK2E34CZ) | [Poison Darts](https://open.spotify.com/album/2RVbNuThMaCD4nQsz0KgE2) | 2:30 | 2023-07-18 |  |
 | [Position](https://open.spotify.com/track/2FiwcNdnFeVPxD1NfSTh2W) | [Pearl](https://open.spotify.com/artist/5s28gIIPhD0FKIhM2AA4u9) | [Thread](https://open.spotify.com/album/3oQiTv9pIKObwHdmvGaupE) | 1:31 | 2023-08-11 | 2023-09-23 |
+| [Power Pop](https://open.spotify.com/track/0DmHUPj3UIeJ4GDT6KFx7G) | [Strange Joy](https://open.spotify.com/artist/29gaE5Qt5VhOxGKV4sx5aR) | [Power Pop](https://open.spotify.com/album/7IIIJ2OsKS6R0ZGNqAiFsI) | 2:16 | 2023-09-25 |  |
 | [Predator](https://open.spotify.com/track/1ybz0ZxYntBCRhT4XidpSZ) | [Exhibition](https://open.spotify.com/artist/3PXIpUyxwTbRam0fB84BKD) | [The Last Laugh](https://open.spotify.com/album/0jLiscuEhkYovlrf6u09Af) | 2:10 | 2023-02-24 |  |
 | [Pretty Low](https://open.spotify.com/track/1hXSR6c8azfILRB5LSYmfW) | [Expire](https://open.spotify.com/artist/4AfTOzBubFP6STibJPTxwt) | [Pretty Low](https://open.spotify.com/album/65jtRijOpSO5fSNiwktHDe) | 2:26 | 2023-02-24 |  |
 | [Prove You Wrong](https://open.spotify.com/track/4IVOI84lTIm8Uo6KEm7jK7) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Spaced Jams](https://open.spotify.com/album/3JcTBkIo5IvXcynwij8AOt) | 1:53 | 2023-02-24 | 2023-07-18 |

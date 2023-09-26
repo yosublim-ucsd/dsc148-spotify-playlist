@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-90 songs - 8 hr 6 min
+91 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2023-04-06 |  |
 | [Miracle](https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle](https://open.spotify.com/album/0j428IWZNxi3fAJTahWjil) | 4:12 | 2023-04-06 |  |
 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 | 2023-04-06 |  |
+| [Mon Dieu](https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Mon Dieu](https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd) | 2:46 | 2023-09-22 |  |
 | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/track/0oONxPIqh6mWrFoS7jBiPq) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/album/7LFJV2qkgIxxGugI4VvP2T) | 2:30 | 2023-07-21 |  |
 | [My Dey](https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [My Dey](https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT) | 2:11 | 2023-06-30 |  |
 | [My Everything](https://open.spotify.com/track/3tQfgI83X44PjoPXSzIF3w) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [My Everything](https://open.spotify.com/album/0Lt1PeYDD7JtRz4TQqKvkN) | 4:41 | 2023-04-06 | 2023-04-11 |
@@ -94,7 +95,7 @@
 | [WINNING](https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW) | [Harmini](https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9), [Chud'e](https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej) | [WINNING](https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0) | 2:32 | 2023-09-08 |  |
 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 | 2023-04-14 |  |
 | [Wonderful Wonder](https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Love Song](https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy) | [God of Love](https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H) | 5:37 | 2023-04-06 |  |
-| [Worthy Is the Lamb \(Hallelujah Challenge Praise Medley 2\)](https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 10:28 | 2023-04-06 |  |
+| [Worthy Is the Lamb \(Hallelujah Challenge Praise Medley 2\)](https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 10:28 | 2023-04-06 | 2023-09-26 |
 | [Yeshua \(Extended\)](https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP), [Sonny Green](https://open.spotify.com/artist/0JyaUTiOWDW0vjHUXfgrDx) | [Yeshua \(Extended\)](https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H) | 2:36 | 2023-09-08 |  |
 | [Yesu \(Jesus\)](https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Guya](https://open.spotify.com/artist/1WdV2fjFsYXEqKe9AaqGpH) | [Yesu \(Jesus\)](https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI) | 3:55 | 2023-09-08 |  |
 | [Zoe](https://open.spotify.com/track/4hKMY8nO1JocNWLFJmb9zS) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 8:33 | 2023-06-16 | 2023-09-24 |

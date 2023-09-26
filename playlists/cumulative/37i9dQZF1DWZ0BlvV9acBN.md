@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Fernandinho
 
-118 songs - 9 hr 19 min
+119 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Cantem os Anjos](https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Cantem os Anjos](https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB) | 3:14 | 2023-05-05 |  |
 | [Chega](https://open.spotify.com/track/34Ibxcbi3VvdgkJT6fDIA6) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Chega](https://open.spotify.com/album/4L3ZfTeBbooQhaYvG36rmQ) | 3:05 | 2022-09-02 | 2022-11-26 |
 | [Coração de Pedra](https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Adriano Daga](https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:42 | 2022-09-02 |  |
-| [Coração de Pedra](https://open.spotify.com/track/74RE99ZIixd6P7tzg0yY06) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Coração de Pedra](https://open.spotify.com/album/11lguPTBBroA3Vk3WCbXbo) | 3:45 | 2023-08-18 |  |
+| [Coração de Pedra](https://open.spotify.com/track/74RE99ZIixd6P7tzg0yY06) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Coração de Pedra](https://open.spotify.com/album/11lguPTBBroA3Vk3WCbXbo) | 3:45 | 2023-08-18 | 2023-09-26 |
 | [Cordeiro e Leão](https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Cordeiro e Leão](https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI) | 3:56 | 2023-04-15 |  |
 | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT) | 4:12 | 2022-09-02 |  |
 | [De Malas Prontas](https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [De Malas Prontas](https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng) | 6:34 | 2022-09-02 |  |
@@ -125,6 +125,7 @@
 | [Uma Carta de Amanhã](https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D) | [Felipe Ramos](https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX) | [Uma Carta de Amanhã](https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ) | 3:51 | 2022-09-02 |  |
 | [Yeshua](https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Yeshua](https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20) | 5:46 | 2022-09-02 |  |
 | [É Tempo de Abrir o Coração \- Ao Vivo](https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [É Tempo de Abrir o Coração / Santo \(Ao Vivo\)](https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX) | 4:34 | 2022-09-02 |  |
+| [Êxodo \- ao vivo em São Paulo](https://open.spotify.com/track/7AKkT7q6Kxdrh2n2qvLAHk) | [Projeto Sola](https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K) | [Homem Litúrgico, Ao Vivo](https://open.spotify.com/album/3pBtEZlLUVr9ljXjY0zeH5) | 3:54 | 2023-09-25 |  |
 | [Única Paz](https://open.spotify.com/track/28NSQr1LYImH2Avvk06oYV) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k), [Fruto Sagrado](https://open.spotify.com/artist/0tuvLFT4ZHTJ17rrBP0K5K) | [Única Paz](https://open.spotify.com/album/5nkSbqUiUnqxU6WGN0BHI3) | 4:39 | 2022-11-25 | 2023-03-25 |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

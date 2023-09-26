@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: Bella Poarch, Lauv",
+  "description": "The hottest songs you need to listen to right now. Cover: Troye Sivan",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 170830,
       "name": "A Year Ago",
       "url": "https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD"
+    },
+    {
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
     },
     {
       "album": {
@@ -304,7 +322,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 167201,
       "name": "At Your Worst",
       "url": "https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw"
@@ -574,7 +592,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 139591,
       "name": "Break From The Party",
       "url": "https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9"
@@ -682,7 +700,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 207611,
       "name": "Children of the Sky (a Starfield song)",
       "url": "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC"
@@ -765,6 +783,24 @@
     },
     {
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K"
+    },
+    {
+      "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
       },
@@ -776,7 +812,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -1266,7 +1302,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 186894,
       "name": "Flip It Up",
       "url": "https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5"
@@ -1444,6 +1480,24 @@
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+    },
+    {
+      "album": {
+        "name": "Got Me Started",
+        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
     },
     {
       "album": {
@@ -2495,6 +2549,32 @@
     },
     {
       "album": {
+        "name": "Mirage (for Assassin's Creed Mirage)",
+        "url": "https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133183,
+      "name": "Mirage - for Assassin's Creed Mirage",
+      "url": "https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW"
+    },
+    {
+      "album": {
         "name": "Mourning",
         "url": "https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX"
       },
@@ -2586,7 +2666,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 198520,
       "name": "NEW DANCE",
       "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
@@ -2992,6 +3072,28 @@
       "duration_ms": 272035,
       "name": "Psychedelic Switch",
       "url": "https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
     },
     {
       "album": {
@@ -4190,6 +4292,28 @@
       "duration_ms": 138013,
       "name": "You Don't Even",
       "url": "https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3"
+    },
+    {
+      "album": {
+        "name": "chemistry (Deluxe)",
+        "url": "https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "River Rose",
+          "url": "https://open.spotify.com/artist/3XuRfMxcjE1DgQJ21eALvD"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204720,
+      "name": "you don\u2019t make me cry (feat. River Rose)",
+      "url": "https://open.spotify.com/track/6rbr35phTqlk7F3gVym16B"
     },
     {
       "album": {

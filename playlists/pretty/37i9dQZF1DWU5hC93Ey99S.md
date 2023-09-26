@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels\. Cover: Babsy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,958 likes - 237 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,036 likes - 237 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 121 | [You Lose My Mind](https://open.spotify.com/track/5jLUdcjO2z7jvYoKnkGPY9) | [Apotech](https://open.spotify.com/artist/2nwGAlGI70BCkpJDfdfHec) | [You Lose My Mind](https://open.spotify.com/album/5MkmqaIBzITzqEpvhd3zvu) | 3:59 |
 | 122 | [Just Doin' Me](https://open.spotify.com/track/3k7w2iFmezR29eFEM11AV9) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [MOONBOY](https://open.spotify.com/album/7nbl0sq2qrigt7BGmAcPc7) | 3:39 |
 | 123 | [Same Wave \(feat\. Salena Mastroianni\)](https://open.spotify.com/track/0B6YQW5879dzOqOfJKbOWh) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [Salena Mastroianni](https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W) | [Same Wave \(feat\. Salena Mastroianni\)](https://open.spotify.com/album/74hfd8hsX9X95Unoyq1FLm) | 1:59 |
-| 124 | [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/album/2SmDq2lOPO1ErprHSC1Cr7) | 2:50 |
+| 124 | [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/track/6Q25Z9gsiXLOqcirOD5mrl) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Floor Plan 2.0](https://open.spotify.com/album/7eUfwcYbaAxfkSkZaZyktZ) | 2:50 |
 | 125 | [Right Back](https://open.spotify.com/track/2tCTOwYL6cCTfUVrs7R1rk) | [CHEEKS](https://open.spotify.com/artist/3yeAenPW5DfjuousCOdek9) | [Right Back](https://open.spotify.com/album/3y2TSW4nIQBT810itSLXSY) | 2:03 |
 | 126 | [Wasted On You](https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 4:23 |
 | 127 | [RWEOK?](https://open.spotify.com/track/2YhEJoYccyE5wpdAkZWbPk) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [RWEOK?](https://open.spotify.com/album/1ohdPPIK0Gl5F3oJafcwgQ) | 2:27 |
@@ -246,4 +246,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 236 | [back in time](https://open.spotify.com/track/2wfwhyErdQVfXGPwPTUhht) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [back in time](https://open.spotify.com/album/5pgSw0cqiPHDtSwjMK2d0o) | 2:36 |
 | 237 | [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 |
 
-Snapshot ID: `MCwxNTdjODBiYmJkMDM0OWVjZGFmNTA5ODA5NjgyZDBlYmZjMTAzYTNj`
+Snapshot ID: `MCxhYjE3YjE4OTFiOTNiN2QyNTIzYjQ2MGU0ZjJlZDNkNzc2MzBiNTkz`

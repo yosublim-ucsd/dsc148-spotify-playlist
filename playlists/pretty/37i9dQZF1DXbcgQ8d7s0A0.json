@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1241635,
+  "num_followers": 1241912,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTViNmY5Y2I0MWJjZWNhYzQ4YWE1N2ExZWM1NjJkZjdmNzE4ZWQz",
+  "snapshot_id": "MCwzZmE2MDZjYjQwM2JkMjJmMDFhYzAxODg1ODk1MzczYmFmZDk1YzA4",
   "tracks": [
     {
       "added_at": "2021-02-18 10:25:36",
@@ -63,22 +63,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 180055,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 180055,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -303,6 +303,22 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 279333,
       "name": "Midnight Train to Georgia",
       "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 278040,
       "name": "After the Love Has Gone",
       "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "The Best Of Earth, Wind & Fire Vol. 1",
-        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "The Very Best Of The Staple Singers",
         "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
       },
@@ -591,22 +575,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Mr. Big Stuff",
-        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
-      },
-      "artists": [
-        {
-          "name": "Jean Knight",
-          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Mr. Big Stuff",
-      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "The Spice Of Life",
         "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
@@ -623,18 +591,34 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+        "name": "Mr. Big Stuff",
+        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
       },
       "artists": [
         {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+          "name": "Jean Knight",
+          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
         }
       ],
-      "duration_ms": 188800,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
+      "duration_ms": 164560,
+      "name": "Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -655,6 +639,22 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
         "name": "If That's What It Takes",
         "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "A Valentine For You",
-        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "The First Family of Soul: The Best of The Five Stairsteps",
         "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 197160,
       "name": "O-o-h Child",
       "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "A Valentine For You",
+        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 127186,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -799,6 +799,26 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
+        "name": "In the Name of Love: The Elektra Recordings 1979-1984",
+        "url": "https://open.spotify.com/album/3XFcAhdCrCg7L74OPd26Hf"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        },
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Just the Two of Us",
+      "url": "https://open.spotify.com/track/4C426PqeHP8XqHU5mQIAKS"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
-        "name": "In the Name of Love: The Elektra Recordings 1979-1984",
-        "url": "https://open.spotify.com/album/3XFcAhdCrCg7L74OPd26Hf"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        },
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Just the Two of Us",
-      "url": "https://open.spotify.com/track/4C426PqeHP8XqHU5mQIAKS"
     },
     {
       "added_at": "2021-02-18 10:25:36",

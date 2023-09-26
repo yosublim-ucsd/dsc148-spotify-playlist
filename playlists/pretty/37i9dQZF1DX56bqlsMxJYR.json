@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1037076,
+  "num_followers": 1037735,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTc2OWM4OTU2MjMyOTdiN2YwZThjOTVlMTNmZDk2MmI3MTk3Y2Fi",
+  "snapshot_id": "MCw1MjI2NjM3NTkxZGExMGZlZmM1ZDI4ZjUyN2JjNTIyYjY4Yzk0MWRj",
   "tracks": [
     {
       "added_at": "2023-08-03 14:07:21",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "From Elvis in Memphis",
-        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 261279,
-      "name": "Suspicious Minds",
-      "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "L-O-V-E",
         "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 155306,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "From Elvis in Memphis",
+        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 261279,
+      "name": "Suspicious Minds",
+      "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "Surfin' U.S.A. - Remastered 2001",
-      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "From the Foundations (Expanded Edition)",
         "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 177519,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Birds, The Bees, & The Monkees",
-        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Daydream Believer",
-      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Little Girl Blue (2013 Remastered Version)",
         "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 215746,
       "name": "My Baby Just Cares for Me - 2013 Remastered Version",
       "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "The Birds, The Bees, & The Monkees",
+        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Daydream Believer",
+      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "It's Pony Time/Let's Twist Again",
-        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Let's Twist Again",
-      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Jerry Lee's Greatest",
         "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 111535,
       "name": "Great Balls Of Fire",
       "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "It's Pony Time/Let's Twist Again",
+        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 137360,
+      "name": "Let's Twist Again",
+      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
         "name": "Do You Love Me (Now That I Can Dance)",
         "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 210525,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "Only You (And You Alone)",
-      "url": "https://open.spotify.com/track/0S8ibKBl3tjRmYbZhGHNhG"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Remember When",
         "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
       },
       "artists": [
         {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+      "duration_ms": 156560,
+      "name": "Only You (And You Alone)",
+      "url": "https://open.spotify.com/track/0S8ibKBl3tjRmYbZhGHNhG"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
       },
       "artists": [
         {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
         }
       ],
-      "duration_ms": 144146,
-      "name": "Do Wah Diddy Diddy - 2007 Remaster",
-      "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1339,6 +1323,22 @@
       "duration_ms": 162446,
       "name": "Bang Bang (My Baby Shot Me Down)",
       "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 144146,
+      "name": "Do Wah Diddy Diddy - 2007 Remaster",
+      "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1371,6 +1371,22 @@
       "duration_ms": 165381,
       "name": "Louie Louie",
       "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Banana Boat (Day-O)",
+      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1419,22 +1435,6 @@
       "duration_ms": 187533,
       "name": "Venus",
       "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
-        "name": "Calypso",
-        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Banana Boat (Day-O)",
-      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "More Hits By The Supremes",
         "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 172906,
       "name": "Stop! In The Name Of Love",
       "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 147306,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 197093,
       "name": "Lay, Lady, Lay",
       "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 147306,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Les Annees Petula",
-        "url": "https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR"
-      },
-      "artists": [
-        {
-          "name": "Petula Clark",
-          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/0mVTT4eqN3TbcieL6ShnDH"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
         "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 147293,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Les Annees Petula",
+        "url": "https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/0mVTT4eqN3TbcieL6ShnDH"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Animal Tracks",
-        "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -1959,18 +1943,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Remember When",
-        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
+        "name": "Animal Tracks",
+        "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
       },
       "artists": [
         {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
         }
       ],
-      "duration_ms": 124502,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm"
+      "duration_ms": 149360,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1987,6 +1971,22 @@
       "duration_ms": 173266,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 124502,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Very Best of The Dixie Cups: Chapel of Love",
-        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
-      },
-      "artists": [
-        {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "Chapel Of Love",
-      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Tears Of Fire: The 25th Anniversary Collection",
         "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 159760,
       "name": "Stand By Your Man",
       "url": "https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "The Very Best of The Dixie Cups: Chapel of Love",
+        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "Chapel Of Love",
+      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2119,38 +2119,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
-        "name": "Wanna Surf?",
-        "url": "https://open.spotify.com/album/7bGmjO5Cthm1SNOwUhLwKE"
-      },
-      "artists": [
-        {
-          "name": "Dick Dale",
-          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Misirlou",
-      "url": "https://open.spotify.com/track/3OnCnEWgy79xR5pr2kv4TX"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -2163,6 +2131,22 @@
       "duration_ms": 112520,
       "name": "He's So Fine - Remastered 2000",
       "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2187,18 +2171,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+        "name": "Wanna Surf?",
+        "url": "https://open.spotify.com/album/7bGmjO5Cthm1SNOwUhLwKE"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Dick Dale",
+          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+      "duration_ms": 135973,
+      "name": "Misirlou",
+      "url": "https://open.spotify.com/track/3OnCnEWgy79xR5pr2kv4TX"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2219,18 +2203,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Crying",
-        "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
       "artists": [
         {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 166466,
-      "name": "Crying",
-      "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2247,6 +2231,22 @@
       "duration_ms": 158013,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/5Iev69m1Jnf7oc79VvPjpd"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Crying",
+        "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 142906,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 157173,
       "name": "Up on the Roof",
       "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 142906,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
     },
     {
       "added_at": "2023-08-03 14:07:21",

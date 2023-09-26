@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 46323,
+  "num_followers": 46345,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGU5MTFkYmExNzlkODk5MjgyMDk2YzRhMGVlMThhMDg0NDcyYzA3",
+  "snapshot_id": "MCw3MzY3ZGRkOWZmNjU1OTU2YzhlMGI2ZDRiN2QxZWUwOWJjY2ViNmE5",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -195,18 +195,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx"
+        "name": "6",
+        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
       },
       "artists": [
         {
-          "name": "Bruxas",
-          "url": "https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
         }
       ],
-      "duration_ms": 372000,
-      "name": "M\u00e1s Profundo",
-      "url": "https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt"
+      "duration_ms": 219600,
+      "name": "Hipn\u00f3tico",
+      "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -227,6 +231,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx"
+      },
+      "artists": [
+        {
+          "name": "Bruxas",
+          "url": "https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "M\u00e1s Profundo",
+      "url": "https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Un Canto",
         "url": "https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 284915,
       "name": "Un Canto",
       "url": "https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "Hipn\u00f3tico",
-      "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
     },
     {
       "added_at": "2023-03-31 18:13:24",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Matanza",
+        "url": "https://open.spotify.com/album/53Ckzqd3sEAJ6inu7Vgozq"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 368176,
+      "name": "Canto al Fuego",
+      "url": "https://open.spotify.com/track/3R9l60BDCH4pq8iaR44i0O"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Los Guasang\u00fa (Cerrero Remix)",
         "url": "https://open.spotify.com/album/7Khc3U2x9wL0e7kx8PiFkV"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 311554,
       "name": "Los Guasang\u00fa - (Cerrero Remix)",
       "url": "https://open.spotify.com/track/5Cc7P1f3WRSFFP6iBencng"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Matanza",
-        "url": "https://open.spotify.com/album/53Ckzqd3sEAJ6inu7Vgozq"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 368176,
-      "name": "Canto al Fuego",
-      "url": "https://open.spotify.com/track/3R9l60BDCH4pq8iaR44i0O"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -485,6 +485,22 @@
       "url": "https://open.spotify.com/track/2gokZy0P2QgqIRGMljHJAg"
     },
     {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw"
+    },
+    {
       "added_at": "2023-03-23 21:34:53",
       "album": {
         "name": "Gato Negro (Daniel Hokum & Okuma Remix)",
@@ -511,22 +527,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Que Me Siga (Malo)",
         "url": "https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO"
       },
@@ -543,26 +543,6 @@
       "duration_ms": 195946,
       "name": "Que Me Siga (Malo)",
       "url": "https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC"
-    },
-    {
-      "added_at": "2022-11-12 17:24:45",
-      "album": {
-        "name": "Piedras del Sol",
-        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
-      },
-      "artists": [
-        {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "Piedras del Sol",
-      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -583,6 +563,26 @@
       "duration_ms": 284023,
       "name": "M\u00e9tele - Cesare Remix",
       "url": "https://open.spotify.com/track/5h5Mc6KAFfrVzsP9ENIH0S"
+    },
+    {
+      "added_at": "2022-11-12 17:24:45",
+      "album": {
+        "name": "Piedras del Sol",
+        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "Piedras del Sol",
+      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -875,38 +875,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Vayay\u00f3",
-        "url": "https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Vayay\u00f3",
-      "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "El Baile de las Ara\u00f1as",
-        "url": "https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw"
-      },
-      "artists": [
-        {
-          "name": "PAAX (Tulum)",
-          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
-        }
-      ],
-      "duration_ms": 404351,
-      "name": "Elelu Tomassita",
-      "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -927,18 +895,50 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Kinky (Remastered)",
-        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
+        "name": "El Baile de las Ara\u00f1as",
+        "url": "https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw"
       },
       "artists": [
         {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+          "name": "PAAX (Tulum)",
+          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
         }
       ],
-      "duration_ms": 238280,
-      "name": "Sambita - Remastered",
-      "url": "https://open.spotify.com/track/3WqdQxa5yPMLSbbnA1u2s3"
+      "duration_ms": 404351,
+      "name": "Elelu Tomassita",
+      "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Vayay\u00f3",
+        "url": "https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Vayay\u00f3",
+      "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "L\u00e1zaro",
+        "url": "https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN"
+      },
+      "artists": [
+        {
+          "name": "Casta",
+          "url": "https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ"
+        }
+      ],
+      "duration_ms": 256551,
+      "name": "Pandemia",
+      "url": "https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8"
     }
   ],
   "unique_name": "Club Electropical",

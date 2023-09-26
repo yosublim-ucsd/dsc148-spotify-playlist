@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 78506,
+  "num_followers": 78529,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWE3YTJiNTE3NmU1ZTJiNjMxNWI2NDZjYWYxYmY4MmY0MjUwNmQ3",
+  "snapshot_id": "MCxmYjdkOWUyZTRhNDI4NGQ5YTk4Mzk1MDFmMjAyNGNjNjFhODRiNjYz",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "i wanna be your girlfriend",
+        "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 204990,
+      "name": "i wanna be your girlfriend",
+      "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Marlboro Nights",
         "url": "https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz"
       },
@@ -171,38 +187,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "i wanna be your girlfriend",
-        "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 204990,
-      "name": "i wanna be your girlfriend",
-      "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -215,6 +199,38 @@
       "duration_ms": 193429,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "girls",
+        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "girls",
+      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -251,6 +267,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137141,
+      "name": "Me and My Husband",
+      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -263,22 +295,6 @@
       "duration_ms": 204014,
       "name": "Hot Rod",
       "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "1950",
-        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "1950",
-      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -299,50 +315,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 137141,
-      "name": "Me and My Husband",
-      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 577199,
-      "name": "Venice Bitch",
-      "url": "https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "girls",
-        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "girls",
-      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -359,6 +343,22 @@
       "duration_ms": 234369,
       "name": "Casio",
       "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 577199,
+      "name": "Venice Bitch",
+      "url": "https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "we just need some time together",
-        "url": "https://open.spotify.com/album/4Pr42qDjwPOxMxB9aJBDPG"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 235225,
-      "name": "affection",
-      "url": "https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "summer depression",
         "url": "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 151693,
       "name": "summer depression",
       "url": "https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "we just need some time together",
+        "url": "https://open.spotify.com/album/4Pr42qDjwPOxMxB9aJBDPG"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 235225,
+      "name": "affection",
+      "url": "https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 303296,
+      "name": "Sesame Syrup",
+      "url": "https://open.spotify.com/track/53k1gKFpKrDbktUzrB80f0"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "The Now Now",
         "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 303296,
-      "name": "Sesame Syrup",
-      "url": "https://open.spotify.com/track/53k1gKFpKrDbktUzrB80f0"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Now, Not Yet",
         "url": "https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 207851,
-      "name": "TOOTIMETOOTIMETOOTIME",
-      "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Tearing At The Seams",
         "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 214160,
       "name": "You Worry Me",
       "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 207851,
+      "name": "TOOTIMETOOTIMETOOTIME",
+      "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "RIP Indo Hisashi",
-        "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
-      },
-      "artists": [
-        {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        },
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 195501,
-      "name": "Narcissist (feat. The 1975)",
-      "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -935,18 +915,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+        "name": "RIP Indo Hisashi",
+        "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
       },
       "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        },
         {
           "name": "The 1975",
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 225955,
-      "name": "Sincerity Is Scary",
-      "url": "https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8"
+      "duration_ms": 195501,
+      "name": "Narcissist (feat. The 1975)",
+      "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -979,6 +963,22 @@
       "duration_ms": 236727,
       "name": "Lover Boy",
       "url": "https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 225955,
+      "name": "Sincerity Is Scary",
+      "url": "https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Greek God",
+      "url": "https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Chiquito",
         "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 207720,
       "name": "Talia",
       "url": "https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Greek God",
-      "url": "https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "High As Hope",
-        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Sky Full Of Song",
-      "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Pussy Is God",
         "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 205533,
       "name": "Pussy Is God",
       "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "High As Hope",
+        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Sky Full Of Song",
+      "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Cheetah Tongue",
-      "url": "https://open.spotify.com/track/0Pa1cE18FyJqPNQZSeCl0c"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Love Is Dead",
-        "url": "https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG"
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
       },
       "artists": [
         {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 188251,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/2Kc1WhZsBbR2ZLbSyv83hO"
+      "duration_ms": 219481,
+      "name": "Cheetah Tongue",
+      "url": "https://open.spotify.com/track/0Pa1cE18FyJqPNQZSeCl0c"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1659,6 +1643,22 @@
       "duration_ms": 208760,
       "name": "Calm",
       "url": "https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Drunk In LA",
+      "url": "https://open.spotify.com/track/76XDNJIQpP9WGO5XASGBww"
     }
   ],
   "unique_name": "Best of Indie 2018",

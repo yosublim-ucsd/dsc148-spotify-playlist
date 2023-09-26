@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 66186,
+  "num_followers": 66275,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjMzZWJhNDZkNzZkMzBlZmNmNTUxYWIwM2M0MzRkOGY5NTI5ODM0",
+  "snapshot_id": "MCwxNThlZjY4OTQwZmE0ODU0MDA5MTIzYjJmNzQ1NGI4YzUwM2JiYjMz",
   "tracks": [
     {
       "added_at": "2023-09-22 11:16:18",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Bring It On Home",
-      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
@@ -191,6 +175,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Bring It On Home",
+      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "My Home Is In The Delta",
+      "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "Harlem Street Singer",
         "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 221120,
       "name": "With My Maker I Am One",
       "url": "https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "My Home Is In The Delta",
-      "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 218357,
+      "name": "How to Love",
+      "url": "https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 194321,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
-        }
-      ],
-      "duration_ms": 218357,
-      "name": "How to Love",
-      "url": "https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 360480,
-      "name": "Blue River Rising",
-      "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Neckbone Stew",
         "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 351960,
       "name": "Death Letter",
       "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 360480,
+      "name": "Blue River Rising",
+      "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+        "name": "Navigation Blues",
+        "url": "https://open.spotify.com/album/291j4jpDLGN5NeGlOyL5Kh"
       },
       "artists": [
         {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+          "name": "Thorbj\u00f8rn Risager",
+          "url": "https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT"
+        },
+        {
+          "name": "The Black Tornado",
+          "url": "https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD"
         }
       ],
-      "duration_ms": 236182,
-      "name": "Money Talks",
-      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
+      "duration_ms": 296466,
+      "name": "Navigation Blues",
+      "url": "https://open.spotify.com/track/1NC7eqWo4K8RaTfpLKWoe0"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1323,22 +1327,18 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Navigation Blues",
-        "url": "https://open.spotify.com/album/291j4jpDLGN5NeGlOyL5Kh"
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
       "artists": [
         {
-          "name": "Thorbj\u00f8rn Risager",
-          "url": "https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT"
-        },
-        {
-          "name": "The Black Tornado",
-          "url": "https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD"
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
         }
       ],
-      "duration_ms": 296466,
-      "name": "Navigation Blues",
-      "url": "https://open.spotify.com/track/1NC7eqWo4K8RaTfpLKWoe0"
+      "duration_ms": 236182,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Hangover Blues",
-        "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "Hangover Blues",
-      "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "A Soul to Claim",
         "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 267512,
       "name": "Only Porter at the Station",
       "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Hangover Blues",
+        "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 244746,
+      "name": "Hangover Blues",
+      "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Wasted Time",
-        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
-      },
-      "artists": [
-        {
-          "name": "Shannon McNally",
-          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
-        }
-      ],
-      "duration_ms": 138040,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Midnight Call",
         "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 288240,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Wasted Time",
+        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
+      },
+      "artists": [
+        {
+          "name": "Shannon McNally",
+          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
+        }
+      ],
+      "duration_ms": 138040,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "When Your Best Friend Turns Their Back On You",
-        "url": "https://open.spotify.com/album/3Ay1P99wYBVNKeQTF6z6M4"
-      },
-      "artists": [
-        {
-          "name": "John Littlejohn",
-          "url": "https://open.spotify.com/artist/2HzWKvI04SaehwU6bM9GUn"
-        }
-      ],
-      "duration_ms": 361200,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/24iHvzbOM56UjDckloaz6o"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Elemental",
         "url": "https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz"
       },
@@ -1783,6 +1767,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "When Your Best Friend Turns Their Back On You",
+        "url": "https://open.spotify.com/album/3Ay1P99wYBVNKeQTF6z6M4"
+      },
+      "artists": [
+        {
+          "name": "John Littlejohn",
+          "url": "https://open.spotify.com/artist/2HzWKvI04SaehwU6bM9GUn"
+        }
+      ],
+      "duration_ms": 361200,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/24iHvzbOM56UjDckloaz6o"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
@@ -1795,6 +1795,22 @@
       "duration_ms": 231373,
       "name": "Dance In The Fire",
       "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Misery Loves Company",
+        "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
+      },
+      "artists": [
+        {
+          "name": "Mary Flower",
+          "url": "https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2"
+        }
+      ],
+      "duration_ms": 372440,
+      "name": "Death Letter Blues",
+      "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1815,18 +1831,18 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Misery Loves Company",
-        "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
       },
       "artists": [
         {
-          "name": "Mary Flower",
-          "url": "https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2"
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 372440,
-      "name": "Death Letter Blues",
-      "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
+      "duration_ms": 335880,
+      "name": "Stagolee",
+      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1851,6 +1867,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "Wild Country",
+        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
+      },
+      "artists": [
+        {
+          "name": "Carmel",
+          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
+        }
+      ],
+      "duration_ms": 358133,
+      "name": "Wild Country 2021",
+      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "Newbury",
         "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
       },
@@ -1867,38 +1899,6 @@
       "duration_ms": 198000,
       "name": "Newbury",
       "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "Vanguard Visionaries",
-        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 335880,
-      "name": "Stagolee",
-      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "Wild Country",
-        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
-      },
-      "artists": [
-        {
-          "name": "Carmel",
-          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
-        }
-      ],
-      "duration_ms": 358133,
-      "name": "Wild Country 2021",
-      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Make Myself Me Again",
-        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
-      },
-      "artists": [
-        {
-          "name": "Cristina Vane",
-          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
-        }
-      ],
-      "duration_ms": 169826,
-      "name": "Small Town Nashville Blues",
-      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
       },
@@ -1967,22 +1951,6 @@
       "duration_ms": 222724,
       "name": "Smoke In Heaven",
       "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "Empire State Express",
-        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Empire State Express",
-      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -2003,6 +1971,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "Make Myself Me Again",
+        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
+      },
+      "artists": [
+        {
+          "name": "Cristina Vane",
+          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
+        }
+      ],
+      "duration_ms": 169826,
+      "name": "Small Town Nashville Blues",
+      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "Guitar Blues 101",
         "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 273573,
       "name": "Rollin' and Tumblin'",
       "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Empire State Express",
+        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Empire State Express",
+      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
     },
     {
       "added_at": "2023-09-22 11:16:18",

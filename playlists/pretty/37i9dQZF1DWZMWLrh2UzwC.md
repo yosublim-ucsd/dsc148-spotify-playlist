@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,280 likes - 96 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,276 likes - 96 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 95 | [Main Thing](https://open.spotify.com/track/1aSjnYP1J124WyGB7MsJ5X) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Main Thing](https://open.spotify.com/album/5ZNijsH0jWLSZiD7BDB0YB) | 2:16 |
 | 96 | [Rodeo](https://open.spotify.com/track/7cD3GOKnMPgW4m37meuv3J) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Rodeo](https://open.spotify.com/album/3qRfgIajUoPGnLDZSlX33g) | 2:35 |
 
-Snapshot ID: `MCxkMTFmMzk5NWFhM2I3ZTM1OTZhN2FjNjYxNWUxZDE3ZGRhOGU0NjJk`
+Snapshot ID: `MCxjOTFjZjBkZWZlZmRkMGI1Yzc2YTE1MzllYmM5MmY3MjkzYWM1NDFm`

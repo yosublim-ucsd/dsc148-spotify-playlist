@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con Jacob Forever en portada.",
-  "num_followers": 2407,
+  "num_followers": 2452,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWI1M2JiNWU3YzlkNjUwNjY0OGQxYmYzMjk3OTVlYWQ0YTUwM2Iy",
+  "snapshot_id": "MCwyNjkzMjIwNjU5ZmNiYmJjMjQ4NjhhMDMyZGVhNTI4YWZiMjJhOGVh",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "OTRA COSA",
+        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Si No Vuelves",
+      "url": "https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Abr\u00e1zame Muy Fuerte",
         "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 215453,
       "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
       "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "OTRA COSA",
-        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Si No Vuelves",
-      "url": "https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Invicto",
-        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Blychy",
         "url": "https://open.spotify.com/album/5Xv5Est3n7bg7dZmo8ul8i"
       },
@@ -411,26 +395,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Muchacha",
-        "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "Muchacha",
-      "url": "https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
       },
@@ -447,6 +411,26 @@
       "duration_ms": 203273,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Muchacha",
+        "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "Muchacha",
+      "url": "https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -475,6 +459,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Agua Noche Remix",
         "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 238269,
       "name": "Agua Noche Remix",
       "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Todo Est\u00e1 Ok",
+        "url": "https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK"
+      },
+      "artists": [
+        {
+          "name": "Fixty Ordara y Ja Rulay",
+          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+        }
+      ],
+      "duration_ms": 214574,
+      "name": "Todo Est\u00e1 Ok",
+      "url": "https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -515,22 +531,6 @@
       "duration_ms": 187826,
       "name": "Southwezzzt",
       "url": "https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Todo Est\u00e1 Ok",
-        "url": "https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK"
-      },
-      "artists": [
-        {
-          "name": "Fixty Ordara y Ja Rulay",
-          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
-        }
-      ],
-      "duration_ms": 214574,
-      "name": "Todo Est\u00e1 Ok",
-      "url": "https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Tamoarriba",
-        "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        }
-      ],
-      "duration_ms": 210228,
-      "name": "Otro Trago",
-      "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "La Diferencia",
         "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
       },
@@ -687,26 +667,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Lagrimas de Champan",
-        "url": "https://open.spotify.com/album/0Todvs4mCXdaRprlytDK7E"
+        "name": "Tamoarriba",
+        "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
         },
         {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "El Carli",
-          "url": "https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1"
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
         }
       ],
-      "duration_ms": 195986,
-      "name": "Lagrimas de Champan",
-      "url": "https://open.spotify.com/track/467QxcDwgclgfAyiOoe0sU"
+      "duration_ms": 210228,
+      "name": "Otro Trago",
+      "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -775,6 +751,30 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Lagrimas de Champan",
+        "url": "https://open.spotify.com/album/0Todvs4mCXdaRprlytDK7E"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "El Carli",
+          "url": "https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Lagrimas de Champan",
+      "url": "https://open.spotify.com/track/467QxcDwgclgfAyiOoe0sU"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Habla Matador",
         "url": "https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 163551,
       "name": "Habla Matador",
       "url": "https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Toxica",
+        "url": "https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO"
+      },
+      "artists": [
+        {
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        }
+      ],
+      "duration_ms": 231250,
+      "name": "Toxica",
+      "url": "https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -875,18 +891,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Toxica",
-        "url": "https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO"
+        "name": "Dicelo",
+        "url": "https://open.spotify.com/album/65akUfK8vk8Nc4i6IM4igH"
       },
       "artists": [
         {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+          "name": "Lianet Rivero",
+          "url": "https://open.spotify.com/artist/3j8PyngjyNhnbOUlWX7Naf"
+        },
+        {
+          "name": "Lia",
+          "url": "https://open.spotify.com/artist/3AWuifXTvl9lTa9lyjB94Z"
+        },
+        {
+          "name": "Gatillo",
+          "url": "https://open.spotify.com/artist/299LR5yQ0wDij37IEsG1LT"
         }
       ],
-      "duration_ms": 231250,
-      "name": "Toxica",
-      "url": "https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1"
+      "duration_ms": 153563,
+      "name": "Dicelo",
+      "url": "https://open.spotify.com/track/5asyOj4gG21a2pKzqBIMOk"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -931,26 +955,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Un Beso",
-        "url": "https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R"
-      },
-      "artists": [
-        {
-          "name": "El Kamel",
-          "url": "https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 193526,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "#Round2",
         "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
       },
@@ -967,6 +971,26 @@
       "duration_ms": 178213,
       "name": "Pobre Coraz\u00f3n - with Lenier",
       "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Un Beso",
+        "url": "https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R"
+      },
+      "artists": [
+        {
+          "name": "El Kamel",
+          "url": "https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 193526,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1011,62 +1035,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Dicelo",
-        "url": "https://open.spotify.com/album/65akUfK8vk8Nc4i6IM4igH"
-      },
-      "artists": [
-        {
-          "name": "Lianet Rivero",
-          "url": "https://open.spotify.com/artist/3j8PyngjyNhnbOUlWX7Naf"
-        },
-        {
-          "name": "Lia",
-          "url": "https://open.spotify.com/artist/3AWuifXTvl9lTa9lyjB94Z"
-        },
-        {
-          "name": "Gatillo",
-          "url": "https://open.spotify.com/artist/299LR5yQ0wDij37IEsG1LT"
-        }
-      ],
-      "duration_ms": 153563,
-      "name": "Dicelo",
-      "url": "https://open.spotify.com/track/5asyOj4gG21a2pKzqBIMOk"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Tu & Yo (Remix)",
-        "url": "https://open.spotify.com/album/7aC9SavBc4WfPAbcVqiBbk"
-      },
-      "artists": [
-        {
-          "name": "El Kamel",
-          "url": "https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34"
-        },
-        {
-          "name": "Bryan Omega",
-          "url": "https://open.spotify.com/artist/6xWHyWz4dEAEcUieksnCqq"
-        },
-        {
-          "name": "Dekano Kano y Efowa Owa",
-          "url": "https://open.spotify.com/artist/3lyh1gSW0AbRFRTksN8H9W"
-        },
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "DJ Conds",
-          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
-        }
-      ],
-      "duration_ms": 177196,
-      "name": "Tu & Yo - Remix",
-      "url": "https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "El Gavilan",
         "url": "https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E"
       },
@@ -1083,6 +1051,34 @@
       "duration_ms": 207013,
       "name": "El Gavilan",
       "url": "https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Descaradita",
+        "url": "https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk"
+      },
+      "artists": [
+        {
+          "name": "El Chulo",
+          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
+        },
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "Yoani Star",
+          "url": "https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E"
+        }
+      ],
+      "duration_ms": 258298,
+      "name": "Descaradita",
+      "url": "https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP"
     }
   ],
   "unique_name": "Cubat\u00f3n Miami",

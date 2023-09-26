@@ -2,9 +2,9 @@
 
 ### [Música Católica ](https://open.spotify.com/playlist/37i9dQZF1DX9foP18YmfwY)
 
-> Os padres e nomes que movem multidões pelo país\. Foto: Colo de Deus
+> Os padres e nomes que movem multidões pelo país\. Foto: Ziza Fernandes
 
-117 songs - 9 hr 12 min
+118 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Não Há Deus Maior \- Ao Vivo](https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Não Há Deus Maior](https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y) | 5:41 | 2023-07-14 |  |
 | [Não Há Mais Vendaval \- Ao Vivo](https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk) | [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Não Há Mais Vendaval \(Ao Vivo\)](https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv) | 7:09 | 2022-09-02 |  |
 | [O Sagrado Que Há Aqui](https://open.spotify.com/track/2YBFupp0OR2HpD0rncxpc6) | [Comunidade CAJU](https://open.spotify.com/artist/1brshHPBEdYJSqVgYCpW0q), [Arthur Sampaio](https://open.spotify.com/artist/4qeKJNVyywIq125X9zhRjc) | [O Sagrado Que Há Aqui](https://open.spotify.com/album/3PL9nZBid3NIbcZPDpqTv4) | 3:58 | 2022-09-02 | 2023-03-25 |
+| [O Vento \(Faixa Bônus\)](https://open.spotify.com/track/1OWjFm57Jdchk8XhZFuHtO) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Segredos Deluxe \(Ao Vivo\)](https://open.spotify.com/album/1ouDCySsHSSI9BNe4GS9Eu) | 3:48 | 2023-09-25 |  |
 | [Oceano de Misericórdia](https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Ressonhar](https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4) | 4:50 | 2022-09-02 |  |
 | [Paciência](https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Paciência](https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL) | 4:28 | 2022-09-02 |  |
 | [Para Sempre Cantarei \- Ao Vivo](https://open.spotify.com/track/61kfrlgOMGQYnLiMgYrxnZ) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Para Sempre Cantarei](https://open.spotify.com/album/6bBo76VDOgEjXwWJjXfdew) | 5:21 | 2023-02-10 | 2023-03-25 |
@@ -115,7 +116,7 @@
 | [Sobre o Tempo e o Coração](https://open.spotify.com/track/7jCgbgUhJrBM7D0XSihUKr) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Sobre o Tempo e o Coração](https://open.spotify.com/album/02vMlXdOK7JMnhPvsCuCtV) | 4:51 | 2022-11-25 | 2023-02-11 |
 | [Somos do Céu](https://open.spotify.com/track/3aQzSGsSFu8BFhYfMPJP7v) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [Somos do Céu](https://open.spotify.com/album/7eTV7OBnuVeDB47FXCSMmF) | 4:54 | 2022-09-02 |  |
 | [Sopra em meu jardim](https://open.spotify.com/track/5cPJsQ7uwWG7exIM9AvXVY) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Banquete Eterno](https://open.spotify.com/album/4jnSnb99zjQcs5sjakBIyp) | 4:26 | 2022-09-02 | 2023-03-25 |
-| [Sopra Sobre os Ossos \- Ao Vivo](https://open.spotify.com/track/2rwQvgDFW0WojeTrTJXugO) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Sopra Sobre os Ossos](https://open.spotify.com/album/0O1UMwwbAw04AdLYlfeNYR) | 4:33 | 2023-05-19 |  |
+| [Sopra Sobre os Ossos \- Ao Vivo](https://open.spotify.com/track/2rwQvgDFW0WojeTrTJXugO) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Sopra Sobre os Ossos](https://open.spotify.com/album/0O1UMwwbAw04AdLYlfeNYR) | 4:33 | 2023-05-19 | 2023-09-26 |
 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 | 2023-01-13 |  |
 | [Te Adorar](https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ) | [Padre Anderson Gomes](https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9) | [Te Adorar](https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q) | 5:26 | 2022-09-02 |  |
 | [Todo Amor do Mundo](https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Kyrios \(Shalom Brasília 20 Anos\)](https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU) | 4:50 | 2022-09-02 | 2023-05-13 |

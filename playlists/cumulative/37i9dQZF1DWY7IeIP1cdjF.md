@@ -4,7 +4,7 @@
 
 > Reggaeton hits from Yandel, Myke Towers, KAROL G, Feid and more.🔥🥵
 
-338 songs - 19 hr 8 min
+339 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2021-12-24 | 2022-07-02 |
 | [Nuevo](https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Nuevo](https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX) | 2:19 | 2022-12-16 | 2023-02-04 |
 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-05-06 | 2022-06-22 |
-| [Nómina](https://open.spotify.com/track/2DCspMAztBoGnNpN5DdSBM) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:20 | 2023-09-15 |  |
+| [Nómina](https://open.spotify.com/track/2DCspMAztBoGnNpN5DdSBM) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:20 | 2023-09-15 | 2023-09-26 |
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2022-06-24 | 2022-09-03 |
 | [Ojos Azules](https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ojos Azules](https://open.spotify.com/album/5K61vlx2TL72E1eVrGVjD0) | 3:08 | 2023-09-15 |  |
 | [Ojos Rojos](https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ojos Rojos](https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY) | 2:32 | 2022-01-28 | 2022-05-20 |
@@ -315,6 +315,7 @@
 | [Un Minuto](https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Minuto](https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8) | 2:57 | 2022-10-14 | 2022-12-03 |
 | [UN PASO](https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [UN PASO](https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL) | 3:12 | 2022-07-29 | 2022-08-27 |
 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 | 2022-06-17 | 2022-09-03 |
+| [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 | 2023-09-26 |  |
 | [Un Ratito](https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2022-05-17 | 2022-06-11 |
 | [Un Viaje](https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Un Viaje](https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36) | 4:45 | 2022-04-29 | 2022-06-22 |
 | [UNA MÁS](https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:46 | 2021-12-24 | 2022-05-14 |

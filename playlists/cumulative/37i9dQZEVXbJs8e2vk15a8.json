@@ -136,7 +136,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 233987,
       "name": "1847. Chile. Himno Nacional Chileno. National Anthems of Chile. Patriotic Song",
       "url": "https://open.spotify.com/track/175MdDpe1gyifn5JaqTeDn"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 139612,
       "name": "Bajo el Sombrero",
       "url": "https://open.spotify.com/track/41buW9gXHeIxw7KsXgDbAG"
@@ -6072,7 +6072,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 145386,
       "name": "Desde Que No Estas Presente",
       "url": "https://open.spotify.com/track/6y6uv2CQPUgTEcS5eJb7nS"
@@ -10452,7 +10452,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 126600,
       "name": "I LOVE YOU HOE (w/ 9lives)",
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
@@ -11450,7 +11450,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 151578,
       "name": "Kraazy",
       "url": "https://open.spotify.com/track/3s2Qd1rsWqbvOoxpFTRp8D"
@@ -11606,7 +11606,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 127540,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/2JlL3yaP7lRShXUkuoEKza"
@@ -11730,7 +11730,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 119153,
       "name": "La Guaracha Consentida (Guaracha)",
       "url": "https://open.spotify.com/track/75UfTqxolLfpayQ6cmlJ8P"
@@ -14201,6 +14201,24 @@
     },
     {
       "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134948,
+      "name": "MEDIA LUNA",
+      "url": "https://open.spotify.com/track/7h3mCPlHYCPuSG93s7M3Xt"
+    },
+    {
+      "album": {
         "name": "La Mejor Fiesta Dieciochera",
         "url": "https://open.spotify.com/album/6F5qMCFpPR1tfIVN6yc26H"
       },
@@ -15064,7 +15082,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-26",
       "duration_ms": 2496490,
       "name": "Mix Cachengue 1 - Remix",
       "url": "https://open.spotify.com/track/36JeKX8dz40HS9X3wA3aYD"
@@ -19434,7 +19452,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
@@ -21774,6 +21792,24 @@
       "duration_ms": 168960,
       "name": "Si Me Sobrara el Tiempo",
       "url": "https://open.spotify.com/track/2ypbIXW3a7fsLdLtLpZWDZ"
+    },
+    {
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
       "album": {
@@ -27514,7 +27550,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 196466,
       "name": "\u9752\u306e\u3059\u307f\u304b",
       "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"

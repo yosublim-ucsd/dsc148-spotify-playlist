@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain]
 
 > Feed your focus with busy restaurant sounds, background chatter and coffee shop ambience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,531 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,580 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain]
 | 59 | [French Outdoor Coffee House](https://open.spotify.com/track/66Bc1Cxk5Lq8qtEawIjdt7) | [Noise Eternity](https://open.spotify.com/artist/0BMo2rAO5oSO9aSnjumKOD) | [An Afternoon In Paris](https://open.spotify.com/album/0RSblYAj3vWmaNwBh0YOOj) | 2:50 |
 | 60 | [Aroma Haven: A Coffee Shop in Paris](https://open.spotify.com/track/1KUlDvLhJ5PyFD3HcGoKPL) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Aroma Haven: A Coffee Shop in Paris](https://open.spotify.com/album/4gyQhQ1YbvGt5UVjLj7xDr) | 3:03 |
 
-Snapshot ID: `MCw3NWI4NzBmM2MzZjY1MzBlY2M5ODgzZDZhZTMwYWE0MDFiZTE4Nzg1`
+Snapshot ID: `MCwwY2FlOGNjNmE0M2U4YjBhYjA5MWYyMWRmYzBlNGQ0MWQ1NDkzNzM3`

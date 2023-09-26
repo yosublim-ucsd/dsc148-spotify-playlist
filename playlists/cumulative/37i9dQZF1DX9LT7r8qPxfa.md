@@ -4,7 +4,7 @@
 
 > deep & dark\. bold & bare\. cover: Samia
 
-219 songs - 13 hr 57 min
+220 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Body](https://open.spotify.com/track/7pfuJiYU9vnQgBCADJeZsc) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Body](https://open.spotify.com/album/0Fo7Dd9Yn4VqzcRO9ExChR) | 5:07 | 2022-09-16 | 2022-11-27 |
 | [Boxing Day Blues](https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:02 | 2021-11-12 | 2023-02-10 |
 | [Boxing Day Blues](https://open.spotify.com/track/5H4XMIorgnOoTrQ2JLPvEl) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, And Sometimes I Just Sit](https://open.spotify.com/album/1WBps8cIMT6LYVq5rYh5ze) | 3:02 | 2021-11-12 | 2022-07-18 |
+| [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q) | 2:50 | 2023-09-25 |  |
 | [Breathing Song](https://open.spotify.com/track/13pR0Vy22zw1in2Rd63TVn) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Breathing Song / Honey](https://open.spotify.com/album/4eUxvQuguleFjUp01I6N36) | 3:13 | 2023-01-27 |  |
 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 | 2021-11-12 |  |
 | [Buzz](https://open.spotify.com/track/55pp6iI1wvxZL93k25vzXn) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Buzz](https://open.spotify.com/album/1QChcUJsmg1rp3zL57iafO) | 4:21 | 2021-11-12 | 2022-07-29 |
@@ -176,7 +177,7 @@
 | [Something American](https://open.spotify.com/track/2a1V9QpXiVGHkb6m0vabRU) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/6IX7qWEVCJ6gzbu18jIDon) | 3:03 | 2021-11-12 | 2022-07-29 |
 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2021-11-12 |  |
 | [Souvenir](https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/5BRORKnC2HD5xhgUyR31SH) | 3:32 | 2021-11-12 | 2022-07-29 |
-| [Sprinter](https://open.spotify.com/track/0Z68g80dKNa2Nrpa4Ir5yw) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/1wxCJeQNOoNiZmaN6Ma4js) | 4:44 | 2023-06-16 |  |
+| [Sprinter](https://open.spotify.com/track/0Z68g80dKNa2Nrpa4Ir5yw) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/1wxCJeQNOoNiZmaN6Ma4js) | 4:44 | 2023-06-16 | 2023-09-26 |
 | [Sprinter](https://open.spotify.com/track/6gjkQKgCWQA2ZA9froITyw) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/69JffH9w7GDmHTmebOjlPR) | 4:44 | 2021-11-12 | 2023-08-27 |
 | [Stonecatcher \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/5mY8nk4BPdPmX3MBCaXUWK) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:42 | 2022-09-16 |  |
 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 | 2022-09-16 |  |

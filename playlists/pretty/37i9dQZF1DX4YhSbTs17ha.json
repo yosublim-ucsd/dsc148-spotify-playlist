@@ -1,12 +1,12 @@
 {
   "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Ricky Martin y Christian Nodal en portada.\n",
-  "num_followers": 1667723,
+  "num_followers": 1668312,
   "original_name": "S\u00f3lo Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGMzZDYwMjEyNWRkNDM4NzQ3MzI0YTMwMWQwM2QwM2NkOTMzOTFk",
+  "snapshot_id": "MCw5MTQ0YWM5YjllMTZjOTgzMGZiY2JlMWU2YWJlZjllMjcyYTQxMjYy",
   "tracks": [
     {
       "added_at": "2023-09-23 02:20:58",
@@ -419,6 +419,22 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "added_at": "2023-09-25 22:31:36",
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y"
     },
     {
       "added_at": "2023-09-23 02:20:58",
@@ -1151,22 +1167,6 @@
       "duration_ms": 203360,
       "name": "X SI VOLVEMOS",
       "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
-    },
-    {
-      "added_at": "2023-09-23 02:20:58",
-      "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Dos Corazones",
-      "url": "https://open.spotify.com/track/7m4kCkv68FyL1Sl1eAzSj6"
     },
     {
       "added_at": "2023-09-23 02:20:58",

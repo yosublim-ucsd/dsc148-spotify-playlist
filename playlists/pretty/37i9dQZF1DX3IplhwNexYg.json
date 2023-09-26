@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: NewDad",
-  "num_followers": 113119,
+  "num_followers": 113140,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGY0NjdiZmU2MGExZGE4NWMwM2QxNmJiNWU2MzM3NTU5YzQ1YmE5",
+  "snapshot_id": "MCwwZmNiN2UzMWZiMzlhNzI2Njk3OWUyZjg3NzZjYjY0NjU3YTdjMTI0",
   "tracks": [
     {
       "added_at": "2023-09-15 00:00:00",
@@ -119,26 +119,6 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "The Dark Prince (feat. Mac DeMarco)",
-        "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 214356,
-      "name": "The Dark Prince (feat. Mac DeMarco)",
-      "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
         "name": "Call Me What You Like",
         "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "The Dark Prince (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 214356,
+      "name": "The Dark Prince (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
+        "name": "Turn The World On",
+        "url": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Turn The World On",
+      "url": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
       },
@@ -359,18 +375,18 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "Turn The World On",
-        "url": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 210173,
-      "name": "Turn The World On",
-      "url": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
+      "duration_ms": 191102,
+      "name": "Shower Beer",
+      "url": "https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -403,22 +419,6 @@
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/7lo2Wos97Xq6DFHURcsxeQ"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
-        "name": "Blame My Ex",
-        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 191102,
-      "name": "Shower Beer",
-      "url": "https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
+        "name": "Skinty Fia",
+        "url": "https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 268906,
+      "name": "Roman Holiday",
+      "url": "https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
         "name": "strawberry chainsaw",
         "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 320186,
       "name": "Slowing Down",
       "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
-        "name": "Skinty Fia",
-        "url": "https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 268906,
-      "name": "Roman Holiday",
-      "url": "https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
+        "name": "Nothing Works",
+        "url": "https://open.spotify.com/album/6LkILMcjrr8n9WBKVpCLz5"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252797,
+      "name": "Nothing Works",
+      "url": "https://open.spotify.com/track/14PqPtYLsUuFaqp6c4urHN"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
         "name": "Voice Of The Voiceless",
         "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 193612,
       "name": "Voice Of The Voiceless",
       "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
-        "name": "Burn The Empire",
-        "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 160346,
-      "name": "Knuckles",
-      "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
+        "name": "Burn The Empire",
+        "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
         "name": "rats in my walls",
         "url": "https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 312459,
       "name": "rats in my walls",
       "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
-        "name": "Nothing Works",
-        "url": "https://open.spotify.com/album/6LkILMcjrr8n9WBKVpCLz5"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 252797,
-      "name": "Nothing Works",
-      "url": "https://open.spotify.com/track/14PqPtYLsUuFaqp6c4urHN"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
         "name": "Cramps",
         "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 171493,
       "name": "Cramps",
       "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "Drunk & Loud",
-        "url": "https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy"
-      },
-      "artists": [
-        {
-          "name": "Bloom Twins",
-          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
-        }
-      ],
-      "duration_ms": 114964,
-      "name": "Drunk & Loud",
-      "url": "https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
         "name": "Struggle",
         "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 204407,
       "name": "Struggle - Single Version",
       "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "Drunk & Loud",
+        "url": "https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy"
+      },
+      "artists": [
+        {
+          "name": "Bloom Twins",
+          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
+        }
+      ],
+      "duration_ms": 114964,
+      "name": "Drunk & Loud",
+      "url": "https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
         "name": "PRE PLEASURE",
         "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
         "name": "Prophecy of the Dragon",
         "url": "https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 293631,
       "name": "Prophecy of the Dragon",
       "url": "https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "Bigger",
+        "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Bigger",
+      "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 202693,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
-        "name": "Bigger",
-        "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Bigger",
-      "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 261384,
-      "name": "Fingers of Steel",
-      "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
         "name": "The Overload",
         "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 196533,
       "name": "The Overload",
       "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 261384,
+      "name": "Fingers of Steel",
+      "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "So Cool",
-        "url": "https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY"
-      },
-      "artists": [
-        {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
-        }
-      ],
-      "duration_ms": 185070,
-      "name": "So Cool",
-      "url": "https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
         "name": "Waste My Life",
         "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 160853,
       "name": "Waste My Life",
       "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 185070,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6"
     },
     {
       "added_at": "2023-09-15 00:00:00",

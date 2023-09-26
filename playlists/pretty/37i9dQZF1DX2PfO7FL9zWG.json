@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Noah Kahan",
-  "num_followers": 56864,
+  "num_followers": 56993,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWNmZmVjMWE3ODBmNmNjMWRlMjg4Mzg0NjMwN2VkYTg3YTRiMWNl",
+  "snapshot_id": "MCw1ZDFmYzRmMzA1MzYyY2UxNzFlNmU2MWM0Y2JkYzQ5NmE0MmRkZGVj",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "SYML",
-        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
+        "name": "Burn, Burn, Burn",
+        "url": "https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Where's My Love",
-      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
+      "duration_ms": 268856,
+      "name": "Burn, Burn, Burn",
+      "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Burn, Burn, Burn",
-        "url": "https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR"
+        "name": "SYML",
+        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 268856,
-      "name": "Burn, Burn, Burn",
-      "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
+      "duration_ms": 202000,
+      "name": "Where's My Love",
+      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+        "name": "EP",
+        "url": "https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
         }
       ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+      "duration_ms": 178293,
+      "name": "Down by the Water",
+      "url": "https://open.spotify.com/track/4Vutl1Y7OJOBwIqVISNmzL"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -419,22 +419,6 @@
       "duration_ms": 229626,
       "name": "Heart Of My Own",
       "url": "https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 178293,
-      "name": "Down by the Water",
-      "url": "https://open.spotify.com/track/4Vutl1Y7OJOBwIqVISNmzL"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -467,6 +451,22 @@
       "duration_ms": 203653,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Bad Self Portraits",
+        "url": "https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Better Than",
+      "url": "https://open.spotify.com/track/4WMMaqVZIlUnDvICcXWgeZ"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 217408,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "The Wild",
         "url": "https://open.spotify.com/album/0yuaRX2zpvhm3lq6cppVRI"
       },
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Bad Self Portraits",
-        "url": "https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd"
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
       },
       "artists": [
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 215880,
-      "name": "Better Than",
-      "url": "https://open.spotify.com/track/4WMMaqVZIlUnDvICcXWgeZ"
+      "duration_ms": 217408,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Give Me A Minute",
         "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 193800,
       "name": "To the Mountains",
       "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Cape Elizabeth",
-        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "A Troubled Mind",
-      "url": "https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 244186,
       "name": "Can I Believe You",
       "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Cape Elizabeth",
+        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "A Troubled Mind",
+      "url": "https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Wait for You",
-        "url": "https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 193935,
-      "name": "Wait for You",
-      "url": "https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 221039,
       "name": "Believe",
       "url": "https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Wait for You",
+        "url": "https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 193935,
+      "name": "Wait for You",
+      "url": "https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Like a River",
-        "url": "https://open.spotify.com/album/3o8nivVQguilisc4zKinYI"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 215164,
-      "name": "Like a River",
-      "url": "https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Ode to a Friend",
         "url": "https://open.spotify.com/album/4nJtIUkvEQe6X4QCbcjehD"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 184013,
       "name": "Hope",
       "url": "https://open.spotify.com/track/0DOUO2YQnDrD5ad3qXA0vO"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Like a River",
+        "url": "https://open.spotify.com/album/3o8nivVQguilisc4zKinYI"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 215164,
+      "name": "Like a River",
+      "url": "https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Slow Tide",
+        "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 191916,
+      "name": "Now You Don't",
+      "url": "https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Th\u00e9r\u00e8se",
         "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 191693,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Slow Tide",
-        "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 191916,
-      "name": "Now You Don't",
-      "url": "https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "On the Train Ride Home",
+        "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "On the Train Ride Home",
+      "url": "https://open.spotify.com/track/4sTjyRMuBumcHsVWe9tfKL"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "On the Train Ride Home",
-        "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 227200,
-      "name": "On the Train Ride Home",
-      "url": "https://open.spotify.com/track/4sTjyRMuBumcHsVWe9tfKL"
+      "duration_ms": 285786,
+      "name": "Golden Embers",
+      "url": "https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 285786,
-      "name": "Golden Embers",
-      "url": "https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs"
+      "duration_ms": 234240,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 222704,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
     },
     {
       "added_at": "2023-08-25 04:00:00",

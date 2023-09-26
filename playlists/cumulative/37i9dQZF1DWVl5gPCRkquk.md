@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-284 songs - 17 hr 47 min
+285 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [As It Is](https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 3:04 | 2022-04-15 |  |
 | [As It Is](https://open.spotify.com/track/3zk8q1oiLgGtnPnepxF2vc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [As It Is](https://open.spotify.com/album/6ZslerQEyaHzEITrBQahOZ) | 3:04 | 2021-10-29 | 2022-07-29 |
 | [Ashes and Leaves](https://open.spotify.com/track/64q6TPp4OacNHu9gulAXsv) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Ashes and Leaves](https://open.spotify.com/album/3W5igH7osnheDaB6nivsaL) | 3:32 | 2021-10-29 | 2022-04-21 |
+| [Avalanche](https://open.spotify.com/track/4E2Spia8iCpVqoVUnjavWe) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo) | 4:18 | 2023-09-25 |  |
 | [Birds](https://open.spotify.com/track/5EGPgYmkYZbA4vEVVAFaOL) | [Jessie Early](https://open.spotify.com/artist/0xGWbDs5hpYFmiOoMpm0EL) | [The Fire Never Dies](https://open.spotify.com/album/6Qz8VEatH6nwsvIEB7vDk8) | 3:41 | 2021-10-29 | 2022-07-29 |
 | [Blind in the Fray](https://open.spotify.com/track/25hEexChI4sq7CH1K4hqh8) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/1A43T5C9vFdOXecyJAE1We) | 3:33 | 2021-10-29 | 2022-04-20 |
 | [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 | 2022-04-15 | 2023-01-24 |
@@ -81,7 +82,7 @@
 | [Easy Rider](https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:49 | 2022-04-15 |  |
 | [Easy Way Out](https://open.spotify.com/track/2V6DAmBQMKUkXFw5rcbRF2) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/7iXMplFdSUSWPl5ALrREZT) | 4:39 | 2021-10-29 | 2022-06-01 |
 | [El Dorado](https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [El Dorado](https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV) | 4:23 | 2023-04-28 | 2023-08-10 |
-| [El Dorado](https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [City of Gold](https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK) | 4:23 | 2023-08-11 |  |
+| [El Dorado](https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [City of Gold](https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK) | 4:23 | 2023-08-11 | 2023-09-26 |
 | [El Invento](https://open.spotify.com/track/15MrK18b57Reu75doUBMxb) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/73UwOPqykgw5pYAVLfu8Zo) | 2:33 | 2021-10-29 | 2022-07-29 |
 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 | 2022-04-15 |  |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-18 | 2023-03-03 |

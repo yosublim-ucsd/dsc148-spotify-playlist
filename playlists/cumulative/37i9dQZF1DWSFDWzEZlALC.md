@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-375 songs - 18 hr 16 min
+376 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Coffee](https://open.spotify.com/track/4KYSMT1E0CxFCbwEyWnCk6) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Coffee](https://open.spotify.com/album/5Cr6d0PQdd5N7XbzkRc5Jm) | 3:09 | 2023-04-13 | 2023-05-12 |
 | [Cold Brew \(Kaffee Warm 4\)](https://open.spotify.com/track/7yGxLsh0X7FLYpExiDFzeX) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [DREI](https://open.spotify.com/album/0OLeSL3f9par2MJDePcZeG) | 3:56 | 2023-02-13 | 2023-02-15 |
 | [Da](https://open.spotify.com/track/60Ac16dw9YAxCVldTXMqWF) | [ANOKI](https://open.spotify.com/artist/3EhgyxwXCxedAWunhIwSFx) | [Da](https://open.spotify.com/album/1DyF8GDnFqRmCTD9lMSk8H) | 2:40 | 2023-02-02 | 2023-02-17 |
-| [Da für dich](https://open.spotify.com/track/5YP1scuRzU6LOgj7u1rnvt) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Da für dich](https://open.spotify.com/album/26JCG4Lq0kTAlmVOu6OBqt) | 3:16 | 2023-08-17 |  |
+| [Da für dich](https://open.spotify.com/track/3NkJtlg9t7NhkyUMDetOHg) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:16 | 2023-09-22 |  |
+| [Da für dich](https://open.spotify.com/track/5YP1scuRzU6LOgj7u1rnvt) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Da für dich](https://open.spotify.com/album/26JCG4Lq0kTAlmVOu6OBqt) | 3:16 | 2023-08-17 | 2023-09-26 |
 | [Dachlatte](https://open.spotify.com/track/2YcszBSjgcmS5D0CoOVXhQ) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Dachlatte](https://open.spotify.com/album/3oZKx5UGTICjl10psqJLtu) | 3:20 | 2023-02-02 | 2023-04-21 |
 | [Danke dass du mich verlassen hast](https://open.spotify.com/track/1D3iM8TeSYE9HqoIT0ATd3) | [Fatoni](https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Danke dass du mich verlassen hast](https://open.spotify.com/album/6Z2C1VCW2k8vJl2DQ0IXiD) | 3:17 | 2023-03-09 | 2023-09-15 |
 | [Das Ende](https://open.spotify.com/track/0DDHtSayQu3J1TiT55N5ZX) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Das Ende](https://open.spotify.com/album/0d9xLjHz5iZonsNWlde4b5) | 3:44 | 2023-06-22 | 2023-07-28 |

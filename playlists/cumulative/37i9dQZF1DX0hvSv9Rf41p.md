@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Excision & Subtronics.
 
-609 songs - 1 day 11 hr 11 min
+610 songs - 1 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Breath](https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Breath](https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8) | 3:20 | 2023-04-07 |  |
 | [Breathe](https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Breathe](https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh) | 4:08 | 2021-12-17 | 2022-03-12 |
 | [Brightest Light \(feat\. Dotter\)](https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Beyond The Veil \(Deluxe\)](https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy) | 3:58 | 2023-02-17 |  |
+| [Bring It Back \(Spencer Ramsay Remix\)](https://open.spotify.com/track/558wlAeGGjLBB1cua3OpSh) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I), [Spencer Ramsay](https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji) | [Bring It Back \(Spencer Ramsay Remix\)](https://open.spotify.com/album/2JVhngo2MEV6euWD4HqLZ7) | 2:05 | 2023-09-22 |  |
 | [Broken & Beautiful \- Original Mix](https://open.spotify.com/track/5SKZkPK5A3CpQQ9NrdGtSr) | [Gl0bal](https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV), [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A), [Xtina Louise](https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN) | [Judgement Day](https://open.spotify.com/album/7DkSbcu3i5zNcGRFcGdQ1G) | 4:26 | 2023-07-07 | 2023-09-16 |
 | [Bullet](https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Haunted Haus](https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5) | 3:21 | 2022-04-15 | 2023-02-25 |
 | [Buried](https://open.spotify.com/track/47Yi7jvxnwCG0zGa41vmU1) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [HYPRESSION](https://open.spotify.com/artist/440CkJeA4aZmro26BGCyt0) | [Buried](https://open.spotify.com/album/2otfgJdwm5nsZkq9dN3ssz) | 4:13 | 2021-12-17 | 2022-03-12 |
@@ -296,7 +297,7 @@
 | [Keep You \(Close\)](https://open.spotify.com/track/7h3L3Dsr2bNd2NIwoXcsNu) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [PLAY: GRID](https://open.spotify.com/album/0AhHp5xTgnoJvZgzhFQJuw) | 2:46 | 2023-09-15 |  |
 | [KENKA](https://open.spotify.com/track/0IWI0riXpzyc5FqVuoljGJ) | [Psyk](https://open.spotify.com/artist/2RusBZlkZ9lETokC77zCH6), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [Lazerpunk](https://open.spotify.com/artist/1xFCRE0T1SELBAaxtlG5X3) | [KENKA](https://open.spotify.com/album/33ClsVhy2gpOIVF9rAE8LX) | 3:22 | 2021-12-17 | 2022-03-12 |
 | [Kill Me With Your Love](https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Kill Me With Your Love](https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31) | 2:54 | 2022-01-21 | 2022-08-06 |
-| [KILLA](https://open.spotify.com/track/1B8rygL2m0YFYXKfxNqsG1) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [ESCARGOT](https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3) | [KILLA](https://open.spotify.com/album/1xZ3vAVE835fY1Gi5O17Sa) | 3:24 | 2023-07-21 |  |
+| [KILLA](https://open.spotify.com/track/1B8rygL2m0YFYXKfxNqsG1) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [ESCARGOT](https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3) | [KILLA](https://open.spotify.com/album/1xZ3vAVE835fY1Gi5O17Sa) | 3:24 | 2023-07-21 | 2023-09-26 |
 | [King](https://open.spotify.com/track/0zLwiYqZEwjS4p85V07uOh) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [King](https://open.spotify.com/album/31BofjIuJwIht4LCcUmzDH) | 2:55 | 2023-05-19 | 2023-09-09 |
 | [Kiwi](https://open.spotify.com/track/1NVvUFQF36tfet1CoAN2fM) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [Riotville ADE Compilation 2022](https://open.spotify.com/album/1Q5WOq8xnIggDbpsSk1Z2E) | 2:26 | 2022-09-30 | 2022-10-20 |
 | [Kiwi](https://open.spotify.com/track/55b0r9RIvfhCJKCRqpGy4q) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [Kiwi](https://open.spotify.com/album/0ieBSQU75oRUKPzmb9lvJT) | 2:26 | 2022-09-30 | 2023-04-09 |

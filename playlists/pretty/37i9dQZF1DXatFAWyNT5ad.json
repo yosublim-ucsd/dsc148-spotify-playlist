@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Nightly",
-  "num_followers": 122989,
+  "num_followers": 123065,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGNiNTZhYjZjODNhM2M4MjA5MGI1YzkwOTY0N2UyYjliOTYxYzAz",
+  "snapshot_id": "MCwyOGUyZWFkYjE3YzA1NjEzYmU0OWZkMzRjNTRkMWNkMWFiNWY1Yzll",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -191,30 +191,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
       "artists": [
         {
           "name": "Imagine Dragons",
           "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -335,18 +323,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -399,18 +387,30 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "THE LONELIEST",
-        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 247067,
-      "name": "THE LONELIEST",
-      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190883,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Scaled And Icy",
         "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 125746,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "JUMP!",
-        "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
-      },
-      "artists": [
-        {
-          "name": "Only The Poets",
-          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
-        }
-      ],
-      "duration_ms": 194928,
-      "name": "JUMP!",
-      "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 163321,
       "name": "Bois Lie (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "JUMP!",
+        "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "duration_ms": 194928,
+      "name": "JUMP!",
+      "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 197040,
       "name": "Barely on My Mind",
       "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "I Hope I'm Not Sick",
-        "url": "https://open.spotify.com/album/6bCQByW20neZO3EAjsTU1D"
-      },
-      "artists": [
-        {
-          "name": "Loveless",
-          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
-        }
-      ],
-      "duration_ms": 151502,
-      "name": "I Hope I'm Not Sick",
-      "url": "https://open.spotify.com/track/6VhW4SEd95xRlRKZbkQRGh"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Twinkle Twinkle",
         "url": "https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 156937,
       "name": "Twinkle Twinkle",
       "url": "https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "I Hope I'm Not Sick",
+        "url": "https://open.spotify.com/album/6bCQByW20neZO3EAjsTU1D"
+      },
+      "artists": [
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        }
+      ],
+      "duration_ms": 151502,
+      "name": "I Hope I'm Not Sick",
+      "url": "https://open.spotify.com/track/6VhW4SEd95xRlRKZbkQRGh"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Friends With Benefits",
-        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 187322,
-      "name": "Friends With Benefits",
-      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "KULT (feat. Jasiah)",
         "url": "https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 177149,
       "name": "KULT (feat. Jasiah)",
       "url": "https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Friends With Benefits",
+        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 187322,
+      "name": "Friends With Benefits",
+      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 204642,
-      "name": "the idea",
-      "url": "https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Shapeshift",
         "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 145173,
       "name": "Shapeshift",
       "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 204642,
+      "name": "the idea",
+      "url": "https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 182792,
-      "name": "dead inside",
-      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Lose My Mind (feat. Josh Franceschi)",
         "url": "https://open.spotify.com/album/3O1ZHXPJBX6CKBaxzlH5c3"
       },
@@ -1987,6 +1971,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 182792,
+      "name": "dead inside",
+      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Insanity",
         "url": "https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm"
       },
@@ -2007,18 +2007,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Team Sport",
-        "url": "https://open.spotify.com/album/3JGHQb2bf6F3HDGYJAF24R"
+        "name": "Only When I Look into Your Eyes",
+        "url": "https://open.spotify.com/album/76uDKBLiSHVMTvHBHQ668X"
       },
       "artists": [
         {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
         }
       ],
-      "duration_ms": 156160,
-      "name": "Team Sport",
-      "url": "https://open.spotify.com/track/0RKugjsByHkSiwmJfukkHc"
+      "duration_ms": 199166,
+      "name": "Only When I Look into Your Eyes",
+      "url": "https://open.spotify.com/track/44kiDYXBx8Iju8iQPyldmO"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Only When I Look into Your Eyes",
-        "url": "https://open.spotify.com/album/76uDKBLiSHVMTvHBHQ668X"
+        "name": "Team Sport",
+        "url": "https://open.spotify.com/album/3JGHQb2bf6F3HDGYJAF24R"
       },
       "artists": [
         {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
         }
       ],
-      "duration_ms": 199166,
-      "name": "Only When I Look into Your Eyes",
-      "url": "https://open.spotify.com/track/44kiDYXBx8Iju8iQPyldmO"
+      "duration_ms": 156160,
+      "name": "Team Sport",
+      "url": "https://open.spotify.com/track/0RKugjsByHkSiwmJfukkHc"
     },
     {
       "added_at": "2023-09-08 04:00:00",
