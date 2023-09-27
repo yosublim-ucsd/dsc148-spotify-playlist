@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Lloyiso
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,079 likes - 77 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,132 likes - 77 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

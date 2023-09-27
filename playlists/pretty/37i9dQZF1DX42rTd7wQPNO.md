@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 
 > put a little yee haw in your laid back
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,844 likes - 106 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,048 likes - 106 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

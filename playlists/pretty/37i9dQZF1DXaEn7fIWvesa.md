@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con Jacob Forever en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,460 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,493 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

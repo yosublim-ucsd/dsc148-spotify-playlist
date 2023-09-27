@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-917 songs - 2 day 15 hr 31 min
+919 songs - 2 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/1CgD99QQ8RReNg7LKbBO1y) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Dream A Little Dream Of Me](https://open.spotify.com/album/7ycWxV5g9evEkfpieN6YG1) | 3:00 | 2023-06-15 |  |
 | [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 | 2023-06-15 |  |
 | [Dreams About Change](https://open.spotify.com/track/1TPGqUM9ZzAfAv9FP4PtQN) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [Dreams About Change](https://open.spotify.com/album/7fIIBv08dA6Nm8DSeu5whf) | 3:17 | 2023-05-25 |  |
-| [Dreamsville](https://open.spotify.com/track/24M4rafgMYq9b49CEYPpm9) | [David Halliday](https://open.spotify.com/artist/1tPE7mBsjG1eu2w2BikKry) | [Dreamsville](https://open.spotify.com/album/71Vzhdj0zMdTZKh2YNmld7) | 7:57 | 2022-04-14 |  |
+| [Dreamsville](https://open.spotify.com/track/24M4rafgMYq9b49CEYPpm9) | [David Halliday](https://open.spotify.com/artist/1tPE7mBsjG1eu2w2BikKry) | [Dreamsville](https://open.spotify.com/album/71Vzhdj0zMdTZKh2YNmld7) | 7:57 | 2022-04-14 | 2023-09-27 |
 | [Drifting Apart](https://open.spotify.com/track/3yuGg1Z1kHMoXVMv7iGg6E) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Drifting Apart](https://open.spotify.com/album/7DTe3QXy4XrjCmu3lQUFhU) | 3:32 | 2023-05-25 |  |
 | [Duke Ellington's Sound of Love](https://open.spotify.com/track/48jxbecHxRFUKKG53mJRjl) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Plays Charles Mingus](https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f) | 3:24 | 2022-08-10 | 2022-08-30 |
 | [Early Morning Thoughts](https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 6:44 | 2022-09-13 |  |
@@ -290,6 +290,7 @@
 | [Georgia on My Mind](https://open.spotify.com/track/4CzHuCHtOZAO5Azv0N4GEi) | [Charles Cook Jr.](https://open.spotify.com/artist/6OuL9oPiYuoXRwsOVI4m0Y) | [I'm Old Fashioned](https://open.spotify.com/album/5pbOE0G65X50rK2J1gjKg3) | 3:41 | 2022-04-14 | 2022-05-18 |
 | [Giving thrills](https://open.spotify.com/track/2mKGI5TnGVSWbloCZlma6B) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Giving thrills](https://open.spotify.com/album/4I4N89jyjhMfacIc2tU4uH) | 3:11 | 2023-06-15 |  |
 | [Glencoe Sketches](https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Glencoe Sketches](https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C) | 4:21 | 2023-09-22 |  |
+| [Gloomy Sunday](https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Gloomy Sunday](https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk) | 3:13 | 2023-09-22 |  |
 | [God Bless the Child](https://open.spotify.com/track/7DUGRxCf9NFJffb5Eei8Ar) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 7:27 | 2022-04-14 | 2023-05-26 |
 | [Good Morning Heartache](https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Remembering Billie](https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd) | 5:22 | 2022-04-14 |  |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-08-11 |  |
@@ -304,6 +305,7 @@
 | [Hard and lonely road](https://open.spotify.com/track/2MbAdOCekIB8VJfH8b4zye) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Hard and lonely road](https://open.spotify.com/album/3gaUFY7kqSIM3SqY1OIefh) | 2:55 | 2023-04-14 |  |
 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2023-01-19 |  |
 | [Heartbreak Avenue](https://open.spotify.com/track/6LeUGbjrPif0UyaPYzKxdG) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Heartbreak Avenue](https://open.spotify.com/album/3RrW88TLHIjgNehr6KG4sk) | 3:08 | 2023-03-29 |  |
+| [Heartstring](https://open.spotify.com/track/4S6nFmL0sTrPWqbMet7Q3e) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Heartstring](https://open.spotify.com/album/7vEcdZNrkIzxS9uGpBQfLM) | 2:48 | 2023-09-22 |  |
 | [Heartstrings](https://open.spotify.com/track/6DWlgYRquRmphcMPBCL6NF) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Heartstrings](https://open.spotify.com/album/1rmP7N7m9ZyLGnN2R2bVSx) | 2:41 | 2023-08-18 |  |
 | [Heaven here](https://open.spotify.com/track/2J0A1Z7djWS3n0vSiyvgwQ) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Heaven here](https://open.spotify.com/album/5QtsXrImWEImIVTEV3NIai) | 3:32 | 2023-08-10 |  |
 | [Heaven Sent You](https://open.spotify.com/track/0oucU7y8EaRo6PbBHIaAdt) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:14 | 2023-06-15 |  |
@@ -463,7 +465,7 @@
 | [Limerence](https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Limerence](https://open.spotify.com/album/4dfayCxblG2wzUIJUYQeXG) | 3:47 | 2023-01-19 |  |
 | [Linda´s Dream](https://open.spotify.com/track/7fPOS25PJGYmLE1qsVXAdp) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Linda´s Dream](https://open.spotify.com/album/0q30Csvy0pQmqQ9plA1jLZ) | 2:49 | 2023-06-22 |  |
 | [Little Bell](https://open.spotify.com/track/1AQHHWxWaCZrMsqrdDTNng) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Little Bell](https://open.spotify.com/album/3Co6xU6tpBJqppc2TNis78) | 3:30 | 2022-10-06 |  |
-| [Little Friends](https://open.spotify.com/track/1XG86L7eVEwRN5wuD6E26T) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Little Friends](https://open.spotify.com/album/31CEY462P9AKYSnixdu46b) | 3:03 | 2023-06-15 |  |
+| [Little Friends](https://open.spotify.com/track/1XG86L7eVEwRN5wuD6E26T) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Little Friends](https://open.spotify.com/album/31CEY462P9AKYSnixdu46b) | 3:03 | 2023-06-15 | 2023-09-27 |
 | [Little Paradise](https://open.spotify.com/track/0eyAeKA9YPiuzsgm2fiYIp) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Little Paradise](https://open.spotify.com/album/4F829opFHrnJRKD4ozNcq5) | 4:59 | 2022-04-14 | 2022-06-09 |
 | [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-16 |  |
 | [Lock and Key](https://open.spotify.com/track/4OwHfJGfIGluHa3pi7nwlM) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 5:18 | 2022-04-14 | 2022-09-16 |

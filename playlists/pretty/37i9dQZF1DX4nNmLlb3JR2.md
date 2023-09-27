@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,279 likes - 176 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,670 likes - 176 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

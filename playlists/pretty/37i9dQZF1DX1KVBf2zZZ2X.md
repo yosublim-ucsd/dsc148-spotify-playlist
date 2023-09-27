@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,740 likes - 90 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,823 likes - 90 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 22 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 |
 | 23 | [Nature's Calling](https://open.spotify.com/track/1GwNF0VSW51XuLCyyj2HON) | [Evie May](https://open.spotify.com/artist/0UpCHJTp9iC8xQ43AyVDF4) | [Nature's Calling](https://open.spotify.com/album/6I1focCEQmsmoKj2XhabC0) | 1:55 |
 | 24 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 |
-| 25 | [Humble Present](https://open.spotify.com/track/4Vi9xSebHSxKK7LArcVcYU) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Humble Present](https://open.spotify.com/album/0hpfhie8BPcA0okirMROQB) | 3:32 |
-| 26 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 |
+| 25 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 |
+| 26 | [Humble Present](https://open.spotify.com/track/4Vi9xSebHSxKK7LArcVcYU) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Humble Present](https://open.spotify.com/album/0hpfhie8BPcA0okirMROQB) | 3:32 |
 | 27 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 |
 | 28 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 |
 | 29 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 43 | [October 21st](https://open.spotify.com/track/76cFbynsPU5uVPXifbsmfZ) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [October 21st](https://open.spotify.com/album/5olmbwDm6khNLIvNyWSBpC) | 2:24 |
 | 44 | [Rainy Day Alone](https://open.spotify.com/track/7sLGSLFtNwNKCCiv2QlvTc) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:15 |
 | 45 | [Morning on a STHLM Island](https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Morning on a STHLM Island](https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU) | 2:48 |
-| 46 | [New Lakes](https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:45 |
-| 47 | [The Darker Hours](https://open.spotify.com/track/0OF3sk5xugBzmJnE20Pm3U) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [The Darker Hours](https://open.spotify.com/album/2tgnfOPTnXWqRgwiTxwgtT) | 2:59 |
+| 46 | [The Darker Hours](https://open.spotify.com/track/0OF3sk5xugBzmJnE20Pm3U) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [The Darker Hours](https://open.spotify.com/album/2tgnfOPTnXWqRgwiTxwgtT) | 2:59 |
+| 47 | [New Lakes](https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:45 |
 | 48 | [The Long Way Home](https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:49 |
 | 49 | [Morning Sun](https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Morning Sun](https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj) | 2:47 |
 | 50 | [New Roads](https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:10 |
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 69 | [April Showers](https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi) | [Milton Laines](https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu) | [The Perfect Morning](https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB) | 2:48 |
 | 70 | [Secunda Carmina](https://open.spotify.com/track/2FwkigsYjlfvVJN4NCqyp3) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Secunda Carmina](https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG) | 3:23 |
 | 71 | [Bayou](https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:39 |
-| 72 | [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 |
-| 73 | [Song Of The Willow](https://open.spotify.com/track/2qauTYzfcc16QprcwV8put) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Song Of The Willow](https://open.spotify.com/album/4grcPo21FAY8jbe6y3JMk5) | 2:18 |
+| 72 | [Song Of The Willow](https://open.spotify.com/track/2qauTYzfcc16QprcwV8put) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Song Of The Willow](https://open.spotify.com/album/4grcPo21FAY8jbe6y3JMk5) | 2:18 |
+| 73 | [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 |
 | 74 | [Noruega](https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Noruega](https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx) | 3:45 |
-| 75 | [Evening meditation](https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Evening meditation](https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u) | 2:09 |
-| 76 | [On the Cottage Floor](https://open.spotify.com/track/0yjeRqDkfvT9iMXusDp7dq) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:46 |
+| 75 | [On the Cottage Floor](https://open.spotify.com/track/0yjeRqDkfvT9iMXusDp7dq) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:46 |
+| 76 | [Evening meditation](https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Evening meditation](https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u) | 2:09 |
 | 77 | [Passing](https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8) | [Lenards Šmits](https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx) | [Passing](https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo) | 2:42 |
 | 78 | [Nota Placidità](https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Nota Placidità](https://open.spotify.com/album/0IPDQQA8WY1zdf0lkjOdDC) | 2:31 |
 | 79 | [Relaxing Dreams](https://open.spotify.com/track/1sVSK4sDadVzioPciymr00) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Relaxing Dreams](https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4) | 4:41 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 89 | [Hygrometer](https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Hygrometer](https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C) | 2:26 |
 | 90 | [Wave](https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF) | [The Lagoon](https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA) | [Wave](https://open.spotify.com/album/16S959NluCJSWVpybU2jb8) | 3:51 |
 
-Snapshot ID: `MCxiNWNjZmJhOGQ0ZjFjNDYzZWM4MWFlYmRlODA4OTBhNjZmYTEyNDNk`
+Snapshot ID: `MCw5Y2MxMzRkNDI0NWVlOGNkZDA1MmEyZDU1NTNlNzM1N2NiMjE0ZTU2`

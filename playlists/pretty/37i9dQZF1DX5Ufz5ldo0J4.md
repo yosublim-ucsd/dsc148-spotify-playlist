@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 
 > Lean back, close your eyes, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,656 likes - 180 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,665 likes - 180 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

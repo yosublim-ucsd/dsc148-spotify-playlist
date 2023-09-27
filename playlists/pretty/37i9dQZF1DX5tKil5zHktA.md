@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tKil5zHktA.md) - [plain]
 
 > Dive into a melodic journey with <a href="spotify:artist:1eucLGnPT27tdEh6MU29wp">Marsh</a>'s DJ Mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,016 likes - 14 songs - 59 min 37 sec
+[Spotify](https://open.spotify.com/user/spotify) - 7,025 likes - 14 songs - 59 min 37 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

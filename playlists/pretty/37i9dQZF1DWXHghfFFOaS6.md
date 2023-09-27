@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,650 likes - 90 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,779 likes - 90 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 10 | [Rebirth Of Slick \(Cool Like Dat\)](https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:21 |
 | 11 | [Space Cowboy](https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:26 |
 | 12 | [Astronomy \(8th Light\)](https://open.spotify.com/track/1mIpDPCehnf3EPk6J4ZCUF) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB), [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 3:23 |
-| 13 | [Funkin' for Jamaica](https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Love Approach \(Bonus Track\)](https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP) | 4:42 |
-| 14 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 |
+| 13 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 |
+| 14 | [Funkin' for Jamaica](https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Love Approach \(Bonus Track\)](https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP) | 4:42 |
 | 15 | [The Light](https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Go! Common Classics](https://open.spotify.com/album/2IGKisSgNle7264UoY57vO) | 4:03 |
 | 16 | [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 3:57 |
-| 17 | [Back In The Day](https://open.spotify.com/track/5v1SuYGd6VFMGu8nVHzajO) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Worldwide Underground](https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY) | 4:46 |
-| 18 | [Water No Get Enemy](https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M) | 9:51 |
+| 17 | [Water No Get Enemy](https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M) | 9:51 |
+| 18 | [Back In The Day](https://open.spotify.com/track/5v1SuYGd6VFMGu8nVHzajO) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Worldwide Underground](https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY) | 4:46 |
 | 19 | [Lifesaver](https://open.spotify.com/track/6pvd8OBnYlV6FqskUOvWlx) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Baybe](https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br) | [Jazzmatazz Volume II: The New Reality](https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz) | 4:13 |
 | 20 | [Searching](https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 4:00 |
 | 21 | [The Sun God](https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:34 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 60 | [Clouds in the Sky](https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx) | [Kwaj](https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX), [V\. Soul](https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH) | [Leaves of Memories](https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul) | 2:24 |
 | 61 | [Dark Clouds Rain Soul \- Dub](https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Joyful Noise](https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd) | 5:10 |
 | 62 | [Mama Said](https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf) | [Carleen Anderson](https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6) | [True Spirit](https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp) | 4:07 |
-| 63 | [Whirl Keeps Turning](https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA) | [Galactica Rush](https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF) | 5:20 |
-| 64 | [Free Your Mind](https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 4:54 |
+| 63 | [Free Your Mind](https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 4:54 |
+| 64 | [Whirl Keeps Turning](https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA) | [Galactica Rush](https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF) | 5:20 |
 | 65 | [Girl Overboard](https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG) | [Snowboy](https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn), [Anna Ross](https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2) | [Girl Overboard](https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan) | 7:24 |
 | 66 | [Good Luck Shore](https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9) | [United Future Organization](https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh) | [Bon Voyage](https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh) | 5:27 |
 | 67 | [Datskat](https://open.spotify.com/track/0aadxOTgyCZL2ayA3GheH0) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 3:40 |

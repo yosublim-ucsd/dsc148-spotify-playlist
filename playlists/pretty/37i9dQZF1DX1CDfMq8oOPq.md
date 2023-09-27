@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Paige
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,268 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,301 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 2 | [Que Se Vá](https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:24 |
 | 3 | [Atlanta](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 | 4 | [Larga Essa Vida](https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Larga Essa Vida](https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp) | 1:59 |
-| 5 | [Combate](https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Combate](https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC) | 3:10 |
-| 6 | [Lençol](https://open.spotify.com/track/1kExsrotab58XS3pTd1Ym7) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Lençol](https://open.spotify.com/album/6k2B1qx4XwaKcg2eni2Tgm) | 3:09 |
+| 5 | [Lençol](https://open.spotify.com/track/1kExsrotab58XS3pTd1Ym7) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Lençol](https://open.spotify.com/album/6k2B1qx4XwaKcg2eni2Tgm) | 3:09 |
+| 6 | [Combate](https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Combate](https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC) | 3:10 |
 | 7 | [100 Mili](https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [100 Mili](https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi) | 2:22 |
 | 8 | [Karma](https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:57 |
 | 9 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 |

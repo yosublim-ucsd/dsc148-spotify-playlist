@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Troye Sivan
 
-1,805 songs - 3 day 19 hr 26 min
+1,807 songs - 3 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Crystal Ball](https://open.spotify.com/track/3cXNW2770x7T82Mf7Jzdsb) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Crystal Ball](https://open.spotify.com/album/4UwuVAR1eL8tQL412yJtY7) | 3:35 | 2021-11-19 | 2022-01-22 |
 | [cult leader](https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [cult leader](https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK) | 2:43 | 2022-04-01 | 2022-09-03 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-24 | 2023-04-04 |
+| [Cupid \- Twin Ver.](https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 | 2023-09-15 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-24 | 2023-09-26 |
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-02-17 | 2023-04-23 |
 | [Cyclone](https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cyclone](https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy) | 3:36 | 2022-09-02 |  |
@@ -575,7 +576,7 @@
 | [Fumari](https://open.spotify.com/track/2OQMSCUE6ClEZFJFFNqNrQ) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Fumari](https://open.spotify.com/album/5KNTwXg2Hn0FJZ1gLmMyB4) | 2:00 | 2020-11-18 | 2021-11-10 |
 | [Fun](https://open.spotify.com/track/25WvSqPQFJsuD1Y3nf6rHf) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Fun](https://open.spotify.com/album/6nJ9Phdgh848iPT0wpfYPG) | 2:18 | 2020-04-23 | 2021-10-14 |
 | [fun out of it](https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:51 | 2022-08-19 | 2022-09-17 |
-| [FYTY](https://open.spotify.com/track/53XQLHcvLkKAxTvz0Py1wC) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [FYTY](https://open.spotify.com/album/3Yp9S2bM34ia7nXn3qUcBX) | 2:52 | 2023-09-15 |  |
+| [FYTY](https://open.spotify.com/track/53XQLHcvLkKAxTvz0Py1wC) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [FYTY](https://open.spotify.com/album/3Yp9S2bM34ia7nXn3qUcBX) | 2:52 | 2023-09-15 | 2023-09-27 |
 | [Gallery](https://open.spotify.com/track/01m7F2DCkedBoRNrZsx6gW) | [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [Gallery](https://open.spotify.com/album/4kPPz52cl2ty77rxz9rkGf) | 4:02 | 2019-05-26\* | 2019-08-13 |
 | [GAMEBOY](https://open.spotify.com/track/4H7uK9wWfh8AaDS0pVWh0f) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [GAMEBOY](https://open.spotify.com/album/6CrxVIs6PZY93TYnNwVx3W) | 2:11 | 2021-12-24 | 2022-01-29 |
 | [garden of devotion](https://open.spotify.com/track/2zNegAKuYFUovXpeSGrjfK) | [Adriel Rivera](https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73) | [garden of devotion](https://open.spotify.com/album/1X1MVOluBxDGT8j3fvG2QY) | 3:04 | 2021-12-24 | 2022-01-15 |
@@ -683,6 +684,7 @@
 | [Heartbeat](https://open.spotify.com/track/7JKf9DEKBAdyILvDh4jzHy) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Heartbeat](https://open.spotify.com/album/3GchcqeNKAlCtvYOOQ4JbV) | 3:36 | 2019-05-26\* | 2019-08-13 |
 | [Heartbreak Back](https://open.spotify.com/track/6kyhJvTKWQzlcYywNZRDsy) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [Heartbreak Back](https://open.spotify.com/album/3kguA2LG2117EOLM3bQxVm) | 3:36 | 2019-05-26\* | 2019-09-14 |
 | [Heartbreak Magic](https://open.spotify.com/track/2xDF7yuo284KTe5yZEsuE9) | [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Heartbreak Magic](https://open.spotify.com/album/3EHwhZfwyVZqCgtthoYbfE) | 3:22 | 2019-07-27 | 2021-05-20 |
+| [Heartbreak Souvenirs](https://open.spotify.com/track/1v7exhEYimYPHHV58YyYY6) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Heartbreak Souvenirs](https://open.spotify.com/album/2KQ3PWiOJWWlei0U5j9E0b) | 3:13 | 2023-09-22 |  |
 | [Heartbreaker](https://open.spotify.com/track/1Sku9ZUiYYzwCdUwSNqfbX) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Heartbreaker](https://open.spotify.com/album/2tfiuvojqj9cPHMFWMzset) | 2:35 | 2020-08-22 | 2021-01-15 |
 | [Heartworks](https://open.spotify.com/track/17onAqgx91Bp9MXtF4TvJ8) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Heartworks](https://open.spotify.com/album/1HIM724n5CusJzGpfbIBX7) | 2:39 | 2019-12-08 | 2021-11-10 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2020-08-20 | 2022-01-01 |
@@ -760,7 +762,7 @@
 | [Hydra](https://open.spotify.com/track/09o11md5fskmIRdfFA7l4T) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hydra](https://open.spotify.com/album/35Q1l3VWkjiFnxXfxJrxNk) | 2:45 | 2021-03-27 | 2021-11-20 |
 | [Hyperfixations](https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hyperfixations](https://open.spotify.com/album/6JmO57rWensoCLLngSqju1) | 3:15 | 2023-03-24 | 2023-07-25 |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2021-11-19 | 2022-09-03 |
-| [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-04-08 |  |
+| [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-04-08 | 2023-09-27 |
 | [i can't do anything right](https://open.spotify.com/track/1P76yNLdadQMDblQsmMXvB) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [this is what i get](https://open.spotify.com/album/3dwsGxoPZWWyJzpxKnz1cn) | 2:16 | 2022-11-18 | 2022-12-24 |
 | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB) | 1:35 | 2023-01-20 | 2023-01-28 |
 | [i can't help it](https://open.spotify.com/track/0LQGDAv1siMLMfBeeAdodG) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling out of love feels like \(392Hz\)](https://open.spotify.com/album/5PtDyeWcF9Z0exa9vKqHIV) | 2:57 | 2022-11-11 | 2022-11-13 |

@@ -1,6 +1,6 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 112109,
+  "num_followers": 112136,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "SQUARE ONE",
-        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 240793,
-      "name": "BOOMBAYAH",
-      "url": "https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "Love Lee",
         "url": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 179683,
       "name": "Love Lee",
       "url": "https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "SQUARE ONE",
+        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 240793,
+      "name": "BOOMBAYAH",
+      "url": "https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+        "name": "SEVENTEEN 4th Album 'Face the Sun'",
+        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
+      "duration_ms": 197586,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "SEVENTEEN 4th Album 'Face the Sun'",
-        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
         }
       ],
-      "duration_ms": 197586,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1515,38 +1515,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "PANDORA'S BOX",
-        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
-      },
-      "artists": [
-        {
-          "name": "MAVE:",
-          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "PANDORA",
-      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 229989,
-      "name": "\ub208,\ucf54,\uc785 (Eyes, Nose, Lips)",
-      "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "THE BADDEST",
         "url": "https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x"
       },
@@ -1575,6 +1543,38 @@
       "duration_ms": 162600,
       "name": "THE BADDEST",
       "url": "https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 229989,
+      "name": "\ub208,\ucf54,\uc785 (Eyes, Nose, Lips)",
+      "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "PANDORA'S BOX",
+        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
+      },
+      "artists": [
+        {
+          "name": "MAVE:",
+          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "PANDORA",
+      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "THE SECOND STEP : CHAPTER TWO",
-        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 181432,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "Love poem",
         "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 217053,
       "name": "Blueming",
       "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 181432,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "NUNA",
-        "url": "https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 195836,
-      "name": "NUNU NANA",
-      "url": "https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "mono.",
         "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 275954,
       "name": "seoul (prod. HONNE)",
       "url": "https://open.spotify.com/track/1sKsYTGy8XfHjCYqcudqG5"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "NUNA",
+        "url": "https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 195836,
+      "name": "NUNU NANA",
+      "url": "https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "\u02e3\u203f\u02e3 (SMiLEY)",
-        "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 173413,
-      "name": "SMILEY(Feat. BIBI)",
-      "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 216786,
       "name": "All I Wanna Do (K) (Feat. Hoody & Loco)",
       "url": "https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "\u02e3\u203f\u02e3 (SMiLEY)",
+        "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 173413,
+      "name": "SMILEY(Feat. BIBI)",
+      "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1987,6 +1987,26 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "Felix (Stray Kids)",
+          "url": "https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
+      "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
         "name": "TREASURE EPILOGUE : Action To Answer",
         "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
       },
@@ -2023,22 +2043,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "MIC ON",
-        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "ILLELLA",
-      "url": "https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "Descendants Of The Sun Pt.4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ"
       },
@@ -2055,22 +2059,18 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+        "name": "MIC ON",
+        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "Felix (Stray Kids)",
-          "url": "https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4"
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
         }
       ],
-      "duration_ms": 196160,
-      "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
-      "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
+      "duration_ms": 166053,
+      "name": "ILLELLA",
+      "url": "https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "Heart Burn",
-        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 193173,
-      "name": "Heart Burn",
-      "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 193321,
       "name": "200%",
       "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 193173,
+      "name": "Heart Burn",
+      "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "Offset",
-        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 212136,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "My Voice - The 1st Album (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 223451,
       "name": "11:11",
       "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 212136,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -3099,22 +3099,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 169429,
-      "name": "BAE BAE",
-      "url": "https://open.spotify.com/track/3miMeSGd7rzJEtuhQnzm0f"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "Why So Lonely",
         "url": "https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U"
       },
@@ -3127,6 +3111,22 @@
       "duration_ms": 206706,
       "name": "Why So Lonely",
       "url": "https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 169429,
+      "name": "BAE BAE",
+      "url": "https://open.spotify.com/track/3miMeSGd7rzJEtuhQnzm0f"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -3311,22 +3311,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "FLIGHT LOG : TURBULENCE",
         "url": "https://open.spotify.com/album/4VjN9G78z4A0gKFsBn3n3H"
       },
@@ -3339,6 +3323,22 @@
       "duration_ms": 193578,
       "name": "Hard Carry",
       "url": "https://open.spotify.com/track/0QJk64Xo6tdXNjXg4RnqpI"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
       "added_at": "2023-09-15 05:31:39",

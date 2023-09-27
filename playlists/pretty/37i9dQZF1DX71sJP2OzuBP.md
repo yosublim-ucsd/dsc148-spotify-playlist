@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,777 likes - 105 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,782 likes - 105 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 4 | [Love Song 2023 feat\. Osean](https://open.spotify.com/track/0BKTexreeVTav0QZFgPhBc) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls), [Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [Love Song 2023 feat\. Osean](https://open.spotify.com/album/1lITIrkJEJkmy7D6KIuTW7) | 3:12 |
 | 5 | [Never Again](https://open.spotify.com/track/1fO6vB1z06Bc5bOTlTfojs) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [Changing Room](https://open.spotify.com/album/2E6ZEER6A4CmmQEvlgj5CK) | 4:00 |
 | 6 | [兽](https://open.spotify.com/track/68sr6E4ex5txuwTJNX1JTL) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [兽](https://open.spotify.com/album/2G07rbuWMEdhhrseYoLfsW) | 4:09 |
-| 7 | [想见就能相见](https://open.spotify.com/track/1vXpQw0Ie7ivVni6NpgyoY) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [想见就能相见](https://open.spotify.com/album/42I7cjGVwobPBzOTCpJHTM) | 4:44 |
+| 7 | [想見就能相見](https://open.spotify.com/track/1vXpQw0Ie7ivVni6NpgyoY) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [想見就能相見](https://open.spotify.com/album/42I7cjGVwobPBzOTCpJHTM) | 4:44 |
 | 8 | [我的世界多了一個同溫的你](https://open.spotify.com/track/2m7qXuwIZbgZRjzEYIBoO8) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [同溫](https://open.spotify.com/album/4HV6fpWOHA2Zjq2HVWKYZF) | 3:57 |
 | 9 | [mango](https://open.spotify.com/track/7oON1GggqDG63Be1ZvAFIF) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [mango](https://open.spotify.com/album/0wSxVstccBI3PiqE3VT7Et) | 2:58 |
 | 10 | [旅夢人 \- 《RO仙境傳說:愛如初見》資料片《諸神黃昏》主題曲](https://open.spotify.com/track/0hWWfO2DRPVdAFyM1TNjB3) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [旅夢人 \(《RO仙境傳說:愛如初見》資料片《諸神黃昏》主題曲\)](https://open.spotify.com/album/68cb5z1MapsAxxoSiJ4z1p) | 4:26 |

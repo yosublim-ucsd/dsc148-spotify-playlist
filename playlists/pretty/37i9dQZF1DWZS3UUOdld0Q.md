@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 
 > Listen to music from and inspired by Neon, an new series coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 725 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

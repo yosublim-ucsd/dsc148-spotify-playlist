@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,740 likes - 101 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,778 likes - 101 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

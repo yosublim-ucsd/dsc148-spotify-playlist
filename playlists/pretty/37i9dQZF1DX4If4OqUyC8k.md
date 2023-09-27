@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 
 > Get in touch with nature with these songs about our environment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,141 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,150 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

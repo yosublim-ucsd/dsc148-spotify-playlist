@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > Música para insubordinados\. Vondré en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,319 likes - 101 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,334 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

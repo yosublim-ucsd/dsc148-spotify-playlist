@@ -4,7 +4,7 @@
 
 > Current Pakistani hits under one roof\. Cover: Atif Aslam
 
-74 songs - 4 hr 33 min
+75 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Raabta](https://open.spotify.com/track/2nBdQVqfV2RFTSdcGfKsi7) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Raabta](https://open.spotify.com/album/4c8Wm3Dxq8BRrsPYEFF846) | 2:39 | 2023-05-04 |  |
 | [Sajan Das Na](https://open.spotify.com/track/4TNzipbkHuhp5DtHcZ9osE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Sajan Das Na](https://open.spotify.com/album/3yTNiZtxLJMpOKc5dZJf9w) | 3:56 | 2023-05-04 |  |
 | [Sajna](https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Sajna](https://open.spotify.com/album/4i3JnEdAldFPqaDYVSNI0p) | 2:37 | 2023-05-04 | 2023-06-09 |
+| [Sapna](https://open.spotify.com/track/2dLS3wolNYLQoffbjUYoQy) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Sherazam](https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN) | [Sapna](https://open.spotify.com/album/1V9KQKx40292LOWyDqKuUE) | 2:42 | 2023-09-26 |  |
 | [Secrets](https://open.spotify.com/track/0v8UhUalYhCuq6fDEe9ijE) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 4:38 | 2023-05-04 |  |
 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 | 2023-05-04 |  |
 | [Sukoon](https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:15 | 2023-05-04 |  |

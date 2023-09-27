@@ -4,7 +4,7 @@
 
 > Sad songs just 4 you para los días tristes.
 
-180 songs - 10 hr 15 min
+181 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 | 2023-05-26 |  |
 | [Ayer yo estaba bien](https://open.spotify.com/track/6jLsHP0Z3Xryry93GvXBzg) | [De Los Santos](https://open.spotify.com/artist/6hvYBtG0PJ29gStB6pLXwY) | [Ayer yo estaba bien](https://open.spotify.com/album/3UIWYkquYH5QEDT2moAHy5) | 2:32 | 2021-12-06 | 2023-07-04 |
 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 | 2021-12-06 | 2022-04-29 |
-| [Bailando Lentos](https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bailando Lentos](https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W) | 3:27 | 2021-12-06 |  |
+| [Bailando Lentos](https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bailando Lentos](https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W) | 3:27 | 2021-12-06 | 2023-09-27 |
 | [Bien:\( \(feat\. Rusowsky\)](https://open.spotify.com/track/68jEeogcZVUYocQdPcFQlM) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Bien:\(](https://open.spotify.com/album/3Sat3hmUbXJdivRd9PIhrX) | 1:52 | 2023-04-28 |  |
 | [Bien:\( \(feat\. Rusowsky\)](https://open.spotify.com/track/6HlWtggWotj9bUNcPGEeLS) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Bien:\(](https://open.spotify.com/album/5deRnNJSQ1Fa61ea3U1S8x) | 1:52 | 2021-12-06 | 2022-07-29 |
 | [Bolsas \- C\. Tangana](https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk) | [Valdivia](https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q) | [Bolsas \- C\. Tangana](https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5) | 3:56 | 2021-12-06 |  |
@@ -39,6 +39,7 @@
 | [cansada de verte en todas partes](https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [cansada de verte en todas partes](https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf) | 2:50 | 2023-07-21 | 2023-09-21 |
 | [Con el Viento](https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Music Inspired by the Film Roma](https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s) | 3:14 | 2021-12-06 |  |
 | [Con La Miel En Los Labios](https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:22 | 2021-12-06 |  |
+| [Corazon partio \(feat\. Juan Azul\) \- En directo](https://open.spotify.com/track/3rba2fObaZaOsBTAq74Qi6) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF), [Juan Azul](https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw) | [Directo en mi habitacion <3 \(En directo\)](https://open.spotify.com/album/5AijlOnw4oJZ79S24j0acY) | 5:46 | 2023-08-17 |  |
 | [Corazon partio \- En directo](https://open.spotify.com/track/5sNLvOP38aQxpjUeJ2VQsP) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF), [Juan Azul](https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw) | [Directo en mi habitacion <3](https://open.spotify.com/album/3uw4KJSWPNDuW5PIjrXYhq) | 5:47 | 2021-12-06 | 2023-09-17 |
 | [Cuando lloras \(feat\. David Rees\)](https://open.spotify.com/track/5xpBHHSL7zwrZfE9QnqHI2) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Cuando lloras \(feat\. David Rees\)](https://open.spotify.com/album/7uDxV8cJyWJGai8ARnYSbZ) | 3:17 | 2021-12-06 | 2022-11-13 |
 | [culpa](https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 3:18 | 2021-12-06 |  |

@@ -6497,6 +6497,32 @@
     },
     {
       "album": {
+        "name": "Song for Peace",
+        "url": "https://open.spotify.com/album/1BQv10hYaemrbRMpXtbst1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Hays",
+          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
+        },
+        {
+          "name": "Ben Street",
+          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
+        },
+        {
+          "name": "Billy Hart",
+          "url": "https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270893,
+      "name": "Song for Peace",
+      "url": "https://open.spotify.com/track/1Zmt1jvtaBJmMeDTKNiLzT"
+    },
+    {
+      "album": {
         "name": "Song To An Old Friend",
         "url": "https://open.spotify.com/album/4x86WkNb7br5HVPasAkRWH"
       },
@@ -8314,7 +8340,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 226466,
       "name": "Wise Woman",
       "url": "https://open.spotify.com/track/7116LjcE1UuAqKJiQRwXhK"

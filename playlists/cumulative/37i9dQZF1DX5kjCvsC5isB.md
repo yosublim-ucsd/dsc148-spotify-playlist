@@ -4,7 +4,7 @@
 
 > These women are on the rise and are rocking our worlds right now / Cover: Poppy
 
-377 songs - 19 hr 28 min
+378 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Disappearing Girl](https://open.spotify.com/track/2eXzs7j6pkt07u1prEhU4K) | [The Aquadolls](https://open.spotify.com/artist/75dqW38mCNfvNv9G3nqIE5) | [Disappearing Girl](https://open.spotify.com/album/7ni3PIoagod00tp63VT6Qg) | 3:19 | 2021-07-30 | 2022-06-25 |
 | [DISCIPLE](https://open.spotify.com/track/3irizuqK7YJJ8ArmTtMTt3) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MAYDAY](https://open.spotify.com/album/2eM5RdClvGdtMXTnBDkGth) | 3:40 | 2021-10-08 | 2022-06-25 |
 | [Dismantled](https://open.spotify.com/track/01dPcsbep0CGpj4VZ2OWKc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Dismantled](https://open.spotify.com/album/2pJDgYFNu0Qu1FgNDMDa9T) | 3:11 | 2022-06-24 |  |
-| [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 | 2022-10-07 |  |
+| [Do It All the Same](https://open.spotify.com/track/2R1biw2dakDeYLstlHYZ3x) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Compromise](https://open.spotify.com/album/4zTzdqL5Zfk0CYnrs8pkzP) | 3:27 | 2023-07-28 |  |
+| [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 | 2022-10-07 | 2023-09-27 |
 | [Double Down \- 2019 Mix](https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Double Down](https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8) | 3:10 | 2021-07-30 | 2022-01-15 |
 | [Dress](https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dress](https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys) | 3:26 | 2023-06-09 |  |
 | [Drink](https://open.spotify.com/track/59znVm3764cY4xwUaychMN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Drink](https://open.spotify.com/album/2HLp80sHFphInGSgbTWdqd) | 3:42 | 2021-07-30 | 2023-06-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS46hDOnlDC.md) - [plain]
 
 > Brown noise to help babies fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236 likes - 158 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244 likes - 158 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

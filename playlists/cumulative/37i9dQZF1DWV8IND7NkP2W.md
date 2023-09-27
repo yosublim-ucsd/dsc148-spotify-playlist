@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-660 songs - 1 day 5 hr 40 min
+662 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Cat Alley](https://open.spotify.com/track/4y9mOkYt3R1VN4kIDbJyz0) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Cat Alley](https://open.spotify.com/album/5cAV9PNJYbpYFAst4vVUsy) | 1:29 | 2021-12-23 | 2022-07-21 |
 | [Cat's Paw Pads](https://open.spotify.com/track/6ppr4vFW4sAD5HnxfVHoTf) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [Thinning](https://open.spotify.com/album/1SRZNXH5IuuQlz95D5pa7h) | 1:52 | 2023-09-19 |  |
 | [CDEFGAB](https://open.spotify.com/track/2ufuWLWpdo8C0zZlETgvxR) | [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [CDEFGAB](https://open.spotify.com/album/16Jd8mOc6Fn2JxXqyOCrD3) | 2:36 | 2023-03-23 | 2023-06-09 |
+| [Chaina Town](https://open.spotify.com/track/1d6yNlbGMB7vf0bSi0ugj6) | [Storkes](https://open.spotify.com/artist/3UTdFWlJlDUIdrUz8LSKom) | [Chaina Town](https://open.spotify.com/album/6hUN4FxSzcnT8sCAfwMMii) | 2:32 | 2023-09-26 |  |
 | [Chains Reaction](https://open.spotify.com/track/3n8A9cPu1GOX2iBYV8UOeu) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Chains Reaction](https://open.spotify.com/album/5MvtRBgZqo1KzpVsvgicuX) | 2:01 | 2023-07-27 | 2023-09-20 |
 | [Charlie](https://open.spotify.com/track/3S34zryr8HZBiG6WglMjLU) | [MIKISARA](https://open.spotify.com/artist/03y7qdJe0fDUfULcg162jZ) | [Charlie](https://open.spotify.com/album/1lDSDQQgtARrpPYjYwblyo) | 5:01 | 2021-12-23 | 2022-02-10 |
 | [Cheongshin](https://open.spotify.com/track/2NyFugrzJAyMDLJ2TDDYAx) | [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Cheongshin](https://open.spotify.com/album/5764vWIW5PEoi0IA81Lz6n) | 1:16 | 2021-12-23 | 2022-07-10 |
@@ -134,6 +135,7 @@
 | [Curiosity](https://open.spotify.com/track/1hfsCP7K0yXHCdWwSuqH9l) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [coyolate](https://open.spotify.com/artist/0EvzMWIv5MlTboNHIVDtmJ) | [Curiosity](https://open.spotify.com/album/6eeJBJnn3HPMSrAJToQLoZ) | 2:43 | 2021-12-23 | 2022-07-29 |
 | [Curtain Call](https://open.spotify.com/track/38XfPiYuoayjbUX9Q9qOzK) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Curtain Call](https://open.spotify.com/album/59TQxHntLy3yBkzajpmqdp) | 1:44 | 2021-12-23 | 2022-07-17 |
 | [D's Swing](https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D's Swing](https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj) | 3:38 | 2022-07-28 | 2022-11-18 |
+| [Dance](https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Dance](https://open.spotify.com/album/2x2cUyIuScLl3M7eVeeAdq) | 3:19 | 2023-09-26 |  |
 | [dawn of diego martin](https://open.spotify.com/track/0yedPe6bSN6TU4lvxApeqb) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [dawn of diego martin](https://open.spotify.com/album/3mfY09Oj9fEjPV4ckbZcSM) | 3:21 | 2021-12-23 | 2022-07-27 |
 | [DAY OFF](https://open.spotify.com/track/50O8IO9mY1fhlgB9iOnsxG) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [DAY OFF](https://open.spotify.com/album/5lWmKhQToRBkp4GXpPufKG) | 3:46 | 2021-12-23 | 2022-07-17 |
 | [daydream](https://open.spotify.com/track/0O7d31gAMyhY9QhxmR2OEK) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [daydream](https://open.spotify.com/album/4KfAM2THqC8b3Wjb0HTx6R) | 2:39 | 2021-12-23 | 2022-07-29 |
@@ -210,7 +212,7 @@
 | [Game Master](https://open.spotify.com/track/4Oo2LsLop0vSbHeO1TPLj0) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G) | [Game Master](https://open.spotify.com/album/4vmZPaMP1MHVKDrlr8hWI3) | 1:53 | 2022-01-06 | 2023-06-30 |
 | [Garden](https://open.spotify.com/track/1XI81iqlkLT3xUHzQzRrb8) | [ROKA](https://open.spotify.com/artist/25ktRTbISZikR4xuLHT8qW) | [Fade](https://open.spotify.com/album/2BeO7MZkXO2dYyuadRNj4l) | 2:29 | 2021-12-23 | 2022-07-05 |
 | [gentle rain](https://open.spotify.com/track/1MAaAEofHxLP11dtelYU32) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [gentle rain](https://open.spotify.com/album/77Z3NG9a0HbZC20gxpcsVN) | 1:30 | 2023-07-20 | 2023-07-22 |
-| [gentle rain](https://open.spotify.com/track/2vSvpzvFtKEiccfochwqpJ) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [gentle rain](https://open.spotify.com/album/2T253HKQbiMM7cOmnfA4rP) | 1:30 | 2023-07-20 |  |
+| [gentle rain](https://open.spotify.com/track/2vSvpzvFtKEiccfochwqpJ) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [gentle rain](https://open.spotify.com/album/2T253HKQbiMM7cOmnfA4rP) | 1:30 | 2023-07-20 | 2023-09-27 |
 | [Getaway](https://open.spotify.com/track/3KW9TEb7G6BZu3XWVR8caI) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [KAZUMI KANEDA](https://open.spotify.com/artist/7mQtMaMaPMw2NTeYXfT53M), [Hector Mario](https://open.spotify.com/artist/7K33yZHEVk9UQXM4BRlvbi) | [Getaway](https://open.spotify.com/album/4MkRP9wJ457pLUwL4RIEo4) | 2:43 | 2022-03-24 |  |
 | [Getting By](https://open.spotify.com/track/6w1F8RFr3Q7pX2vPcLNEuC) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Getting By](https://open.spotify.com/album/6vn1dsAFLW0f6sY1kFvqcC) | 2:51 | 2021-12-23 | 2022-07-28 |
 | [Gift of love](https://open.spotify.com/track/1mBi6RQWWUnpMU4oEjrkz1) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Gift of love](https://open.spotify.com/album/3TcEA5pdG37127uJSjQZOD) | 2:06 | 2023-07-27 |  |
@@ -416,7 +418,7 @@
 | [Night Lights 2020](https://open.spotify.com/track/4EJIzAOBenyU7kQ6D7AvFe) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf) | [Night Lights 2020](https://open.spotify.com/album/5rqqrponuFtxKYusVGzSl2) | 4:01 | 2021-12-23 | 2023-04-02 |
 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 | 2023-08-10 |  |
 | [Night View](https://open.spotify.com/track/5fDXtT8xiVNZ0tAe8wYXPJ) | [NOBB\-D](https://open.spotify.com/artist/0oaDlNGcoCNlw4gCqWFYz2), [交響都市](https://open.spotify.com/artist/3RzWlu98pODmrYSMwhMNeX) | [Night View](https://open.spotify.com/album/4bOSB7ra5IOKvqyJC2qbtT) | 3:01 | 2021-12-23 | 2022-01-28 |
-| [niji](https://open.spotify.com/track/14c5FlYFBYCGvzuJtyVFRb) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [niji](https://open.spotify.com/album/7HHgLuRWofzzhKDiyKHCPj) | 2:24 | 2023-06-22 |  |
+| [niji](https://open.spotify.com/track/14c5FlYFBYCGvzuJtyVFRb) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [niji](https://open.spotify.com/album/7HHgLuRWofzzhKDiyKHCPj) | 2:24 | 2023-06-22 | 2023-09-27 |
 | [No.18 Sketch in the Shade](https://open.spotify.com/track/1pfF2n9ycLVPydzZNOJO6l) | [Masatomo Yoshizawa](https://open.spotify.com/artist/5AtXWRTyAGHgpdQSnt8jyL), [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi) | [Guitar Esquisse Volume One](https://open.spotify.com/album/65gNo2Y6rjpV7VIrTVkUw2) | 3:30 | 2021-12-23 | 2022-07-29 |
 | [Nomadic tribe \- DJ Mitsu The Beats Remix](https://open.spotify.com/track/6vHbIO9JV3LjFuMxiIf9Vr) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Nomadic tribe \(DJ Mitsu The Beats Remix\)](https://open.spotify.com/album/78jQAlIKlWgR14QM3arefx) | 4:05 | 2021-12-23 | 2022-12-24 |
 | [Nomadic tribe \- No.9 Remix](https://open.spotify.com/track/5zVN16RjpgUDZ2rBeXvPhY) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA), [No.9](https://open.spotify.com/artist/3QR2FqA6iqKnrHMKoQuPsZ) | [Nomadic tribe \(No.9 Remix\)](https://open.spotify.com/album/7slNNGveLkTBkaUuOcS7VZ) | 4:25 | 2022-06-30 | 2022-07-26 |

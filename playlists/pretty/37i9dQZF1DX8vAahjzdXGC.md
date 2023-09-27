@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Andmesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,120 likes - 112 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,137 likes - 112 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

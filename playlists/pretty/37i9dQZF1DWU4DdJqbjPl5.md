@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp?si=SLEbGKLcTYmxFX8nYQPN1w"> SuperJazzClub </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,130 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,176 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

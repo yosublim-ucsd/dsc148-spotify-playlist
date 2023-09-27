@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,819 likes - 76 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,822 likes - 76 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 790 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 44 | [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 |
 | 45 | [Bikole](https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6), [Oma Afrikana](https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf) | [Bikole](https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw) | 3:04 |
 | 46 | [Getting Better](https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd) | [Ambassada](https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS), [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Ps Wilson Bugembe](https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD) | [Getting Better](https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC) | 4:05 |
-| 47 | [Wi Di Best \(feat\. Bebe Cool & Sumi Crazy\)](https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81), [Sumi Crazy](https://open.spotify.com/artist/0RD6wSCv8A4zf8hblm8fvB) | [Nothing to Something](https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv) | 3:38 |
+| 47 | [Marijuana](https://open.spotify.com/track/3KknqI9ODWVO7IeUGf2nuR) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Bruno K](https://open.spotify.com/artist/0DToGxUXxyiGk3sAbwwCtD), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [Marijuana](https://open.spotify.com/album/4Digf6fW7I9SjMeyB9VHdg) | 3:39 |
 | 48 | [Nkwatewa](https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Nkwatewa](https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe) | 3:01 |
 | 49 | [Welcome](https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO) | [Ivanka](https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy) | [Welcome](https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU) | 3:13 |
 | 50 | [Misege](https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Misege](https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br) | 3:08 |

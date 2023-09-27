@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Laurence-Anne",
-  "num_followers": 2900,
+  "num_followers": 2907,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "\u200echerry \u200estems",
+        "url": "https://open.spotify.com/album/59X6b30MP14N4rAgN2wtWB"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "\u200echerry \u200estems",
+      "url": "https://open.spotify.com/track/091S1Iw6vvNagu2QnQSsSG"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Gants blancs",
         "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "\u200echerry \u200estems",
-        "url": "https://open.spotify.com/album/59X6b30MP14N4rAgN2wtWB"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 142222,
-      "name": "\u200echerry \u200estems",
-      "url": "https://open.spotify.com/track/091S1Iw6vvNagu2QnQSsSG"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Les gens qu'on aime",
         "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Maison ouverte",
-        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
-      },
-      "artists": [
-        {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "Maison ouverte",
-      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 183706,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Maison ouverte",
+        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "Maison ouverte",
+      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Depuis",
-        "url": "https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va"
-      },
-      "artists": [
-        {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
-        }
-      ],
-      "duration_ms": 293200,
-      "name": "Depuis",
-      "url": "https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Notre-Dame-des-Sept-Douleurs",
         "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 170293,
       "name": "M\u00e9lamine",
       "url": "https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Depuis",
+        "url": "https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va"
+      },
+      "artists": [
+        {
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+        }
+      ],
+      "duration_ms": 293200,
+      "name": "Depuis",
+      "url": "https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Disruption",
-        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
-      },
-      "artists": [
-        {
-          "name": "Vulgaires Machins",
-          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "La hi\u00e9rarchill",
         "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 286826,
       "name": "La hi\u00e9rarchill",
       "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Disruption",
+        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
+      },
+      "artists": [
+        {
+          "name": "Vulgaires Machins",
+          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
-      },
-      "artists": [
-        {
-          "name": "ALIAS",
-          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
-        }
-      ],
-      "duration_ms": 131015,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Petit canari",
         "url": "https://open.spotify.com/album/1QiOn6KM23NyBfu4voBV1s"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 164735,
       "name": "Petit canari",
       "url": "https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
+      },
+      "artists": [
+        {
+          "name": "ALIAS",
+          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
+        }
+      ],
+      "duration_ms": 131015,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Politesse",
-        "url": "https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I"
-      },
-      "artists": [
-        {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "Politesse",
-      "url": "https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Crash (feat. Corneille)",
         "url": "https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 179936,
       "name": "Crash",
       "url": "https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Politesse",
+        "url": "https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I"
+      },
+      "artists": [
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "Politesse",
+      "url": "https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Voiture de course",
-        "url": "https://open.spotify.com/album/7m2z2S45pCXwA8tzDV8pdK"
-      },
-      "artists": [
-        {
-          "name": "oui merci",
-          "url": "https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr"
-        }
-      ],
-      "duration_ms": 205847,
-      "name": "Voiture de course",
-      "url": "https://open.spotify.com/track/5AbHwqS90lmbvhNX733j0z"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Coin coin",
         "url": "https://open.spotify.com/album/3XSN53ondDCSSLeIXXvNrK"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 209680,
       "name": "Coin coin",
       "url": "https://open.spotify.com/track/2EeKut39BXmeuZSeDn2Pmw"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Sade Sati (Deluxe)",
+        "url": "https://open.spotify.com/album/3PXo9tdk59o5O8VHJcrR6K"
+      },
+      "artists": [
+        {
+          "name": "Paupi\u00e8re",
+          "url": "https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq"
+        }
+      ],
+      "duration_ms": 208754,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6"
     }
   ],
   "unique_name": "ALT_QC",

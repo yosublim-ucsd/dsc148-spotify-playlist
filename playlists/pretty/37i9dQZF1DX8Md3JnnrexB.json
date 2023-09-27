@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 202639,
+  "num_followers": 202726,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "In Full Bloom",
-        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 291760,
-      "name": "Wishing on a Star",
-      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "Blue Lights in the Basement",
         "url": "https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "In Full Bloom",
+        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 291760,
+      "name": "Wishing on a Star",
+      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "I Wanna Get Next To You",
+      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
         "name": "After Midnight (Expanded Version)",
         "url": "https://open.spotify.com/album/2s4V3nu27HX9pp5PglpCVJ"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 292733,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "I Wanna Get Next To You",
-      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "When She Was My Girl",
-      "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "When She Was My Girl",
+      "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
+        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
+        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 270760,
+      "name": "Almaz",
+      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
         "name": "Gold - '80s Soul",
         "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 243480,
       "name": "Don't Look Any Further - Single Version",
       "url": "https://open.spotify.com/track/1nrIaUgk4D5gI1yqQcsu3W"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
-        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
-        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 270760,
-      "name": "Almaz",
-      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
+        "name": "Wake Up Everybody",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "duration_ms": 316893,
+      "name": "You Know How to Make Me Feel so Good",
+      "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -1595,38 +1615,18 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Wake Up Everybody",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
       },
       "artists": [
         {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
         }
       ],
-      "duration_ms": 316893,
-      "name": "You Know How to Make Me Feel so Good",
-      "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
-        "name": "A Quiet Storm",
-        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 468653,
-      "name": "Quiet Storm",
-      "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
+      "duration_ms": 276733,
+      "name": "Get Here",
+      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
+        "name": "A Quiet Storm",
+        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
       },
       "artists": [
         {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
         }
       ],
-      "duration_ms": 276733,
-      "name": "Get Here",
-      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
+      "duration_ms": 468653,
+      "name": "Quiet Storm",
+      "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
     },
     {
       "added_at": "2023-08-15 09:52:41",

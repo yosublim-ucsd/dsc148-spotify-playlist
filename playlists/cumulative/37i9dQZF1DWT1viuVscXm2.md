@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-249 songs - 14 hr 31 min
+250 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Muero por Tí](https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Muero por Ti](https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj) | 3:56 | 2023-03-10 |  |
 | [Mujer](https://open.spotify.com/track/7FZYwegaHD1mWZZGyAgESI) | [Valentin Reigada](https://open.spotify.com/artist/4E1vcDCiROPP3muKybizHO), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [FIM Records](https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8) | [Mujer](https://open.spotify.com/album/0KT87buTeJTjElmq4WHTfy) | 2:50 | 2021-12-24 | 2022-04-23 |
 | [Negra Caderona](https://open.spotify.com/track/0qSmxnzk8yAONBAiuNppJu) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Negra Caderona](https://open.spotify.com/album/6eKerB5MySf2QISRA5AYJy) | 4:08 | 2022-08-05 | 2023-04-12 |
-| [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 | 2021-12-24 |  |
+| [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 | 2021-12-24 | 2023-09-27 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 | 2021-12-24 | 2023-03-12 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2023-03-10 |  |
 | [No Me Obligues](https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [No Me Obligues](https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV) | 3:27 | 2022-09-02 | 2022-09-17 |
@@ -209,6 +209,7 @@
 | [Sueño Encontrarme Con Vos](https://open.spotify.com/track/6gXcMPtHYJr50M76EqyOG3) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Sueño Encontrarme Con Vos](https://open.spotify.com/album/4rhvmFlosE3w7Rvy3Uoxb7) | 3:47 | 2022-01-07 | 2023-02-11 |
 | [Te Arrepentirás \(feat\. Karina & La Joaqui\)](https://open.spotify.com/track/5fPwHCqTQMOZmu25WrfRFD) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Te Arrepentirás \(feat\. Karina & La Joaqui\)](https://open.spotify.com/album/2t64H3SSk5ruWYOzJJap1j) | 3:23 | 2022-02-11 | 2022-06-11 |
 | [Te Escapas De Mis Brazos](https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Y Si Estás Perseguido...!](https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq) | 2:41 | 2023-04-11 | 2023-06-30 |
+| [Te hubieras ido antes](https://open.spotify.com/track/79v3sImuaCmWvOn1Au1EZU) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Te Sigo Enamorando](https://open.spotify.com/album/3jhZE9j5IRdc6JX8lCepYZ) | 5:11 | 2023-09-26 |  |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/7x0Y9NVem9mV0Ly4DDf5G2) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [Te Juro Que Te Amo](https://open.spotify.com/album/2HfZ9Nip6khFvSEeodwOtf) | 3:45 | 2022-07-22 | 2022-08-27 |
 | [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 | 2021-12-24 |  |
 | [Te Perdoné Tantas Veces](https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [La Diosa \- Los 20 Éxitos Más Pedidos](https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq) | 2:23 | 2021-12-24 |  |

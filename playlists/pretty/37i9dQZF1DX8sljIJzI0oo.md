@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Bringing in the heat every Thursday\. 🔥 Listen to all the mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">here</a>\. Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,914,164 likes - 25 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,914,472 likes - 25 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

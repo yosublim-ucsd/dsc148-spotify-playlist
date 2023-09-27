@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Rawayana
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,429 likes - 224 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,466 likes - 224 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,8 +170,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 160 | [VVS](https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:42 |
 | 161 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 |
 | 162 | [RoCKSTAR 2.0](https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [RoCKSTAR 2.0](https://open.spotify.com/album/0iBp9wWy4m2MqwOQlponWD) | 2:53 |
-| 163 | [don't liE](https://open.spotify.com/track/7GpSrZ9BAnu5l5ahjRS8KC) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 3:33 |
-| 164 | [CSIpher \(audio latino\)](https://open.spotify.com/track/2M6XdDkJ3zRDo9XTsFoBME) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 4:10 |
+| 163 | [don't liE](https://open.spotify.com/track/7wX28pRv3sTqA1EdjlFkkj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Antes de Ameri](https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR) | 3:33 |
+| 164 | [CSIpher \(audio latino\)](https://open.spotify.com/track/4bp3MHLtiKfPaNL3iSbQ20) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Antes de Ameri](https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR) | 4:10 |
 | 165 | [Flor de Jazmín](https://open.spotify.com/track/3vwkEIeI8ZSzmxKAX7X6Rp) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Habita](https://open.spotify.com/album/2mZqG5fb0c2lxPsVuZMiG2) | 3:17 |
 | 166 | [La Luz](https://open.spotify.com/track/4oGSz2S2YXD6qi0yDEoASO) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Habita](https://open.spotify.com/album/2mZqG5fb0c2lxPsVuZMiG2) | 2:46 |
 | 167 | [Llévame](https://open.spotify.com/track/4o9k7AgKfHLK09h2XOFCsF) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Habita](https://open.spotify.com/album/2mZqG5fb0c2lxPsVuZMiG2) | 2:59 |

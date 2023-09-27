@@ -1,6 +1,6 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: aiai) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 45997,
+  "num_followers": 46024,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "Red Light - The 3rd Album",
-        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 210042,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "\u90fd\u5e02\u5973\u5b50",
         "url": "https://open.spotify.com/album/3ntOyPFFZxF6iIjXL3E8by"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 197604,
       "name": "\u90fd\u5e02\u5973\u5b50",
       "url": "https://open.spotify.com/track/5KBeit6bMhlgfYwZuDTxoH"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "Red Light - The 3rd Album",
+        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 210042,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 200863,
-      "name": "\uc2dc\uadf8\ub110 (Signal)",
-      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "Naturalness",
         "url": "https://open.spotify.com/album/1KIV6HQCntQVl792TVfVCA"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 212750,
       "name": "With The Star",
       "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 200863,
+      "name": "\uc2dc\uadf8\ub110 (Signal)",
+      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "\ud658\uc0c1 Fantasy",
-        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "duration_ms": 210136,
-      "name": "\ud658\uc0c1 Fantasy",
-      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "Onstage Digging Club Seoul Part.03",
         "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 234000,
       "name": "It's Beautiful",
       "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "\ud658\uc0c1 Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "\ud658\uc0c1 Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 231294,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -1167,38 +1183,6 @@
       "duration_ms": 223351,
       "name": "Haru (with meenoi)",
       "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "duration_ms": 221875,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
-        "name": "Sparkling",
-        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
-      },
-      "artists": [
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 231294,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1247,6 +1231,22 @@
       "duration_ms": 190287,
       "name": "Diver",
       "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "duration_ms": 221875,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
+        "name": "Onstage Digging Club Seoul THEME 01",
+        "url": "https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 250951,
+      "name": "After a long time(Digging Club Seoul Ver.)",
+      "url": "https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
         "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
         "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 241144,
       "name": "Brave New World",
       "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
-        "name": "Onstage Digging Club Seoul THEME 01",
-        "url": "https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 250951,
-      "name": "After a long time(Digging Club Seoul Ver.)",
-      "url": "https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "SEOUL CITY POP [A-Side]",
-        "url": "https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23"
-      },
-      "artists": [
-        {
-          "name": "IHYA",
-          "url": "https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "SEOUL CITY POP",
-      "url": "https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
         "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 208000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "SEOUL CITY POP [A-Side]",
+        "url": "https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23"
+      },
+      "artists": [
+        {
+          "name": "IHYA",
+          "url": "https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh"
+        }
+      ],
+      "duration_ms": 202218,
+      "name": "SEOUL CITY POP",
+      "url": "https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL"
     },
     {
       "added_at": "2023-07-13 05:23:23",

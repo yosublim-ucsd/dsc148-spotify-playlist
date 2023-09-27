@@ -462,7 +462,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 310000,
       "name": "Bheemla Nayak Title Song",
       "url": "https://open.spotify.com/track/6BiLK0zV9MULmHcM7G7L2W"
@@ -3678,6 +3678,24 @@
       "duration_ms": 245760,
       "name": "Ramuloo Ramulaa - Duet",
       "url": "https://open.spotify.com/track/4uXJADmybUHUgycBWFHeq6"
+    },
+    {
+      "album": {
+        "name": "Aa Aaa",
+        "url": "https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY"
+      },
+      "artists": [
+        {
+          "name": "Ramya, Rahul Nambiar, shivani",
+          "url": "https://open.spotify.com/artist/3nWLkUTMy9DFQZChaOceEZ"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241301,
+      "name": "Rang de",
+      "url": "https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7"
     },
     {
       "album": {

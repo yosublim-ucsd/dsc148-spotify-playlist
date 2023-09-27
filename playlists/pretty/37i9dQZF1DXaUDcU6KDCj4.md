@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Zach Bryan & Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,816 likes - 149 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,901 likes - 149 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 9 | [Time Shrinks](https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Time Shrinks](https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0) | 3:36 |
 | 10 | [Polly](https://open.spotify.com/track/71hTScovpuUfthUGuJ6ElS) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Polly](https://open.spotify.com/album/54NuqqpbcLZlXxYUsBVEef) | 2:32 |
 | 11 | [BIGTIMEGOODTIME](https://open.spotify.com/track/3ouqN4Q9RO9J01lu8v7jrr) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [BIGTIMEGOODTIME](https://open.spotify.com/album/2GbjyKJhOsBOYxHEs1X48X) | 4:16 |
-| 12 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 |
+| 12 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 |
 | 13 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/4g37wGcNWcVCdY0UoRNPzu) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:09 |
 | 14 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
 | 15 | [Two Years](https://open.spotify.com/track/2Z4KsUvMCgK5lL9OLU0Vbz) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Two Years](https://open.spotify.com/album/7oZXGk0hj8oVfBjFBUWgYF) | 3:29 |

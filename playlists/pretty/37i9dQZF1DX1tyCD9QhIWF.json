@@ -1,6 +1,6 @@
 {
   "description": "Big riffs and pounding drums to help you strut the streets.",
-  "num_followers": 2308540,
+  "num_followers": 2308586,
   "original_name": "Walk Like A Badass",
   "owner": {
     "name": "Spotify",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "BLOODSTREAM",
-        "url": "https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP"
+        "name": "Fuck Me (I Didn\u2019t Know How To Say)",
+        "url": "https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW"
       },
       "artists": [
         {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
         }
       ],
-      "duration_ms": 189312,
-      "name": "BLOODSTREAM",
-      "url": "https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300"
+      "duration_ms": 186786,
+      "name": "Fuck Me (I Didn\u2019t Know How To Say)",
+      "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -603,18 +603,34 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "Fuck Me (I Didn\u2019t Know How To Say)",
-        "url": "https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW"
+        "name": "ROOKERY",
+        "url": "https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX"
       },
       "artists": [
         {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 186786,
-      "name": "Fuck Me (I Didn\u2019t Know How To Say)",
-      "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
+      "duration_ms": 194480,
+      "name": "Wild Stare",
+      "url": "https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "BLOODSTREAM",
+        "url": "https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 189312,
+      "name": "BLOODSTREAM",
+      "url": "https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -631,22 +647,6 @@
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
-        "name": "ROOKERY",
-        "url": "https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Wild Stare",
-      "url": "https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "New York Transit Queen",
-        "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 109387,
-      "name": "New York Transit Queen",
-      "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "I WENT TO HELL AND BACK",
         "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 131363,
       "name": "ILY, HOW ARE YOU?",
       "url": "https://open.spotify.com/track/51sGd4PYmBWbVNMCAh3nd0"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "New York Transit Queen",
+        "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 109387,
+      "name": "New York Transit Queen",
+      "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
     },
     {
       "added_at": "2023-07-25 00:14:57",

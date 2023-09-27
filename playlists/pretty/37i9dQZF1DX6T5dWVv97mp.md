@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6T5dWVv97mp.md) - [plain]
 
 > Get into a morning flow with this focus playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,437 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,459 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gC5r0uG7De.md) - [plain]
 
 > These are the songs that shape <a href="https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x?si=mZUAo3dRQaGyttnHQTVj5g">Turnstile's'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257 likes - 34 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 34 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gC5r0uG7De.md) - [plain]
 | 21 | [Miss You Love](https://open.spotify.com/track/2oHUKeJFudnmGCM08qsxhI) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/28yAJqJJ0iz1oRqwOD0F20) | 4:00 |
 | 22 | [The Fixer](https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 |
 | 23 | [Destiny](https://open.spotify.com/track/3G3zUnmwnBHFC5UtlbLSQc) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Destiny](https://open.spotify.com/album/03j399ZcmkaoIIW57fZV8f) | 2:20 |
-| 24 | [beamer boy](https://open.spotify.com/track/16dlDlLW9Uv8lmIUvAXAjG) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Nedarb](https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R) | [beamer boy](https://open.spotify.com/album/1f2lbyCzddJsLaMdcXDFwW) | 3:23 |
+| 24 | [beamer boy](https://open.spotify.com/track/16dlDlLW9Uv8lmIUvAXAjG) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Nedarb](https://open.spotify.com/artist/6gCKjxf9Svql6kupGP5gCk) | [beamer boy](https://open.spotify.com/album/1f2lbyCzddJsLaMdcXDFwW) | 3:23 |
 | 25 | [Redrum](https://open.spotify.com/track/19xuCobFr8orZ8BgPJYgd8) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 3:55 |
 | 26 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/2Ryzn1QqRKIKbAMNEXbLSB) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:58 |
 | 27 | [Real Thing](https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 |

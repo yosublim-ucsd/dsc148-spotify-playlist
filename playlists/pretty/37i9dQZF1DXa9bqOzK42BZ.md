@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: Bahati
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,689 likes - 79 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,704 likes - 79 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

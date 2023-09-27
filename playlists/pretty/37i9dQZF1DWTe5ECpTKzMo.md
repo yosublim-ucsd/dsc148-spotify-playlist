@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 > la tierra del Rap de oro puro\. Lefty SM, tus rimas ya son eternas, Descansa en paz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,262 likes - 83 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,708 likes - 83 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop holder det 100! 🚨
 
-65 songs - 2 hr 42 min
+66 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [En till dans](https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [En till dans](https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP) | 3:20 | 2023-09-21 |  |
 | [Fantasy](https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Fantasy](https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI) | 2:18 | 2023-09-21 |  |
 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-09-21 |  |
-| [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 | 2023-09-21 |  |
+| [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 | 2023-09-21 | 2023-09-27 |
 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 | 2023-09-21 |  |
 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 | 2023-09-21 |  |
 | [Go](https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Go](https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA) | 2:34 | 2023-09-21 |  |
@@ -45,6 +45,7 @@
 | [Känslokall](https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Känslokall](https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p) | 2:03 | 2023-09-21 |  |
 | [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 | 2023-09-21 |  |
 | [Lenge Leve](https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:15 | 2023-09-21 |  |
+| [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 | 2023-09-21 |  |
 | [M.O.B](https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7) | 1:48 | 2023-09-21 |  |
 | [MANDANA](https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [MANDANA](https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl) | 2:03 | 2023-09-21 |  |
 | [Marokko Barcelona Colorado California](https://open.spotify.com/track/2jHkG1qU1vrb5gssUNTevT) | [Vågard](https://open.spotify.com/artist/6ZXRSfJDOksQ4bLcqXS71g), [Girson](https://open.spotify.com/artist/62DjNN5uijrpERaMexkBjE) | [Notoriske B.O.G.](https://open.spotify.com/album/1PBwk1ooupSISW2Py20p3O) | 4:12 | 2023-09-21 |  |

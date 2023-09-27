@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Balearic Dream",
       "url": "https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8"
@@ -3486,7 +3486,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 136217,
       "name": "Readings",
       "url": "https://open.spotify.com/track/6JMYFarzbRvp8J7YnGdbsP"
@@ -4020,7 +4020,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 232241,
       "name": "Solar Sun",
       "url": "https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf"
@@ -4042,6 +4042,24 @@
       "duration_ms": 346214,
       "name": "Soldiner",
       "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
+    },
+    {
+      "album": {
+        "name": "Sona",
+        "url": "https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF"
+      },
+      "artists": [
+        {
+          "name": "Valante",
+          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212384,
+      "name": "Sona",
+      "url": "https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU"
     },
     {
       "album": {

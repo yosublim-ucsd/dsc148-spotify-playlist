@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: ابوحنظلة
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,403 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,431 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

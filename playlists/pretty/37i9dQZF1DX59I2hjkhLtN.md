@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: THE F LIBRA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,091 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,109 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Queen Size](https://open.spotify.com/track/6j5QPkoQOgD1RDzLENv78B) | [Chong Kwong](https://open.spotify.com/artist/0ckd5xl3yooOAZKClYktdr) | [Queen Size](https://open.spotify.com/album/6ESW3dPPKwUle5CqWHU5Hh) | 2:59 |
 | 2 | [What i Want, How i Like](https://open.spotify.com/track/5ESYN254hHVlueVCHxMj9A) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [What i Want, How i Like](https://open.spotify.com/album/5tBWVO75zR2LP8WQzdz494) | 3:56 |
-| 3 | [Deixa Arder](https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blacci](https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Blanko](https://open.spotify.com/artist/4mRslGagtFxkczhI0gYFY9) | [Não Sou Daqui](https://open.spotify.com/album/6F0dv3FpCtzK5HGldys7dX) | 3:26 |
+| 3 | [Deixa Arder](https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blacci](https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB) | [Não Sou Daqui](https://open.spotify.com/album/6F0dv3FpCtzK5HGldys7dX) | 3:26 |
 | 4 | [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 |
 | 5 | [Dubai \(Freestyle\)](https://open.spotify.com/track/7Jve8NADMYABeNIF0ZztSd) | [Goose08](https://open.spotify.com/artist/5I8Rj6NAlRsybA7Uo2ShBV) | [Dubai \(Freestyle\)](https://open.spotify.com/album/6nV9q6V6zLTE45fNd7v7IJ) | 3:13 |
 | 6 | [ZETA](https://open.spotify.com/track/1Qx0cnH7noHnpCi0WJkfTi) | [J Puro](https://open.spotify.com/artist/0YmfUBWWHzOlG92JNsqiFl), [MainStorm](https://open.spotify.com/artist/34ndsLz061cyN636WiMsIV) | [ZETA](https://open.spotify.com/album/3Azge3Ige2PAfgHqgVa5EA) | 2:54 |

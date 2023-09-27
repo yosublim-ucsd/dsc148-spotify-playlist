@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 124455,
       "name": "A Dona Aranha",
       "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
@@ -2954,7 +2954,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 76248,
       "name": "Campo De Morango",
       "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
@@ -4462,7 +4462,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 173967,
       "name": "Devia Ser Proibido - Ao Vivo Em Bras\u00edlia",
       "url": "https://open.spotify.com/track/0QcKkN8b4iVkmVsbaze8OS"
@@ -5164,7 +5164,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
@@ -6359,6 +6359,60 @@
     },
     {
       "album": {
+        "name": "Meu Nome N\u00e3o \u00e9 Igor %",
+        "url": "https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "MC Bruno MS",
+          "url": "https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Rhamon",
+          "url": "https://open.spotify.com/artist/0DfaMTk8VkJ0aWFSyEtdwi"
+        },
+        {
+          "name": "Mc Dena",
+          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510697,
+      "name": "Fernando de Noronha",
+      "url": "https://open.spotify.com/track/62W2f0QOg20ufNjJQHqnkq"
+    },
+    {
+      "album": {
         "name": "Ficante Fiel",
         "url": "https://open.spotify.com/album/4nw8CoyoBHT7PIEzKXjvOD"
       },
@@ -7418,7 +7472,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 114520,
       "name": "Hino do S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/0IuSdIxMOvxlANxdtcTnfN"
@@ -11230,7 +11284,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 167514,
       "name": "Oficializar - Ao Vivo",
       "url": "https://open.spotify.com/track/5eID9KNVJV2fDSPQGzQHQg"
@@ -11850,7 +11904,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 173228,
       "name": "Penhasco2",
       "url": "https://open.spotify.com/track/0t5cfOZxePTvuYXTywHzjH"
@@ -12826,7 +12880,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 144298,
       "name": "Quando Apaga A Luz - Ao Vivo",
       "url": "https://open.spotify.com/track/1nf1HJdTWXwf9XHQebGlOd"
@@ -12970,7 +13024,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 162865,
       "name": "Quem t\u00e1 Pegando",
       "url": "https://open.spotify.com/track/6L2ule7uWSdh1qjcMO3vUD"

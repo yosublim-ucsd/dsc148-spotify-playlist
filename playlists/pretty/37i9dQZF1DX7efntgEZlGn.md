@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,269 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,273 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

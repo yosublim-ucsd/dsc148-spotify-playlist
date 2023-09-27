@@ -930,10 +930,32 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 180109,
       "name": "Dil Dushman (Female Version)",
       "url": "https://open.spotify.com/track/7EKeYGkUxLQjukz1Tvv5C4"
+    },
+    {
+      "album": {
+        "name": "Khufiya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6BzqTX2mEkqEsxPw19KY9b"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180109,
+      "name": "Dil Dushman (Female Vocals)",
+      "url": "https://open.spotify.com/track/0IgbyCjIISzdIvzCN3tvsd"
     },
     {
       "album": {
@@ -2725,6 +2747,32 @@
     },
     {
       "album": {
+        "name": "Khufiya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6BzqTX2mEkqEsxPw19KY9b"
+      },
+      "artists": [
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        },
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286247,
+      "name": "Mat Aana",
+      "url": "https://open.spotify.com/track/4om363nTolMlyBtUox4OHI"
+    },
+    {
+      "album": {
         "name": "Khufiya",
         "url": "https://open.spotify.com/album/36F82HSVzS1II5X6rJtMfF"
       },
@@ -2740,7 +2788,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 286247,
       "name": "Mat Aana",
       "url": "https://open.spotify.com/track/0fCEr5YBWpJaKpyXdahmWg"
@@ -3296,6 +3344,24 @@
       "duration_ms": 257771,
       "name": "Ni Main Jaana",
       "url": "https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0"
+    },
+    {
+      "album": {
+        "name": "O Piya",
+        "url": "https://open.spotify.com/album/5AKRpEUy3v1CvGBhdEuxqm"
+      },
+      "artists": [
+        {
+          "name": "Parineeti Chopra",
+          "url": "https://open.spotify.com/artist/0NuA9c4Q9jNHICuqBnsjVR"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220941,
+      "name": "O Piya",
+      "url": "https://open.spotify.com/track/2fk5Ulptq11d4W4UQDlLx1"
     },
     {
       "album": {
@@ -4440,7 +4506,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 172800,
       "name": "Soneya Ve",
       "url": "https://open.spotify.com/track/4akTHm2aoFHbAr1ulm9eui"

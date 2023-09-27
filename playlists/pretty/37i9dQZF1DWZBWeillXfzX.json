@@ -1,6 +1,6 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 20256,
+  "num_followers": 20269,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "In My Soul",
-        "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
+        "name": "Lay It On Down",
+        "url": "https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR"
       },
       "artists": [
         {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        },
-        {
-          "name": "The Robert Cray Band",
-          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
         }
       ],
-      "duration_ms": 365440,
-      "name": "You're Everything",
-      "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
+      "duration_ms": 293506,
+      "name": "Nothing But The Night",
+      "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -259,18 +255,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Lay It On Down",
-        "url": "https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR"
+        "name": "In My Soul",
+        "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
       },
       "artists": [
         {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        },
+        {
+          "name": "The Robert Cray Band",
+          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
         }
       ],
-      "duration_ms": 293506,
-      "name": "Nothing But The Night",
-      "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
+      "duration_ms": 365440,
+      "name": "You're Everything",
+      "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -339,6 +339,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 387706,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Anything But Time",
         "url": "https://open.spotify.com/album/2YmvbKfSf2JCQlyejspiF2"
       },
@@ -355,18 +371,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/0HohoNniglpDithTFEnqaW"
       },
       "artists": [
         {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+          "name": "Joey Landreth",
+          "url": "https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234"
         }
       ],
-      "duration_ms": 387706,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
+      "duration_ms": 260013,
+      "name": "Where Did I Go Wrong",
+      "url": "https://open.spotify.com/track/7pi7XTGGaVBzrhlaYH97CV"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -387,22 +403,6 @@
       "duration_ms": 165687,
       "name": "Surfing",
       "url": "https://open.spotify.com/track/4tyx5KvHtEyADgxo5N9o5h"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Hindsight",
-        "url": "https://open.spotify.com/album/0HohoNniglpDithTFEnqaW"
-      },
-      "artists": [
-        {
-          "name": "Joey Landreth",
-          "url": "https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Where Did I Go Wrong",
-      "url": "https://open.spotify.com/track/7pi7XTGGaVBzrhlaYH97CV"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -459,18 +459,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
+        "name": "Ashes & Dust",
+        "url": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
       },
       "artists": [
         {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        },
+        {
+          "name": "Railroad Earth",
+          "url": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
         }
       ],
-      "duration_ms": 250182,
-      "name": "Brown Gatton",
-      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
+      "duration_ms": 446346,
+      "name": "Coal Tattoo",
+      "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -491,6 +495,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 250182,
+      "name": "Brown Gatton",
+      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Headway",
         "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 178037,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Ashes & Dust",
-        "url": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
-      },
-      "artists": [
-        {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
-        },
-        {
-          "name": "Railroad Earth",
-          "url": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
-        }
-      ],
-      "duration_ms": 446346,
-      "name": "Coal Tattoo",
-      "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
     },
     {
       "added_at": "2022-02-23 14:50:27",
@@ -543,18 +543,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Chills & Thrills",
-        "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
+        "name": "Reckless Blues",
+        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
       },
       "artists": [
         {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 241706,
-      "name": "Groove With Me",
-      "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"
+      "duration_ms": 315178,
+      "name": "Here Comes the Flood",
+      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Reckless Blues",
-        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
+        "name": "Chills & Thrills",
+        "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
         }
       ],
-      "duration_ms": 315178,
-      "name": "Here Comes the Flood",
-      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
+      "duration_ms": 241706,
+      "name": "Groove With Me",
+      "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"
     },
     {
       "added_at": "2021-04-27 23:04:41",
@@ -623,18 +623,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Anytime You Need Me",
-        "url": "https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL"
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
       "artists": [
         {
-          "name": "Ben Poole",
-          "url": "https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 352853,
-      "name": "Found out the Hard Way",
-      "url": "https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO"
+      "duration_ms": 221430,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -655,6 +655,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Anytime You Need Me",
+        "url": "https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL"
+      },
+      "artists": [
+        {
+          "name": "Ben Poole",
+          "url": "https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3"
+        }
+      ],
+      "duration_ms": 352853,
+      "name": "Found out the Hard Way",
+      "url": "https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "The Outsider",
         "url": "https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 216552,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 221430,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
     },
     {
       "added_at": "2020-10-21 17:37:12",

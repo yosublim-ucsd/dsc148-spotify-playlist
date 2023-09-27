@@ -1,6 +1,6 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 127245,
+  "num_followers": 127268,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "It Makes You Forget (Itgehane)",
-        "url": "https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "It Makes You Forget (Itgehane) - Edit",
-      "url": "https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 310133,
       "name": "Feel Your Weight - Poolside Remix",
       "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "It Makes You Forget (Itgehane)",
+        "url": "https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "It Makes You Forget (Itgehane) - Edit",
+      "url": "https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -159,22 +159,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Luv Is Not Enough (Remixes)",
-        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
       },
       "artists": [
         {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Forrest Mortifee",
-          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 197894,
-      "name": "Luv Is Not Enough",
-      "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
+      "duration_ms": 277681,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/2aT8QoKvwvhgx9PURO4DEP"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -255,18 +251,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "MOOD",
-        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
+        "name": "Luv Is Not Enough (Remixes)",
+        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Forrest Mortifee",
+          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
         }
       ],
-      "duration_ms": 277681,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/2aT8QoKvwvhgx9PURO4DEP"
+      "duration_ms": 197894,
+      "name": "Luv Is Not Enough",
+      "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Illumination",
-        "url": "https://open.spotify.com/album/37oEeZfUpmbYlJnORF36Zk"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        }
-      ],
-      "duration_ms": 233229,
-      "name": "I Look to You",
-      "url": "https://open.spotify.com/track/4i7HrBTsaocmoNPoifG7Bd"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 1",
         "url": "https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp"
       },
@@ -359,6 +339,22 @@
       "duration_ms": 258399,
       "name": "Okay Okay",
       "url": "https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -395,22 +391,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Premiers \u00e9mois",
         "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 206546,
       "name": "La femme \u00e0 la peau bleue",
       "url": "https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Illumination",
+        "url": "https://open.spotify.com/album/37oEeZfUpmbYlJnORF36Zk"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "duration_ms": 233229,
+      "name": "I Look to You",
+      "url": "https://open.spotify.com/track/4i7HrBTsaocmoNPoifG7Bd"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Mercurial World",
-        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 245897,
-      "name": "Secrets (Your Fire)",
-      "url": "https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "nice 2 me",
         "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 171622,
       "name": "nice 2 me",
       "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 245897,
+      "name": "Secrets (Your Fire)",
+      "url": "https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "On the Cloud",
-        "url": "https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG"
-      },
-      "artists": [
-        {
-          "name": "DGHTR",
-          "url": "https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL"
-        }
-      ],
-      "duration_ms": 111272,
-      "name": "On The Cloud",
-      "url": "https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "MOOD",
         "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "On the Cloud",
+        "url": "https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG"
+      },
+      "artists": [
+        {
+          "name": "DGHTR",
+          "url": "https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL"
+        }
+      ],
+      "duration_ms": 111272,
+      "name": "On The Cloud",
+      "url": "https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Volume 1",
-        "url": "https://open.spotify.com/album/6HZfuAb9iEuSTvx2GQ3hkE"
-      },
-      "artists": [
-        {
-          "name": "Ambala",
-          "url": "https://open.spotify.com/artist/2z0mgUBpRGfMpV39n7sLXw"
-        },
-        {
-          "name": "Laid Back",
-          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
-        }
-      ],
-      "duration_ms": 297857,
-      "name": "Walk with the Dreamers",
-      "url": "https://open.spotify.com/track/67yw6kP3lhXD8HRsvCVWtm"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Laberinto (Bosq Remix)",
         "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/6HZfuAb9iEuSTvx2GQ3hkE"
+      },
+      "artists": [
+        {
+          "name": "Ambala",
+          "url": "https://open.spotify.com/artist/2z0mgUBpRGfMpV39n7sLXw"
+        },
+        {
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
+        }
+      ],
+      "duration_ms": 297857,
+      "name": "Walk with the Dreamers",
+      "url": "https://open.spotify.com/track/67yw6kP3lhXD8HRsvCVWtm"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 259750,
       "name": "Segrados Do Samba",
       "url": "https://open.spotify.com/track/1QXImka15rUVwpakYivJ70"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Young Romance (Deluxe)",
-        "url": "https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 266574,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/0FNC6hGhHNFHOpqLfhEbTd"
     },
     {
       "added_at": "2023-08-14 14:58:41",

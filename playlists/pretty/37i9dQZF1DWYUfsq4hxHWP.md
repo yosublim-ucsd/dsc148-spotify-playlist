@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Dylan Gossett, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,089 likes - 165 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,140 likes - 165 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 
 > Salute's got the juice
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,877 likes - 121 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,902 likes - 121 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

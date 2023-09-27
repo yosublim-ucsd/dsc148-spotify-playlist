@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-239 songs - 9 hr 20 min
+240 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [gold](https://open.spotify.com/track/58LtMOwgUsR2RH70Du6hiK) | [Flux The Cynic](https://open.spotify.com/artist/7KVnt5tFYViqLUPgUkkDoF), [Chill Children](https://open.spotify.com/artist/1HIUSy6Z18XvHfvsGPSWYx) | [flux the cynic](https://open.spotify.com/album/298IErQJY2iMNJxzJrEGtF) | 1:47 | 2022-04-15 | 2022-07-17 |
 | [Green Stamps](https://open.spotify.com/track/30zouM8GTBeX57AFYDCcDI) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Spotless Minds](https://open.spotify.com/album/502M2AoaTM2CDYghPlH0Mn) | 2:37 | 2022-04-15 | 2023-08-23 |
 | [hammock](https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [hometown](https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq) | 1:56 | 2022-04-15 |  |
-| [hand of god](https://open.spotify.com/track/17aeqWs7j6xU37MMQ6LofF) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:43 | 2022-04-15 |  |
+| [hand of god](https://open.spotify.com/track/17aeqWs7j6xU37MMQ6LofF) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:43 | 2022-04-15 | 2023-09-27 |
 | [hand of god](https://open.spotify.com/track/5BkpjyhjGiptuzxI2n5L67) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:43 | 2022-04-15 | 2022-11-26 |
 | [Here There](https://open.spotify.com/track/1lXBO9MA1ZnyQSaMPS0Ipo) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Romance](https://open.spotify.com/album/7pKuX4GEQp8hsy4Z702aKm) | 1:59 | 2022-04-15 | 2023-05-24 |
 | [Here There](https://open.spotify.com/track/2uKCULX5fviDo0PspMcxRs) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Romance](https://open.spotify.com/album/2v8fJtNbT42y6huBvyyvIT) | 1:59 | 2022-04-15 | 2022-07-29 |
@@ -159,6 +159,7 @@
 | [Rio Roadtrippin'](https://open.spotify.com/track/76RXCXdZaVZ9LHbmBypZnM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Rio Roadtrippin'](https://open.spotify.com/album/2fmsUtw5U7ACNF4NtQ371Z) | 2:33 | 2022-04-15 | 2022-07-29 |
 | [Ritmo Coco](https://open.spotify.com/track/1ZS1jIvAsmlx09ltztNur1) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fufu & Grits](https://open.spotify.com/album/7fzbaKPv54lFU6kqXCOUKd) | 4:21 | 2022-04-15 | 2022-07-28 |
 | [Rolling Papers](https://open.spotify.com/track/3ou5xfUbChcJHMIN8jZ8C9) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [Yerba](https://open.spotify.com/album/2TpFFSYCyOFwWlhgOZkEe0) | 2:00 | 2022-04-15 | 2023-08-27 |
+| [Rolling Papers](https://open.spotify.com/track/7xMon6pxYKoVIgHdsTUGYr) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [Yerba](https://open.spotify.com/album/31oMm25qyo4tG0l0Yzwz7Q) | 2:00 | 2022-04-15 |  |
 | [Rose Garden](https://open.spotify.com/track/37I8L2Cx6PScWXn0tkN4wV) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:06 | 2022-04-15 | 2022-07-29 |
 | [Rosewood](https://open.spotify.com/track/2W4tfxMbqiqzhfvRGTWAo5) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Rosewood](https://open.spotify.com/album/2ezZOU3YpToebih7Rvzx6s) | 2:42 | 2022-04-15 | 2023-07-24 |
 | [sand castles](https://open.spotify.com/track/5rBQIzDduJsmDbZ97gqWEW) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [corals 2](https://open.spotify.com/album/62MVvI7ZbnVde4NDB6mFhL) | 2:27 | 2022-04-15 | 2022-11-19 |

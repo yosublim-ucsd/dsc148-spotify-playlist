@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,346 likes - 85 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,348 likes - 85 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "morrxs chidos haciendo m\u00fasica chida. GRTSCH en portada.",
+  "description": "morrxs chidos haciendo m\u00fasica chida. Reno Rojas en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 207784,
       "name": "A Simple Vista",
       "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/6JhinkHNQUKvMqpyDCyRik"
+      },
+      "artists": [
+        {
+          "name": "Reno Rojas",
+          "url": "https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260290,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/0g9wwRv9mqQ2Tav1A6sFK4"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/4yvO0s42biRgOKbhFQ0PhR"
       },
@@ -332,7 +350,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 184672,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/09s6VNeJFQMZ9esiIBGb3G"
@@ -350,7 +368,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 155321,
       "name": "Donde no ve Dios",
       "url": "https://open.spotify.com/track/6rIUeKtT5vlp2up9QNEwhz"
@@ -368,7 +386,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 176538,
       "name": "El Cuarto",
       "url": "https://open.spotify.com/track/7aS0Pnk0APU2ohbp65JWtD"
@@ -563,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Llamadas Vac\u00edas",
+        "url": "https://open.spotify.com/album/1q7GW6BI9MzTLjwQbtje3n"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143474,
+      "name": "Llamadas Vac\u00edas",
+      "url": "https://open.spotify.com/track/1yL2B3kWqmpC5cDISZB5EO"
+    },
+    {
+      "album": {
         "name": "Lobos",
         "url": "https://open.spotify.com/album/39lyajXCOe2OA2x8pm46Ds"
       },
@@ -610,7 +646,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 193514,
       "name": "Maggia",
       "url": "https://open.spotify.com/track/4WOz1kTSzTeGtmJOqDLf8I"
@@ -632,6 +668,24 @@
       "duration_ms": 186461,
       "name": "Me Hago Mal",
       "url": "https://open.spotify.com/track/3XIaG3uGcewsKPmxauygJZ"
+    },
+    {
+      "album": {
+        "name": "Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0E94vI4EfOVH9HVnmhyafU"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162415,
+      "name": "Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5KEVe54PKR5Imu2ovBm1CY"
     },
     {
       "album": {
@@ -682,7 +736,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 185685,
       "name": "no quiero estar aqu\u00ed",
       "url": "https://open.spotify.com/track/2KW4OWqMU780CgocKsMOZ4"
@@ -787,6 +841,28 @@
     },
     {
       "album": {
+        "name": "Prendas Nuevas",
+        "url": "https://open.spotify.com/album/0dRuyWtNthFiwfM054JJ10"
+      },
+      "artists": [
+        {
+          "name": "k onda",
+          "url": "https://open.spotify.com/artist/71W0pSc6iDkFYwoFL7fUJE"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Prendas Nuevas",
+      "url": "https://open.spotify.com/track/39e0dif18KfsiW3XI7CLlN"
+    },
+    {
+      "album": {
         "name": "Red Pill",
         "url": "https://open.spotify.com/album/27coIALm5CqtoSdZ7lel7m"
       },
@@ -867,6 +943,28 @@
     },
     {
       "album": {
+        "name": "Sin pistola",
+        "url": "https://open.spotify.com/album/1HSPfrQ8Cz51hsc1ttXoHy"
+      },
+      "artists": [
+        {
+          "name": "V.Rod",
+          "url": "https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153857,
+      "name": "Sin pistola",
+      "url": "https://open.spotify.com/track/008gGt53LBG5eBo7rfganm"
+    },
+    {
+      "album": {
         "name": "SIN TI",
         "url": "https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG"
       },
@@ -882,6 +980,46 @@
       "duration_ms": 168000,
       "name": "SIN TI",
       "url": "https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e"
+    },
+    {
+      "album": {
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/4NdVo4BCSLmgpgRqHKMu1n"
+      },
+      "artists": [
+        {
+          "name": "FRNCE",
+          "url": "https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194029,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/76Hp3hY7ibBrgIrWcjy2yu"
+    },
+    {
+      "album": {
+        "name": "so\u00f1ando despierta",
+        "url": "https://open.spotify.com/album/2tomkSqgucy3kM041mFCuc"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        },
+        {
+          "name": "Berdu",
+          "url": "https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "so\u00f1ando despierta",
+      "url": "https://open.spotify.com/track/0aNc5zg0qiuZaJAl5xdehz"
     },
     {
       "album": {
@@ -918,7 +1056,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 218657,
       "name": "Te hab\u00eda contao",
       "url": "https://open.spotify.com/track/00pEWo382r8gERWquqG1wS"

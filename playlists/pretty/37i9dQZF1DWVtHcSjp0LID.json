@@ -1,6 +1,6 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 61445,
+  "num_followers": 61494,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "When the Rain",
+        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
+      },
+      "artists": [
+        {
+          "name": "Trudge",
+          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
+        }
+      ],
+      "duration_ms": 400327,
+      "name": "Deep Eyes Blue Skies",
+      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Occasional Magic Remixes EP",
         "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 330145,
       "name": "Occasional Magic - Ulrich Schnauss Remix",
       "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "When the Rain",
-        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
-      },
-      "artists": [
-        {
-          "name": "Trudge",
-          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
-        }
-      ],
-      "duration_ms": 400327,
-      "name": "Deep Eyes Blue Skies",
-      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
     }
   ],
   "unique_name": "Deep Study",

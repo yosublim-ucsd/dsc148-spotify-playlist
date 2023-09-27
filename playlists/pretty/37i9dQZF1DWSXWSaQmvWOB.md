@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,015 likes - 77 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,083 likes - 77 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 564539,
+  "num_followers": 564954,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Golden Road",
-        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 323040,
-      "name": "Somebody Like You",
-      "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Carrying Your Love With Me",
         "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 232426,
       "name": "Carrying Your Love With Me",
       "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Golden Road",
+        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 323040,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "My Maria",
-      "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Haywire",
         "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 192800,
       "name": "Why Don't We Just Dance",
       "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "My Maria",
+      "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
         }
       ],
-      "duration_ms": 230600,
-      "name": "Blue Ain't Your Color",
-      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
+      "duration_ms": 228840,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Hunter Hayes (Encore)",
-        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
       "artists": [
         {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 228840,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+      "duration_ms": 230600,
+      "name": "Blue Ain't Your Color",
+      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+        "name": "Sunset Man (Standard Version)",
+        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "James Otto",
+          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
         }
       ],
-      "duration_ms": 247826,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
+      "duration_ms": 234640,
+      "name": "Just Got Started Lovin' You",
+      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Sunset Man (Standard Version)",
-        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
       "artists": [
         {
-          "name": "James Otto",
-          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 234640,
-      "name": "Just Got Started Lovin' You",
-      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
+      "duration_ms": 247826,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
     },
     {
       "added_at": "2023-02-14 19:26:52",

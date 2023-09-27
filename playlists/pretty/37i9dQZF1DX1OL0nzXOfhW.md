@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: Jeffrey Ngai 魏浚笙
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,775 likes - 59 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,781 likes - 59 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

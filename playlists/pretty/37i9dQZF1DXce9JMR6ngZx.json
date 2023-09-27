@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 202396,
+  "num_followers": 202475,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293826,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 300106,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293826,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -787,22 +787,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Bad (Remastered)",
-        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Smooth Criminal - 2012 Remaster",
-      "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "...Nothing Like The Sun",
         "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 267266,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Bad (Remastered)",
+        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Smooth Criminal - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -867,18 +867,22 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "The Essential Journey",
-        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+        "name": "Songs From The Big Chair (Deluxe)",
+        "url": "https://open.spotify.com/album/06J93pgtDCUw6bsAQINhCs"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        {
+          "name": "Dave Bascombe",
+          "url": "https://open.spotify.com/artist/3pAVaThptde5bneOqDfY1I"
         }
       ],
-      "duration_ms": 248906,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
+      "duration_ms": 257315,
+      "name": "Head Over Heels - Dave Bascombe 7\" N.Mix",
+      "url": "https://open.spotify.com/track/5lwQGZYF4BXOzFtXc5zk8q"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -903,6 +907,22 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "The Essential Journey",
+        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 242733,
       "name": "La Isla Bonita",
       "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Songs From The Big Chair (Deluxe)",
-        "url": "https://open.spotify.com/album/06J93pgtDCUw6bsAQINhCs"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        },
-        {
-          "name": "Dave Bascombe",
-          "url": "https://open.spotify.com/artist/3pAVaThptde5bneOqDfY1I"
-        }
-      ],
-      "duration_ms": 257315,
-      "name": "Head Over Heels - Dave Bascombe 7\" N.Mix",
-      "url": "https://open.spotify.com/track/5lwQGZYF4BXOzFtXc5zk8q"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "The Innocents",
-        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
-      },
-      "artists": [
-        {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "A Little Respect",
-      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 196626,
       "name": "The Boy with the Thorn in His Side - 2011 Remaster",
       "url": "https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "The Innocents",
+        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "A Little Respect",
+      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
     },
     {
       "added_at": "2020-06-24 14:37:20",

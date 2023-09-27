@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Argy, Omnya
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,796 likes - 88 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,893 likes - 88 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

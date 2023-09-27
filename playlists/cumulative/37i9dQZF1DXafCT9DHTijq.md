@@ -4,7 +4,7 @@
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
 
-68 songs - 6 hr 2 min
+69 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Twilight Zone: Theme And Variations](https://open.spotify.com/track/4lkbUxhlOgDB3V6XsaZ9YB) | [Marius Constant](https://open.spotify.com/artist/0TFFISao0xA2ax2vkzbN0l), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Pops Out Of This World](https://open.spotify.com/album/4WQolMhrgoyRIviXbKUd3Q) | 3:38 | 2021-10-18 | 2022-07-29 |
 | [Waltz Suite, Op\. 110: III\. Mephisto Waltz \(from Lermontov\)](https://open.spotify.com/track/2CDIOgjV5L5xdsIsYosA6p) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Orquestra Sinfônica do Estado de São Paulo](https://open.spotify.com/artist/3NhV0B71sAoZu1FGHG4bK4), [Marin Alsop](https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr) | [Prokofiev: Symphony No\. 6, Op\. 111 & Waltz Suite, Op\. 110](https://open.spotify.com/album/5qN1KUt1e6YGtbNN8Kn8RX) | 3:26 | 2021-10-18 |  |
 | [Waltz Suite, Op\. 110: III\. Mephisto Waltz \(From Lermontov\)](https://open.spotify.com/track/5pcj8ZPk34gmuRP9Qbw8W9) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Orquestra Sinfônica Do Estado De São Paulo](https://open.spotify.com/artist/3NhV0B71sAoZu1FGHG4bK4), [Marin Alsop](https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr) | [Prokofiev: Symphony No\. 6, Op\. 111 & Waltz Suite, Op\. 110](https://open.spotify.com/album/5OiHajL7zhDZLMkOxmFziO) | 3:26 | 2021-10-18 | 2022-07-29 |
+| [Wednesday Main Titles](https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF) | 1:09 | 2023-09-26 |  |
 | [Welcome To The Addams Family](https://open.spotify.com/track/655IlK9f17wH6UMzIL8cLe) | [Mychael Danna & Jeff Danna](https://open.spotify.com/artist/6T3M3x01dQbAr6XXlNVOlq) | [The Addams Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42gNmvl1nDLFdZh6nEA7KS) | 1:19 | 2021-10-18 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

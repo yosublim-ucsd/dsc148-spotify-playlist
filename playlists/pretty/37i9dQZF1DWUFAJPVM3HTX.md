@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU?si=VTlAs\-66TP6SDKypzYnC3A">Anaïs Cardot</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,073 likes - 221 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,137 likes - 221 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

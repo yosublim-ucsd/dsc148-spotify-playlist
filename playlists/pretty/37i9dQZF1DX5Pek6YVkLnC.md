@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,151 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,173 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 26 | [Otra](https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [Otra](https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG) | 2:46 |
 | 27 | [Piratas](https://open.spotify.com/track/0a3UB6hOlLPlgv1GIhWsed) | [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Piratas](https://open.spotify.com/album/6stZMmfRE8VlPWDXUBTKe6) | 3:19 |
 | 28 | [East Side](https://open.spotify.com/track/1RXZHzvwmNKwrnwAVLOxZU) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [East Side](https://open.spotify.com/album/3VFdfeQep8243UdqkJFEWC) | 2:30 |
-| 29 | [Tentretiene](https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tentretiene](https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG) | 3:42 |
-| 30 | [Freelance](https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1\)](https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex) | 3:17 |
-| 31 | [Baby Girl](https://open.spotify.com/track/3GHHqeqPmU7Aggw8yT9O3P) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Baby Girl](https://open.spotify.com/album/5H67cNp6Qd44ozdgupssXB) | 3:17 |
+| 29 | [Baby Girl](https://open.spotify.com/track/3GHHqeqPmU7Aggw8yT9O3P) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Baby Girl](https://open.spotify.com/album/5H67cNp6Qd44ozdgupssXB) | 3:17 |
+| 30 | [Tentretiene](https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tentretiene](https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG) | 3:42 |
+| 31 | [Freelance](https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1\)](https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex) | 3:17 |
 | 32 | [Respeto X Respeto](https://open.spotify.com/track/1vrxkVgaOSQb02tyLtQnXD) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Respeto X Respeto](https://open.spotify.com/album/24UJw0M1giFfL1APlORrar) | 3:02 |
 | 33 | [TRAPPHONE](https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [TRAPPHONE](https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk) | 1:47 |
 | 34 | [P.O.V.](https://open.spotify.com/track/0ZoHqqfllVIYGwM7cMhJgo) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Sempiterno](https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ) | 2:39 |

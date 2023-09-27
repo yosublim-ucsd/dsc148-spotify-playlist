@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 122690,
+  "num_followers": 122821,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
+        "name": "Horizon Unlimited",
+        "url": "https://open.spotify.com/album/0STgCf0eno2mvc48tbckNt"
+      },
+      "artists": [
+        {
+          "name": "Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
+        }
+      ],
+      "duration_ms": 318785,
+      "name": "Come on Home",
+      "url": "https://open.spotify.com/track/1FhP3mymDoN2hX5p57uTnu"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
         "name": "New Energy",
         "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Horizon Unlimited",
-        "url": "https://open.spotify.com/album/0STgCf0eno2mvc48tbckNt"
-      },
-      "artists": [
-        {
-          "name": "Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
-        }
-      ],
-      "duration_ms": 318785,
-      "name": "Come on Home",
-      "url": "https://open.spotify.com/track/1FhP3mymDoN2hX5p57uTnu"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "Slick",
         "url": "https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 315585,
-      "name": "Odessa",
-      "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "Part One",
         "url": "https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 144440,
       "name": "I Won't Hurt You",
       "url": "https://open.spotify.com/track/59v1okflZrEkeb9JrxfJvX"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 315585,
+      "name": "Odessa",
+      "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "DREAM SOUP",
-        "url": "https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 206370,
-      "name": "Human Shape",
-      "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "Jazz Club After Hours",
         "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 294211,
       "name": "Jazz Club After Hours",
       "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "DREAM SOUP",
+        "url": "https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 206370,
+      "name": "Human Shape",
+      "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Dub Reggae",
-        "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
-      },
-      "artists": [
-        {
-          "name": "King Tubby",
-          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
-        }
-      ],
-      "duration_ms": 218693,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Dub Reggae",
+        "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Your Queen Is A Reptile",
-        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
       },
       "artists": [
         {
-          "name": "Sons Of Kemet",
-          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 314693,
-      "name": "My Queen Is Albertina Sisulu",
-      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -927,6 +911,22 @@
       "duration_ms": 288038,
       "name": "I Know",
       "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Your Queen Is A Reptile",
+        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+        }
+      ],
+      "duration_ms": 314693,
+      "name": "My Queen Is Albertina Sisulu",
+      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
+      },
+      "artists": [
+        {
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        }
+      ],
+      "duration_ms": 228897,
+      "name": "Gated Area",
+      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
         "name": "Dr. Buzzard's Original Savannah Band",
         "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 384986,
       "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
       "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
-      },
-      "artists": [
-        {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
-        }
-      ],
-      "duration_ms": 228897,
-      "name": "Gated Area",
-      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
     },
     {
       "added_at": "2023-07-18 19:55:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUpbL2j5aTT.md) - [plain]
 
 > The best of Brazilian House\. Photo: FBC
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,604 likes - 66 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,610 likes - 66 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

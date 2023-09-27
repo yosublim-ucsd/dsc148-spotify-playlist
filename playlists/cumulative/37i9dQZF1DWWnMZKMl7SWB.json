@@ -4990,7 +4990,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 135529,
       "name": "Dear Friends",
       "url": "https://open.spotify.com/track/1ZaTA2e51aBZoAL8CuaePU"
@@ -5652,6 +5652,24 @@
       "duration_ms": 166165,
       "name": "Droplets",
       "url": "https://open.spotify.com/track/15yitQITrGAxCToHNw4zKF"
+    },
+    {
+      "album": {
+        "name": "Dusk's Delight",
+        "url": "https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O"
+      },
+      "artists": [
+        {
+          "name": "Wezley Wiz",
+          "url": "https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120588,
+      "name": "Dusk's Delight",
+      "url": "https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN"
     },
     {
       "album": {
@@ -7022,7 +7040,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 99428,
       "name": "Flying Lofi Bugs",
       "url": "https://open.spotify.com/track/4cGt0bobV5aGn3d55XMPKv"
@@ -12173,6 +12191,24 @@
     },
     {
       "album": {
+        "name": "mountain peak",
+        "url": "https://open.spotify.com/album/39X3V9LCL3hqHDiUqjUpH6"
+      },
+      "artists": [
+        {
+          "name": "fly_by_wire",
+          "url": "https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146437,
+      "name": "mountain peak",
+      "url": "https://open.spotify.com/track/0VGLPDmgUWpoUjStj7Csvc"
+    },
+    {
+      "album": {
         "name": "Mowet",
         "url": "https://open.spotify.com/album/0IKEKVSolplB7bVIT5LfoJ"
       },
@@ -13114,6 +13150,24 @@
       "duration_ms": 138822,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/4HlCBuCaDxtetNpuz2GcWE"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/6nQNTDHsAzKwD63yJ8znXV"
+      },
+      "artists": [
+        {
+          "name": "Kival",
+          "url": "https://open.spotify.com/artist/4mYPgSEfNEHOG0QfdJuMwp"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164620,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/0H5Ev0vFWpqqLlWAwfUpOC"
     },
     {
       "album": {
@@ -18450,7 +18504,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 79059,
       "name": "sweet pea",
       "url": "https://open.spotify.com/track/769jXDQMCJCfuBbcZvplDx"

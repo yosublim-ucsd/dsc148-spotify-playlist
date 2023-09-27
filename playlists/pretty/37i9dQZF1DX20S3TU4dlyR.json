@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 55222,
+  "num_followers": 55234,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Lo Mas Lindo (777 Remix)",
-        "url": "https://open.spotify.com/album/4qauDzXKycdqSVSFLB2uTv"
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
       },
       "artists": [
         {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        },
-        {
-          "name": "Malandro",
-          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 218048,
-      "name": "Lo Mas Lindo (777 Remix)",
-      "url": "https://open.spotify.com/track/5w9zLniVSir38TONTqdNKq"
+      "duration_ms": 202680,
+      "name": "Lo De Siempre",
+      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1067,22 +1063,6 @@
       "duration_ms": 278626,
       "name": "Tan Distante",
       "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "Lo De Siempre",
-      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1127,6 +1107,26 @@
       "duration_ms": 254085,
       "name": "Aroma de Caf\u00e9",
       "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Lo Mas Lindo (777 Remix)",
+        "url": "https://open.spotify.com/album/4qauDzXKycdqSVSFLB2uTv"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Lo Mas Lindo (777 Remix)",
+      "url": "https://open.spotify.com/track/5w9zLniVSir38TONTqdNKq"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Neigborhood Rules",
+        "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        }
+      ],
+      "duration_ms": 232342,
+      "name": "Laba Laba Craven",
+      "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Bahiano BH+",
         "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 212470,
       "name": "Let it Be",
       "url": "https://open.spotify.com/track/1sd0Y0rWsV3Y7RH0UnoZ5M"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Neigborhood Rules",
-        "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
-      },
-      "artists": [
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        }
-      ],
-      "duration_ms": 232342,
-      "name": "Laba Laba Craven",
-      "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1455,38 +1455,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Actor Espectador",
-        "url": "https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF"
-      },
-      "artists": [
-        {
-          "name": "Contravos",
-          "url": "https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Strengthen Your Mind",
-      "url": "https://open.spotify.com/track/3BjRtnuG74eUj4dYp9mrDT"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "The Lady in Red",
-        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 225703,
-      "name": "The Lady in Red",
-      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Emocionado",
         "url": "https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz"
       },
@@ -1507,6 +1475,38 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Actor Espectador",
+        "url": "https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF"
+      },
+      "artists": [
+        {
+          "name": "Contravos",
+          "url": "https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Strengthen Your Mind",
+      "url": "https://open.spotify.com/track/3BjRtnuG74eUj4dYp9mrDT"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
@@ -1519,6 +1519,26 @@
       "duration_ms": 237026,
       "name": "Naufrago",
       "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "La Vida Es Una Canci\u00f3n II",
+        "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        },
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Cerquita",
+      "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1543,26 +1563,6 @@
       "duration_ms": 202306,
       "name": "M\u00e1s Libre",
       "url": "https://open.spotify.com/track/5v69zCbt88Xy2Td6i2m1vw"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "La Vida Es Una Canci\u00f3n II",
-        "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        },
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Cerquita",
-      "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
     },
     {
       "added_at": "2023-09-08 03:00:00",

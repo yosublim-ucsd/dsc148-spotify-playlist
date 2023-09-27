@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:4U3Mh4fpzJb7XD1CR1ZbDx">Mery Spolsky</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,408 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,410 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 6 | [Bye Bye](https://open.spotify.com/track/31NFkxUWtemH1wOUSB9KEI) | [Natalia Nykiel](https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj) | [Bye Bye](https://open.spotify.com/album/6W6SG4cimSEhSPrE1XODji) | 2:38 |
 | 7 | [GANESHA](https://open.spotify.com/track/0idOCNGgN1Om5EoDDBTdx9) | [Kazadi](https://open.spotify.com/artist/07mRerlNt1Z84BeWgOJRib), [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM) | [GANESHA](https://open.spotify.com/album/2r5ahtu4ugIEHTIYTt2KSB) | 3:00 |
 | 8 | [Z Tobą na chacie](https://open.spotify.com/track/3BqdgVwVeLA0NajUUFVo5h) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Z Tobą na chacie](https://open.spotify.com/album/1n646rZ9IKq3kJeUZoCvsd) | 3:04 |
-| 9 | [Zuch dziewczyna](https://open.spotify.com/track/1jfuZNXASE97NGcIlsixJi) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zuch dziewczyna](https://open.spotify.com/album/1asvDQ9EXp8Ts76OR7KKcn) | 2:36 |
+| 9 | [zuch dziewczyna](https://open.spotify.com/track/1jfuZNXASE97NGcIlsixJi) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [zuch dziewczyna](https://open.spotify.com/album/1asvDQ9EXp8Ts76OR7KKcn) | 2:36 |
 | 10 | [Kolor](https://open.spotify.com/track/2i9XH1UJ1pg6slz8Jm53Xi) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh) | [W pełni](https://open.spotify.com/album/1CSWCjpem975OAr1HyOE7M) | 3:15 |
 | 11 | [Diament](https://open.spotify.com/track/4snpPHFGYvqvAywbtGTk61) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Diament](https://open.spotify.com/album/0hcPWow9eAkb1iUxhj65aQ) | 3:08 |
 | 12 | [skanah](https://open.spotify.com/track/1rhXYfDVG8XqwjDZxJYICL) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [skanah](https://open.spotify.com/album/5De6Nf7St0KqRnDM7D0Z0K) | 4:00 |

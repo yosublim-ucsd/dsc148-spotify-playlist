@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,766 likes - 114 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,969 likes - 114 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

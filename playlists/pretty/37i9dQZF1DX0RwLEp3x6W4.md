@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Jesse McReynolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,838 likes - 59 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,860 likes - 59 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

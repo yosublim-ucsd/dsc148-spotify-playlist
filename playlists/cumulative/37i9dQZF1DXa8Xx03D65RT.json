@@ -636,7 +636,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 156996,
       "name": "Amble",
       "url": "https://open.spotify.com/track/5gvjOIFPr6moYBmWSV7B0V"
@@ -4813,6 +4813,24 @@
     },
     {
       "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/7azCak0GgPVaSFelg61xYa"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129753,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6Q0m7E33lcj6FOgdEsH448"
+    },
+    {
+      "album": {
         "name": "Imbolc",
         "url": "https://open.spotify.com/album/0J6pG8QWSeb8jShtQ0MWi3"
       },
@@ -6034,7 +6052,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 127000,
       "name": "Lillian",
       "url": "https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p"
@@ -6510,7 +6528,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 120458,
       "name": "Meditation: I. Promise",
       "url": "https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc"
@@ -10626,7 +10644,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 185723,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/5zxpOwuLmakNHkTgipD0me"
@@ -11746,7 +11764,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 127303,
       "name": "Vaikne",
       "url": "https://open.spotify.com/track/0hRVNF5ZBfvbRtHKFQItr4"

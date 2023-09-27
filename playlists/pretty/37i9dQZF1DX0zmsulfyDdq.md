@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain]
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,052 likes - 192 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,204 likes - 192 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

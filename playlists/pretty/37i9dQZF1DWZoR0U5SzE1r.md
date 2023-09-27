@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,138 likes - 100 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,258 likes - 100 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 32 | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/track/1UOzgUuakMRQcKVTUTU6Pu) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/album/5pOGRC3CWSAPGQz5qnvC6t) | 4:47 |
 | 33 | [In The River \- Live](https://open.spotify.com/track/2qHScCZ9f4FPBNVBpFMZ0G) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Let It Echo \(Live\)](https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO) | 4:37 |
 | 34 | [Worthy Of It All / All Of The Glory \- Live](https://open.spotify.com/track/4lCnMWzE9PppxF4Qpa6Abl) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Moments II \(Live\)](https://open.spotify.com/album/3PWRsY3Z3xl7dJ17iLHbQG) | 9:15 |
-| 35 | [Fall Afresh](https://open.spotify.com/track/42TAP4olyZONFmNT48O10D) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr) | 4:24 |
-| 36 | [Into The Deep \- Live](https://open.spotify.com/track/5wkUfhKdCzHRGK7XwpMksC) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Into The Deep \(Live\)](https://open.spotify.com/album/0VvN0tftREbwUMOBpyOOHB) | 6:28 |
+| 35 | [Into The Deep \- Live](https://open.spotify.com/track/5wkUfhKdCzHRGK7XwpMksC) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Into The Deep \(Live\)](https://open.spotify.com/album/0VvN0tftREbwUMOBpyOOHB) | 6:28 |
+| 36 | [Fall Afresh](https://open.spotify.com/track/42TAP4olyZONFmNT48O10D) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr) | 4:24 |
 | 37 | [Nothing Without You](https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 4:42 |
 | 38 | [Lift You High \- Live](https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Housefires + Friends \(Live\)](https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma) | 7:57 |
 | 39 | [Not Today](https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 4:13 |

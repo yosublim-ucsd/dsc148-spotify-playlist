@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Curated by Bun B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,764 likes - 94 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,793 likes - 94 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 68 | [Apache](https://open.spotify.com/track/51ml2bJs9zDLv1PbzNQzPP) | [Incredible Bongo Band](https://open.spotify.com/artist/6tw3wmGmRXSWP9GqsnvY7B) | [40 Years of the Incredible Bongo Band](https://open.spotify.com/album/2dtnXYyS4Qx7CvgpWOO8Na) | 4:53 |
 | 69 | [Treat 'Em Right](https://open.spotify.com/track/2QHmGfplU3ypWOGgJM46in) | [Chubb Rock](https://open.spotify.com/artist/4dVRITwfej74WkmNpgYVPb) | [The One](https://open.spotify.com/album/2SRmJGHAMj3Bi8AqvHEJAo) | 4:43 |
 | 70 | [The Choice Is Yours](https://open.spotify.com/track/1I1ycyokEiLqNHeRR3c63i) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [A Wolf In Sheep's Clothing](https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO) | 3:23 |
-| 71 | [Getto Jam](https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx) | [Domino](https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1) | [Domino](https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR) | 4:19 |
-| 72 | [Barre Baby \(feat\. Ronnetta Spencer\)](https://open.spotify.com/track/1NVv0XLVxypQEuoQa4bjAQ) | [Big Moe](https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr) | [City Of Syrup](https://open.spotify.com/album/6WqHRoNaFwM6K5KkTsQPGn) | 2:59 |
+| 71 | [Barre Baby \(feat\. Ronnetta Spencer\)](https://open.spotify.com/track/1NVv0XLVxypQEuoQa4bjAQ) | [Big Moe](https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr) | [City Of Syrup](https://open.spotify.com/album/6WqHRoNaFwM6K5KkTsQPGn) | 2:59 |
+| 72 | [Getto Jam](https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx) | [Domino](https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1) | [Domino](https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR) | 4:19 |
 | 73 | [I Know You Got Soul](https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 4:44 |
 | 74 | [25 Lighters](https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG) | [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [Fat Pat](https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh), [DJ DMD](https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL) | [From Coast To Coast](https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx) | 4:47 |
 | 75 | [Trap Or Die](https://open.spotify.com/track/4JHpFKUFC7uVzaXBBhjQeD) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:00 |

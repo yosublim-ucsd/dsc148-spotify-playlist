@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-572 songs - 1 day 0 hr 21 min
+573 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Life Goes On](https://open.spotify.com/track/2Ndf7eHaRMAdd2d84phJLS) | [Jacob Trautner](https://open.spotify.com/artist/3Ebs2p58ggIPTmK0tCthW9) | [Life Goes On](https://open.spotify.com/album/7JW1NaSKBP7t1o0DroYfoX) | 2:49 | 2022-06-07 |  |
 | [Ligare Arcum](https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Ligare Arcum](https://open.spotify.com/album/5QuBJQRifMGPN3rf2OU7gj) | 3:04 | 2022-06-07 | 2022-09-24 |
 | [Lik Eit Tre \- Ps.1](https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Lik Eit Tre \(Ps.1\)](https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE) | 2:34 | 2023-09-05 |  |
+| [Lilie](https://open.spotify.com/track/1xmewsAY1ziBPsWcUV2uCL) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Lilie](https://open.spotify.com/album/4Zc5Fqe2njYIyd4pghA7Is) | 2:41 | 2023-09-18 |  |
 | [Lily Dale](https://open.spotify.com/track/09KXk7YdZT8b2ibsnjnFbC) | [Leroy Rossetti](https://open.spotify.com/artist/2Mg0NVHUCDibNRrdZmlagN) | [Lily Dale](https://open.spotify.com/album/3mJIHjvCHHhYBhmjlJFcxU) | 1:39 | 2022-06-07 | 2022-09-24 |
 | [Lira](https://open.spotify.com/track/6qXXV5IzR4C1qUkkZFeTJ6) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Elegía de la Juventud](https://open.spotify.com/album/1pcymuDxT29Yg9a9Uy1IMT) | 3:07 | 2022-09-14 | 2023-08-16 |
 | [Little Home](https://open.spotify.com/track/0Zi9n2e0CCh9PipP8FI4Hn) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Different Kinds of Silence](https://open.spotify.com/album/6uWIBPRBygQToejf8rWu0a) | 2:51 | 2023-02-06 |  |
@@ -550,7 +551,7 @@
 | [Waiting](https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Waiting](https://open.spotify.com/album/5z2LHBhaATswQNRQWioTXJ) | 2:44 | 2022-06-07 |  |
 | [Walking home](https://open.spotify.com/track/73tOHXLo3XDQgdGo9leE5J) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Walking home](https://open.spotify.com/album/005YMfiHDbwZi6p1hvPhLI) | 2:52 | 2022-06-07 | 2022-09-24 |
 | [Waltz For Nala](https://open.spotify.com/track/3NJ3rJfgSHeRqM9Fz12lLJ) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Waltz For Nala](https://open.spotify.com/album/0MMm9VMrSYTvSFyyrwD9yQ) | 2:17 | 2022-06-07 |  |
-| [Watch You Bloom](https://open.spotify.com/track/2IYeOycaLzFrJsNcQwzp3u) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Watch You Bloom](https://open.spotify.com/album/4kc486Ylcc44GiOkDto5QR) | 2:01 | 2022-06-07 |  |
+| [Watch You Bloom](https://open.spotify.com/track/2IYeOycaLzFrJsNcQwzp3u) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Watch You Bloom](https://open.spotify.com/album/4kc486Ylcc44GiOkDto5QR) | 2:01 | 2022-06-07 | 2023-09-27 |
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2022-06-07 | 2022-11-24 |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2022-06-07 |  |
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2022-06-07 |  |

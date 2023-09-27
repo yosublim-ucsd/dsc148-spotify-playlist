@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-91 songs - 8 hr 9 min
+92 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Praise Medley \(Live\)](https://open.spotify.com/track/4YwXRiyHF5sXxFhrjKqXSb) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW), [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [Better Me](https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So) | 9:09 | 2023-04-06 | 2023-05-28 |
 | [Praise Medley \- Live](https://open.spotify.com/track/5ODjEJsgZwotrwDEy7Vs0A) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Praise Medley \(Live\)](https://open.spotify.com/album/3MDKKx8tPJwDXHnGZzVtqt) | 6:25 | 2023-04-06 | 2023-04-15 |
 | [PRAISE YOUR NAME](https://open.spotify.com/track/5YxkWVkxssPVMIgXQp8ahd) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [PRAISE YOUR NAME](https://open.spotify.com/album/7iUgmGiBgXkpECjHYgQ7AL) | 3:17 | 2023-06-30 | 2023-07-18 |
-| [Provider](https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Provider](https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285) | 3:32 | 2023-07-21 |  |
+| [Praises](https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Praises](https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0) | 4:04 | 2023-09-22 |  |
+| [Provider](https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Provider](https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285) | 3:32 | 2023-07-21 | 2023-09-27 |
 | [Regular \(feat\. Fiokee\)](https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 3:57 | 2023-04-06 | 2023-09-16 |
 | [Right Here \(It Must Be\)](https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Right Here \(It Must Be\)](https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM) | 3:09 | 2023-09-08 |  |
 | [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 | 2023-05-26 |  |

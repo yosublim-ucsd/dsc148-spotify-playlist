@@ -4,12 +4,13 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-186 songs - 8 hr 22 min
+189 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11Pm\. Brilla](https://open.spotify.com/track/04040bSQ8gNzSmxuY8fU11) | [Milana Zilnik](https://open.spotify.com/artist/3xkWDJty3mvBD37vL278WG) | [11Pm\. Brilla \(Dreaming of Chopin\)](https://open.spotify.com/album/4WA7u4WEccPGhEIpg34KGq) | 4:10 | 2022-08-03 |  |
 | [A Faint Qualm for the Future](https://open.spotify.com/track/6Rp5W8wwFK4pKpmT06yNsq) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [All of Us](https://open.spotify.com/album/2xsfxKRrbaKRc4LNbpgcZK) | 2:41 | 2022-08-03 |  |
+| [Adagio](https://open.spotify.com/track/0WlUpjW0LMvVPQs0rOqz5d) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Adagio](https://open.spotify.com/album/1LRAhzP8t4glbwQWgljKpY) | 2:34 | 2023-09-26 |  |
 | [Adagio Cantabile](https://open.spotify.com/track/0XXUvKMV5pFX1bycy9PUX6) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Adagio Cantabile](https://open.spotify.com/album/35BgRashHcSF0sfy8HmodF) | 3:14 | 2022-12-06 |  |
 | [Adam Leaves \- Second Half / Piano Version](https://open.spotify.com/track/0mw9N3Jc5D2EKvgDSMBjJN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Kindt](https://open.spotify.com/artist/3UDsNhT6aApMOxQUrc95Bl) | [Piano Book](https://open.spotify.com/album/099nJibPYLG6UNgZtGFC6h) | 3:04 | 2022-09-12 |  |
 | [Although](https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Although](https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw) | 3:00 | 2022-08-03 |  |
@@ -102,6 +103,7 @@
 | [Lettre d'amour](https://open.spotify.com/track/63gpRCRO94FNh1GkVCh8pP) | [William Heller](https://open.spotify.com/artist/0bblIjmXpe2k574egtCQnr) | [Lettre d'amour](https://open.spotify.com/album/1dY8aAZt5GlEcZeuPf9hSg) | 2:17 | 2022-12-06 |  |
 | [Lid](https://open.spotify.com/track/1ELEE2AKrasjJzMbVUBDYA) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Je rêve encore](https://open.spotify.com/album/3Di0daN2ES812dKEFgYu0A) | 1:57 | 2022-08-03 |  |
 | [Luminous](https://open.spotify.com/track/5RWA30VaTsYkFrkzxKL3aK) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Luminous](https://open.spotify.com/album/1qGM1wYNdT4fG81hXrdz6s) | 4:43 | 2022-08-03 |  |
+| [Luminous](https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Luminous](https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE) | 2:05 | 2023-09-26 |  |
 | [Lumière du Matin](https://open.spotify.com/track/0QVowuvdlITX199RTJnxeR) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Lumière du Matin](https://open.spotify.com/album/4QKzhpZ1YAhVtWoZwrofTY) | 3:23 | 2022-08-26 |  |
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2022-08-03 | 2022-12-07 |
 | [March 17 \(went for a walk\)](https://open.spotify.com/track/6P6qsAmo6bUJQGdBQyNuMa) | [Ava Cohen](https://open.spotify.com/artist/0uCO8KkZMwQTXzi53QARiC) | [March 17 \(went for a walk\)](https://open.spotify.com/album/0cmy8NwKx5s7wuRRsmwRtz) | 3:05 | 2022-08-03 |  |
@@ -185,6 +187,7 @@
 | [Trzymaj Mnie](https://open.spotify.com/track/75aSMYjVgAcknIrIJ9JEvA) | [Zygmunt Czarnecki](https://open.spotify.com/artist/1uKeHKFusnucKrl8BLDoXM) | [Trzymaj Mnie](https://open.spotify.com/album/6jDUMlLOOr5BU6O42NV8Ip) | 2:06 | 2022-08-03 |  |
 | [Tuesday](https://open.spotify.com/track/3TXgtWFkb8MlIqtzBtyI5D) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Hertz](https://open.spotify.com/album/7jmsYzJVkPjYDhsesqBqHD) | 3:11 | 2022-08-03 |  |
 | [Un esprit vide](https://open.spotify.com/track/70hhkbMZsG1d0sEwMPzMfk) | [Chordialilies](https://open.spotify.com/artist/52Zsdd1lO36Y5DdJ19YVwp) | [Un esprit vide](https://open.spotify.com/album/28xxY2jYebRL2x24Qa3jTE) | 3:03 | 2022-12-06 |  |
+| [Under a tree](https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Under a tree](https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn) | 2:18 | 2023-09-26 |  |
 | [vierde moment](https://open.spotify.com/track/1IqWZERE8ZOVtgE3fmekFv) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0wVbGonjdCw4QHcJ4HnRRM) | 3:21 | 2022-08-03 |  |
 | [Visible Nostalgia](https://open.spotify.com/track/2ZzDOEVfUt3dQ0REaMWEjL) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Visible Nostalgia](https://open.spotify.com/album/24iCgh0neVrQeYstMk56ie) | 2:40 | 2022-08-03 |  |
 | [We Together](https://open.spotify.com/track/45hG7DYmo87yN0hQ1MeJ0C) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [We Together](https://open.spotify.com/album/6ruK7Ax6fmYBopQ22j59RU) | 2:02 | 2022-09-12 |  |

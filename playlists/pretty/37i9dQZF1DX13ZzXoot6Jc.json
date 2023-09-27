@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Tyler Joe Miller",
-  "num_followers": 451591,
+  "num_followers": 451658,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "You Proof",
         "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 157477,
       "name": "You Proof",
       "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Hey World",
         "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 167680,
       "name": "Soul",
       "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Memory I Don't Mess With",
-        "url": "https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 180616,
-      "name": "Memory I Don't Mess With",
-      "url": "https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "What is life?",
         "url": "https://open.spotify.com/album/7ykz0afInygEfdlOVuDy70"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 236307,
       "name": "Dear Alcohol",
       "url": "https://open.spotify.com/track/7Bg1pphdvxWtvYqGGdqSOk"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Memory I Don't Mess With",
+        "url": "https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 180616,
+      "name": "Memory I Don't Mess With",
+      "url": "https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "If You Were Mine",
-        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 219882,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/49DERKtzOTKNT7T0O4l6m4"
       },
@@ -1595,6 +1575,26 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 219882,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
         "name": "Keith",
         "url": "https://open.spotify.com/album/7dWCUs7VGjsopOEB6VoQYv"
       },
@@ -1607,6 +1607,42 @@
       "duration_ms": 171537,
       "name": "Keith",
       "url": "https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Shakin' In Them Boots",
+        "url": "https://open.spotify.com/album/12JRLrNicKNlQDu5zNKaF3"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "duration_ms": 169095,
+      "name": "Shakin' In Them Boots",
+      "url": "https://open.spotify.com/track/7zwi0kPSFtdNUNIXZlKfNF"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "Rolex\u00ae On A Redneck",
+        "url": "https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "Rolex\u00ae On A Redneck",
+      "url": "https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1639,42 +1675,6 @@
       "duration_ms": 243453,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Rolex\u00ae On A Redneck",
-        "url": "https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Rolex\u00ae On A Redneck",
-      "url": "https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Shakin' In Them Boots",
-        "url": "https://open.spotify.com/album/12JRLrNicKNlQDu5zNKaF3"
-      },
-      "artists": [
-        {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        }
-      ],
-      "duration_ms": 169095,
-      "name": "Shakin' In Them Boots",
-      "url": "https://open.spotify.com/track/7zwi0kPSFtdNUNIXZlKfNF"
     },
     {
       "added_at": "2023-09-22 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXap0h4PBqZpr.md) - [plain]
 
 > Fina selección musical por el legendario ídolo del Rock Latinoamericano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,740 likes - 29 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,754 likes - 29 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

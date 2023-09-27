@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪『リトル・マーメイド』『ミラベルと魔法だらけの家』『モアナと伝説の海』『アナと雪の女王』『塔の上のラプンツェル』のおなじみの曲から隠れた名曲までセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,390 likes - 149 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,415 likes - 149 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,780 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,831 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 31 | [Chacarera del Olvido](https://open.spotify.com/track/1TsrW24N0hgAlOWNCTjIlL) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP) | 2:08 |
 | 32 | [Duerme, Negrito](https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 2:25 |
 | 33 | [La Villerita](https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Idolo De Multitudes](https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN) | 4:10 |
-| 34 | [Zamba de Abril](https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Chango](https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV) | 3:51 |
+| 34 | [Oración del remanso](https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd) | [Jorge Fandermole](https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet) | [Navega](https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx) | 5:06 |
 | 35 | [Yo Vendo Unos Ojos Negros](https://open.spotify.com/track/4dQUKpts49oFxLV1rxS2NZ) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Serie Platino](https://open.spotify.com/album/6dOjBEMjKsBu498Zxs2a5f) | 3:45 |
-| 36 | [Oración del remanso](https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd) | [Jorge Fandermole](https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet) | [Navega](https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx) | 5:06 |
+| 36 | [Zamba de Abril](https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Chango](https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV) | 3:51 |
 | 37 | [Bajo la Sombra de un Árbol](https://open.spotify.com/track/3qJoxHKIggEiseJWAALdbU) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Ckayna Cunan, Vol\. 2](https://open.spotify.com/album/6zLsN6jhCmxqx81xEUD6MU) | 3:38 |
 | 38 | [Todo Está en Vos](https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [La Llave](https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6) | 3:50 |
 | 39 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |

@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-298 songs - 16 hr 10 min
+299 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 | 2023-05-12 |  |
 | [Tititi](https://open.spotify.com/track/1vGLrMcU3xPaaBQ204fAHX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:36 | 2023-06-08 | 2023-06-11 |
 | [Vamos](https://open.spotify.com/track/3fl12SlkOX4m29KzCu6RVx) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 2:49 | 2021-12-25 | 2022-05-20 |
+| [VISA](https://open.spotify.com/track/4oajGi0Wd33IL0LzjiU6Si) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc) | [VISA](https://open.spotify.com/album/3wxWPfLUzoFHLOTaMadDly) | 2:04 | 2023-09-26 |  |
 | [Wahdani](https://open.spotify.com/track/6LAvUVtKN9Qlbf0IKjXG6t) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Wahdani](https://open.spotify.com/album/3oe14m2WWfLW5tS4wNXxsL) | 3:45 | 2023-03-11 | 2023-03-23 |
 | [WAHYA](https://open.spotify.com/track/1pJD9zWCzBBVZsGlv9UGo8) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [WAHYA](https://open.spotify.com/album/5SmEFZhrh7PTkDhNhM6zTP) | 2:22 | 2022-02-26 | 2022-03-18 |
 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 | 2023-06-08 |  |

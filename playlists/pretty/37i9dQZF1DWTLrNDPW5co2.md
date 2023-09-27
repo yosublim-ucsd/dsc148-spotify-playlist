@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,318 likes - 65 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,342 likes - 65 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

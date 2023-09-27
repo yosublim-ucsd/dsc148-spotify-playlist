@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,529 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,559 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 37 | [Crep Shop](https://open.spotify.com/track/0it3s0ugg3G4ZlzeH1qbOi) | [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [SJ](https://open.spotify.com/artist/4CxaWKLsnDdSkSaOtL3zC0), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Savage](https://open.spotify.com/album/2Q2m0wCeOf3m5BoCllmlLH) | 3:20 |
 | 38 | [Spin This Coupe](https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Spin This Coupe](https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC) | 2:41 |
 | 39 | [Warm \- Original](https://open.spotify.com/track/0h67w8nvVRIq5jOm4YO2Da) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Warm](https://open.spotify.com/album/6WBjQpN3WFzSQm0HBiOsiw) | 2:32 |
-| 40 | [Bad One](https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Bad One](https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR) | 2:14 |
+| 40 | [Lagga](https://open.spotify.com/track/5GrnYtEXFHN51MvfBZz9ji) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Lagga](https://open.spotify.com/album/07ZZfkj294wdteUsHxwwog) | 3:26 |
 | 41 | [Talk To Me Nice](https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Talk To Me Nice](https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z) | 2:28 |
-| 42 | [Lagga](https://open.spotify.com/track/5GrnYtEXFHN51MvfBZz9ji) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Lagga](https://open.spotify.com/album/07ZZfkj294wdteUsHxwwog) | 3:26 |
+| 42 | [Bad One](https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Bad One](https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR) | 2:14 |
 | 43 | [Wasteman](https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:31 |
 | 44 | [Know Better \(feat\. Rv\)](https://open.spotify.com/track/0IX9PL2dUVCHp6L4JQ9Rzq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [The One](https://open.spotify.com/album/1y37t6X1wmEVbCke5Luugd) | 3:30 |
 | 45 | [WW2](https://open.spotify.com/track/51ryhYwXfP7vv3A9RORmQ9) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [WW2](https://open.spotify.com/album/3dvyDylacbSogoCzyIJn52) | 3:21 |

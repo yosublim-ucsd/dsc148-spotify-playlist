@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: NOISEMAKER",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: SiM",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 162880,
       "name": "All We Need Is Summer Day",
       "url": "https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 196199,
       "name": "DO THE DANCE",
       "url": "https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F"
@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Inside Of Me",
+        "url": "https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193824,
+      "name": "Inside of Me",
+      "url": "https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD"
+    },
+    {
+      "album": {
         "name": "Blooming Harvest",
         "url": "https://open.spotify.com/album/38OJkyqzjzBFpguQksifKn"
       },
@@ -900,7 +918,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 232359,
       "name": "KiSS OF DEATH",
       "url": "https://open.spotify.com/track/3vv2Mr8J2jGPjFOPiaTwic"
@@ -1513,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120985,
+      "name": "PLAYDEAD",
+      "url": "https://open.spotify.com/track/6xI23gJ23oTq2EAwjE3gjb"
+    },
+    {
+      "album": {
         "name": "GOLD IMPRINTS",
         "url": "https://open.spotify.com/album/0eDi7dISTenhez8VO3Ndqp"
       },
@@ -1524,7 +1560,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 214905,
       "name": "Pushing My Back",
       "url": "https://open.spotify.com/track/0s7J452ViFJuFjbQW4wOpB"
@@ -1578,7 +1614,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 234159,
       "name": "RED",
       "url": "https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG"
@@ -1694,7 +1730,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 203545,
       "name": "Sad Song",
       "url": "https://open.spotify.com/track/4hOC8bCq6Zz90K5kXEQvyv"
@@ -1885,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210945,
+      "name": "SWEET DREAMS",
+      "url": "https://open.spotify.com/track/65at5xnnXAoWMeF7i0xKaZ"
+    },
+    {
+      "album": {
         "name": "CAVU",
         "url": "https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8"
       },
@@ -2026,7 +2080,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 251766,
       "name": "Touchdown the Killer",
       "url": "https://open.spotify.com/track/0pxS0pJKLrPSVo9ZgcdWMU"
@@ -2102,10 +2156,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 121692,
       "name": "Under the Tree",
       "url": "https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271265,
+      "name": "UNDER THE TREE - Full Length Ver.",
+      "url": "https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq"
     },
     {
       "album": {
@@ -2304,7 +2376,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 251426,
       "name": "\u30aa\u30eb\u30b4\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6kB4btTmWACdBpdA73J1jE"
@@ -2380,7 +2452,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 192506,
       "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc \u30b7\u30fc\u30b5\u30a4\u30c9",
       "url": "https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7"

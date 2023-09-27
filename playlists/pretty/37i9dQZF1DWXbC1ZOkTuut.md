@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Juanchito
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,751 likes - 129 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,792 likes - 129 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

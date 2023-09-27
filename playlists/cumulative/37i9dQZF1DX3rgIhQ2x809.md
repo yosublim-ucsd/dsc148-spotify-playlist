@@ -4,7 +4,7 @@
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-115 songs - 6 hr 14 min
+116 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [La Bebecita](https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc) | [Las Criaturas: El Regreso](https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank) | 3:51 | 2023-06-09 | 2023-09-13 |
 | [La Esquina](https://open.spotify.com/track/1FTFsE4Uv7SfmtxW5A3l5b) | [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [La Esquina](https://open.spotify.com/album/59bdhdLx7R1cThpbZNtyeB) | 4:05 | 2023-06-09 |  |
 | [La Familia](https://open.spotify.com/track/52ANZNLGCbf8IKin6sQYIk) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj) | [La Familia](https://open.spotify.com/album/3A35XT91xoDYsujfeGQFou) | 3:17 | 2023-06-09 |  |
-| [Labios](https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP) | [Joonti](https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj) | [Labios](https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82) | 2:46 | 2023-06-09 |  |
+| [Labios](https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP) | [Joonti](https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj) | [Labios](https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82) | 2:46 | 2023-06-09 | 2023-09-27 |
 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 | 2023-06-09 |  |
 | [Los Angeles](https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 2:43 | 2023-06-09 |  |
 | [MAMACITA](https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n) | [Natalia Paris](https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [MAMACITA](https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP) | 4:17 | 2023-06-09 |  |
@@ -108,6 +108,7 @@
 | [Tiempos de Plan B](https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [Tiempos de Plan B](https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb) | 2:41 | 2023-06-09 |  |
 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 | 2023-06-09 |  |
 | [Top 10](https://open.spotify.com/track/1bXvpIjqxo5WHZWz6nfjtn) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:15 | 2023-06-09 |  |
+| [Toronto](https://open.spotify.com/track/2HoDXiTgzmcNiY1Pich8cP) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Persy](https://open.spotify.com/artist/16UPUknt50G7mlDv6ciCna) | [Toronto](https://open.spotify.com/album/1QOr09jMkuAzns6EAxUkr0) | 3:52 | 2023-06-09 |  |
 | [Traficando](https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Traficando](https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ) | 4:27 | 2023-06-09 |  |
 | [Traficando \- Remix](https://open.spotify.com/track/19ylQ2HM0J0zJ0NN5h4moa) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Traficando \(Remix\)](https://open.spotify.com/album/0ZGRJJ7WqmOK0NRt8VFUZs) | 4:27 | 2023-06-09 | 2023-07-09 |
 | [TRAPPHONE](https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [TRAPPHONE](https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk) | 1:47 | 2023-06-09 |  |

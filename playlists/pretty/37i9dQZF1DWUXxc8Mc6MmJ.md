@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,530 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,868 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 38 | [I Love You Boy](https://open.spotify.com/track/155N0vbPqPFs9DzBNR41T7) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [While You Were Sleeping, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TDJPOVQSFFMyeQNzToolM) | 4:24 |
 | 39 | [But it's Destiny](https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI) | 3:51 |
 | 40 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 |
-| 41 | [My Destiny](https://open.spotify.com/track/0hKA3q6BWtKg5mdet7E1fX) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [My Love From the Star \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6wDjjeUNPHYZAVmkYLcrG6) | 3:51 |
-| 42 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
+| 41 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
+| 42 | [My Destiny](https://open.spotify.com/track/0hKA3q6BWtKg5mdet7E1fX) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [My Love From the Star \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6wDjjeUNPHYZAVmkYLcrG6) | 3:51 |
 | 43 | [Love Sight](https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Doom at Your Service \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2YM7tiN0dqi4gJXj7YMB7I) | 4:12 |
 | 44 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
 | 45 | [그때 그 아인](https://open.spotify.com/track/7mCdQsRW5gLLxVGDPPGt5j) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3KK05sDCPzEVOMGPr5MHKf) | 4:47 |

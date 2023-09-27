@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Let's Go 4 e os funks mais 🔑 do Brasil\. Foto: Mc IG, MC PH, MC Ryan SP, Mc Luki, Mc Davi, Mc Don Juan, Mc Kadu, MC GH do 7, MC GP, TrapLaudo, Dj GBR
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,985,141 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,987,254 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

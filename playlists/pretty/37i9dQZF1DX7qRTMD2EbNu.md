@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX?si=qccMT5kwQpODWW0mhEuLZg"> M.anifest </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,128 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,165 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

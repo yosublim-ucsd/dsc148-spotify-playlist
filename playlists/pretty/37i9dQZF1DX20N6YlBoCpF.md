@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH?si=V0TN3xLjS4mdOg0hJUOHCQ">Juan Boucher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,484 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,504 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

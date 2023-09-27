@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- Sammohit and MC Altaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,235 likes - 53 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,230 likes - 53 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

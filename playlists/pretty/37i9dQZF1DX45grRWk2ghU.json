@@ -1,6 +1,6 @@
 {
   "description": "Life in plastic is fantastic ",
-  "num_followers": 268958,
+  "num_followers": 269846,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Oops!... I Did It Again",
         "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 211160,
       "name": "Oops!...I Did It Again",
       "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "DEMIDEVIL",
+        "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 146523,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 187670,
       "name": "PROVENZA - REMIX",
       "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "DEMIDEVIL",
-        "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 146523,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "There It Goes",
+      "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 157706,
       "name": "Sour Candy (with BLACKPINK)",
       "url": "https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "There It Goes",
-      "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Rebel Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
         }
       ],
-      "duration_ms": 227480,
-      "name": "Bitch I'm Madonna",
-      "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
     }
   ],
   "unique_name": "Hot Pink",

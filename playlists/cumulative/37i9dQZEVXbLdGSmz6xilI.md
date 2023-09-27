@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-852 songs - 2 day 1 hr 41 min
+853 songs - 2 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Buồn Thì Cứ Khóc Đi](https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx) | [Lynk Lee](https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU) | [Buồn Thì Cứ Khóc Đi](https://open.spotify.com/album/6mgn507pXtwFXRcEGcg4bA) | 3:42 | 2021-03-27\* | 2023-04-23 |
 | [Bài Này Chill Phết](https://open.spotify.com/track/2AiZm17zqkV7llT3SHz4Nu) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Bài Này Chill Phết](https://open.spotify.com/album/5V9sf4PHbbTbrAG11xUzRQ) | 4:36 | 2021-03-27\* | 2021-05-29 |
 | [Bên Trên Tầng Lầu](https://open.spotify.com/track/0Cy7uOfTjJrmHkNEPBBZxf) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ) | [Bên Trên Tầng Lầu](https://open.spotify.com/album/3YTsTxFi7qKmDx2TqlpYKG) | 3:04 | 2022-07-08 | 2023-03-05 |
-| [Bóng Phù Hoa](https://open.spotify.com/track/3fw9v7CztM2mqu1jCtbg9f) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 4:34 | 2023-09-22 | 2023-09-25 |
+| [Bóng Phù Hoa](https://open.spotify.com/track/3fw9v7CztM2mqu1jCtbg9f) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 4:34 | 2023-09-22 |  |
 | [Bước Qua Mùa Cô Đơn](https://open.spotify.com/track/6uxuJ8Fr1AAfSPJUF9N1yr) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:38 | 2022-09-10 | 2022-12-22 |
 | [Bước Qua Mùa Cô Đơn](https://open.spotify.com/track/7wkX67ruxr3x2GFz6vyIX9) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Mùa Cô Đơn](https://open.spotify.com/album/5eZM5D8F9yNZvsE4uC2l1s) | 4:38 | 2021-03-27\* | 2022-09-11 |
 | [Bước Qua Nhau](https://open.spotify.com/track/38rjRVqEHSlDRrDWDvjkqW) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:17 | 2022-09-10 | 2023-02-01 |
@@ -149,7 +149,8 @@
 | [Chân Mây](https://open.spotify.com/track/0ITwGfl4Tf7UOTbLCGVbm0) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq), [Phương Thanh](https://open.spotify.com/artist/6fvwPdTHctaY65nhFeodrs) | [Chân Mây](https://open.spotify.com/album/132e0pv2T4h5aiC5qHgUGJ) | 4:23 | 2022-03-07 | 2022-05-25 |
 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 | 2022-02-25 | 2023-03-05 |
 | [Chìm Sâu](https://open.spotify.com/track/7jLSThU5Kg1RWt19Leiaxm) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:36 | 2023-03-04 |  |
-| [Chúng Ta Của Hiện Tại](https://open.spotify.com/track/17iGUekw5nFt5mIRJcUm3R) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Chúng Ta Của Hiện Tại](https://open.spotify.com/album/6oT0WOEPWOxsa2Vmnkxwxa) | 5:01 | 2021-03-27\* |  |
+| [Chúng Ta Của Hiện Tại](https://open.spotify.com/track/17iGUekw5nFt5mIRJcUm3R) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Chúng Ta Của Hiện Tại](https://open.spotify.com/album/6oT0WOEPWOxsa2Vmnkxwxa) | 5:01 | 2021-03-27\* | 2023-09-27 |
+| [Chúng Ta Của Hiện Tại](https://open.spotify.com/track/1J3SmWwlYAG68LGKr86MVH) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Chúng Ta Của Hiện Tại](https://open.spotify.com/album/1V77kA4O1MlAUwfyBONfp1) | 5:01 | 2023-09-26 |  |
 | [Chúng Ta Sau Này](https://open.spotify.com/track/4Wdwvi2C5MD8zDi9Kg3x4X) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Chúng Ta Sau Này](https://open.spotify.com/album/7xWIiLIMicso31AA6umVjI) | 3:31 | 2021-03-27\* | 2021-07-11 |
 | [Chơi Như Tụi Mỹ](https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [Chơi Như Tụi Mỹ](https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A) | 2:40 | 2023-06-08 |  |
 | [Chơi Vơi](https://open.spotify.com/track/5BL9QQTJNIuME3RE9Tgv3W) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq), [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Chơi Vơi](https://open.spotify.com/album/3KgYdMSQ3nmsub26Tw28s9) | 4:38 | 2022-04-21 | 2022-05-25 |
@@ -758,7 +759,7 @@
 | [tình yêu có nghĩa là gì?](https://open.spotify.com/track/6Lzlbce8Eg1dPg91VSx6kk) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [tình yêu có nghĩa là gì?](https://open.spotify.com/album/0ptE7cwks2pwpcsP8ioEUL) | 2:13 | 2023-08-13 | 2023-08-19 |
 | [tình yêu có nghĩa là gì?](https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:13 | 2023-08-18 |  |
 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/4JPJhbWVL1yWTU8DpYP2Vc) | [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [nân](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/0gmt66kHSJzBQI4qpQmkci) | 3:35 | 2021-03-27\* | 2021-04-10 |
-| [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/2WOpp4vm16unl0N3i3BNNv) | [NÂN](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB), [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/4HEIdDrqHTU5Bocyc47BqI) | 3:35 | 2021-04-10 |  |
+| [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/2WOpp4vm16unl0N3i3BNNv) | [NÂN](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB), [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/4HEIdDrqHTU5Bocyc47BqI) | 3:35 | 2021-04-10 | 2023-09-27 |
 | [Tại Vì Sao](https://open.spotify.com/track/3440g8awr2l0E5Yy2X5Epk) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:22 | 2023-03-04 |  |
 | [Tại Vì Sao](https://open.spotify.com/track/5yrPkBvOBvqfSjDhoRzDlO) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Tại Vì Sao](https://open.spotify.com/album/5DZXXrAKNwD0c0Avrs5W9j) | 3:23 | 2022-09-24 | 2023-03-05 |
 | [Tết Này Con Sẽ Về](https://open.spotify.com/track/5RTTbvS4VIZDou6ueFGHyg) | [Bùi Công Nam](https://open.spotify.com/artist/6oqtpFuvCTISMPeGv6P2sj) | [Tết Này Con Sẽ Về](https://open.spotify.com/album/2CO2COjyYkxXBOnXUF7uN9) | 3:16 | 2023-01-20 | 2023-01-25 |

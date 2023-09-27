@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n\n",
-  "num_followers": 195873,
+  "num_followers": 195988,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Vida De Perros",
-        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+        "name": "Revoluci\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
       },
       "artists": [
         {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 217840,
-      "name": "Ven Aqu\u00ed",
-      "url": "https://open.spotify.com/track/13eBG1b8pd7PxlEAAChfHO"
+      "duration_ms": 264599,
+      "name": "Mariposa Traicionera",
+      "url": "https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Revoluci\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 264599,
-      "name": "Mariposa Traicionera",
-      "url": "https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB"
+      "duration_ms": 217840,
+      "name": "Ven Aqu\u00ed",
+      "url": "https://open.spotify.com/track/13eBG1b8pd7PxlEAAChfHO"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Barrio Estaci\u00f3n",
         "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 286106,
       "name": "Nada Nuevo Bajo El Sol",
       "url": "https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z"
     },
     {
       "added_at": "2022-07-06 19:51:55",

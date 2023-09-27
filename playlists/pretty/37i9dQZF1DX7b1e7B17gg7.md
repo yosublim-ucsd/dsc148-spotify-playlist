@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7b1e7B17gg7.md) - [plain]
 
 > Soft instrumental Blues for any activity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,529 likes - 72 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,566 likes - 72 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

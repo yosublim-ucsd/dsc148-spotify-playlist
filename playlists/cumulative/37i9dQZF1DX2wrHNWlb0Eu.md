@@ -4,7 +4,7 @@
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-129 songs - 8 hr 3 min
+130 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV) | 3:18 | 2023-02-10 |  |
 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 | 2023-02-10 |  |
 | [ตั้งใจรัก \(happy accident\)](https://open.spotify.com/track/6LXKd4e0i2EPLh86GWvWOE) | [พัด Vorapat](https://open.spotify.com/artist/3lSyHNBfu514f8ugz5szx8), [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ตั้งใจรัก \(happy accident\)](https://open.spotify.com/album/3mIXXY1EvLeO0fwyockLb3) | 2:35 | 2023-02-10 |  |
+| [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/track/2qKJrcfRkh7ZgvyhsrPkZL) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [TWO OF A KIND](https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv) | 4:14 | 2023-06-09 |  |
 | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/track/315ar0QJiyciYkdVJUGA3w) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/album/3UccLHjXRBzaPUdVuQkCw8) | 4:14 | 2023-02-10 | 2023-04-30 |
 | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/track/5hbuqvZW59OiDHRfRyRyVP) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/album/5xgyLJ6aEFRC1ccdquTEq0) | 4:14 | 2023-02-21 | 2023-09-19 |
 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 | 2023-02-10 |  |
@@ -75,7 +76,7 @@
 | [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/track/0jfh6PNB5GBg094Ilg84yG) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/album/01eKsPypv6vDuDznnhMWfe) | 3:50 | 2023-02-10 | 2023-04-30 |
 | [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\)](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 | 2023-02-10 |  |
 | [ฝนตกไหม](https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ฝนตกไหม](https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj) | 4:21 | 2023-02-10 |  |
-| [ฝันหวานอายจูบ](https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [SKY](https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM) | 3:24 | 2023-02-10 |  |
+| [ฝันหวานอายจูบ](https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [SKY](https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM) | 3:24 | 2023-02-10 | 2023-09-27 |
 | [พะจัน](https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [พะจัน](https://open.spotify.com/album/634ttKDuMq3fzM2WzeEuc4) | 3:03 | 2023-02-10 | 2023-05-09 |
 | [พิง \- เพลงประกอบละคร กระเช้าสีดา](https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [เพลงประกอบละคร กระเช้าสีดา](https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV) | 4:02 | 2023-02-10 |  |
 | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/7J2AM0bPIKlaBotMTzl5zx) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [Are You Serious?](https://open.spotify.com/album/7G2HL8Yihb7XPEXrm3TzDR) | 3:39 | 2023-02-10 |  |

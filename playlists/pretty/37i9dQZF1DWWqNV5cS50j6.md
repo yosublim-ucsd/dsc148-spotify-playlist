@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: underscores
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,938 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,922 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 8 | [Putting On Airs](https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Nothing Sacred](https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO) | 2:30 |
 | 9 | [Weird & Bizarre](https://open.spotify.com/track/46OGrRCC0Y7ZyF0qvXsPNt) | [Posh Chocolates](https://open.spotify.com/artist/3xTWaGPtvulmX73dfT71J1) | [Weird & Bizarre](https://open.spotify.com/album/4fLINYR36a8frZuUoefi6j) | 3:15 |
 | 10 | [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 |
-| 11 | [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 |
+| 11 | [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [Midwxst](https://open.spotify.com/artist/3LqnZmfaZKVQPm8Ruj37wb) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 |
 | 12 | [Impossible](https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:46 |
 | 13 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 |
 | 14 | [X\-RAY](https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["DESTRUCTION FOR DUMMIES", PT\. 2 JEAN DAWSON AS "NIGHTMARE"](https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO) | 3:09 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 29 | [just sayin \(づ￣ ³￣\)づ](https://open.spotify.com/track/4DbvcF5jOZTMOKeczBPPSg) | [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [nu genesis](https://open.spotify.com/album/0nRwPTtogG3muGAFSw6J2r) | 2:11 |
 | 30 | [have a good time](https://open.spotify.com/track/0YnfIvaUWgwBMvJqEIxPyJ) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [have a good time](https://open.spotify.com/album/17pjEE2XXRHEl6MKuE7p4N) | 2:06 |
 | 31 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 |
-| 32 | [Leave With Me](https://open.spotify.com/track/1qAY1Qa18jN50Pnn4CpVst) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Leave With Me](https://open.spotify.com/album/4xmzAJ3edr4asi2TSxS1od) | 3:16 |
+| 32 | [Leave With Me](https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:16 |
 | 33 | [JUMP OUT](https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [JUMP OUT](https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj) | 2:09 |
 | 34 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 |
 | 35 | [LIKE YOU DID](https://open.spotify.com/track/65aBlWf4Cbo1qPhMkKqCBB) | [Blake Bigfoot](https://open.spotify.com/artist/4xNYSm7a0klcu9zi14z8lI) | [LIKE YOU DID](https://open.spotify.com/album/76R8MCGRr2LzilURiZhxIj) | 2:09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: TOMORROW X TOGETHER + Anitta",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: IVE",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -4484,7 +4484,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 208093,
       "name": "Fizzled",
       "url": "https://open.spotify.com/track/70bB2mVy2OOOy2AhI9NyNK"
@@ -8554,7 +8554,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 239320,
       "name": "Only for a Moment",
       "url": "https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs"
@@ -9121,6 +9121,24 @@
     },
     {
       "album": {
+        "name": "NEW DNA",
+        "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "PUPPET SHOW",
+      "url": "https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp"
+    },
+    {
+      "album": {
         "name": "Que Sera Sera",
         "url": "https://open.spotify.com/album/6uavSIfdJQuxSRkoqwq5IF"
       },
@@ -9498,6 +9516,24 @@
       "duration_ms": 190950,
       "name": "RIDING (feat. \ubc15\ud604\uc9c4)",
       "url": "https://open.spotify.com/track/3gXYeDKkxDJYXviGNBMzLy"
+    },
+    {
+      "album": {
+        "name": "RINGO",
+        "url": "https://open.spotify.com/album/3aT91hpILeuYJe37TnaGxz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "RINGO",
+      "url": "https://open.spotify.com/track/2qWIeuIxVJglnWWsDpyhfU"
     },
     {
       "album": {
@@ -10756,7 +10792,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 192042,
       "name": "Space",
       "url": "https://open.spotify.com/track/5IAuN3Q4eXxMW9uDf5Nxtk"
@@ -11560,7 +11596,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 168586,
       "name": "TAXI",
       "url": "https://open.spotify.com/track/0LMqywHzZAAwSPWCfyfz9t"
@@ -13920,7 +13956,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 332026,
       "name": "\u6728\u862d\u306e\u6d99",
       "url": "https://open.spotify.com/track/7iBecj6numquqBjVCaqjAC"

@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating 30 years of Martina McBrides's timeless album \"The Way That I Am\" on 90s Country! ",
-  "num_followers": 1699431,
+  "num_followers": 1699801,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
-      },
-      "artists": [
-        {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "I Love the Way You Love Me",
-      "url": "https://open.spotify.com/track/6MnDkyb3VstTCT9ELxjfeE"
-    },
-    {
-      "added_at": "2023-09-14 16:38:12",
-      "album": {
         "name": "Sticks and Stones",
         "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
       },
@@ -2183,18 +2167,18 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
-        "name": "Tattoos & Scars",
-        "url": "https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
       },
       "artists": [
         {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
         }
       ],
-      "duration_ms": 192693,
-      "name": "Hillbilly Shoes",
-      "url": "https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ"
+      "duration_ms": 241306,
+      "name": "I Love the Way You Love Me",
+      "url": "https://open.spotify.com/track/6MnDkyb3VstTCT9ELxjfeE"
     },
     {
       "added_at": "2023-09-14 16:38:12",
@@ -2211,6 +2195,22 @@
       "duration_ms": 164293,
       "name": "What Part of No",
       "url": "https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk"
+    },
+    {
+      "added_at": "2023-09-14 16:38:12",
+      "album": {
+        "name": "Tattoos & Scars",
+        "url": "https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5"
+      },
+      "artists": [
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Hillbilly Shoes",
+      "url": "https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ"
     },
     {
       "added_at": "2023-09-14 16:38:12",

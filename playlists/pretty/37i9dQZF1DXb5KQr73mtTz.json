@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 15403,
+  "num_followers": 15428,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
+        "name": "Descendants Of The Sun Pt.3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 225171,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW"
+    },
+    {
+      "added_at": "2023-09-20 06:38:00",
+      "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 222600,
       "name": "Don\u2019t Wanna Go Back (Duet with Heize)",
       "url": "https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE"
-    },
-    {
-      "added_at": "2023-09-20 06:38:00",
-      "album": {
-        "name": "Descendants Of The Sun Pt.3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 225171,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW"
     },
     {
       "added_at": "2023-09-20 06:38:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
-    },
-    {
-      "added_at": "2023-09-20 06:38:00",
-      "album": {
         "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 192430,
       "name": "Forgetting You",
       "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
+    },
+    {
+      "added_at": "2023-09-20 06:38:00",
+      "album": {
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2023-09-20 06:38:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Can't Go",
-      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
-    },
-    {
-      "added_at": "2023-09-20 06:38:00",
-      "album": {
         "name": "Spring Again",
         "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
       },
@@ -359,8 +343,8 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
       },
       "artists": [
         {
@@ -368,25 +352,9 @@
           "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
-    },
-    {
-      "added_at": "2023-09-20 06:38:00",
-      "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 281944,
-      "name": "Love Alone",
-      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
+      "duration_ms": 211999,
+      "name": "Can't Go",
+      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
     },
     {
       "added_at": "2023-09-20 06:38:00",
@@ -407,6 +375,22 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
+    },
+    {
+      "added_at": "2023-09-20 06:38:00",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 281944,
+      "name": "Love Alone",
+      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
     },
     {
       "added_at": "2023-09-20 06:38:00",
@@ -491,6 +475,22 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
+    },
+    {
+      "added_at": "2023-09-20 06:38:00",
+      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 15",
+        "url": "https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "\ub0a0 \uc0ac\ub791\ud55c \ucc98\uc74c\uc758 \ub108\ub85c \ub3cc\uc544\uc640",
+      "url": "https://open.spotify.com/track/21gnQyyXCoEgDkq3kU9kWZ"
+    },
+    {
+      "added_at": "2023-09-20 06:38:00",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 199577,
       "name": "Into My Heart",
       "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
-    },
-    {
-      "added_at": "2023-09-20 06:38:00",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 15",
-        "url": "https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "\ub0a0 \uc0ac\ub791\ud55c \ucc98\uc74c\uc758 \ub108\ub85c \ub3cc\uc544\uc640",
-      "url": "https://open.spotify.com/track/21gnQyyXCoEgDkq3kU9kWZ"
     },
     {
       "added_at": "2023-09-20 06:38:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
-        "name": "Eyebrow Moon",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
       "artists": [
         {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
         }
       ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+      "duration_ms": 219746,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
     },
     {
       "added_at": "2023-09-20 06:38:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
       },
       "artists": [
         {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
         }
       ],
-      "duration_ms": 219746,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2023-09-20 06:38:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-09-20 06:38:00",
       "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
-    },
-    {
-      "added_at": "2023-09-20 06:38:00",
-      "album": {
         "name": "\uac70\uc6b8 MIRROR",
         "url": "https://open.spotify.com/album/2BKrJ8ePL68zc2xesSdkHN"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 282118,
       "name": "\uac70\uc6b8 MIRROR",
       "url": "https://open.spotify.com/track/3rJlE3EHSZcjOVI5fJZpgR"
+    },
+    {
+      "added_at": "2023-09-20 06:38:00",
+      "album": {
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2023-09-20 06:38:00",

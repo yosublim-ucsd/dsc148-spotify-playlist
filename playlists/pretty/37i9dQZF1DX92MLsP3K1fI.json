@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Kim Loaiza y Pailita en portada.",
-  "num_followers": 74061,
+  "num_followers": 74194,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-09-25 22:55:53",
       "album": {
-        "name": "dEsANiMaO :(",
-        "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "dEsANiMaO :(",
-      "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
-    },
-    {
-      "added_at": "2023-09-25 22:55:53",
-      "album": {
         "name": "Amapolas (Remix)",
         "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 267338,
       "name": "Amapolas - Remix",
       "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
+    },
+    {
+      "added_at": "2023-09-25 22:55:53",
+      "album": {
+        "name": "dEsANiMaO :(",
+        "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "dEsANiMaO :(",
+      "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
     },
     {
       "added_at": "2023-09-25 22:55:53",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-09-25 22:55:53",
       "album": {
+        "name": "T\u00edrame Un Hello",
+        "url": "https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 169621,
+      "name": "T\u00edrame Un Hello",
+      "url": "https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s"
+    },
+    {
+      "added_at": "2023-09-25 22:55:53",
+      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/7pFnghxBLJx78ZDRUSkEYy"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 175175,
       "name": "DIAMANTE",
       "url": "https://open.spotify.com/track/5HZH0Rbz2mRnqgBkBeTsOf"
-    },
-    {
-      "added_at": "2023-09-25 22:55:53",
-      "album": {
-        "name": "T\u00edrame Un Hello",
-        "url": "https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 169621,
-      "name": "T\u00edrame Un Hello",
-      "url": "https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s"
     },
     {
       "added_at": "2023-09-25 22:55:53",

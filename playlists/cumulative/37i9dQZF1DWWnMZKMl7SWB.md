@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,161 songs - 2 day 4 hr 2 min
+1,164 songs - 2 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Days before](https://open.spotify.com/track/0Yr84Z0J8XdIFgef0Gm4wC) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Days Before](https://open.spotify.com/album/0gSYHXWZ0niLxoUr7A63nq) | 2:47 | 2023-09-22 |  |
 | [Days Off](https://open.spotify.com/track/79D9IPtymm9jfec689Tlin) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Days Off](https://open.spotify.com/album/503XsqJWm1DeucuWPIlOGc) | 1:58 | 2023-09-08 |  |
 | [dear](https://open.spotify.com/track/4eMXHSc8jzmc9XdrHc14eO) | [Ree Vozz](https://open.spotify.com/artist/03Kr8XGKfldmQU7bODAzqu) | [chai latay](https://open.spotify.com/album/2LsusJuv6WiMu7VKOLg7Ki) | 2:51 | 2023-09-22 |  |
-| [Dear Friends](https://open.spotify.com/track/1ZaTA2e51aBZoAL8CuaePU) | [d\-Tergent](https://open.spotify.com/artist/6ye4fgFvJaIMRV9Hsry5Ta) | [Dear Friends](https://open.spotify.com/album/5dT9sOgkg4vuBzcDwnWvM0) | 2:15 | 2023-09-08 |  |
+| [Dear Friends](https://open.spotify.com/track/1ZaTA2e51aBZoAL8CuaePU) | [d\-Tergent](https://open.spotify.com/artist/6ye4fgFvJaIMRV9Hsry5Ta) | [Dear Friends](https://open.spotify.com/album/5dT9sOgkg4vuBzcDwnWvM0) | 2:15 | 2023-09-08 | 2023-09-27 |
 | [Dear Mom](https://open.spotify.com/track/6V7trMvgFjmvsZ6dI5sslz) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Dear Mom](https://open.spotify.com/album/4B2oUyiSVXqAOl8hBVX1dx) | 2:23 | 2023-09-22 |  |
 | [Dear Summer](https://open.spotify.com/track/6GxxRUqVez9qwSusxecnES) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx), [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Dear Summer](https://open.spotify.com/album/2AUTLXpq9JBPhQgHbQM5Me) | 2:39 | 2023-09-22 |  |
 | [Dedication](https://open.spotify.com/track/5OuHw5SfiGMtF7qrvrTw01) | [Drive](https://open.spotify.com/artist/58Z10RWlUsSA6UkgOnmHM1) | [Dedication](https://open.spotify.com/album/5iykePphdMLLyM0b3kFmPK) | 1:33 | 2023-09-22 |  |
@@ -307,6 +307,7 @@
 | [Drips](https://open.spotify.com/track/3yxluQG4ZWdmjXJ5sjxXVg) | [Gizmo](https://open.spotify.com/artist/5yGSDOiFgai6RwHW3DAtW0) | [Drips](https://open.spotify.com/album/224QiGS6A3qBdXSDiLQked) | 1:40 | 2023-09-22 |  |
 | [Drives](https://open.spotify.com/track/07uRU9EczqsAqDdTcNCqwv) | [Z\-bone](https://open.spotify.com/artist/2bCoBCb2t0qwwPb5MGgjag) | [Drives](https://open.spotify.com/album/5Yq3BR4a0Ip2NkJ4lXEVHa) | 3:12 | 2023-09-22 |  |
 | [Droplets](https://open.spotify.com/track/15yitQITrGAxCToHNw4zKF) | [Lake Sanford](https://open.spotify.com/artist/21h842cjCnSvqRTA87Wlgp), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Ethereal Passage](https://open.spotify.com/album/3WB8vftnlNv5Gj9RvjtUSm) | 2:46 | 2023-09-22 |  |
+| [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-22 |  |
 | [Early Grey](https://open.spotify.com/track/4fbZjDV5jrlnJgche5lZBj) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Early Grey](https://open.spotify.com/album/2mpedk23jMimsBI06nCWxi) | 2:36 | 2023-09-22 |  |
 | [Early Mornings](https://open.spotify.com/track/3mZQX7fqgtcMIHJuAH3UEA) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Early Mornings](https://open.spotify.com/album/2Ru4uhUL0lCt81wgMPjimz) | 1:53 | 2023-09-22 |  |
 | [Easy](https://open.spotify.com/track/3tsA89ew9UKnNL1O5PAOL2) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Easy](https://open.spotify.com/album/2HJonL9q1xMZA8dXxMR9bH) | 1:34 | 2023-09-08 |  |
@@ -379,7 +380,7 @@
 | [Fly With Me](https://open.spotify.com/track/0utlMloUqhPm1sHdRbRX0d) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Fly With Me](https://open.spotify.com/album/4Yg9AcZjDJvg7UbhebX2vY) | 1:44 | 2023-09-22 |  |
 | [Flying](https://open.spotify.com/track/6wm9hYs3yKMUmlKEQS6t7Z) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Flying](https://open.spotify.com/album/0QZqNu6wlgnLCLqGEkXZQ4) | 2:13 | 2023-09-22 |  |
 | [Flying Away](https://open.spotify.com/track/7zckDVftCAoW2NeuEp9Qvc) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Flying Away](https://open.spotify.com/album/6HybhwMgx3nwXFk5qEoNhG) | 1:39 | 2023-09-08 |  |
-| [Flying Lofi Bugs](https://open.spotify.com/track/4cGt0bobV5aGn3d55XMPKv) | [ikioma](https://open.spotify.com/artist/2rThuiJzp3Df9CyvquCEYd) | [Flying Lofi Bugs](https://open.spotify.com/album/5Fc5UIAHLFfCdkdd8HhLo2) | 1:39 | 2023-09-08 |  |
+| [Flying Lofi Bugs](https://open.spotify.com/track/4cGt0bobV5aGn3d55XMPKv) | [ikioma](https://open.spotify.com/artist/2rThuiJzp3Df9CyvquCEYd) | [Flying Lofi Bugs](https://open.spotify.com/album/5Fc5UIAHLFfCdkdd8HhLo2) | 1:39 | 2023-09-08 | 2023-09-27 |
 | [Follow the maze](https://open.spotify.com/track/2cqoll9mqMTlaJRIgoK3ko) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Printers' Alley](https://open.spotify.com/album/2PpIz8xsJOjiFTO4REzthj) | 2:40 | 2023-09-22 |  |
 | [Food For Thought](https://open.spotify.com/track/6nzxcUtxye4HMz8v8iYnlg) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Food For Thought](https://open.spotify.com/album/2Wp5mKY2BUDd7g5MsdLxYR) | 2:22 | 2023-09-22 |  |
 | [For My Pet](https://open.spotify.com/track/4LzJRk3q2gHWtlvZn4XbbQ) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [For My Pet](https://open.spotify.com/album/3XNNQdiFEYB5p1ccBisEKM) | 1:42 | 2023-09-22 |  |
@@ -654,6 +655,7 @@
 | [morning vibes](https://open.spotify.com/track/5n1DPnDhK6yWe8BjNIt9p8) | [flotate](https://open.spotify.com/artist/1WCXAKhgy8iunT7CJfHXZS) | [morning vibes](https://open.spotify.com/album/2KdexWlZI2sqY6HTdz2G75) | 2:03 | 2023-09-08 |  |
 | [Mothers](https://open.spotify.com/track/2i0fkV4Sly4EUwyc5W8KSJ) | [Rez Tiller](https://open.spotify.com/artist/6kMQXQHnSoU416PTFgiCQn) | [Mothers](https://open.spotify.com/album/49IVbk9OUZCId3Vj3p6z87) | 2:06 | 2023-09-22 |  |
 | [Mountain](https://open.spotify.com/track/0za7hx6pnkVYipnumKevmw) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Evening](https://open.spotify.com/album/11aKnidnBLnSBRZ8L931dG) | 3:15 | 2022-04-12 | 2023-09-09 |
+| [mountain peak](https://open.spotify.com/track/0VGLPDmgUWpoUjStj7Csvc) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [mountain peak](https://open.spotify.com/album/39X3V9LCL3hqHDiUqjUpH6) | 2:26 | 2023-09-22 |  |
 | [Mowet](https://open.spotify.com/track/39U3Csv6FnR77n4dZURepR) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Mowet](https://open.spotify.com/album/0IKEKVSolplB7bVIT5LfoJ) | 2:15 | 2023-09-22 |  |
 | [Mr Lightfoot](https://open.spotify.com/track/2ZLLtVcPYlM9PE2IE96JFf) | [Riverside Park](https://open.spotify.com/artist/5GlkBEHK6cAVD23p4YE2gP) | [Let's Take a Walk](https://open.spotify.com/album/6Rm1HkijkfXiBAJdnkGqR6) | 2:43 | 2023-09-08 |  |
 | [Musgo.](https://open.spotify.com/track/1XOMHe2G9ugjLqznM8Wv3Z) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG) | [Musgo.](https://open.spotify.com/album/68apOdZFDut1aK9OQEIFPX) | 3:41 | 2022-04-12 | 2023-09-09 |
@@ -704,6 +706,7 @@
 | [November](https://open.spotify.com/track/01jgvCssPI09qjl87FRa9s) | [Sé Bastian](https://open.spotify.com/artist/33ToCBrLgNNpi89XvUDX6n) | [November](https://open.spotify.com/album/2AHGynZt5NIsQ3xO6QNoKB) | 2:17 | 2023-09-08 | 2023-09-23 |
 | [November Moon](https://open.spotify.com/track/0uHyGjgAYXgJ20JRf4XWv8) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [November Moon](https://open.spotify.com/album/15KPuUA4hdzpfckOaOWdHL) | 1:48 | 2023-09-22 |  |
 | [Nowhere](https://open.spotify.com/track/4HlCBuCaDxtetNpuz2GcWE) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Nowhere](https://open.spotify.com/album/1A1D12IvHSnqe2SbUNXvv0) | 2:18 | 2023-09-08 |  |
+| [Oasis](https://open.spotify.com/track/0H5Ev0vFWpqqLlWAwfUpOC) | [Kival](https://open.spotify.com/artist/4mYPgSEfNEHOG0QfdJuMwp) | [Oasis](https://open.spotify.com/album/6nQNTDHsAzKwD63yJ8znXV) | 2:44 | 2023-09-22 |  |
 | [Observatory](https://open.spotify.com/track/03cokFHBxSgFZxfVJ0N8U6) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [Observatory](https://open.spotify.com/album/4LJiWGLyWHTGouMFDRVoom) | 2:14 | 2022-04-12 | 2022-07-29 |
 | [Observatory](https://open.spotify.com/track/6IbVND7VnLo5wVDAFZs5Tf) | [sleepless & lorn](https://open.spotify.com/artist/2hyTaOe3E5NyOIuDojQx41) | [Observatory](https://open.spotify.com/album/0XuLa3kPxRlThLGCkNni0r) | 2:14 | 2022-09-09 | 2023-09-09 |
 | [Ocean view](https://open.spotify.com/track/67KV197aojEW3rNeGj6Vxe) | [SoFo](https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1) | [Ocean view](https://open.spotify.com/album/19mGPmYIQDX59svRvMjAoB) | 3:15 | 2023-09-08 |  |
@@ -989,7 +992,7 @@
 | [Swamplands](https://open.spotify.com/track/47VW4X0nwm5uXQ4KzOjW37) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Swamplands](https://open.spotify.com/album/1yElHsea4IcNG4pTlgWu9S) | 2:16 | 2023-09-22 |  |
 | [Sweet Berries](https://open.spotify.com/track/4V4NLXR80N6ePJ6UDxez7s) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Sweet Berries](https://open.spotify.com/album/16agYZgs1aCOoAak0kyzZV) | 2:47 | 2022-04-12 | 2023-09-09 |
 | [Sweet Memories](https://open.spotify.com/track/4TJ3nw5zv8cf7lSzY9xv1X) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Sweet Memories](https://open.spotify.com/album/2dXOgpSUXIWyNFrTWCacY8) | 2:15 | 2023-09-08 |  |
-| [sweet pea](https://open.spotify.com/track/769jXDQMCJCfuBbcZvplDx) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [sweet pea](https://open.spotify.com/album/5QRtyzZW6kQfvQ9c943GmA) | 1:19 | 2023-09-08 |  |
+| [sweet pea](https://open.spotify.com/track/769jXDQMCJCfuBbcZvplDx) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [sweet pea](https://open.spotify.com/album/5QRtyzZW6kQfvQ9c943GmA) | 1:19 | 2023-09-08 | 2023-09-27 |
 | [Sweet water](https://open.spotify.com/track/31mFMlV5wX0KXSwlkQzudl) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [Sweet water](https://open.spotify.com/album/1cuUSlktiaqYuwj6wquDxI) | 2:24 | 2023-09-22 |  |
 | [Swinging](https://open.spotify.com/track/5g6bo0A9skAYzKogYIOFP9) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Swinging](https://open.spotify.com/album/02QmoEK1ROWO1US6PdwWad) | 1:42 | 2023-09-22 |  |
 | [synthetic](https://open.spotify.com/track/08kj1mLiwnc4X4S2gC6HYO) | [dillyphone](https://open.spotify.com/artist/3MjBxFThZFerMrfiHYl5kT) | [synthetic](https://open.spotify.com/album/5FLvrmW24QH7cCM8Xj7dNY) | 2:31 | 2023-09-08 |  |

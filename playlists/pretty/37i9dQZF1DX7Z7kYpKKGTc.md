@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 
 ### [Rock Love Songs](https://open.spotify.com/playlist/37i9dQZF1DX7Z7kYpKKGTc)
 
-> The romantic side of classic rock and metal
+> El lado romántico del rock clásico y el metal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,624 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,935 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

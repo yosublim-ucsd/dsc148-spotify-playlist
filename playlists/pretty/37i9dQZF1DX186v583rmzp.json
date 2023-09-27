@@ -1,6 +1,6 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8103825,
+  "num_followers": 8105571,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "Electric Relaxation",
-      "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Moment Of Truth",
         "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 177666,
       "name": "Work",
       "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "Electric Relaxation",
+      "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "19NaughtyIII",
-        "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
-      },
-      "artists": [
-        {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Hip Hop Hooray",
-      "url": "https://open.spotify.com/track/1SyQ6t9RdRBK0QUCS6a797"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Full Clip: A Decade Of Gang Starr",
         "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 217440,
       "name": "Full Clip",
       "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "19NaughtyIII",
+        "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Hip Hop Hooray",
+      "url": "https://open.spotify.com/track/1SyQ6t9RdRBK0QUCS6a797"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Poverty's Paradise (25th Anniversary - Remastered)",
-        "url": "https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV"
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
       },
       "artists": [
         {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 212760,
-      "name": "Feel Me Flow",
-      "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
+      "duration_ms": 319360,
+      "name": "Who Shot Ya? - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+        "name": "Poverty's Paradise (25th Anniversary - Remastered)",
+        "url": "https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
         }
       ],
-      "duration_ms": 319360,
-      "name": "Who Shot Ya? - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN"
+      "duration_ms": 212760,
+      "name": "Feel Me Flow",
+      "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "The Low End Theory",
-        "url": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Check the Rhime",
-      "url": "https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 228173,
       "name": "Twinz",
       "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "The Low End Theory",
+        "url": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Check the Rhime",
+      "url": "https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
+        "name": "The Love Movement",
+        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
         "name": "Hell On Earth",
         "url": "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "The Love Movement",
-        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
       "artists": [
         {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 203066,
-      "name": "Find a Way",
-      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
+      "duration_ms": 333906,
+      "name": "Lost Ones",
+      "url": "https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1475,38 +1491,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 333906,
-      "name": "Lost Ones",
-      "url": "https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Return of the Boom Bap",
         "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
       },
@@ -1523,22 +1507,18 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "When Disaster Strikes...",
-        "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
         }
       ],
-      "duration_ms": 194293,
-      "name": "Put Your Hands Where My Eyes Could See (feat. Jamal)",
-      "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1563,6 +1543,26 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
+        "name": "When Disaster Strikes...",
+        "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
+        }
+      ],
+      "duration_ms": 194293,
+      "name": "Put Your Hands Where My Eyes Could See (feat. Jamal)",
+      "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
         "name": "Conspiracy (PA)",
         "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
       },
@@ -1575,6 +1575,26 @@
       "duration_ms": 274937,
       "name": "Get Money",
       "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        {
+          "name": "Trugoy The Dove",
+          "url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Award Tour (feat. Trugoy The Dove)",
+      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1651,26 +1671,6 @@
       "duration_ms": 199333,
       "name": "Guilty Conscience",
       "url": "https://open.spotify.com/track/6da04YB906XonC6IQNC44u"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        },
-        {
-          "name": "Trugoy The Dove",
-          "url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Award Tour (feat. Trugoy The Dove)",
-      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
+        "name": "One Day It'll All Make Sense",
+        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "Invocation",
+      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
         "name": "Mr. Smith (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 293933,
       "name": "Doin' It",
       "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "One Day It'll All Make Sense",
-        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "Invocation",
-      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
     }
   ],
   "unique_name": "I Love My '90s Hip-Hop",

@@ -1,6 +1,6 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 107078,
+  "num_followers": 107141,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "12 Discipulos",
-        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
-      },
-      "artists": [
-        {
-          "name": "Wiso G",
-          "url": "https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt"
-        }
-      ],
-      "duration_ms": 191191,
-      "name": "Medley",
-      "url": "https://open.spotify.com/track/6KC9RBNcIaXHHE18tdyq3h"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Time To Kill II",
         "url": "https://open.spotify.com/album/6Hk8Nlz2rdI043PJNbDEOA"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 254720,
       "name": "Ponte Bruto",
       "url": "https://open.spotify.com/track/3CUqGQU7QYDyRFxtRT5ozd"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "12 Discipulos",
+        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
+      },
+      "artists": [
+        {
+          "name": "Wiso G",
+          "url": "https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt"
+        }
+      ],
+      "duration_ms": 191191,
+      "name": "Medley",
+      "url": "https://open.spotify.com/track/6KC9RBNcIaXHHE18tdyq3h"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Sin Parar",
-        "url": "https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v"
-      },
-      "artists": [
-        {
-          "name": "Wiso G",
-          "url": "https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "La Qu\u00edmica",
-      "url": "https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Playero Dj Live",
         "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
       },
@@ -703,22 +687,6 @@
       "duration_ms": 65618,
       "name": "Tu Amor Es un Crimen",
       "url": "https://open.spotify.com/track/7pvpmxMwwOAQcpoVDSfLip"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/2TfyOwS5WUBjviqlduUbzZ"
-      },
-      "artists": [
-        {
-          "name": "Alberto Stylee",
-          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
-        }
-      ],
-      "duration_ms": 225462,
-      "name": "Perros y Gatas",
-      "url": "https://open.spotify.com/track/3wS1njCO85Eo9iQ6gs7740"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -739,6 +707,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/2TfyOwS5WUBjviqlduUbzZ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Stylee",
+          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
+        }
+      ],
+      "duration_ms": 225462,
+      "name": "Perros y Gatas",
+      "url": "https://open.spotify.com/track/3wS1njCO85Eo9iQ6gs7740"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "No Fear Live",
         "url": "https://open.spotify.com/album/3Q682W4ilQpUfwbFJwap4f"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 181146,
       "name": "Voltio (Live)",
       "url": "https://open.spotify.com/track/3DneCEkBhWz7Qy92mcNzW0"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Sin Parar",
+        "url": "https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v"
+      },
+      "artists": [
+        {
+          "name": "Wiso G",
+          "url": "https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "La Qu\u00edmica",
+      "url": "https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -812,6 +812,22 @@
       },
       "artists": [
         {
+          "name": "Ruben Sam",
+          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+        }
+      ],
+      "duration_ms": 123621,
+      "name": "Brutalidad",
+      "url": "https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+      },
+      "artists": [
+        {
           "name": "Frankie Boy",
           "url": "https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN"
         }
@@ -835,22 +851,6 @@
       "duration_ms": 210240,
       "name": "Soy El Mas Sensual",
       "url": "https://open.spotify.com/track/682nWbALzgmrOYovxI0Me1"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
-      },
-      "artists": [
-        {
-          "name": "Ruben Sam",
-          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
-        }
-      ],
-      "duration_ms": 123621,
-      "name": "Brutalidad",
-      "url": "https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl"
     },
     {
       "added_at": "2021-12-20 17:02:25",

@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Colbie Caillat
 
-249 songs - 13 hr 3 min
+250 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 | 2021-12-17 | 2022-07-29 |
 | [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-03-03 |  |
 | [Thirties](https://open.spotify.com/track/5VA8tNItVojrbxLVYxrhjJ) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [Thirties](https://open.spotify.com/album/32CSNCbnIaystWrhGeG2Ia) | 3:23 | 2021-12-17 | 2022-06-01 |
-| [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:51 | 2023-03-10 |  |
+| [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:51 | 2023-03-10 | 2023-09-27 |
+| [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:51 | 2023-09-22 |  |
 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 | 2021-12-17 |  |
 | [Treated Me Good](https://open.spotify.com/track/0WlenzbcPClIkMc9lwzXdP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Treated Me Good](https://open.spotify.com/album/7xdKctABSF6i9zKy9B5wHB) | 3:20 | 2023-03-01 | 2023-03-22 |
 | [Trying Not To](https://open.spotify.com/track/5yxaMW0oneWyj2rso0BwZ5) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Trying Not To](https://open.spotify.com/album/74AUxh2czF7cU9qKIh6vXk) | 3:24 | 2021-12-17 | 2022-01-08 |

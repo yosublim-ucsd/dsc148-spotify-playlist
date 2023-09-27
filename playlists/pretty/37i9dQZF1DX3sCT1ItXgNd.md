@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Aitana
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,107 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,214 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,22 +51,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 41 | [Beber x Beber](https://open.spotify.com/track/0cUIUxrjsw8PtfBk1SJ8jE) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Beber x Beber](https://open.spotify.com/album/3gpvzrGqLxk788DWga2Mhi) | 2:24 |
 | 42 | [Pop](https://open.spotify.com/track/51VLqRIxEjfT6guWSxEElY) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Pop](https://open.spotify.com/album/0Ye07YKpMKTynGPopYcVNQ) | 2:29 |
 | 43 | [RESPIRAR](https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Uri](https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [RESPIRAR](https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai) | 2:25 |
-| 44 | [Me Enamoro](https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 2:44 |
-| 45 | [NAZARIO](https://open.spotify.com/track/6Ud3LAkeAHWrwlVdgLrfWL) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [NAZARIO](https://open.spotify.com/album/57mR1wjg1kaXKgJYfowf9A) | 2:25 |
+| 44 | [NAZARIO](https://open.spotify.com/track/6Ud3LAkeAHWrwlVdgLrfWL) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [NAZARIO](https://open.spotify.com/album/57mR1wjg1kaXKgJYfowf9A) | 2:25 |
+| 45 | [Me Enamoro](https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 2:44 |
 | 46 | [Un Rato pa Siempre](https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Un Rato pa Siempre](https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m) | 2:43 |
 | 47 | [PIDE UN DESEO](https://open.spotify.com/track/1GBf0EYr9qC7KAPbrOHaf8) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [PIDE UN DESEO](https://open.spotify.com/album/62ClhtV0bdAzAJkvBGKx26) | 3:10 |
 | 48 | [VUELA ALTO](https://open.spotify.com/track/6Up49hQmFHWPMpxN8FIu9o) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 2:58 |
 | 49 | [XAO](https://open.spotify.com/track/4Uq6OqAdgB9P7HyQVE1zZC) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [XAO](https://open.spotify.com/album/5u0qlJa00HJSPgfTXgDmp7) | 2:20 |
 | 50 | [En el mismo bar](https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9) | [De Rancho](https://open.spotify.com/artist/5CvFmofsJbfkYoGOFryI2k), [H Roto](https://open.spotify.com/artist/5Q7VQ40wSh0GOm1CaNOIHL), [GARZI](https://open.spotify.com/artist/0sAHZQtvqLdcBvIrEAYo4m) | [En el mismo bar](https://open.spotify.com/album/5mK99XckqcPxkOJDt25MPF) | 2:42 |
 | 51 | [Cómo Dejarte Ir](https://open.spotify.com/track/3CkBFksybBFWifrXYMwI54) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [El Pacto](https://open.spotify.com/album/5Dt2lnQ9Q7sBV6AZzky5SY) | 3:23 |
-| 52 | [Frenesí](https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Frenesí](https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ) | 3:24 |
-| 53 | [Por si vuelves](https://open.spotify.com/track/3qxEHTh0gvgmnKOLUE3FZq) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Por si vuelves](https://open.spotify.com/album/5U3ktgfbytevPED96BwXdo) | 3:14 |
-| 54 | [Shhh!!](https://open.spotify.com/track/25hF35U6CgXyW9TYAKntrJ) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Shhh!!](https://open.spotify.com/album/0qAwCioHyiXx7nDwJynDUm) | 2:41 |
-| 55 | [Si Supieran](https://open.spotify.com/track/0wpMKiXORO28u3C439Qj5C) | [Serko](https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq), [Dilas](https://open.spotify.com/artist/28UGYcxxUBg3GeQdTvi5t4) | [Si Supieran](https://open.spotify.com/album/0T8lt5lLQi5bB9s7yLQiFW) | 3:40 |
+| 52 | [Por si vuelves](https://open.spotify.com/track/3qxEHTh0gvgmnKOLUE3FZq) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Por si vuelves](https://open.spotify.com/album/5U3ktgfbytevPED96BwXdo) | 3:14 |
+| 53 | [Frenesí](https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Frenesí](https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ) | 3:24 |
+| 54 | [cuando salto me duele](https://open.spotify.com/track/5Z7mpQCwr8Ydr5WNQgO8Dd) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [cuando salto me duele](https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR) | 3:09 |
+| 55 | [Shhh!!](https://open.spotify.com/track/25hF35U6CgXyW9TYAKntrJ) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Shhh!!](https://open.spotify.com/album/0qAwCioHyiXx7nDwJynDUm) | 2:41 |
 | 56 | [MI BANDERA](https://open.spotify.com/track/4lTgUY1rtzieQLFGCzfpmA) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 3:21 |
-| 57 | [TE QUIERO](https://open.spotify.com/track/3joDSTDSPrKoEB1TxCFDHv) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [TE QUIERO](https://open.spotify.com/album/241E4UnDjEnTS7KUGvPxCT) | 2:59 |
-| 58 | [cuando salto me duele](https://open.spotify.com/track/5Z7mpQCwr8Ydr5WNQgO8Dd) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [cuando salto me duele](https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR) | 3:09 |
-| 59 | [Un Momento](https://open.spotify.com/track/5Gp3koyDVex3ocaWA78Dni) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Un Momento](https://open.spotify.com/album/4tssRvycB6QesAFRpzMS0a) | 2:21 |
-| 60 | [Nunca Volverás](https://open.spotify.com/track/1b9sYsa4aFiBv7mqOKvwsM) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nunca Volverás](https://open.spotify.com/album/70OIgcMqyr0fKYwZCvdVY9) | 2:51 |
+| 57 | [Si Supieran](https://open.spotify.com/track/0wpMKiXORO28u3C439Qj5C) | [Serko](https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq), [Dilas](https://open.spotify.com/artist/28UGYcxxUBg3GeQdTvi5t4) | [Si Supieran](https://open.spotify.com/album/0T8lt5lLQi5bB9s7yLQiFW) | 3:40 |
+| 58 | [TE QUIERO](https://open.spotify.com/track/3joDSTDSPrKoEB1TxCFDHv) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [TE QUIERO](https://open.spotify.com/album/241E4UnDjEnTS7KUGvPxCT) | 2:59 |
+| 59 | [Nunca Volverás](https://open.spotify.com/track/1b9sYsa4aFiBv7mqOKvwsM) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nunca Volverás](https://open.spotify.com/album/70OIgcMqyr0fKYwZCvdVY9) | 2:51 |
+| 60 | [Un Momento](https://open.spotify.com/track/5Gp3koyDVex3ocaWA78Dni) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Un Momento](https://open.spotify.com/album/4tssRvycB6QesAFRpzMS0a) | 2:21 |
 
 Snapshot ID: `MCwwOTMwN2I1MDA5NTU5NjFlYTk1YWEyMmE5NTEwYjg0ZmZmNDFiYjI2`

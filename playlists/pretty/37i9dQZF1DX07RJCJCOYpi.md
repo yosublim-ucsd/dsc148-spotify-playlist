@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,734,795 likes - 56 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,734,782 likes - 56 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

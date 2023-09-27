@@ -1,6 +1,6 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 275342,
+  "num_followers": 275445,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Street Worms",
-        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Sports",
-      "url": "https://open.spotify.com/track/5aLD8CPaEu3Cj9ZcAqWWA6"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Joy as an Act of Resistance.",
         "url": "https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 228831,
       "name": "Never Fight A Man With A Perm",
       "url": "https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Street Worms",
+        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Sports",
+      "url": "https://open.spotify.com/track/5aLD8CPaEu3Cj9ZcAqWWA6"
     },
     {
       "added_at": "2023-07-28 14:24:56",
@@ -135,18 +135,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Cave World",
-        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
+        "name": "Joy as an Act of Resistance.",
+        "url": "https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg"
       },
       "artists": [
         {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
         }
       ],
-      "duration_ms": 199732,
-      "name": "Troglodyte",
-      "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
+      "duration_ms": 204843,
+      "name": "Danny Nedelko",
+      "url": "https://open.spotify.com/track/0gqsJm7b3KPSpqA2FsVn53"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -231,24 +231,8 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Joy as an Act of Resistance.",
-        "url": "https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 204843,
-      "name": "Danny Nedelko",
-      "url": "https://open.spotify.com/track/0gqsJm7b3KPSpqA2FsVn53"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Street Worms",
-        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
+        "name": "Cave World",
+        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
       },
       "artists": [
         {
@@ -256,25 +240,9 @@
           "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 216284,
-      "name": "Down in the Basement",
-      "url": "https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "A Hero's Death",
-        "url": "https://open.spotify.com/album/5uvoX0fFiT1QFpZXntsI3j"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "I Don't Belong",
-      "url": "https://open.spotify.com/track/4xCA8KYdeVe3AmTTEYJtVp"
+      "duration_ms": 199732,
+      "name": "Troglodyte",
+      "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -295,18 +263,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+        "name": "A Hero's Death",
+        "url": "https://open.spotify.com/album/5uvoX0fFiT1QFpZXntsI3j"
       },
       "artists": [
         {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 261384,
-      "name": "Fingers of Steel",
-      "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
+      "duration_ms": 271106,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/4xCA8KYdeVe3AmTTEYJtVp"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -323,6 +291,38 @@
       "duration_ms": 149360,
       "name": "Calling It",
       "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 261384,
+      "name": "Fingers of Steel",
+      "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Street Worms",
+        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 216284,
+      "name": "Down in the Basement",
+      "url": "https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E"
     },
     {
       "added_at": "2023-07-28 14:24:56",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
     },
     {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 212910,
-      "name": "Creatures",
-      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
-    },
-    {
       "added_at": "2023-06-20 22:28:34",
       "album": {
         "name": "Slab",
@@ -403,6 +387,22 @@
       "duration_ms": 108880,
       "name": "Slab",
       "url": "https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 212910,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -501,6 +501,38 @@
       "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
     },
     {
+      "added_at": "2023-07-28 14:24:56",
+      "album": {
+        "name": "Strange Disciple",
+        "url": "https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "duration_ms": 279870,
+      "name": "Stumbling Still",
+      "url": "https://open.spotify.com/track/2kGKxXOSLegpsXQOAhMqCH"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 279817,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
+    },
+    {
       "added_at": "2023-02-24 00:00:00",
       "album": {
         "name": "wollte nie",
@@ -523,18 +555,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+        "name": "Songs of Praise",
+        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
       },
       "artists": [
         {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 279817,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
+      "duration_ms": 214106,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -551,22 +583,6 @@
       "duration_ms": 141000,
       "name": "Hunger for a Way Out",
       "url": "https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Songs of Praise",
-        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Adore Life",
-        "url": "https://open.spotify.com/album/2UutOV48eYbIPB6keWOqoP"
-      },
-      "artists": [
-        {
-          "name": "Savages",
-          "url": "https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60"
-        }
-      ],
-      "duration_ms": 303133,
-      "name": "Adore",
-      "url": "https://open.spotify.com/track/3z9sAf9ptrSLpyRWR4jRiX"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Food for Worms",
         "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 231968,
       "name": "Six-Pack",
       "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Adore Life",
+        "url": "https://open.spotify.com/album/2UutOV48eYbIPB6keWOqoP"
+      },
+      "artists": [
+        {
+          "name": "Savages",
+          "url": "https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60"
+        }
+      ],
+      "duration_ms": 303133,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/3z9sAf9ptrSLpyRWR4jRiX"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -743,22 +759,6 @@
       "duration_ms": 196000,
       "name": "Little Fix",
       "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
-    },
-    {
-      "added_at": "2023-07-28 14:24:56",
-      "album": {
-        "name": "Stumbling Still",
-        "url": "https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh"
-      },
-      "artists": [
-        {
-          "name": "Nation of Language",
-          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
-        }
-      ],
-      "duration_ms": 279870,
-      "name": "Stumbling Still",
-      "url": "https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Demolition Row",
-        "url": "https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk"
-      },
-      "artists": [
-        {
-          "name": "Metz",
-          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
-        }
-      ],
-      "duration_ms": 258250,
-      "name": "Demolition Row",
-      "url": "https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Every Bad (Expanded Edition)",
         "url": "https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 222840,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Demolition Row",
+        "url": "https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk"
+      },
+      "artists": [
+        {
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+        }
+      ],
+      "duration_ms": 258250,
+      "name": "Demolition Row",
+      "url": "https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -889,20 +889,20 @@
       "url": "https://open.spotify.com/track/5BvpTVOBtKADtK5LAOgX4g"
     },
     {
-      "added_at": "2023-07-28 14:24:56",
+      "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Nah, That Ain't It / Phone Lines Down",
-        "url": "https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P"
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
       },
       "artists": [
         {
-          "name": "Spiritual Cramp",
-          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
         }
       ],
-      "duration_ms": 166390,
-      "name": "Nah, That Ain't It",
-      "url": "https://open.spotify.com/track/38TaGhJuDI9mXDCCA3FxyI"
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
     }
   ],
   "unique_name": "Post Punk",

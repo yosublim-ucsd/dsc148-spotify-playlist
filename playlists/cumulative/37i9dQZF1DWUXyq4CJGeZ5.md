@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-434 songs - 18 hr 56 min
+438 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A New Day](https://open.spotify.com/track/3f3o11I6fICW22aTW3ZK2k) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [A New Day](https://open.spotify.com/album/1OUJJk70WJeyliPi5Hu3q9) | 2:18 | 2023-03-10 |  |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2023-03-10 |  |
 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 | 2023-03-10 |  |
-| [Ad Libitum](https://open.spotify.com/track/7m5OILw45b30QyaqG8zhic) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Ad Libitum](https://open.spotify.com/album/2psCwjqmdWAShLWbXzCkNY) | 3:02 | 2023-03-10 |  |
+| [Ad Libitum](https://open.spotify.com/track/7m5OILw45b30QyaqG8zhic) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Ad Libitum](https://open.spotify.com/album/2psCwjqmdWAShLWbXzCkNY) | 3:02 | 2023-03-10 | 2023-09-27 |
 | [Adagio No 2 C\-Minor](https://open.spotify.com/track/6L0JsNlvd8CgtJkhRxZd5f) | [Tony Austero](https://open.spotify.com/artist/4IcLLdhDhgVZtC1GmZxyzw) | [Adagio No 2 C\-Minor](https://open.spotify.com/album/5bx5oBzjzCLliHbkwDOjnF) | 3:48 | 2023-03-10 |  |
 | [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2023-03-10 |  |
 | [Aeternum](https://open.spotify.com/track/2NUEiYBZDBrY5oidzrmYgv) | [Gaétan Buisson](https://open.spotify.com/artist/6DGaGOFxqqKATh3iRZ1MKs) | [Aeternum](https://open.spotify.com/album/4CBsyXYvh2iy9VihnMn5zE) | 2:15 | 2023-03-10 |  |
@@ -30,6 +30,7 @@
 | [Amour naturel](https://open.spotify.com/track/39bh8hsTP2ZBQWH0E308rT) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [Amour naturel](https://open.spotify.com/album/390yjRO6OCnaiCCMz6HNu3) | 2:52 | 2023-03-10 |  |
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2023-03-10 |  |
 | [Answer With Light](https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Answer With Light](https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE) | 2:21 | 2023-03-10 |  |
+| [Apart](https://open.spotify.com/track/1Eqlx3dtG65l9KI0uF3zuP) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Apart](https://open.spotify.com/album/0dIFaSYu3tI7NohFzFf3sr) | 3:01 | 2023-09-26 |  |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2023-03-10 |  |
 | [Arturo](https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 2:52 | 2023-03-10 |  |
 | [Asilah](https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Asilah](https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM) | 2:40 | 2023-03-10 |  |
@@ -119,6 +120,7 @@
 | [For Brea](https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [For Brea](https://open.spotify.com/album/3DhaC4gb4cgt8tLlBEEERI) | 1:57 | 2023-03-10 |  |
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2023-03-10 |  |
 | [Forever](https://open.spotify.com/track/0PDPU0FvLXuOWRHN0uOV7t) | [Muriel Bardsley](https://open.spotify.com/artist/1Lzqsd4iWBfVbx2AiRP3xu) | [Forever](https://open.spotify.com/album/5JWJdnDPsOuf5aPWpqHIom) | 2:58 | 2023-03-10 |  |
+| [Forevermore](https://open.spotify.com/track/3Na1QdVT2YRBw9S8RikZzo) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Forevermore](https://open.spotify.com/album/3Iw5GGcBOH38MN5KwB98p4) | 2:25 | 2023-09-26 |  |
 | [Forgive Us](https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Forgive Us](https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5) | 3:32 | 2023-03-10 |  |
 | [Fóra](https://open.spotify.com/track/6ZpsiNnK2yPcigPrtScGHG) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Fóra](https://open.spotify.com/album/5fsRgzEKg3LSht3LtDXJWI) | 2:14 | 2023-03-10 |  |
 | [Frühling](https://open.spotify.com/track/7ErgLiOGpIPutE9A7jXmEf) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Frühling](https://open.spotify.com/album/6XqCHvckzJbuOj22CTkcAb) | 2:19 | 2023-03-10 |  |
@@ -367,6 +369,7 @@
 | [The Field](https://open.spotify.com/track/7Mas670FmorgBqp0GnZOHb) | [Leonard Gambrell](https://open.spotify.com/artist/3UjODKnwbU318wOJhcuxSG) | [The Field](https://open.spotify.com/album/3IboYSaQu2t0zoFU7BkG6Z) | 2:36 | 2023-03-10 |  |
 | [The Girl With Flowers](https://open.spotify.com/track/490U5azHzbaJRShKWPtOwX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [The Girl With Flowers](https://open.spotify.com/album/4gQ0JmZKmSpm5sO9EP8i1V) | 2:13 | 2023-03-10 |  |
 | [The Hours](https://open.spotify.com/track/3oZOceAylTaZT8EKdz6M50) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [The Hours](https://open.spotify.com/album/12a4l0Phhf9Ae9TQOWtbf1) | 2:13 | 2023-03-10 |  |
+| [The Last Days Of Summer](https://open.spotify.com/track/2YBz1rKIDo0VCY1y7n76sC) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [The Last Days Of Summer](https://open.spotify.com/album/6n8czmPuICnaqG66hVLGfo) | 2:09 | 2023-09-26 |  |
 | [The Other Place](https://open.spotify.com/track/6RXyFqmnqRyVR7hAHSDCnD) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [The Other Place](https://open.spotify.com/album/1HKXs6ACrqDbWb7RjE6rE8) | 2:46 | 2023-03-10 |  |
 | [The Perfect Two](https://open.spotify.com/track/6ybvlo7BzMqEChtAwWoAew) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [The Perfect Two](https://open.spotify.com/album/2WE9WtMlbnh12kSbdJWA09) | 2:09 | 2023-03-10 |  |
 | [The Phenomenon](https://open.spotify.com/track/6QCddEiJ7fLtmoGsq1kWdq) | [Macauley Hubert](https://open.spotify.com/artist/0XeGtlvUw6IYSA0HY3rjF8) | [The Phenomenon](https://open.spotify.com/album/5Z143iLwtuMHwu5NvUafJh) | 2:30 | 2023-03-10 |  |
@@ -385,7 +388,7 @@
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2023-03-10 |  |
 | [To Be The One You Love](https://open.spotify.com/track/0hlafEijgw0Bx3aDwGIedE) | [Finn Forsberg](https://open.spotify.com/artist/4yTgrCNA5ym4jRHkU1q9Hd) | [To Be The One You Love](https://open.spotify.com/album/0MOBtZlRHAgI5EZic9DqWk) | 1:55 | 2023-03-10 |  |
 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2023-03-10 |  |
-| [Tonals](https://open.spotify.com/track/6wvCRq82UNSugRl6mE8ZyL) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Tonals](https://open.spotify.com/album/2lxt90H9hmuEuFLetT9Dvp) | 2:16 | 2023-03-10 |  |
+| [Tonals](https://open.spotify.com/track/6wvCRq82UNSugRl6mE8ZyL) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Tonals](https://open.spotify.com/album/2lxt90H9hmuEuFLetT9Dvp) | 2:16 | 2023-03-10 | 2023-09-27 |
 | [Toruń](https://open.spotify.com/track/1Qc0WMGqchtXtdWTAfDUGm) | [Juliusz Borkowska](https://open.spotify.com/artist/6jwKQMPX4P5iKJCjhMSD1z) | [Toruń](https://open.spotify.com/album/0To9frFAZTVtsAxx2smerL) | 2:35 | 2023-03-10 |  |
 | [Translucent](https://open.spotify.com/track/4z0BdgK76IDG4x1vxlFhOS) | [Cole Eady](https://open.spotify.com/artist/74GfA6oI6qGYDZshLKidPu) | [Translucent](https://open.spotify.com/album/2pUOZ3ZpCeR9V5GlQoj9CF) | 2:19 | 2023-03-10 |  |
 | [Tread Softly](https://open.spotify.com/track/03P8X4jeamfDN208vUJK8k) | [Tina Cargyle](https://open.spotify.com/artist/4W0tULIDKZAqvI90hlIsV1) | [Tread Softly](https://open.spotify.com/album/1aiTn0Yp9QmWiZ6mQBcr0E) | 2:18 | 2023-03-10 |  |
@@ -414,11 +417,11 @@
 | [Waiting](https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Waiting](https://open.spotify.com/album/5z2LHBhaATswQNRQWioTXJ) | 2:44 | 2023-03-10 |  |
 | [Walk](https://open.spotify.com/track/1IFzM39Bm7c28HoEhuixIC) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Walk](https://open.spotify.com/album/1BzQsplrvOkk3BicUV17AS) | 2:41 | 2023-03-10 |  |
 | [Waltz in F minor](https://open.spotify.com/track/20DUpGAFEPRFEBD3FbxUHK) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Waltz in F minor](https://open.spotify.com/album/0eFKKxmv0SE3SL3Z1YwmKi) | 2:24 | 2023-03-10 |  |
-| [Waltz Of The Swallow](https://open.spotify.com/track/1b4TVciUAU6bAXMNgpgxbf) | [Evelyn Haidu](https://open.spotify.com/artist/0KLuY1vs0XOszyBK0zwAq0) | [Garden of Eternal Spring](https://open.spotify.com/album/15zG56ZwGXAjLPktRRTfzb) | 2:53 | 2023-03-10 |  |
+| [Waltz Of The Swallow](https://open.spotify.com/track/1b4TVciUAU6bAXMNgpgxbf) | [Evelyn Haidu](https://open.spotify.com/artist/0KLuY1vs0XOszyBK0zwAq0) | [Garden of Eternal Spring](https://open.spotify.com/album/15zG56ZwGXAjLPktRRTfzb) | 2:53 | 2023-03-10 | 2023-09-27 |
 | [Watching Over You](https://open.spotify.com/track/6kWVRQKxzpOj8r06pps6O3) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [delta/alpha](https://open.spotify.com/album/6W2BFocMWkUumhGSrgE9il) | 2:18 | 2023-03-10 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2023-03-10 |  |
 | [Watercolor Tears](https://open.spotify.com/track/23J46AHR6peFeGAGTWeKYs) | [Brian Crain](https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb) | [Watercolor Tears](https://open.spotify.com/album/01JltJK8hpA8QBOPb0t5XJ) | 3:15 | 2023-03-10 |  |
-| [We Persist](https://open.spotify.com/track/5cWCVoVOHjhUNm0I3JE06l) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [We Persist](https://open.spotify.com/album/7xalfDfiAV5jIbebi7uwtX) | 2:39 | 2023-03-10 |  |
+| [We Persist](https://open.spotify.com/track/5cWCVoVOHjhUNm0I3JE06l) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [We Persist](https://open.spotify.com/album/7xalfDfiAV5jIbebi7uwtX) | 2:39 | 2023-03-10 | 2023-09-27 |
 | [We Won't Waltz Together](https://open.spotify.com/track/3tFwWjy78LQ2NOWANzWMdS) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [We Won't Waltz Together](https://open.spotify.com/album/5QMCSEHMqFmqOQhSWFQGWD) | 2:06 | 2023-03-10 |  |
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2023-03-10 |  |
 | [What She Said](https://open.spotify.com/track/01DgyWLmCNuUBJJGuokRiq) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [What She Said](https://open.spotify.com/album/4b6MJlepYeFPi7MYuaRUiT) | 2:04 | 2023-03-10 |  |
@@ -435,6 +438,7 @@
 | [Yasashii](https://open.spotify.com/track/2Zq0snCBJhOzT61Lhroxr6) | [Asahi Haru](https://open.spotify.com/artist/2n6xoAIjeAig3mKdbHWrgM) | [Yasashii](https://open.spotify.com/album/3lpTY9zCdlgiZV1EZm4UJR) | 2:14 | 2023-03-10 |  |
 | [Yasashiku Genki](https://open.spotify.com/track/3M9DFvDT781YoRODqwYCfh) | [Akane](https://open.spotify.com/artist/3cQWVFVI26yJH3HBVr25bR) | [Yasashiku Genki](https://open.spotify.com/album/7Juxx4SYSL1bLa1VrtRqCb) | 2:07 | 2023-03-10 |  |
 | [Yellow Entropy](https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Yellow Entropy](https://open.spotify.com/album/7hJKROzZs61p529YVcxaWM) | 2:11 | 2023-03-10 |  |
+| [You](https://open.spotify.com/track/0NVVI7x68BZqFXWsNkfNMv) | [Eric de Joté](https://open.spotify.com/artist/0JEX9uWA6GolbCcaqfD6rL) | [You](https://open.spotify.com/album/05ivnxOIaNNAj3zBFFNnpO) | 2:25 | 2023-09-26 |  |
 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 | 2023-03-10 |  |
 | [You Make It Look So Easy](https://open.spotify.com/track/1K0EF5MVFglZjojGngwn6P) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [You Make It Look So Easy](https://open.spotify.com/album/43RudrRuvcpO1umxMEZQWI) | 2:40 | 2023-03-10 |  |
 | [Young and in love](https://open.spotify.com/track/3gN3GhksEJrSi4V39bokVa) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Young and in love](https://open.spotify.com/album/6tkfWEvSlq8omjKmV32Qdr) | 2:06 | 2023-03-10 |  |

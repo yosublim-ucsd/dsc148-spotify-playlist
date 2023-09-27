@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno, Big One & Rusherking.
 
-362 songs - 23 hr 16 min
+363 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Fue Culpa del Amor](https://open.spotify.com/track/2PapQiMjbJ5ALCPnpwIk87) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Fue Culpa del Amor](https://open.spotify.com/album/4iXP6iThkVJY1Y6Zi0niPL) | 3:52 | 2021-12-24 | 2022-07-11 |
 | [Fuego y Pasion](https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:21 | 2021-12-24 |  |
 | [Fuera del Mundo](https://open.spotify.com/track/3oNx2PDf86Pibc0mS1nwKQ) | [Dani Guardia](https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf) | [Fuera del Mundo](https://open.spotify.com/album/1YWlaT2eIQctble1SrmdrU) | 3:31 | 2021-12-24 | 2022-07-04 |
-| [Gabriela](https://open.spotify.com/track/1LoDp9jyH2guSm5wQAy6Ei) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pidan que baje el volumen](https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC) | 4:28 | 2023-09-15 |  |
+| [Gabriela](https://open.spotify.com/track/1LoDp9jyH2guSm5wQAy6Ei) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pidan que baje el volumen](https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC) | 4:28 | 2023-09-15 | 2023-09-27 |
 | [Gabriela](https://open.spotify.com/track/5zvsu3ADMUm96R5XY3Xd7G) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No Me Pidan Que Baje el Volumen](https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY) | 4:28 | 2021-12-24 | 2023-09-21 |
 | [Gracias por Todo](https://open.spotify.com/track/3vZNBLqQQ3FK6gwZXsaQsI) | [Cachumba](https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R) | [Gracias por Todo](https://open.spotify.com/album/7bGURqaTiFKXpgO7eQt4fX) | 3:18 | 2022-08-12 | 2022-08-27 |
 | [Hola Bebe](https://open.spotify.com/track/3ty9mgcIIvgQ0j9qCmtUKy) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [Hola Bebe](https://open.spotify.com/album/2bLKhZCC42Tqm28MqmQAZ4) | 3:24 | 2023-01-13 | 2023-01-21 |
@@ -307,6 +307,7 @@
 | [Tacones Rojos](https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Tacones Rojos](https://open.spotify.com/album/2vipfyylc4YxP4J2tgf23r) | 3:04 | 2022-07-22 | 2023-09-03 |
 | [Te extraño](https://open.spotify.com/track/6nZwpyKnTEFK059OflV4a4) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Te extraño](https://open.spotify.com/album/35rMChRz2BVYaCkEa2gY8b) | 3:03 | 2022-10-28 | 2022-11-12 |
 | [Te Felicito](https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Te Felicito](https://open.spotify.com/album/4l0209Du1kilXZ4RojUfIJ) | 2:32 | 2022-08-05 | 2022-10-04 |
+| [Te hubieras ido antes](https://open.spotify.com/track/0UFblMYjI2whiXqupAz4gF) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [En la piel](https://open.spotify.com/album/6atk3EZyEKZF03JBdTeRVQ) | 5:10 | 2023-09-26 |  |
 | [Te Mentiría](https://open.spotify.com/track/0URzkqWsT0YCaV4Nskgwl7) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [25 \- Veinticinco](https://open.spotify.com/album/4fla3Qcwml4OLG6hOtkUG2) | 3:37 | 2022-07-22 |  |
 | [Te Mentiría](https://open.spotify.com/track/0WdttC6k9GGARGjFo3I8J1) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [25](https://open.spotify.com/album/4Izm5vwVnN28o2XxNi4pU2) | 3:37 | 2021-12-24 | 2022-07-29 |
 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 | 2021-12-24 | 2023-05-26 |

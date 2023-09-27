@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. El Tri en portada. ",
-  "num_followers": 1013210,
+  "num_followers": 1013284,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Tenochtitl\u00e1n",
-        "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "Tenochtitl\u00e1n",
-      "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "El Segundo Es Felino",
         "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 236266,
       "name": "Impacto",
       "url": "https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Tenochtitl\u00e1n",
+        "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "Tenochtitl\u00e1n",
+      "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Florecita Rockera",
-      "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Florecita Rockera",
+      "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Kinky (Remastered)",
-        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Soun Tha Mi Primer Amor - Remastered",
-      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "PRISMARAMA",
         "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 287613,
       "name": "Incendio de Amor/Carmelita",
       "url": "https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Soun Tha Mi Primer Amor - Remastered",
+      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -987,22 +987,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "\u00c9l No Lo Mat\u00f3",
-        "url": "https://open.spotify.com/album/0kYHzDHyOWhCjBDAqDgoM8"
+        "name": "Reluciente, Rechinante y Aterciopelado",
+        "url": "https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg"
       },
       "artists": [
         {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
         },
         {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 278934,
-      "name": "\u00c9l No Lo Mat\u00f3",
-      "url": "https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz"
+      "duration_ms": 291666,
+      "name": "Maligno (feat. Le\u00f3n Larregui)",
+      "url": "https://open.spotify.com/track/4JbaHnHxPaMXQG1NFT1Nem"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1023,22 +1023,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Reluciente, Rechinante y Aterciopelado",
-        "url": "https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg"
+        "name": "\u00c9l No Lo Mat\u00f3",
+        "url": "https://open.spotify.com/album/0kYHzDHyOWhCjBDAqDgoM8"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         },
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
         }
       ],
-      "duration_ms": 291666,
-      "name": "Maligno (feat. Le\u00f3n Larregui)",
-      "url": "https://open.spotify.com/track/4JbaHnHxPaMXQG1NFT1Nem"
+      "duration_ms": 278934,
+      "name": "\u00c9l No Lo Mat\u00f3",
+      "url": "https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Mun\u0303equita Sinte\u0301tica",
-        "url": "https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        },
-        {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
-        }
-      ],
-      "duration_ms": 283488,
-      "name": "Mun\u0303equita Sinte\u0301tica",
-      "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "D.D. Y Ponle Play",
         "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 274991,
       "name": "No Olvidamos",
       "url": "https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Mun\u0303equita Sinte\u0301tica",
+        "url": "https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "duration_ms": 283488,
+      "name": "Mun\u0303equita Sinte\u0301tica",
+      "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
+        "name": "Aqui",
+        "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198560,
+      "name": "De Mis Pasos",
+      "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 210986,
       "name": "Oro",
       "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
-        "name": "Aqui",
-        "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198560,
-      "name": "De Mis Pasos",
-      "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
     },
     {
       "added_at": "2023-09-22 06:00:00",

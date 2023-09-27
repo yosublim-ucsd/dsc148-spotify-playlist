@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:151OS9nfrfYQ8UlnakRMek">Baaba J</a>,  <a href="spotify:artist:0yGRgPiwbWQcQsMf7H7DmK">Yimeeka</a>, <a href="spotify:artist:2hVWBpjLW4Q7fboYz2pVYK">Moliy</a> + Mēl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,129 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,142 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

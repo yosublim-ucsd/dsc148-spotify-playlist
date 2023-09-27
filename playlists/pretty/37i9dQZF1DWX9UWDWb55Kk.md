@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,004 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,020 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

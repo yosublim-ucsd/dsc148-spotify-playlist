@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of hip\-hop tracks from South Asia\. Cover:  Channi Nattan & Inderpal Moga
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,150 likes - 52 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,222 likes - 52 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

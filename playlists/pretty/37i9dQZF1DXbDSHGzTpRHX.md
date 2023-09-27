@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,921 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,923 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 23 | [Do Better](https://open.spotify.com/track/2H3hRC6Tcy8GMzXducuWKe) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Do Better](https://open.spotify.com/album/1tKNjZbhTKWH4Hl4CyAZI1) | 3:33 |
 | 24 | [Harvard](https://open.spotify.com/track/6sqw8w1n1sopzGaNIwZL4N) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C) | 3:26 |
 | 25 | [Daytrip](https://open.spotify.com/track/5QTFijKBM9oCO5vH744k7r) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY), [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Daytrip](https://open.spotify.com/album/2MbEjelAESGKIBDL54OYeY) | 2:24 |
-| 26 | [Make You Wait](https://open.spotify.com/track/37f7JmemPNdPEJajylUrFz) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Three, Fever](https://open.spotify.com/album/3PK5pxy5QNNqIPvvXtAvQr) | 3:00 |
+| 26 | [Make You Wait](https://open.spotify.com/track/3XozinBpBtUq6pXOJEJsQZ) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Three, Fever](https://open.spotify.com/album/27ZvCKXQRqDb4R7scSAvad) | 3:00 |
 | 27 | [Luzon](https://open.spotify.com/track/0vInsOPBHyqtF5KYmyiNsv) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Luzon](https://open.spotify.com/album/3uWdP1qbPaBmVx1BEEtSLc) | 3:01 |
 | 28 | [dreamgurl](https://open.spotify.com/track/7l47dRm8jw7NMs0OFoQrrK) | [Besphrenz](https://open.spotify.com/artist/0VVJ5bIx1zXlBLi1GiP4yX), [Keith Goodwin](https://open.spotify.com/artist/3Q1T3DDlR4lY9kqIQsDhMn) | [dreamgurl](https://open.spotify.com/album/5dfy4vYwLnM8RLpV0DpM36) | 2:58 |
 | 29 | [mind games](https://open.spotify.com/track/36KJMSaMTtDHkF3m90avQc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [mind games](https://open.spotify.com/album/2wCYKDy70ayKcRquGlg7T5) | 3:41 |

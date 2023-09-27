@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Parimal Shais, MC Couper, Thirumali & Hanumankind
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,473 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,675 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 21 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 |
 | 22 | [All Divine](https://open.spotify.com/track/7mzu2WH5iRdKyBZVLZhHS2) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf), [Steve Knight](https://open.spotify.com/artist/6G5M4NdoEdfFdkZtcE0Ntg) | [All Divine](https://open.spotify.com/album/49ficLfuUA7y7Uczvf7IzQ) | 4:04 |
 | 23 | [Malsaram Ennodu Thanne](https://open.spotify.com/track/1jiH9jO3EzQ1BwdCoQXP0R) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Malsaram Ennodu Thanne](https://open.spotify.com/album/50unVeEWf2KAz83YOnU565) | 3:22 |
-| 24 | [Sancharare \- From "Sayanna Varthakal"](https://open.spotify.com/track/29S65rYTdRlHtY73A0Brrm) | [Sankar Sharma](https://open.spotify.com/artist/3hmaYZ6q0ZWzdbpz8B5kZE), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn) | [Sancharare \(From "Sayanna Varthakal"\)](https://open.spotify.com/album/6sqJVYteuCcT5alJQJvgQ7) | 3:20 |
+| 24 | [I'm a Mallu](https://open.spotify.com/track/3UlcuRM1VI5YdKhV8xzRX6) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru) | [I'm a Mallu](https://open.spotify.com/album/5ZGvMnAnwl9hxIIZ0mRwne) | 2:40 |
 | 25 | [Aana](https://open.spotify.com/track/4LK98zUvGsw2LtUA8LJzeq) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [Aana](https://open.spotify.com/album/3y4I3MczKrYz9YEncRBBEZ) | 3:32 |
-| 26 | [I'm a Mallu](https://open.spotify.com/track/3UlcuRM1VI5YdKhV8xzRX6) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru) | [I'm a Mallu](https://open.spotify.com/album/5ZGvMnAnwl9hxIIZ0mRwne) | 2:40 |
+| 26 | [Sancharare \- From "Sayanna Varthakal"](https://open.spotify.com/track/29S65rYTdRlHtY73A0Brrm) | [Sankar Sharma](https://open.spotify.com/artist/3hmaYZ6q0ZWzdbpz8B5kZE), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn) | [Sancharare \(From "Sayanna Varthakal"\)](https://open.spotify.com/album/6sqJVYteuCcT5alJQJvgQ7) | 3:20 |
 | 27 | [PANIPAALI](https://open.spotify.com/track/1BuUtMcQoplYtoiRUTLWTa) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [PANIPAALI](https://open.spotify.com/album/1q5r4D2xFAdPr16F4xYbI1) | 3:40 |
 | 28 | [Pambaram](https://open.spotify.com/track/1oR0JPBlacz2cwcphSmzgi) | [Street Academics](https://open.spotify.com/artist/0LZRSRpEniupzKWif9FXh6) | [Loop](https://open.spotify.com/album/7dfo3lWr4LUO0WjMCoFnP6) | 3:48 |
 | 29 | [Arbab](https://open.spotify.com/track/4ManWRme0LIg5QDX06V1OY) | [Rish NK](https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [Arbab](https://open.spotify.com/album/4zFW5SKlDD2TkeGRKKEv2T) | 2:11 |

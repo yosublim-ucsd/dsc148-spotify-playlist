@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 43697,
+  "num_followers": 43720,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801 / Anna Magdalena's Notebook (Fragments)",
+        "url": "https://open.spotify.com/album/2eCYStBziLfnCLBXu79MWw"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Janos Sebestyen",
+          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
+        }
+      ],
+      "duration_ms": 89040,
+      "name": "Clavierbuchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Minuet in G Major, BWV Anh. II 114",
+      "url": "https://open.spotify.com/track/62CN1hWMMR8JoPvNy0C1uM"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach",
         "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 453880,
       "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 1. [No Tempo Indication]",
       "url": "https://open.spotify.com/track/6XRjvKXktFulH9foC7teqH"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801 / Anna Magdalena's Notebook (Fragments)",
-        "url": "https://open.spotify.com/album/2eCYStBziLfnCLBXu79MWw"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Janos Sebestyen",
-          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
-        }
-      ],
-      "duration_ms": 89040,
-      "name": "Clavierbuchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Minuet in G Major, BWV Anh. II 114",
-      "url": "https://open.spotify.com/track/62CN1hWMMR8JoPvNy0C1uM"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -727,26 +727,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach: French Suites, BWV 812-817",
-        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 126602,
-      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
-      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach: Keyboard Partitas Nos. 1-6",
         "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 389706,
       "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
       "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach: French Suites, BWV 812-817",
+        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 126602,
+      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
+      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
     },
     {
       "added_at": "2022-08-19 10:45:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels\. Cover: Babsy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,055 likes - 237 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,117 likes - 237 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

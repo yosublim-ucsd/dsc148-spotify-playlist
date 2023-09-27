@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 661 songs - 1 day 9 hr 16 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 662 songs - 1 day 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -669,5 +669,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 659 | [Live From The Gutter](https://open.spotify.com/track/2uTG00P1DkhB97pdITkl2O) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:31 |
 | 660 | [Diamonds Dancing](https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 5:14 |
 | 661 | [Scholarships](https://open.spotify.com/track/0B5OTb36fzLayn6XQHg5A1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:29 |
+| 662 | [Thought It Was a Drought](https://open.spotify.com/track/5ihDGnhQgMA0F0tk9fNLlA) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 4:25 |
 
-Snapshot ID: `ODI0LDI3YTUyMGE2OTI1YzFjYWE3YzU0YTdiNWEwZGExN2RmOWRmZTUyYTI=`
+Snapshot ID: `ODI1LDkyMTk2YmVhNzljOGNmMTc4NjM2MjgyYTAzODk4NDYwMmQ0MzU2ZWE=`

@@ -4,10 +4,11 @@
 
 > und macht laune
 
-112 songs - 5 hr 19 min
+113 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [33 Max Verstappen](https://open.spotify.com/track/6OoGxii9mSxyt4JGab8PsG) | [Carte Blanq](https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o), [Maxx Power](https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5) | [33 Max Verstappen](https://open.spotify.com/album/7lBGYyVZ0yhpqZ3ol1CQ7i) | 2:50 | 2023-09-26 |  |
 | [61 Grad \(Deep House RMX\)](https://open.spotify.com/track/5HsrYtb503rCCWyZvGtf4v) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [TM](https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7) | [61 Grad \(Deep House RMX\)](https://open.spotify.com/album/4lT60ivI572gAiaChQ6cCw) | 1:53 | 2023-07-21 |  |
 | [About You Now \(How I Feel\)](https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [About You Now \(How I Feel\)](https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp) | 2:42 | 2023-09-15 |  |
 | [Airwaves](https://open.spotify.com/track/5CqkgDH8QZjSqqI3HmYxDD) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Airwaves](https://open.spotify.com/album/4ZylcATH7a5JkgNNGXxwhJ) | 2:58 | 2023-07-21 | 2023-08-26 |
@@ -68,7 +69,7 @@
 | [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 | 2023-07-28 |  |
 | [Maneater](https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI) | [Maneater](https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw) | 2:34 | 2023-07-21 | 2023-09-25 |
 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 | 2023-07-21 |  |
-| [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2023-07-21 |  |
+| [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2023-07-21 | 2023-09-27 |
 | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Shaun Baker](https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj) | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7) | 2:30 | 2023-07-21 |  |
 | [mietfrei](https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [mietfrei](https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH) | 2:21 | 2023-07-21 |  |
 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2023-07-21 |  |

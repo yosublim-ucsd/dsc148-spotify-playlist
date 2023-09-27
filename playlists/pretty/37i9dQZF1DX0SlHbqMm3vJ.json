@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Kemuel",
-  "num_followers": 214958,
+  "num_followers": 215016,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "ASE - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "ASE - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Don't Lie/See It Through - A COLORS SHOW",
         "url": "https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 338975,
       "name": "Don't Lie/See It Through - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "ASE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "ASE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
     },
     {
       "added_at": "2023-09-21 23:00:00",

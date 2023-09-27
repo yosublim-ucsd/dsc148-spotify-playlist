@@ -1,6 +1,6 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1765420,
+  "num_followers": 1765534,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Me Soltaste",
-      "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 267271,
       "name": "Manos de Tijera",
       "url": "https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Me Soltaste",
+      "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "\u00bfA D\u00f3nde Vamos?",
-        "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 229107,
-      "name": "Enam\u00f3rate De Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/1pDgS6HDNrrIawdhYEvI0s"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 238628,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "\u00bfA D\u00f3nde Vamos?",
+        "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 229107,
+      "name": "Enam\u00f3rate De Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/1pDgS6HDNrrIawdhYEvI0s"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 287733,
-      "name": "Recu\u00e9rdame",
-      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -615,6 +599,42 @@
       "duration_ms": 298293,
       "name": "Me va a extra\u00f1ar (aka Unchain My Heart)",
       "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 287733,
+      "name": "Recu\u00e9rdame",
+      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -651,26 +671,6 @@
       "duration_ms": 190360,
       "name": "Amor Ordinario",
       "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "B\u00e9same Bonito",
-        "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
-      },
-      "artists": [
-        {
-          "name": "Carmen DeLeon",
-          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "B\u00e9same Bonito",
-      "url": "https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "De M\u00e9xico",
         "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 199140,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "B\u00e9same Bonito",
+        "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
+      },
+      "artists": [
+        {
+          "name": "Carmen DeLeon",
+          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "B\u00e9same Bonito",
+      "url": "https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "De Pel\u00edcula",
-        "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "No Quer\u00edas Lastimarme",
-      "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "D\u00e9jame Ir",
         "url": "https://open.spotify.com/album/5MAHn88iqWSOsfXQ1GBLby"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 232743,
       "name": "D\u00e9jame Ir",
       "url": "https://open.spotify.com/track/3nymR2pRbiDq89qS2osIVX"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "No Quer\u00edas Lastimarme",
+      "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
     },
     {
       "added_at": "2023-09-15 04:01:00",

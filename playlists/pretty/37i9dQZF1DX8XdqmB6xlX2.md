@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XdqmB6xlX2.md) - [plain]
 
 > El hogar de tu nueva canción favorita\. Foto: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,431 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,479 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520,105 likes - 152 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,520,451 likes - 152 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

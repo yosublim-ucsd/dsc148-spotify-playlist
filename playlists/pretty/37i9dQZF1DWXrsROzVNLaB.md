@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,970 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,966 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 12 | [I Surrender](https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Poets & Saints](https://open.spotify.com/album/4Ep9pR8RIXphUEEkgeELBK) | 4:13 |
 | 13 | [Wake Up Sleeper](https://open.spotify.com/track/72X6vrEvMcadOLnXCBZnbv) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Wake Up Sleeper \- EP](https://open.spotify.com/album/0MhvhlFYutt9n9NGAYPzg5) | 2:47 |
 | 14 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
-| 15 | [Resurrection Day](https://open.spotify.com/track/36AKA4ge37GanDDTYKFg2g) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 3:43 |
-| 16 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 |
+| 15 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 |
+| 16 | [Resurrection Day](https://open.spotify.com/track/36AKA4ge37GanDDTYKFg2g) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 3:43 |
 | 17 | [To the Table](https://open.spotify.com/track/0qriSYsqivuTCm0J8mYICj) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker \(Deluxe Edition\)](https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N) | 4:00 |
 | 18 | [Grace Alone](https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Becoming Who We Are](https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif) | 3:38 |
 | 19 | [Even So Come \- Radio Version/Live](https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Even So Come \(Radio Version/Live\)](https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P) | 4:14 |
-| 20 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 |
-| 21 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 |
+| 20 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 |
+| 21 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 |
 | 22 | [Isn't He \(This Jesus\)](https://open.spotify.com/track/3ehg0c0FEpEA2lxc8R4j6N) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Isn't He \(This Jesus\)](https://open.spotify.com/album/6RjmjrxlN18E8vR04zwfMu) | 9:50 |
 | 23 | [Behold \(Then Sings My Soul\) \- Live](https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 6:46 |
 | 24 | [Light Up the Sky](https://open.spotify.com/track/1w3KRXDABnSmbVSwJL2c0N) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:41 |

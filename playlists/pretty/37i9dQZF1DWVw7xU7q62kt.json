@@ -1,6 +1,6 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: James Francis",
-  "num_followers": 33279,
+  "num_followers": 33322,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "THE HEIST",
+        "url": "https://open.spotify.com/album/0pTmaOqNhIt4Szm0l5pM8W"
+      },
+      "artists": [
+        {
+          "name": "Rob Araujo",
+          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Jumbled",
+      "url": "https://open.spotify.com/track/4GRqG2sOqaHKnHkkMaiuMF"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "SGJAZZ, Vol. 2",
         "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 238706,
       "name": "Fork In The Rhodes",
       "url": "https://open.spotify.com/track/3x5ZyzDcGUHVTfpKJXoevK"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "THE HEIST",
-        "url": "https://open.spotify.com/album/0pTmaOqNhIt4Szm0l5pM8W"
-      },
-      "artists": [
-        {
-          "name": "Rob Araujo",
-          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Jumbled",
-      "url": "https://open.spotify.com/track/4GRqG2sOqaHKnHkkMaiuMF"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Le club",
-        "url": "https://open.spotify.com/album/2z6MP9UZpaod9KNSKmKDOz"
-      },
-      "artists": [
-        {
-          "name": "The Offline",
-          "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Le club",
-      "url": "https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Nardis",
         "url": "https://open.spotify.com/album/2DL0X8hLdbYSKlBUIgTqG2"
       },
@@ -679,6 +663,38 @@
       "duration_ms": 138000,
       "name": "Nardis",
       "url": "https://open.spotify.com/track/0MO6SnNz53dYGbAb0UFBx9"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Le club",
+        "url": "https://open.spotify.com/album/2z6MP9UZpaod9KNSKmKDOz"
+      },
+      "artists": [
+        {
+          "name": "The Offline",
+          "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Le club",
+      "url": "https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "It's Ok, B U",
+        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 262846,
+      "name": "It's Ok, B U",
+      "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -871,42 +887,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "It's Ok, B U",
-        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 262846,
-      "name": "It's Ok, B U",
-      "url": "https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Better Worlds",
-        "url": "https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC"
-      },
-      "artists": [
-        {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        },
-        {
-          "name": "Kissamil\u00e9",
-          "url": "https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Better Worlds",
-      "url": "https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Jazz Cats",
         "url": "https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv"
       },
@@ -959,6 +939,26 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Better Worlds",
+        "url": "https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        },
+        {
+          "name": "Kissamil\u00e9",
+          "url": "https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Better Worlds",
+      "url": "https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Dots and Thoughts",
         "url": "https://open.spotify.com/album/7zlyNkcxef1R97lbzto7Ti"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 205334,
       "name": "Diamond Exchange",
       "url": "https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Deciphering The Message",
+        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 131160,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1007,22 +1023,6 @@
       "duration_ms": 125454,
       "name": "Blue Notes",
       "url": "https://open.spotify.com/track/7Gfidoax4lBjPGHkE4kCBK"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Deciphering The Message",
-        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 131160,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Chime",
-        "url": "https://open.spotify.com/album/7M0vcSJJuFrevzgrwjJ2EW"
-      },
-      "artists": [
-        {
-          "name": "Tom Doolie",
-          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
-        }
-      ],
-      "duration_ms": 109613,
-      "name": "Chime",
-      "url": "https://open.spotify.com/track/5V3TlTt1Jwg53UaUcF8MgS"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Realm of Ideas",
         "url": "https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 225245,
       "name": "Minding My Business",
       "url": "https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Chime",
+        "url": "https://open.spotify.com/album/7M0vcSJJuFrevzgrwjJ2EW"
+      },
+      "artists": [
+        {
+          "name": "Tom Doolie",
+          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
+        }
+      ],
+      "duration_ms": 109613,
+      "name": "Chime",
+      "url": "https://open.spotify.com/track/5V3TlTt1Jwg53UaUcF8MgS"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Verdant",
+        "url": "https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t"
+      },
+      "artists": [
+        {
+          "name": "khoa",
+          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
+        }
+      ],
+      "duration_ms": 146437,
+      "name": "Verdant",
+      "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "out and about with my love at the weekend",
         "url": "https://open.spotify.com/album/6K8UbVR79JVTMD5blpendd"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 139023,
       "name": "out and about with my love at the weekend",
       "url": "https://open.spotify.com/track/3ik0mKAt5Hq76jXPZYOI0Z"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Verdant",
-        "url": "https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t"
-      },
-      "artists": [
-        {
-          "name": "khoa",
-          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
-        }
-      ],
-      "duration_ms": 146437,
-      "name": "Verdant",
-      "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/7kOO8ODI0xLtD5JUX5IcNy"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Je Pense A Toi",
+      "url": "https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Rivers",
         "url": "https://open.spotify.com/album/24btn0dNAQauTIEK9sGQGq"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 160000,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/7kOO8ODI0xLtD5JUX5IcNy"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Je Pense A Toi",
-      "url": "https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Dominoes",
+        "url": "https://open.spotify.com/album/6Bt1kYgQdHFiFzo25V5KsB"
+      },
+      "artists": [
+        {
+          "name": "moondiver",
+          "url": "https://open.spotify.com/artist/1RwPRnLOygluoe1EJTCIgp"
+        }
+      ],
+      "duration_ms": 260153,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/0MgjvVDcrFz9Y4ECI4KNOM"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "synco",
         "url": "https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 260366,
       "name": "synco",
       "url": "https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Dominoes",
-        "url": "https://open.spotify.com/album/6Bt1kYgQdHFiFzo25V5KsB"
-      },
-      "artists": [
-        {
-          "name": "moondiver",
-          "url": "https://open.spotify.com/artist/1RwPRnLOygluoe1EJTCIgp"
-        }
-      ],
-      "duration_ms": 260153,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/0MgjvVDcrFz9Y4ECI4KNOM"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Bror",
+        "url": "https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9"
+      },
+      "artists": [
+        {
+          "name": "Ivan Blomqvist",
+          "url": "https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm"
+        }
+      ],
+      "duration_ms": 419133,
+      "name": "Hejd\u00e5 Kalvsn\u00e4s",
+      "url": "https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Dunt Dunt",
         "url": "https://open.spotify.com/album/0d44FiJn8kD8I5rS87GCEp"
       },
@@ -1867,38 +1883,18 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Bror",
-        "url": "https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9"
+        "name": "How It is Now",
+        "url": "https://open.spotify.com/album/2ok0mKvIlEg7jsFGYEZcV5"
       },
       "artists": [
         {
-          "name": "Ivan Blomqvist",
-          "url": "https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm"
+          "name": "Girls in Airports",
+          "url": "https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr"
         }
       ],
-      "duration_ms": 419133,
-      "name": "Hejd\u00e5 Kalvsn\u00e4s",
-      "url": "https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Annie's Tune",
-        "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        },
-        {
-          "name": "Charlie Stacey",
-          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
-        }
-      ],
-      "duration_ms": 263333,
-      "name": "Annie's Tune",
-      "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
+      "duration_ms": 294085,
+      "name": "Yield",
+      "url": "https://open.spotify.com/track/1lFql1YShXyrUMMMd8St6U"
     }
   ],
   "unique_name": "Jazzy Beats",

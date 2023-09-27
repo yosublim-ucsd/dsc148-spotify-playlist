@@ -2,7 +2,7 @@
 
 ### [Chill Tracks](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)
 
-> Música <a href="spotify:genre:edm\_dance">dance</a> suave.
+> Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
 1,528 songs - 4 day 9 hr 13 min
 
@@ -177,7 +177,7 @@
 | [Brainsugar](https://open.spotify.com/track/4ptzkAIjg1PxArxTGo9mBG) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 4:24 | 2020-05-18 | 2020-07-03 |
 | [Brand](https://open.spotify.com/track/6cLlBaaZIZZ7XvnsLYar8c) | [Ghasper](https://open.spotify.com/artist/0FyLoJJdvkCwTpgHt0un3K) | [Brand](https://open.spotify.com/album/4I2gchc5rMJlmWYqzLsZbC) | 4:06 | 2020-05-18 | 2020-07-03 |
 | [Brand New Day](https://open.spotify.com/track/0aBKKHRHtNFfTsF02qcqGM) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Brand New Day](https://open.spotify.com/album/20a92TYYR6TOdkTqpF4HEK) | 3:09 | 2020-05-22 | 2020-10-09 |
-| [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 | 2023-07-07 |  |
+| [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 | 2023-07-07 | 2023-09-27 |
 | [Brazilian Soul \(feat\. Sofi Tukker\) \- Gilligan Moss Remix](https://open.spotify.com/track/2R3GqU7JBAscpMIjFL3uzC) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Brazilian Soul \(feat\. Sofi Tukker\) \[Remixes\]](https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa) | 5:00 | 2020-03-20 | 2022-12-29 |
 | [Break Open Colour](https://open.spotify.com/track/0IoVnQAJTWNSD1qddEgrJH) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Don't Look Back](https://open.spotify.com/album/6e295vU5RvRKECmI5p8ZNm) | 4:36 | 2022-03-11 | 2022-07-29 |
 | [Breaking Apart](https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Breaking Apart](https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp) | 4:35 | 2023-05-05 |  |
@@ -354,7 +354,7 @@
 | [Easy On My Love](https://open.spotify.com/track/42vz4Q29BTq6MH4HFDtsi1) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Easy On My Love](https://open.spotify.com/album/3FL3JphfQUd1U0TCmToEnU) | 3:04 | 2020-05-18 | 2020-07-03 |
 | [ECHO \(LET GO\)](https://open.spotify.com/track/5wRrFp0QbRIMfWrdUdanE7) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [IZII](https://open.spotify.com/artist/161mym5juYaMTRpbcVqmFf) | [ECHO \(LET GO\)](https://open.spotify.com/album/6cokunXDFVhfjAQaaPTewC) | 4:05 | 2020-05-22 | 2020-07-03 |
 | [Egypt](https://open.spotify.com/track/6fXMWTckEitvM78hW5PilD) | [Diamans](https://open.spotify.com/artist/76tvOhyl5wZuIAvNNzm8Se) | [Egypt](https://open.spotify.com/album/4RGqIg01HZeuerR3ABzMcV) | 3:51 | 2020-03-20 | 2021-07-28 |
-| [Elenore](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:34 | 2023-02-24 | 2023-09-26 |
+| [Elenore](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:34 | 2023-02-24 |  |
 | [Elenore \- Sonnee Remix](https://open.spotify.com/track/5lvYn1cD6rUHkZCSRDuwwp) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY), [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Elenore \(Sonnee Remix\)](https://open.spotify.com/album/2TiXMwd38pdddcopaSBT4P) | 3:50 | 2023-05-26 | 2023-07-09 |
 | [Elounda](https://open.spotify.com/track/34IuscyAzI857oEJDoa3Qs) | [Brierley](https://open.spotify.com/artist/6ezlJbJEZYHeibXIoXWrxV) | [Free Life EP](https://open.spotify.com/album/60HpYf4DNcF4v919jqqEFR) | 3:37 | 2020-05-18 | 2020-07-03 |
 | [Embrace](https://open.spotify.com/track/3PdeXolnH5r6rN0ycXlHvf) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [Embrace](https://open.spotify.com/album/6pBg6D3fp68XXFusIejMI0) | 4:03 | 2020-05-18 | 2020-07-03 |

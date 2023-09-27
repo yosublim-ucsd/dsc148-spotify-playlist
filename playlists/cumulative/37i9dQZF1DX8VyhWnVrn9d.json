@@ -664,10 +664,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 177066,
       "name": "El Teterete",
       "url": "https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e1sicos de Oro",
+        "url": "https://open.spotify.com/album/7GmPWgPhUzQUVZXz6VCpTG"
+      },
+      "artists": [
+        {
+          "name": "Banda Sonora",
+          "url": "https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177098,
+      "name": "El Teterete",
+      "url": "https://open.spotify.com/track/13ij1Ky8BF3w0vClKmeqHz"
     },
     {
       "album": {
@@ -898,10 +916,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 167466,
       "name": "Eva Maria",
       "url": "https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e1sicos de Oro",
+        "url": "https://open.spotify.com/album/7GmPWgPhUzQUVZXz6VCpTG"
+      },
+      "artists": [
+        {
+          "name": "Banda Sonora",
+          "url": "https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167485,
+      "name": "Eva Maria",
+      "url": "https://open.spotify.com/track/21Np2DZB42OmfZEOkK1GuR"
     },
     {
       "album": {

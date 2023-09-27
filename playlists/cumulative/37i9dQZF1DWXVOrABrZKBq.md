@@ -2,7 +2,7 @@
 
 ### [Connexion Rap](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: Favé, Gazo
+> Le rap francophone est en forme\. Photo: Dave, Tiakola
 
 98 songs - 5 hr 8 min
 
@@ -41,7 +41,7 @@
 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 | 2023-06-30 |  |
 | [Filature](https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Hagra, Vol.1](https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn) | 2:25 | 2023-03-03 | 2023-03-18 |
 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 | 2023-06-30 |  |
-| [Flashback](https://open.spotify.com/track/02RGARryimtGfuawXbKj8P) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Flashback](https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt) | 2:56 | 2023-09-15 |  |
+| [Flashback](https://open.spotify.com/track/02RGARryimtGfuawXbKj8P) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Flashback](https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt) | 2:56 | 2023-09-15 | 2023-09-27 |
 | [FLEURS \(feat\. Tiakola\)](https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:30 | 2023-03-03 | 2023-03-18 |
 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 | 2023-03-03 | 2023-04-29 |
 | [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 | 2023-03-03 |  |

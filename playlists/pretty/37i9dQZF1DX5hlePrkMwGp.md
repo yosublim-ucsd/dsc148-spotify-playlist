@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 
 > Enjoy the romantic side of Ani
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,644 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,737 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 | 21 | [Don'u Don'u Don'u \- The Don's Romance](https://open.spotify.com/track/2kbxGCtWSV0f1ON720Bd4O) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Alisha Thomas](https://open.spotify.com/artist/2JlwKfQpBmPFip5JT4d7VG) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 3:15 |
 | 22 | [Un Paarvayil](https://open.spotify.com/track/35cs2sZ24XIGequNBXfdpv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD) | [Ethir Neechal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg) | 1:41 |
 | 23 | [So Baby \(From "Doctor"\)](https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ananthakrrishnan](https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR) | [So Baby \(From "Doctor"\)](https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp) | 4:12 |
-| 24 | [Ilamai Thirumbudhe \- From "Petta"](https://open.spotify.com/track/4IUGuoJ41g5fLIqsO1MJoU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 3:37 |
-| 25 | [Enna Solla \- The New Life of Tamizh](https://open.spotify.com/track/2109dBho14Lqh2wr8goqAP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Thangamagan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6L4ZkUiJTwo2e1E9e31ds3) | 3:35 |
+| 24 | [Enna Solla \- The New Life of Tamizh](https://open.spotify.com/track/2109dBho14Lqh2wr8goqAP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Thangamagan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6L4ZkUiJTwo2e1E9e31ds3) | 3:35 |
+| 25 | [Ilamai Thirumbudhe \- From "Petta"](https://open.spotify.com/track/4IUGuoJ41g5fLIqsO1MJoU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 3:37 |
 | 26 | [Kanne Kanne \(From "Ayogya"\)](https://open.spotify.com/track/6i5QcWVTuzM67pXgD9Q7Vw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Kanne Kanne \(From "Ayogya"\)](https://open.spotify.com/album/27NXMaoKgNJR3iCHWKnpA3) | 3:45 |
 | 27 | [Neeyum Naanum](https://open.spotify.com/track/7JEvkDd5QsVH4qZO4Q2gNO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 5:01 |
 | 28 | [Tamilselvi](https://open.spotify.com/track/7zEqY4oGrTVOx85VlRSymi) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Remo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF) | 3:50 |

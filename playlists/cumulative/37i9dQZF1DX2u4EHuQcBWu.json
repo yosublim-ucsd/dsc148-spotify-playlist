@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 284413,
       "name": "Ellas",
       "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
@@ -2850,6 +2850,28 @@
       "duration_ms": 308630,
       "name": "La Voz del Tiempo",
       "url": "https://open.spotify.com/track/4q5fjf243IDF7uCFwnUFuR"
+    },
+    {
+      "album": {
+        "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
+        "url": "https://open.spotify.com/album/30yi1BdQylOAW2Y80Fe8Ej"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Pinto",
+          "url": "https://open.spotify.com/artist/5RYdKjTrw6Z14Vwtd0f0nR"
+        },
+        {
+          "name": "Dar\u00edo Sztajnszrajber",
+          "url": "https://open.spotify.com/artist/453QsKyL010NjMRXi5hGcI"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367388,
+      "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
+      "url": "https://open.spotify.com/track/2LSLrUEM8IZ3WrUE4wv8vO"
     },
     {
       "album": {

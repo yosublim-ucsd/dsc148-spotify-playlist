@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Bertrand Chamayou
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,675 likes - 97 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,681 likes - 97 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

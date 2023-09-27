@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Mitski
 
-532 songs - 1 day 9 hr 17 min
+533 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Everything Looks Better \(In Hindsight\)](https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 5:28 | 2021-10-22 | 2023-05-20 |
 | [Exploding](https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Exploding](https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ) | 4:01 | 2023-09-22 |  |
 | [Eye of the Canyon](https://open.spotify.com/track/2dd8AouAUzOXkoeGYj5KXA) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Lost Dreams](https://open.spotify.com/album/6VMaL2uxCKWWFHi1NDIcyz) | 4:11 | 2023-09-15 |  |
-| [Eyes Wide Open \- From "North Star"](https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Eyes Wide Open \(From "North Star"\)](https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe) | 3:15 | 2022-01-14 |  |
+| [Eyes Wide Open \- From "North Star"](https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Eyes Wide Open \(From "North Star"\)](https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe) | 3:15 | 2022-01-14 | 2023-09-27 |
 | [Faith Healer](https://open.spotify.com/track/2hNXb6IDn3CvvHjjwauEM3) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Faith Healer](https://open.spotify.com/album/4poKpzHqjS4Ak1usjjNvvz) | 2:54 | 2021-10-22 | 2022-07-29 |
 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 | 2022-06-24 |  |
 | [Falling In And Out](https://open.spotify.com/track/051LILwSBCXRDbIO5fuyNs) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Stoalin'](https://open.spotify.com/album/0aGtxIJzVrtMV6xRwsrKHQ) | 4:39 | 2022-04-13 | 2022-04-15 |
@@ -395,6 +395,7 @@
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2022-06-24 |  |
 | [She Burns](https://open.spotify.com/track/4MbeEkEuBRe6l5ksYXqNXb) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [She Burns](https://open.spotify.com/album/2cKw7mUmiiLmDPDxdsW0zS) | 3:49 | 2021-10-22 | 2022-07-26 |
 | [Singularity](https://open.spotify.com/track/0PIQBYYUfjdo4LVAgnyWp4) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 3:42 | 2021-10-22 | 2022-04-28 |
+| [Sink;Swim](https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Ultrapure](https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9) | 2:57 | 2023-09-22 |  |
 | [Sit Here And Love Me](https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 3:25 | 2022-04-13 | 2023-04-11 |
 | [Sitting Room](https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 4:09 | 2022-04-13 | 2022-04-19 |
 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 | 2021-10-22 |  |

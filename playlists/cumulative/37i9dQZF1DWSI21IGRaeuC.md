@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-224 songs - 18 hr 27 min
+225 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Pin Pan](https://open.spotify.com/track/2tWPVMfQH0AvZBu5VMpXf9) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Matta \(COL\)](https://open.spotify.com/artist/5HmfPodhYUR4Js09zzeg2Z), [JUANPORDIOS!](https://open.spotify.com/artist/4DVSIgIIO92h4OdSSBBJlg) | [Pin Pan](https://open.spotify.com/album/7cY7EHWnbjDcphrqnMPF2k) | 3:37 | 2023-08-18 | 2023-09-24 |
 | [Poison](https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Poison](https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6) | 3:26 | 2022-08-12 |  |
 | [Porompompom](https://open.spotify.com/track/7CNtkmRjPUXyGfAleRmkvk) | [Freenzy Music](https://open.spotify.com/artist/70BgO4a6LVEzYiAgxubE3q), [Jack Baron](https://open.spotify.com/artist/4pxQgjDzsZiSnSjdxdYPK9) | [Porompompom](https://open.spotify.com/album/390gLCD73Jet1l6mrZsrZW) | 4:27 | 2023-08-18 | 2023-09-10 |
-| [Pronosticos Cachito](https://open.spotify.com/track/3lBQvzsycvySqg739cOGew) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Pronosticos Cachito](https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e) | 4:00 | 2023-09-08 |  |
+| [Pronosticos Cachito](https://open.spotify.com/track/3lBQvzsycvySqg739cOGew) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Pronosticos Cachito](https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e) | 4:00 | 2023-09-08 | 2023-09-27 |
 | [Provenance](https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Provenance](https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk) | 6:41 | 2023-02-17 |  |
 | [Purple Edge](https://open.spotify.com/track/0KX1WIkJABs6laxaMR4PzQ) | [Helmet](https://open.spotify.com/artist/1ed0tZqOmgMtPwfCeTy8fz) | [Purple Edge EP](https://open.spotify.com/album/6dc9GE1Rkg4He3frvm4iEW) | 8:36 | 2022-11-11 | 2022-11-24 |
 | [Rain](https://open.spotify.com/track/42EMEx5UEHL7NTeTx4IG8b) | [Tone Troy](https://open.spotify.com/artist/2QOdCLXGXs9uJbJ7LHPu31) | [Rain](https://open.spotify.com/album/6AouW9IqWg1GscmYMbrB2a) | 3:07 | 2023-08-25 | 2023-09-24 |
@@ -191,6 +191,7 @@
 | [Take My Hand](https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Take My Hand](https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj) | 5:17 | 2022-08-19 | 2022-09-19 |
 | [Targa \- Logic1000 Remix](https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Targa \(Logic1000 Remix\)](https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo) | 3:35 | 2023-08-11 |  |
 | [Te Voy A Dar](https://open.spotify.com/track/4eIsRh7sfRf94s4TtE4UWx) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc) | [Te Voy A Dar](https://open.spotify.com/album/0PQX0fBA76hR7jcrvzpRZX) | 3:05 | 2023-03-17 | 2023-04-03 |
+| [Tears In Berghain](https://open.spotify.com/track/0DJQZ0od70Z6SkuoEeOYAa) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI), [Kuldaboli](https://open.spotify.com/artist/3iqkQOfaf7oQtPfmGaMl4W) | [Tears In Berghain EP](https://open.spotify.com/album/7ez8S0rG2f4hec5NIJOaWY) | 4:27 | 2023-09-22 |  |
 | [Testimony](https://open.spotify.com/track/702TT2q83VQlC75h807I1J) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Testimony](https://open.spotify.com/album/000z99zZbT9Gfabqyw1THb) | 6:41 | 2022-06-03 | 2023-03-26 |
 | [That's Right](https://open.spotify.com/track/4DQQw8ILU9DUpkXhfVJYtQ) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [That's Right / The Maze](https://open.spotify.com/album/4Ea6xrbMghxpsECU18mqBS) | 5:58 | 2022-06-03 | 2022-07-28 |
 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB) | [The Attention Deficit Track](https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y) | 3:48 | 2022-06-24 |  |

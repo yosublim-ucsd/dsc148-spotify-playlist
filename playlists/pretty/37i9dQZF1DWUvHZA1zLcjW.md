@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 ### [Chilled Classical](https://open.spotify.com/playlist/37i9dQZF1DWUvHZA1zLcjW)
 
-> Chilled classical tunes to help you relax and unwind.
+> Piezas clásicas para relajarte y dejarte llevar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,002 likes - 109 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,107 likes - 109 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

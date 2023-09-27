@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,241 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,259 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 2 | [Barsaat Aa Gayi \- Acoustic](https://open.spotify.com/track/3u2TfgGswNKiTuBMB8cIXe) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Hina Khan](https://open.spotify.com/artist/4xKss8ZlA5A4abTQpqynah) | [Barsaat Aa Gayi \(Acoustic\)](https://open.spotify.com/album/1nOjUyG49pdq4P20pv7Nam) | 3:36 |
 | 3 | [Kyun Dhunde](https://open.spotify.com/track/5leuT90qq5V4glfgAs651F) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde](https://open.spotify.com/album/0YRCWHHUxmIfBpHvgCt52R) | 3:33 |
 | 4 | [Jhoothi Chai](https://open.spotify.com/track/5ISTUCwZ9SzLgoY0wdwYLN) | [Meiyang Chang](https://open.spotify.com/artist/4kil03O4zZQwIsvj3SGCxH) | [Jhoothi Chai](https://open.spotify.com/album/2MzAQ0GKFGqTBB2Y7lOB7o) | 2:56 |
-| 5 | [Tanhai](https://open.spotify.com/track/0sfw4y1AaYpbL2jkbi1fAu) | [Kiran](https://open.spotify.com/artist/1IUUdmeNEJ6YLrtWGdsOiJ), [Nivi](https://open.spotify.com/artist/1cmdu2iwKdME9GO1FJ7GYI), [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Khufiya](https://open.spotify.com/album/36F82HSVzS1II5X6rJtMfF) | 4:51 |
+| 5 | [Tanhai](https://open.spotify.com/track/6saOfBsCPh4D4gb2dk226w) | [Kiran](https://open.spotify.com/artist/1IUUdmeNEJ6YLrtWGdsOiJ), [Nivi](https://open.spotify.com/artist/1cmdu2iwKdME9GO1FJ7GYI), [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Khufiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BzqTX2mEkqEsxPw19KY9b) | 4:51 |
 | 6 | [Dil Bhara](https://open.spotify.com/track/1FufKIAGNgVJXmvxGih7MI) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4) | [Dil Bhara](https://open.spotify.com/album/18enJ7jL95iojIBGAnZwub) | 2:56 |
 | 7 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 |
 | 8 | [Ishq Ki Baat](https://open.spotify.com/track/40rKj95kijRhQThm1RHo0f) | [Milan](https://open.spotify.com/artist/6uabsr2THX1Yls9VsqeQti) | [Ishq Ki Baat](https://open.spotify.com/album/0tnHMFYxC1zZrdtvo2DqXH) | 1:31 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 27 | [Duniya Meri](https://open.spotify.com/track/3x2ug7XW1noOUe5s1ZP1UY) | [Abhinav Singh](https://open.spotify.com/artist/6SCpJdNbMI3NHc8fMAOOg8), [Akash Khanna](https://open.spotify.com/artist/4QoZjypJesrFq6e8LQI56O) | [Duniya Meri](https://open.spotify.com/album/5n5400vwsPBlI9ZZuA6prg) | 3:57 |
 | 28 | [Akela](https://open.spotify.com/track/6XJes28674sRmlHAlndb5o) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 5:01 |
 | 29 | [Naya Jahaan \- Stripped](https://open.spotify.com/track/3OUmQlsuMxUxcapjTotHMB) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Naya Jahaan \- Stripped](https://open.spotify.com/album/6V61uR9ixr8BOxYo84Xso3) | 2:15 |
-| 30 | [Ghulaam](https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Maara](https://open.spotify.com/artist/5BJIYkah1s9lnE1a0OO2Vn) | [Ghulaam](https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp) | 3:22 |
+| 30 | [Ghulaam](https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Maara...](https://open.spotify.com/artist/5BJIYkah1s9lnE1a0OO2Vn) | [Ghulaam](https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp) | 3:22 |
 | 31 | [Moonrise \- Acoustic Version](https://open.spotify.com/track/0lyVQP4aWjnbW3T3a21wh9) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise \(Acoustic Version\)](https://open.spotify.com/album/40UTvukiFB88tuyc3oN2NJ) | 2:44 |
 | 32 | [Bewakoofiyaan Kare](https://open.spotify.com/track/73mYX4I9cu6kA0Q8v1M8Z2) | [Anil Thakur](https://open.spotify.com/artist/1pUKvwa9hBCPDk8CP4gDKi), [Roshanaara Qureshi](https://open.spotify.com/artist/7G3sWx07js0ZjqND7YQvrF) | [Bewakoofiyaan Kare](https://open.spotify.com/album/16PdauoPKILtNmJepn4Qlf) | 3:00 |
 | 33 | [Tum Aur Main](https://open.spotify.com/track/29O6kviQMumVmWZDO14QSB) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Tum Aur Main](https://open.spotify.com/album/3uP0bCOGPkGSPKzfN3tJyU) | 2:43 |

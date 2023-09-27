@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > Os grandes hits do momento estão aqui! Foto: TOMORROW X TOGETHER, Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,436,847 likes - 53 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,437,479 likes - 53 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

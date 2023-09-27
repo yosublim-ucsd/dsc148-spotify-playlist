@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth joints from around the globe\. Cover: Yussef Dayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,701 likes - 85 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,873 likes - 85 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

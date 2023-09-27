@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-778 songs - 1 day 6 hr 18 min
+779 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [City Park](https://open.spotify.com/track/4lqEtgytnO3H4tDwLV3Tj3) | [Fleet Francis](https://open.spotify.com/artist/0USAl4ZgyskdW7gADLZkdn) | [City Park](https://open.spotify.com/album/6f5JLzj6RhOYa15xlLAlFX) | 2:30 | 2022-04-15 | 2022-05-20 |
 | [Climbing](https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Climbing](https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K) | 2:12 | 2023-09-08 |  |
 | [Close is best](https://open.spotify.com/track/773YRWgu38if25XiHHabJK) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [Close is best](https://open.spotify.com/album/3hUO3QzIhu4Xc9O4WjYXBJ) | 2:15 | 2022-04-15 |  |
+| [Close Your Eyes](https://open.spotify.com/track/0DC95ThOGhL8F1jIhcXmrp) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Close Your Eyes](https://open.spotify.com/album/6EYYGetEziBvVnSK5TbiPh) | 2:54 | 2023-09-22 |  |
 | [Cloud Tops](https://open.spotify.com/track/01mBhCK8spV3tNbVkisiCC) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh) | [Travels](https://open.spotify.com/album/1utT9lyWjLansgGNGrMe8l) | 2:53 | 2022-07-22 | 2022-12-10 |
 | [Cloudscapes](https://open.spotify.com/track/7q2l5DqNGfdDwZZBKqviM9) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Now / Again](https://open.spotify.com/album/2B35M85zMrnWhnsV8mW7i0) | 2:12 | 2022-04-15 | 2022-07-22 |
 | [Coffee 'n' Sugah](https://open.spotify.com/track/2cRJ29cz59xJlz7Teh7kbm) | [GoldAshez](https://open.spotify.com/artist/4r6xuiwVUX8BuSStUrDuuv) | [Coffee 'n' Sugah](https://open.spotify.com/album/2p8tBpESgua8e0u3IZFkVb) | 2:06 | 2022-04-15 | 2022-05-27 |
@@ -430,7 +431,7 @@
 | [Newfoundland](https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Newfoundland](https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH) | 2:49 | 2023-09-22 |  |
 | [NI](https://open.spotify.com/track/50lsn0khM1dfoMMSUaTGPy) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [NI](https://open.spotify.com/album/4ViJ12dBADvGUWNkwWy7Ym) | 2:41 | 2022-04-15 |  |
 | [night bumps](https://open.spotify.com/track/0LTCfhZhU886QSKP9sduPh) | [jag glum](https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN) | [night bumps](https://open.spotify.com/album/6GDq8CtNkCKtStLVVFZBkr) | 2:04 | 2022-06-17 |  |
-| [Night In](https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm) | [cpacesh1ps](https://open.spotify.com/artist/4BGrCgl16msxL2wmYB8LN7) | [Night In](https://open.spotify.com/album/4y5D2Bb8a4sdLU4IxWRiR7) | 2:11 | 2022-11-11 |  |
+| [Night In](https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm) | [cpacesh1ps](https://open.spotify.com/artist/4BGrCgl16msxL2wmYB8LN7) | [Night In](https://open.spotify.com/album/4y5D2Bb8a4sdLU4IxWRiR7) | 2:11 | 2022-11-11 | 2023-09-27 |
 | [Night Session](https://open.spotify.com/track/1zDp1QFkvTuqX8tPoljHyM) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Night Session](https://open.spotify.com/album/3JzhW3MaqUrJVLKNJIR3dY) | 2:05 | 2022-05-27 |  |
 | [night waves](https://open.spotify.com/track/4Ymj9hO8ocX1wkA54kZMaM) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/0YY5a07WEQ4kEhbsNOWiWx) | 1:34 | 2022-11-25 | 2022-12-10 |
 | [night waves](https://open.spotify.com/track/7DvDMIiYaDzzwTtM09pdp3) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/7MJCRCppqd1CEz04TmeoEu) | 1:34 | 2022-08-12 | 2022-12-04 |

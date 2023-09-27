@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Suzan & Freek
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,590 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,603 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 12 | [Vrouw Van De Wereld](https://open.spotify.com/track/3ssFHRmjHtu6ZwSd8mCjCj) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/303su5NnOpJDJzlO9YNrGT) | 2:38 |
 | 13 | [Verblind Door De Liefde](https://open.spotify.com/track/6hNBsoqPGscZ7n3AkylGUA) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD) | [Verblind Door De Liefde](https://open.spotify.com/album/4nibfUi3NOq37haZTqiMkI) | 2:11 |
 | 14 | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/track/1XlUhojwsf89SFoxuwvXW8) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/album/1kTXTth3kzIUg2mtiUxyOt) | 3:08 |
-| 15 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/7nyjc67qu7HJm24mjSspcb) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/6SY21zr7uf71GLBZxXsITj) | 3:07 |
+| 15 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/7lV6AmnEDfNwCMKLf9Tbmk) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/63zOiWwbAQgq0Ygfba01R4) | 3:07 |
 | 16 | [Niet Naar Huis](https://open.spotify.com/track/4ouO2G1LVrl7auDWbrI89h) | [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Niet Naar Huis](https://open.spotify.com/album/5aRqWwUO68r33MD812weKs) | 2:15 |
 | 17 | [Kapitein](https://open.spotify.com/track/39lfuCGvxLUu5zIx5C9Y1C) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Kapitein](https://open.spotify.com/album/5Dz5CfH58kYE9nAwNwiFH3) | 3:14 |
 | 18 | [Sinds Jij Me Verliet](https://open.spotify.com/track/3bvoxX2yaOEYhID3YZ4ed4) | [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Beste Zangers 2023 \(Aflevering 1 \- Douwe Bob\)](https://open.spotify.com/album/6JfYuS9zHxWyNqrDj1RMYZ) | 3:05 |

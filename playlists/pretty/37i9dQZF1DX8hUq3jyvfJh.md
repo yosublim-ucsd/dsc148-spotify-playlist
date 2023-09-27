@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Juliette e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,286 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,333 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 19 | [danos colaterais](https://open.spotify.com/track/6NpyaGzRIy3ZAyrWp7GAiC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [danos colaterais](https://open.spotify.com/album/3HqcMHOo5q5TKiW758pE9y) | 2:41 |
 | 20 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
 | 21 | [Pausa](https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Pausa](https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H) | 3:39 |
-| 22 | [A.N.A.N.D.A.](https://open.spotify.com/track/19N3cwfpPVn61lTNLPlG8X) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A.N.A.N.D.A.](https://open.spotify.com/album/6Sanh4zYrUafHTxedmfea1) | 2:27 |
-| 23 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
-| 24 | [Chá De Camomila](https://open.spotify.com/track/6HEbNUXxMipde8vEtSZ49N) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 3:11 |
+| 22 | [Desculpa te Ligar \- Versão Estendida, Ao Vivo](https://open.spotify.com/track/2gJaKTrXgaNQzAbNRCJSkK) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Desculpa te Ligar \(Versão Estendida, Ao Vivo\)](https://open.spotify.com/album/0ZcuzvxFwJXLhiidHmPJDQ) | 3:28 |
+| 23 | [Chá De Camomila](https://open.spotify.com/track/6HEbNUXxMipde8vEtSZ49N) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 3:11 |
+| 24 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
 | 25 | [INÍCIO DO FIM](https://open.spotify.com/track/1xJV8NLJOXS9X0gLw2KDqv) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 3:06 |
 | 26 | [Nem Eu Me Entendo](https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Múltipla](https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2) | 2:41 |
-| 27 | [Desculpa te Ligar \- Versão Estendida, Ao Vivo](https://open.spotify.com/track/2gJaKTrXgaNQzAbNRCJSkK) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Desculpa te Ligar \(Versão Estendida, Ao Vivo\)](https://open.spotify.com/album/0ZcuzvxFwJXLhiidHmPJDQ) | 3:28 |
+| 27 | [A.N.A.N.D.A.](https://open.spotify.com/track/19N3cwfpPVn61lTNLPlG8X) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A.N.A.N.D.A.](https://open.spotify.com/album/6Sanh4zYrUafHTxedmfea1) | 2:27 |
 | 28 | [desculpa, qualquer coisa](https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [tudo, eu, enfim.](https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq) | 3:54 |
 | 29 | [Amigos Não Se Pegam](https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Amigos Não Se Pegam](https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr) | 2:45 |
 | 30 | [Bomba](https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Bomba](https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo) | 2:16 |

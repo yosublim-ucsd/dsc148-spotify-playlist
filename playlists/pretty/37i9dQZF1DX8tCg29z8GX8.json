@@ -1,6 +1,6 @@
 {
   "description": "Beat the traffic blues with these killer tunes.",
-  "num_followers": 10606,
+  "num_followers": 10635,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
       },
       "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
         {
           "name": "Young Jonn",
           "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -295,18 +287,26 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Xtra Cool",
-        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },
       "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
         {
           "name": "Young Jonn",
           "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+      "duration_ms": 166956,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "For Daddy",
-        "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 153232,
-      "name": "For Daddy",
-      "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Contour",
         "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "For Daddy",
+        "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 153232,
+      "name": "For Daddy",
+      "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Kristy",
-        "url": "https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 260058,
-      "name": "Kristy",
-      "url": "https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
         "name": "Atele",
         "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/2mzILBdUdQi0KIo61th1k4"
+        "name": "Kristy",
+        "url": "https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 171764,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr"
+      "duration_ms": 260058,
+      "name": "Kristy",
+      "url": "https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Take Care of Yourself Blacko",
-        "url": "https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg"
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/2mzILBdUdQi0KIo61th1k4"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 178340,
-      "name": "SIMMER DOWN",
-      "url": "https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5"
+      "duration_ms": 171764,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+        "name": "Take Care of Yourself Blacko",
+        "url": "https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 182684,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
+      "duration_ms": 178340,
+      "name": "SIMMER DOWN",
+      "url": "https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 182684,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
       },
@@ -1495,30 +1495,6 @@
       "duration_ms": 150280,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
-        "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        },
-        {
-          "name": "Loud Urban Choir",
-          "url": "https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
-      "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1547,38 +1523,26 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
-        "name": "Avana",
-        "url": "https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC"
+        "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
+        "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 140339,
-      "name": "GoodSin",
-      "url": "https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Kolo Kolo",
-        "url": "https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Loud Urban Choir",
+          "url": "https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC"
         }
       ],
-      "duration_ms": 195135,
-      "name": "Kolo Kolo",
-      "url": "https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG"
+      "duration_ms": 189000,
+      "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
+      "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
     },
     {
       "added_at": "2023-09-21 23:00:00",
@@ -1599,6 +1563,38 @@
       "duration_ms": 184800,
       "name": "Life & Money - Remix",
       "url": "https://open.spotify.com/track/0zsh54Zhz2os1mEzgqnUpF"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Avana",
+        "url": "https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 140339,
+      "name": "GoodSin",
+      "url": "https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 205191,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
     }
   ],
   "unique_name": "Troski Rhythms",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,695 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,821 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 26 | [Dead World](https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:01 |
 | 27 | [As They Bloom](https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [As They Bloom](https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ) | 3:57 |
 | 28 | [Stuck In My Ways](https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Cheaper Than Therapy](https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb) | 4:48 |
-| 29 | [ANTAGONIST RETURNS](https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm) | [The Worst of Us](https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW), [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [THE AKUMA](https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW) | [ANTAGONIST RETURNS](https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb) | 3:37 |
-| 30 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
-| 31 | [I Spit On Your Grave](https://open.spotify.com/track/5TFvIb9M86dN3VgvHYqaPy) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 3:39 |
+| 29 | [I Spit On Your Grave](https://open.spotify.com/track/5TFvIb9M86dN3VgvHYqaPy) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 3:39 |
+| 30 | [ANTAGONIST RETURNS](https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm) | [The Worst of Us](https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW), [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [THE AKUMA](https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW) | [ANTAGONIST RETURNS](https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb) | 3:37 |
+| 31 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
 | 32 | [LXVE](https://open.spotify.com/track/1EN0MB0IzI9V7bagk3esAB) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [All Fine / eniF llA](https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW) | 3:11 |
 | 33 | [Gatekeepers](https://open.spotify.com/track/63pBzNTtzByif59lsK3dou) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:28 |
 | 34 | [Believe](https://open.spotify.com/track/2zdtGFbUCmv0PhkylSQiHu) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:36 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 49 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
 | 50 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 |
 | 51 | [Soul Revolution](https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution](https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel) | 3:34 |
-| 52 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 |
-| 53 | [Red River](https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS) | [Show Me A Dinosaur](https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ) | [Plantgazer](https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP) | 9:36 |
-| 54 | [Don't Wait](https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Don't Wait](https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO) | 2:08 |
-| 55 | [The Future Says Thank You](https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61) | 3:38 |
+| 52 | [Red River](https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS) | [Show Me A Dinosaur](https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ) | [Plantgazer](https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP) | 9:36 |
+| 53 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 |
+| 54 | [The Future Says Thank You](https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61) | 3:38 |
+| 55 | [Don't Wait](https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Don't Wait](https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO) | 2:08 |
 | 56 | [Camel Dancefloor](https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Camel Dancefloor](https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn) | 3:13 |
 | 57 | [Contact](https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP) | 3:34 |
 | 58 | [Russian Doll](https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Flowers of Evil](https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV) | 3:55 |

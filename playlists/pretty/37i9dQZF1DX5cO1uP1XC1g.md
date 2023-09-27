@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The biggest Arabic hits all in one place\. Cover:  <a href="https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo?si=XdZy\-xaoSuyZh6p4EsBj1Q">Nawal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,365 likes - 44 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,460 likes - 44 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

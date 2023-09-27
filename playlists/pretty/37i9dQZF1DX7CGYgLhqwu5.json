@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 369177,
+  "num_followers": 369280,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Me And Bobby McGee",
-      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Lost Country Hits of the 60s",
         "url": "https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 150093,
       "name": "It's Such A Pretty World Today",
       "url": "https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Me And Bobby McGee",
+      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Buck Owens Country Legends",
+        "url": "https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 142956,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "The Essential George Jones",
         "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Buck Owens Country Legends",
-        "url": "https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 142956,
-      "name": "Above And Beyond",
-      "url": "https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Tammy's Greatest Hits",
         "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 134786,
-      "name": "Just Between You and Me",
-      "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 139733,
       "name": "Am I Losing You",
       "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 134786,
+      "name": "Just Between You and Me",
+      "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
     },
     {
       "added_at": "2023-05-19 04:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 156782,
+  "num_followers": 156851,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Maybe It's Ok",
+      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Beloved",
         "url": "https://open.spotify.com/album/6xzgb1SLbb9yC3fONCwYI1"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 237146,
       "name": "Love Broke Thru",
       "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Maybe It's Ok",
-      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -583,22 +583,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Hope In Front of Me",
-        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 217655,
-      "name": "Hope in Front of Me",
-      "url": "https://open.spotify.com/track/2t8NsMho4AegF1wMGxvgj5"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "The Altar and The Door",
         "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 266106,
       "name": "East To West",
       "url": "https://open.spotify.com/track/1wV6lCsV2PCeVZlyGTkVPt"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 217655,
+      "name": "Hope in Front of Me",
+      "url": "https://open.spotify.com/track/2t8NsMho4AegF1wMGxvgj5"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -883,22 +883,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "HARD CUTS: Songs from the H A R D L O V E Sessions",
-        "url": "https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "WALKING ON WATER",
-      "url": "https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "I Will Follow",
         "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 208480,
       "name": "He Knows",
       "url": "https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "HARD CUTS: Songs from the H A R D L O V E Sessions",
+        "url": "https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 246933,
+      "name": "WALKING ON WATER",
+      "url": "https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf"
     },
     {
       "added_at": "2020-07-23 14:38:16",

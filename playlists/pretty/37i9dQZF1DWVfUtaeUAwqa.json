@@ -1,6 +1,6 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7419,
+  "num_followers": 7418,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Paul Barbarin & His New Orleans Jazz Band",
+        "url": "https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx"
+      },
+      "artists": [
+        {
+          "name": "Paul Barbarin & His New Orleans Jazz Band",
+          "url": "https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS"
+        }
+      ],
+      "duration_ms": 315600,
+      "name": "Bugle Boy March",
+      "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Marie Laveau",
         "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 179573,
       "name": "Roses of Picardy",
       "url": "https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Paul Barbarin & His New Orleans Jazz Band",
-        "url": "https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx"
-      },
-      "artists": [
-        {
-          "name": "Paul Barbarin & His New Orleans Jazz Band",
-          "url": "https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS"
-        }
-      ],
-      "duration_ms": 315600,
-      "name": "Bugle Boy March",
-      "url": "https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2"
     },
     {
       "added_at": "2020-08-19 17:19:14",

@@ -12487,6 +12487,24 @@
     },
     {
       "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265213,
+      "name": "Thought It Was a Drought",
+      "url": "https://open.spotify.com/track/5ihDGnhQgMA0F0tk9fNLlA"
+    },
+    {
+      "album": {
         "name": "PRE5L",
         "url": "https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
-  "num_followers": 1824,
+  "num_followers": 1826,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
+        "name": "One Bite",
+        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "One Bite",
+      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 190144,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
-        "name": "One Bite",
-        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "One Bite",
-      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 180172,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
         "name": "Nfa",
         "url": "https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz"
       },
@@ -471,34 +487,18 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
-        "name": "Chai Mata",
-        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
+        "name": "Omwana",
+        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
       },
       "artists": [
         {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+          "name": "Juliana Kanyomozi",
+          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Chai Mata",
-      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 180172,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
+      "duration_ms": 212903,
+      "name": "Omwana",
+      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
-        "name": "Omwana",
-        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
+        "name": "Chai Mata",
+        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
       },
       "artists": [
         {
-          "name": "Juliana Kanyomozi",
-          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Omwana",
-      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
+      "duration_ms": 175000,
+      "name": "Chai Mata",
+      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -567,46 +567,6 @@
       "duration_ms": 185939,
       "name": "Bwereere",
       "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
-        }
-      ],
-      "duration_ms": 172016,
-      "name": "Bega Bega",
-      "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -663,6 +623,46 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+        }
+      ],
+      "duration_ms": 172016,
+      "name": "Bega Bega",
+      "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
         "name": "CHERRY SWEET",
         "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 136818,
       "name": "Your Number",
       "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
+        "name": "Omwenge",
+        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "Omwenge",
+      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -807,22 +823,6 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
-        "name": "Omwenge",
-        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "Omwenge",
-      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
         "name": "Chai We Njaye",
         "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 165015,
       "name": "Chai We Njaye",
       "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9"
+      },
+      "artists": [
+        {
+          "name": "Recho Rey",
+          "url": "https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14"
+        }
+      ],
+      "duration_ms": 164963,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -859,18 +875,22 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9"
+        "name": "Ability",
+        "url": "https://open.spotify.com/album/7snzcqObYYgEgCzXPXCjqe"
       },
       "artists": [
         {
-          "name": "Recho Rey",
-          "url": "https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14"
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
         }
       ],
-      "duration_ms": 164963,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu"
+      "duration_ms": 174706,
+      "name": "Ability",
+      "url": "https://open.spotify.com/track/2WfykADENkOGFjTxL8I5Cs"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -903,22 +923,6 @@
       "duration_ms": 204289,
       "name": "Bbuba",
       "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
     }
   ],
   "unique_name": "Made In Uganda",

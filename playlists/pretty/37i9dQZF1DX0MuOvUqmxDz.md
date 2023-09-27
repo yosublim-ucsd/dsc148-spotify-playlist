@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,156 likes - 160 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,152 likes - 160 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

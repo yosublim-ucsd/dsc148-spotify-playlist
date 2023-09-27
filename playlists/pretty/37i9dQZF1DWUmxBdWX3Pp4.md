@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Duki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,590 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,032 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 17 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 |
 | 18 | [MI CIUDAD](https://open.spotify.com/track/4CQmxttSVcdfdf0B7cWqJR) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [MI CIUDAD](https://open.spotify.com/album/05uxQGOTCeBXhdofQ9U15S) | 3:40 |
 | 19 | [Dos Mil 16](https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:28 |
-| 20 | [don't liE](https://open.spotify.com/track/7GpSrZ9BAnu5l5ahjRS8KC) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 3:33 |
+| 20 | [don't liE](https://open.spotify.com/track/7wX28pRv3sTqA1EdjlFkkj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Antes de Ameri](https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR) | 3:33 |
 | 21 | [Padres](https://open.spotify.com/track/0Tr5TQo7sJ36Y8VZ5yi4t3) | [Shishigang Records](https://open.spotify.com/artist/2DywQB5g7Vvlnu4qvNmdiu), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Padres](https://open.spotify.com/album/3WjNtsro7vdlBg9k0NBbfD) | 4:21 |
 | 22 | [GLOCK](https://open.spotify.com/track/2n90r0iNEEKNd5DMf3n1oH) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [GLOCK](https://open.spotify.com/album/6szXrRHR88tVUbHBZMBH0S) | 1:57 |
 | 23 | [Mi Bruja](https://open.spotify.com/track/6jU9HGQhLCUuA3jmwmxQCo) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Mi Bruja](https://open.spotify.com/album/5Ol2T2oQpuxa9JZMij9ES6) | 2:37 |

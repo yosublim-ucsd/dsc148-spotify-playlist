@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: ITZY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,195 likes - 20 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,197 likes - 20 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

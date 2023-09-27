@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Kemuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,958 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,016 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 52 | [Busy Body](https://open.spotify.com/track/0lbVaIuvvZvK499elqT7uX) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Busy Body](https://open.spotify.com/album/6oFUkKyLd51aEtcsFEDBuT) | 2:42 |
 | 53 | [Not Worthy \(feat\. Nonso Amadi\)](https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Not Worthy \(feat\. Nonso Amadi\)](https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g) | 3:12 |
 | 54 | [Honest](https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:02 |
-| 55 | [ASE \- A COLORS SHOW](https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [ASE \- A COLORS SHOW](https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E) | 2:44 |
-| 56 | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS) | 5:38 |
+| 55 | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS) | 5:38 |
+| 56 | [ASE \- A COLORS SHOW](https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [ASE \- A COLORS SHOW](https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E) | 2:44 |
 | 57 | [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 |
 | 58 | [Therapy](https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:20 |
 | 59 | [Lose Ya](https://open.spotify.com/track/0a2V2dT53tbO9SpyQMDvGo) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:00 |

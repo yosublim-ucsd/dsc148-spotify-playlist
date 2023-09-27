@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > Light on Rabanne’s SS24 Runway for Paris Fashion Week, Soundtrack by Creative Director, Julien Dossena.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,201 likes - 36 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,146 likes - 36 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

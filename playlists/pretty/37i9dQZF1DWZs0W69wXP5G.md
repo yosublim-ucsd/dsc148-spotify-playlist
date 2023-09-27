@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover: Ryan Gosling in Barbie
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,872 likes - 85 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,895 likes - 85 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

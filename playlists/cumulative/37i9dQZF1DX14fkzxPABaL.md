@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [24/7 \- Acústico](https://open.spotify.com/track/0qf57jvmIzs9Bam4f3b4t0) | [luan savatge](https://open.spotify.com/artist/1Izsp4UpSef32R8RuRQhfh) | [24/7 \(Acústico\)](https://open.spotify.com/album/0F4ycnrXgLpBeXW3rHDaUR) | 2:08 | 2022-10-07 |  |
+| [24/7 \- Acústico](https://open.spotify.com/track/0qf57jvmIzs9Bam4f3b4t0) | [León Cordero](https://open.spotify.com/artist/6qVPuVTRw9e4lqnAttpTBh) | [24/7 \(Acústico\)](https://open.spotify.com/album/0F4ycnrXgLpBeXW3rHDaUR) | 2:08 | 2022-10-07 |  |
 | [A Mi Lado](https://open.spotify.com/track/5Qw9OHZdAX40qw5hZCU0BS) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [A Mi Lado](https://open.spotify.com/album/05l6EnHyQrjPhCP24EzjKi) | 3:17 | 2022-10-28 |  |
 | [A Veces Bien Y A Veces Mal](https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [A Veces Bien Y A Veces Mal](https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci) | 2:25 | 2022-04-15 |  |
 | [Acaramelao](https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:05 | 2022-01-14 |  |

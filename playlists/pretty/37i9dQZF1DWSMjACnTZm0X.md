@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ?si=prRrjUtGQxujNJuF3xT1rA">Sarz</a> and <a href="https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M?si=tyHvIZCzRHCIxQkovn6nXA">Zuchu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,628 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,629 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

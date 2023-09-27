@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Briston Maroney",
-  "num_followers": 75522,
+  "num_followers": 75577,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "to Perth, before the border closes",
-        "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
+        "name": "Lovers to Strangers",
+        "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
         }
       ],
-      "duration_ms": 176733,
-      "name": "to Perth, before the border closes",
-      "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
+      "duration_ms": 174086,
+      "name": "Lovers to Strangers",
+      "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Lovers to Strangers",
-        "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
+        "name": "to Perth, before the border closes",
+        "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
       },
       "artists": [
         {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
         }
       ],
-      "duration_ms": 174086,
-      "name": "Lovers to Strangers",
-      "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
+      "duration_ms": 176733,
+      "name": "to Perth, before the border closes",
+      "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Come June",
-        "url": "https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg"
-      },
-      "artists": [
-        {
-          "name": "Mitch Rowland",
-          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
-        }
-      ],
-      "duration_ms": 216964,
-      "name": "Come June",
-      "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Kansas",
         "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 211734,
       "name": "Kansas",
       "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Come June",
+        "url": "https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg"
+      },
+      "artists": [
+        {
+          "name": "Mitch Rowland",
+          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
+        }
+      ],
+      "duration_ms": 216964,
+      "name": "Come June",
+      "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Why You?",
-        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "Why You?",
-      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Good and Green Again",
         "url": "https://open.spotify.com/album/0Yak3Y7E8UjlUGSEn4DUuM"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 238461,
       "name": "Love Farewell",
       "url": "https://open.spotify.com/track/6cvKWfzh1NTJMWXaAIVt63"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Why You?",
+        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "Why You?",
+      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 462500,
       "name": "Mohabbat",
       "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+        "name": "Ohio",
+        "url": "https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF"
       },
       "artists": [
         {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
         }
       ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
+      "duration_ms": 202204,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Ohio",
-        "url": "https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF"
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
       },
       "artists": [
         {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
         }
       ],
-      "duration_ms": 202204,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF"
+      "duration_ms": 252454,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 252454,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+      "duration_ms": 141946,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "As You Are",
-        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 141946,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Holdup",
         "url": "https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 155262,
       "name": "Holdup",
       "url": "https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Blue Sea",
-        "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
-      },
-      "artists": [
-        {
-          "name": "RICEWINE",
-          "url": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
-        }
-      ],
-      "duration_ms": 195514,
-      "name": "Blue Sea",
-      "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Blue Sea",
+        "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
+      },
+      "artists": [
+        {
+          "name": "RICEWINE",
+          "url": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
+        }
+      ],
+      "duration_ms": 195514,
+      "name": "Blue Sea",
+      "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "what we leave behind",
         "url": "https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 253162,
       "name": "Triumph",
       "url": "https://open.spotify.com/track/4CJeSWcw7jtHCmxnuwNXXg"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Everything I had",
+      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Everything I had",
-      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Sunburn Fades",
         "url": "https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 233600,
       "name": "Sunburn Fades",
       "url": "https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Garment Bag",
-        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 145308,
-      "name": "Garment Bag",
-      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Spell",
         "url": "https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 247267,
       "name": "Spell",
       "url": "https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Garment Bag",
+        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 145308,
+      "name": "Garment Bag",
+      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "from here on out",
-        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
-      },
-      "artists": [
-        {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
-        }
-      ],
-      "duration_ms": 271421,
-      "name": "from here on out",
-      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "gr\u00e6",
         "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 218413,
       "name": "Polly",
       "url": "https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "from here on out",
+        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 271421,
+      "name": "from here on out",
+      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1747,6 +1747,22 @@
       "duration_ms": 247506,
       "name": "Bad girl",
       "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "serious person (part 2)",
+        "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "duration_ms": 198631,
+      "name": "alien",
+      "url": "https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1875,22 +1891,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
-      },
-      "artists": [
-        {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Bury Your Horses",
         "url": "https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS"
       },
@@ -1907,18 +1907,34 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "serious person (part 2)",
-        "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
       "artists": [
         {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
         }
       ],
-      "duration_ms": 198631,
-      "name": "alien",
-      "url": "https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I"
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1955,6 +1971,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Humor",
+        "url": "https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR"
+      },
+      "artists": [
+        {
+          "name": "tofusmell",
+          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
+        }
+      ],
+      "duration_ms": 136119,
+      "name": "Basil Noodles",
+      "url": "https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Coyotes",
         "url": "https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI"
       },
@@ -1971,22 +2003,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 222800,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/6kmeI9upOHk6TRSi2StNlr"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Humor",
-        "url": "https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR"
-      },
-      "artists": [
-        {
-          "name": "tofusmell",
-          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
-        }
-      ],
-      "duration_ms": 136119,
-      "name": "Basil Noodles",
-      "url": "https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Quitters",
-        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 208911,
-      "name": "Rubberneckers",
-      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Out of My Province",
         "url": "https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 287150,
       "name": "Oh Canada",
       "url": "https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Quitters",
+        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 208911,
+      "name": "Rubberneckers",
+      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
     }
   ],
   "unique_name": "Folk Arc",

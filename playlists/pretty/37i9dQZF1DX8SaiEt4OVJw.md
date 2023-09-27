@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > The Rugby World Cup is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,417 likes - 30 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,427 likes - 30 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

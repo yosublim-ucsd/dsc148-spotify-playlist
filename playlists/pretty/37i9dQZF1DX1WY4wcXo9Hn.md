@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WY4wcXo9Hn.md) - [plain]
 
 > i can picture it after all these days
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,075 likes - 90 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,081 likes - 90 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

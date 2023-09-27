@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,511 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,513 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 29 | [Christmas Every Day](https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Christmas Every Day](https://open.spotify.com/album/4ViPUv1NUYHuBpfNX3gkVL) | 3:46 |
 | 30 | [Xmas Has Been X'ed](https://open.spotify.com/track/40GMBdqqTwa2A1pGZEfOxO) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 2:43 |
 | 31 | [I Won't Be Home For Christmas](https://open.spotify.com/track/41olw7iIGVyds8dnSR9pb0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [I Won't Be Home For Christmas](https://open.spotify.com/album/6aXNm9ZaI6eKoRvaVBwU9j) | 3:18 |
-| 32 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 |
-| 33 | [Deck the Halls](https://open.spotify.com/track/0dc9SYWwvA4LtvMFsHicQs) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 1:21 |
+| 32 | [Deck the Halls](https://open.spotify.com/track/0dc9SYWwvA4LtvMFsHicQs) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 1:21 |
+| 33 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 |
 | 34 | [I'm With You](https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [I'm With You](https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq) | 4:04 |
 | 35 | [Fool's Holiday](https://open.spotify.com/track/3s44CRFEl7bbZcYoervR3L) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:43 |
 | 36 | [White Christmas](https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:49 |
 | 37 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs) | 3:07 |
 | 38 | [Forget December](https://open.spotify.com/track/2BHNw4MANcwKf69MF4LR8z) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Played In Space: The Best of Something Corporate](https://open.spotify.com/album/0xmgh2wvcRW6jNZDq2YTmR) | 3:12 |
 | 39 | [Jack Skellington](https://open.spotify.com/track/3n6jtHaCd5Jf06akv6B8Ue) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [Jack Skellington](https://open.spotify.com/album/3F0gEqWQO2FXYcSSmSPcZp) | 2:53 |
-| 40 | [Christmas Lights](https://open.spotify.com/track/5Kl7ZklgYOFjNWTFk5Q5QL) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 4:01 |
-| 41 | [We Wish You a Merry Christmas](https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 2:12 |
+| 40 | [We Wish You a Merry Christmas](https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 2:12 |
+| 41 | [Christmas Lights](https://open.spotify.com/track/5Kl7ZklgYOFjNWTFk5Q5QL) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 4:01 |
 | 42 | [The Season's Upon Us](https://open.spotify.com/track/1gSmN84niQf7DZSCCWfOyN) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Season's Upon Us](https://open.spotify.com/album/0eX2dIB3Ce7t32RjWoppJJ) | 4:02 |
 | 43 | [12 Days Of A Pop\-Punk Christmas](https://open.spotify.com/track/3a0JYuE4yo9xtGon59a7t9) | [Jarrod Alonge](https://open.spotify.com/artist/3zLWOB0I86EiVgG5NrX1ht) | [Punk Goes Christmas \(Deluxe\)](https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF) | 3:27 |
 | 44 | [Hava Nagila](https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Ruin Jonny's Bar Mitzvah](https://open.spotify.com/album/2ghotUjHKIAK4g2FYb316n) | 3:41 |

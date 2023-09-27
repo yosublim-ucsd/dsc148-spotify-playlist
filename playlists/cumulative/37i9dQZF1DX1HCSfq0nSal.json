@@ -8739,6 +8739,24 @@
     },
     {
       "album": {
+        "name": "TROYA",
+        "url": "https://open.spotify.com/album/6lwxRxjLpoyE1BFnWumftN"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163173,
+      "name": "TROYA",
+      "url": "https://open.spotify.com/track/1CEdDExqYCaf9UB3nwsBZs"
+    },
+    {
+      "album": {
         "name": "Tuenti (Remix)",
         "url": "https://open.spotify.com/album/5tvMf5MkyB97XVuVLa4xSd"
       },

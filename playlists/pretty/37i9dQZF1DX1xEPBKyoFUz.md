@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Put your pedal to the metal with an exclusive playlist co\-curated by the cast of Twisted Metal, streaming now on <a href="https://www.peacocktv.com/stream\-tv/twisted\-metal?cid=2307spotifypkerndwbjny376&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_redir&utm\_term=spotifyusers&utm\_content=NA">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,253 likes - 19 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,247 likes - 19 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

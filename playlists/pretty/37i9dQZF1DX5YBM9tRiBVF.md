@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women at full volume!  On the cover this month: <a href="spotify:artist:5L88UL7xuw4CzYyzxqwgBz">Dina Ayada</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,525 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,526 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

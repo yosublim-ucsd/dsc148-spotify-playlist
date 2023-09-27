@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Luciano Pereyra & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,119 likes - 101 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,245 likes - 101 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 86 | [No Hay Más](https://open.spotify.com/track/0uf97jURvAdpFCmM0hdK7w) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [No Hay Más](https://open.spotify.com/album/7hZuz2n7O4UH39agFYIje6) | 3:13 |
 | 87 | [Malibu](https://open.spotify.com/track/6no81SKcduoJ0L8AoO4PP7) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Malibu](https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU) | 2:31 |
 | 88 | [Uno Más Uno](https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Uno Más Uno](https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov) | 3:09 |
-| 89 | [24/7 \- Acústico](https://open.spotify.com/track/0qf57jvmIzs9Bam4f3b4t0) | [luan savatge](https://open.spotify.com/artist/1Izsp4UpSef32R8RuRQhfh) | [24/7 \(Acústico\)](https://open.spotify.com/album/0F4ycnrXgLpBeXW3rHDaUR) | 2:08 |
+| 89 | [24/7 \- Acústico](https://open.spotify.com/track/0qf57jvmIzs9Bam4f3b4t0) | [León Cordero](https://open.spotify.com/artist/6qVPuVTRw9e4lqnAttpTBh) | [24/7 \(Acústico\)](https://open.spotify.com/album/0F4ycnrXgLpBeXW3rHDaUR) | 2:08 |
 | 90 | [Cambiar el Destino](https://open.spotify.com/track/3crnfOW3frAX6OBGr2ARrD) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Cambiar el Destino](https://open.spotify.com/album/525KnEdbZfVNh8rdWSdN6d) | 3:12 |
 | 91 | [Hasta El Alma](https://open.spotify.com/track/0zFCX9V9s8lszA5Ppli9Fq) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Hasta El Alma](https://open.spotify.com/album/5Vx1rrlSJiEiASuZ5c7dAw) | 3:09 |
 | 92 | [Una Lágrima y Un Beso](https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Una Lágrima y Un Beso](https://open.spotify.com/album/5rnUwBTdluUlt8sJIxyRCS) | 3:20 |

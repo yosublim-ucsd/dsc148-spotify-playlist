@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away with your favorite tropical tunes, featuring Marc Anthony.",
-  "num_followers": 76137,
+  "num_followers": 76206,
   "original_name": "SABOR",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Asondeguerra",
-        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 191106,
-      "name": "Bachata En Fukuoka",
-      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "FIVE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 196480,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Asondeguerra",
+        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Bachata En Fukuoka",
+      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "SEROTONINA",
-        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 137967,
-      "name": "SIN CORAZ\u00d3N",
-      "url": "https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 295640,
       "name": "Cara de Ni\u00f1o",
       "url": "https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "SEROTONINA",
+        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 137967,
+      "name": "SIN CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
+        "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra y 440",
+          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+        }
+      ],
+      "duration_ms": 257265,
+      "name": "Me Enamoro de Ella",
+      "url": "https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Cumbia A La Gente",
         "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 208400,
       "name": "Cumbia A La Gente",
       "url": "https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
-        "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra y 440",
-          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
-        }
-      ],
-      "duration_ms": 257265,
-      "name": "Me Enamoro de Ella",
-      "url": "https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1515,18 +1515,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Gente Valiente",
-        "url": "https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF"
+        "name": "Dicen Que Soy",
+        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
       },
       "artists": [
         {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 228226,
-      "name": "Ya No Me Duele M\u00e1s",
-      "url": "https://open.spotify.com/track/4JnJ9ACXmtLkpH61ZvFSaM"
+      "duration_ms": 367026,
+      "name": "Vivir Lo Nuestro",
+      "url": "https://open.spotify.com/track/4qAknKWl2aMvWn4r1nzWAa"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1579,22 +1583,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Dicen Que Soy",
-        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
+        "name": "Gente Valiente",
+        "url": "https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF"
       },
       "artists": [
         {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
         }
       ],
-      "duration_ms": 367026,
-      "name": "Vivir Lo Nuestro",
-      "url": "https://open.spotify.com/track/4qAknKWl2aMvWn4r1nzWAa"
+      "duration_ms": 228226,
+      "name": "Ya No Me Duele M\u00e1s",
+      "url": "https://open.spotify.com/track/4JnJ9ACXmtLkpH61ZvFSaM"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Internacional",
-        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "La Tanga",
-      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Rebotando",
         "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 246266,
       "name": "Como Un Trueno",
       "url": "https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Internacional",
+        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "La Tanga",
+      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
     },
     {
       "added_at": "2023-08-25 04:00:00",

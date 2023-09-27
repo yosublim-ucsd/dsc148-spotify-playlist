@@ -1,6 +1,6 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1585,
+  "num_followers": 1593,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,26 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Zoli",
+        "url": "https://open.spotify.com/album/5V6V6Ox9iETTcoGCVVLi8T"
+      },
+      "artists": [
+        {
+          "name": "JSB Morning Game",
+          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
+        },
+        {
+          "name": "Madii",
+          "url": "https://open.spotify.com/artist/4WVU7WxxBuOaOvzT5cvUwN"
+        }
+      ],
+      "duration_ms": 316446,
+      "name": "Zoli",
+      "url": "https://open.spotify.com/track/7JrGJYwOf7qoXCe4CGsyj8"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Trottinette",
         "url": "https://open.spotify.com/album/5pBlzWYCpI1ftHAEF5IE0Z"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 184800,
       "name": "Trottinette",
       "url": "https://open.spotify.com/track/7wRYnhZoNWtqcFJHAycRiC"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Zoli",
-        "url": "https://open.spotify.com/album/5V6V6Ox9iETTcoGCVVLi8T"
-      },
-      "artists": [
-        {
-          "name": "JSB Morning Game",
-          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
-        },
-        {
-          "name": "Madii",
-          "url": "https://open.spotify.com/artist/4WVU7WxxBuOaOvzT5cvUwN"
-        }
-      ],
-      "duration_ms": 316446,
-      "name": "Zoli",
-      "url": "https://open.spotify.com/track/7JrGJYwOf7qoXCe4CGsyj8"
     },
     {
       "added_at": "2022-08-11 10:05:16",

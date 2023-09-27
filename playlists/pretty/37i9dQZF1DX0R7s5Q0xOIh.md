@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,275 likes - 142 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,305 likes - 142 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

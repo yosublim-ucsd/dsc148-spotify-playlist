@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 2712,
+  "num_followers": 2735,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Ma Metsi Biara",
-        "url": "https://open.spotify.com/album/3i0IMncESDwizxHybc50rp"
-      },
-      "artists": [
-        {
-          "name": "Amy Newman",
-          "url": "https://open.spotify.com/artist/4wfnvecs6YukRABU5mTyQS"
-        }
-      ],
-      "duration_ms": 336960,
-      "name": "Okamafo Jesus",
-      "url": "https://open.spotify.com/track/6HHgiMp6laU0gW41fBgJzS"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
         "name": "Pentecost Soree Nwom",
         "url": "https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 354150,
       "name": "Hymm",
       "url": "https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Ma Metsi Biara",
+        "url": "https://open.spotify.com/album/3i0IMncESDwizxHybc50rp"
+      },
+      "artists": [
+        {
+          "name": "Amy Newman",
+          "url": "https://open.spotify.com/artist/4wfnvecs6YukRABU5mTyQS"
+        }
+      ],
+      "duration_ms": 336960,
+      "name": "Okamafo Jesus",
+      "url": "https://open.spotify.com/track/6HHgiMp6laU0gW41fBgJzS"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Wahwe Meso",
-        "url": "https://open.spotify.com/album/3sk306dDSoE4dA4KcVPxvl"
+        "name": "The Altar",
+        "url": "https://open.spotify.com/album/1eBrxx2OziOjo18leed5Zs"
       },
       "artists": [
         {
-          "name": "Prof. Kofi Abraham",
-          "url": "https://open.spotify.com/artist/1Do8CxsUCJy7Clp0AM3rCI"
+          "name": "No Tribe",
+          "url": "https://open.spotify.com/artist/6ocbT2YYie059c1m8axmG1"
         }
       ],
-      "duration_ms": 298866,
-      "name": "Adam Nana",
-      "url": "https://open.spotify.com/track/5Gxp5gkwk5EOMKQSkqMlJE"
+      "duration_ms": 258821,
+      "name": "Adom Bi",
+      "url": "https://open.spotify.com/track/7Adr3j41euWMHJ47EN8vRu"
     },
     {
       "added_at": "2023-04-06 15:07:44",

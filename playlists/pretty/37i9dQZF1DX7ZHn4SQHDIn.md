@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 
 > All in us! ITZY is here to take their CAKE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,732 likes - 74 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,833 likes - 74 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

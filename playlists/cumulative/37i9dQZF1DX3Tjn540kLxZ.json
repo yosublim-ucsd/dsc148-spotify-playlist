@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 147400,
       "name": "9 lives",
       "url": "https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 184973,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/11uXhnPkoGQtk3STW7ItHr"
@@ -2387,6 +2387,24 @@
     },
     {
       "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
+      },
+      "artists": [
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150402,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
+    },
+    {
+      "album": {
         "name": "Favourite Band",
         "url": "https://open.spotify.com/album/5ViF60Iuu1s6RwHk2JvbgD"
       },
@@ -3180,7 +3198,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 267080,
       "name": "Greatest Hits",
       "url": "https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1"
@@ -3306,7 +3324,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 199073,
       "name": "Hard Talk",
       "url": "https://open.spotify.com/track/1SvYIGg7hL6Zh0hePhElcA"
@@ -3493,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "hotline",
+        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137404,
+      "name": "hotline",
+      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+    },
+    {
+      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -3580,7 +3616,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 187347,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/6GifVz1gA0lKGDAlez5iyP"
@@ -3728,6 +3764,24 @@
       "duration_ms": 162866,
       "name": "I Eat Boys",
       "url": "https://open.spotify.com/track/4LkCyp4LxvfLUWbRz1em5y"
+    },
+    {
+      "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
       "album": {
@@ -5593,6 +5647,24 @@
     },
     {
       "album": {
+        "name": "Nothing Works",
+        "url": "https://open.spotify.com/album/6LkILMcjrr8n9WBKVpCLz5"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252797,
+      "name": "Nothing Works",
+      "url": "https://open.spotify.com/track/14PqPtYLsUuFaqp6c4urHN"
+    },
+    {
+      "album": {
         "name": "Notion",
         "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
       },
@@ -6367,6 +6439,24 @@
     },
     {
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Right Here, for Now",
+      "url": "https://open.spotify.com/track/2LxRUWNqcKcTo7zOrctebE"
+    },
+    {
+      "album": {
         "name": "rock n roll",
         "url": "https://open.spotify.com/album/3eumFFZxtXUBia9oHMCccU"
       },
@@ -6898,7 +6988,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 167078,
       "name": "sideline, red wine lover",
       "url": "https://open.spotify.com/track/4tCwtpj5QR1FLpCevAuGx3"
@@ -7420,7 +7510,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 278998,
       "name": "sulky baby",
       "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
@@ -7691,6 +7781,24 @@
     },
     {
       "album": {
+        "name": "The Earth is a Very Small Dot",
+        "url": "https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236100,
+      "name": "The Earth is a Very Small Dot",
+      "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
+    },
+    {
+      "album": {
         "name": "The King",
         "url": "https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m"
       },
@@ -7915,6 +8023,24 @@
     },
     {
       "album": {
+        "name": "Theatre",
+        "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179037,
+      "name": "Theatre",
+      "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
+    },
+    {
+      "album": {
         "name": "NEGATIVE",
         "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
       },
@@ -8074,7 +8200,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 226533,
       "name": "To The Boys",
       "url": "https://open.spotify.com/track/1nN5YSvqpqheVped0uJtyw"
@@ -8904,6 +9030,24 @@
       "duration_ms": 279026,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv"
+    },
+    {
+      "album": {
+        "name": "Your Ex",
+        "url": "https://open.spotify.com/album/38N1yrl3r6rGulkphT8pO3"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217728,
+      "name": "Your Ex",
+      "url": "https://open.spotify.com/track/3IkXLkNFF93omLpzxfcOK8"
     },
     {
       "album": {

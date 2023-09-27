@@ -4,7 +4,7 @@
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-10,038 songs - 21 day 16 hr 48 min
+10,039 songs - 21 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3688,7 +3688,8 @@
 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-06-29 | 2023-07-07 |
 | [Hearts On Fire](https://open.spotify.com/track/2bBc4wnO7C78PIfYS0kiVr) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hearts On Fire](https://open.spotify.com/album/6bTithjhuHnrV0tRphQEqB) | 3:51 | 2023-02-16 | 2023-02-24 |
 | [Heartstrings](https://open.spotify.com/track/6Qv3OWGNixqEobRC5vM0Bp) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Heartstrings](https://open.spotify.com/album/6Zf2UCQdYaRfR5pFXQAl90) | 3:31 | 2022-09-08 | 2022-09-16 |
-| [Heaven](https://open.spotify.com/track/2yZSsN495ulgwWIfMNNCak) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Before The Dawn](https://open.spotify.com/album/6yMI7s5b5WtbO16ke4QJjm) | 3:46 | 2023-09-21 |  |
+| [Heaven](https://open.spotify.com/track/2yZSsN495ulgwWIfMNNCak) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Before The Dawn](https://open.spotify.com/album/6yMI7s5b5WtbO16ke4QJjm) | 3:46 | 2023-09-21 | 2023-09-27 |
+| [Heaven](https://open.spotify.com/track/6PEQn6zCTOWzmnakL4Aovo) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Before The Dawn](https://open.spotify.com/album/6oe5s7HsYU2Bh6k97aTgrK) | 3:46 | 2023-09-21 |  |
 | [Heaven](https://open.spotify.com/track/1NZLDZsqmvMVcZ02VT7ocP) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Heaven](https://open.spotify.com/album/6EuPz5zzV6JLMZKrb7LIsu) | 2:33 | 2022-08-18 | 2022-08-26 |
 | [Heaven](https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven](https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw) | 3:14 | 2022-04-28 | 2022-05-06 |
 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2023-06-01 | 2023-06-09 |

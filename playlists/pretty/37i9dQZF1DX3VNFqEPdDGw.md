@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Intense & G.Sidhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,518 likes - 52 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,523 likes - 52 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

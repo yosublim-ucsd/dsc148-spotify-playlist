@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,426 likes - 50 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,494 likes - 50 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 41 | [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 |
 | 42 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 |
 | 43 | [Dark Snow \- Bones Remix](https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T) | [The Rudeman](https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z), [Keegs Bantom](https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6), [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn) | [Dark Snow](https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV) | 6:07 |
-| 44 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 |
-| 45 | [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 |
-| 46 | [The Inglourious](https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Synth\-O\-Ven](https://open.spotify.com/artist/2rKAtDYA8XKQYtZkkKD1Pn) | [The Inglourious](https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X) | 6:39 |
-| 47 | [Octave](https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [OVGSREPUBLIC](https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU) | 7:33 |
-| 48 | [Gotsom](https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN) | 6:42 |
-| 49 | [7 Steps \- Soulcalmic Mingle](https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [7 Steps \(Soulcalmic Mingle\)](https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8) | 5:33 |
+| 44 | [Octave](https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [OVGSREPUBLIC](https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU) | 7:33 |
+| 45 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 |
+| 46 | [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 |
+| 47 | [The Inglourious](https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Synth\-O\-Ven](https://open.spotify.com/artist/2rKAtDYA8XKQYtZkkKD1Pn) | [The Inglourious](https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X) | 6:39 |
+| 48 | [7 Steps \- Soulcalmic Mingle](https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [7 Steps \(Soulcalmic Mingle\)](https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8) | 5:33 |
+| 49 | [Gotsom](https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN) | 6:42 |
 | 50 | [Lately I Found Myself](https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn) | [HisKing](https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj), [The Poetic Manic](https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF) | [Lately I Found Myself](https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP) | 7:28 |
 
 Snapshot ID: `MCxhYjczMTI5MmFjMjI3YTI1NjUwNzBjZGEyMDE3OTAyY2ZhYjQ0Mjg3`

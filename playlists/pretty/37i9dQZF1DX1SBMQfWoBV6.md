@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,464 likes - 80 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,559 likes - 80 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

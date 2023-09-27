@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Yot Club & Jordana",
-  "num_followers": 453853,
+  "num_followers": 453965,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Ways to Go",
-        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 127061,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 202124,
       "name": "I'm So Sorry",
       "url": "https://open.spotify.com/track/1MlyMtFTogPbQ3xe0S4GDD"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Ways to Go",
+        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 127061,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
+        "name": "Long Nights and Wasted Affairs",
+        "url": "https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL"
+      },
+      "artists": [
+        {
+          "name": "Mind\u2019s Eye",
+          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
+        }
+      ],
+      "duration_ms": 222992,
+      "name": "running to find you",
+      "url": "https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
         "name": "Plastic Envelope / Protect Him Always",
         "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
       },
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Long Nights and Wasted Affairs",
-        "url": "https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL"
+        "name": "End Of The Day (music from the film Anonymous Club)",
+        "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
       },
       "artists": [
         {
-          "name": "Mind\u2019s Eye",
-          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 222992,
-      "name": "running to find you",
-      "url": "https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS"
+      "duration_ms": 131107,
+      "name": "Start Somewhere",
+      "url": "https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1191,22 +1207,6 @@
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "End Of The Day (music from the film Anonymous Club)",
-        "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 131107,
-      "name": "Start Somewhere",
-      "url": "https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Elizabethtown.",
-        "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
-      },
-      "artists": [
-        {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
-        }
-      ],
-      "duration_ms": 136649,
-      "name": "mean creek.",
-      "url": "https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "i don't need to understand",
         "url": "https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 146594,
       "name": "i don't need to understand",
       "url": "https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Elizabethtown.",
+        "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "duration_ms": 136649,
+      "name": "mean creek.",
+      "url": "https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO"
     },
     {
       "added_at": "2023-09-15 12:36:22",

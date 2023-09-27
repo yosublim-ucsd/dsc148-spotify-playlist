@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: ENZO
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,662 likes - 93 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,692 likes - 93 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

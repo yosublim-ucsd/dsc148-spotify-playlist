@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Rock N Roll Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,147 likes - 102 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,164 likes - 102 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

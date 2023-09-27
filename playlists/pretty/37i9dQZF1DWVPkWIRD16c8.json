@@ -1,6 +1,6 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 102705,
+  "num_followers": 102906,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "This Is Not A Test",
-        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Love Broke Thru",
-      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 211293,
       "name": "Maybe It's Ok",
       "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "This Is Not A Test",
+        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Love Broke Thru",
+      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "The Elements",
+        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "I just need U.",
+      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 251714,
       "name": "Love Theory",
       "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "The Elements",
-        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "I just need U.",
-      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "REBELS",
         "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 226933,
       "name": "Rebels",
       "url": "https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2023-02-07 17:43:16",

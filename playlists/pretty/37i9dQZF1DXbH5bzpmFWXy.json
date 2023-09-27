@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Lefty SM en portada.",
-  "num_followers": 146955,
+  "num_followers": 147084,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -855,18 +855,22 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
-        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
         }
       ],
-      "duration_ms": 190575,
-      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
+      "duration_ms": 139863,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -887,22 +891,18 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "El Chamaquito",
-        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
+        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 139863,
-      "name": "El Chamaquito",
-      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
+      "duration_ms": 190575,
+      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
+        "name": "Parque de Diversiones",
+        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "duration_ms": 209358,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
         "name": "Feria en el Sobre",
         "url": "https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 194100,
       "name": "Feria en el Sobre",
       "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
-        "name": "Parque de Diversiones",
-        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        }
-      ],
-      "duration_ms": 209358,
-      "name": "Te Lo Dije",
-      "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
+        "name": "La 701 (Panter Belico)",
+        "url": "https://open.spotify.com/album/59qiGHotwfcZvHITzogmEG"
+      },
+      "artists": [
+        {
+          "name": "5 Music MX",
+          "url": "https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH"
+        },
+        {
+          "name": "La Fresada Music",
+          "url": "https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1"
+        }
+      ],
+      "duration_ms": 180101,
+      "name": "La 701 - Panter Belico",
+      "url": "https://open.spotify.com/track/7FerPDdH6GQJkL39rwY5Ek"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
         "name": "Tiempos de Guerra",
         "url": "https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 182634,
       "name": "El Pickles",
       "url": "https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
-        "name": "La 701 (Panter Belico)",
-        "url": "https://open.spotify.com/album/59qiGHotwfcZvHITzogmEG"
-      },
-      "artists": [
-        {
-          "name": "5 Music MX",
-          "url": "https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH"
-        },
-        {
-          "name": "La Fresada Music",
-          "url": "https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1"
-        }
-      ],
-      "duration_ms": 180101,
-      "name": "La 701 - Panter Belico",
-      "url": "https://open.spotify.com/track/7FerPDdH6GQJkL39rwY5Ek"
     },
     {
       "added_at": "2023-09-08 06:00:00",

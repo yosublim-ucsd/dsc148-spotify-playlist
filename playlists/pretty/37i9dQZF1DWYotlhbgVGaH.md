@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,272 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,342 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 25 | [Come On\-A\-My House](https://open.spotify.com/track/6Ts8NAuSSmfaXQyGFovDCe) | [Big Kahuna and the Copa Cat Pack](https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4) | [Hawaiian Swing](https://open.spotify.com/album/0Zyc4YTwXUZLewbfOYKAcj) | 2:10 |
 | 26 | [Simple Things](https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Spread a Little Happiness](https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7) | 2:44 |
 | 27 | [Swing Baby!](https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC) | [Big Rude Jake](https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA) | [Blue Pariah](https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS) | 3:22 |
-| 28 | [Swing Let's Swing](https://open.spotify.com/track/7dSQJiQTr8WPJWxaplRSEg) | [The Lucky Strikes](https://open.spotify.com/artist/0kZKKhAXEKjfOOMJTiWwyC) | [Song and Dance](https://open.spotify.com/album/1StimveT7gL5I8Rq7bMlSa) | 2:19 |
-| 29 | [pull the plug](https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 2:26 |
+| 28 | [pull the plug](https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 2:26 |
+| 29 | [Swing Let's Swing](https://open.spotify.com/track/7dSQJiQTr8WPJWxaplRSEg) | [The Lucky Strikes](https://open.spotify.com/artist/0kZKKhAXEKjfOOMJTiWwyC) | [Song and Dance](https://open.spotify.com/album/1StimveT7gL5I8Rq7bMlSa) | 2:19 |
 | 30 | [Whadaya Want](https://open.spotify.com/track/4HhMriMXwEGE1YE34qFyVZ) | [Casey MacGill & the Spirits of Rhythm](https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj) | [Jump](https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC) | 3:17 |
 | 31 | [Mambo Swing](https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 5:07 |
 | 32 | [Planet Jive](https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Planet Jive](https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7) | 3:52 |

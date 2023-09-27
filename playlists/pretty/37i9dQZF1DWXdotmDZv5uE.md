@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el folclore de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,772 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,793 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 56 | [Candela / Morena](https://open.spotify.com/track/68WB8EIHWyQEWOSyqujGPi) | [Pa' Sumecha](https://open.spotify.com/artist/5Mk2GwwJut38y1BxxfDyka) | [Son Jarocho](https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu) | 9:55 |
 | 57 | [Por Los Caminos Del Sur](https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS) | [Costa Mía Orquesta](https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL), [Vania Fortuna](https://open.spotify.com/artist/573vmSNtAqa0P3uvg4NqzF) | [Por Los Caminos Del Sur](https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689) | 2:38 |
 | 58 | [Camotal](https://open.spotify.com/track/4s7qx83G1CKhSHCcnHV0lC) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Sembrando Flores](https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8) | 5:21 |
-| 59 | [El Trompo \(Son Jarocho\) \[Veracruz\]](https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [México](https://open.spotify.com/album/3DFM3OHbXbQabB1IDHFPkZ) | 3:33 |
+| 59 | [La Guanabana](https://open.spotify.com/track/6rQ5F4fejMdINw6erjQLpg) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Son De Madera](https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn) | 6:00 |
 | 60 | [El colas](https://open.spotify.com/track/2RbzXNmT3oryvvlMbgt8Ji) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:28 |
-| 61 | [La Guanabana](https://open.spotify.com/track/6rQ5F4fejMdINw6erjQLpg) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Son De Madera](https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn) | 6:00 |
+| 61 | [El Trompo \(Son Jarocho\) \[Veracruz\]](https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [México](https://open.spotify.com/album/3DFM3OHbXbQabB1IDHFPkZ) | 3:33 |
 | 62 | [Sobre Las Olas](https://open.spotify.com/track/6ln87FGFhW5ZSrqQu70b3L) | [Juventino Rosas](https://open.spotify.com/artist/07KnR00fN51QEaiiSKPMWt), [Anabel Medrano](https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR), [Ensamble Centenario](https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto) | [Música Mexicana de Salón Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx](https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ) | 5:31 |
 | 63 | [La Gallina](https://open.spotify.com/track/1fyuoGft4mq0XPi2cGFYRB) | [Chuchumbé](https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB) | [¡caramba Niño!](https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC) | 6:37 |
 | 64 | [La Borrachita](https://open.spotify.com/track/26jrFuCeLU19arOmvLoiRa) | [Tata Nacho](https://open.spotify.com/artist/0dv1UQK0dV7q3vwa9jr97w), [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [La Gran Colección del 60 Aniversario CBS \- Antonio Bribiesca](https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA) | 3:07 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 78 | [Flor de México](https://open.spotify.com/track/5OU5AciVr7rUp4ivpD8cGL) | [Eulalio Armas y Sus Salterios](https://open.spotify.com/artist/50CIA4c4C7laQYcNPLcnnn) | [El Salterio](https://open.spotify.com/album/057lLhyTreLeqRN9k1s1q8) | 2:04 |
 | 79 | [El Feo](https://open.spotify.com/track/1orAub5Dz1NbEMOtojgVal) | [Los Hermanos Ríos](https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 3:01 |
 | 80 | [Los Once Pueblos \(Eraxamani\)](https://open.spotify.com/track/3HWQJhwYGZ8CWZefWSDxII) | [Gran Banda De Ichán Michoacán](https://open.spotify.com/artist/1m1AhZMj1tTgQGuLwAdKh1) | [Antología de la Música P'urhepecha Vol\. VIII](https://open.spotify.com/album/3CVW7CGhHs7Wg3lyG97sSL) | 3:14 |
-| 81 | [El Sacamandú](https://open.spotify.com/track/7M6y0noSLd6nal1GUGSpMN) | [Los Caporales](https://open.spotify.com/artist/6GlDYSt5RyCkTRJ1zPN3DY) | [El Gusto \- 40 Años de son Huasteco](https://open.spotify.com/album/1iaywSk07ESk9L5nCy5bdV) | 4:21 |
-| 82 | [LAS ALTEÑITAS](https://open.spotify.com/track/0U6SkH7h38q4SNHHoEckCW) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/artist/5AEvcZM8v0mptSbdX427om) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/album/0sDmy1GnNFZN5JmuuUyn9p) | 2:38 |
+| 81 | [LAS ALTEÑITAS](https://open.spotify.com/track/0U6SkH7h38q4SNHHoEckCW) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/artist/5AEvcZM8v0mptSbdX427om) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/album/0sDmy1GnNFZN5JmuuUyn9p) | 2:38 |
+| 82 | [El Sacamandú](https://open.spotify.com/track/7M6y0noSLd6nal1GUGSpMN) | [Los Caporales](https://open.spotify.com/artist/6GlDYSt5RyCkTRJ1zPN3DY) | [El Gusto \- 40 Años de son Huasteco](https://open.spotify.com/album/1iaywSk07ESk9L5nCy5bdV) | 4:21 |
 | 83 | [La Llorona](https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J) | [Los Vega](https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB) | [En Tonos Muy Diferentes](https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf) | 5:42 |
 | 84 | [Por los Caminos del Sur](https://open.spotify.com/track/5FxEVphkVfyLbsGnxvotZF) | [Dueto Caleta](https://open.spotify.com/artist/0eAmmzGvPNjPM5zFVNaQfo) | [RCA 100 Años de Música \- Segunda Parte](https://open.spotify.com/album/1I5kQcXKDxb3zkqiZcZcBp) | 2:38 |
 | 85 | [Rayando El Sol](https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Recordando A Antonio Bribiesca](https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08) | 3:05 |

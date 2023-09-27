@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Coogie) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 202312,
+  "num_followers": 202369,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-09-20 06:18:13",
       "album": {
-        "name": "INEEDYOURLOVE",
-        "url": "https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 222684,
-      "name": "INEEDYOURLOVE",
-      "url": "https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW"
-    },
-    {
-      "added_at": "2023-09-20 06:18:13",
-      "album": {
         "name": "SEOUL DRIFT",
         "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 199626,
       "name": "SEOUL DRIFT",
       "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
+    },
+    {
+      "added_at": "2023-09-20 06:18:13",
+      "album": {
+        "name": "INEEDYOURLOVE",
+        "url": "https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 222684,
+      "name": "INEEDYOURLOVE",
+      "url": "https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW"
     },
     {
       "added_at": "2023-09-20 06:18:13",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-09-20 06:18:13",
       "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
-    },
-    {
-      "added_at": "2023-09-20 06:18:13",
-      "album": {
         "name": "MBT",
         "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 142280,
       "name": "MBT",
       "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
+    },
+    {
+      "added_at": "2023-09-20 06:18:13",
+      "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
     },
     {
       "added_at": "2023-09-20 06:18:13",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-09-20 06:18:13",
       "album": {
-        "name": "Don't go (feat. ASH ISLAND)",
-        "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 157773,
-      "name": "Don't go (feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
-    },
-    {
-      "added_at": "2023-09-20 06:18:13",
-      "album": {
         "name": "Just Like This",
         "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 199733,
       "name": "Just Like This (Feat. george)",
       "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
+    },
+    {
+      "added_at": "2023-09-20 06:18:13",
+      "album": {
+        "name": "Don't go (feat. ASH ISLAND)",
+        "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 157773,
+      "name": "Don't go (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
     },
     {
       "added_at": "2023-09-20 06:18:13",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-09-20 06:18:13",
       "album": {
-        "name": "BLOO IN WONDERLAND 2",
-        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 170520,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
-    },
-    {
-      "added_at": "2023-09-20 06:18:13",
-      "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2023-09-20 06:18:13",
       "album": {
-        "name": "Empty Head",
-        "url": "https://open.spotify.com/album/7MonuyQ2VRF1qGQXnzKwUF"
+        "name": "BLOO IN WONDERLAND 2",
+        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
       },
       "artists": [
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
         }
       ],
-      "duration_ms": 185642,
-      "name": "Empty Head",
-      "url": "https://open.spotify.com/track/2mPR6yNoDn0IN8vqtz1Yrx"
+      "duration_ms": 170520,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
     },
     {
       "added_at": "2023-09-20 06:18:13",
@@ -1487,6 +1471,22 @@
       "duration_ms": 213626,
       "name": "PARADISE (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+    },
+    {
+      "added_at": "2023-09-20 06:18:13",
+      "album": {
+        "name": "Empty Head",
+        "url": "https://open.spotify.com/album/7MonuyQ2VRF1qGQXnzKwUF"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 185642,
+      "name": "Empty Head",
+      "url": "https://open.spotify.com/track/2mPR6yNoDn0IN8vqtz1Yrx"
     },
     {
       "added_at": "2023-09-20 06:18:13",

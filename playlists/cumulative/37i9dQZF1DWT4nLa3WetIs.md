@@ -4,7 +4,7 @@
 
 > Celebrating ten years of Burna Boys's Debut Album; Leaving an Impact for Eternity \(LIFE\)\. Cover: Burna boy
 
-194 songs - 13 hr 39 min
+195 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Eminado \(feat\. Don Jazzy\)](https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:50 | 2020-11-06 |  |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2023-03-21 |  |
 | [Expensive Shit](https://open.spotify.com/track/6sNNtFKdCz0bnjx7IEXyl2) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Expensive Shit](https://open.spotify.com/album/20IklXmkirz07Lpv6jnLNB) | 13:13 | 2023-07-03 | 2023-09-21 |
+| [Expensive Shit](https://open.spotify.com/track/2yBjFF19OmukrC7deP7LfZ) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Expensive Shit](https://open.spotify.com/album/6zZXBV5eC1oISyUGZFfthw) | 13:13 | 2023-08-11 |  |
 | [Fall](https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:00 | 2023-03-21 |  |
 | [Fall in Love](https://open.spotify.com/track/6TARhI06IcFdWyVuuizLy1) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'banj Essentials](https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L) | 4:16 | 2020-11-06 | 2023-03-22 |
 | [Fi Mi Le](https://open.spotify.com/track/2EEfDcnf7LwZ9RStGusyDn) | [Kas](https://open.spotify.com/artist/3hisQT4sa8NR0vqzDDg6gq) | [a.k.a Fi Mi Le](https://open.spotify.com/album/3iJirt7tZ9ZMBtGewxs7r5) | 3:38 | 2023-03-21 | 2023-06-22 |
@@ -99,7 +100,7 @@
 | [Johnny](https://open.spotify.com/track/39USJOEHwUIgKzuU9tdanx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [King of Queens](https://open.spotify.com/album/6BsDpxn9akeCVFASuNurqM) | 3:56 | 2020-11-06 | 2022-07-29 |
 | [Johnny](https://open.spotify.com/track/7pG2mohladBSpE6CqxFik5) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [King Of Queens](https://open.spotify.com/album/7E7V1otMAFHxxrpfAWg1Rn) | 3:56 | 2020-11-06 | 2023-03-22 |
 | [Karolina](https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw) | [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Mondongo](https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc) | 4:32 | 2020-11-06 | 2023-03-22 |
-| [Kele Kele](https://open.spotify.com/track/6leKqvSviIydDluSDB7gQz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:42 | 2020-11-06 |  |
+| [Kele Kele](https://open.spotify.com/track/6leKqvSviIydDluSDB7gQz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:42 | 2020-11-06 | 2023-09-27 |
 | [Kiss Your Hand \(feat\. Wande Coal\)](https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Da Revolution](https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4) | 4:28 | 2020-11-06 |  |
 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 | 2020-11-06 | 2023-03-22 |
 | [Kondo](https://open.spotify.com/track/6tHIVKiKsId5xDM3ufMzgl) | [Dagrin](https://open.spotify.com/artist/6LRZTXWP7Ytxujepqoq21m) | [C.E.O](https://open.spotify.com/album/3AgOia4r1Uq1mzwezYEzfy) | 3:31 | 2023-03-21 | 2023-09-22 |

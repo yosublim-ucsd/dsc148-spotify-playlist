@@ -1,6 +1,6 @@
 {
   "description": "Un poco de sabrosura y color para esos d\u00edas lluviosos.",
-  "num_followers": 31958,
+  "num_followers": 31998,
   "original_name": "Lluvia Tropical",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,22 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Generation Next",
-        "url": "https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp"
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
       "artists": [
         {
           "name": "Aventura",
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 210773,
-      "name": "Cuando Volveras",
-      "url": "https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh"
+      "duration_ms": 307933,
+      "name": "Ciego De Amor - Featuring Anthony Santos",
+      "url": "https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -411,22 +415,18 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+        "name": "Generation Next",
+        "url": "https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp"
       },
       "artists": [
         {
           "name": "Aventura",
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 307933,
-      "name": "Ciego De Amor - Featuring Anthony Santos",
-      "url": "https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD"
+      "duration_ms": 210773,
+      "name": "Cuando Volveras",
+      "url": "https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -623,18 +623,18 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Lluvia (Baile Total)",
-        "url": "https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 296040,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/54vtEWLZyP51FGh9R585Zo"
+      "duration_ms": 218373,
+      "name": "El Papel Part 1 (Versi\u00f3n Amante)",
+      "url": "https://open.spotify.com/track/4uUxCpAWzNxpMXoUYCoERX"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -655,18 +655,18 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+        "name": "Lluvia (Baile Total)",
+        "url": "https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 218373,
-      "name": "El Papel Part 1 (Versi\u00f3n Amante)",
-      "url": "https://open.spotify.com/track/4uUxCpAWzNxpMXoUYCoERX"
+      "duration_ms": 296040,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/54vtEWLZyP51FGh9R585Zo"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "V\u00e1monos Pa'l Monte",
-        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 426840,
-      "name": "V\u00e1monos Pa'l Monte",
-      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "Me Voy Para La Luna",
         "url": "https://open.spotify.com/album/37kARifCI57YAygnMjcyAZ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 182200,
       "name": "Qui\u00e9reme Sempre",
       "url": "https://open.spotify.com/track/2UkKWdjByMLTsxQDiP3XAc"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "V\u00e1monos Pa'l Monte",
+        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 426840,
+      "name": "V\u00e1monos Pa'l Monte",
+      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
     },
     {
       "added_at": "2021-11-23 20:12:50",

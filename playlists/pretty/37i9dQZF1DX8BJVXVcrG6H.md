@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BJVXVcrG6H.md) - [plain]
 
 > Representantes de la rima Charrúa\. Foto: Los Buenos Modales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,611 likes - 77 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,612 likes - 77 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

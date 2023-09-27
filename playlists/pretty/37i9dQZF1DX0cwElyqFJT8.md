@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cwElyqFJT8.md) - [plain]
 
 > Uplifting Ambient to bring on flow and connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 433 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

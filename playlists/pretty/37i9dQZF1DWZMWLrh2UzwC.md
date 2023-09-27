@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,278 likes - 96 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,281 likes - 96 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

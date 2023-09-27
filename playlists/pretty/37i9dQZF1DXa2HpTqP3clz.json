@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
-  "num_followers": 126731,
+  "num_followers": 126759,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Congratulations and Condolences",
-        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
+        "name": "Bluegrass",
+        "url": "https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO"
       },
       "artists": [
         {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 215884,
-      "name": "Congratulations and Condolences",
-      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
+      "duration_ms": 240773,
+      "name": "Still Is Still Moving To Me",
+      "url": "https://open.spotify.com/track/6wMnZNnO4oWJwivp0WvW2W"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Bluegrass",
-        "url": "https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO"
+        "name": "Congratulations and Condolences",
+        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
         }
       ],
-      "duration_ms": 240773,
-      "name": "Still Is Still Moving To Me",
-      "url": "https://open.spotify.com/track/6wMnZNnO4oWJwivp0WvW2W"
+      "duration_ms": 215884,
+      "name": "Congratulations and Condolences",
+      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -851,22 +851,6 @@
       "duration_ms": 182120,
       "name": "You Were on My Mind This Morning",
       "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 420123,
-      "name": "Grow Together",
-      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -939,6 +923,22 @@
       "duration_ms": 237186,
       "name": "The Cure",
       "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 420123,
+      "name": "Grow Together",
+      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 225941,
-      "name": "Smoky Mountain Girl",
-      "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Sidetrack My Engine",
         "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
       },
       "artists": [
         {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
         }
       ],
-      "duration_ms": 481641,
-      "name": "Stress Dreams",
-      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
+      "duration_ms": 225941,
+      "name": "Smoky Mountain Girl",
+      "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
       },
       "artists": [
         {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Any Old Time",
-      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
+      "duration_ms": 481641,
+      "name": "Stress Dreams",
+      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 212480,
       "name": "City That Drowned",
       "url": "https://open.spotify.com/track/3kawMkt6ox3rlyl1DhV4ey"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Any Old Time",
+      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
+        "name": "Wild as We Came Here (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/15IDUZTSBX9a00xYeIFyBd"
       },
       "artists": [
         {
-          "name": "Mikele Buck Band",
-          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
+          "name": "The Steel Wheels",
+          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
         }
       ],
-      "duration_ms": 223404,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
+      "duration_ms": 180546,
+      "name": "Scrape Me Off The Ceiling",
+      "url": "https://open.spotify.com/track/2MX0TBk4KwRHfF73E2xP0k"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Wild as We Came Here (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/15IDUZTSBX9a00xYeIFyBd"
-      },
-      "artists": [
-        {
-          "name": "The Steel Wheels",
-          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "Scrape Me Off The Ceiling",
-      "url": "https://open.spotify.com/track/2MX0TBk4KwRHfF73E2xP0k"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Sweet Spot",
         "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 263662,
       "name": "Sweet Spot",
       "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
+      },
+      "artists": [
+        {
+          "name": "Mikele Buck Band",
+          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
+        }
+      ],
+      "duration_ms": 223404,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 139893,
       "name": "Super Moon",
       "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
+      },
+      "artists": [
+        {
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Where the Long Line Leads",
-        "url": "https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 204618,
-      "name": "Where the Long Line Leads",
-      "url": "https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 195573,
       "name": "Down the Road",
       "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Where the Long Line Leads",
+        "url": "https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 204618,
+      "name": "Where the Long Line Leads",
+      "url": "https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "The Light We Bring",
+        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
+      },
+      "artists": [
+        {
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+        }
+      ],
+      "duration_ms": 207319,
+      "name": "The Heart Wants",
+      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "White Freight Liner Blues (feat. Molly Tuttle)",
         "url": "https://open.spotify.com/album/6x0ueS4GGofC8q79ryKbR4"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Well",
-        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Well",
-      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/7gc0887rEEosEmhLnai9EZ"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 180687,
       "name": "Keys",
       "url": "https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Well",
+        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The Light We Bring",
-        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
+        "name": "Tall Tales & Fables",
+        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
       },
       "artists": [
         {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+          "name": "Haunted Like Human",
+          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
         }
       ],
-      "duration_ms": 207319,
-      "name": "The Heart Wants",
-      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
+      "duration_ms": 177414,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1631,22 +1647,6 @@
       "duration_ms": 175128,
       "name": "All the Mornings Have an Echo",
       "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Tall Tales & Fables",
-        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
-      },
-      "artists": [
-        {
-          "name": "Haunted Like Human",
-          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
-        }
-      ],
-      "duration_ms": 177414,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
     },
     {
       "added_at": "2023-09-22 04:00:00",

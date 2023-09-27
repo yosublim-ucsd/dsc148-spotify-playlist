@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 166736,
       "name": "ABC",
       "url": "https://open.spotify.com/track/3m4BZVz50DcOcebSRTH9Tm"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 407573,
       "name": "Adi\u00f3s Amor / Oye Mujer",
       "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
@@ -2968,7 +2968,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 133077,
       "name": "Costumbres - Vivo",
       "url": "https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB"
@@ -6550,7 +6550,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
@@ -6720,7 +6720,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
@@ -11691,6 +11691,28 @@
     },
     {
       "album": {
+        "name": "El De La Nueva Baby",
+        "url": "https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Adan La Amenaza",
+          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118986,
+      "name": "Privado",
+      "url": "https://open.spotify.com/track/68fkJE1oYWKIrMcMy8O0sO"
+    },
+    {
+      "album": {
         "name": "PROBLEMA",
         "url": "https://open.spotify.com/album/62qqk2oK0GGO0AwWqUIqrJ"
       },
@@ -13045,6 +13067,28 @@
     },
     {
       "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142334,
+      "name": "Seg\u00fan Qui\u00e9n",
+      "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
+    },
+    {
+      "album": {
         "name": "SEJODIOTO",
         "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
       },
@@ -13748,6 +13792,28 @@
       "duration_ms": 203265,
       "name": "Solita",
       "url": "https://open.spotify.com/track/7gcP0NQgB8sPn3Y7iqdAbE"
+    },
+    {
+      "album": {
+        "name": "La Melodia de la Calle \"Updated\"",
+        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188826,
+      "name": "Solos",
+      "url": "https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy"
     },
     {
       "album": {
@@ -15752,7 +15818,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 192004,
       "name": "V\u00c1MONOS PA LA EUROPA",
       "url": "https://open.spotify.com/track/2VfBDjJ0tZ9XUi24aQibTM"
@@ -16070,7 +16136,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"

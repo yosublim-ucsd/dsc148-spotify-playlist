@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Jocelyn 9.4.0
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,913 likes - 72 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,924 likes - 72 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

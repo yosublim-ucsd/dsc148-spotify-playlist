@@ -2062,7 +2062,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 139440,
       "name": "Autumn Air",
       "url": "https://open.spotify.com/track/6rHLRiZ8YYwO03he7OJQU2"
@@ -15352,7 +15352,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 137308,
       "name": "Loud Bolt",
       "url": "https://open.spotify.com/track/4JgH9mzHDXcL4ZQW9NvXwU"
@@ -16360,7 +16360,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 116770,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5OUp8kF4z1oxwWcYFKg2qW"
@@ -22036,6 +22036,24 @@
       "duration_ms": 96000,
       "name": "Rocking Chair",
       "url": "https://open.spotify.com/track/2xbQ4xdV9FuN9VdCshaOcr"
+    },
+    {
+      "album": {
+        "name": "Tripping At The Amusement Park Vol. 2",
+        "url": "https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG"
+      },
+      "artists": [
+        {
+          "name": "Nacho Dat\u00far",
+          "url": "https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129473,
+      "name": "Rododendron",
+      "url": "https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5"
     },
     {
       "album": {

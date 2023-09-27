@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4edDD3HJMv.md) - [plain]
 
 > para cuándo el collab? coming soon??? 👀🤞
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,339 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,466 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

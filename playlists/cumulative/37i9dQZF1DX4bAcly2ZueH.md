@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-128 songs - 6 hr 49 min
+129 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [City Light](https://open.spotify.com/track/0oDyEmgdYNE9KZwOHitArr) | [Chillin Cat](https://open.spotify.com/artist/5hZRHVl12MWVq79JcjBJNG) | [City Light](https://open.spotify.com/album/3Juf0EoBQN1ZHJXJJxZXJl) | 3:03 | 2023-03-07 |  |
 | [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 | 2022-10-11 | 2023-07-05 |
 | [Confused](https://open.spotify.com/track/0wrlZhUHqHlLLvdodEqv4W) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/6m34pI3gdhPPJ6YnBDQeQM) | 3:06 | 2022-10-11 | 2022-11-09 |
-| [Confused](https://open.spotify.com/track/6dB3INrWpUQJhywKwiWnJ2) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/2Ta6VUCHyg1UqAMYdzlWeH) | 3:06 | 2022-10-11 |  |
+| [Confused](https://open.spotify.com/track/6dB3INrWpUQJhywKwiWnJ2) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/2Ta6VUCHyg1UqAMYdzlWeH) | 3:06 | 2022-10-11 | 2023-09-27 |
 | [Cristo Redentor](https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chips & Chill](https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE) | 2:34 | 2022-10-11 |  |
 | [Day of the Moon](https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Day of the Moon](https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk) | 2:36 | 2023-02-14 |  |
 | [Day Trip](https://open.spotify.com/track/3hrqbiVTLD6L0Q7MhPOmBr) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Sentimental Days](https://open.spotify.com/album/0b1GNpqsnogyIWlpXB2Zi1) | 2:17 | 2022-10-11 |  |
@@ -36,6 +36,7 @@
 | [End Credits](https://open.spotify.com/track/7JKNxNTc9GZMFLIT5fIWvg) | [dné](https://open.spotify.com/artist/65lDioVoAjIBR4S1yYL8Bf) | [Nothing Like Before \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uu7KIkpPuQlmLrQQyzvNy) | 1:51 | 2022-10-11 |  |
 | [Fade \(feat\. Rachel Lim\)](https://open.spotify.com/track/5P9fLyX3VPJm3VOr50RObx) | [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b), [Rachel Lim](https://open.spotify.com/artist/4LY4Kd3wNEZxMwZygueoqc) | [FADE AWAY \(feat\. Rachel Lim\)](https://open.spotify.com/album/53MPVjP9shFQ43mrBekika) | 3:33 | 2022-10-11 |  |
 | [Flowers](https://open.spotify.com/track/6pYLdl855Ul8ckKKWzCrig) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Flowers](https://open.spotify.com/album/3OJMNgLFpxJLgTPw3YmNTx) | 3:02 | 2022-10-11 |  |
+| [fresh](https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm) | [sukima](https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc) | [fresh](https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6) | 4:23 | 2023-09-26 |  |
 | [Frontin' Me](https://open.spotify.com/track/6VqYMjfZsbHrN9BCuW7FXm) | [Harry Nathan](https://open.spotify.com/artist/2Sr0UVpJdu6joEkH10koQ9) | [Frontin' Me](https://open.spotify.com/album/0TD7IObbIeL05ZCzp1yza0) | 3:29 | 2022-10-11 |  |
 | [garden](https://open.spotify.com/track/4Xn6llzlcBkd02iXpySmbs) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Afterglow](https://open.spotify.com/album/1xgaY66wY1j5WOW8J7orN8) | 3:20 | 2022-10-11 |  |
 | [Go](https://open.spotify.com/track/6pkcCKeavDKCtv147qcImc) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Go](https://open.spotify.com/album/4Lem57oFsCssMZFFrneeSo) | 3:15 | 2022-10-11 |  |

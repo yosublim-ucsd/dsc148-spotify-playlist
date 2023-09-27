@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-210 songs - 12 hr 56 min
+211 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Csay Csay](https://open.spotify.com/track/0cTLKPTA5rwpjrGutKO1r8) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Csay Csay](https://open.spotify.com/album/1Att1v11WfFuJMnaFkQBQe) | 6:01 | 2019-12-16 | 2022-07-29 |
 | [Csay Csay](https://open.spotify.com/track/1enynlph69y9FEW7NVhkO3) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Csay Csay](https://open.spotify.com/album/7t9LroLEtMH5GKu7xtcKVn) | 6:01 | 2019-12-16 | 2022-12-03 |
 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 | 2022-08-31 |  |
-| [Dead Metal](https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW) | [Rhys Lindsay](https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8) | [Exo One \(Original Game Soundtrack\)](https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme) | 1:05 | 2023-09-08 |  |
+| [Dead Metal](https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW) | [Rhys Lindsay](https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8) | [Exo One \(Original Game Soundtrack\)](https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme) | 1:05 | 2023-09-08 | 2023-09-27 |
 | [Distant Memory](https://open.spotify.com/track/7HL7aFk0ONq1QnlnDTtzov) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Distant Memory](https://open.spotify.com/album/5r4tbLxLxxotZV0qRQbpFG) | 2:43 | 2022-08-31 | 2023-04-12 |
 | [Don't Get Any Closer](https://open.spotify.com/track/3A2fblRWcD5rUZEBDLefw0) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P) | 9:06 | 2019-12-16 | 2022-09-01 |
 | [Don't Get Any Closer](https://open.spotify.com/track/5aEW7hL4yJ3StRw4x9ZLLn) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/4BMYwbOZd1i9vraiSXtSkg) | 9:06 | 2019-12-16 | 2022-07-29 |
@@ -180,6 +180,7 @@
 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 | 2022-09-02 | 2023-09-09 |
 | [Star Shopping \- Slowed + Reverb](https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU) | [Megami](https://open.spotify.com/artist/2nirHAhWySBkvccqqmZeRP) | [Star Shopping](https://open.spotify.com/album/72x0OE3u601R32vRdXBdDs) | 1:21 | 2023-09-08 |  |
 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 | 2022-08-31 | 2023-09-09 |
+| [Starry Night](https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Novella](https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP) | 4:58 | 2023-09-08 |  |
 | [Start Shootin'](https://open.spotify.com/track/4IUgpL0CgSiloUOHzgd6Qe) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:36 | 2019-12-16 | 2023-09-09 |
 | [Stop Everything! It's Snowing](https://open.spotify.com/track/3z48KDiozWdduiI0xS0HD3) | [Good Weather For An Airstrike](https://open.spotify.com/artist/1LcsFT5fwJajcpAqmlitHX) | [A Sense Of Uncertainty](https://open.spotify.com/album/49tI7gpTw1BIZG5tL1BDnE) | 3:57 | 2019-12-16 | 2022-09-01 |
 | [structures](https://open.spotify.com/track/6B9DAQWbldDxbEQ6IhabvF) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [structures](https://open.spotify.com/album/4xwwce3n8nmpfAEVmg7xQe) | 2:01 | 2022-09-02 | 2023-02-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,077 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,104 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 17 | [デリケートに好きして \(21st century ver.\) \(魔法の天使クリィミーマミ\)](https://open.spotify.com/track/6iP39aqgnGFb621ZpvD8IZ) | [太田貴子](https://open.spotify.com/artist/36OGxNSKeYNF8epyYkiF4T) | [デリケートに好きして\(21st Century ver.\)](https://open.spotify.com/album/0Ywrek3xm2gid0NfYnltsm) | 3:58 |
 | 18 | [Dang Dang 気になる](https://open.spotify.com/track/11YTv3GEL4jjdjhiql2UP2) | [Yuma Nakamura](https://open.spotify.com/artist/7u6xeEpCiWIujinH9b5Npb) | [美味しんぼ オリジナル・サウンドトラック アンティパスト](https://open.spotify.com/album/0rjITZo3YffaNud5UBbXN5) | 3:46 |
 | 19 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 |
-| 20 | [夏のミラージュ](https://open.spotify.com/track/25sBTXed49RPy1EVJsNNK5) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [City Pop Essetials \- Idols \-](https://open.spotify.com/album/28xnnoGQ81K2Y7M2OqGn4o) | 4:31 |
+| 20 | [夏のミラージュ](https://open.spotify.com/track/25sBTXed49RPy1EVJsNNK5) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [City Pop Essentials \- Idols \-](https://open.spotify.com/album/28xnnoGQ81K2Y7M2OqGn4o) | 4:31 |
 | 21 | [ロマンティックあげるよ \(21st century ver.\) \(ドラゴンボール\)](https://open.spotify.com/track/7mLJwAZidHg2NCZekzBb5k) | [橋本潮](https://open.spotify.com/artist/6rh54tROaLOFxWkHMPIs3q) | [イナズマchallenger](https://open.spotify.com/album/0hpMu2hY2AgNAdSAiTLJxk) | 3:59 |
 | 22 | [マクロス](https://open.spotify.com/track/59zFcJwbApXslmiReVTQj6) | [藤原誠](https://open.spotify.com/artist/4qXbRIljCeveb6lxk0zZx2) | [マクロス　SONGコレクション 2002](https://open.spotify.com/album/57NFqW2IxIOqtSBR6uA1Wo) | 3:10 |
 | 23 | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/track/5vuNDp85EOew3Bx63d0SVy) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/album/4b09ZEwTUs3uJKXVzKi823) | 3:41 |

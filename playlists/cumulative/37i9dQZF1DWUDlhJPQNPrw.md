@@ -4,7 +4,7 @@
 
 > things will get better soon\. for now, just listen and dream.
 
-147 songs - 6 hr 28 min
+148 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Our Call](https://open.spotify.com/track/0iMIWdUvO3QmoOwvpazgMW) | [Jonah Bjoern](https://open.spotify.com/artist/0BYrqsYWd4pHg2C21k1cBp) | [Our Call](https://open.spotify.com/album/6FRFcy8VBTOBPDULVG7S7P) | 2:14 | 2023-07-19 |  |
 | [Overcast](https://open.spotify.com/track/5ACLrTERL7b7JQd2ZTfMjz) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Overcast](https://open.spotify.com/album/6UcJJ2rPauLCJLaEzqFvCR) | 2:33 | 2023-07-19 |  |
 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 | 2023-07-19 |  |
+| [Paseo](https://open.spotify.com/track/3z34o6Tz0nEHd6rPjIcyTN) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Paseo](https://open.spotify.com/album/11v1XsFDWHyGfF8FKizm6P) | 2:22 | 2023-09-26 |  |
 | [Perpendicular](https://open.spotify.com/track/0cd9j88kIE6LIpDwAAtKOO) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Perpendicular](https://open.spotify.com/album/3Jz2nhyhV7ftStCe9d2IFY) | 2:18 | 2023-07-19 |  |
 | [Perth](https://open.spotify.com/track/7isZIXanXM8Yn89Q0Qz0ut) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Perth & Quiet Breath](https://open.spotify.com/album/5iQZ1X4bIuldcL2pU4WxM8) | 2:43 | 2023-07-19 |  |
 | [Portrait of a shade](https://open.spotify.com/track/1oAET48hdT1Bg9BM0FLIkw) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Portrait of a shade](https://open.spotify.com/album/4KKhQ4EM56Fsle0NFsOqIu) | 2:55 | 2023-07-19 |  |

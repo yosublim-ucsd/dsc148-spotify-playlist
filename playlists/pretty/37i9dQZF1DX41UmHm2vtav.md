@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,189 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,334 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 41 | [Fiz Esse Som Pra Você \- Double MZK Remix](https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Fiz Esse Som Pra Você \(Double MZK Remix\)](https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT) | 3:29 |
 | 42 | [Amor Pra Recomeçar](https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX) | [Jopin](https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Amor Pra Recomeçar](https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch) | 2:38 |
 | 43 | [Zé do caroço](https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [Zé do caroço](https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q) | 3:12 |
-| 44 | [Oh! Chuva](https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Oh! Chuva](https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU) | 2:24 |
-| 45 | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1) | 2:38 |
+| 44 | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1) | 2:38 |
+| 45 | [Oh! Chuva](https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Oh! Chuva](https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU) | 2:24 |
 | 46 | [Somebody That You Loved](https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Somebody That You Loved](https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79) | 3:35 |
 | 47 | [Descobridor dos Sete Mares: Remix](https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Descobridor dos Sete Mares: Remix](https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX) | 3:11 |
 | 48 | [Dias Melhores \- Remix](https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Dias Melhores \- Remix](https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7) | 2:54 |

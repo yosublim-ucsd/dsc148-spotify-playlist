@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA?si=sa1MczKmTbStHjRz0SIwNg">Babyface Ray</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,168 likes - 59 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,190 likes - 59 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

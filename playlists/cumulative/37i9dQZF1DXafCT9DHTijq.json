@@ -1627,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Wednesday (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69893,
+      "name": "Wednesday Main Titles",
+      "url": "https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6"
+    },
+    {
+      "album": {
         "name": "The Addams Family (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/42gNmvl1nDLFdZh6nEA7KS"
       },

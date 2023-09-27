@@ -4,7 +4,7 @@
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-274 songs - 17 hr 22 min
+275 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2022-06-22 |  |
 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 | 2022-09-23 |  |
 | [BIGTIMEGOODTIME](https://open.spotify.com/track/3ouqN4Q9RO9J01lu8v7jrr) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [BIGTIMEGOODTIME](https://open.spotify.com/album/2GbjyKJhOsBOYxHEs1X48X) | 4:16 | 2023-09-21 |  |
+| [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-26 |  |
 | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q) | 2:50 | 2023-09-21 |  |
 | [Change](https://open.spotify.com/track/5WZGUtMLcqOMPem9J7PzVs) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Change](https://open.spotify.com/album/0RmOC132NVM3iENECtcmYb) | 6:04 | 2021-12-03 | 2022-08-16 |
 | [Cherry](https://open.spotify.com/track/6hrH6nUOPoB9kW2dT4GXzy) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Cherry](https://open.spotify.com/album/1tC67mJvSOPmzKqglQKrzw) | 3:32 | 2022-06-22 | 2022-08-27 |
@@ -63,7 +64,7 @@
 | [Coffee](https://open.spotify.com/track/15FZPfLobYj9kBE80LtxIx) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/6KxHGgfpM8uPotxK5iNEJG) | 2:06 | 2021-12-03 | 2022-07-29 |
 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 | 2022-06-22 |  |
 | [Coffee Breath](https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/6PLQWrmCo4IDIbfaIP2hAE) | 2:43 | 2021-12-03 | 2023-08-13 |
-| [Coffee Breath](https://open.spotify.com/track/0CBjkW0sm2CjxjMaisEDPF) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/4xSZ20XQHahEsCKUydqZoX) | 2:43 | 2023-08-08 |  |
+| [Coffee Breath](https://open.spotify.com/track/0CBjkW0sm2CjxjMaisEDPF) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/4xSZ20XQHahEsCKUydqZoX) | 2:43 | 2023-08-08 | 2023-09-27 |
 | [Coffee Breath](https://open.spotify.com/track/2h7j0zJ2eJ1qLfyjaqQP6n) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/5KOp9Y5L4icsdSUw7nwMyG) | 2:43 | 2023-08-08 | 2023-08-26 |
 | [Coffee Cups and Cigarettes](https://open.spotify.com/track/5VDPZfalNAXmR2XVT7Ty1n) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Coffee Cups and Cigarettes](https://open.spotify.com/album/5cG58A87PVvfgppW0KqK0Q) | 3:27 | 2023-08-08 |  |
 | [Company Car](https://open.spotify.com/track/3lrVIxiQWnc1cLWsmlfe6F) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Cubicle](https://open.spotify.com/album/1AZnBpcbI5gTWkQlqoIhy3) | 3:02 | 2022-06-22 | 2022-08-16 |

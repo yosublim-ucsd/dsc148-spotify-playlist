@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: 070 Shake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,506 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,528 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,808 likes - 91 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,072 likes - 91 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

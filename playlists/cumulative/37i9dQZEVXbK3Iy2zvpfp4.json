@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 101321,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/7lmmtMx2dEnF7WW4EAJomw"
@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 260689,
       "name": "Balling - L\u00c4UFF Remix",
       "url": "https://open.spotify.com/track/3PsQcSCxyOm5l96rQfEjVA"
@@ -2376,6 +2376,32 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "album": {
+        "name": "Babie leto v podzem\u00ed",
+        "url": "https://open.spotify.com/album/1b77hmZwV9NYXqFlH6qE3J"
+      },
+      "artists": [
+        {
+          "name": "Dusan Vlk",
+          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
+        },
+        {
+          "name": "Boy Wonder",
+          "url": "https://open.spotify.com/artist/0yA21JJ5WuKqymKDGlhx4F"
+        },
+        {
+          "name": "Prezident Lourajder",
+          "url": "https://open.spotify.com/artist/6w1NzP6f8uY9ydPbaNcZhT"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176136,
+      "name": "Baterky do rakety",
+      "url": "https://open.spotify.com/track/6y2qAo8BYS1Hm6IfOLHxf0"
     },
     {
       "album": {
@@ -3557,6 +3583,24 @@
     },
     {
       "album": {
+        "name": "Brick na brick",
+        "url": "https://open.spotify.com/album/6TX0UkYw0QXF3T7tRXhRBs"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173731,
+      "name": "Brick na brick",
+      "url": "https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih"
+    },
+    {
+      "album": {
         "name": "Bridges",
         "url": "https://open.spotify.com/album/0MpZN5tjvlgGGooZISXYki"
       },
@@ -3590,6 +3634,28 @@
       "duration_ms": 260713,
       "name": "BRING IT - Live",
       "url": "https://open.spotify.com/track/6ZVcJmwoh9xBmFazpXs7GL"
+    },
+    {
+      "album": {
+        "name": "Broken Trust",
+        "url": "https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH"
+      },
+      "artists": [
+        {
+          "name": "SAY3AM",
+          "url": "https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "Broken Trust",
+      "url": "https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte"
     },
     {
       "album": {
@@ -4043,6 +4109,28 @@
     },
     {
       "album": {
+        "name": "Ceresne Na Top",
+        "url": "https://open.spotify.com/album/3E0RPT6rY8YaODjLPMG4GF"
+      },
+      "artists": [
+        {
+          "name": "WEN",
+          "url": "https://open.spotify.com/artist/4521qGQWk4pQU8lvGgjNUx"
+        },
+        {
+          "name": "Hasan",
+          "url": "https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Ceresne Na Top",
+      "url": "https://open.spotify.com/track/4jPQM1xBxOtg1ZzIwcfCVL"
+    },
+    {
+      "album": {
         "name": "Cha Cha Cha",
         "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
       },
@@ -4072,7 +4160,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 189655,
       "name": "Chase The Sun",
       "url": "https://open.spotify.com/track/7kE5SGVpogBX5VXiTgYiRg"
@@ -4510,7 +4598,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 95686,
       "name": "Cola / Nanana (It Goes Like) - Sped Up",
       "url": "https://open.spotify.com/track/3pDqijcxYCRl59wZtoO3dz"
@@ -4696,7 +4784,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 227340,
       "name": "Covet",
       "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF"
@@ -5154,7 +5242,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 129522,
       "name": "Dance For Me (1, 2, 3)",
       "url": "https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac"
@@ -5996,7 +6084,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 188583,
       "name": "Dobr\u00fd r\u00e1no",
       "url": "https://open.spotify.com/track/1CUGw4WtjBTIE069lNXMTk"
@@ -6451,6 +6539,28 @@
     },
     {
       "album": {
+        "name": "Babie leto v podzem\u00ed",
+        "url": "https://open.spotify.com/album/1b77hmZwV9NYXqFlH6qE3J"
+      },
+      "artists": [
+        {
+          "name": "Dusan Vlk",
+          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
+        },
+        {
+          "name": "Fvck_kvlt",
+          "url": "https://open.spotify.com/artist/5szZkTtzRVM6BMoId7N5Fx"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210360,
+      "name": "D\u0159\u00edv nebylo l\u00edp",
+      "url": "https://open.spotify.com/track/6OJMr59RteXiIj6Uia85pJ"
+    },
+    {
+      "album": {
         "name": "D\u017eanum",
         "url": "https://open.spotify.com/album/7sac6tKZQBSIkOC9f0zVvA"
       },
@@ -6506,6 +6616,28 @@
       "duration_ms": 117354,
       "name": "E.T.",
       "url": "https://open.spotify.com/track/7rji3pwPqPCUVX2flQw8Zj"
+    },
+    {
+      "album": {
+        "name": "Babie leto v podzem\u00ed",
+        "url": "https://open.spotify.com/album/1b77hmZwV9NYXqFlH6qE3J"
+      },
+      "artists": [
+        {
+          "name": "Dusan Vlk",
+          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
+        },
+        {
+          "name": "Temn\u00fd Rudo",
+          "url": "https://open.spotify.com/artist/6ubRs37HBxX0xOiKwjbjAG"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200543,
+      "name": "EAST SENTINEL",
+      "url": "https://open.spotify.com/track/7G0srwzHysys10kcyimL7y"
     },
     {
       "album": {
@@ -7539,6 +7671,24 @@
     },
     {
       "album": {
+        "name": "First Day Out (Freestyle) Pt. 2",
+        "url": "https://open.spotify.com/album/2GMbT6TVTPmb8XQc2IOBNW"
+      },
+      "artists": [
+        {
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197459,
+      "name": "First Day Out (Freestyle) Pt. 2",
+      "url": "https://open.spotify.com/track/4oeUol0xLGJYCmiPypgUvi"
+    },
+    {
+      "album": {
         "name": "Blood Shore Season 3",
         "url": "https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy"
       },
@@ -8204,6 +8354,24 @@
       "duration_ms": 90000,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
       "album": {
@@ -9880,7 +10048,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/5UHHuxxYFnuE5KBbpl4Hzu"
@@ -10520,7 +10688,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 126600,
       "name": "I LOVE YOU HOE (w/ 9lives)",
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
@@ -11346,7 +11514,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 199512,
       "name": "ITALODISCO",
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
@@ -15965,6 +16133,28 @@
     },
     {
       "album": {
+        "name": "ZP\u00c1TKY NA SVOJ\u00cd PLANETU",
+        "url": "https://open.spotify.com/album/45MXq2Tan2W8vHbUTpYWaS"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207769,
+      "name": "NA ROHU",
+      "url": "https://open.spotify.com/track/3OItGxaQ15ha6j6MtP6SRp"
+    },
+    {
+      "album": {
         "name": "BIG BOY FM",
         "url": "https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5"
       },
@@ -16052,7 +16242,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 206197,
       "name": "Namotan\u00fd",
       "url": "https://open.spotify.com/track/7g96mXmUrgAQ2WrYSE4KTc"
@@ -16414,7 +16604,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 181894,
       "name": "Neviem N\u00e1js\u0165",
       "url": "https://open.spotify.com/track/1fN6LlgQl8yPHy4AqJmBvb"
@@ -16838,7 +17028,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 180774,
       "name": "Not Even Ghosts Are This Empty",
       "url": "https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI"
@@ -17842,6 +18032,24 @@
       "duration_ms": 204335,
       "name": "Panoptikon",
       "url": "https://open.spotify.com/track/0yjrZGfRBhIwCzm7y4TX3O"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/4z88BdW1w1ydXUstSUjgRZ"
+      },
+      "artists": [
+        {
+          "name": "Chri$tofer",
+          "url": "https://open.spotify.com/artist/5VOwwt6zccjmMXNxZeyhGt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170191,
+      "name": "PANORAMA",
+      "url": "https://open.spotify.com/track/54QisDYJoguOZMNBb4TPyF"
     },
     {
       "album": {
@@ -18912,6 +19120,36 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "album": {
+        "name": "Prada (Valexus Remix)",
+        "url": "https://open.spotify.com/album/1kmVDYAYMwrVavfO1PYC6q"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135125,
+      "name": "Prada - Valexus Remix",
+      "url": "https://open.spotify.com/track/1hmI7H4W0ChPH6vfa9i2CQ"
     },
     {
       "album": {
@@ -22573,6 +22811,28 @@
     },
     {
       "album": {
+        "name": "Babie leto v podzem\u00ed",
+        "url": "https://open.spotify.com/album/1b77hmZwV9NYXqFlH6qE3J"
+      },
+      "artists": [
+        {
+          "name": "Dusan Vlk",
+          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
+        },
+        {
+          "name": "RNZ",
+          "url": "https://open.spotify.com/artist/5JJGPmRgi5ugYtcCRZs9hp"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183551,
+      "name": "SSAA",
+      "url": "https://open.spotify.com/track/1nu2DnD8ZYfnTg9Aj1Z3D8"
+    },
+    {
+      "album": {
         "name": "Slzy Ulic",
         "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
       },
@@ -24874,7 +25134,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 255680,
       "name": "Tumblr Girls (feat. Christoph Andersson)",
       "url": "https://open.spotify.com/track/4Fv6wNYUixnYkj3Dgfrls8"
@@ -25456,6 +25716,24 @@
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+    },
+    {
+      "album": {
+        "name": "Babie leto v podzem\u00ed",
+        "url": "https://open.spotify.com/album/1b77hmZwV9NYXqFlH6qE3J"
+      },
+      "artists": [
+        {
+          "name": "Dusan Vlk",
+          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179543,
+      "name": "Venezia",
+      "url": "https://open.spotify.com/track/5Mx7ugM4ec67tTOxCsrhwv"
     },
     {
       "album": {
@@ -27376,6 +27654,28 @@
       "duration_ms": 194293,
       "name": "Y\u00e8gell\u00e9 Tezeta",
       "url": "https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg"
+    },
+    {
+      "album": {
+        "name": "Za tebou",
+        "url": "https://open.spotify.com/album/2m3djuMd6wR9IFvensnUhB"
+      },
+      "artists": [
+        {
+          "name": "Momo",
+          "url": "https://open.spotify.com/artist/48dz8C2SNCkNCy7DkU9tZE"
+        },
+        {
+          "name": "Alan Murin",
+          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167740,
+      "name": "Za tebou",
+      "url": "https://open.spotify.com/track/40y8OeHToofOvt0YXnpUMF"
     },
     {
       "album": {

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/1LRAhzP8t4glbwQWgljKpY"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wiese",
+          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/0WlUpjW0LMvVPQs0rOqz5d"
+    },
+    {
+      "album": {
         "name": "Adagio Cantabile",
         "url": "https://open.spotify.com/album/35BgRashHcSF0sfy8HmodF"
       },
@@ -1705,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
+      },
+      "artists": [
+        {
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125308,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
+    },
+    {
+      "album": {
         "name": "Lumi\u00e8re du Matin",
         "url": "https://open.spotify.com/album/4QKzhpZ1YAhVtWoZwrofTY"
       },
@@ -3216,6 +3252,24 @@
       "duration_ms": 183428,
       "name": "Un esprit vide",
       "url": "https://open.spotify.com/track/70hhkbMZsG1d0sEwMPzMfk"
+    },
+    {
+      "album": {
+        "name": "Under a tree",
+        "url": "https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn"
+      },
+      "artists": [
+        {
+          "name": "Janet Redger",
+          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138442,
+      "name": "Under a tree",
+      "url": "https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm"
     },
     {
       "album": {

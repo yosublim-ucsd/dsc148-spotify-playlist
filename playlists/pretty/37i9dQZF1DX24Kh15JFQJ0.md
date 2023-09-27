@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,686 likes - 169 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,697 likes - 169 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

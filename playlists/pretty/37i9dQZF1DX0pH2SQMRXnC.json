@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1245663,
+  "num_followers": 1245886,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
-        "name": "I Like To Party",
-        "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
-      },
-      "artists": [
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        },
-        {
-          "name": "DJ Junior (TW)",
-          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
-        }
-      ],
-      "duration_ms": 159483,
-      "name": "I Like To Party",
-      "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
-    },
-    {
-      "added_at": "2023-09-21 18:06:28",
-      "album": {
         "name": "Can Can",
         "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 128812,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
+    },
+    {
+      "added_at": "2023-09-21 18:06:28",
+      "album": {
+        "name": "I Like To Party",
+        "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
+      },
+      "artists": [
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        },
+        {
+          "name": "DJ Junior (TW)",
+          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
+        }
+      ],
+      "duration_ms": 159483,
+      "name": "I Like To Party",
+      "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/0oatD5dZBP91DHu6bgtMnK"
+      },
+      "artists": [
+        {
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Victorious",
+      "url": "https://open.spotify.com/track/7mc5jjo6PkhbMF9vQzUK3Q"
+    },
+    {
+      "added_at": "2023-09-21 18:06:28",
+      "album": {
         "name": "Destination",
         "url": "https://open.spotify.com/album/1hbNdwhhlWA1Pbb56nWoK0"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 221439,
       "name": "Destination",
       "url": "https://open.spotify.com/track/18oM3wT3P9tFxWC3Opzs18"
-    },
-    {
-      "added_at": "2023-09-21 18:06:28",
-      "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/0oatD5dZBP91DHu6bgtMnK"
-      },
-      "artists": [
-        {
-          "name": "Psyko Punkz",
-          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Victorious",
-      "url": "https://open.spotify.com/track/7mc5jjo6PkhbMF9vQzUK3Q"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/5DLb0mlE8cGOJcOUqJ0y23"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 207069,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/21kG2uhhjqAh3yJXDFs0M0"
-    },
-    {
-      "added_at": "2023-09-21 18:06:28",
-      "album": {
         "name": "Primal Energy (Defqon.1 2020 Anthem)",
         "url": "https://open.spotify.com/album/4JSAVsJOCKiUiEAiYrNWAx"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 316800,
       "name": "Primal Energy - Defqon.1 2020 Anthem",
       "url": "https://open.spotify.com/track/4WCjWUQGf66gxE6Re95Brp"
+    },
+    {
+      "added_at": "2023-09-21 18:06:28",
+      "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/5DLb0mlE8cGOJcOUqJ0y23"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 207069,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/21kG2uhhjqAh3yJXDFs0M0"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
+        "name": "Keepers Of Our Legacy",
+        "url": "https://open.spotify.com/album/0hF85b1g0YOWqRorVVUlkF"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 252549,
+      "name": "Keepers Of Our Legacy",
+      "url": "https://open.spotify.com/track/7w06cAEK8P7PzQCopSQyuJ"
+    },
+    {
+      "added_at": "2023-09-21 18:06:28",
+      "album": {
         "name": "Together As One (feat. Sam LeMay)",
         "url": "https://open.spotify.com/album/166fClZDJCV4TkLbY1LknN"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 135967,
       "name": "Chase The Sun (Hardstyle Mix)",
       "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
-    },
-    {
-      "added_at": "2023-09-21 18:06:28",
-      "album": {
-        "name": "Keepers Of Our Legacy",
-        "url": "https://open.spotify.com/album/0hF85b1g0YOWqRorVVUlkF"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        },
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        }
-      ],
-      "duration_ms": 252549,
-      "name": "Keepers Of Our Legacy",
-      "url": "https://open.spotify.com/track/7w06cAEK8P7PzQCopSQyuJ"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
+        "name": "Feel Inside",
+        "url": "https://open.spotify.com/album/38hPyLLn3FqBEymQE2V5gj"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Feel Inside",
+      "url": "https://open.spotify.com/track/52173U8Lw9eFYIQUGZUpQT"
+    },
+    {
+      "added_at": "2023-09-21 18:06:28",
+      "album": {
         "name": "Shabaka",
         "url": "https://open.spotify.com/album/46GQVv2jjSSb53Vn8nhy41"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 213400,
       "name": "Shabaka",
       "url": "https://open.spotify.com/track/12fXkI2VEpXy1xohgnOQlS"
-    },
-    {
-      "added_at": "2023-09-21 18:06:28",
-      "album": {
-        "name": "Feel Inside",
-        "url": "https://open.spotify.com/album/38hPyLLn3FqBEymQE2V5gj"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Feel Inside",
-      "url": "https://open.spotify.com/track/52173U8Lw9eFYIQUGZUpQT"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
-        "name": "HEAR THE NOISE",
-        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        }
-      ],
-      "duration_ms": 166988,
-      "name": "HEAR THE NOISE",
-      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
-    },
-    {
-      "added_at": "2023-09-21 18:06:28",
-      "album": {
         "name": "Superstring (Aftershock Remix)",
         "url": "https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 144020,
       "name": "Superstring - Aftershock Remix",
       "url": "https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2"
+    },
+    {
+      "added_at": "2023-09-21 18:06:28",
+      "album": {
+        "name": "HEAR THE NOISE",
+        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "duration_ms": 166988,
+      "name": "HEAR THE NOISE",
+      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -2039,6 +2039,26 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
+        "name": "Lift Me Up (Hard Mix)",
+        "url": "https://open.spotify.com/album/5QPKhPol4vmOWPk4K4XXHu"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Lift Me Up - Hard Mix",
+      "url": "https://open.spotify.com/track/7t0KwFT5N5r1cFJloJAHGn"
+    },
+    {
+      "added_at": "2023-09-21 18:06:28",
+      "album": {
         "name": "Meine Droge",
         "url": "https://open.spotify.com/album/3xlsaWASj6MxqlOGSc6vRZ"
       },
@@ -2075,26 +2095,6 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
-        "name": "DYSYLM",
-        "url": "https://open.spotify.com/album/7stU3YRinedh6SaVUlFL1M"
-      },
-      "artists": [
-        {
-          "name": "Gammer",
-          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
-        },
-        {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
-        }
-      ],
-      "duration_ms": 176051,
-      "name": "DYSYLM",
-      "url": "https://open.spotify.com/track/4tV6ku4jEYw9L5gZuNpCbP"
-    },
-    {
-      "added_at": "2023-09-21 18:06:28",
-      "album": {
         "name": "Orange Heart (feat. Sian Evans)",
         "url": "https://open.spotify.com/album/1AjWr3eqVWrYD0cUB9buhr"
       },
@@ -2115,22 +2115,22 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
-        "name": "Lift Me Up (Hard Mix)",
-        "url": "https://open.spotify.com/album/5QPKhPol4vmOWPk4K4XXHu"
+        "name": "DYSYLM",
+        "url": "https://open.spotify.com/album/7stU3YRinedh6SaVUlFL1M"
       },
       "artists": [
         {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Lift Me Up - Hard Mix",
-      "url": "https://open.spotify.com/track/7t0KwFT5N5r1cFJloJAHGn"
+      "duration_ms": 176051,
+      "name": "DYSYLM",
+      "url": "https://open.spotify.com/track/4tV6ku4jEYw9L5gZuNpCbP"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/69XAJqiyCPEEdnlnkZThVE"
+      },
+      "artists": [
+        {
+          "name": "Bass Modulators",
+          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
+    },
+    {
+      "added_at": "2023-09-21 18:06:28",
+      "album": {
         "name": "Use Somebody",
         "url": "https://open.spotify.com/album/092vyskf9htiWRdTiGtTel"
       },
@@ -2279,22 +2295,6 @@
       "duration_ms": 174400,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"
-    },
-    {
-      "added_at": "2023-09-21 18:06:28",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/69XAJqiyCPEEdnlnkZThVE"
-      },
-      "artists": [
-        {
-          "name": "Bass Modulators",
-          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
-        }
-      ],
-      "duration_ms": 244133,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/6WN1NA4eXWtdmNdXzjxEVS"
-      },
-      "artists": [
-        {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi"
-    },
-    {
-      "added_at": "2023-09-21 18:06:28",
-      "album": {
         "name": "Silver Bullet",
         "url": "https://open.spotify.com/album/3RB9nd2moNxaA2Wi3WQcOZ"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 182709,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/3MBP4fVf4bkD4HH7M4oA7f"
+    },
+    {
+      "added_at": "2023-09-21 18:06:28",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6WN1NA4eXWtdmNdXzjxEVS"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -2827,22 +2827,6 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
-        "name": "Brutal X",
-        "url": "https://open.spotify.com/album/4rsB0wKx8FDBW9Fdgsu9Bq"
-      },
-      "artists": [
-        {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Brutal X",
-      "url": "https://open.spotify.com/track/1eRkCRej0qKa0z4gHxMc3R"
-    },
-    {
-      "added_at": "2023-09-21 18:06:28",
-      "album": {
         "name": "No Paradise",
         "url": "https://open.spotify.com/album/6hq96WXyeVwi6UpYMaATa9"
       },
@@ -2859,18 +2843,18 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
-        "name": "Beat Of The Drum",
-        "url": "https://open.spotify.com/album/6AUQfrGH0q6Fk5j9WiEVUx"
+        "name": "Brutal X",
+        "url": "https://open.spotify.com/album/4rsB0wKx8FDBW9Fdgsu9Bq"
       },
       "artists": [
         {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
         }
       ],
-      "duration_ms": 224500,
-      "name": "Beat Of The Drum",
-      "url": "https://open.spotify.com/track/2SfZz1PiMgma882CqeEvqf"
+      "duration_ms": 268000,
+      "name": "Brutal X",
+      "url": "https://open.spotify.com/track/1eRkCRej0qKa0z4gHxMc3R"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -2891,6 +2875,22 @@
       "duration_ms": 216004,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/39vX6ttgqvy1NOo6DrMMa1"
+    },
+    {
+      "added_at": "2023-09-21 18:06:28",
+      "album": {
+        "name": "Beat Of The Drum",
+        "url": "https://open.spotify.com/album/6AUQfrGH0q6Fk5j9WiEVUx"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Beat Of The Drum",
+      "url": "https://open.spotify.com/track/2SfZz1PiMgma882CqeEvqf"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -3015,22 +3015,6 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
-        "name": "Hunters Lullaby 2020",
-        "url": "https://open.spotify.com/album/3Zx1ups2lvkCmbX7kiccFv"
-      },
-      "artists": [
-        {
-          "name": "\u00d8ien",
-          "url": "https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic"
-        }
-      ],
-      "duration_ms": 173754,
-      "name": "Hunters Lullaby 2020",
-      "url": "https://open.spotify.com/track/0ZvKkulRYWDCheU3Wb9yFY"
-    },
-    {
-      "added_at": "2023-09-21 18:06:28",
-      "album": {
         "name": "In Hardstyle We Trust (Melody Mix)",
         "url": "https://open.spotify.com/album/0cUZwW0wPp3HDebw6fZosP"
       },
@@ -3047,6 +3031,22 @@
       "duration_ms": 235009,
       "name": "In Hardstyle We Trust - Melody Mix",
       "url": "https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi"
+    },
+    {
+      "added_at": "2023-09-21 18:06:28",
+      "album": {
+        "name": "Hunters Lullaby 2020",
+        "url": "https://open.spotify.com/album/3Zx1ups2lvkCmbX7kiccFv"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ien",
+          "url": "https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic"
+        }
+      ],
+      "duration_ms": 173754,
+      "name": "Hunters Lullaby 2020",
+      "url": "https://open.spotify.com/track/0ZvKkulRYWDCheU3Wb9yFY"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -3091,22 +3091,6 @@
       "duration_ms": 177656,
       "name": "Moonlight Shadow - Stereo Faces Remix",
       "url": "https://open.spotify.com/track/4tjJ8HNYrI3msWoD9ZCIa3"
-    },
-    {
-      "added_at": "2023-09-21 18:06:28",
-      "album": {
-        "name": "CHAINSAW",
-        "url": "https://open.spotify.com/album/2GtHUUQQhwOhUJpmNY50fg"
-      },
-      "artists": [
-        {
-          "name": "Thyron",
-          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "CHAINSAW",
-      "url": "https://open.spotify.com/track/2iR2x7WYZbcntcTbw8swBl"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -3175,6 +3159,22 @@
       "duration_ms": 204387,
       "name": "NRG OVERLOAD",
       "url": "https://open.spotify.com/track/6e4iELsEdqiRDKZX9EJJ2F"
+    },
+    {
+      "added_at": "2023-09-21 18:06:28",
+      "album": {
+        "name": "CHAINSAW",
+        "url": "https://open.spotify.com/album/2GtHUUQQhwOhUJpmNY50fg"
+      },
+      "artists": [
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "CHAINSAW",
+      "url": "https://open.spotify.com/track/2iR2x7WYZbcntcTbw8swBl"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -3399,26 +3399,6 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/6i3w3ojtW5s8gz15CWd1rj"
-      },
-      "artists": [
-        {
-          "name": "Kronos",
-          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
-        },
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        }
-      ],
-      "duration_ms": 159843,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/4e6IeyAH5IxXM2XsyusvIb"
-    },
-    {
-      "added_at": "2023-09-21 18:06:28",
-      "album": {
         "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
         "url": "https://open.spotify.com/album/0YzBhIvuaOqtdBsVjmNnDq"
       },
@@ -3435,6 +3415,22 @@
       "duration_ms": 288000,
       "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
       "url": "https://open.spotify.com/track/1VtGStey2iPgtZSLHU6sf0"
+    },
+    {
+      "added_at": "2023-09-21 18:06:28",
+      "album": {
+        "name": "Synergy (Reverze Anthem 2023)",
+        "url": "https://open.spotify.com/album/2DFnOsiIW1zeJhkB9LPfzr"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 288173,
+      "name": "Synergy (Reverze Anthem 2023)",
+      "url": "https://open.spotify.com/track/2dOCTLSM95VSHT3wOcCyPE"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -3459,18 +3455,22 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
-        "name": "Synergy (Reverze Anthem 2023)",
-        "url": "https://open.spotify.com/album/2DFnOsiIW1zeJhkB9LPfzr"
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/6i3w3ojtW5s8gz15CWd1rj"
       },
       "artists": [
         {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+          "name": "Kronos",
+          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+        },
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
         }
       ],
-      "duration_ms": 288173,
-      "name": "Synergy (Reverze Anthem 2023)",
-      "url": "https://open.spotify.com/track/2dOCTLSM95VSHT3wOcCyPE"
+      "duration_ms": 159843,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4e6IeyAH5IxXM2XsyusvIb"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -3819,26 +3819,22 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
-        "name": "Stereo Love (Dark Rehab Remix)",
-        "url": "https://open.spotify.com/album/0DtKJsBKbUIoMoHhInLfwn"
+        "name": "Embracing The Madness",
+        "url": "https://open.spotify.com/album/0v8D68fi3xWxB6SeocDTtK"
       },
       "artists": [
         {
-          "name": "Edward Maya",
-          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
         },
         {
-          "name": "Vika Jigulina",
-          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
-        },
-        {
-          "name": "Dark Rehab",
-          "url": "https://open.spotify.com/artist/24jS2MsXlq7YvtdPeOt3xn"
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
         }
       ],
-      "duration_ms": 206352,
-      "name": "Stereo Love - Dark Rehab Remix",
-      "url": "https://open.spotify.com/track/7y6r9UBkaWSproYktbdPkz"
+      "duration_ms": 196896,
+      "name": "Embracing The Madness",
+      "url": "https://open.spotify.com/track/31zOoImZZMK5rlmiO4NiYL"
     },
     {
       "added_at": "2023-09-21 18:06:28",
@@ -3867,22 +3863,26 @@
     {
       "added_at": "2023-09-21 18:06:28",
       "album": {
-        "name": "Embracing The Madness",
-        "url": "https://open.spotify.com/album/0v8D68fi3xWxB6SeocDTtK"
+        "name": "Stereo Love (Dark Rehab Remix)",
+        "url": "https://open.spotify.com/album/0DtKJsBKbUIoMoHhInLfwn"
       },
       "artists": [
         {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
         },
         {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+          "name": "Vika Jigulina",
+          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
+        },
+        {
+          "name": "Dark Rehab",
+          "url": "https://open.spotify.com/artist/24jS2MsXlq7YvtdPeOt3xn"
         }
       ],
-      "duration_ms": 196896,
-      "name": "Embracing The Madness",
-      "url": "https://open.spotify.com/track/31zOoImZZMK5rlmiO4NiYL"
+      "duration_ms": 206352,
+      "name": "Stereo Love - Dark Rehab Remix",
+      "url": "https://open.spotify.com/track/7y6r9UBkaWSproYktbdPkz"
     },
     {
       "added_at": "2023-09-21 18:06:28",

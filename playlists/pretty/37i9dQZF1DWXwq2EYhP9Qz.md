@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwq2EYhP9Qz.md) - [plain]
 
 > Our editors' favorites of the moment\. Save them to your collection before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,998 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,006 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e carica musicale! ",
-  "num_followers": 308730,
+  "num_followers": 308726,
   "original_name": "Caff\u00e8 del Buongiorno",
   "owner": {
     "name": "Spotify",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-09-06 15:16:56",
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
+    },
+    {
+      "added_at": "2023-09-06 15:16:56",
+      "album": {
         "name": "BAILAR CONTIGO",
         "url": "https://open.spotify.com/album/0WzsZzwIw15yVvkBHx3XRG"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 223352,
       "name": "BAILAR CONTIGO",
       "url": "https://open.spotify.com/track/2GdHCkeAycTJ1RgMlptaRE"
-    },
-    {
-      "added_at": "2023-09-06 15:16:56",
-      "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
     },
     {
       "added_at": "2023-09-06 15:16:56",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-09-06 15:16:56",
       "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 175163,
+      "name": "High",
+      "url": "https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL"
+    },
+    {
+      "added_at": "2023-09-06 15:16:56",
+      "album": {
         "name": "Coming Your Way (with Anne-Marie & Becky G)",
         "url": "https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 145122,
       "name": "Coming Your Way (with Anne-Marie & Becky G)",
       "url": "https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh"
-    },
-    {
-      "added_at": "2023-09-06 15:16:56",
-      "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 175163,
-      "name": "High",
-      "url": "https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL"
     }
   ],
   "unique_name": "Caff\u00e8 del Buongiorno",

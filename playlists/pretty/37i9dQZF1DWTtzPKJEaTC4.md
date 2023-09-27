@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:6iWuBN32BqCJAeXW6o3nil">Cautious Clay</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,366 likes - 25 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,375 likes - 25 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

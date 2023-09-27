@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Kane Brown",
-  "num_followers": 513319,
+  "num_followers": 513423,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
-        "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 200346,
-      "name": "Save Me The Trouble",
-      "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
+      "duration_ms": 214798,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
+        "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
+        "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 214798,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J"
+      "duration_ms": 200346,
+      "name": "Save Me The Trouble",
+      "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
         "name": "Hey World",
         "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 167680,
       "name": "Soul",
       "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
+        "name": "Hey World",
+        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "Save The Roses",
+      "url": "https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
         "name": "You, Me, And Whiskey",
         "url": "https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 187941,
       "name": "You, Me, And Whiskey",
       "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Hey World",
-        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 201440,
-      "name": "Save The Roses",
-      "url": "https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E"
     },
     {
       "added_at": "2023-09-22 04:01:00",

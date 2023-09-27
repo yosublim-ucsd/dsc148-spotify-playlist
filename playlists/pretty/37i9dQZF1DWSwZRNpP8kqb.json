@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 20333,
+  "num_followers": 20356,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "Aut\u00f3ctona",
-        "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
-      },
-      "artists": [
-        {
-          "name": "Roxana Carabajal",
-          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
-        }
-      ],
-      "duration_ms": 140600,
-      "name": "D\u00edas para Celebrar",
-      "url": "https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
         "name": "Remedio Pal Alma",
         "url": "https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi"
       },
@@ -591,6 +575,26 @@
       "duration_ms": 218893,
       "name": "De Los Dias, Los Mas Lindos",
       "url": "https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
+        "name": "Bendiciones",
+        "url": "https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl"
+      },
+      "artists": [
+        {
+          "name": "Sandra Mihanovich",
+          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 210771,
+      "name": "Bendiciones",
+      "url": "https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -643,22 +647,34 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "Bendiciones",
-        "url": "https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl"
+        "name": "Aut\u00f3ctona",
+        "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
       },
       "artists": [
         {
-          "name": "Sandra Mihanovich",
-          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+          "name": "Roxana Carabajal",
+          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
         }
       ],
-      "duration_ms": 210771,
-      "name": "Bendiciones",
-      "url": "https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI"
+      "duration_ms": 140600,
+      "name": "D\u00edas para Celebrar",
+      "url": "https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
+        "name": "Aleteo",
+        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
+      },
+      "artists": [
+        {
+          "name": "Carolina del Carmen Peleritti",
+          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
+        }
+      ],
+      "duration_ms": 204700,
+      "name": "Aleteo",
+      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "Aleteo",
-        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
-      },
-      "artists": [
-        {
-          "name": "Carolina del Carmen Peleritti",
-          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
-        }
-      ],
-      "duration_ms": 204700,
-      "name": "Aleteo",
-      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
         "name": "CARNAVALITO DEL DUENDE",
         "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "La Olvidada",
-        "url": "https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ"
-      },
-      "artists": [
-        {
-          "name": "Nati Pastorutti",
-          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
-        }
-      ],
-      "duration_ms": 154977,
-      "name": "La Olvidada",
-      "url": "https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
         "name": "Canto Enamorado",
         "url": "https://open.spotify.com/album/4j9cLwpYYtEVoHxQTNmNrZ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 184100,
       "name": "Canto Enamorado",
       "url": "https://open.spotify.com/track/7BRno8jhBTQXCQbqJNFGrq"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
+        "name": "La Olvidada",
+        "url": "https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ"
+      },
+      "artists": [
+        {
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+        }
+      ],
+      "duration_ms": 154977,
+      "name": "La Olvidada",
+      "url": "https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -831,6 +831,22 @@
       "duration_ms": 143346,
       "name": "Campo Afuera",
       "url": "https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
+        "name": "Pajarito",
+        "url": "https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Pajarito",
+      "url": "https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "Pajarito",
-        "url": "https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Pajarito",
-      "url": "https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
         "name": "Cr\u00eda",
         "url": "https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8"
       },
@@ -955,18 +955,22 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "La Madrugada",
-        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
+        "name": "Formose\u00f1a",
+        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
       },
       "artists": [
         {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        },
+        {
+          "name": "Celso Duarte",
+          "url": "https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841"
         }
       ],
-      "duration_ms": 245804,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
+      "duration_ms": 203440,
+      "name": "El Mentiroso",
+      "url": "https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -983,6 +987,22 @@
       "duration_ms": 320400,
       "name": "Zamba del Laurel",
       "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
+        "name": "La Madrugada",
+        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
+      },
+      "artists": [
+        {
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+        }
+      ],
+      "duration_ms": 245804,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -1059,6 +1079,54 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
+        "name": "Las Simples Cosas",
+        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 170562,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
+        "name": "Soy Semilla",
+        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
+      },
+      "artists": [
+        {
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+        }
+      ],
+      "duration_ms": 220941,
+      "name": "Algo de M\u00ed",
+      "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
+        "name": "Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy"
+      },
+      "artists": [
+        {
+          "name": "Suna Rocha",
+          "url": "https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf"
+        }
+      ],
+      "duration_ms": 286627,
+      "name": "El seclante\u00f1o",
+      "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
         "name": "Mi Fortuna",
         "url": "https://open.spotify.com/album/5S5fXBVVgU0E56OKh5dowP"
       },
@@ -1079,42 +1147,6 @@
       "duration_ms": 217035,
       "name": "La Luminosa",
       "url": "https://open.spotify.com/track/4LaPXJhWXZeFphemEgp6M0"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
-        "name": "Las Simples Cosas",
-        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 170562,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
-        "name": "Formose\u00f1a",
-        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        },
-        {
-          "name": "Celso Duarte",
-          "url": "https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "El Mentiroso",
-      "url": "https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -1143,38 +1175,6 @@
       "duration_ms": 212100,
       "name": "Zamba del Renacer",
       "url": "https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
-        "name": "Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy"
-      },
-      "artists": [
-        {
-          "name": "Suna Rocha",
-          "url": "https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf"
-        }
-      ],
-      "duration_ms": 286627,
-      "name": "El seclante\u00f1o",
-      "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
-        "name": "Soy Semilla",
-        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
-      },
-      "artists": [
-        {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
-        }
-      ],
-      "duration_ms": 220941,
-      "name": "Algo de M\u00ed",
-      "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
+        "name": "Vuelve a Sonar",
+        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
+      },
+      "artists": [
+        {
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+        }
+      ],
+      "duration_ms": 164394,
+      "name": "Vuelve a Sonar",
+      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
         "name": "Humanas Voces",
         "url": "https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 189906,
       "name": "La Estrella Azul",
       "url": "https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
-        "name": "Cantora",
-        "url": "https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29"
-      },
-      "artists": [
-        {
-          "name": "Julia Elena D\u00e1valos",
-          "url": "https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "La Maimare\u00f1a",
-      "url": "https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J"
     }
   ],
   "unique_name": "Mujeres del Folklore",

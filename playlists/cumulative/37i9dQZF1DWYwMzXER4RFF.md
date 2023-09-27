@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-344 songs - 21 hr 41 min
+345 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Montage Music](https://open.spotify.com/track/3c0WNan3RX8ge7dRiCo8ON) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Either Light](https://open.spotify.com/album/7xEUEQPJ4vpZ9JVpnb1nWT) | 3:14 | 2022-08-25 | 2022-11-13 |
 | [Montage Music](https://open.spotify.com/track/4w63AOnbaNstQMinV5Lzad) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Montage Music](https://open.spotify.com/album/22RtlgDRtoki1KT4Ilo2Xe) | 3:14 | 2021-12-06 | 2022-07-29 |
 | [Month](https://open.spotify.com/track/2Ywh6o1lKsdFQsivAb8Rgt) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Month](https://open.spotify.com/album/5di0gwgYeGed7TbKKsQO2b) | 3:03 | 2021-12-06 | 2022-07-26 |
-| [Nah, That Ain't It](https://open.spotify.com/track/38TaGhJuDI9mXDCCA3FxyI) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:46 | 2023-07-28 |  |
+| [Nah, That Ain't It](https://open.spotify.com/track/38TaGhJuDI9mXDCCA3FxyI) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:46 | 2023-07-28 | 2023-09-27 |
 | [Narrator \- Edit](https://open.spotify.com/track/0kU1dKmPqpSjHBMQ0lU9z1) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo), [Martha Skye Murphy](https://open.spotify.com/artist/4riGlB4lkpPDgJscJid8FA) | [Narrator](https://open.spotify.com/album/7sdU15Z5EaCoV2xIpqddJg) | 4:32 | 2021-12-06 | 2022-07-23 |
 | [Neighbours](https://open.spotify.com/track/1rTF8mDVLyFbpiO1Z0sIly) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Neighbours](https://open.spotify.com/album/3hTpinmnLhE3L66mI6B2Pz) | 3:58 | 2022-03-11 | 2022-04-28 |
 | [Neighbours](https://open.spotify.com/track/4zjBwjFMeZ5sYruyInDDIE) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Neighbours](https://open.spotify.com/album/4X04uW1W518fO5Ej2IQwkt) | 3:58 | 2021-12-06 | 2022-07-29 |
@@ -287,12 +287,13 @@
 | [Sports](https://open.spotify.com/track/5aLD8CPaEu3Cj9ZcAqWWA6) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:57 | 2022-06-16 |  |
 | [St\. Paul of the Tarantulas](https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | ['Til The Stream Runs Dry](https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO) | 4:20 | 2022-06-16 |  |
 | [Stick](https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH) | 3:22 | 2022-06-16 | 2023-04-29 |
-| [Stick](https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3) | 3:22 | 2023-02-24 | 2023-09-21 |
+| [Stick](https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3) | 3:22 | 2023-02-24 |  |
 | [Stick](https://open.spotify.com/track/3MM4P4bSI9aihs5hVYPzYt) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/2xNYSaif99d92Z5WI45tBU) | 3:22 | 2021-12-06 | 2022-07-24 |
 | [Stimulus for Living](https://open.spotify.com/track/6ZuhUEBqrXxvsrxAymcwzh) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Stimulus for Living](https://open.spotify.com/album/1Pcw6W5bkYJmrriyrzdzgE) | 3:05 | 2021-12-06 | 2022-07-26 |
 | [Stoned Again \- Live](https://open.spotify.com/track/1fwPnO7m3MdoOCYQg7iM4N) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Stoned Again \(Live\)](https://open.spotify.com/album/40iVqxTgLbAXafP2VnYOyO) | 3:20 | 2021-12-06 | 2022-07-29 |
 | [Strong Enough](https://open.spotify.com/track/3zCp3vtCQD11S9VyqHVQlN) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [Let’s Not Fight ! b/w Strong Enough](https://open.spotify.com/album/2h37G8TLnjMalTMQJeJFMD) | 3:11 | 2021-12-06 | 2022-07-17 |
-| [Stumbling Still](https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Stumbling Still](https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh) | 4:39 | 2023-07-28 |  |
+| [Stumbling Still](https://open.spotify.com/track/2kGKxXOSLegpsXQOAhMqCH) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Strange Disciple](https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK) | 4:39 | 2023-07-28 |  |
+| [Stumbling Still](https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Stumbling Still](https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh) | 4:39 | 2023-07-28 | 2023-09-27 |
 | [Sunglasses \- Edit](https://open.spotify.com/track/449tx8bd5PFEw5dT0KPpLz) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Sunglasses](https://open.spotify.com/album/5mfH9Qe9rtjrLBpLE6zL2P) | 4:36 | 2021-12-06 | 2022-07-27 |
 | [Suntan](https://open.spotify.com/track/3dX7k03fCG9VANcuLDiomu) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan](https://open.spotify.com/album/4kaozidUUVbgoyxIEge7qm) | 4:59 | 2021-12-06 | 2022-10-29 |
 | [Suntan](https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan / Damocles](https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC) | 4:59 | 2022-08-25 | 2023-06-21 |

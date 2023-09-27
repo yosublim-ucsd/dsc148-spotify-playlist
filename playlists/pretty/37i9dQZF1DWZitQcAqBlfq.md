@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZitQcAqBlfq.md) - [plain]
 
 > British producer <a href="spotify:artist:3KOHpygRuo1ruQAbEneR3t">George FitzGerald</a> explores the ethereal world of Electronic Music in his latest DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,794 likes - 15 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,808 likes - 15 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

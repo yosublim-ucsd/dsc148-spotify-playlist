@@ -1,6 +1,6 @@
 {
   "description": "In cerca di energie? Prova con la nostra playlist!",
-  "num_followers": 167730,
+  "num_followers": 167744,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
+        "name": "10 Out Of 10 (feat. Kylie Minogue)",
+        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         },
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 232120,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
+      "duration_ms": 170602,
+      "name": "10 Out Of 10 (feat. Kylie Minogue)",
+      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -907,6 +907,26 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Peru (R3HAB Remix)",
         "url": "https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 149752,
       "name": "Peru - R3HAB Remix",
       "url": "https://open.spotify.com/track/3kv0lHXKrW8oltTe7fYbBq"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "10 Out Of 10 (feat. Kylie Minogue)",
-        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "10 Out Of 10 (feat. Kylie Minogue)",
-      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
-        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        }
-      ],
-      "duration_ms": 162081,
-      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
-      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Euphoric Sad Songs",
         "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
@@ -1251,26 +1227,6 @@
       "duration_ms": 197573,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Perfect Melody",
-        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 159850,
-      "name": "Perfect Melody",
-      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1299,6 +1255,50 @@
       "duration_ms": 250280,
       "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
       "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Perfect Melody",
+        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 159850,
+      "name": "Perfect Melody",
+      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
+        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        }
+      ],
+      "duration_ms": 162081,
+      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
+      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Happy Machine",
-        "url": "https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Aleyna Tilki",
-          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
-        }
-      ],
-      "duration_ms": 135265,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Take Me To The Sunshine (feat. BullySongs)",
         "url": "https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd"
       },
@@ -1499,22 +1479,38 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Heaven On My Mind (with Sigala)",
-        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+        "name": "Happy Machine",
+        "url": "https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
         }
       ],
-      "duration_ms": 192573,
-      "name": "Heaven On My Mind (with Sigala)",
-      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
+      "duration_ms": 135265,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Waves of Blue",
+      "url": "https://open.spotify.com/track/4lKe0viSvv8ckoTPvHBih1"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1543,38 +1539,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Wildest Dreams",
-        "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
       },
       "artists": [
         {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Waves of Blue",
-      "url": "https://open.spotify.com/track/4lKe0viSvv8ckoTPvHBih1"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh"
-      },
-      "artists": [
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         }
       ],
-      "duration_ms": 186184,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM"
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1595,6 +1575,26 @@
       "duration_ms": 198703,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 186184,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM"
     },
     {
       "added_at": "2023-07-07 04:01:00",

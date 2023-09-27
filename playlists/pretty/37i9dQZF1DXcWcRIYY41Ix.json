@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Gato e\u2019 Monte.",
-  "num_followers": 116566,
+  "num_followers": 116579,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,18 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "El Viejo Comunista",
-        "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz"
       },
       "artists": [
         {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
         }
       ],
-      "duration_ms": 297000,
-      "name": "El Viejo Comunista",
-      "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
+      "duration_ms": 196034,
+      "name": "Hace rato",
+      "url": "https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -567,18 +563,22 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz"
+        "name": "El Viejo Comunista",
+        "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 196034,
-      "name": "Hace rato",
-      "url": "https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj"
+      "duration_ms": 297000,
+      "name": "El Viejo Comunista",
+      "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Interludio para mi Julita",
-        "url": "https://open.spotify.com/album/3C6poAVbvKcs2CY8P2SzwH"
+        "name": "Ninguna posibilidad",
+        "url": "https://open.spotify.com/album/3Nz3E3HwGweW9jZyeq97T9"
       },
       "artists": [
         {
-          "name": "Rupatrupa",
-          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
         }
       ],
-      "duration_ms": 89174,
-      "name": "Interludio para mi Julita",
-      "url": "https://open.spotify.com/track/7HStg28f1GBPvMY1WkPVTY"
+      "duration_ms": 164817,
+      "name": "Ninguna posibilidad",
+      "url": "https://open.spotify.com/track/2cCbr2IvZ48GI6VTTmI8X4"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Ninguna posibilidad",
-        "url": "https://open.spotify.com/album/3Nz3E3HwGweW9jZyeq97T9"
+        "name": "Interludio para mi Julita",
+        "url": "https://open.spotify.com/album/3C6poAVbvKcs2CY8P2SzwH"
       },
       "artists": [
         {
-          "name": "Mercedes Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
         }
       ],
-      "duration_ms": 164817,
-      "name": "Ninguna posibilidad",
-      "url": "https://open.spotify.com/track/2cCbr2IvZ48GI6VTTmI8X4"
+      "duration_ms": 89174,
+      "name": "Interludio para mi Julita",
+      "url": "https://open.spotify.com/track/7HStg28f1GBPvMY1WkPVTY"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -827,22 +827,6 @@
       "duration_ms": 224501,
       "name": "la ra\u00edz",
       "url": "https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
-        "name": "La Utop\u00eda en que Vivimos",
-        "url": "https://open.spotify.com/album/1QCfbXagWcqyxSbOoszNQT"
-      },
-      "artists": [
-        {
-          "name": "Rupatrupa",
-          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
-        }
-      ],
-      "duration_ms": 303699,
-      "name": "La Cultura del Miedo",
-      "url": "https://open.spotify.com/track/2nSqBmRIDOlsBeiM2jdsup"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -967,6 +951,22 @@
       "duration_ms": 180157,
       "name": "Camino Que Pasa",
       "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
+        "name": "La Utop\u00eda en que Vivimos",
+        "url": "https://open.spotify.com/album/1QCfbXagWcqyxSbOoszNQT"
+      },
+      "artists": [
+        {
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+        }
+      ],
+      "duration_ms": 303699,
+      "name": "La Cultura del Miedo",
+      "url": "https://open.spotify.com/track/2nSqBmRIDOlsBeiM2jdsup"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Ale",
-        "url": "https://open.spotify.com/album/6L2j0NdKnephA0aVhZOa6j"
-      },
-      "artists": [
-        {
-          "name": "Alex Serra",
-          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
-        }
-      ],
-      "duration_ms": 402936,
-      "name": "Ale",
-      "url": "https://open.spotify.com/track/1yDi6XDgOuhQxE5M2q7i9Z"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
         "name": "Pasajeros",
         "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 312413,
       "name": "Nin\u0303a de mis ojos",
       "url": "https://open.spotify.com/track/6VhLNiAEbawLpsUgBIZt5P"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
+        "name": "Ale",
+        "url": "https://open.spotify.com/album/6L2j0NdKnephA0aVhZOa6j"
+      },
+      "artists": [
+        {
+          "name": "Alex Serra",
+          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
+        }
+      ],
+      "duration_ms": 402936,
+      "name": "Ale",
+      "url": "https://open.spotify.com/track/1yDi6XDgOuhQxE5M2q7i9Z"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1183,38 +1183,6 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Tu Casa",
-        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Tu Casa",
-      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
         "name": "Versiones Desnudas",
         "url": "https://open.spotify.com/album/1YDdzdMjyLYx6C9bRA3sJo"
       },
@@ -1235,6 +1203,22 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
         "name": "Las Bestias Que Me Acompa\u00f1an",
         "url": "https://open.spotify.com/album/4VfTnbsFhguLzTTOCYUcO9"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 222428,
       "name": "Las Bestias Que Me Acompa\u00f1an",
       "url": "https://open.spotify.com/track/7u7dzBVfptwhsuNqKHMBXn"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
+        "name": "Tu Casa",
+        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Tu Casa",
+      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Rumba en Cahuita",
-        "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 167752,
-      "name": "Rumba en Cahuita",
-      "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
         "name": "San Juan",
         "url": "https://open.spotify.com/album/6fcoytjtpLguNPlNxGi2HC"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 219681,
       "name": "poquito",
       "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
+        "name": "Rumba en Cahuita",
+        "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 167752,
+      "name": "Rumba en Cahuita",
+      "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "LXS INFERNALES (Del Valle Encantado)",
-        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 182256,
-      "name": "TRIGAL",
-      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
-    },
-    {
-      "added_at": "2023-09-15 06:00:00",
-      "album": {
         "name": "Yo Soy",
         "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2023-09-15 06:00:00",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
       },
       "artists": [
         {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+      "duration_ms": 182256,
+      "name": "TRIGAL",
+      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
     },
     {
       "added_at": "2023-09-15 06:00:00",
@@ -1571,6 +1555,22 @@
       "duration_ms": 290250,
       "name": "Tratar\u00e9",
       "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
+    },
+    {
+      "added_at": "2023-09-15 06:00:00",
+      "album": {
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2023-09-15 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Cover: Appino
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,803 likes - 66 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,806 likes - 66 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

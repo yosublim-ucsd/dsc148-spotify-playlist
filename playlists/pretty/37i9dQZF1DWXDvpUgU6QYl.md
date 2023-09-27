@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 
 > A groovy and soulful house collection\. Cover: FISHER, Kita Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,100 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,182 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

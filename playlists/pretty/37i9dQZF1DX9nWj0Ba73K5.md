@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,170 likes - 219 songs - 12 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,176 likes - 219 songs - 12 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

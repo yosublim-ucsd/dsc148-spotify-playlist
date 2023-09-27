@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 63396,
+  "num_followers": 63443,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
@@ -751,26 +751,22 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Ainda",
-        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0"
       },
       "artists": [
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
         },
         {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
         }
       ],
-      "duration_ms": 154378,
-      "name": "Essa Noite",
-      "url": "https://open.spotify.com/track/6g0IE3b4slstOTvcm5D67J"
+      "duration_ms": 197052,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/2W0VenqvlMW4c65YsxT5zu"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -843,22 +839,26 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0"
+        "name": "Ainda",
+        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
       },
       "artists": [
         {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
         }
       ],
-      "duration_ms": 197052,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/2W0VenqvlMW4c65YsxT5zu"
+      "duration_ms": 154378,
+      "name": "Essa Noite",
+      "url": "https://open.spotify.com/track/6g0IE3b4slstOTvcm5D67J"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -999,6 +999,30 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "Casal Mandrake",
+        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "duration_ms": 139826,
+      "name": "Casal Mandrake",
+      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "Outras Vidas",
         "url": "https://open.spotify.com/album/6wb4X7EEXq5e9EGtTjT31P"
       },
@@ -1067,30 +1091,6 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Casal Mandrake",
-        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        }
-      ],
-      "duration_ms": 139826,
-      "name": "Casal Mandrake",
-      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
         "name": "Deixa Eu Te Chamar de Moz\u00e3o",
         "url": "https://open.spotify.com/album/3YnHedfeESbbi1atWZzxHF"
       },
@@ -1107,118 +1107,6 @@
       "duration_ms": 222014,
       "name": "Deixa Eu Te Chamar de Moz\u00e3o",
       "url": "https://open.spotify.com/track/2YNG9JeshL9zj6WzcFn63T"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "Te Escolhi",
-        "url": "https://open.spotify.com/album/0ELHnYigaQCw8JJhnzrAB0"
-      },
-      "artists": [
-        {
-          "name": "MC Luan da BS",
-          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
-        }
-      ],
-      "duration_ms": 108460,
-      "name": "Te Escolhi",
-      "url": "https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "Mundo Pequeno",
-        "url": "https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 228252,
-      "name": "Mundo Pequeno",
-      "url": "https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "GR6 Convoca #01 (Relacionamentos)",
-        "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "MC Marks",
-          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "MC Rodolfinho",
-          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
-        },
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
-          "name": "DJ 900",
-          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
-        }
-      ],
-      "duration_ms": 472615,
-      "name": "GR6 Convoca #01 (Relacionamentos)",
-      "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "Surtada",
-        "url": "https://open.spotify.com/album/3NYNo4VJJXOSpKMh0AAjMN"
-      },
-      "artists": [
-        {
-          "name": "CARTE",
-          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
-        },
-        {
-          "name": "Dona Lan\u00f4r",
-          "url": "https://open.spotify.com/artist/78D1YLx2ttGLPXOLCceWMP"
-        }
-      ],
-      "duration_ms": 143061,
-      "name": "Surtada",
-      "url": "https://open.spotify.com/track/3gZXNwLzMQdlpDsfHC9PPz"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -1275,6 +1163,118 @@
       "duration_ms": 610515,
       "name": "Love - Ac\u00fastico",
       "url": "https://open.spotify.com/track/59glxsHIDG5MSdPuqh8fpW"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "Te Escolhi",
+        "url": "https://open.spotify.com/album/0ELHnYigaQCw8JJhnzrAB0"
+      },
+      "artists": [
+        {
+          "name": "MC Luan da BS",
+          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
+        }
+      ],
+      "duration_ms": 108460,
+      "name": "Te Escolhi",
+      "url": "https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "GR6 Convoca #01 (Relacionamentos)",
+        "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "MC Rodolfinho",
+          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
+        }
+      ],
+      "duration_ms": 472615,
+      "name": "GR6 Convoca #01 (Relacionamentos)",
+      "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "Mundo Pequeno",
+        "url": "https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 228252,
+      "name": "Mundo Pequeno",
+      "url": "https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "Surtada",
+        "url": "https://open.spotify.com/album/3NYNo4VJJXOSpKMh0AAjMN"
+      },
+      "artists": [
+        {
+          "name": "CARTE",
+          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
+        },
+        {
+          "name": "Dona Lan\u00f4r",
+          "url": "https://open.spotify.com/artist/78D1YLx2ttGLPXOLCceWMP"
+        }
+      ],
+      "duration_ms": 143061,
+      "name": "Surtada",
+      "url": "https://open.spotify.com/track/3gZXNwLzMQdlpDsfHC9PPz"
     },
     {
       "added_at": "2023-08-25 03:01:00",

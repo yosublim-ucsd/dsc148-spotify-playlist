@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=wbOt7KOzRWmFwXWKXV6xZg">Brendan Peyper</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,407 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,478 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

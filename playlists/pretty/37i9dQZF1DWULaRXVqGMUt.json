@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 42270,
+  "num_followers": 42302,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Blues Kingpin",
-        "url": "https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 139626,
-      "name": "Boogie Woogie Baby",
-      "url": "https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "The Lost Paramount Tapes",
         "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 235280,
       "name": "Junco Partner #2",
       "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Blues Kingpin",
+        "url": "https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 139626,
+      "name": "Boogie Woogie Baby",
+      "url": "https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "Stop Rockin' That Train",
+        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "Choo Choo Ch' Boogie",
+      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 173293,
       "name": "The House of Blue Lights",
       "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "Stop Rockin' That Train",
-        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "Choo Choo Ch' Boogie",
-      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
     },
     {
       "added_at": "2023-09-15 11:42:58",

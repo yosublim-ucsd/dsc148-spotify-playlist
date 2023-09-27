@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 2864,
+  "num_followers": 2875,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 306780,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Moy\u2019 Oyingcwele (Live)",
         "url": "https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 500087,
       "name": "Moy\u2019 Oyingcwele (Live)",
       "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 306780,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
     },
     {
       "added_at": "2023-08-25 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Dewa Budjana
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,828 likes - 79 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,841 likes - 79 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,841 likes - 72 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,842 likes - 72 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

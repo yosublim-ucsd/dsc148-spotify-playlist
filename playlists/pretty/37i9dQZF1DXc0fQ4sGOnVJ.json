@@ -1,6 +1,6 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 150386,
+  "num_followers": 150390,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
+        "name": "Kuntry Livin'",
+        "url": "https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0"
+      },
+      "artists": [
+        {
+          "name": "SMO",
+          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Bumpy Road",
+      "url": "https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
         "name": "Muddy Days Drunken Nights",
         "url": "https://open.spotify.com/album/10kU2gbvQq0alFj6jmgwqK"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 192214,
       "name": "Rippin It up (feat. Bubba Sparxxx, Boondock Kingz, Porch Matthews & Jawga Boyz)",
       "url": "https://open.spotify.com/track/6BOqVMxqQxkxknO3COfzrG"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Kuntry Livin'",
-        "url": "https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0"
-      },
-      "artists": [
-        {
-          "name": "SMO",
-          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Bumpy Road",
-      "url": "https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Trucks Gone Wild",
-        "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
+        "name": "Redneck Rich",
+        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
       },
       "artists": [
         {
-          "name": "Bezz Believe",
-          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
-        },
-        {
-          "name": "Bubba Sparxxx",
-          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+          "name": "Cody Parks and The Dirty South",
+          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
         }
       ],
-      "duration_ms": 101052,
-      "name": "Trucks Gone Wild",
-      "url": "https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu"
+      "duration_ms": 282462,
+      "name": "Redneck Rich",
+      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1415,22 +1411,22 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Stomp Them Boots",
-        "url": "https://open.spotify.com/album/2k5eUp67yseXCF3pe4FjMJ"
+        "name": "Trucks Gone Wild",
+        "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
       },
       "artists": [
         {
-          "name": "Young Gunner",
-          "url": "https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1"
+          "name": "Bezz Believe",
+          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
         },
         {
-          "name": "Twang and Round",
-          "url": "https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM"
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
         }
       ],
-      "duration_ms": 235161,
-      "name": "Stomp Them Boots",
-      "url": "https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG"
+      "duration_ms": 101052,
+      "name": "Trucks Gone Wild",
+      "url": "https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu"
     }
   ],
   "unique_name": "Field Party",

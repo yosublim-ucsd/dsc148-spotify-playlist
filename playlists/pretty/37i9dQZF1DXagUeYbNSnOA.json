@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels, featuring cKovi. Updates every Wednesday.",
-  "num_followers": 172649,
+  "num_followers": 172656,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
-        "name": "Hay que venir al Sur",
-        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hay que venir al Sur",
-      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
         "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
         "url": "https://open.spotify.com/album/682yr0r8UvqD52yWJ5Zn08"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 197700,
       "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
       "url": "https://open.spotify.com/track/3DCiLbKCJCIIKRrmydjPcW"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
+        "name": "Hay que venir al Sur",
+        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hay que venir al Sur",
+      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -375,38 +375,6 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
-        "name": "perfecta",
-        "url": "https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 160519,
-      "name": "perfecta",
-      "url": "https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
-        "name": "Cae la noche",
-        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
-      },
-      "artists": [
-        {
-          "name": "BATOS",
-          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
-        }
-      ],
-      "duration_ms": 244144,
-      "name": "Cae la noche",
-      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
         "name": "CUANDO ME CANSE DE MI",
         "url": "https://open.spotify.com/album/4HP7e9eSfKsG7liqyEBalt"
       },
@@ -427,6 +395,22 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
+        "name": "Cae la noche",
+        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
+      },
+      "artists": [
+        {
+          "name": "BATOS",
+          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
+        }
+      ],
+      "duration_ms": 244144,
+      "name": "Cae la noche",
+      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
         "name": "MODA",
         "url": "https://open.spotify.com/album/6ggoPcqaldJe77m7h1I1Ag"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 141176,
       "name": "MODA",
       "url": "https://open.spotify.com/track/4x6WlBCITrqjZZUHl1Dnhh"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
+        "name": "perfecta",
+        "url": "https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 160519,
+      "name": "perfecta",
+      "url": "https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
+        "name": "La Que Me Gusta",
+        "url": "https://open.spotify.com/album/5y0syMqQFxOokIk906aq9r"
+      },
+      "artists": [
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "La Que Me Gusta",
+      "url": "https://open.spotify.com/track/6bKvK0rHqyt5hoP1zwk5Sb"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
         "name": "Tu y Yo",
         "url": "https://open.spotify.com/album/2nLBylAAkMvoYG5Isy2uMt"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 216288,
       "name": "Tu y Yo",
       "url": "https://open.spotify.com/track/1Q0Rb1oNMjCDzWROmqTtI6"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
-        "name": "La Que Me Gusta",
-        "url": "https://open.spotify.com/album/5y0syMqQFxOokIk906aq9r"
-      },
-      "artists": [
-        {
-          "name": "Valdo Rodriguez",
-          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "La Que Me Gusta",
-      "url": "https://open.spotify.com/track/6bKvK0rHqyt5hoP1zwk5Sb"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
-        "name": "Plano",
-        "url": "https://open.spotify.com/album/6N1AUqX8zyDN94BuyrB85D"
-      },
-      "artists": [
-        {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Justrylove",
-      "url": "https://open.spotify.com/track/1wVp8m7avqWE0g3AiJbEn5"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
         "name": "Uno Pa'l Otro",
         "url": "https://open.spotify.com/album/5j9GKm6ktNeRQgftOuOapT"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 159579,
       "name": "Uno Pa'l Otro",
       "url": "https://open.spotify.com/track/62UWuXdERfs3WOKOyu6gS5"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
+        "name": "Plano",
+        "url": "https://open.spotify.com/album/6N1AUqX8zyDN94BuyrB85D"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Justrylove",
+      "url": "https://open.spotify.com/track/1wVp8m7avqWE0g3AiJbEn5"
     },
     {
       "added_at": "2023-09-20 06:00:00",

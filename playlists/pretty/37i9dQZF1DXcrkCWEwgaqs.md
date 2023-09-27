@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrkCWEwgaqs.md) - [plain]
 
 > Featuring Aleman, Trueno, Calle 13 & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 823 likes - 25 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 846 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrkCWEwgaqs.md) - [plain]
 | 17 | [Plaka Plaka](https://open.spotify.com/track/3OFGkc8wKT3WIgB4DFiJS8) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [El Príncipe \[Ghost Edition\]](https://open.spotify.com/album/6A6eSLDcS2r7qT9ZFYSJlL) | 3:20 |
 | 18 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 |
 | 19 | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/track/7ivPdu5XBOglVwI7VSkwxV) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Pánico](https://open.spotify.com/album/3DbhVw6p0iVdefGuSjXKdO) | 5:28 |
-| 20 | [CSIpher \(audio latino\)](https://open.spotify.com/track/2M6XdDkJ3zRDo9XTsFoBME) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 4:10 |
+| 20 | [CSIpher \(audio latino\)](https://open.spotify.com/track/4bp3MHLtiKfPaNL3iSbQ20) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Antes de Ameri](https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR) | 4:10 |
 | 21 | [Que Oso](https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Que Oso](https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF) | 2:30 |
 | 22 | [La Cara de Loco](https://open.spotify.com/track/5NxgaP46I5vi1aJZW4oIsZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Frenia](https://open.spotify.com/album/6DtziobPePcdasV0uUycOn) | 2:47 |
 | 23 | [No Soy Criminal](https://open.spotify.com/track/3VGWGVOAUcoCpiHqqdrxb3) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [No Soy Criminal](https://open.spotify.com/album/6SSxecieX6s6mTmCnm0Cno) | 3:37 |

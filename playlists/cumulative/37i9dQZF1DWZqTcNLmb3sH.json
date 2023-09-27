@@ -463,6 +463,32 @@
     },
     {
       "album": {
+        "name": "Aaneya Maadi (From \"Kathora\")",
+        "url": "https://open.spotify.com/album/6LaBeldNohUdlA62eCztyZ"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Vijetha Manjaiah",
+          "url": "https://open.spotify.com/artist/4shEtV0cxBRMGw1T1YoavQ"
+        },
+        {
+          "name": "Murthy TM",
+          "url": "https://open.spotify.com/artist/60idM85Gd5WfmEMS2TSCG5"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215982,
+      "name": "Aaneya Maadi - From \"Kathora\"",
+      "url": "https://open.spotify.com/track/2ViBaE2lmN1hDXqdZpXH4y"
+    },
+    {
+      "album": {
         "name": "Aaradhipe (From \"Toby\")",
         "url": "https://open.spotify.com/album/3dRZ2ZFqD9VnzO5S52ueME"
       },
@@ -2098,6 +2124,10 @@
         {
           "name": "M.C.Bijju",
           "url": "https://open.spotify.com/artist/4Um1J2sDY8esAapos04b4X"
+        },
+        {
+          "name": "Charanraj",
+          "url": "https://open.spotify.com/artist/3eDnvCTeFDK9FsEAghlpc2"
         }
       ],
       "date_added": "2023-09-20",
@@ -4100,7 +4130,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 127140,
       "name": "Danka Dankaara (From \"Vikrant Rona\")",
       "url": "https://open.spotify.com/track/7qlwM6HDJpe80aGxmKIfCz"
@@ -13299,6 +13329,28 @@
     },
     {
       "album": {
+        "name": "Nannaki BGM",
+        "url": "https://open.spotify.com/album/5MF79cjBjmFJ2IVpqUMYpq"
+      },
+      "artists": [
+        {
+          "name": "Anil CJ",
+          "url": "https://open.spotify.com/artist/06MUYjay1afxal0kI4n4nD"
+        },
+        {
+          "name": "Mallu Jamkhandi",
+          "url": "https://open.spotify.com/artist/64CsJXPVhevCqZs6s1oTFL"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114545,
+      "name": "Nannaki BGM",
+      "url": "https://open.spotify.com/track/4Hvgw6uTUBbDjv96XWQuye"
+    },
+    {
+      "album": {
         "name": "Nannalli Neeneega (From \"Nirmuktha\")",
         "url": "https://open.spotify.com/album/3mSgNq2P5HIl8oGSIJCNL6"
       },
@@ -14372,7 +14424,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 201120,
       "name": "Ninna Araso Nanage (Kannada)",
       "url": "https://open.spotify.com/track/45i6Oq0aD0EZJ3PLG2IRP4"

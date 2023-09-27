@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 375950,
+  "num_followers": 376036,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-08-18 15:55:41",
       "album": {
-        "name": "Best Part of Me (feat. YEBBA)",
-        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Best Part of Me (feat. YEBBA)",
-      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
-    },
-    {
-      "added_at": "2023-08-18 15:55:41",
-      "album": {
         "name": "Every Breath You Take (feat. Liza Anne)",
         "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
+    },
+    {
+      "added_at": "2023-08-18 15:55:41",
+      "album": {
+        "name": "Best Part of Me (feat. YEBBA)",
+        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Best Part of Me (feat. YEBBA)",
+      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
     },
     {
       "added_at": "2023-08-18 15:55:41",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-08-18 15:55:41",
       "album": {
-        "name": "you don't love me anymore",
-        "url": "https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF"
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 204398,
-      "name": "you don't love me anymore",
-      "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2023-08-18 15:55:41",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-18 15:55:41",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
-    },
-    {
-      "added_at": "2023-08-18 15:55:41",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 184548,
       "name": "ocean eyes - Recorded Live at Jungle City Studios",
       "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
+    },
+    {
+      "added_at": "2023-08-18 15:55:41",
+      "album": {
+        "name": "you don't love me anymore",
+        "url": "https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 204398,
+      "name": "you don't love me anymore",
+      "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
     },
     {
       "added_at": "2023-08-18 15:55:41",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-08-18 15:55:41",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Song For You",
-      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
-    },
-    {
-      "added_at": "2023-08-18 15:55:41",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 176826,
       "name": "Angeles",
       "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
+    },
+    {
+      "added_at": "2023-08-18 15:55:41",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Song For You",
+      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
     },
     {
       "added_at": "2023-08-18 15:55:41",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-08-18 15:55:41",
       "album": {
+        "name": "can you see me?",
+        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 197994,
+      "name": "can you see me?",
+      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
+    },
+    {
+      "added_at": "2023-08-18 15:55:41",
+      "album": {
         "name": "Someday Tomorrow Maybe",
         "url": "https://open.spotify.com/album/6ECJjotZuyQKgw3VtMWpVy"
       },
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2023-08-18 15:55:41",
       "album": {
-        "name": "can you see me?",
-        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
       "artists": [
         {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 197994,
-      "name": "can you see me?",
-      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
+      "duration_ms": 236819,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
     },
     {
       "added_at": "2023-08-18 15:55:41",
@@ -1359,22 +1375,6 @@
       "duration_ms": 224813,
       "name": "Need The Sun To Break",
       "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
-    },
-    {
-      "added_at": "2023-08-18 15:55:41",
-      "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 236819,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
     },
     {
       "added_at": "2023-08-18 15:55:41",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-08-18 15:55:41",
       "album": {
-        "name": "Electric Light",
-        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/5QY4JhMKx4aBAaZcosncqd"
-    },
-    {
-      "added_at": "2023-08-18 15:55:41",
-      "album": {
         "name": "Stay Awake with Me (acoustic)",
         "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 207866,
       "name": "Made to Love You",
       "url": "https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP"
+    },
+    {
+      "added_at": "2023-08-18 15:55:41",
+      "album": {
+        "name": "Electric Light",
+        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/5QY4JhMKx4aBAaZcosncqd"
     },
     {
       "added_at": "2023-08-18 15:55:41",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-08-18 15:55:41",
       "album": {
+        "name": "The Bakman Tapes",
+        "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
+      },
+      "artists": [
+        {
+          "name": "Susie Suh",
+          "url": "https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh"
+        }
+      ],
+      "duration_ms": 212017,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
+    },
+    {
+      "added_at": "2023-08-18 15:55:41",
+      "album": {
         "name": "Float Away",
         "url": "https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 186000,
       "name": "Float Away",
       "url": "https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0"
-    },
-    {
-      "added_at": "2023-08-18 15:55:41",
-      "album": {
-        "name": "The Bakman Tapes",
-        "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
-      },
-      "artists": [
-        {
-          "name": "Susie Suh",
-          "url": "https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh"
-        }
-      ],
-      "duration_ms": 212017,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
     },
     {
       "added_at": "2023-08-18 15:55:41",

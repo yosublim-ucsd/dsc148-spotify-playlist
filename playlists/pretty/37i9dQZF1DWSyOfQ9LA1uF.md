@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,428 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,460 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 42 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 3:38 |
 | 43 | [Idealistic](https://open.spotify.com/track/2VbIou1DtUewZVgfte6kIW) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 4:10 |
 | 44 | [Testarossa \(SebastiAn Remix\)](https://open.spotify.com/track/1J5Z0AVsxRejfrtZGGAcWO) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [1986 \- EP](https://open.spotify.com/album/3wke2l2r3BQ9YJ75x5A1DK) | 4:58 |
-| 45 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 |
-| 46 | [Rainbow Man](https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Rainbow Man 2.0](https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt) | 3:34 |
+| 45 | [Rainbow Man](https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Rainbow Man 2.0](https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt) | 3:34 |
+| 46 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 |
 | 47 | [Drugs in My Body](https://open.spotify.com/track/0AKK3dHXpRSt0dmhMEzaKm) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Drugs in My Body](https://open.spotify.com/album/3htXmYLWbyAOzQvC9bNwFG) | 3:36 |
 | 48 | [The Geeks Were Right](https://open.spotify.com/track/6PBPOhO2bxiV1cBei5Nxce) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Fasciinatiion](https://open.spotify.com/album/3xFABHEo4gCQJp8YOVBbOZ) | 2:56 |
 | 49 | [Happiness \- The Magician Remix](https://open.spotify.com/track/5bgR2f3sCS135kzxjIlDD3) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Return to Paradise](https://open.spotify.com/album/2Vy7CHmUrL7HVxLVfP5n4w) | 3:38 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 71 | [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 |
 | 72 | [My Moon My Man \- Boys Noize Classic Mix](https://open.spotify.com/track/2HTByMXgBpDqDw5mPwnk1m) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder \(Deluxe Version\)](https://open.spotify.com/album/4la6HtYlMo0JWW1pgKbtB7) | 6:40 |
 | 73 | [Let Me Back Up \- Crookers Tetsujin Remix](https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF) | [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [From Then Until Now](https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF) | 5:51 |
-| 74 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
-| 75 | [I Get Around \- Midnight Juggernauts Remix](https://open.spotify.com/track/5JMD9oFmIh4PsVbTygcMB6) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Midnight Juggernauts](https://open.spotify.com/artist/2tGIh9kwbXuko0z3BTldBx) | [Kitsuné Maison Compilation 4](https://open.spotify.com/album/3cp2LC6H6viFxFsoZw9CBQ) | 5:55 |
+| 74 | [I Get Around \- Midnight Juggernauts Remix](https://open.spotify.com/track/5JMD9oFmIh4PsVbTygcMB6) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Midnight Juggernauts](https://open.spotify.com/artist/2tGIh9kwbXuko0z3BTldBx) | [Kitsuné Maison Compilation 4](https://open.spotify.com/album/3cp2LC6H6viFxFsoZw9CBQ) | 5:55 |
+| 75 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 
 Snapshot ID: `MCw3MjA1ZmJkNzA0MmY2MTMzYzNjYzQ1MWYxMDhjZDcxY2E5MjM2YjYz`

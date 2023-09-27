@@ -1,6 +1,6 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 53449,
+  "num_followers": 53472,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,26 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
+        "name": "If These Walls Could Talk",
+        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        },
+        {
+          "name": "Roberto Luti",
+          "url": "https://open.spotify.com/artist/33Cme6gMFRML19GrfipNMH"
+        }
+      ],
+      "duration_ms": 216716,
+      "name": "Watch Me Change",
+      "url": "https://open.spotify.com/track/01jQJSRH05Y1GnldY8nhp1"
+    },
+    {
+      "added_at": "2023-09-22 11:16:26",
+      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 156733,
       "name": "Poor Boy",
       "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
-    },
-    {
-      "added_at": "2023-09-22 11:16:26",
-      "album": {
-        "name": "If These Walls Could Talk",
-        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        },
-        {
-          "name": "Roberto Luti",
-          "url": "https://open.spotify.com/artist/33Cme6gMFRML19GrfipNMH"
-        }
-      ],
-      "duration_ms": 216716,
-      "name": "Watch Me Change",
-      "url": "https://open.spotify.com/track/01jQJSRH05Y1GnldY8nhp1"
     },
     {
       "added_at": "2023-09-22 11:16:26",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
-    },
-    {
-      "added_at": "2023-09-22 11:16:26",
-      "album": {
         "name": "Bob Corritore & Friends: Women In Blues Showcase",
         "url": "https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+    },
+    {
+      "added_at": "2023-09-22 11:16:26",
+      "album": {
         "name": "Real Gone",
         "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
-        "name": "Just Won't Burn",
-        "url": "https://open.spotify.com/album/7eJp2Lh2s3QUePA9Vgno6I"
-      },
-      "artists": [
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Little By Little",
-      "url": "https://open.spotify.com/track/34I5QoAzFJT7xj9UAppXgr"
-    },
-    {
-      "added_at": "2023-09-22 11:16:26",
-      "album": {
         "name": "The Blues Album",
         "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 217333,
       "name": "Stop Messin' Round",
       "url": "https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO"
+    },
+    {
+      "added_at": "2023-09-22 11:16:26",
+      "album": {
+        "name": "Just Won't Burn",
+        "url": "https://open.spotify.com/album/7eJp2Lh2s3QUePA9Vgno6I"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Little By Little",
+      "url": "https://open.spotify.com/track/34I5QoAzFJT7xj9UAppXgr"
     },
     {
       "added_at": "2023-09-22 11:16:26",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
+        "name": "If You Love Me / Alone and Blue",
+        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
+      },
+      "artists": [
+        {
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+        }
+      ],
+      "duration_ms": 150307,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
+    },
+    {
+      "added_at": "2023-09-22 11:16:26",
+      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 201237,
       "name": "Too Old To Grow Up",
       "url": "https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr"
-    },
-    {
-      "added_at": "2023-09-22 11:16:26",
-      "album": {
-        "name": "If You Love Me / Alone and Blue",
-        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 150307,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
     },
     {
       "added_at": "2023-09-22 11:16:26",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
+        "name": "Put It",
+        "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
+      },
+      "artists": [
+        {
+          "name": "TrackTribe",
+          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+        }
+      ],
+      "duration_ms": 210260,
+      "name": "Put It",
+      "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
+    },
+    {
+      "added_at": "2023-09-22 11:16:26",
+      "album": {
         "name": "Mighty Love",
         "url": "https://open.spotify.com/album/7IeOJ8Oy6bgQFEn317r0Sy"
       },
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
-        "name": "Put It",
-        "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
+        "name": "Old Habits",
+        "url": "https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y"
       },
       "artists": [
         {
-          "name": "TrackTribe",
-          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
         }
       ],
-      "duration_ms": 210260,
-      "name": "Put It",
-      "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
+      "duration_ms": 250711,
+      "name": "Reverse Engineer",
+      "url": "https://open.spotify.com/track/07PQv121zSIpQRlUqZZdRO"
     },
     {
       "added_at": "2023-09-22 11:16:26",
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
-        "name": "Old Habits",
-        "url": "https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 250711,
-      "name": "Reverse Engineer",
-      "url": "https://open.spotify.com/track/07PQv121zSIpQRlUqZZdRO"
-    },
-    {
-      "added_at": "2023-09-22 11:16:26",
-      "album": {
         "name": "The Imperial Recordings",
         "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
       },
@@ -1655,54 +1655,6 @@
       "duration_ms": 154200,
       "name": "I've Been Walkin'",
       "url": "https://open.spotify.com/track/38YR42D9VzKtA29ah7eetq"
-    },
-    {
-      "added_at": "2023-09-22 11:16:26",
-      "album": {
-        "name": "Juke Joint Chapel",
-        "url": "https://open.spotify.com/album/29nPDxXHBFcsp2o4rZZKIs"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 460640,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/7IiqtwxMj0kV0hTutzZmzy"
-    },
-    {
-      "added_at": "2023-09-22 11:16:26",
-      "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "You Move Me So",
-      "url": "https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO"
-    },
-    {
-      "added_at": "2023-09-22 11:16:26",
-      "album": {
-        "name": "Mortgage on My Soul",
-        "url": "https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa"
-      },
-      "artists": [
-        {
-          "name": "J.D. Simo",
-          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
-        }
-      ],
-      "duration_ms": 424626,
-      "name": "Mortgage on My Soul",
-      "url": "https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd"
     },
     {
       "added_at": "2023-09-22 11:16:26",
@@ -1723,6 +1675,38 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "You Move Me So",
+      "url": "https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO"
+    },
+    {
+      "added_at": "2023-09-22 11:16:26",
+      "album": {
+        "name": "Juke Joint Chapel",
+        "url": "https://open.spotify.com/album/29nPDxXHBFcsp2o4rZZKIs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 460640,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/7IiqtwxMj0kV0hTutzZmzy"
+    },
+    {
+      "added_at": "2023-09-22 11:16:26",
+      "album": {
         "name": "Taking the Good with the Bad",
         "url": "https://open.spotify.com/album/4zke14lsydYilEMk2CuoDn"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 184044,
       "name": "It Ain't Right",
       "url": "https://open.spotify.com/track/7cdbDqQrPLs6rwIgvs8wtA"
+    },
+    {
+      "added_at": "2023-09-22 11:16:26",
+      "album": {
+        "name": "Mortgage on My Soul",
+        "url": "https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa"
+      },
+      "artists": [
+        {
+          "name": "J.D. Simo",
+          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
+        }
+      ],
+      "duration_ms": 424626,
+      "name": "Mortgage on My Soul",
+      "url": "https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd"
     },
     {
       "added_at": "2023-09-22 11:16:26",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
+        "name": "Ridin' with the Blues",
+        "url": "https://open.spotify.com/album/0lD5BukyzH1hadhyhdmqlT"
+      },
+      "artists": [
+        {
+          "name": "Betty Padgett",
+          "url": "https://open.spotify.com/artist/5WlOxakcWwJzjXE7AIt7He"
+        }
+      ],
+      "duration_ms": 268121,
+      "name": "Old School Blues",
+      "url": "https://open.spotify.com/track/10E1R5NUF4kCYl1o7QosuR"
+    },
+    {
+      "added_at": "2023-09-22 11:16:26",
+      "album": {
         "name": "Georgia Women",
         "url": "https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 217361,
       "name": "Time to Get Movin'",
       "url": "https://open.spotify.com/track/1L4bBxv6uRhBjRVXTFAQ3R"
-    },
-    {
-      "added_at": "2023-09-22 11:16:26",
-      "album": {
-        "name": "Ridin' with the Blues",
-        "url": "https://open.spotify.com/album/0lD5BukyzH1hadhyhdmqlT"
-      },
-      "artists": [
-        {
-          "name": "Betty Padgett",
-          "url": "https://open.spotify.com/artist/5WlOxakcWwJzjXE7AIt7He"
-        }
-      ],
-      "duration_ms": 268121,
-      "name": "Old School Blues",
-      "url": "https://open.spotify.com/track/10E1R5NUF4kCYl1o7QosuR"
     },
     {
       "added_at": "2023-09-22 11:16:26",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
-        "name": "Mississippi Nights (Live)",
-        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 300929,
-      "name": "Mississippi Nights - Live",
-      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
-    },
-    {
-      "added_at": "2023-09-22 11:16:26",
-      "album": {
         "name": "I Shouldn\u2019t Care (Bonus Track)",
         "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 219733,
       "name": "I Shouldn't Care - Bonus Track",
       "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
+    },
+    {
+      "added_at": "2023-09-22 11:16:26",
+      "album": {
+        "name": "Mississippi Nights (Live)",
+        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "duration_ms": 300929,
+      "name": "Mississippi Nights - Live",
+      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
     },
     {
       "added_at": "2023-09-22 11:16:26",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
-        "name": "Goldfish Blues",
-        "url": "https://open.spotify.com/album/37ch8gg8aeKqab8LwgCPO4"
-      },
-      "artists": [
-        {
-          "name": "Will Jacobs",
-          "url": "https://open.spotify.com/artist/7tzNAqDlMV5KlC7vRcSeN1"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Dirty Dog",
-      "url": "https://open.spotify.com/track/0ndUl4xQ5DRt9yEVDV0I0s"
-    },
-    {
-      "added_at": "2023-09-22 11:16:26",
-      "album": {
         "name": "The Original Lost Elektra Sessions",
         "url": "https://open.spotify.com/album/1cJp20pcnm5tM2eeBhIbMz"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 274693,
       "name": "Hate to See You Go",
       "url": "https://open.spotify.com/track/57Paxn9MrW8d8FmFyndLKj"
+    },
+    {
+      "added_at": "2023-09-22 11:16:26",
+      "album": {
+        "name": "Goldfish Blues",
+        "url": "https://open.spotify.com/album/37ch8gg8aeKqab8LwgCPO4"
+      },
+      "artists": [
+        {
+          "name": "Will Jacobs",
+          "url": "https://open.spotify.com/artist/7tzNAqDlMV5KlC7vRcSeN1"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Dirty Dog",
+      "url": "https://open.spotify.com/track/0ndUl4xQ5DRt9yEVDV0I0s"
     },
     {
       "added_at": "2023-09-22 11:16:26",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
-      },
-      "artists": [
-        {
-          "name": "Mud Morganfield",
-          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
-        }
-      ],
-      "duration_ms": 210827,
-      "name": "Short Dressed Woman",
-      "url": "https://open.spotify.com/track/65GenukKzAktEWBMDRhxkD"
-    },
-    {
-      "added_at": "2023-09-22 11:16:26",
-      "album": {
         "name": "I'm Just Getting Started!",
         "url": "https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 236693,
       "name": "Leavin Trunk",
       "url": "https://open.spotify.com/track/78dp9ik3tgXCVmbOoqo0YS"
+    },
+    {
+      "added_at": "2023-09-22 11:16:26",
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
+      },
+      "artists": [
+        {
+          "name": "Mud Morganfield",
+          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
+        }
+      ],
+      "duration_ms": 210827,
+      "name": "Short Dressed Woman",
+      "url": "https://open.spotify.com/track/65GenukKzAktEWBMDRhxkD"
     },
     {
       "added_at": "2023-09-22 11:16:26",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2023-09-22 11:16:26",
       "album": {
-        "name": "Red Hot / No Greater Love",
-        "url": "https://open.spotify.com/album/7KEEvzpHHkU4R3BKgsBtZV"
-      },
-      "artists": [
-        {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
-        }
-      ],
-      "duration_ms": 147160,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/5sz4rMisEqqLDkObDfNeKq"
-    },
-    {
-      "added_at": "2023-09-22 11:16:26",
-      "album": {
         "name": "Trying to Hold On",
         "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 225133,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/0H5OwyqyF1UM39wieKPGn0"
+    },
+    {
+      "added_at": "2023-09-22 11:16:26",
+      "album": {
+        "name": "Red Hot / No Greater Love",
+        "url": "https://open.spotify.com/album/7KEEvzpHHkU4R3BKgsBtZV"
+      },
+      "artists": [
+        {
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+        }
+      ],
+      "duration_ms": 147160,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/5sz4rMisEqqLDkObDfNeKq"
     },
     {
       "added_at": "2023-09-22 11:16:26",

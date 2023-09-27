@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SbPlhaSW0T.md) - [plain]
 
 > Los mejores del Trap de todos los tiempos! 🐐 Cover: Noriel
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,399 likes - 34 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,468 likes - 34 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

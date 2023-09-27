@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 267653,
+  "num_followers": 267686,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -431,18 +431,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Mujer Que Camina",
-        "url": "https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN"
       },
       "artists": [
         {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+          "name": "Carlos Carreira",
+          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
         }
       ],
-      "duration_ms": 322013,
-      "name": "Mujer Que Camina",
-      "url": "https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG"
+      "duration_ms": 216520,
+      "name": "Jur\u00e9",
+      "url": "https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX"
     },
     {
       "added_at": "2022-01-11 03:05:13",
@@ -471,18 +471,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN"
+        "name": "Mujer Que Camina",
+        "url": "https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK"
       },
       "artists": [
         {
-          "name": "Carlos Carreira",
-          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
         }
       ],
-      "duration_ms": 216520,
-      "name": "Jur\u00e9",
-      "url": "https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX"
+      "duration_ms": 322013,
+      "name": "Mujer Que Camina",
+      "url": "https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG"
     },
     {
       "added_at": "2023-08-01 14:42:56",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Serrat En Directo",
-        "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Cantares - En Directo",
-      "url": "https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "De Carne y Hueso",
         "url": "https://open.spotify.com/album/5vhobYClzYYgOR8FCd9Uj8"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 261493,
       "name": "Kil\u00f3metros de Cielo",
       "url": "https://open.spotify.com/track/6UrLQTasnzlYYKo0U5IICp"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Serrat En Directo",
+        "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Cantares - En Directo",
+      "url": "https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -635,22 +635,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "S\u00f3lo, Ni Tan S\u00f3lo, Vol. 2 (Acoustic Live Version)",
-        "url": "https://open.spotify.com/album/0J37bveorWwGLl1fSn7ZqJ"
+        "name": "Discograf\u00eda en Castellano",
+        "url": "https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko"
       },
       "artists": [
         {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        },
-        {
-          "name": "Ra\u00fal Ornelas",
-          "url": "https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845"
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
         }
       ],
-      "duration_ms": 245413,
-      "name": "El Manual de Lo Prohibido - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/126lK16xw9pZo9N1xTf8Oy"
+      "duration_ms": 205226,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -687,18 +683,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Discograf\u00eda en Castellano",
-        "url": "https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko"
+        "name": "S\u00f3lo, Ni Tan S\u00f3lo, Vol. 2 (Acoustic Live Version)",
+        "url": "https://open.spotify.com/album/0J37bveorWwGLl1fSn7ZqJ"
       },
       "artists": [
         {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        },
+        {
+          "name": "Ra\u00fal Ornelas",
+          "url": "https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845"
         }
       ],
-      "duration_ms": 205226,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW"
+      "duration_ms": 245413,
+      "name": "El Manual de Lo Prohibido - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/126lK16xw9pZo9N1xTf8Oy"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -807,6 +807,38 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Trova Azul",
+        "url": "https://open.spotify.com/album/77rRwgkqNQbzxf6t4Ffb1K"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+        }
+      ],
+      "duration_ms": 231156,
+      "name": "Trova Azul",
+      "url": "https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Entre Cuerdas",
+        "url": "https://open.spotify.com/album/6Korv9rTN9ZOsHtkhjQayK"
+      },
+      "artists": [
+        {
+          "name": "Amaury Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
+        }
+      ],
+      "duration_ms": 264946,
+      "name": "Lo Mejor Que Hay En Mi Vida",
+      "url": "https://open.spotify.com/track/5S3uYPl1oYKShBI1CyZAc7"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Maldita Vocaci\u00f3n",
         "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
       },
@@ -827,22 +859,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Trova Azul",
-        "url": "https://open.spotify.com/album/77rRwgkqNQbzxf6t4Ffb1K"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
-        }
-      ],
-      "duration_ms": 231156,
-      "name": "Trova Azul",
-      "url": "https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Que Nadie Se Entere",
         "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 276306,
       "name": "Se Busca",
       "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Entre Cuerdas",
-        "url": "https://open.spotify.com/album/6Korv9rTN9ZOsHtkhjQayK"
-      },
-      "artists": [
-        {
-          "name": "Amaury Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
-        }
-      ],
-      "duration_ms": 264946,
-      "name": "Lo Mejor Que Hay En Mi Vida",
-      "url": "https://open.spotify.com/track/5S3uYPl1oYKShBI1CyZAc7"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escucha a Gerardo Pablo",
-        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Pablo",
-          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Los Grillos",
-      "url": "https://open.spotify.com/track/4gey1hMb9gioAyqeCgzSxh"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Te Seguir\u00e9",
         "url": "https://open.spotify.com/album/5mfc4BGeZNxcYuzNrgU6sX"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 219480,
       "name": "Porque la Quer\u00eda",
       "url": "https://open.spotify.com/track/1p7tp4Ez8uNi1RSZMyEKOU"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Los Grillos",
+      "url": "https://open.spotify.com/track/4gey1hMb9gioAyqeCgzSxh"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escucha a Gerardo Pablo",
-        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/7xzYC2mGZnT51Ebb3U4r0F"
       },
       "artists": [
         {
-          "name": "Gerardo Pablo",
-          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
         }
       ],
-      "duration_ms": 165160,
-      "name": "Buscando un \u00c1ngel",
-      "url": "https://open.spotify.com/track/6WCMCQxjtgkSKgRBNxaO2h"
+      "duration_ms": 216035,
+      "name": "Ella es un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/5CwlzzcJGMXuZnnswCoGs7"
     },
     {
       "added_at": "2022-03-01 04:08:22",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escarlata",
-        "url": "https://open.spotify.com/album/7xzYC2mGZnT51Ebb3U4r0F"
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
       },
       "artists": [
         {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
         }
       ],
-      "duration_ms": 216035,
-      "name": "Ella es un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/5CwlzzcJGMXuZnnswCoGs7"
+      "duration_ms": 165160,
+      "name": "Buscando un \u00c1ngel",
+      "url": "https://open.spotify.com/track/6WCMCQxjtgkSKgRBNxaO2h"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Colecci\u00f3n Nos Queda Su Canci\u00f3n, Vol. 8: Entre Otros",
+        "url": "https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR"
+      },
+      "artists": [
+        {
+          "name": "Noel Nicola",
+          "url": "https://open.spotify.com/artist/5Moq2OEsJWSgfZgcqtNJzR"
+        },
+        {
+          "name": "Santiago Feli\u00fa",
+          "url": "https://open.spotify.com/artist/31AxFspaes7Am7i1byB9ns"
+        }
+      ],
+      "duration_ms": 206204,
+      "name": "Para una Imaginaria Mar\u00eda del Carmen",
+      "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "M\u00e1s Alto",
         "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
       },
@@ -1491,42 +1511,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Colecci\u00f3n Nos Queda Su Canci\u00f3n, Vol. 8: Entre Otros",
-        "url": "https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR"
-      },
-      "artists": [
-        {
-          "name": "Noel Nicola",
-          "url": "https://open.spotify.com/artist/5Moq2OEsJWSgfZgcqtNJzR"
-        },
-        {
-          "name": "Santiago Feli\u00fa",
-          "url": "https://open.spotify.com/artist/31AxFspaes7Am7i1byB9ns"
-        }
-      ],
-      "duration_ms": 206204,
-      "name": "Para una Imaginaria Mar\u00eda del Carmen",
-      "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "La Flor Y El Abejorro",
-        "url": "https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 249740,
-      "name": "La Flor Y El Abejorro",
-      "url": "https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
         "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 253354,
       "name": "Todos los ojos te miran (feat. Chico Buarque)",
       "url": "https://open.spotify.com/track/1sWWb3JaGaoHGYoAs6ZAgu"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Flor Y El Abejorro",
+        "url": "https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 249740,
+      "name": "La Flor Y El Abejorro",
+      "url": "https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic"
     },
     {
       "added_at": "2021-07-29 16:46:05",

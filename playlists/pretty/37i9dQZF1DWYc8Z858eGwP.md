@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=TsPl\_IGsTC2XAFMxDMOzfQ">Xenia Manasseh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,979 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,993 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

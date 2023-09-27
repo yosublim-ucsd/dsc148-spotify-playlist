@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-264 songs - 14 hr 58 min
+267 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Dime donde y cuando \- Live](https://open.spotify.com/track/04FuzddvcEMzYIbJZR302j) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 1](https://open.spotify.com/album/2kUdqdhDF2HocpD7WSwjkr) | 4:02 | 2022-08-01 | 2023-08-09 |
 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 | 2022-04-11 |  |
 | [El Ahualulco](https://open.spotify.com/track/0goMlu6mNQcj77VQHuLSGr) | [Banda Los Huejoteños](https://open.spotify.com/artist/0Vea7Atmt6I5taZ7MSfE3I) | ["15 Melodias Del Recuerdo"](https://open.spotify.com/album/2BfKRacdLOFMlEQnXUlLtq) | 2:46 | 2022-07-04 |  |
-| [El Alacrán](https://open.spotify.com/track/724EmguSZnZkNYegszQgig) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:33 | 2022-04-08 |  |
+| [El alacrán](https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:33 | 2023-08-08 |  |
+| [El Alacrán](https://open.spotify.com/track/724EmguSZnZkNYegszQgig) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:33 | 2022-04-08 | 2023-09-27 |
 | [El Alacrán](https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM) | 2:34 | 2022-04-08 | 2022-07-29 |
 | [El Alacrán \(Tumbando Caña\)](https://open.spotify.com/track/39AOj3IVcfpZBsNddyR8bL) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Yo Pongo las Reglas](https://open.spotify.com/album/3iFuzt5hOPt07DjIX2Z6Et) | 4:01 | 2022-04-08 | 2023-08-09 |
 | [El Alacrán \(Tumbando Caña\)](https://open.spotify.com/track/5zvdQzSP3UTLifWD9YHLEJ) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Yo Pongo las Reglas](https://open.spotify.com/album/3Sux4OcMDKm8LLFeAuGJL1) | 4:01 | 2022-04-08 | 2022-07-29 |
@@ -88,7 +89,8 @@
 | [El Tecolotito](https://open.spotify.com/track/1iMcb6dkCoKbLIp9akziVk) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/4PDZDbLCOpmhn7n47Qulko) | 3:36 | 2022-04-08 | 2022-07-29 |
 | [El Tecolotito](https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF) | 3:36 | 2022-04-08 |  |
 | [El Teterete](https://open.spotify.com/track/4hwq3Fwh2YotxDBndS8cKk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:56 | 2022-04-08 | 2022-07-29 |
-| [El Teterete](https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:57 | 2022-04-08 |  |
+| [El Teterete](https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:57 | 2022-04-08 | 2023-09-27 |
+| [El Teterete](https://open.spotify.com/track/13ij1Ky8BF3w0vClKmeqHz) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/7GmPWgPhUzQUVZXz6VCpTG) | 2:57 | 2023-08-08 |  |
 | [El Toro Pinto](https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Exitos](https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj) | 4:49 | 2022-04-08 |  |
 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 | 2022-04-08 |  |
 | [El Vaquero](https://open.spotify.com/track/7HEISozQwYYU9JGUnQuxA7) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Comenzando Nuestra Historia](https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E) | 2:33 | 2022-04-08 |  |
@@ -97,7 +99,8 @@
 | [Eres un encanto \- En vivo](https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [En vivo desde El Potrero](https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf) | 3:23 | 2022-12-09 |  |
 | [Es Parte Del Show](https://open.spotify.com/track/4AlLi2xehkaTJmQSI3ISvW) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Es Parte Del Show](https://open.spotify.com/album/5bCWc6JMufwJSVjwLwYlwx) | 2:53 | 2023-08-08 |  |
 | [Espejeando](https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:03 | 2022-04-08 |  |
-| [Eva Maria](https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:47 | 2022-04-08 |  |
+| [Eva Maria](https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:47 | 2022-04-08 | 2023-09-27 |
+| [Eva Maria](https://open.spotify.com/track/21Np2DZB42OmfZEOkK1GuR) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/7GmPWgPhUzQUVZXz6VCpTG) | 2:47 | 2023-08-08 |  |
 | [Eva maria](https://open.spotify.com/track/7j8eYd7AoIWI5o9WI1zGBs) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [Eva maria](https://open.spotify.com/album/3TKV7Cz8mb1Jo3xyAY4CQr) | 2:59 | 2022-04-08 |  |
 | [Eva María](https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:47 | 2022-04-08 | 2022-07-29 |
 | [Feliz Feliz](https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:37 | 2022-04-08 |  |

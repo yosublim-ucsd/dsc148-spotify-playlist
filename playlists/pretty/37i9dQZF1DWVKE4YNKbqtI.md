@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,762 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,772 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 25 | [The Bottle Wins Again](https://open.spotify.com/track/7c2FB64ULKN97mjU5wvIyQ) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:38 |
 | 26 | [Nobody But You](https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y) | [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t), [Billy Branch & The Sons of Blues](https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y) | [Roots And Branches \- The Songs Of Little Walter](https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz) | 3:07 |
 | 27 | [Carey Bell Rocks](https://open.spotify.com/track/0vZun5MdpB8oEjq2Ekw4K9) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Heartaches And Pain](https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC) | 3:31 |
-| 28 | [Down Home Shake\-Down](https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 3:37 |
-| 29 | [Sonny's Whoopin' The Doop](https://open.spotify.com/track/5lBRVkZlET9bscUXoeDwuk) | [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Whoopin'](https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA) | 4:46 |
+| 28 | [Sonny's Whoopin' The Doop](https://open.spotify.com/track/5lBRVkZlET9bscUXoeDwuk) | [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Whoopin'](https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA) | 4:46 |
+| 29 | [Down Home Shake\-Down](https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 3:37 |
 | 30 | [Play With Your Poodle](https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Deep In The Blues](https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU) | 3:39 |
 | 31 | [Looking For A Woman](https://open.spotify.com/track/6JuJtd8K0jpEejEBJBitlA) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [Groovin' In Greaseland](https://open.spotify.com/album/3fZLjidk1UlpKM9Kw5NWSh) | 5:21 |
 | 32 | [Jason Solo](https://open.spotify.com/track/0KVqA1NoDClaWnKkqQV8wP) | [JJ Appleton](https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE), [Jason Ricci](https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN) | [Dirty Memory](https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn) | 6:02 |
 | 33 | [Don't Bite the Hand That Feeds You](https://open.spotify.com/track/0Gjw2bx2khjm0OueuMFBKL) | [Kim Wilson](https://open.spotify.com/artist/3LkeAX21Tyb0t1CCAP5aq3) | [That's Life](https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii) | 4:16 |
-| 34 | [Going Back To Alabama](https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr) | [The Siegel\-Schwall Band](https://open.spotify.com/artist/09y7wEuZOxZyYi8suU6NEo) | [Flash Forward](https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv) | 3:39 |
-| 35 | [One Monkey Don't Stop The Show](https://open.spotify.com/track/2S4f3cNofjA6pQNWQHcSM3) | [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Sonny Is King](https://open.spotify.com/album/4ewWMXqCejyno0okSIOVnd) | 3:09 |
+| 34 | [One Monkey Don't Stop The Show](https://open.spotify.com/track/2S4f3cNofjA6pQNWQHcSM3) | [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Sonny Is King](https://open.spotify.com/album/4ewWMXqCejyno0okSIOVnd) | 3:09 |
+| 35 | [Going Back To Alabama](https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr) | [The Siegel\-Schwall Band](https://open.spotify.com/artist/09y7wEuZOxZyYi8suU6NEo) | [Flash Forward](https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv) | 3:39 |
 | 36 | [Need To Make A Dollar](https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J) | [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Alone With The Blues](https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ) | 2:51 |
 | 37 | [Dog Days of August](https://open.spotify.com/track/5gOxdOaXlIVrM0mlOEJ3hZ) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF), [John Cephas](https://open.spotify.com/artist/39gMpw4vsyl8CLCW6OZx97), [Phil Wiggins](https://open.spotify.com/artist/454ZmfE5h5JeoCksBvEymQ) | [Richmond Blues](https://open.spotify.com/album/3diP0MKxncGd7wi8ZMASFZ) | 4:11 |
 | 38 | [Can't Believe It's This Good](https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe) | [JJ Appleton](https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE), [Jason Ricci](https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN) | [Dirty Memory](https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn) | 3:37 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 46 | [Harpoventilatin'](https://open.spotify.com/track/0hMR8CTSJLrRjOgoE7apDR) | [Mark Hummel](https://open.spotify.com/artist/6tThEAJKUsHlj0ALfRObEP) | [Harpbreaker](https://open.spotify.com/album/0HGQj36FzCKitSWq3jy2lX) | 3:44 |
 | 47 | [Do Yo Thang](https://open.spotify.com/track/0DqKUOuX1yVd3H7evlHDkA) | [Lady A](https://open.spotify.com/artist/2nlAGNTrkx2kGJBiIVPDtK) | [Bluez In the Key of Me](https://open.spotify.com/album/6UNgjmue8Up5u72duFsvT9) | 3:25 |
 | 48 | [The Hucklebuck](https://open.spotify.com/track/3HaAIm8CuHSdxxdbv14JkG) | [Marcos Coll](https://open.spotify.com/artist/5mKLyd8tTJxeMvsNXhiHrV), [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Under the Wings](https://open.spotify.com/album/3TpFzGrkx7auCFdstsj2fL) | 4:10 |
-| 49 | [You Got It](https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir) | [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Up All Night](https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN) | 3:14 |
-| 50 | [Bluesy](https://open.spotify.com/track/078lhMIegYPNI58tyFn6o8) | [Louis Myers](https://open.spotify.com/artist/2MHJe9H2p09aSHJm7yrwNh) | [Blues Harp Hero](https://open.spotify.com/album/5lkj3Xw9Xw5VUY38BvTmXL) | 2:44 |
+| 49 | [Bluesy](https://open.spotify.com/track/078lhMIegYPNI58tyFn6o8) | [Louis Myers](https://open.spotify.com/artist/2MHJe9H2p09aSHJm7yrwNh) | [Blues Harp Hero](https://open.spotify.com/album/5lkj3Xw9Xw5VUY38BvTmXL) | 2:44 |
+| 50 | [You Got It](https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir) | [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Up All Night](https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN) | 3:14 |
 
 Snapshot ID: `MCwyYzU4ZTg4MGMwM2EzOTI1Mjc2ZjI0OTMwNGU5MDBiN2MzOTc5MzQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Felix Jaehn, Jonas Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,021 likes - 108 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,024 likes - 108 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

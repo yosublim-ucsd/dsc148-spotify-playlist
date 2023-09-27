@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia, de la buena!<br/>Foto: La Combo Tortuga.
 
-104 songs - 6 hr 12 min
+106 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Mala](https://open.spotify.com/track/4BmzxkfJ6ov6oiJ6ZKWqOI) | [Tu Vicio](https://open.spotify.com/artist/6TMOhNUfIadpsB0YAavKGN), [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Mala](https://open.spotify.com/album/7JfYUOyxFouERULu71ruv6) | 3:23 | 2023-08-25 |  |
 | [Mala de Adentro](https://open.spotify.com/track/0qYARD1KjEnMbmjdAUpOz3) | [Combo Ginebra](https://open.spotify.com/artist/2L5b3yHGpn7RQi4wd3vcU2) | [Cumbias de Sangre y Oro](https://open.spotify.com/album/1pxG4hB9LuTke7H7GnrBtm) | 4:19 | 2023-08-25 |  |
 | [Maracuyá Con Mango](https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK) | [Sondelvalle](https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl) | [Rap Guachaca & Cumbia Reflexiva](https://open.spotify.com/album/7nQdEffGKLmEawaZkMtO7o) | 2:34 | 2023-08-25 |  |
-| [María](https://open.spotify.com/track/1tYOodxB9PDbppU5qlxAoX) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/0qo1x937c8OKKBaoA7LCMg) | 5:56 | 2023-08-25 |  |
+| [María](https://open.spotify.com/track/1tYOodxB9PDbppU5qlxAoX) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/0qo1x937c8OKKBaoA7LCMg) | 5:56 | 2023-08-25 | 2023-09-27 |
+| [María](https://open.spotify.com/track/7h8mEgtCXobf4KgPuFvC1x) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Vuelve y Juega](https://open.spotify.com/album/3VREkyPb4HzE8NoQK3zmtS) | 5:57 | 2023-09-15 |  |
 | [María](https://open.spotify.com/track/05Q4Vtbq6j2U3Hh7e9jqZ5) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [María](https://open.spotify.com/album/04sPLDpEqjlbU3jZ5IGmzf) | 4:37 | 2023-08-25 |  |
 | [María Cristina](https://open.spotify.com/track/0SXp6vr9Z2yq80i3rO2nMq) | [Chumbekes](https://open.spotify.com/artist/7hufuXlbL937yf5aWmDL8z) | [Chumbekes](https://open.spotify.com/album/71P6eNcdkbX8UrlYGbcabD) | 3:06 | 2023-08-25 |  |
 | [Me Apuñalé](https://open.spotify.com/track/78DakQmH1J5YR1xfOdJsD4) | [Sonora Barón](https://open.spotify.com/artist/3IrgBju6MoDqMqxSUB3zCk) | [Santiago Caliente](https://open.spotify.com/album/5OR9wpC5rXNgRRii8UVIqZ) | 4:15 | 2023-08-25 |  |
@@ -108,7 +109,8 @@
 | [Y Dime](https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:15 | 2023-08-25 |  |
 | [Ya llegó el sabor](https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:37 | 2023-08-25 |  |
 | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs) | 3:24 | 2023-08-25 |  |
-| [Ya Te Olvide](https://open.spotify.com/track/5pGrxPhRB7Y8dushD7HGOi) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/0qo1x937c8OKKBaoA7LCMg) | 3:44 | 2023-08-25 |  |
+| [Ya Te Olvide](https://open.spotify.com/track/5pGrxPhRB7Y8dushD7HGOi) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/0qo1x937c8OKKBaoA7LCMg) | 3:44 | 2023-08-25 | 2023-09-27 |
+| [Ya Te Olvidé](https://open.spotify.com/track/0Q1xQLuG7ztqA0FdojOCPj) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/6wzhyHGZzcm4lYhDikPDLc) | 3:41 | 2023-09-15 |  |
 | [Yo Me Enamoré](https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:12 | 2023-08-25 |  |
 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 | 2023-08-25 |  |
 | [¿Cómo Te Explico?](https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [¿Cómo Te Explico?](https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK) | 3:09 | 2023-08-25 |  |

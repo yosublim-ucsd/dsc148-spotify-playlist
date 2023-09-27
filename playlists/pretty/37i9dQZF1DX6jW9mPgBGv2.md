@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Eladio Carrion y Morad plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,087 likes - 85 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,208 likes - 85 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 7 | [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 |
 | 8 | [Los Que Son](https://open.spotify.com/track/0drasydwJPcgoLLDXFSMs6) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Los Que Son](https://open.spotify.com/album/15gBPq4jfgreZB7CqnIj0n) | 3:15 |
 | 9 | [Peso a Peso](https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:37 |
-| 10 | [Roncan](https://open.spotify.com/track/4whycC4uXJxmdraZDDCxGD) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Lúi Onthebeat](https://open.spotify.com/artist/6I04prIA9Rbc12zZrwsFuu), [Uriel Produce](https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC) | [Roncan](https://open.spotify.com/album/0z1U39KMAPDYxZfsqtiLuy) | 3:24 |
+| 10 | [Roncan](https://open.spotify.com/track/4whycC4uXJxmdraZDDCxGD) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Lúi Onthebeat](https://open.spotify.com/artist/6I04prIA9Rbc12zZrwsFuu), [Uriel Produce](https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK) | [Roncan](https://open.spotify.com/album/0z1U39KMAPDYxZfsqtiLuy) | 3:24 |
 | 11 | [GO GO GO](https://open.spotify.com/track/0BJCI9tfhMrpELzRiDzdiR) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Fenix The Producer](https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6) | [La Crema](https://open.spotify.com/album/1LliLGMCamo6OZ0SQBGINc) | 2:57 |
 | 12 | [La Jhayco](https://open.spotify.com/track/011ox5s7df1BY6kcqxKZVE) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw) | [La Jhayco](https://open.spotify.com/album/2vBmjKsJ6mMmDhcTJmGaby) | 2:31 |
 | 13 | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr) | 3:12 |

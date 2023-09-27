@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: David Kushner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,283,954 likes - 107 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,284,220 likes - 107 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

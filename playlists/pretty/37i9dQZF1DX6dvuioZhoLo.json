@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 286983,
+  "num_followers": 287034,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Nobody Lives Here Anymore",
+        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "duration_ms": 371976,
+      "name": "Sold My Soul",
+      "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Unchained Melody / You've Lost That Lovin' Feelin'",
         "url": "https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 229497,
       "name": "You've Lost That Lovin' Feelin'",
       "url": "https://open.spotify.com/track/7enr4eQzPkih9M7TkeDuw0"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Nobody Lives Here Anymore",
-        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 371976,
-      "name": "Sold My Soul",
-      "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Years",
+        "url": "https://open.spotify.com/album/4DdokaghnnKmmaWOhO2G0I"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "Good As Gold",
+      "url": "https://open.spotify.com/track/5c40AAhGGG0d7iDgXyF38y"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 227893,
       "name": "To Learn Her",
       "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "southwest serenade",
-        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
-      },
-      "artists": [
-        {
-          "name": "Story Slaughter",
-          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
-        }
-      ],
-      "duration_ms": 106250,
-      "name": "southwest serenade",
-      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1203,18 +1203,34 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Years",
-        "url": "https://open.spotify.com/album/4DdokaghnnKmmaWOhO2G0I"
+        "name": "southwest serenade",
+        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
       },
       "artists": [
         {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+          "name": "Story Slaughter",
+          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
         }
       ],
-      "duration_ms": 193306,
-      "name": "Good As Gold",
-      "url": "https://open.spotify.com/track/5c40AAhGGG0d7iDgXyF38y"
+      "duration_ms": 106250,
+      "name": "southwest serenade",
+      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Midwest Farmer's Daughter",
+        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 273440,
+      "name": "Four Years of Chances",
+      "url": "https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Real Class Act",
-        "url": "https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e"
-      },
-      "artists": [
-        {
-          "name": "Fanny Lumsden",
-          "url": "https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2"
-        }
-      ],
-      "duration_ms": 177502,
-      "name": "Roll On",
-      "url": "https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Canyons of my Mind",
         "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
       },
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Midwest Farmer's Daughter",
-        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
+        "name": "Real Class Act",
+        "url": "https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Fanny Lumsden",
+          "url": "https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2"
         }
       ],
-      "duration_ms": 273440,
-      "name": "Four Years of Chances",
-      "url": "https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx"
+      "duration_ms": 177502,
+      "name": "Roll On",
+      "url": "https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT"
     },
     {
       "added_at": "2023-09-08 04:00:00",

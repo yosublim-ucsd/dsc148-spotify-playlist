@@ -4,7 +4,7 @@
 
 > 
 
-663 songs - 1 day 9 hr 23 min
+664 songs - 1 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [This Week](https://open.spotify.com/track/3yIZgYN7AKO3cDueyhpuCS) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:16 | 2023-03-23 |  |
 | [Thor's Hammer Worthy \(feat\. ZillaKami\)](https://open.spotify.com/track/2tKhmLk0vDv5Gwe1aQd7Ix) | [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [FAMILY](https://open.spotify.com/album/7CUmEkXzsnL13LU8XQnlbC) | 2:03 | 2023-01-23 |  |
 | [thought i was playing](https://open.spotify.com/track/3XLbDUB5BX2WqL2qoAsvtb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:47 | 2022-12-23 |  |
+| [Thought It Was a Drought](https://open.spotify.com/track/5ihDGnhQgMA0F0tk9fNLlA) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 4:25 | 2023-09-26 |  |
 | [Thumbing](https://open.spotify.com/track/1fre4TERtUaXspF6sUrHDR) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PRE5L](https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4) | 2:40 | 2022-11-18 |  |
 | [Tic Tac Toe \(feat\. Kodak Black\)](https://open.spotify.com/track/35J4wXQeRuHNOEArMy6FOe) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:05 | 2023-05-31 |  |
 | [TIL FURTHER NOTICE \(feat\. James Blake & 21 Savage\)](https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:14 | 2023-07-28 |  |

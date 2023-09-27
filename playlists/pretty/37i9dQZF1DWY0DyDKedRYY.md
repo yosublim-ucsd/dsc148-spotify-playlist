@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music, featuring RADAR official artist Reneé Rapp on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,887 likes - 45 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,881 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

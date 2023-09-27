@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: berlioz
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,658 likes - 200 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,701 likes - 200 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 
 > Música serena de piano para dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,007 likes - 170 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,019 likes - 170 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

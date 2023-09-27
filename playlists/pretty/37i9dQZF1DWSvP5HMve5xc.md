@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvP5HMve5xc.md) - [plain]
 
 > Listen to Eric Nam's greatest hits, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,271 likes - 58 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,294 likes - 58 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,480 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,816 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 33 | [Insomnia \- Radio Edit](https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:33 |
 | 34 | [Carte Blanche \- FM Edit](https://open.spotify.com/track/5yTN79Mgt4licL40oassM3) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [Carte Blanche \(Ilan Bluestone Remix\)](https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE) | 3:24 |
 | 35 | [Coming On Strong](https://open.spotify.com/track/7cZAh5boqsZqcxfKUAwFHb) | [Signum](https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ), [Scott Mac](https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw) | [Coming On Strong \(ReOrder Remix\)](https://open.spotify.com/album/3dMgaoVi9AC6GMCpr9D4c3) | 3:19 |
-| 36 | [Out Of The Blue](https://open.spotify.com/track/7fIfO8fZ55Eq5qtd5vCd6z) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Remastered\)](https://open.spotify.com/album/0Wd7GMaUkqotsEb1RCYx2V) | 3:54 |
-| 37 | [Bullet In the Gun 2000 \- Radio Mix](https://open.spotify.com/track/3c7aA2sPM4xcFTWkBINhty) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be) | [Bullet in the Gun 2000](https://open.spotify.com/album/6rhPbYVEu7rVdSvsA0zvHi) | 3:10 |
+| 36 | [Bullet In the Gun 2000 \- Radio Mix](https://open.spotify.com/track/3c7aA2sPM4xcFTWkBINhty) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be) | [Bullet in the Gun 2000](https://open.spotify.com/album/6rhPbYVEu7rVdSvsA0zvHi) | 3:10 |
+| 37 | [Out Of The Blue](https://open.spotify.com/track/7fIfO8fZ55Eq5qtd5vCd6z) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Remastered\)](https://open.spotify.com/album/0Wd7GMaUkqotsEb1RCYx2V) | 3:54 |
 | 38 | [Need To Feel Loved \- Radio Edit](https://open.spotify.com/track/4b9S5yZpvIVxMEuI0rHzk6) | [Reflekt](https://open.spotify.com/artist/1AjG4kPZtTlEhqkrLC1yno), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk) | [Need To Feel Loved](https://open.spotify.com/album/5OEUYpDcqOo7wIJsdqnh3X) | 3:16 |
 | 39 | [Escape \- Radio Edit](https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh) | [Airbase](https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe) | [Escape](https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu) | 3:14 |
 | 40 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 |

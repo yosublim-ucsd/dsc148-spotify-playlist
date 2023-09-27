@@ -1092,7 +1092,7 @@
           "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
         },
         {
-          "name": "Maara",
+          "name": "Maara...",
           "url": "https://open.spotify.com/artist/5BJIYkah1s9lnE1a0OO2Vn"
         }
       ],
@@ -2988,10 +2988,40 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 291990,
       "name": "Tanhai",
       "url": "https://open.spotify.com/track/0sfw4y1AaYpbL2jkbi1fAu"
+    },
+    {
+      "album": {
+        "name": "Khufiya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6BzqTX2mEkqEsxPw19KY9b"
+      },
+      "artists": [
+        {
+          "name": "Kiran",
+          "url": "https://open.spotify.com/artist/1IUUdmeNEJ6YLrtWGdsOiJ"
+        },
+        {
+          "name": "Nivi",
+          "url": "https://open.spotify.com/artist/1cmdu2iwKdME9GO1FJ7GYI"
+        },
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291990,
+      "name": "Tanhai",
+      "url": "https://open.spotify.com/track/6saOfBsCPh4D4gb2dk226w"
     },
     {
       "album": {

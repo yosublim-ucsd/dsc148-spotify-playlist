@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Duki.
 
-380 songs - 21 hr 31 min
+381 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 | 2022-01-17 |  |
 | [Dinero Digital](https://open.spotify.com/track/5nggFqmrxKwOpmTS7sS48F) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 4:05 | 2022-05-06 | 2022-10-15 |
 | [don't liE](https://open.spotify.com/track/6e46jZKoeaOCShrVJK1XzN) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 3:33 | 2023-06-23 | 2023-07-18 |
-| [don't liE](https://open.spotify.com/track/7GpSrZ9BAnu5l5ahjRS8KC) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 3:33 | 2023-07-07 |  |
+| [don't liE](https://open.spotify.com/track/7GpSrZ9BAnu5l5ahjRS8KC) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 3:33 | 2023-07-07 | 2023-09-27 |
+| [don't liE](https://open.spotify.com/track/7wX28pRv3sTqA1EdjlFkkj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Antes de Ameri](https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR) | 3:33 | 2023-09-22 |  |
 | [Dos Mil 16](https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:28 | 2022-05-06 |  |
 | [Drill Tumbado](https://open.spotify.com/track/6lpnklpEptsXrNvzsmmOug) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Retumban2](https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy) | 1:51 | 2021-12-06 | 2022-01-15 |
 | [Drip](https://open.spotify.com/track/4BlhUMEFASlDYn3Iqc3RoC) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Drip](https://open.spotify.com/album/1B61voXZn8vZdgH8nMPI7z) | 2:59 | 2023-05-15 | 2023-08-16 |

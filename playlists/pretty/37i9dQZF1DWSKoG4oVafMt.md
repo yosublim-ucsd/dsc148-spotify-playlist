@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,865 likes - 78 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,993 likes - 78 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

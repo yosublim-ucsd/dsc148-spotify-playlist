@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 33223,
+  "num_followers": 33237,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
+        "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Einar Steen-N\u00f8kleberg",
+          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Piano Sonata in E Minor, Op. 7: III. Alla Menuetto, ma poco piu lento",
+      "url": "https://open.spotify.com/track/5Kao71AsrMSlMo8L123Vk2"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg: Complete Music with Orchestra",
         "url": "https://open.spotify.com/album/6Wg6lJX2OA5kF0oEIN0EUK"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 211000,
       "name": "Holberg Suite, Op. 40: III. Gavotte (Allegretto) - Musette (poco pi\u00f9 mosso) - Gavotte",
       "url": "https://open.spotify.com/track/6LneKcb0FT0xwU4RhFjmcs"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
-        "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Einar Steen-N\u00f8kleberg",
-          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Piano Sonata in E Minor, Op. 7: III. Alla Menuetto, ma poco piu lento",
-      "url": "https://open.spotify.com/track/5Kao71AsrMSlMo8L123Vk2"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -719,6 +719,30 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
+        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "duration_ms": 429933,
+      "name": "Grieg: 4 Symphonic Dances, Op. 64: I. Allegro moderato e marcato",
+      "url": "https://open.spotify.com/track/3DFnOHuNdGaLRFDtbAhfGZ"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
         "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
       },
@@ -759,30 +783,6 @@
       "duration_ms": 196000,
       "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
       "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
-        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Sakari Oramo",
-          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        }
-      ],
-      "duration_ms": 429933,
-      "name": "Grieg: 4 Symphonic Dances, Op. 64: I. Allegro moderato e marcato",
-      "url": "https://open.spotify.com/track/3DFnOHuNdGaLRFDtbAhfGZ"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Lyric Pieces",
-        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Grieg: Lyric Pieces, Book 6, Op. 57: No. 2, Gade",
-      "url": "https://open.spotify.com/track/56G2FD2KBFu8AqFLmEbSD9"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
         "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 390200,
       "name": "Grieg: Cello Sonata in A Minor, Op. 36: II. Andante molto tranquillo",
       "url": "https://open.spotify.com/track/1dQcZRGntODNgU5Pj7tgHO"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Grieg: Lyric Pieces, Book 6, Op. 57: No. 2, Gade",
+      "url": "https://open.spotify.com/track/56G2FD2KBFu8AqFLmEbSD9"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Edvard Grieg in Hardanger",
-        "url": "https://open.spotify.com/album/7mHOWB6fyTsStgN8GIOrys"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Geir Botnen",
-          "url": "https://open.spotify.com/artist/6YcsDA7VnJvOKg6VLxwrKa"
-        }
-      ],
-      "duration_ms": 285226,
-      "name": "Andantino Serioso, No 4 Of Four Album Leaves, Op.28",
-      "url": "https://open.spotify.com/track/17FXboBi0kYCoiGOnpku9I"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Gerhard Oppitz Plays Grieg",
         "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 194000,
       "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
       "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Edvard Grieg in Hardanger",
+        "url": "https://open.spotify.com/album/7mHOWB6fyTsStgN8GIOrys"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Geir Botnen",
+          "url": "https://open.spotify.com/artist/6YcsDA7VnJvOKg6VLxwrKa"
+        }
+      ],
+      "duration_ms": 285226,
+      "name": "Andantino Serioso, No 4 Of Four Album Leaves, Op.28",
+      "url": "https://open.spotify.com/track/17FXboBi0kYCoiGOnpku9I"
     },
     {
       "added_at": "2022-09-30 04:01:00",

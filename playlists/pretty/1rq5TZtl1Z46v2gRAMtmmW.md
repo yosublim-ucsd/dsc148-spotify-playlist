@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 28,447 likes - 40 songs - 2 hr 30 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 28,449 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [cyber meat](https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 3:06 |
-| 2 | [Slumber](https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Slipping Into Color](https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO) | 3:45 |
-| 3 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 |
-| 4 | [softscars](https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/6D1djmwpqsx5Y611ieEAXr) | 3:26 |
-| 5 | [The Low](https://open.spotify.com/track/0VGmel9RQUjYxuqZkeublB) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [The Low](https://open.spotify.com/album/1fdz9eOqE4fcayb5wIqErG) | 3:38 |
-| 6 | [DRIFT ON](https://open.spotify.com/track/7e4PQr0twFDRfOpSedfA1L) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [Drift](https://open.spotify.com/album/6bbYGbBQJm5XKn85vvt34t) | 3:27 |
-| 7 | [Vajkoczy](https://open.spotify.com/track/3KmzZk1OtrY7eNvAliEaiP) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Vajkoczy](https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI) | 4:10 |
-| 8 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 |
-| 9 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
-| 10 | [Backwards](https://open.spotify.com/track/3AalwwmizoPXoLJOoAqnJe) | [H31R](https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr), [JWords](https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT), [maassai](https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV) | [Backwards](https://open.spotify.com/album/2jPweadDjOnzChjjcuselh) | 2:08 |
-| 11 | [DJ Friendly](https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [DJ Friendly](https://open.spotify.com/album/32EpMCWvvIxNteNjTAgu26) | 4:40 |
-| 12 | [Butterfly Effect \- DJ Ron Dixon's Clubstep Remix](https://open.spotify.com/track/4T4vBTxrbXdfJxOjHclV1Q) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect \(Remixes\)](https://open.spotify.com/album/1GEUwENl79CEkDtJjGQd2H) | 2:24 |
+| 1 | [VIOLET](https://open.spotify.com/track/7bj2V0jUq2wbuOwxlajhIu) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [VIOLET](https://open.spotify.com/album/1PXmYCuozfCvpV3ssSgsgA) | 2:26 |
+| 2 | [cyber meat](https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 3:06 |
+| 3 | [Slumber](https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Slipping Into Color](https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO) | 3:45 |
+| 4 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 |
+| 5 | [Right Here](https://open.spotify.com/track/5lheFJ9dG8CvAUmDobTTYP) | [H31R](https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr), [JWords](https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT), [maassai](https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV) | [Right Here](https://open.spotify.com/album/6eVyeXNcxcfv0eE5fZmteF) | 2:13 |
+| 6 | [softscars](https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/6D1djmwpqsx5Y611ieEAXr) | 3:26 |
+| 7 | [The Low](https://open.spotify.com/track/0VGmel9RQUjYxuqZkeublB) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [The Low](https://open.spotify.com/album/1fdz9eOqE4fcayb5wIqErG) | 3:38 |
+| 8 | [DRIFT ON](https://open.spotify.com/track/7e4PQr0twFDRfOpSedfA1L) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [Drift](https://open.spotify.com/album/6bbYGbBQJm5XKn85vvt34t) | 3:27 |
+| 9 | [Vajkoczy](https://open.spotify.com/track/3KmzZk1OtrY7eNvAliEaiP) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Vajkoczy](https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI) | 4:10 |
+| 10 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 |
+| 11 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
+| 12 | [DJ Friendly](https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [DJ Friendly](https://open.spotify.com/album/32EpMCWvvIxNteNjTAgu26) | 4:40 |
 | 13 | [Si Te Portas Bonito](https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 5:01 |
 | 14 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
 | 15 | [You Knew](https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 7:16 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 39 | [Circle Back Around](https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Circle Back Around](https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33) | 3:15 |
 | 40 | [Drum](https://open.spotify.com/track/0woEYg2SEO3u2MFKmVnDgM) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:38 |
 
-Snapshot ID: `MzQ4NSwyNDY0ZTdhODA4ZWRhYmFjMDE1MWUyMzcwYzI3NjlmMzJhZmM4YTNh`
+Snapshot ID: `MzQ5MSwzZDFmMzVmYWQ0ZTQwZDc4ZjM4NWU1MDFhN2Q2NGY1OTI2M2M1NGUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Two worlds walk side by side on the runway with Luar’s SS24 Collection for NYFW, Soundtrack by Raul Lopez
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,406 likes - 56 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,411 likes - 56 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

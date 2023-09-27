@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Cardi B & Meghan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,248 likes - 89 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,540 likes - 89 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Dale play, y que la cumbia no pare.
 
-150 songs - 9 hr 8 min
+151 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [La Pollera Colorada](https://open.spotify.com/track/0v1f1x1F0ktGyX1sNfhHq7) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Imbatibles](https://open.spotify.com/album/4K2hBLfgSLYfJowi58zWCb) | 2:50 | 2022-04-15 | 2022-08-02 |
 | [La pollera colorada](https://open.spotify.com/track/7DqVXvRHW9azaSnKMsxNbO) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Imbatibles](https://open.spotify.com/album/3ym1l1LNupFVuHXyUr8B0T) | 2:50 | 2023-04-28 | 2023-06-17 |
 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 | 2022-04-15 |  |
-| [Le Hace Falta un Beso](https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Le Hace Falta un Beso](https://open.spotify.com/album/6qLZAeyYDTZ4MdFGBipbgP) | 3:19 | 2022-04-15 |  |
+| [Le Hace Falta un Beso](https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Le Hace Falta un Beso](https://open.spotify.com/album/6qLZAeyYDTZ4MdFGBipbgP) | 3:19 | 2022-04-15 | 2023-09-27 |
 | [Llora me llama](https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \(La poesía musical\)](https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR) | 3:12 | 2022-04-15 |  |
 | [Llora Me Llama / Y Tu Con El / Quiero Verte Bailar / Llorarás Mas De Diez Veces / Amor a Medias No](https://open.spotify.com/track/5Ed4IftU2YrSPCjIbUfwQg) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Llora Me Llama / Y Tu Con El / Quiero Verte Bailar / Llorarás Mas De Diez Veces / Amor a Medias No](https://open.spotify.com/album/3SPUu8pxUz5yZsXXi1WjKM) | 5:40 | 2023-06-16 |  |
 | [Llorarás Más De Diez Veces](https://open.spotify.com/track/2IuLxgL5dd02AeF5FSygjQ) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Aún Sigue La Lección](https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D) | 3:31 | 2022-04-15 | 2023-03-13 |
@@ -127,6 +127,7 @@
 | [Tan Sólo Amantes](https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6) | 3:56 | 2023-03-10 |  |
 | [Te Extraño](https://open.spotify.com/track/0t7tVOR1T5j0yVueemnU8O) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [7 Lunas](https://open.spotify.com/album/1WnXciNaDI7dOujJjKKBEu) | 4:00 | 2022-04-15 | 2022-07-28 |
 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 | 2022-04-15 |  |
+| [Te hubieras ido antes](https://open.spotify.com/track/79v3sImuaCmWvOn1Au1EZU) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Te Sigo Enamorando](https://open.spotify.com/album/3jhZE9j5IRdc6JX8lCepYZ) | 5:11 | 2023-09-26 |  |
 | [Te Vas a Arrepentir](https://open.spotify.com/track/5Rb1YFwlxt1AgMaqbOpZzf) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/65Z4VN8ZKEYkqM6K2yNoRl) | 3:23 | 2022-04-15 | 2022-07-29 |
 | [Te Vas a Arrepentir](https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4) | 3:23 | 2022-07-22 |  |
 | [Tomaremos Ron](https://open.spotify.com/track/7b48LygvIT0pu4RD9FvJyi) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Tomaremos Ron](https://open.spotify.com/album/2zmoBTgEFOxt2yJNTxUfQj) | 3:22 | 2022-04-15 | 2022-05-27 |

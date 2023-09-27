@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,623 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,645 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 29 | [Empty](https://open.spotify.com/track/3nYCP4ugsBEj04BDjp6CrG) | [猫田ねたこ](https://open.spotify.com/artist/0lzD8LErG1lgw65vqVZuQE) | [dropss](https://open.spotify.com/album/2stLVpBMmc65mFVC0OUXPg) | 2:37 |
 | 30 | [December](https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [5am](https://open.spotify.com/album/1dLcTY0iMPyX7i6yrz5KjP) | 4:15 |
 | 31 | [うたのけはい](https://open.spotify.com/track/2TNG5NxXZXBsLmhB8RGN2N) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [0](https://open.spotify.com/album/4yqm0ZLcphXs8M8cVvLKym) | 2:07 |
-| 32 | [波間にて](https://open.spotify.com/track/7LnJsDQaaJW3ATtIjsDHdk) | [影山朋子](https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp) | [波間にて](https://open.spotify.com/album/0O5iAHM0Bbrg5fuui6DEv7) | 3:36 |
+| 32 | [Fragments](https://open.spotify.com/track/63m3h54z2rge3HTbjGe3Bb) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Fragments](https://open.spotify.com/album/6KeXmbO5ZaW0SWoUW3TgX7) | 3:51 |
 | 33 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 |
 | 34 | [Shin Takara Jima \(hf remix\)](https://open.spotify.com/track/0cJEseMqUZcRsEJpceH5Zb) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [Tsuki no Maboroshi \~ Remix works \~](https://open.spotify.com/album/677gGniYchInGseMSycVKe) | 4:08 |
 | 35 | [Midnight Song](https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 79 | [パレード](https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [Ninh Binh Brother's Homestay](https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra) | 3:48 |
 | 80 | [苺](https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Prescribing The...](https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat) | 4:47 |
 
-Snapshot ID: `MCw1ZWU0ZWNkMWY1M2U0NGVhYTRhZTdjZDE4YzZhMGRhNzM0MjMxYjM2`
+Snapshot ID: `MCw5OWFiNTI2OTAxMWQ4NTgyNGM3ZTM3MDdiY2NhNTZiODU0MGQ1YmNh`

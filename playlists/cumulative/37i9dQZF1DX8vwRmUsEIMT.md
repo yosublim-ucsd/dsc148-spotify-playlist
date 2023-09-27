@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Bakar
 
-1,354 songs - 3 day 1 hr 8 min
+1,356 songs - 3 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Angel \(From Barbie The Album\)](https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Angel \(From Barbie The Album\)](https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V) | 2:03 | 2023-06-08 | 2023-07-07 |
 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 | 2022-09-08 | 2022-09-23 |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-08 |  |
-| [Another One Of Me \(feat\. The Weeknd, French Montana and 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 | 2023-09-14 |  |
+| [Another One Of Me \(feat\. 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 | 2023-09-14 |  |
 | [Another Sketch](https://open.spotify.com/track/2IVmt96IvSP10bMHCIsmRs) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Another Sketch](https://open.spotify.com/album/3jm7drQQWex8Gu3cOdjkR9) | 3:50 | 2022-05-26 | 2022-06-22 |
 | [Ant Pile](https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Ant Pile](https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4) | 2:06 | 2023-05-25 | 2023-06-16 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-20 | 2022-12-16 |
@@ -164,6 +164,7 @@
 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 | 2023-06-29 | 2023-08-18 |
 | [Black Beatles](https://open.spotify.com/track/5NSMTglRdvEU96yrUuj6Mc) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Black Beatles](https://open.spotify.com/album/7hjYk958TkhvAhwrKDIAuc) | 2:40 | 2022-05-26 | 2022-06-03 |
 | [Black British](https://open.spotify.com/track/0ZYWQYsfhLLiZW5FPIkXw1) | [V V Brown](https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG) | [Black British](https://open.spotify.com/album/4jdpV7FhHIp2BlesVDerOX) | 4:18 | 2023-03-31 | 2023-04-07 |
+| [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-26 |  |
 | [Black Mascara.](https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Black Mascara.](https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb) | 4:01 | 2022-08-26 | 2022-10-21 |
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-20 | 2023-05-26 |
 | [Blame Brexit](https://open.spotify.com/track/6SvG9RqYVvdvj14vVH8d4F) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Blame Brexit](https://open.spotify.com/album/06C78rpL9iz62Y6fRyMCgR) | 3:08 | 2023-01-06 | 2023-02-03 |
@@ -833,6 +834,7 @@
 | [Mourning](https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Mourning](https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX) | 2:27 | 2023-05-18 | 2023-06-30 |
 | [Move It](https://open.spotify.com/track/2wfsZraYJMgUE8Rg6JuzqM) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Move It](https://open.spotify.com/album/3GCMoYx54rVyRSxQFqntuR) | 2:26 | 2023-06-22 | 2023-07-19 |
 | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 | 2023-08-04 | 2023-09-15 |
+| [Mr\. Hypocrite](https://open.spotify.com/track/1gKelgRPHsiSnVXWlgHJff) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [With All Due Disrespect](https://open.spotify.com/album/30yDua4Di0L2wouOc5rHKN) | 2:57 | 2023-09-26 |  |
 | [Mrs Lonely](https://open.spotify.com/track/2i4ytaPgdc78B7TP16Wzjc) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [Mrs Lonely](https://open.spotify.com/album/3Qzw5DoS3nIbVK7fOqTPGo) | 3:18 | 2023-08-25 |  |
 | [MTJL \(Maybe That’s Just Life\)](https://open.spotify.com/track/0CS4oLIBzAwmR11rELQMXv) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [MTJL \(Maybe That’s Just Life\)](https://open.spotify.com/album/10I7V2DrdIx51MNlkgWj90) | 1:57 | 2023-08-25 | 2023-09-15 |
 | [Muscle Memory](https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Muscle Memory](https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj) | 3:31 | 2023-05-11 | 2023-06-16 |

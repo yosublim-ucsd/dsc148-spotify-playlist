@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-322 songs - 21 hr 32 min
+323 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 | 2023-01-17 |  |
 | [Desire Lines](https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N) | 7:39 | 2023-01-17 |  |
 | [Diary of a Rose](https://open.spotify.com/track/610xMaOMK9GylOrNXNY86R) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Dolphine](https://open.spotify.com/album/24kBQl1dUCiUu5PQgpKhJi) | 4:39 | 2023-01-17 |  |
-| [Dive](https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7) | [The Soft Cavalry](https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ) | [The Soft Cavalry](https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ) | 4:15 | 2023-01-17 |  |
+| [Dive](https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7) | [The Soft Cavalry](https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ) | [The Soft Cavalry](https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ) | 4:15 | 2023-01-17 | 2023-09-27 |
 | [DIVER](https://open.spotify.com/track/0ZFl3lTd1hPcmC3ibzsNEr) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [I Want The Door To Open](https://open.spotify.com/album/6x6VGqTPJBK6r3qfuqe2Zl) | 3:01 | 2023-01-17 |  |
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2023-01-17 |  |
 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 | 2023-01-17 |  |
@@ -293,6 +293,7 @@
 | [Torch Song](https://open.spotify.com/track/28l122zrGEGeQtpB6v8Ev2) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Torch Song](https://open.spotify.com/album/0AgXsf94oHMjniz8qk4vqq) | 2:30 | 2023-01-17 |  |
 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 | 2023-01-17 |  |
 | [Trophy](https://open.spotify.com/track/2cX5koYbXtrs4IpnVxHx7A) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb) | 3:12 | 2023-01-17 |  |
+| [Troubled Girl](https://open.spotify.com/track/7DzjhfrHBr6zVPN7XJNoqg) | [Drab City](https://open.spotify.com/artist/37NiPFEKVQMSVTEgY2ZhBG) | [Good Songs For Bad People](https://open.spotify.com/album/3dVpNXjDFStTQ57vBWwVjK) | 3:23 | 2023-01-17 |  |
 | [Tummy](https://open.spotify.com/track/2UerZTFYCOEh07o0qfn2FL) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Amir](https://open.spotify.com/album/5RL52Y9Q7wmjcYvibTczjJ) | 3:10 | 2023-01-17 |  |
 | [two braids](https://open.spotify.com/track/3cszwDTVoLJxjni89QwYNp) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [last night in america](https://open.spotify.com/album/4FmlHVt8OrEz2qarqvbhcJ) | 3:47 | 2023-01-17 |  |
 | [Two Slow Dancers](https://open.spotify.com/track/0pM91oR6zMZcepPBklxO8Q) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:59 | 2023-01-17 |  |

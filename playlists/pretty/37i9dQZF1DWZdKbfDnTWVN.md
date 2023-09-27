@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=pdat4ZEbS9GP1JuDOOI\_TQ"> Wakadinali </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,795 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,811 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 37 | [Sock](https://open.spotify.com/track/5EIUmd3oVvAYGbAwe16rFR) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ) | [Sock](https://open.spotify.com/album/3eq47b44p7l0T4HS6p0SZR) | 1:50 |
 | 38 | [Spooky Shit.](https://open.spotify.com/track/323Aol9VAFndxhTaIVxqV0) | [Trill Hunnid Ke](https://open.spotify.com/artist/060e8JfWsQ4SemQo5iB8h4) | [Spooky Shit.](https://open.spotify.com/album/7f7xbV76grCg1PJeQSYpVe) | 2:31 |
 | 39 | [ROLL THE DICE \(Prod\. Gesaffelstein\)](https://open.spotify.com/track/7CAg4N1S926AymvuLjnJcy) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [ROLL THE DICE \(Prod\. Gesaffelstein\)](https://open.spotify.com/album/6P4c5OMZZQZVJLQJrYgjbd) | 2:44 |
-| 40 | [Made For This](https://open.spotify.com/track/0CdoYWHl0BGDL9XUQ0RnIN) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ), [Timmy Blanco](https://open.spotify.com/artist/1Vn2QDLkrVV4M1Y85dePup) | [Made For This](https://open.spotify.com/album/6HGtxJpzngWeBOcH88HlEa) | 1:10 |
+| 40 | [Made For This](https://open.spotify.com/track/5Gr47d1ThvLMeJR8ueVd2W) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ), [Timmy Blanco](https://open.spotify.com/artist/64r1hRUVXSdoMT30u3pUbS) | [Made For This](https://open.spotify.com/album/77xVkwwWp6O3xX0lpWprzH) | 1:10 |
 | 41 | [Gloom](https://open.spotify.com/track/6rjLmkmMl0yBmJdUWdvleg) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [The Renaissance Man](https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi), [PEPA](https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh) | [Gloom](https://open.spotify.com/album/0JWUu4GXllJVhGMcG72SQi) | 2:55 |
 | 42 | [The Avengers Cypher \(feat\. Katapilla\)](https://open.spotify.com/track/7B8ihSTZ2vUmZKhcO4L4Lo) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET) | [The Avengers Cypher \(feat\. Katapilla\)](https://open.spotify.com/album/3RDYhpl3VUBVrLnMX1yM63) | 4:46 |
 | 43 | [ABCD\(censored\)](https://open.spotify.com/track/5SLzHU4czXM8NL15XR0UFb) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [ABCD\(censored\)](https://open.spotify.com/album/0HpgzBSWAANPLcQbX1sVPG) | 2:30 |

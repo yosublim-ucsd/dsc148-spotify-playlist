@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Christian Nodal en portada.",
-  "num_followers": 596964,
+  "num_followers": 597103,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-09-22 16:00:00",
       "album": {
+        "name": "Julietota",
+        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 212151,
+      "name": "Julietota",
+      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
+    },
+    {
+      "added_at": "2023-09-22 16:00:00",
+      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
       },
@@ -503,18 +519,22 @@
     {
       "added_at": "2023-09-22 16:00:00",
       "album": {
-        "name": "Julietota",
-        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
       "artists": [
         {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 212151,
-      "name": "Julietota",
-      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
+      "duration_ms": 205299,
+      "name": "As\u00ed Lo Quiso Dios",
+      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
     },
     {
       "added_at": "2023-09-22 16:00:00",
@@ -535,26 +555,6 @@
       "duration_ms": 215172,
       "name": "PICARD\u00cdA",
       "url": "https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF"
-    },
-    {
-      "added_at": "2023-09-22 16:00:00",
-      "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 205299,
-      "name": "As\u00ed Lo Quiso Dios",
-      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
     },
     {
       "added_at": "2023-09-22 16:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-09-22 16:00:00",
       "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
+    },
+    {
+      "added_at": "2023-09-22 16:00:00",
+      "album": {
         "name": "Simbolo Sexual",
         "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 183667,
       "name": "Te Lo Agradezco",
       "url": "https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX"
-    },
-    {
-      "added_at": "2023-09-22 16:00:00",
-      "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
     },
     {
       "added_at": "2023-09-22 16:00:00",
@@ -839,18 +839,26 @@
     {
       "added_at": "2023-09-22 16:00:00",
       "album": {
-        "name": "Lovelove U",
-        "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
+        "name": "Skin de Bandida",
+        "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
       },
       "artists": [
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 175479,
-      "name": "Lovelove U",
-      "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
+      "duration_ms": 176134,
+      "name": "Skin de Bandida",
+      "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
     },
     {
       "added_at": "2023-09-22 16:00:00",
@@ -871,6 +879,22 @@
       "duration_ms": 167720,
       "name": "Cuerno Mio",
       "url": "https://open.spotify.com/track/1kiwk2pQBVQNIbx7Hf3y8Z"
+    },
+    {
+      "added_at": "2023-09-22 16:00:00",
+      "album": {
+        "name": "Lovelove U",
+        "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 175479,
+      "name": "Lovelove U",
+      "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
     },
     {
       "added_at": "2023-09-22 16:00:00",
@@ -903,30 +927,6 @@
       "duration_ms": 212000,
       "name": "Tirando Flow Sesh #11 (feat. El Bogueto & Ritorukai)",
       "url": "https://open.spotify.com/track/77IPE0PA44eThYC41I3Dzh"
-    },
-    {
-      "added_at": "2023-09-22 16:00:00",
-      "album": {
-        "name": "Skin de Bandida",
-        "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 176134,
-      "name": "Skin de Bandida",
-      "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
     },
     {
       "added_at": "2023-09-22 16:00:00",
@@ -983,6 +983,38 @@
     {
       "added_at": "2023-09-22 16:00:00",
       "album": {
+        "name": "Obsessed Pt. 2",
+        "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 197365,
+      "name": "Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK"
+    },
+    {
+      "added_at": "2023-09-22 16:00:00",
+      "album": {
+        "name": "Corleone",
+        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 167381,
+      "name": "Corleone",
+      "url": "https://open.spotify.com/track/7m4eDXrp2QXWFc9kxb6Xdo"
+    },
+    {
+      "added_at": "2023-09-22 16:00:00",
+      "album": {
         "name": "G Low Kitty",
         "url": "https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN"
       },
@@ -1007,38 +1039,6 @@
       "duration_ms": 214897,
       "name": "G Low Kitty",
       "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
-    },
-    {
-      "added_at": "2023-09-22 16:00:00",
-      "album": {
-        "name": "Corleone",
-        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 167381,
-      "name": "Corleone",
-      "url": "https://open.spotify.com/track/7m4eDXrp2QXWFc9kxb6Xdo"
-    },
-    {
-      "added_at": "2023-09-22 16:00:00",
-      "album": {
-        "name": "Obsessed Pt. 2",
-        "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 197365,
-      "name": "Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK"
     },
     {
       "added_at": "2023-09-22 16:00:00",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2023-09-22 16:00:00",
       "album": {
+        "name": "Traigo El Mando",
+        "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "duration_ms": 182911,
+      "name": "Traigo El Mando",
+      "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
+    },
+    {
+      "added_at": "2023-09-22 16:00:00",
+      "album": {
         "name": "Reggaeto\u00f1erito",
         "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 208413,
       "name": "Entre Botellas",
       "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
-    },
-    {
-      "added_at": "2023-09-22 16:00:00",
-      "album": {
-        "name": "Traigo El Mando",
-        "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        }
-      ],
-      "duration_ms": 182911,
-      "name": "Traigo El Mando",
-      "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
     },
     {
       "added_at": "2023-09-22 16:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-09-22 16:00:00",
       "album": {
+        "name": "HOY ME PORTO MAL",
+        "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 133051,
+      "name": "HOY ME PORTO MAL",
+      "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
+    },
+    {
+      "added_at": "2023-09-22 16:00:00",
+      "album": {
         "name": "SQ LITO",
         "url": "https://open.spotify.com/album/05e97jCxn4v6Ljq7uirzHk"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 199654,
       "name": "SQ LITO",
       "url": "https://open.spotify.com/track/6xGn94pu3u5xDpEDbrbDbn"
-    },
-    {
-      "added_at": "2023-09-22 16:00:00",
-      "album": {
-        "name": "HOY ME PORTO MAL",
-        "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 133051,
-      "name": "HOY ME PORTO MAL",
-      "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
     },
     {
       "added_at": "2023-09-22 16:00:00",

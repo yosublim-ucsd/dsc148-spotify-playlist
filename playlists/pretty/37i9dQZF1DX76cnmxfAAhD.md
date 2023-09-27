@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76cnmxfAAhD.md) - [plain]
 
 > 90s jams for the road
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,871 likes - 110 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,576 likes - 110 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

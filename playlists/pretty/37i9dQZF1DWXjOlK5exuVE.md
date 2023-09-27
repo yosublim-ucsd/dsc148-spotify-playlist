@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 
 > ¡Bienvenidos a La Tierra del Corrido! Historias que hacen historia\. Eden Muñoz, Los Tucanes de Tijuana & Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,885 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,411 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

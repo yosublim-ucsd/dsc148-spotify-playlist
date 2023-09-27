@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl?si=qj9Lt2qKS2ewS5zi05IX1w">Kuami Eugene</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,153 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,208 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

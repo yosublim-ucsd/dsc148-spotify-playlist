@@ -1036,10 +1036,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 247850,
       "name": "Gold - Audiotree Live Version",
       "url": "https://open.spotify.com/track/4uhEjM1u1Mh2Dxze7eseC4"
+    },
+    {
+      "album": {
+        "name": "Penny and Sparrow on Audiotree Live",
+        "url": "https://open.spotify.com/album/60M5DV44tvrN67gQL6RjWI"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247850,
+      "name": "Gold - Audiotree Live Version",
+      "url": "https://open.spotify.com/track/6wYPW25oVorYqaZBTw1n8Q"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Music from TV shows and films nominated for the 80th Golden Globe Awards. Watch Jan 10, 2023 on NBC.",
-  "num_followers": 5726,
+  "num_followers": 5727,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
+        "name": "BARRY (HBO Original Music Soundtrack Season 1 & 2)",
+        "url": "https://open.spotify.com/album/4kYPrvylR7PVvk8fphlRVv"
+      },
+      "artists": [
+        {
+          "name": "David Wingo",
+          "url": "https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk"
+        }
+      ],
+      "duration_ms": 69226,
+      "name": "Barry",
+      "url": "https://open.spotify.com/track/4dqBW6ZGXVKTHg15MErvJ9"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
         "name": "Blonde (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/5tVQoxthh1CrojRKURxcyz"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 225893,
       "name": "Bright Horses (Instrumental)",
       "url": "https://open.spotify.com/track/4zrcD8Ls4b5WFcIJrbXUS9"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "BARRY (HBO Original Music Soundtrack Season 1 & 2)",
-        "url": "https://open.spotify.com/album/4kYPrvylR7PVvk8fphlRVv"
-      },
-      "artists": [
-        {
-          "name": "David Wingo",
-          "url": "https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk"
-        }
-      ],
-      "duration_ms": 69226,
-      "name": "Barry",
-      "url": "https://open.spotify.com/track/4dqBW6ZGXVKTHg15MErvJ9"
     },
     {
       "added_at": "2022-12-21 17:45:34",

@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-306 songs - 15 hr 34 min
+307 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 | 2021-06-08 | 2022-04-20 |
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2021-09-23 |  |
 | [innerg](https://open.spotify.com/track/0gDb9g0EqeFfNl122zVrwV) | [hrlum](https://open.spotify.com/artist/1QCUIMMPGwxKs9E3UmY2bL) | [innerg](https://open.spotify.com/album/0V2xML4TBRDhoJeXaW0I6Y) | 2:05 | 2022-02-18 | 2022-04-21 |
+| [Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:32 | 2023-08-17 |  |
 | [Insomniac](https://open.spotify.com/track/62JzTgFcJ4BX07AktKmB1S) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/4Ei52mFcaEtc4yrQAPGS8w) | 3:32 | 2022-02-18 | 2022-04-21 |
 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 | 2021-06-08 |  |
 | [Jovial](https://open.spotify.com/track/2COBMrpsGXEagCGkjp2Siz) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP) | [Fresh Squeezed](https://open.spotify.com/album/4ZWyu9H0w1mOytbuwOugiC) | 2:22 | 2021-06-08 | 2022-04-20 |
@@ -271,7 +272,7 @@
 | [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 | 2021-06-08 | 2022-04-20 |
 | [the way that you see me \(feat\. Ayleen Valentine\)](https://open.spotify.com/track/5O6QAX1oI4iktfXP8HAmgi) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [the way that you see me \(feat\. Ayleen Valentine\)](https://open.spotify.com/album/4V0khjs7JiKzbJdYMukRhm) | 3:02 | 2021-06-08 | 2022-04-19 |
 | [this girl](https://open.spotify.com/track/19JzJOMs4wkuKxY8WEOMea) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 2:02 | 2021-06-08 | 2022-04-16 |
-| [This Is Home](https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu) | 3:46 | 2021-06-08 |  |
+| [This Is Home](https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu) | 3:46 | 2021-06-08 | 2023-09-27 |
 | [This Is What Happens](https://open.spotify.com/track/4brNBl0X8dpwjox4DZqjly) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR) | [The First Story: Tunes for Lovers](https://open.spotify.com/album/4B9g1PIr5vw6IzaAcIB14s) | 2:56 | 2021-06-08 | 2022-04-19 |
 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 | 2021-06-08 | 2022-04-20 |
 | [Time Machine](https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:23 | 2021-06-08 | 2022-11-13 |

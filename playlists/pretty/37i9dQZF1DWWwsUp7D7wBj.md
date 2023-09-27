@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > Todo lo que es cultura pop\. get yourself someone who looks at you the way Shakira looks at Karol\. 🩷
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,239 likes - 22 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,293 likes - 22 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

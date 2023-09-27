@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 123261,
+  "num_followers": 123416,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-09-15 21:59:32",
       "album": {
-        "name": "Infinito Amor",
-        "url": "https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Central 3",
-          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
-        }
-      ],
-      "duration_ms": 243417,
-      "name": "Infinito Amor",
-      "url": "https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq"
-    },
-    {
-      "added_at": "2023-09-15 21:59:32",
-      "album": {
         "name": "Releituras",
         "url": "https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 279989,
       "name": "Eu, Poema: Releitura",
       "url": "https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z"
+    },
+    {
+      "added_at": "2023-09-15 21:59:32",
+      "album": {
+        "name": "Infinito Amor",
+        "url": "https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Central 3",
+          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
+        }
+      ],
+      "duration_ms": 243417,
+      "name": "Infinito Amor",
+      "url": "https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq"
     },
     {
       "added_at": "2023-09-15 21:59:32",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-09-15 21:59:32",
       "album": {
-        "name": "Mais Perto Quero Estar",
-        "url": "https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC"
-      },
-      "artists": [
-        {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
-        }
-      ],
-      "duration_ms": 201282,
-      "name": "Mais Perto Quero Estar",
-      "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
-    },
-    {
-      "added_at": "2023-09-15 21:59:32",
-      "album": {
         "name": "S\u00f3 Penso Em Voc\u00ea (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1Zhps2KL1tFWr17ognMDJ1"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 360223,
       "name": "S\u00f3 Penso Em Voc\u00ea - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2"
+    },
+    {
+      "added_at": "2023-09-15 21:59:32",
+      "album": {
+        "name": "Mais Perto Quero Estar",
+        "url": "https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC"
+      },
+      "artists": [
+        {
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+        }
+      ],
+      "duration_ms": 201282,
+      "name": "Mais Perto Quero Estar",
+      "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
     },
     {
       "added_at": "2023-09-15 21:59:32",

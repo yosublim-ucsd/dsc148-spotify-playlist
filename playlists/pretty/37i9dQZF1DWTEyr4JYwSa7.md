@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,231 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,233 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 78 | [I Met an Angel \(on Christmas Day\)](https://open.spotify.com/track/6PiOlFSX06npr0YXexWkrg) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:19 |
 | 79 | [Maman, Papa](https://open.spotify.com/track/5SfR5iR5KLfWIyRxDa99ns) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 3:41 |
 | 80 | [Le Père Noël c't'un québécois](https://open.spotify.com/track/50UiWq1BJChAKQ0nhXl88O) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Le Père Noël c't'un québécois](https://open.spotify.com/album/6EzADwk0qEoRKPxoMWGIvk) | 2:32 |
-| 81 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
-| 82 | [Christmas Eve](https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:21 |
+| 81 | [Christmas Eve](https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:21 |
+| 82 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
 | 83 | [Santa Baby](https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Santa Baby](https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT) | 3:28 |
 | 84 | [Noël brun](https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Les nuits de Repentigny](https://open.spotify.com/album/0XCvQlTZV9Pyp3SyyceAsc) | 4:15 |
 | 85 | [Le petit renne au nez rouge](https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf) | [Renée Martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Chantons Noël!](https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds) | 2:51 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 89 | [Le sentier de neige](https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Reprises Vol.1](https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0) | 3:06 |
 | 90 | [Le Père Noël C't'un Québécois](https://open.spotify.com/track/7adJp4379R1irkezIA3zjd) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 2:56 |
 | 91 | [Winter Song](https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [Winter Song](https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE) | 3:00 |
-| 92 | [Fa La La](https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f) | [Bündock](https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD) | [Joyeux Noël](https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio) | 2:16 |
-| 93 | [Six heures d'avion nous séparent](https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Six heures d'avion nous séparent](https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u) | 2:48 |
+| 92 | [Six heures d'avion nous séparent](https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Six heures d'avion nous séparent](https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u) | 2:48 |
+| 93 | [Fa La La](https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f) | [Bündock](https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD) | [Joyeux Noël](https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio) | 2:16 |
 | 94 | [Noël à Jérusalem](https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Noël avec Jireh Gospel Choir](https://open.spotify.com/album/3nR7D8rkYHXIQG80R3EpFf) | 3:53 |
 | 95 | [Promenade en traîneau](https://open.spotify.com/track/7fwzmmganYLIMBP9rmrAAw) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 2:54 |
 | 96 | [Le sentier de neige](https://open.spotify.com/track/2CJJUz69TEqLrAyK2h02wp) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Noël chez moi](https://open.spotify.com/album/2Clfi6J5G7Aa1kxKv09ahV) | 2:42 |

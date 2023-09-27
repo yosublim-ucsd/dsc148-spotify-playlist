@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,711 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,171 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 | 36 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 |
 | 37 | [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 |
 | 38 | [Damage](https://open.spotify.com/track/3uYo9KXhl2N2RAAKA9XN9h) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Damage](https://open.spotify.com/album/5N1qmRfrSS7gCfZLcps7tI) | 2:57 |
-| 39 | [Dark Water](https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [JESSCA](https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9) | [Dark Water](https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK) | 3:26 |
-| 40 | [365](https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [365](https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI) | 3:12 |
+| 39 | [365](https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [365](https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI) | 3:12 |
+| 40 | [Dark Water](https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [JESSCA](https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9) | [Dark Water](https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK) | 3:26 |
 | 41 | [Komodo](https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c) | 2:35 |
 | 42 | [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 |
-| 43 | [Close To You](https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Close To You](https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM) | 3:23 |
-| 44 | [The Unexpected](https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Unexpected](https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z) | 4:00 |
+| 43 | [The Unexpected](https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Unexpected](https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z) | 4:00 |
+| 44 | [Close To You](https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Close To You](https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM) | 3:23 |
 | 45 | [Like An Old Dog \- Enrico Sangiuliano Remix](https://open.spotify.com/track/02juAgzBtqbe2r0OJOTLLD) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Pixx](https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Like An Old Dog \(Enrico Sangiuliano Remix\)](https://open.spotify.com/album/0urbEfySrOpOBUz2rrSZc0) | 8:03 |
 | 46 | [Say You Will](https://open.spotify.com/track/63IsPNecHLiwqMMxzeVG12) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Say You Will](https://open.spotify.com/album/1gBgLMEQraFgv7KrMQqxYV) | 2:12 |
 | 47 | [Acid \(All Night Long\)](https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Acid \(All Night Long\)](https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x) | 2:33 |

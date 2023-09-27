@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,577 likes - 114 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,601 likes - 114 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

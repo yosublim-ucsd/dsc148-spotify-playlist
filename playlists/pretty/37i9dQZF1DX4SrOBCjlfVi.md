@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Doja Cat, Moneybagg Yo and more\. Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,256 likes - 51 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,426 likes - 51 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 25 | [CRUEL WORLD](https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [CRUEL WORLD](https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC) | 2:27 |
 | 26 | [Smack Sh\*t](https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Smack Sh\*t](https://open.spotify.com/album/3Wa0UdCqXUAWNNuEr9ulHk) | 2:59 |
 | 27 | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 |
-| 28 | [Another One Of Me \(feat\. The Weeknd, French Montana and 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 |
+| 28 | [Another One Of Me \(feat\. 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 |
 | 29 | [OUT SAD](https://open.spotify.com/track/6Kdn4cfvGI7cwN7Y89oYMK) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [OUT SAD](https://open.spotify.com/album/5jHRsHtVQIryDysRjzAKPx) | 2:09 |
 | 30 | [Body](https://open.spotify.com/track/5t8FBhJKbpBCskmOaMRxQW) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Body](https://open.spotify.com/album/3wTOyUsrPYyyByd6kMkZRn) | 2:47 |
 | 31 | [Starstruck](https://open.spotify.com/track/7vlvtegZco6Jr9oKTLkVt2) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Starstruck](https://open.spotify.com/album/01EL8VkRfnMk9tWc88n34r) | 2:33 |

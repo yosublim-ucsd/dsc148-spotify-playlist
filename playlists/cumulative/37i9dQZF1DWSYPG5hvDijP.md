@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-152 songs - 8 hr 14 min
+153 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Sunti Kaha Hai](https://open.spotify.com/track/0JAPkDAXbRsMtQtsYkW3xP) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sunti Kaha Hai](https://open.spotify.com/album/73AFjr9LKzEDYX3wCWAcuL) | 2:36 | 2023-03-29 | 2023-07-21 |
 | [Taakat](https://open.spotify.com/track/2AMP8Rey8W6sxsXKUpgWRb) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [DJ Sa](https://open.spotify.com/artist/4rbhmiCpAkyvqqtTRzjJGf), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [Taakat](https://open.spotify.com/album/0ccts7BfXm24XXSyNmwHYR) | 2:36 | 2023-04-16 |  |
 | [THAPPAD!](https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [THAPPAD!](https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0) | 1:54 | 2023-04-21 |  |
+| [THAT’S A FACT!](https://open.spotify.com/track/7mmC9oJZxmYkIyDeghEGCd) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Manïn](https://open.spotify.com/artist/0Ln67JbkAdFwzpuF8uA5ZD) | [LADKE CONVICT](https://open.spotify.com/album/2IU5jXA80Y2yhfGqW5LxZc) | 3:01 | 2023-09-26 |  |
 | [Todh](https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Todh](https://open.spotify.com/album/1Bizgnf47ZtwxKiQtTDMrx) | 3:56 | 2023-03-29 | 2023-04-17 |
 | [Tony Montana](https://open.spotify.com/track/35rt75xpICwBH2XfkssRDw) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Tony Montana](https://open.spotify.com/album/6Phz8s97lC84QKQRklq2Db) | 3:50 | 2023-03-29 | 2023-04-17 |
 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-03-29 |  |

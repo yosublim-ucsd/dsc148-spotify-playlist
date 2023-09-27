@@ -1,6 +1,6 @@
 {
   "description": "Music that created modern indie as we know it. Cover: Yeah Yeah Yeahs",
-  "num_followers": 434654,
+  "num_followers": 434784,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
+        "name": "Pleasantville -Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 307333,
+      "name": "Across the Universe",
+      "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 338279,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
-        "name": "Pleasantville -Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 307333,
-      "name": "Across the Universe",
-      "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Santigold",
-        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "L.E.S. Artistes",
-      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Heart It Races (Cover Version)",
         "url": "https://open.spotify.com/album/5H7DXLYdOFUa0KD62HqCvd"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 231880,
       "name": "Heart It Races - Cover Version",
       "url": "https://open.spotify.com/track/0SyOHG2V9CgMSlebbnyoLJ"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "L.E.S. Artistes",
+      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
     },
     {
       "added_at": "2023-01-18 01:04:44",

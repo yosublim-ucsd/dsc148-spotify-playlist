@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rocco
 
-1,673 songs - 3 day 16 hr 8 min
+1,675 songs - 3 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [act up](https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [act up](https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3) | 2:08 | 2022-10-07 | 2022-10-22 |
 | [Adult](https://open.spotify.com/track/7aPVj4na1QheevNbrv5uwC) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Adult](https://open.spotify.com/album/61EpcO4cSj1KVzYD6xPyFe) | 2:37 | 2020-10-16 | 2022-06-15 |
 | [Adult Movies](https://open.spotify.com/track/5k3bwPbg6Kiz4bz76vRnyZ) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Adult Movies](https://open.spotify.com/album/4z4K18jaiyHHjSUthRrPC9) | 3:15 | 2021-08-13 | 2022-07-02 |
+| [After Midnight](https://open.spotify.com/track/4rlQza35DE4Prh5yonxnCs) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:24 | 2023-09-26 |  |
 | [Afterlife](https://open.spotify.com/track/0Xi1Cs3WebgME5QFZcJQcs) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [Afterlife](https://open.spotify.com/album/4bTzs8uMPepY1Dv99FesVW) | 2:34 | 2022-05-13 | 2022-07-25 |
 | [Airbnb](https://open.spotify.com/track/7CoCrwh2R5DmOgFYmu2iT5) | [Aimee Vant](https://open.spotify.com/artist/4j2LiaymZa7V1F8sfSC4TO) | [Airbnb](https://open.spotify.com/album/4YhBDAkXqEvWvqaiaK2PAt) | 3:16 | 2022-05-06 | 2022-07-07 |
 | [Alabama](https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Alabama](https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b) | 3:34 | 2023-06-30 | 2023-07-29 |
@@ -304,6 +305,7 @@
 | [Clueless In Suburbia](https://open.spotify.com/track/36Q7tpoLycNGNivepuUFxT) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Clueless In Suburbia](https://open.spotify.com/album/1BMcInMvgt6NOxxcWvv1hz) | 3:17 | 2022-01-28 | 2022-07-18 |
 | [coastline](https://open.spotify.com/track/06J6MvuHOCOI5HerZaKKy2) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [coastline](https://open.spotify.com/album/6AFPlvXucMhq5urJ1BTTuy) | 2:38 | 2021-08-06 | 2022-04-14 |
 | [Cocaine](https://open.spotify.com/track/0uoOJJYcnnLAFWajwNNAbL) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Cocaine](https://open.spotify.com/album/0K4jbnUPEuBr8JhWJuqdZ9) | 3:45 | 2023-02-10 | 2023-07-14 |
+| [Coffee](https://open.spotify.com/track/6GdUMm5xMw9hJckIc0qsGb) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:25 | 2023-09-26 |  |
 | [Cognitive Dissonance](https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Cognitive Dissonance](https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb) | 2:56 | 2022-07-22 | 2023-07-01 |
 | [Cold Charlie](https://open.spotify.com/track/3MGvORkRndr4qpEUroQ5mj) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [TV Boyfriends](https://open.spotify.com/album/1ReyIXP1ge46Vo1t5NFv9p) | 2:32 | 2022-06-01 | 2022-06-15 |
 | [Cold Shoulder](https://open.spotify.com/track/7lXB9BhHWe8E6OULBB5xew) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Cold Shoulder](https://open.spotify.com/album/4ZAigFYps8HNP9OUcrtpyQ) | 2:55 | 2020-11-10 | 2021-01-26 |
@@ -386,7 +388,7 @@
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 | 2022-10-13 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2022-06-17 | 2022-12-10 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-06-02 | 2022-07-28 |
-| [Demise](https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Demise](https://open.spotify.com/album/1zVQEvr8pNrCtpn0o2wo42) | 3:12 | 2023-07-28 |  |
+| [Demise](https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Demise](https://open.spotify.com/album/1zVQEvr8pNrCtpn0o2wo42) | 3:12 | 2023-07-28 | 2023-09-27 |
 | [Demons](https://open.spotify.com/track/08qsZgJlJnSbeAeLMtUHkn) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Demons](https://open.spotify.com/album/4UNIH2A9TMk030j12KQOIa) | 2:43 | 2020-10-16 | 2021-05-26 |
 | [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 | 2023-04-07 |  |
 | [Devil Laugh](https://open.spotify.com/track/3EsEyGSbW9y53RmozHYysM) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Counterparts](https://open.spotify.com/album/2qMPs3Ait3arKNnj3MSwxX) | 3:23 | 2021-08-13 | 2022-04-09 |
@@ -824,7 +826,7 @@
 | [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 | 2023-05-11 |
 | [Jesse C'mon](https://open.spotify.com/track/2MdlGVpttAcmVjMUo5hHbW) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Jesse C'mon](https://open.spotify.com/album/4pJ1u7tSjvImnIwgRQjyS6) | 2:26 | 2022-01-21 | 2022-04-16 |
 | [JPA989](https://open.spotify.com/track/2zZamOTUSQBF9HMY0NYIpG) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [JPA989](https://open.spotify.com/album/2gIRQ8aZF5aTZ8ex83pY70) | 2:56 | 2021-03-01 | 2021-05-26 |
-| [Juliene](https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Juliene](https://open.spotify.com/album/3QReCnRfEfYbqnmsdnFxeU) | 3:22 | 2023-06-30 |  |
+| [Juliene](https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Juliene](https://open.spotify.com/album/3QReCnRfEfYbqnmsdnFxeU) | 3:22 | 2023-06-30 | 2023-09-27 |
 | [july](https://open.spotify.com/track/5qAK8ceZCzwvNabw9Mu17F) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [july](https://open.spotify.com/album/51wHhJCdpwZ2591Es9Jqea) | 2:37 | 2023-07-28 |  |
 | [JUMPSHOT!](https://open.spotify.com/track/1hWIeur5Q8BJ9hUrDyTI8W) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [JUMPSHOT!](https://open.spotify.com/album/0jUh0PoLQtLry0B3JXyDiW) | 2:59 | 2022-04-29 | 2022-06-30 |
 | [Just a Little Bit Lonely](https://open.spotify.com/track/5HkDr6w8kst095gAP09k8C) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Just a Little Bit Lonely](https://open.spotify.com/album/3H0itk6lTMK8zFHT7MvZul) | 2:03 | 2021-02-24 | 2021-05-25 |

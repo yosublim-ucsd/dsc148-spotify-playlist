@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 
 > Rock that was on repeat during the summers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,130 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,133 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 90 | [In Love With a Girl](https://open.spotify.com/track/3zcmWxxUA7Em7X3IBqZGUo) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Gavin DeGraw](https://open.spotify.com/album/5FbUXif3rTa8DX7TTwxegZ) | 3:26 |
 | 91 | [One Last Breath \- Radio Version](https://open.spotify.com/track/0eFklulxFnNCypNSrywzSB) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [With Arms Wide Open: A Retrospective](https://open.spotify.com/album/6mOXPtswKccKSx5dYmCXAc) | 4:02 |
 | 92 | [Meant to Live](https://open.spotify.com/track/79cAPxneo5AvbNgR6ch3Cj) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Best Yet](https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc) | 3:19 |
-| 93 | [Elevation](https://open.spotify.com/track/0RHPoliIwT6ddbPugZNitX) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 3:46 |
-| 94 | [Home](https://open.spotify.com/track/7KPTwEENcZ5r4KJ6FHmhLP) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [It's Not Over....The Hits So Far](https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE) | 4:15 |
-| 95 | [Rockstar \- 2020 Remaster](https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All The Right Reasons \(15th Anniversary Expanded Edition\)](https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm) | 4:15 |
+| 93 | [Rockstar \- 2020 Remaster](https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All The Right Reasons \(15th Anniversary Expanded Edition\)](https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm) | 4:15 |
+| 94 | [Elevation](https://open.spotify.com/track/0RHPoliIwT6ddbPugZNitX) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 3:46 |
+| 95 | [Home](https://open.spotify.com/track/7KPTwEENcZ5r4KJ6FHmhLP) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [It's Not Over....The Hits So Far](https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE) | 4:15 |
 | 96 | [Fire](https://open.spotify.com/track/5mVjSxIfzdQrH5K0w5NPAf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Fire](https://open.spotify.com/album/4h3HuXQqdbigPCnfq3kHRm) | 4:12 |
 | 97 | [In The Morning](https://open.spotify.com/track/2VfqriSJNnNAWTsRwFPVtV) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorwhat? The Best Of Razorlight](https://open.spotify.com/album/5ukcsAk1XLdl0dRIKE6D8L) | 3:43 |
 | 98 | [Somewhere Else](https://open.spotify.com/track/1VfySzafN2UQPQFVfM3gz9) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Up All Night](https://open.spotify.com/album/6iRS8yRhnTgNEQrBoB2azm) | 3:16 |

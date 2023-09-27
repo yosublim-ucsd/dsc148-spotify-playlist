@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Cover: Mareux
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,620 likes - 113 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,180 likes - 113 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 33 | [Happy](https://open.spotify.com/track/4sBsParg8ua0dHomXOekyw) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 |
 | 34 | [Youth Cults](https://open.spotify.com/track/28to6BkzNlG24H6yJOxrJK) | [Traitrs](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Rites and Ritual](https://open.spotify.com/album/4NDIlGZ27FqVY5zxe3tttf) | 2:52 |
 | 35 | [Give Me a Reason](https://open.spotify.com/track/0s1bzOaz2BgIbvYhwGwpmq) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5dfc4xJu4rrdd7oufQu73H) | 4:25 |
-| 36 | [Weak In Your Light](https://open.spotify.com/track/59NJzV28kIjaPVqnkEX55V) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Weak In Your Light](https://open.spotify.com/album/7jEMFyVOSHEDt307mMeOM1) | 4:15 |
+| 36 | [Weak In Your Light](https://open.spotify.com/track/4odb2UIgc0u22MNV7p4iQq) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Strange Disciple](https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK) | 4:15 |
 | 37 | [Sensation](https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Sensation](https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf) | 4:36 |
 | 38 | [Paralyzed](https://open.spotify.com/track/0ECf6YrheBrgqZpnFpuE1r) | [Glaring](https://open.spotify.com/artist/576kYuY4OrauYNEzESyxDE) | [Paralyzed](https://open.spotify.com/album/7J5m8IiBGYSjPFF4i8Joo0) | 2:25 |
 | 39 | [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Predestiny](https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4) | 3:37 |

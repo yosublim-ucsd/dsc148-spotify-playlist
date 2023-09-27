@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 
 > Explore the Romantic side of Tamil Indie
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,107 likes - 52 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,150 likes - 52 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

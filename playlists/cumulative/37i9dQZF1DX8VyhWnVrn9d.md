@@ -4,7 +4,7 @@
 
 > Bailando de caballito, aunque se enoje tu mamá\. Mi Banda El Mexicano en portada.
 
-126 songs - 6 hr 29 min
+128 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [El Quebrador](https://open.spotify.com/track/3S0hJXGu9kWwbiiEzBdZoQ) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Éxitos Regionales Mexicanos, Vol.3](https://open.spotify.com/album/41vizdjsz9zbusZjWvW2xt) | 3:02 | 2023-06-19 |  |
 | [El Ranchero Chido](https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Super Exitos](https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0) | 2:43 | 2022-04-13 |  |
 | [El Teterete](https://open.spotify.com/track/4hwq3Fwh2YotxDBndS8cKk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:56 | 2022-04-13 | 2022-07-29 |
-| [El Teterete](https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:57 | 2022-04-13 |  |
+| [El Teterete](https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:57 | 2022-04-13 | 2023-09-27 |
+| [El Teterete](https://open.spotify.com/track/13ij1Ky8BF3w0vClKmeqHz) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/7GmPWgPhUzQUVZXz6VCpTG) | 2:57 | 2023-06-19 |  |
 | [El Torero Cotorro](https://open.spotify.com/track/1i2AwNOPHkyd0i3BSwX87L) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Vaqueros's Musical 10 Exitos Vol.2](https://open.spotify.com/album/6ZNeLzaVIN4YtfIjmFMUDw) | 2:52 | 2022-04-13 | 2022-07-29 |
 | [El Torero Cotorro](https://open.spotify.com/track/5EPr9Q3f5NaCq3TbcV0bi8) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [16 Éxitos](https://open.spotify.com/album/1H6argCU79lwgTej5HA0WQ) | 2:52 | 2022-04-13 | 2022-11-13 |
 | [El Torero Cotorro](https://open.spotify.com/track/6Btr1VUmPoPsniS5uhaq2Z) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [10 Éxitos, Vol\. 2](https://open.spotify.com/album/6sMOTcEnLdXpTPdHIVbKEc) | 2:52 | 2022-04-13 |  |
@@ -57,7 +58,8 @@
 | [Eso no, no, no](https://open.spotify.com/track/2do2io6XKKJarHpRcGrPWu) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [16 de Septiembre: Gruperas \(USA\) \[Vol\. 2\]](https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn) | 2:55 | 2022-04-13 | 2022-11-13 |
 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 | 2022-04-13 | 2022-07-29 |
 | [Eso no, no, no](https://open.spotify.com/track/5oXY2tOOcrI6ePYJfNrx3d) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Las 20 Poderosas \(USA\)](https://open.spotify.com/album/43eQSAjeMmLHKPslPiUB7l) | 2:55 | 2022-04-13 |  |
-| [Eva Maria](https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:47 | 2022-04-13 |  |
+| [Eva Maria](https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:47 | 2022-04-13 | 2023-09-27 |
+| [Eva Maria](https://open.spotify.com/track/21Np2DZB42OmfZEOkK1GuR) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/7GmPWgPhUzQUVZXz6VCpTG) | 2:47 | 2023-06-19 |  |
 | [Eva María](https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:47 | 2022-04-13 | 2022-07-29 |
 | [Feliz Feliz](https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:37 | 2022-04-13 |  |
 | [Feliz Feliz](https://open.spotify.com/track/2nSbVFNo6FdvZ7ZCuZytYH) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Puro Fuego \- Quebraditas](https://open.spotify.com/album/7ET9TEPdwGtMF9PYroaJ8I) | 3:37 | 2022-04-13 | 2022-11-13 |

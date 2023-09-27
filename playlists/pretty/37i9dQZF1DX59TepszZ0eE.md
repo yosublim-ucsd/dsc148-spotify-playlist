@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=3\_xCYoTQQwOHpkOOXc6oiA">Spirit Of Praise</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,939 likes - 73 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,004 likes - 73 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

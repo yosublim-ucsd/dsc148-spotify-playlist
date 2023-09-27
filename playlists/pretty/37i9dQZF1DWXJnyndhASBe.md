@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Taco Hemingway
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,849 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,019 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 7 | [Nametag](https://open.spotify.com/track/1Z7cVYHnRJKHxQJFE9MP4y) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 3:03 |
 | 8 | [Millie Walky](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [Millie Walky](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 |
 | 9 | [5 INFLUENCEREK](https://open.spotify.com/track/4u3pVIKFDquOVeyvkc1Hjh) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [???](https://open.spotify.com/album/6b9nJ7eZHoXbVfIA3KQ6bg) | 2:24 |
-| 10 | [SAFE](https://open.spotify.com/track/6nte3xu43Nzu8AyePDtiJN) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [SAFE](https://open.spotify.com/album/5rzQB82IYueZ2BQXjNPYWl) | 3:24 |
+| 10 | [SAFE](https://open.spotify.com/track/6nte3xu43Nzu8AyePDtiJN) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [SAFE](https://open.spotify.com/album/5rzQB82IYueZ2BQXjNPYWl) | 3:24 |
 | 11 | [TRZEBA MIEĆ](https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [TRZEBA MIEĆ](https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2) | 2:31 |
 | 12 | [ZERO SNU](https://open.spotify.com/track/0RN6FM4XRE2XvydGA3sLo5) | [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [bango balenci](https://open.spotify.com/artist/4BRchUufCww3elXTIG9nAE), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO), [Kruzzo](https://open.spotify.com/artist/4To0MfuPYNKFChuiKFW50K), [XEIDEN](https://open.spotify.com/artist/40kXpqJi6aSgg9HNsWFyjx), [zdunekk](https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt) | [ZERO SNU](https://open.spotify.com/album/4pmHsXsDswoTFSCtHkwtnG) | 3:15 |
 | 13 | [Bungee](https://open.spotify.com/track/13KCTlVIkhYcNm54SnVAfI) | [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG), [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Bandura](https://open.spotify.com/artist/5baC8UIJpELH6bYjbeABJ3), [Janusz Walczuk](https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3), [Solar](https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb), [Tomb](https://open.spotify.com/artist/1Fr0Md8mOOg75V07Awv1G5), [Dżinold](https://open.spotify.com/artist/3nRMDZRkUvf32LMdY5mJoE) | [Bungee](https://open.spotify.com/album/3AXeMiCKuYZYogMzmAAuRo) | 3:19 |

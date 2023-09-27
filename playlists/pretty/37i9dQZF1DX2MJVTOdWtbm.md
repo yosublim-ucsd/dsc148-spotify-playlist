@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Aleesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,118 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,141 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 77 | [Garabatos](https://open.spotify.com/track/3nXitBuQU6JFccfQWH3oN1) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos](https://open.spotify.com/album/3RsEjiStHrHJFKktlr9AcO) | 3:22 |
 | 78 | [Algodón](https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Algodón](https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm) | 2:52 |
 | 79 | [Ruido](https://open.spotify.com/track/0rQv29gK4jSBbU9pcmfODP) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 2:57 |
-| 80 | [Chimbita](https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Chimbita](https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit) | 2:45 |
-| 81 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
+| 80 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
+| 81 | [Chimbita](https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Chimbita](https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit) | 2:45 |
 | 82 | [Room 302](https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Room 302](https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV) | 3:02 |
 | 83 | [Limbo](https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Limbo](https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J) | 2:58 |
 | 84 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cada Día Te Quiero Más](https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J) | 3:12 |
 | 85 | [Libre](https://open.spotify.com/track/6c0uR67qHuaEm4m7gGlUmw) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt), [Letra Emece](https://open.spotify.com/artist/7LdWyUXrUSqKCS1CkX6KqM), [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Libre](https://open.spotify.com/album/4y1JivHvgNKyLD7Zx7RlHZ) | 3:53 |
 | 86 | [RIP](https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS), [Omizs](https://open.spotify.com/artist/5O1s8Zfh5BbsXjtIXjVS9y) | [RIP](https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC) | 3:12 |
-| 87 | [Tú Allá y Yo Acá \- Live Session](https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Tú Allá y Yo Acá \(Live Session\)](https://open.spotify.com/album/05e8JBi4u19yBCuEEobbm9) | 3:02 |
-| 88 | [Caliope](https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl) | [Caliope](https://open.spotify.com/album/5DVrsMjDWl9a7xUGjIpYJa) | 3:22 |
-| 89 | [Tus Ojos Me Hablaron](https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Tus Ojos Me Hablaron](https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM) | 3:21 |
+| 87 | [Caliope](https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl) | [Caliope](https://open.spotify.com/album/5DVrsMjDWl9a7xUGjIpYJa) | 3:22 |
+| 88 | [Tus Ojos Me Hablaron](https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Tus Ojos Me Hablaron](https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM) | 3:21 |
+| 89 | [Tú Allá y Yo Acá \- Live Session](https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Tú Allá y Yo Acá \(Live Session\)](https://open.spotify.com/album/05e8JBi4u19yBCuEEobbm9) | 3:02 |
 | 90 | [Nadie Más](https://open.spotify.com/track/0BvzoZ5Ybl1Rq9MFWiJWZp) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/1AW4bjxaKeBCT2eYCqHy0d) | 3:23 |
 | 91 | [Los Dos](https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Los Dos](https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R) | 2:52 |
 | 92 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 95 | [No Fui Solo Yo](https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [No Fui Solo Yo](https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio) | 3:22 |
 | 96 | [Gallo Pinto](https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Gallo Pinto](https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk) | 3:29 |
 | 97 | [como te va?](https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [como te va?](https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V) | 2:34 |
-| 98 | [Bandida](https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH) | [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie) | [Bandida](https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN) | 3:53 |
-| 99 | [Joligud](https://open.spotify.com/track/0Y35Rs7m7s0Ttwn5oi0s14) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Joligud](https://open.spotify.com/album/5tohi7LtQi206ZtOm7Zr15) | 3:34 |
-| 100 | [Limo](https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Limo](https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni) | 2:54 |
+| 98 | [Joligud](https://open.spotify.com/track/0Y35Rs7m7s0Ttwn5oi0s14) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Joligud](https://open.spotify.com/album/5tohi7LtQi206ZtOm7Zr15) | 3:34 |
+| 99 | [Limo](https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Limo](https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni) | 2:54 |
+| 100 | [Bandida](https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH) | [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie) | [Bandida](https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN) | 3:53 |
 
 Snapshot ID: `MCwyZTlkZjQwMTJiODdkZTc2NjIxYzdiZWZjMjU3YWI3ODZkZDVmZDhl`

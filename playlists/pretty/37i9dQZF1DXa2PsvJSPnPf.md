@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,806 likes - 140 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,851 likes - 140 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 129 | [The Giver](https://open.spotify.com/track/5bamaE0kFXh3Sf8fcVe3rN) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:15 |
 | 130 | [Old Things](https://open.spotify.com/track/6FHK4wd49FqDcnqeO8Uv4s) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Lost At Last Vol\. 1](https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd) | 1:46 |
 | 131 | [13 September](https://open.spotify.com/track/7LslStJv2oCxocOjbWMKHd) | [Daniel Steinbock](https://open.spotify.com/artist/7bZH7dR3DNgGJJ4DEseDMC) | [13 September](https://open.spotify.com/album/2P3Cx8e3uDY92GwJzzFw6R) | 3:35 |
-| 132 | [Gold \- Audiotree Live Version](https://open.spotify.com/track/4uhEjM1u1Mh2Dxze7eseC4) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Penny and Sparrow on Audiotree Live](https://open.spotify.com/album/4Ain8ns95BURYlX02sM3H2) | 4:07 |
+| 132 | [Gold \- Audiotree Live Version](https://open.spotify.com/track/6wYPW25oVorYqaZBTw1n8Q) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Penny and Sparrow on Audiotree Live](https://open.spotify.com/album/60M5DV44tvrN67gQL6RjWI) | 4:07 |
 | 133 | [Down by the Water](https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Getaway](https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV) | 2:55 |
 | 134 | [Julep](https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 5:26 |
 | 135 | [A Day for the Hunter, A Day for the Prey](https://open.spotify.com/track/2QBTMrdX3S7QBOslBKlSm6) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [A Day for the Hunter, A Day for the Prey](https://open.spotify.com/album/4whjlDovn35OzIY4TnbARA) | 3:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcJC2hrJxL4F.md) - [plain]
 
 > an early morning in the countryside, birds sing while someone quietly plays music..\. pure forest bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,719 likes - 86 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,773 likes - 86 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

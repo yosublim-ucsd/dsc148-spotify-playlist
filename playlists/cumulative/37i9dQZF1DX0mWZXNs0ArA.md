@@ -4,7 +4,7 @@
 
 > 150%
 
-260 songs - 11 hr 27 min
+262 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [dumb dumb \- sped up](https://open.spotify.com/track/2pJmSaPh5lMe4npn0Z6m8A) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette \(bonus\)](https://open.spotify.com/album/0SHvk3FxlmTOyldiqaVT8k) | 1:42 | 2022-09-30 |  |
 | [dumiri \(Sped Up\)](https://open.spotify.com/track/6a2CPvoOR6AYucxHxJhsNK) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys), [Nightcore Warped](https://open.spotify.com/artist/2jlZstmgG9Y4hoLMhfjOdu) | [dumiri \(Sped Up\)](https://open.spotify.com/album/1L1pI24Czropj5CRT8uYlm) | 2:38 | 2023-04-07 | 2023-05-20 |
 | [Duvet \- Sped Up Version](https://open.spotify.com/track/0wEeW8Bwr0fHXuS2zLiDXk) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Duvet](https://open.spotify.com/album/1Pui3ok2FUI74QId9sdmNY) | 3:02 | 2023-07-11 |  |
+| [ecstacy](https://open.spotify.com/track/2CIlKt4lRwAAUx5fYgCBxN) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy](https://open.spotify.com/album/1xCyOqwylZT5Syi5LwHF4q) | 1:36 | 2023-09-26 |  |
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 | 2023-04-11 |  |
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2022-11-28 | 2023-04-16 |
 | [Evergreen \(You Didn’t Deserve Me At All\) \- Sped Up Version](https://open.spotify.com/track/5RQ1oQUUWBv2urYLF0xWzz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [Evergreen \(You Didn’t Deserve Me At All\) \[Sped Up Version\]](https://open.spotify.com/album/58KKKV44FFFTgg1fT8De7m) | 3:17 | 2022-11-14 | 2023-03-18 |
@@ -247,6 +248,7 @@
 | [Those Eyes \- Sped Up](https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes \(Alternate Versions\)](https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2) | 2:47 | 2023-01-18 |  |
 | [Those Eyes \- Sped Up](https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes Alternate Versions](https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB) | 2:47 | 2022-07-29 | 2023-01-29 |
 | [TOUT VA BIEN](https://open.spotify.com/track/5MAHsJ84hkfxbcGPFOkEih) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3) | [TOUT VA BIEN](https://open.spotify.com/album/5o8Pu2Qv0PQJRkbA0MN2gP) | 2:55 | 2023-05-22 | 2023-06-21 |
+| [Trampoline \- Sped Up](https://open.spotify.com/track/15u7P59fVh7dlGxA7s4pTR) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Trampoline \(Sped Up\)](https://open.spotify.com/album/1rGEOySYKyWBic6XZYb4Td) | 2:40 | 2023-09-26 |  |
 | [Under the Influence \(Sped Up\) \- Your Body Language Speaks to Me](https://open.spotify.com/track/3qG3S4Ptt7EFCtKi5ZroG2) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [Under the Influence \(Sped Up\) \- Your Body Language Speaks to Me](https://open.spotify.com/album/0zJyKDyf1ukaR3TD8mYHTy) | 2:03 | 2022-10-04 |  |
 | [Under the Influence \- Sped Up](https://open.spotify.com/track/6SUIrlOC0OhDzH6qp0Pwcl) | [Nawrras Music](https://open.spotify.com/artist/3OViSm0E5Rt3wugziSjW2y), [Speed Up Unlimited](https://open.spotify.com/artist/18XJJZo4JaA9Yz8TPQmy95), [Abra Salem](https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6) | [Under the Influence \(Sped Up\)](https://open.spotify.com/album/22XVSTUct9mrBprysq3cC7) | 2:13 | 2023-05-22 | 2023-06-05 |
 | [UNDERSTAND \- Sped Up](https://open.spotify.com/track/6DMI24muDgH74R3sT2ie4F) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [UNDERSTAND \(Sped Up Version\)](https://open.spotify.com/album/7y33ncIO49DOPfqM6xtAkC) | 2:05 | 2023-04-28 |  |

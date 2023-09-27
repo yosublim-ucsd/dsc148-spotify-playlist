@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Slack A",
+        "url": "https://open.spotify.com/album/6yhwC2yFrX1js48ITVygoH"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224121,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0mNoOaGPACxijG3wkudf6R"
+    },
+    {
+      "album": {
         "name": "Slack",
         "url": "https://open.spotify.com/album/4foNkrb7hHaP2ZFLlRHx3A"
       },
@@ -698,7 +716,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 224121,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2IgtWhc0W0cbhYqpolqeKh"

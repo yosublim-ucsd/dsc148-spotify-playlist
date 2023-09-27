@@ -1,6 +1,6 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Sof\u00eda Reyes.",
-  "num_followers": 7690,
+  "num_followers": 7703,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "1Trago",
-        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "1Trago",
-      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "5 Estrellas",
         "url": "https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 191094,
       "name": "5 Estrellas",
       "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "1Trago",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "1Trago",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Correcaminos",
-        "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Correcaminos",
-      "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 176222,
       "name": "Emeyc\u00e9",
       "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Correcaminos",
+        "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "Correcaminos",
+      "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "P.M.",
-        "url": "https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk"
+        "name": "Soltando A Pedazos",
+        "url": "https://open.spotify.com/album/5KsQBvqPKCWGC15MCPOaJy"
       },
       "artists": [
         {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         }
       ],
-      "duration_ms": 158946,
-      "name": "P.M.",
-      "url": "https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa"
+      "duration_ms": 164673,
+      "name": "Soltando A Pedazos",
+      "url": "https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1247,18 +1247,34 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Soltando A Pedazos",
-        "url": "https://open.spotify.com/album/5KsQBvqPKCWGC15MCPOaJy"
+        "name": "P.M.",
+        "url": "https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
         }
       ],
-      "duration_ms": 164673,
-      "name": "Soltando A Pedazos",
-      "url": "https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0"
+      "duration_ms": 158946,
+      "name": "P.M.",
+      "url": "https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 145741,
+      "name": "Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1279,22 +1295,6 @@
       "duration_ms": 199626,
       "name": "Moderaci\u00f3n (Con Camilo)",
       "url": "https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 145741,
-      "name": "Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 213958,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 172373,
       "name": "Pa Quererte",
       "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Parece Mentira",
-        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 213958,
-      "name": "Parece Mentira",
-      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "A tu Lado",
+        "url": "https://open.spotify.com/album/6KSyBe93O1zhmNkSqvJhMz"
+      },
+      "artists": [
+        {
+          "name": "Tres Dedos",
+          "url": "https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF"
+        }
+      ],
+      "duration_ms": 150894,
+      "name": "A tu Lado",
+      "url": "https://open.spotify.com/track/58aNiVH2Df87fuZdiyJFKc"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -1491,6 +1507,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Combustible",
+        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 166805,
+      "name": "Combustible",
+      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Oye Baby",
         "url": "https://open.spotify.com/album/6N2Gr1KqfA69oL8Xeu2v0d"
       },
@@ -1507,22 +1539,6 @@
       "duration_ms": 135262,
       "name": "Oye Baby",
       "url": "https://open.spotify.com/track/3oAhnCXtDYMFyjCDRu7Glg"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Combustible",
-        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 166805,
-      "name": "Combustible",
-      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1627,22 +1643,6 @@
       "duration_ms": 121836,
       "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
       "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "A tu Lado",
-        "url": "https://open.spotify.com/album/6KSyBe93O1zhmNkSqvJhMz"
-      },
-      "artists": [
-        {
-          "name": "Tres Dedos",
-          "url": "https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF"
-        }
-      ],
-      "duration_ms": 150894,
-      "name": "A tu Lado",
-      "url": "https://open.spotify.com/track/58aNiVH2Df87fuZdiyJFKc"
     },
     {
       "added_at": "2023-09-15 04:01:00",

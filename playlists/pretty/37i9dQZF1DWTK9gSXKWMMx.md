@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 
 > Sit back and relax to the smooth sound of blues piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,137 likes - 52 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,160 likes - 52 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

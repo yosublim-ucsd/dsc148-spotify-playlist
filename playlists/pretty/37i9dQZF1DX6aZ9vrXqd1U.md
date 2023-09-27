@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,436 likes - 128 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,472 likes - 128 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

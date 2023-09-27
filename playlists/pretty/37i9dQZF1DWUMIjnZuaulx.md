@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="spotify:artist:4eIjSDb64R18sJaNlOGaFH">James Fortune<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,689 likes - 100 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,789 likes - 100 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -639,7 +639,7 @@
     },
     {
       "album": {
-        "name": "Call Your Mom",
+        "name": "Call Your Mom (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
       },
       "artists": [
@@ -780,7 +780,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 295454,
       "name": "Change",
       "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"

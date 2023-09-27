@@ -1,6 +1,6 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 263695,
+  "num_followers": 263821,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "SEWERSTAR",
+        "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
+      },
+      "artists": [
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "duration_ms": 219686,
+      "name": "I Spit On Your Grave",
+      "url": "https://open.spotify.com/track/5TFvIb9M86dN3VgvHYqaPy"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "ANTAGONIST RETURNS",
@@ -547,22 +563,6 @@
       "duration_ms": 106331,
       "name": "FYB",
       "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "SEWERSTAR",
-        "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
-      },
-      "artists": [
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
-        }
-      ],
-      "duration_ms": 219686,
-      "name": "I Spit On Your Grave",
-      "url": "https://open.spotify.com/track/5TFvIb9M86dN3VgvHYqaPy"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Plantgazer",
+        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
+      },
+      "artists": [
+        {
+          "name": "Show Me A Dinosaur",
+          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
+        }
+      ],
+      "duration_ms": 576912,
+      "name": "Red River",
+      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Blood Year",
         "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Plantgazer",
-        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
+        "name": "They Fear Us",
+        "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
       },
       "artists": [
         {
-          "name": "Show Me A Dinosaur",
-          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
+          "name": "Ithaca",
+          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
         }
       ],
-      "duration_ms": 576912,
-      "name": "Red River",
-      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
+      "duration_ms": 218503,
+      "name": "The Future Says Thank You",
+      "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
     },
     {
       "added_at": "2023-02-09 19:59:28",
@@ -939,22 +955,6 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "They Fear Us",
-        "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
-      },
-      "artists": [
-        {
-          "name": "Ithaca",
-          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
-        }
-      ],
-      "duration_ms": 218503,
-      "name": "The Future Says Thank You",
-      "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
     },
     {
       "added_at": "2022-11-18 01:42:16",

@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-592 songs - 1 day 0 hr 13 min
+593 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Buena Vista](https://open.spotify.com/track/3s3cLWqJtfAUgCZQOtpFLw) | [Doctor Gosso & the Samplers](https://open.spotify.com/artist/1evlSNsQeX4LimNdMSrNRu), [Telica](https://open.spotify.com/artist/2535WOR5wDMhBYz4yReLMc) | [Buena Vista](https://open.spotify.com/album/7aMySGhfU7O2JzlvjO1jXl) | 2:16 | 2023-09-08 |  |
 | [Busy Branches](https://open.spotify.com/track/2GKQNEAMc6bQjqBHdNtlzz) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Busy Branches](https://open.spotify.com/album/5hSpAo6OG8Z4GmkPwX1fw3) | 2:18 | 2023-09-08 |  |
 | [Buzzer Beater](https://open.spotify.com/track/2yuBW2Empy4JejMW4UCkdG) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Buzzer Beater](https://open.spotify.com/album/6jKTUyGaxaUMYp4nhtZlkB) | 2:26 | 2023-09-08 |  |
-| [by all means](https://open.spotify.com/track/2mJQ8Mr3FRKaHSbyHcDews) | [Sohma](https://open.spotify.com/artist/6SdnUpAVCNtgWvn4riBwZE), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [by all means](https://open.spotify.com/album/4l6JOhah9cGKWXFD5tN3C9) | 2:44 | 2023-09-08 |  |
+| [by all means](https://open.spotify.com/track/2mJQ8Mr3FRKaHSbyHcDews) | [Sohma](https://open.spotify.com/artist/6SdnUpAVCNtgWvn4riBwZE), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [by all means](https://open.spotify.com/album/4l6JOhah9cGKWXFD5tN3C9) | 2:44 | 2023-09-08 | 2023-09-27 |
 | [C & H](https://open.spotify.com/track/7E5dWj4quPocWXIJehXinq) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [C & H](https://open.spotify.com/album/2n6RJpJnvmYuh2dVYua7fa) | 2:10 | 2022-02-17 | 2023-09-09 |
 | [Café Zimmermann](https://open.spotify.com/track/7Me1bh396LceRfiRuna7V8) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV), [Seventropic](https://open.spotify.com/artist/5RfMWlQODNTGPjALPrsGfP) | [Café Zimmermann](https://open.spotify.com/album/4t831ryNDYD4cnMyef4VfR) | 1:46 | 2023-09-08 |  |
 | [Cali Sunshine](https://open.spotify.com/track/5YwI4vVk3SHkwIVVoSwp5n) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Cali Sunshine](https://open.spotify.com/album/6AyEYNLT0JWgsjhUUqbC2i) | 1:45 | 2023-09-08 |  |
@@ -91,6 +91,7 @@
 | [Climbing](https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Climbing](https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K) | 2:12 | 2023-09-08 |  |
 | [Close Call](https://open.spotify.com/track/5a7qqDK0TArhQulbAXlYHV) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Close Call](https://open.spotify.com/album/7Id0c14GxNXDkz38Io070t) | 2:41 | 2022-02-17 | 2023-09-09 |
 | [Close is best](https://open.spotify.com/track/773YRWgu38if25XiHHabJK) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [Close is best](https://open.spotify.com/album/3hUO3QzIhu4Xc9O4WjYXBJ) | 2:15 | 2023-09-08 |  |
+| [Close Your Eyes](https://open.spotify.com/track/0DC95ThOGhL8F1jIhcXmrp) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Close Your Eyes](https://open.spotify.com/album/6EYYGetEziBvVnSK5TbiPh) | 2:54 | 2023-09-22 |  |
 | [Coffee Corner](https://open.spotify.com/track/5ge5tDsvFZkUqt5hzC4dsL) | [Lynde](https://open.spotify.com/artist/6TstGTgiRM3jW0LaUeG61d), [Sella Vie](https://open.spotify.com/artist/1KQ9sumkPMkY6j1W8ocSvZ), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Coffee Corner](https://open.spotify.com/album/1ggdfO5c2tqyenLySKwwpD) | 1:53 | 2023-09-08 |  |
 | [Cold](https://open.spotify.com/track/52ySoNs47RPsBJEEjUvnQe) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Cold](https://open.spotify.com/album/6EXP2j4i43fQjPy1qdIecE) | 2:15 | 2023-09-08 |  |
 | [Cold\-Water Feels](https://open.spotify.com/track/2e2SIW2xo0JDsYta88o32C) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Smile Up](https://open.spotify.com/album/4LEXn8d1a2Qm7QLCR3xtPV) | 2:13 | 2023-09-22 | 2023-09-26 |

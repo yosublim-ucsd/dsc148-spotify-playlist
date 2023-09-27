@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,570 likes - 90 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,600 likes - 90 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 17 | [Ships On The Ocean](https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 4:09 |
 | 18 | [Loneliest Road That I Know](https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6) | [Guy Davis](https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW) | [Give In Kind](https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW) | 4:17 |
 | 19 | [Lonely World](https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Blues](https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x) | 8:22 |
-| 20 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 |
-| 21 | [Broken & Blue \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 4:22 |
+| 20 | [Broken & Blue \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 4:22 |
+| 21 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 |
 | 22 | [She's Gone](https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m) | [Hound Dog Taylor & The HouseRockers](https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:51 |
 | 23 | [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 |
 | 24 | [Burn](https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Sari Schorr](https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl) | [Burn](https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O) | 4:20 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 63 | [Sanctified, Holy And Hateful](https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 5:29 |
 | 64 | [Friendless Blues](https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7) | [Lonnie Johnson](https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM) | [The Essential Blue Archive: Why Should I Cry](https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4) | 2:59 |
 | 65 | [Love Is Gone](https://open.spotify.com/track/6mn9a2i93IcbCF9oY8eQPo) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [Memphis Moonlight](https://open.spotify.com/album/590d9qiOtgIds5a3u8UHxP) | 4:48 |
-| 66 | [One More Night](https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [Been Gone Too Long](https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO) | 4:15 |
-| 67 | [No More Lonely Nights](https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 5:19 |
-| 68 | [35 Long Years](https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [I'm A Mad Man](https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp) | 5:59 |
-| 69 | [Drown in My Own Tears](https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO) | [Joe Barr](https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Soul for the Heart](https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4) | 4:35 |
+| 66 | [No More Lonely Nights](https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 5:19 |
+| 67 | [One More Night](https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [Been Gone Too Long](https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO) | 4:15 |
+| 68 | [Drown in My Own Tears](https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO) | [Joe Barr](https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Soul for the Heart](https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4) | 4:35 |
+| 69 | [35 Long Years](https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [I'm A Mad Man](https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp) | 5:59 |
 | 70 | [You'll Never Find Anyone To Be A Slave Like Me \- Remastered 2022](https://open.spotify.com/track/2CUoa5qyfnFMnViDYrSsWw) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 4:19 |
 | 71 | [What Am I Living For](https://open.spotify.com/track/0TgKinC3YFchPPeNE8M8nd) | [Wilbert Harrison](https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6) | [Peepin' And Hidin'](https://open.spotify.com/album/4H1Je07DZvE2WszZkW0FjV) | 3:43 |
 | 72 | [Trouble In Mind](https://open.spotify.com/track/6BCPs3UOkxbeTpI7cYsOkk) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Woman Across The River](https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs) | 3:43 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 85 | [Down On My Knees](https://open.spotify.com/track/3soWDvvrdUZeeniNWxwPji) | [King Leo](https://open.spotify.com/artist/24Y1QM5HxIVWItCw16bw1C) | [Down On My Knees](https://open.spotify.com/album/4MVKaN7r9Wlxr0KyXP9RAa) | 3:33 |
 | 86 | [Hold That Train](https://open.spotify.com/track/0YnoAn9FBUopgdwEOTsGlE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [My Kind Of Blues](https://open.spotify.com/album/6nnI1qK92ewOpEerMB9Lhw) | 3:59 |
 | 87 | [Karma Wheel](https://open.spotify.com/track/1rWNmWtcbwpuZlx1b5ep9x) | [Joel Astley](https://open.spotify.com/artist/7IVBtfN5PK0ZVVQoU9zcGS) | [Seattle to Greaseland](https://open.spotify.com/album/4AEV6zOQHpeir1oa37YWRc) | 5:03 |
-| 88 | [Wrong Kind of Lovin](https://open.spotify.com/track/1X7Dw4CtOV3nJcmPvrX2af) | [Dan Kearney](https://open.spotify.com/artist/2vDDjafIuvRtW46fMvdOy6) | [Wrong Kind of Lovin](https://open.spotify.com/album/5tdreJCS1nWRB72dF43IcX) | 5:20 |
-| 89 | [Trouble](https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 4:11 |
+| 88 | [Trouble](https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 4:11 |
+| 89 | [Wrong Kind of Lovin](https://open.spotify.com/track/1X7Dw4CtOV3nJcmPvrX2af) | [Dan Kearney](https://open.spotify.com/artist/2vDDjafIuvRtW46fMvdOy6) | [Wrong Kind of Lovin](https://open.spotify.com/album/5tdreJCS1nWRB72dF43IcX) | 5:20 |
 | 90 | [Use As Needed](https://open.spotify.com/track/0jcyLI0xuoNn2ENh1Vvzxv) | [Willie J\. Campbell](https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7) | [Be Cool](https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27) | 5:42 |
 
 Snapshot ID: `MCwwZDZiOTBlNjMzMDgxYTQ2MTUzYmQyZTAxYTk3OTkzOTA4MWExZDU5`

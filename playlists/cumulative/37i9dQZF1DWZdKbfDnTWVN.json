@@ -1412,10 +1412,32 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 70452,
       "name": "Made For This",
       "url": "https://open.spotify.com/track/0CdoYWHl0BGDL9XUQ0RnIN"
+    },
+    {
+      "album": {
+        "name": "Made For This",
+        "url": "https://open.spotify.com/album/77xVkwwWp6O3xX0lpWprzH"
+      },
+      "artists": [
+        {
+          "name": "Jovie Jovv",
+          "url": "https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ"
+        },
+        {
+          "name": "Timmy Blanco",
+          "url": "https://open.spotify.com/artist/64r1hRUVXSdoMT30u3pUbS"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70452,
+      "name": "Made For This",
+      "url": "https://open.spotify.com/track/5Gr47d1ThvLMeJR8ueVd2W"
     },
     {
       "album": {

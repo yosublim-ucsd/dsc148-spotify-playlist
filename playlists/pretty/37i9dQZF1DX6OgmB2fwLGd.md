@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: 310babii
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,395,428 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395,456 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 16 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:09 |
 | 17 | [Rare Story Pt\. 2](https://open.spotify.com/track/5pA5DmqA3tNd9F8KMNrd1C) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Rare Story Pt\. 2](https://open.spotify.com/album/6C9kMdHKxcnmMua6nRkMCU) | 2:28 |
 | 18 | [Clocking U](https://open.spotify.com/track/4hNdFY5XiWlcdVY8zBoE8b) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Pretty Girls Love Slizzy](https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO) | 2:56 |
-| 19 | [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 |
+| 19 | [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [Midwxst](https://open.spotify.com/artist/3LqnZmfaZKVQPm8Ruj37wb) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 |
 | 20 | [ROOM RAIDER](https://open.spotify.com/track/2Ercngvj2pQJAMfMR9fJRP) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [ROOM RAIDER](https://open.spotify.com/album/05uj67L6fNzGF39FI4WryB) | 2:45 |
 | 21 | [Trenches](https://open.spotify.com/track/02ZqOQf9o0AmF5NUYK7CQL) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Trenches](https://open.spotify.com/album/1LyCWL9ruknFi9M9ONs68Q) | 1:56 |
 | 22 | [3rd World](https://open.spotify.com/track/1ykurvqNgGYzkIPtEP0ASi) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Took The Biggest Risk](https://open.spotify.com/album/1uxKUKESMaMQcxcoCp2dte) | 2:25 |

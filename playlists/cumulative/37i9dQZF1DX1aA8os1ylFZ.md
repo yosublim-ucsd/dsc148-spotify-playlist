@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-406 songs - 21 hr 17 min
+407 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Right Here](https://open.spotify.com/track/3MyV9WDPuS1k13pCuydC1P) | [Nicolas Kanza](https://open.spotify.com/artist/751YCAfHx8dQSUbAN8Q9dl) | [Same Love; A Romanticized Timeline](https://open.spotify.com/album/7zpZjaxYyeqio38VIkravV) | 3:02 | 2021-12-16 | 2022-01-21 |
 | [Rise](https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [Rise](https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU) | 2:50 | 2023-09-21 |  |
 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2023-01-12 | 2023-09-15 |
-| [Risking It All](https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ), [Kiki Rowe](https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP) | [Risking It All](https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB) | 3:10 | 2023-09-21 |  |
+| [Risking It All](https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ), [Kiki Rowe](https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP) | [Risking It All](https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB) | 3:10 | 2023-09-21 | 2023-09-27 |
 | [River](https://open.spotify.com/track/0vXQyArM2NgDjaL48aO8Ha) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [From the Heart](https://open.spotify.com/album/61lKZn6WGuakiPrd6j8i9f) | 3:44 | 2021-12-16 | 2023-02-17 |
 | [Rodeo \(feat\. Big Jade\)](https://open.spotify.com/track/6GXGPEIscxkDwSbn4GFACG) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Rodeo \(feat\. Big Jade\)](https://open.spotify.com/album/6fTIJkLucWKwW7BWpkmvIx) | 4:22 | 2023-04-18 | 2023-09-01 |
 | [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 | 2023-03-22 | 2023-04-04 |
@@ -400,6 +400,7 @@
 | [white rice déjà vu](https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 3:50 | 2023-03-23 |  |
 | [Why We Love](https://open.spotify.com/track/6hYPE8tc5yc6Vd9yR3cVH1) | [Raffie](https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh) | [Why We Love](https://open.spotify.com/album/3CXMLXwgCKKpF9GV8dqqvf) | 3:09 | 2021-12-16 | 2023-01-13 |
 | [Wickedest](https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2) | 3:15 | 2023-02-02 | 2023-09-23 |
+| [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/3W7p3aKtbyLjqiTwxF1jKw) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/0gcr59uNr2tD6yoz9dRipQ) | 3:15 | 2023-09-21 |  |
 | [Wish You Well](https://open.spotify.com/track/6VaBTaTsjak8UAPWCIrvl8) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Wish You Well](https://open.spotify.com/album/21A6NJoF9eN9yuCqIHJu5y) | 2:54 | 2023-01-12 | 2023-03-23 |
 | [wish you were here](https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/30ssp982Ym9GCQstBVvEve) | 3:22 | 2021-12-16 | 2022-11-03 |
 | [wish you were here](https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ) | 3:22 | 2022-10-27 | 2023-01-13 |

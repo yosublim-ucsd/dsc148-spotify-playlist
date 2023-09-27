@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 
 > Get moving with these family\-friendly dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071 likes - 43 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070 likes - 43 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

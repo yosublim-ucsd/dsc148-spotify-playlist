@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,296 likes - 57 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,351 likes - 57 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

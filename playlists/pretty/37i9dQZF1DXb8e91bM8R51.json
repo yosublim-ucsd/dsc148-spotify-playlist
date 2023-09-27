@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 44362,
+  "num_followers": 44440,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "FAN",
+        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "FAN",
+      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "The Love Album: Off The Grid",
         "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
       },
@@ -381,24 +397,8 @@
         }
       ],
       "duration_ms": 220408,
-      "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
+      "name": "Another One Of Me (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "FAN",
-        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "FAN",
-      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Ain\u2019t Safe (feat. Don Toliver)",
-        "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 166514,
-      "name": "Ain\u2019t Safe (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Flatline",
         "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 240080,
       "name": "Flatline (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Ain\u2019t Safe (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 166514,
+      "name": "Ain\u2019t Safe (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 240967,
       "name": "Torpedo",
       "url": "https://open.spotify.com/track/3hT2zPRGkrL9wutPeZtvKQ"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Cracker Island (Deluxe)",
         "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 111066,
       "name": "Captain Chicken (feat. Del The Funky Homosapien)",
       "url": "https://open.spotify.com/track/24LSAGp2LmT1Kd6y8PPFr2"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Do What I Want",
-        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Do What I Want",
-      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
     },
     {
       "added_at": "2023-09-15 03:01:00",

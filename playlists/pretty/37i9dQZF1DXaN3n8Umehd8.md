@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > this is my meal: gurrll dinnerrrrr ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,183 likes - 45 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,189 likes - 45 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

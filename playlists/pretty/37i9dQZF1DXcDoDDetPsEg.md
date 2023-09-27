@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,400 likes - 63 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,448 likes - 63 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 2 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 |
 | 3 | [Tek Buddy](https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Vibes Don't Lie](https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU) | 2:28 |
 | 4 | [NELLA ROSE](https://open.spotify.com/track/1OIQekJTsZ7E62Ow5jraYN) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [NELLA ROSE](https://open.spotify.com/album/1EGIrg4GVc5kqNqYz17MkG) | 4:17 |
-| 5 | [AMEN](https://open.spotify.com/track/2Gic1IIcgCJYErTssSWmL2) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [AMEN](https://open.spotify.com/album/098CzUov15FoAHLYWJh7yV) | 2:39 |
+| 5 | [AMEN](https://open.spotify.com/track/2Gic1IIcgCJYErTssSWmL2) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [AMEN](https://open.spotify.com/album/098CzUov15FoAHLYWJh7yV) | 2:40 |
 | 6 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 7 | [Tip Toes](https://open.spotify.com/track/2AQQu9575Fa8o8tkbSrFoG) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Tip Toes](https://open.spotify.com/album/39x0sB7LLilVJ7fchw69GN) | 2:44 |
 | 8 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 |

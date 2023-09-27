@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 172624,
+  "num_followers": 172760,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Golden Hourglass",
-        "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
-      },
-      "artists": [
-        {
-          "name": "OH MY GIRL",
-          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Summer Comes",
-      "url": "https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "ONE & SIX",
         "url": "https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 199524,
       "name": "PLAY (feat. Changmo)",
       "url": "https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "Golden Hourglass",
+        "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Summer Comes",
+      "url": "https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "WIND AND WISH",
-        "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Wind And Wish",
-      "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "FACE - The 1st Album",
         "url": "https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 190328,
       "name": "One of Those Nights",
       "url": "https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "WIND AND WISH",
+        "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Wind And Wish",
+      "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "SEE SEA",
-        "url": "https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe"
-      },
-      "artists": [
-        {
-          "name": "HYOLYN",
-          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
-        }
-      ],
-      "duration_ms": 200125,
-      "name": "SEE SEA",
-      "url": "https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "I Don't Miss You",
         "url": "https://open.spotify.com/album/0MdZdkVzAdqv9QcBqnWmes"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 172634,
       "name": "I Don't Miss You",
       "url": "https://open.spotify.com/track/0kq2SMYMcYk6dl2Z6k03yN"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "SEE SEA",
+        "url": "https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "duration_ms": 200125,
+      "name": "SEE SEA",
+      "url": "https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "SELF",
-        "url": "https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "D N D",
-      "url": "https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "The Road : Keep on Going - The 11th Album Vol.1",
         "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 199213,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "SELF",
+        "url": "https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "D N D",
+      "url": "https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1x9CUUDTZpk8wpeGH9ZAzW"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
         "name": "HEART*IZ",
         "url": "https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb"
       },
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
         }
       ],
-      "duration_ms": 206840,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/1x9CUUDTZpk8wpeGH9ZAzW"
+      "duration_ms": 190920,
+      "name": "Love U",
+      "url": "https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Blooming Blue",
-        "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 190920,
-      "name": "Love U",
-      "url": "https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69"
+      "duration_ms": 164293,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1655,22 +1671,6 @@
       "duration_ms": 196106,
       "name": "Move Like This (Feat. YUNA KIM)",
       "url": "https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "-77.82x-78.29",
-        "url": "https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI"
-      },
-      "artists": [
-        {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "NO GOOD REASON",
-      "url": "https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

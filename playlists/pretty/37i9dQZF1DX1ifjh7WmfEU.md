@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,485 likes - 176 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,554 likes - 176 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

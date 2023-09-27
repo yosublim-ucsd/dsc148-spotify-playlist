@@ -1,6 +1,6 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 13798,
+  "num_followers": 13809,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Popular Favorites",
-        "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
+        "name": "Beware the Ides of March",
+        "url": "https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV"
       },
       "artists": [
         {
-          "name": "Oblivians",
-          "url": "https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi"
+          "name": "Thee Mighty Caesars",
+          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
         }
       ],
-      "duration_ms": 319893,
-      "name": "Do the Milkshake",
-      "url": "https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR"
+      "duration_ms": 131039,
+      "name": "You'll Be Sorry Now",
+      "url": "https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Popular Favorites",
+        "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
+      },
+      "artists": [
+        {
+          "name": "Oblivians",
+          "url": "https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Do the Milkshake",
+      "url": "https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Midnight Soul Serenade",
         "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 204320,
       "name": "Isolation",
       "url": "https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Beware the Ides of March",
-        "url": "https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV"
-      },
-      "artists": [
-        {
-          "name": "Thee Mighty Caesars",
-          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
-        }
-      ],
-      "duration_ms": 131039,
-      "name": "You'll Be Sorry Now",
-      "url": "https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "(Sometimes You Got to Be) Gentle",
-      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Nothing Can Stop These Men",
         "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 145400,
       "name": "Round Every Corner",
       "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "(Sometimes You Got to Be) Gentle",
+      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
     },
     {
       "added_at": "2022-03-28 20:14:58",

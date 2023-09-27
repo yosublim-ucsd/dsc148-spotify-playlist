@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,864 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,897 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 12 | [Mambo Jambo](https://open.spotify.com/track/5RZ0Y8ae2DuIBPRNjVGkch) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambo No 5](https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi) | 3:15 |
 | 13 | [Mambo Gozon](https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 2:48 |
 | 14 | [Papa Loves Mambo](https://open.spotify.com/track/5A4gzphhD7SyZZhQeda8Vv) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Perry Como's Greatest Hits](https://open.spotify.com/album/1Xn52rnZPmftC6oPyNOTfv) | 2:41 |
-| 15 | [La Pelota](https://open.spotify.com/track/4DkK1PenbmoVjSEFMurUFp) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Que Viva La Música](https://open.spotify.com/album/567VtThAiuol6fSWSPPTNV) | 4:18 |
-| 16 | [Que Rico El Mambo](https://open.spotify.com/track/4ucHP0s9uWaloTQ5HbVyiy) | [Mambo](https://open.spotify.com/artist/3QQyOPRmd24X1Q4ZbYCrQN) | [Mambo](https://open.spotify.com/album/5KAeqB0YySMuy7F7VXVjQo) | 4:40 |
+| 15 | [Que Rico El Mambo](https://open.spotify.com/track/4ucHP0s9uWaloTQ5HbVyiy) | [Mambo](https://open.spotify.com/artist/3QQyOPRmd24X1Q4ZbYCrQN) | [Mambo](https://open.spotify.com/album/5KAeqB0YySMuy7F7VXVjQo) | 4:40 |
+| 16 | [La Pelota](https://open.spotify.com/track/4DkK1PenbmoVjSEFMurUFp) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Que Viva La Música](https://open.spotify.com/album/567VtThAiuol6fSWSPPTNV) | 4:18 |
 | 17 | [Mambo Infierno](https://open.spotify.com/track/37IPOyonJjOLmOlns8RXhx) | [Machito & His Afro Cubans](https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9) | [Tremendo Cumban](https://open.spotify.com/album/14u4OthZTF7D0z40hy7OmK) | 2:51 |
 | 18 | [El Cayuco](https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 2:35 |
 | 19 | [Rico Vacilon](https://open.spotify.com/track/22vnfqgJeAKZmVhhK6tXnk) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [Vacation At The Concord](https://open.spotify.com/album/7thOtRH5Z0D9WVyWs8LhWJ) | 2:44 |

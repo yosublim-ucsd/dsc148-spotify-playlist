@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-433 songs - 18 hr 35 min
+438 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Les mots](https://open.spotify.com/track/0KCHUInxtCsvyMP51FbpIv) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Les mots](https://open.spotify.com/album/2kTguPsPBlP4vxONM6FUUh) | 1:57 | 2023-04-03 | 2023-08-22 |
 | [Les yeux](https://open.spotify.com/track/3Hse4yS1QfDHzq7lVEwarD) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [Les yeux](https://open.spotify.com/album/7nb8BHc3PIAZxK6hRlzR3i) | 2:17 | 2023-02-14 |  |
 | [Letter To A Friend](https://open.spotify.com/track/1MoOc8rH7o4TPY5bYKRA7J) | [Robert Gromotka](https://open.spotify.com/artist/3O0m1fz3mncIqJ2JmHIbH6), [Chiharu Bley Violoncello](https://open.spotify.com/artist/0xYJZq8dcOaFvjIGnMvFHT) | [Letter to a Friend](https://open.spotify.com/album/1a7VHDhOVM54tcTsrpsqNM) | 3:04 | 2023-01-09 |  |
+| [Liebchen](https://open.spotify.com/track/79QW41lC878sIbPCfHbUSC) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Liebchen](https://open.spotify.com/album/6ItYT8YF1qNNvbueX0lZKz) | 2:43 | 2023-09-26 |  |
 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 | 2021-12-07 | 2022-04-15 |
 | [Little Sparks](https://open.spotify.com/track/0Ui4lAbf70ljScF9bR5z8w) | [Jacob Hauge Mateo](https://open.spotify.com/artist/39hGFMaRFCtJtkkErae03o), [Ben Bushill](https://open.spotify.com/artist/6Uo4QLFNLa2sWmanIlxx4k), [Lilo Aurora](https://open.spotify.com/artist/540u6AWvYiHrbzA69FcVhC), [Vildmor](https://open.spotify.com/artist/3UwWncL6a50ABuZJDiqcOR) | [Quiet Majesty](https://open.spotify.com/album/1C1LgtlRCmeZE3Cgfzgu3b) | 6:58 | 2022-04-21 | 2022-05-21 |
 | [Logos](https://open.spotify.com/track/0kkakmky3CMRbBgVKNhN1s) | [Alex BH](https://open.spotify.com/artist/6uklxPVeaAMFJDpYWydETZ) | [Logos](https://open.spotify.com/album/5cSRtnoXDrQzAIpROZ8TZc) | 3:31 | 2021-12-07 | 2022-05-28 |
@@ -260,6 +261,7 @@
 | [Ninon](https://open.spotify.com/track/0FqRaf2LQqj2kf1Xn1VjYQ) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Ninon](https://open.spotify.com/album/3gEUPFAVJ5lw0Qq7k6bOdK) | 2:24 | 2023-08-14 | 2023-08-30 |
 | [Ninon](https://open.spotify.com/track/2izOkdHQxrr95v4f1j36on) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Contrescarpe](https://open.spotify.com/album/0wbc7lZ5a5u7URTdQO6tip) | 2:24 | 2023-08-21 | 2023-09-13 |
 | [Ninon](https://open.spotify.com/track/4U0kjpWXa1Jfr4Z54GjKNk) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [La Maison d’Isabelle](https://open.spotify.com/album/1U1oZuqZ1PCoVGbxfAMbU5) | 2:24 | 2023-09-11 |  |
+| [No Goodbye](https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [No Goodbye](https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL) | 2:24 | 2023-09-26 |  |
 | [Nocturne No.1: The Stars Are Your Friends](https://open.spotify.com/track/44stpzDXyTfG9LV97pHHP0) | [Matt Bettinson](https://open.spotify.com/artist/5MtYl3JKJxBUNtTo50XZcx) | [Nocturne No.1: The Stars Are Your Friends](https://open.spotify.com/album/6KxXL9mncQwzIz4SFtUVQF) | 2:30 | 2023-07-25 |  |
 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 | 2021-12-07 |  |
 | [Normandy](https://open.spotify.com/track/1YNaLcWs5k4sEZ8qmROYg0) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Normandy](https://open.spotify.com/album/6ViCKz30p0TBntZVTR7WPr) | 3:04 | 2021-12-07 | 2022-01-05 |
@@ -355,6 +357,7 @@
 | [Skärgård](https://open.spotify.com/track/5WHAPNyWoUYm8TB13lAVTX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Skärgård](https://open.spotify.com/album/3HTVIw9HK66IcYjS5Z4QuV) | 2:19 | 2021-12-07 | 2022-08-10 |
 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 | 2021-12-07 |  |
 | [So Close](https://open.spotify.com/track/2cQ5XGvt8Yo5sNlvPLWYp3) | [Sander Bjerke](https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv) | [So Close](https://open.spotify.com/album/4sfzGdTKd1DCPLJwktCO3d) | 3:27 | 2023-02-21 | 2023-03-15 |
+| [Soft Amber](https://open.spotify.com/track/7uIAQEyXcPx9f2BTaVEAVt) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Soft Amber](https://open.spotify.com/album/6PIkPVbTBppn4zBRzcV7gS) | 2:19 | 2023-09-26 |  |
 | [Solace](https://open.spotify.com/track/2XpT1bngtM9pHoYEsfoYuu) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Solace](https://open.spotify.com/album/5EUQ58DddJWsBvzcKnjewJ) | 2:04 | 2023-01-26 |  |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2021-12-07 |  |
 | [Sonata del Giardino](https://open.spotify.com/track/2wNBTbBMhZ1FDFx5US3u3o) | [Domani Fendi](https://open.spotify.com/artist/1GaEeF01ebT6znhYvW1s7b) | [Sonata del Giardino](https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm) | 2:45 | 2021-12-07 | 2022-08-10 |
@@ -385,6 +388,7 @@
 | [The Emotion of Light \- Revisited](https://open.spotify.com/track/1YOgykOfaRddTMVSxVyESp) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The Emotion Of Light \(Revisited\)](https://open.spotify.com/album/4bFCPQNJbkSJGVWogzUnVw) | 2:13 | 2022-06-07 |  |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2021-12-07 | 2023-01-27 |
 | [The Nightingale](https://open.spotify.com/track/1cXacQAGKrNEB6q32HzK6c) | [Frédéric Leissen](https://open.spotify.com/artist/5yLIjnvnDjovcXpZJa3NCj) | [The Nightingale](https://open.spotify.com/album/5q6Lo4sWsHz7S2JHooLt5i) | 1:58 | 2021-12-07 | 2022-05-21 |
+| [The Only Road](https://open.spotify.com/track/2PuFI0Tjmd31q40SbB0w05) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [The Only Road](https://open.spotify.com/album/7I4g1xIcIVrfKKmi51EaFM) | 2:15 | 2023-09-26 |  |
 | [The Open](https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [The Open](https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt) | 3:34 | 2022-04-14 | 2023-03-22 |
 | [The Optimist](https://open.spotify.com/track/4wJd6cER10JZRuU5y3DBkZ) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [The Optimist](https://open.spotify.com/album/3KzZstlr8d3MiiO1swIRJX) | 2:39 | 2023-05-09 |  |
 | [The promenade](https://open.spotify.com/track/7wwoRmaR5PedYCw1iWtjAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [The promenade](https://open.spotify.com/album/4j34n7TZ31JyiCgulAMSnJ) | 1:59 | 2023-08-07 | 2023-08-22 |
@@ -405,6 +409,7 @@
 | [two wheels north](https://open.spotify.com/track/3lHhDgHyTDL6A9WEss4GY4) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [two wheels north](https://open.spotify.com/album/0jqVQmWlVeyCnRu3zQPxKs) | 2:50 | 2021-12-07 | 2022-05-21 |
 | [Unconditional](https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Unconditional](https://open.spotify.com/album/1uy7xtQ94KNqMtQnr2KNCO) | 2:24 | 2022-03-01 | 2022-04-02 |
 | [Une Minute De Plus](https://open.spotify.com/track/4dC7pbM5hJxRvU7BJ4hVWC) | [Aria Abriana](https://open.spotify.com/artist/3HZqJmldxpSFVn5nFMpStc) | [Une Minute De Plus](https://open.spotify.com/album/2vcRB8iRfo9Ri9uHEQdLkK) | 2:26 | 2021-12-07 |  |
+| [Unexpected Journey](https://open.spotify.com/track/6HgXeN1ZnCxTJshHSK73z9) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Unexpected Journey](https://open.spotify.com/album/7G4UfvLMGm1QheYzzWrupS) | 2:42 | 2023-09-26 |  |
 | [Unfinished Story](https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py) | [Dexter Mills](https://open.spotify.com/artist/3ChW1Y1eF6w0fq0yvMQnS6) | [Unfinished Story](https://open.spotify.com/album/6L3cz0Uc70mGVYDoEcmCLc) | 2:17 | 2021-12-07 | 2023-05-10 |
 | [Upraise](https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D) | [Eleanor Neylan](https://open.spotify.com/artist/19XUo1Fg2WQ0oO3z0fP1uE) | [Upraise](https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz) | 2:27 | 2021-12-07 | 2022-04-15 |
 | [Vacanza in bicicletta](https://open.spotify.com/track/7insrNcRlTVhOZLKdZPoUq) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Vacanza in bicicletta](https://open.spotify.com/album/2faORdIEcHDe7PqE9R3sjd) | 2:47 | 2021-12-07 |  |

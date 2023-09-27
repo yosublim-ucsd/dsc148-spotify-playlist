@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"http://tbhits.com/\">Tommy Brown</a>",
-  "num_followers": 9824,
+  "num_followers": 9857,
   "original_name": "Tommy Brown's Taste",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+      "duration_ms": 272186,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 272186,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Broken Silence",
-        "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
-      },
-      "artists": [
-        {
-          "name": "Foxy Brown",
-          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
-        },
-        {
-          "name": "Spragga Benz",
-          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
-        }
-      ],
-      "duration_ms": 260825,
-      "name": "Oh Yeah",
-      "url": "https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 286893,
       "name": "Throwback (feat. Jadakiss)",
       "url": "https://open.spotify.com/track/1bPbiotvwSAYHG3ycVC2CV"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Broken Silence",
+        "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
+      },
+      "artists": [
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        },
+        {
+          "name": "Spragga Benz",
+          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
+        }
+      ],
+      "duration_ms": 260825,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E"
     },
     {
       "added_at": "2022-10-01 04:00:00",

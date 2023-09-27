@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13594,
+  "num_followers": 13596,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
+        "name": "Components",
+        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 311106,
+      "name": "Little B's Poem - Remastered 1994",
+      "url": "https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
         "name": "Duke Ellington Meets Coleman Hawkins",
         "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 315893,
       "name": "Limbo Jazz",
       "url": "https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
-        "name": "Components",
-        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 311106,
-      "name": "Little B's Poem - Remastered 1994",
-      "url": "https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz"
     },
     {
       "added_at": "2023-09-15 14:04:28",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
-        "name": "Dance Of Time",
-        "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 230093,
-      "name": "You\u2019re Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/28pnEgvAlVhdyh013x02bE"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
         "name": "A Seasonal Thing...SPRING",
         "url": "https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 303850,
       "name": "It's Not Easy Being Green",
       "url": "https://open.spotify.com/track/7jKskHwsl2QtLamOtaLRkb"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
+        "name": "Dance Of Time",
+        "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 230093,
+      "name": "You\u2019re Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/28pnEgvAlVhdyh013x02bE"
     },
     {
       "added_at": "2023-09-15 14:04:28",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "I Will Wait for You",
-      "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
         "name": "They Say It's Swing",
         "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 249997,
       "name": "They Say It's Spring",
       "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "I Will Wait for You",
+      "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
     },
     {
       "added_at": "2023-09-15 14:04:28",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
-        "name": "Grand Songs",
-        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "Take a Giant Step",
-      "url": "https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
         "name": "The Complete Bill Evans On Verve",
         "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 237200,
       "name": "It Must Be Love",
       "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
+        "name": "Grand Songs",
+        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Take a Giant Step",
+      "url": "https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN"
     },
     {
       "added_at": "2023-09-15 14:04:28",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
-        "name": "Let's Sail Away",
-        "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
-      },
-      "artists": [
-        {
-          "name": "Jeff Rupert",
-          "url": "https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh"
-        },
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Pennies from Heaven",
-      "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
         "name": "It Happens Like That",
         "url": "https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 211621,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
+        "name": "Let's Sail Away",
+        "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
+      },
+      "artists": [
+        {
+          "name": "Jeff Rupert",
+          "url": "https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh"
+        },
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
     },
     {
       "added_at": "2023-09-15 14:04:28",
@@ -1483,30 +1483,6 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
-        "name": "Live at Unity",
-        "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
-      },
-      "artists": [
-        {
-          "name": "Fabian Kallerdahl",
-          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
-        },
-        {
-          "name": "Albin Lindg\u00e5rd",
-          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
-        },
-        {
-          "name": "Ossian Ward",
-          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
-        }
-      ],
-      "duration_ms": 364626,
-      "name": "Only Love Can Break Your Heart - Live",
-      "url": "https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
         "name": "Calendar Girl",
         "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
       },
@@ -1535,6 +1511,30 @@
       "duration_ms": 191332,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/57d7EP17867urAaj7vp3Tt"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
+        "name": "Live at Unity",
+        "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
+      },
+      "artists": [
+        {
+          "name": "Fabian Kallerdahl",
+          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
+        },
+        {
+          "name": "Albin Lindg\u00e5rd",
+          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
+        },
+        {
+          "name": "Ossian Ward",
+          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
+        }
+      ],
+      "duration_ms": 364626,
+      "name": "Only Love Can Break Your Heart - Live",
+      "url": "https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m"
     },
     {
       "added_at": "2023-09-15 14:04:28",

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,660 songs - 5 day 20 hr 16 min
+3,661 songs - 5 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2346,6 +2346,7 @@
 | [Pacman](https://open.spotify.com/track/42MVeCHFVCM9B9wF2ybTDk) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Pacman](https://open.spotify.com/album/18R4LQrYnTXl4r95Y65XjX) | 1:57 | 2021-08-27 | 2021-09-30 |
 | [Padron Peppers](https://open.spotify.com/track/2tZVe3idd7qbKHjUeUYbG2) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [Padron Peppers](https://open.spotify.com/album/0Tbe84qMXurDdDK7xgHKGQ) | 2:22 | 2022-03-31 | 2022-06-10 |
 | [Paella](https://open.spotify.com/track/1zynLlNxb2xAyFin6GvSGC) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr) | [Paella](https://open.spotify.com/album/6sG7191ahQyylD75jfNBik) | 2:38 | 2023-03-09 | 2023-06-02 |
+| [Palette](https://open.spotify.com/track/52A1HqtgXF8ZFKTbX7UpFr) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Palette](https://open.spotify.com/album/0tuhaoSXp16EvvWykkE7fy) | 2:23 | 2023-09-21 |  |
 | [Palm Breeze](https://open.spotify.com/track/5gm3EF9cktGnOPkTnK3SNe) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Palm Breeze](https://open.spotify.com/album/5kTR2SstqSeZm39niVH0jc) | 1:49 | 2021-09-03 | 2021-11-19 |
 | [Palm Oil](https://open.spotify.com/track/5hYxf9l3EEYY6weglDZOx8) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Palm Oil](https://open.spotify.com/album/6jVKXAn69SHH3qn2fgbDLX) | 2:33 | 2020-04-24 | 2020-07-03 |
 | [Palm Tree Of Life](https://open.spotify.com/track/2cScdl0XkjjMwxOaOUUDoj) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [DELUYZ](https://open.spotify.com/artist/3pfdPLmKCUYwNXIENOYzx1) | [Palm Tree Of Life](https://open.spotify.com/album/2IVMwWXPfzWr9UQ6RCEKcS) | 2:07 | 2022-12-01 | 2022-12-24 |
@@ -2869,7 +2870,7 @@
 | [Sonora](https://open.spotify.com/track/3lXvhEIHd3tmlj9q8LMYZn) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Sonora](https://open.spotify.com/album/78CC6Sn8J6k6UaPU1YRtnx) | 1:57 | 2023-09-21 |  |
 | [sonora](https://open.spotify.com/track/23YFEAmvhSogn8yEZasNSP) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [sonora](https://open.spotify.com/album/66kNQZZfkwhQLjnt88Cxi5) | 2:12 | 2019-05-26\* | 2019-08-13 |
 | [Soothing Soul](https://open.spotify.com/track/3eMevS3j71zgG6dBcIuRjh) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Soothing Soul](https://open.spotify.com/album/4htr7KOlw6sWY3iXWwDfjn) | 2:45 | 2022-06-23 | 2022-07-15 |
-| [Soothsayin'](https://open.spotify.com/track/6OLmIVP9JmnwVenHx2O309) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34), [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Soothsayin'](https://open.spotify.com/album/2scEFIwR1R6VgXlQAKiK8x) | 1:35 | 2023-09-14 |  |
+| [Soothsayin'](https://open.spotify.com/track/6OLmIVP9JmnwVenHx2O309) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34), [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Soothsayin'](https://open.spotify.com/album/2scEFIwR1R6VgXlQAKiK8x) | 1:35 | 2023-09-14 | 2023-09-27 |
 | [Soul Croissant \(Phlocalyst Homemade Chocolate Hazelnut Spread\)](https://open.spotify.com/track/1D4aCyf8t5mRFcEOraJDLq) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Soul Croissant](https://open.spotify.com/album/5IMDlmWPWpjyPg5EWBcqdP) | 3:17 | 2020-10-23 | 2021-01-04 |
 | [Soul Days](https://open.spotify.com/track/7mh5CreMQ6GmrdqngDQnem) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Soul Days](https://open.spotify.com/album/2ktwc9noZHOZQeRNPt0uxa) | 2:54 | 2022-06-16 | 2022-07-22 |
 | [Soul Survivor](https://open.spotify.com/track/4deblxewzKBoFjpg6g78Bs) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Soul Survivor](https://open.spotify.com/album/4J1q7rtmw06g8MHno5fwi0) | 3:01 | 2022-05-26 |  |

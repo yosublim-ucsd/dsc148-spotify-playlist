@@ -4,11 +4,11 @@
 
 > y kn m quida no duerme viejo de los korridones q traemos totalment n vivo y markele kmpa tolo watata watata
 
-61 songs - 3 hr 0 min
+62 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [160 Gramos](https://open.spotify.com/track/5jWKGPiw2PaIvOVzsqYQvv) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:08 | 2023-09-15 |  |
+| [160 Gramos](https://open.spotify.com/track/5jWKGPiw2PaIvOVzsqYQvv) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:08 | 2023-09-15 | 2023-09-27 |
 | [A Casa Pete](https://open.spotify.com/track/3oVBLwtACAPgpmzqEC1ztX) | [Spreen](https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ) | [A Casa Pete](https://open.spotify.com/album/42Xz6SNoG4eaGbko9JFgpd) | 1:15 | 2023-09-15 | 2023-09-19 |
 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 | 2023-09-15 |  |
 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 | 2023-09-15 |  |
@@ -20,6 +20,7 @@
 | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/track/3b6waQzXeYty0R6EDAv0po) | [SwaggGlock](https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr), [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/album/3lchk9CWRXo0pHD6et7bEY) | 2:52 | 2023-09-15 |  |
 | [Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Death of a Party Girl](https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy) | 3:37 | 2023-09-15 |  |
 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 | 2023-09-15 |  |
+| [Chanel](https://open.spotify.com/track/0WDBMtJby7pn1MTDAzSTQD) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:49 | 2023-09-15 |  |
 | [Ciudad Gris](https://open.spotify.com/track/74oRVj4gRTVVFUVwTXAEl6) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O \- Rock](https://open.spotify.com/album/6vOPEgatfAYa5TSq2PaCNu) | 3:28 | 2023-09-15 |  |
 | [classical phonk](https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl) | [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g), [madeinnline](https://open.spotify.com/artist/5Uf6QGQDs3EqsxgiGR4O4f) | [classical phonk](https://open.spotify.com/album/0Ol07P6QUMgXjBlunBCFok) | 1:26 | 2023-09-15 |  |
 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 | 2023-09-15 |  |

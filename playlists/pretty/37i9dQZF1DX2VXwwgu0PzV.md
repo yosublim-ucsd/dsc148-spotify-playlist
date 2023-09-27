@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa?si=o\-BsO1cbSLeas1VyOMyGFQ">Oyije</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,007 likes - 89 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,080 likes - 89 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

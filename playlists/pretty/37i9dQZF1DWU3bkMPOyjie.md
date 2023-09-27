@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 25 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,712 likes - 78 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,713 likes - 78 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

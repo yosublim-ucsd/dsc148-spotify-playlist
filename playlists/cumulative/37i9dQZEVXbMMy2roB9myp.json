@@ -6487,6 +6487,32 @@
     },
     {
       "album": {
+        "name": "LuXxX",
+        "url": "https://open.spotify.com/album/3GmPKpcpxysC0XQ9AJFeky"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "LuXxX",
+      "url": "https://open.spotify.com/track/1tgWvt78QUQrghdsbiteyZ"
+    },
+    {
+      "album": {
         "name": "M.A (Mejores Amigos)",
         "url": "https://open.spotify.com/album/2ESUDQUE3ku1wEBCO5RKG6"
       },
@@ -6524,7 +6550,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 158309,
       "name": "M.A (Mejores Amigos)",
       "url": "https://open.spotify.com/track/61wAL7pFMMfvYv9SXIiYAB"
@@ -6554,7 +6580,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 272727,
       "name": "M.A - Remix",
       "url": "https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ"
@@ -7364,7 +7390,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 220551,
       "name": "MI CIUDAD",
       "url": "https://open.spotify.com/track/5NBkC1uUDs8PtDhRwpyS7p"
@@ -11394,7 +11420,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 311080,
       "name": "Te hubieras ido antes",
       "url": "https://open.spotify.com/track/79v3sImuaCmWvOn1Au1EZU"
@@ -12192,7 +12218,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 163173,
       "name": "TROYA",
       "url": "https://open.spotify.com/track/15dTKnZC0DJhW6Ch9wLNyk"

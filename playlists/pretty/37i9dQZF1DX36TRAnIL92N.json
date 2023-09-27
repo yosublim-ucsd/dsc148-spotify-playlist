@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 221483,
+  "num_followers": 221947,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
+        "name": "Platia",
+        "url": "https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL"
+      },
+      "artists": [
+        {
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "Platia",
+      "url": "https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v"
+    },
+    {
+      "added_at": "2023-09-08 12:01:16",
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/2uDgmgef8WIKFJuzR1RnDg"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 212000,
       "name": "Time",
       "url": "https://open.spotify.com/track/20QjNItuQEZvwXnIy5Va37"
-    },
-    {
-      "added_at": "2023-09-08 12:01:16",
-      "album": {
-        "name": "Platia",
-        "url": "https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL"
-      },
-      "artists": [
-        {
-          "name": "FOVOS",
-          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Platia",
-      "url": "https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v"
     },
     {
       "added_at": "2023-09-08 12:01:16",

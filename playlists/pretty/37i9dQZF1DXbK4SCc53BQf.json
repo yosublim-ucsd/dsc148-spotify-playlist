@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 89813,
+  "num_followers": 89855,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "United Kingdom 2 (Volumen 2)",
-        "url": "https://open.spotify.com/album/0R4nAHSxTLLMqfbdnAoYSE"
+        "name": "Fiel",
+        "url": "https://open.spotify.com/album/0yXPcyG4gS3W6m2aQACbVD"
       },
       "artists": [
         {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Michael Pratts",
-          "url": "https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp"
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
         }
       ],
-      "duration_ms": 231003,
-      "name": "Ritmo del Cielo",
-      "url": "https://open.spotify.com/track/1rYUm7oOLJcJW5dSnJTem5"
+      "duration_ms": 278891,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/1nqJ147DenACjQsFw2FWGN"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -851,6 +847,26 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "United Kingdom 2 (Volumen 2)",
+        "url": "https://open.spotify.com/album/0R4nAHSxTLLMqfbdnAoYSE"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Michael Pratts",
+          "url": "https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp"
+        }
+      ],
+      "duration_ms": 231003,
+      "name": "Ritmo del Cielo",
+      "url": "https://open.spotify.com/track/1rYUm7oOLJcJW5dSnJTem5"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Desde Mi Alma",
         "url": "https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 248840,
       "name": "Desde Mi Alma",
       "url": "https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Fiel",
-        "url": "https://open.spotify.com/album/0yXPcyG4gS3W6m2aQACbVD"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 278891,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/1nqJ147DenACjQsFw2FWGN"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

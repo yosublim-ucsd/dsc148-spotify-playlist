@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,645 likes - 51 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,673 likes - 51 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

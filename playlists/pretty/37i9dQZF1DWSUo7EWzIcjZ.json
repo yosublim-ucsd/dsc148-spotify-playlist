@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Johnny Ventura",
-  "num_followers": 173833,
+  "num_followers": 173921,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -239,8 +239,8 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Fogarat\u00e9",
-        "url": "https://open.spotify.com/album/2IUnsgSNSjCyiUEVlg61er"
+        "name": "La Llave De Mi Corazon",
+        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 223466,
-      "name": "El Farolito",
-      "url": "https://open.spotify.com/track/6GJd6DkNEIsZf2tbRRkpbk"
+      "duration_ms": 205586,
+      "name": "La Travesia",
+      "url": "https://open.spotify.com/track/7BL1WTerk9Upwd5Xj4LGLi"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -319,8 +319,8 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "La Llave De Mi Corazon",
-        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
+        "name": "Fogarat\u00e9",
+        "url": "https://open.spotify.com/album/2IUnsgSNSjCyiUEVlg61er"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 205586,
-      "name": "La Travesia",
-      "url": "https://open.spotify.com/track/7BL1WTerk9Upwd5Xj4LGLi"
+      "duration_ms": 223466,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/6GJd6DkNEIsZf2tbRRkpbk"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/7cVxbZREoOPYMAgTyPR4jz"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "Ta' Pillao",
-      "url": "https://open.spotify.com/track/7bNcX3QJYa9zHvseMSSTed"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Otro Dia Mas Sin Verte",
         "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 287623,
       "name": "Mi Novia, Mi Amante y Mujer",
       "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/7cVxbZREoOPYMAgTyPR4jz"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Ta' Pillao",
+      "url": "https://open.spotify.com/track/7bNcX3QJYa9zHvseMSSTed"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Caciquiando",
-        "url": "https://open.spotify.com/album/7cyn7fvmfnDPxIcxHbY320"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Te He Prometido - Original",
-      "url": "https://open.spotify.com/track/65VoPaWq9lJiArZUkNqWgm"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Luchar\u00e9",
         "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 284533,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/2eRba627Otdkl6SsPyYWnY"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Caciquiando",
+        "url": "https://open.spotify.com/album/7cyn7fvmfnDPxIcxHbY320"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Te He Prometido - Original",
+      "url": "https://open.spotify.com/track/65VoPaWq9lJiArZUkNqWgm"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Exitos De Rasput\u00edn",
-        "url": "https://open.spotify.com/album/4COmudqnWG1tJtT9jGzN2T"
-      },
-      "artists": [
-        {
-          "name": "Rasputin",
-          "url": "https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY"
-        }
-      ],
-      "duration_ms": 257306,
-      "name": "Primavera",
-      "url": "https://open.spotify.com/track/3PCWWEB0K1gxkMlGXnZWvL"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Merengues Limpio",
         "url": "https://open.spotify.com/album/771HsH0BQNvh1S8iYiX1Ss"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 250125,
       "name": "La Varita",
       "url": "https://open.spotify.com/track/2zp5lkyP0FPbCOxBdiYT4h"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Exitos De Rasput\u00edn",
+        "url": "https://open.spotify.com/album/4COmudqnWG1tJtT9jGzN2T"
+      },
+      "artists": [
+        {
+          "name": "Rasputin",
+          "url": "https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY"
+        }
+      ],
+      "duration_ms": 257306,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/3PCWWEB0K1gxkMlGXnZWvL"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Capricho",
-        "url": "https://open.spotify.com/album/6rByF9R6prjXdNFwawHP3q"
-      },
-      "artists": [
-        {
-          "name": "Monchy Capricho",
-          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
-        }
-      ],
-      "duration_ms": 289933,
-      "name": "Tu Eres Mi Embra",
-      "url": "https://open.spotify.com/track/7xaIDbXG8PpotUv7ym2V2N"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Es Mejor Decir Adios",
         "url": "https://open.spotify.com/album/2bNVUO6TyN1hZvN8TOEi0s"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 317492,
       "name": "De Que Manera Te Olvido",
       "url": "https://open.spotify.com/track/0wM04UVM5yqnZYgfmW4Kyo"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Capricho",
+        "url": "https://open.spotify.com/album/6rByF9R6prjXdNFwawHP3q"
+      },
+      "artists": [
+        {
+          "name": "Monchy Capricho",
+          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
+        }
+      ],
+      "duration_ms": 289933,
+      "name": "Tu Eres Mi Embra",
+      "url": "https://open.spotify.com/track/7xaIDbXG8PpotUv7ym2V2N"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2291,18 +2291,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/4ZXAcZ2oYaLj2Xpq8PvbTa"
+        "name": "Merengues Clasicos Vol 2",
+        "url": "https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh"
       },
       "artists": [
         {
-          "name": "July Mateo Rasputin",
-          "url": "https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi"
+          "name": "La Patrulla 15",
+          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
         }
       ],
-      "duration_ms": 265532,
-      "name": "Oye Abre Tus Ojos",
-      "url": "https://open.spotify.com/track/1B8MHKKYkqrnmv8QDMat4Z"
+      "duration_ms": 375320,
+      "name": "Yo me siento enamorao",
+      "url": "https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2339,34 +2339,34 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Merengues Cl\u00e1sicos de los 80's, Vol. 1",
-        "url": "https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI"
+        "name": "Miriam Collection",
+        "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
       "artists": [
         {
-          "name": "Fausto Rey",
-          "url": "https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO"
+          "name": "Miriam Cruz",
+          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
         }
       ],
-      "duration_ms": 219871,
-      "name": "Tu Belleza",
-      "url": "https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH"
+      "duration_ms": 259519,
+      "name": "La Loba",
+      "url": "https://open.spotify.com/track/3wVkSqFV273UbwCfSRETYk"
     },
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Merengues Clasicos Vol 2",
-        "url": "https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/4ZXAcZ2oYaLj2Xpq8PvbTa"
       },
       "artists": [
         {
-          "name": "La Patrulla 15",
-          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
+          "name": "July Mateo Rasputin",
+          "url": "https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi"
         }
       ],
-      "duration_ms": 375320,
-      "name": "Yo me siento enamorao",
-      "url": "https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY"
+      "duration_ms": 265532,
+      "name": "Oye Abre Tus Ojos",
+      "url": "https://open.spotify.com/track/1B8MHKKYkqrnmv8QDMat4Z"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2387,18 +2387,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Miriam Collection",
-        "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
+        "name": "Merengues Cl\u00e1sicos de los 80's, Vol. 1",
+        "url": "https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI"
       },
       "artists": [
         {
-          "name": "Miriam Cruz",
-          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
+          "name": "Fausto Rey",
+          "url": "https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO"
         }
       ],
-      "duration_ms": 259519,
-      "name": "La Loba",
-      "url": "https://open.spotify.com/track/3wVkSqFV273UbwCfSRETYk"
+      "duration_ms": 219871,
+      "name": "Tu Belleza",
+      "url": "https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH"
     },
     {
       "added_at": "2021-02-02 01:24:47",

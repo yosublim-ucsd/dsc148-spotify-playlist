@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia, de la buena!<br/>Foto: La Combo Tortuga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,693 likes - 101 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,754 likes - 101 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 29 | [Inestable](https://open.spotify.com/track/0LNP7ifJkxGeEvP6sFchy5) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Forest](https://open.spotify.com/artist/2j6Up11EpEUKQ5yIfFXhdU) | [Inestable](https://open.spotify.com/album/1CWPJ17Uaat4JP9IbrXlQr) | 2:45 |
 | 30 | [Me Emborrachare](https://open.spotify.com/track/6UmL7VOgbpvvRCGeqJnKrK) | [Jordan](https://open.spotify.com/artist/4wO1Ld1CKjm4vFMNUn7E7k) | [Me Emborracharé](https://open.spotify.com/album/5YfG3oN7ijMQljJo7Z3gBI) | 4:02 |
 | 31 | [Resaka](https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [¿Qué No Vale Nada?](https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac) | 3:34 |
-| 32 | [María](https://open.spotify.com/track/1tYOodxB9PDbppU5qlxAoX) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/0qo1x937c8OKKBaoA7LCMg) | 5:56 |
+| 32 | [María](https://open.spotify.com/track/7h8mEgtCXobf4KgPuFvC1x) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Vuelve y Juega](https://open.spotify.com/album/3VREkyPb4HzE8NoQK3zmtS) | 5:57 |
 | 33 | [Ya llegó el sabor](https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:37 |
 | 34 | [Y Dime](https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:15 |
-| 35 | [Ya Te Olvide](https://open.spotify.com/track/5pGrxPhRB7Y8dushD7HGOi) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/0qo1x937c8OKKBaoA7LCMg) | 3:44 |
+| 35 | [Ya Te Olvidé](https://open.spotify.com/track/0Q1xQLuG7ztqA0FdojOCPj) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/6wzhyHGZzcm4lYhDikPDLc) | 3:41 |
 | 36 | [La Tortuga Vacilona](https://open.spotify.com/track/6ugIHliLvfqeh3WVn3gLEE) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [La Terrible Pulenta](https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4) | 3:41 |
 | 37 | [Cumbia de la Güena](https://open.spotify.com/track/1CY7kMLypzLhj8vbBBmNGY) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [La Terrible Pulenta](https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4) | 2:27 |
 | 38 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 |

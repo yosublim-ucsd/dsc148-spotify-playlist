@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Conexión Divina
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,928 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,934 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 29 | [Si Quieres Verme Llorar](https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Ahora Va La Mía](https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID) | 3:26 |
 | 30 | [Ese es el problema](https://open.spotify.com/track/1IGv4Ii6V0pg7rni1N5SJi) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Ese es el problema](https://open.spotify.com/album/3HRiR4Wq9fXs5TO79UYy0f) | 2:47 |
 | 31 | [Tres Veces Te Engañe](https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz) | [Sarah La Morena](https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ) | [Tres Veces Te Engañe](https://open.spotify.com/album/7c375M7evTfsicTNfPV3Yw) | 3:35 |
-| 32 | [Así Nomás](https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Así Nomás](https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy) | 3:11 |
-| 33 | [Cuéntenle Mentiras](https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Sheyla](https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh) | [Cuéntenle Mentiras](https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY) | 3:18 |
+| 32 | [Cuéntenle Mentiras](https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Sheyla](https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh) | [Cuéntenle Mentiras](https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY) | 3:18 |
+| 33 | [Así Nomás](https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Así Nomás](https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy) | 3:11 |
 | 34 | [Empoderada](https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Empoderada](https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD) | 2:44 |
 | 35 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
 | 36 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 |
 | 37 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
 | 38 | [Lento](https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8) | [Katia Morales](https://open.spotify.com/artist/5vvGAPzhwxeJzYaNwARBXg) | [Lento](https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru) | 3:00 |
-| 39 | [Secreto a Voces](https://open.spotify.com/track/6DBvRsanC4rtCMxT3J1hTL) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Secreto a Voces](https://open.spotify.com/album/2BuPVkRF2ztEWjMbjL1lGY) | 3:09 |
-| 40 | [Te fallaste a ti](https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [Te fallaste a ti](https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH) | 3:02 |
+| 39 | [Te fallaste a ti](https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [Te fallaste a ti](https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH) | 3:02 |
+| 40 | [Secreto a Voces](https://open.spotify.com/track/6DBvRsanC4rtCMxT3J1hTL) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Secreto a Voces](https://open.spotify.com/album/2BuPVkRF2ztEWjMbjL1lGY) | 3:09 |
 | 41 | [Contigo](https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Contigo](https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ) | 3:33 |
 | 42 | [Dije](https://open.spotify.com/track/2iaa3qdsbNieKVdcQRNb1P) | [Natalia Corona](https://open.spotify.com/artist/7G79nlCDum3JjrXUIVvxDa) | [Dije](https://open.spotify.com/album/7p720aufoYrD4YoC0oh6m3) | 2:48 |
 | 43 | [Te Me Sigues Antojando](https://open.spotify.com/track/1lmHmsQN66qHztoYgWrzZy) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [Te Me Sigues Antojando](https://open.spotify.com/album/5MmoawkYlXuROoreINB1k6) | 3:05 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 59 | [Fayer](https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Fayer](https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB) | 3:04 |
 | 60 | [G\. Blanco](https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [G\. Blanco](https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ) | 2:58 |
 | 61 | [Soy Mala](https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 1:57 |
-| 62 | [Vanessa Guillen](https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Vanessa Guillen](https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq) | 3:27 |
-| 63 | [En Peligro De Extinción \- En Vivo](https://open.spotify.com/track/1jnccQsTSqFpNFriKasQi2) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [En Peligro De Extinción \(En Vivo\)](https://open.spotify.com/album/4V9YaFkLZlJHOkyhsVeHTD) | 3:32 |
+| 62 | [En Peligro De Extinción \- En Vivo](https://open.spotify.com/track/1jnccQsTSqFpNFriKasQi2) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [En Peligro De Extinción \(En Vivo\)](https://open.spotify.com/album/4V9YaFkLZlJHOkyhsVeHTD) | 3:32 |
+| 63 | [Vanessa Guillen](https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Vanessa Guillen](https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq) | 3:27 |
 | 64 | [8\-MER](https://open.spotify.com/track/1E4ZLD7Ecw7QU7P5CV8Fda) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [8\-MER](https://open.spotify.com/album/48yI3SckIfu3mWkWZZIqfh) | 2:47 |
 | 65 | [San Mike](https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [San Mike](https://open.spotify.com/album/49o87APRm62j0t13TMOB4E) | 2:51 |
 

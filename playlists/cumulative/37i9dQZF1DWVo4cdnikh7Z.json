@@ -4371,6 +4371,36 @@
     },
     {
       "album": {
+        "name": "Ulagammai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3ZttSo448diTZObOZCsfVc"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Kavivelu Saravanan",
+          "url": "https://open.spotify.com/artist/560fMUUdJGxO7LK22T0JNf"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298056,
+      "name": "En Manasu",
+      "url": "https://open.spotify.com/track/29agoUyHupTRkoEfsp7vau"
+    },
+    {
+      "album": {
         "name": "En Mel Vizhundha Mazhaiye (From \"Dejavu\")",
         "url": "https://open.spotify.com/album/7uSfDSWPwYyyl2l4f2YFvY"
       },
@@ -6288,8 +6318,8 @@
           "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
         },
         {
-          "name": "Diwakar (South)",
-          "url": "https://open.spotify.com/artist/0Rned3MSGE36egvNO55JWN"
+          "name": "Diwakar",
+          "url": "https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD"
         }
       ],
       "date_added": "2023-09-21",
@@ -7324,6 +7354,28 @@
       "duration_ms": 440126,
       "name": "Kadavulukku Korikkai (From \"Devil\")",
       "url": "https://open.spotify.com/track/7FdPZHjBQmSSxy6XyYPq2L"
+    },
+    {
+      "album": {
+        "name": "Ulagammai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3ZttSo448diTZObOZCsfVc"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Vasu",
+          "url": "https://open.spotify.com/artist/6HvZ40x8AkcVDOGJckGsPK"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118056,
+      "name": "Kadellam",
+      "url": "https://open.spotify.com/track/34CckriHWz65IniYKNd1x9"
     },
     {
       "album": {
@@ -16412,10 +16464,40 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 224365,
       "name": "Shades Of Love (From \"Iraivan\")",
       "url": "https://open.spotify.com/track/2KblzRaIzrpCzGmBDZGr4q"
+    },
+    {
+      "album": {
+        "name": "Shades Of Love (From \"Iraivan\")",
+        "url": "https://open.spotify.com/album/1IOuYuA5UbJUcPuafcR4Ey"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Shivani Panneerselvam",
+          "url": "https://open.spotify.com/artist/26EEAR1XpJq1py9GI2xwSI"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224365,
+      "name": "Shades Of Love (From \"Iraivan\")",
+      "url": "https://open.spotify.com/track/1elggy68XHm0PO1gYKLo9f"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,979 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,983 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,15 +76,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 66 | [Love \(Remix\)](https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Love \(Remix\)](https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W) | 3:30 |
 | 67 | [Shining Down](https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Sonshine](https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7) | 5:11 |
 | 68 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
-| 69 | [Fanatic](https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Twenty Four Seven](https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn) | 3:06 |
-| 70 | [Surprise](https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Surprise](https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg) | 3:13 |
+| 69 | [Surprise](https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Surprise](https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg) | 3:13 |
+| 70 | [Fanatic](https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Twenty Four Seven](https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn) | 3:06 |
 | 71 | [I'm Up](https://open.spotify.com/track/777iKLDmmPiMAAB7OUW8bf) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [I'm Up](https://open.spotify.com/album/2b2JwJcO7m5Xk047jIu9jW) | 2:57 |
 | 72 | [Born Ready](https://open.spotify.com/track/5RBlhuY6iXpnc4De5nDOvO) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [Homesick](https://open.spotify.com/album/7LXqxH6bSaN395nIDyYPPl) | 2:54 |
 | 73 | [Never Have I Ever](https://open.spotify.com/track/0maqaTZLFWYs7Wj31XXtr2) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Never Have I Ever](https://open.spotify.com/album/4DAI16o6397wZrDloQqLYT) | 3:05 |
 | 74 | [Heart Stops Beating](https://open.spotify.com/track/0ijnQEqATd4jxvoFYwLBTk) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv) | [20XX](https://open.spotify.com/album/7DTBjBDwZqmyslZxC3JrMK) | 4:04 |
 | 75 | [Fountain \(I Am Good\) \- Live](https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Fountain \(I Am Good\) \[Live\]](https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ) | 5:18 |
-| 76 | [Pray](https://open.spotify.com/track/2RLXKrcqCYLFZIGJbmyaVD) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Pray](https://open.spotify.com/album/36yjJrRmzJT7IMEtd4OtQe) | 3:48 |
-| 77 | [Most High](https://open.spotify.com/track/18g3j7p3KTtdypNrJ1fU2V) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Most High](https://open.spotify.com/album/2tRavvTisR46dR3HUnSREs) | 3:14 |
+| 76 | [Most High](https://open.spotify.com/track/18g3j7p3KTtdypNrJ1fU2V) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Most High](https://open.spotify.com/album/2tRavvTisR46dR3HUnSREs) | 3:14 |
+| 77 | [Pray](https://open.spotify.com/track/2RLXKrcqCYLFZIGJbmyaVD) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Pray](https://open.spotify.com/album/36yjJrRmzJT7IMEtd4OtQe) | 3:48 |
 | 78 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
 | 79 | [Perspectives](https://open.spotify.com/track/5YUTIJlqgDFfgIrf74uT2p) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 3:16 |
 | 80 | [Let Go](https://open.spotify.com/track/0R8tMSvCvkHpiz7DjnBsAw) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Let Go](https://open.spotify.com/album/1IzKxjCQN2dZYpUvTWTQBd) | 3:51 |

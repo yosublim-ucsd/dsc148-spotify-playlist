@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1266303,
+  "num_followers": 1266659,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "I Don't Want To Miss A Thing EP",
         "url": "https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 299723,
       "name": "I Don't Want To Miss A Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 308560,
-      "name": "Cryin'",
-      "url": "https://open.spotify.com/track/4t1fWWJQs5V9YErfsrDslC"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Keep The Faith",
         "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 394400,
       "name": "Bed Of Roses",
       "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 308560,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/4t1fWWJQs5V9YErfsrDslC"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 345733,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "A Decade of Destruction",
         "url": "https://open.spotify.com/album/3jYRtHlssd7nxmOW0mY3l2"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 275212,
       "name": "Gone Away",
       "url": "https://open.spotify.com/track/6WmfUWWGRnE2yPaH0pbqDk"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 345733,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
+        "name": "And Justice for None",
+        "url": "https://open.spotify.com/album/1hMjINqA3UZ1ITb47wizsC"
       },
       "artists": [
         {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 283693,
-      "name": "A Tale That Wasn't Right",
-      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
+      "duration_ms": 274615,
+      "name": "Blue on Black",
+      "url": "https://open.spotify.com/track/0buT7DERYwcKnNanKwbrUc"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
+        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "A Tale That Wasn't Right",
+      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
         "name": "Kings of Metal",
         "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 310733,
       "name": "Heart of Steel",
       "url": "https://open.spotify.com/track/4YXhOackOMOlQTMAwsDHo6"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "And Justice for None",
-        "url": "https://open.spotify.com/album/1hMjINqA3UZ1ITb47wizsC"
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 274615,
-      "name": "Blue on Black",
-      "url": "https://open.spotify.com/track/0buT7DERYwcKnNanKwbrUc"
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Psycho Circus",
-        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "We Are One",
-      "url": "https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Heartbreak Station",
         "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 268840,
       "name": "Heartbreak Station",
       "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Psycho Circus",
+        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Deadwing",
-        "url": "https://open.spotify.com/album/2oQE67Gnc1GoMqoumvjPwN"
-      },
-      "artists": [
-        {
-          "name": "Porcupine Tree",
-          "url": "https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0"
-        }
-      ],
-      "duration_ms": 258586,
-      "name": "Lazarus",
-      "url": "https://open.spotify.com/track/0OtXJQBLb7wPXL2XyN2cFW"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "W.A.S.P.",
         "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 235893,
       "name": "Sleeping (In The Fire)",
       "url": "https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Deadwing",
+        "url": "https://open.spotify.com/album/2oQE67Gnc1GoMqoumvjPwN"
+      },
+      "artists": [
+        {
+          "name": "Porcupine Tree",
+          "url": "https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0"
+        }
+      ],
+      "duration_ms": 258586,
+      "name": "Lazarus",
+      "url": "https://open.spotify.com/track/0OtXJQBLb7wPXL2XyN2cFW"
     },
     {
       "added_at": "2023-02-06 10:03:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Fabe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,589 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,617 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 46 | [Bad Body](https://open.spotify.com/track/3hRfRk5bwhrvHkHIE1KVje) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [W1NDY SEASON](https://open.spotify.com/album/0AMQd51PmhVYbnM3M35dBL) | 2:34 |
 | 47 | [Mä + Sä](https://open.spotify.com/track/3EqXVoA4m7ZXwwH3rbnNXx) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Mä + Sä](https://open.spotify.com/album/0KamvhJfssRJURAfaMSdja) | 2:55 |
 | 48 | [Mama sano](https://open.spotify.com/track/3TIUyJEDQStx0ZweySjCC2) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Mama sano](https://open.spotify.com/album/3zfAYcqEcUxolb0CDRgvx0) | 2:14 |
-| 49 | [Sunkaa](https://open.spotify.com/track/3aIrzifDaeYYfMGrsOFCfw) | [Mjay](https://open.spotify.com/artist/4LyW2oFLhrNAMsNo7QzHE1) | [Sunkaa](https://open.spotify.com/album/2MVJ2vDjZouYEpJMzxNEbL) | 3:14 |
+| 49 | [Sunkaa](https://open.spotify.com/track/3aIrzifDaeYYfMGrsOFCfw) | [Mjay](https://open.spotify.com/artist/21Fg24AS0Cvne0TETQmKSo) | [Sunkaa](https://open.spotify.com/album/2MVJ2vDjZouYEpJMzxNEbL) | 3:14 |
 | 50 | [Aina \- Julma H Remix](https://open.spotify.com/track/2fXkS7KWjPXjuwnOLv6WQJ) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o), [Timo Pieni Huijaus](https://open.spotify.com/artist/3QhMkujlcwd5TqLp4p3KUR), [Loasteeze](https://open.spotify.com/artist/5cWTEtVgv1VNBS9mBdQHOo) | [Aina \(Julma H Remix\)](https://open.spotify.com/album/2DsqHeCJpYTNtc0Yqovp0H) | 3:18 |
 | 51 | [Kortteli \(feat\. Aste, EKI JA RAY & Becki\)](https://open.spotify.com/track/2mCYmOIJxf7CxRVn7Pn4Pz) | [Brädi](https://open.spotify.com/artist/7sffd21zAdar6cigY9A1b7), [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [EKI JA RAY](https://open.spotify.com/artist/5kFA7hu270oNJDL55BDEEp), [Becki](https://open.spotify.com/artist/6510PIQYPEOlw19irLlFmK) | [Kortteli \(feat\. Aste, EKI JA RAY & Becki\)](https://open.spotify.com/album/2AOBCkwqdhf1W8NoIogJhb) | 3:55 |
 | 52 | [Kaikki mitä sanoit](https://open.spotify.com/track/74HITquM008p9aERYIGhBK) | [Koli\-C](https://open.spotify.com/artist/1PugsyLO87Xl7JbaLELlLP), [Färmy](https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi) | [Kaikki mitä sanoit](https://open.spotify.com/album/29zQ7m8gDBKVP87wfyxHTc) | 3:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover:  <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=7476425269ff490a">Pastor Mike Jr.</a>, <a href="https://www.thestellarawards.com/index.html">Stellar Awards'</a> Artist of the Year
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,246 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,306 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 29 | [You Deserve It \(feat\. Bishop Cortez Vaughn\)](https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Bishop Cortez Vaughn](https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP) | 6:05 |
 | 30 | [We Gon’ Be Alright](https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [We Gon’ Be Alright](https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb) | 3:34 |
 | 31 | [Believe For It \- Live](https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:22 |
-| 32 | [Weak](https://open.spotify.com/track/77Ozvyd5Hb2JelgPAefv5I) | [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Jesus Is Born](https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6) | 3:05 |
-| 33 | [Speechless](https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [Worship Soul](https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E) | 6:16 |
+| 32 | [Speechless](https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [Worship Soul](https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E) | 6:16 |
+| 33 | [Weak](https://open.spotify.com/track/77Ozvyd5Hb2JelgPAefv5I) | [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Jesus Is Born](https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6) | 3:05 |
 | 34 | [Unstoppable](https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:13 |
 | 35 | [Thank You For It All](https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thank You For It All](https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl) | 4:24 |
 | 36 | [Love Him Like I Do](https://open.spotify.com/track/5jGyahHaLBcUB1yJ9SY2zH) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Revealed](https://open.spotify.com/album/1WBCOU7em7eF48hAk3i5FD) | 3:18 |

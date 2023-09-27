@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this Cover: Reneé Rapp
 
-576 songs - 1 day 7 hr 46 min
+577 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Bubble Wrap](https://open.spotify.com/track/2xsfclXXIuRsTfLjU6So7l) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Bubble Wrap](https://open.spotify.com/album/5DoZHFFvE7pV7JE7UaLTWD) | 3:06 | 2022-06-24 | 2022-06-28 |
 | [Burning Bridges \- Up Close, Acoustic](https://open.spotify.com/track/2bOCRFFm14IAFAxpL7KKao) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Burning Bridges \(Up Close, Acoustic\)](https://open.spotify.com/album/7iDmvsp438Mr3g1j4unr5F) | 2:48 | 2022-01-07 | 2022-03-12 |
 | [By Now](https://open.spotify.com/track/04FvHQz6oc5RKmM6jcUrSU) | [Fia Moon](https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4) | [By Now](https://open.spotify.com/album/43j2VGSMiVDi3IyCUzhp65) | 3:15 | 2022-03-14 | 2022-04-29 |
-| [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 | 2023-09-15 |  |
+| [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 | 2023-09-15 |  |
 | [Can You Afford To Lose Me?](https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 4:02 | 2022-10-28 | 2023-01-28 |
 | [Car Accident](https://open.spotify.com/track/0fOwJiPxWs5Wp8IggTSYAE) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:33 | 2023-02-11 | 2023-03-04 |
 | [Carry It Well](https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Carry It Well](https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy) | 3:35 | 2022-11-04 | 2023-04-09 |
@@ -283,7 +283,7 @@
 | [i'm sorry](https://open.spotify.com/track/6WVcHr4xidTULfA2GJh2ZR) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [i'm sorry](https://open.spotify.com/album/5aWgEPJqCnnc2wdmMHWc7B) | 3:44 | 2022-10-21 | 2022-12-17 |
 | [I'm trying](https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [I'm trying](https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m) | 2:44 | 2023-05-19 | 2023-09-16 |
 | [if depression gets the best of me](https://open.spotify.com/track/1UHATOi2uLeTk3UHKBwR30) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [if depression gets the best of me](https://open.spotify.com/album/71jFeLyVXVUllf7sMI6mVE) | 3:00 | 2022-01-21 | 2023-08-14 |
-| [if depression gets the best of me](https://open.spotify.com/track/2ha6TmK7Q3mejlvZNQuEBu) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4) | 3:00 | 2023-08-18 |  |
+| [if depression gets the best of me](https://open.spotify.com/track/2ha6TmK7Q3mejlvZNQuEBu) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4) | 3:00 | 2023-08-18 | 2023-09-27 |
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/1vezKKI9PZnHIMFzzDcF6U) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/0ZNj1dzkYUmgDKdL1NRvJI) | 3:18 | 2023-06-16 |  |
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-05-06 | 2023-07-27 |
 | [if you hate me, say it](https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [if you hate me, say it](https://open.spotify.com/album/3SuFmwD5seyB2fgzvJGg8r) | 3:18 | 2021-12-17 | 2022-05-20 |
@@ -410,6 +410,7 @@
 | [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 | 2023-06-16 |  |
 | [One More Shot](https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/0E4WDS5jvqo0AlRtUAeSyM) | 2:21 | 2023-01-20 | 2023-02-15 |
 | [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 | 2023-02-03 | 2023-07-11 |
+| [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 | 2023-09-26 |  |
 | [Over For Real](https://open.spotify.com/track/3VmY28meB22GwWl0L5BxyG) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Over For Real](https://open.spotify.com/album/4B4ozTRKVP1bVQJjsmJaDH) | 2:54 | 2022-06-03 | 2022-06-08 |
 | [Overplayed](https://open.spotify.com/track/650A0ErUKCd1d8Imckr7qV) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Overplayed](https://open.spotify.com/album/7C2ZsCHmkGtHlXb2xCHgWr) | 3:02 | 2021-12-17 | 2022-07-30 |
 | [Pain](https://open.spotify.com/track/1vwTCUJxmGlTuClU5YLfJA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Pain](https://open.spotify.com/album/1gNekazz4PqtPKSkCAORqp) | 3:39 | 2021-12-24 | 2022-06-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxDKMDClcje.md) - [plain]
 
 > Singer, music producer and DJ, <a href="spotify:artist:66VgJGpaRMwrNaS2MPqIDf">Pauline Herr</a> gives us a sample of her ethereal world in her latest mix for Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674 likes - 22 songs - 49 min 58 sec
+[Spotify](https://open.spotify.com/user/spotify) - 680 likes - 22 songs - 49 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

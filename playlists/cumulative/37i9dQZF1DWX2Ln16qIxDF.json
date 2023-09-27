@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 133333,
       "name": "Blunted 7",
       "url": "https://open.spotify.com/track/5Cq2XHE75dhe8dxvP4O6lN"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 141865,
       "name": "Como Yo :(",
       "url": "https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M"
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 144427,
       "name": "DONDE SE APRENDE A QUERER?",
       "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
@@ -2362,7 +2362,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 171428,
       "name": "La Chispa Es Una",
       "url": "https://open.spotify.com/track/7lLc3W3Yb2vGOrkuK0N0XH"
@@ -3430,7 +3430,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 136291,
       "name": "Pal Party",
       "url": "https://open.spotify.com/track/3sWXB7x9mwNkrHD2lFtept"
@@ -3570,7 +3570,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 133607,
       "name": "Peipper | DJ TAO Turreo Sessions #15",
       "url": "https://open.spotify.com/track/52tKOYrwES8h7CIv7KjJd8"
@@ -3962,7 +3962,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 170624,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/7LknbZPcWVDMb6VLDI01MY"
@@ -4247,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "album": {
         "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
         "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
       },
@@ -4511,6 +4529,24 @@
     },
     {
       "album": {
+        "name": "Antes de Ameri",
+        "url": "https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163173,
+      "name": "TROYA",
+      "url": "https://open.spotify.com/track/15dTKnZC0DJhW6Ch9wLNyk"
+    },
+    {
+      "album": {
         "name": "TU AMOR | E7",
         "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
       },
@@ -4618,7 +4654,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 204003,
       "name": "TUUUYO",
       "url": "https://open.spotify.com/track/57WroSoheS9bWCtALlXA1t"
@@ -4696,6 +4732,24 @@
       "duration_ms": 162500,
       "name": "Un Finde | CROSSOVER #2",
       "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
+    },
+    {
+      "album": {
+        "name": "UN PREVIEW",
+        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165582,
+      "name": "UN PREVIEW",
+      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
     },
     {
       "album": {

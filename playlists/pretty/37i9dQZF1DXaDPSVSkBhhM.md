@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,693 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,716 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,19 +39,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 29 | [Nadie Me Entiende](https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Nadie Me Entiende](https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY) | 3:00 |
 | 30 | [Espero Nadie Ocupe Mi Lugar](https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9) | [Camiches](https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA) | [El Bálsamo para los Sabios y los Buenos Perdedores](https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A) | 3:34 |
 | 31 | [Tennessecito](https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Mejores Tiempos](https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE) | 4:12 |
-| 32 | [Ciencia Ficción](https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ) | [Ciencia Ficción](https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG) | 3:44 |
-| 33 | [UNODOCE](https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [UNODOCE](https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd) | 1:13 |
-| 34 | [Llévate Todo](https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5) | [Finde](https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC) | [Volver a Empezar](https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel) | 3:29 |
-| 35 | [Fantasmas](https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW) | [Aurum](https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB) | [Fantasmas](https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ) | 3:36 |
+| 32 | [UNODOCE](https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [UNODOCE](https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd) | 1:13 |
+| 33 | [Llévate Todo](https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5) | [Finde](https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC) | [Volver a Empezar](https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel) | 3:29 |
+| 34 | [Fantasmas](https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW) | [Aurum](https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB) | [Fantasmas](https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ) | 3:36 |
+| 35 | [Ciencia Ficción](https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ) | [Ciencia Ficción](https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG) | 3:44 |
 | 36 | [Disparos](https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Disparos](https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68) | 3:49 |
 | 37 | [Bacardí](https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu) | [Pet Friendly](https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW) | [Bacardí](https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G) | 2:31 |
 | 38 | [Fantasma](https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [CARIBE 4 LIFE](https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK) | 3:26 |
 | 39 | [La Insoportable Levedad del Final](https://open.spotify.com/track/1LMFuo0XbZS3xQHIKtwTle) | [THE SUPUESTOS](https://open.spotify.com/artist/6nrVwZIURyY5RIPp3eXPra) | [La Insoportable Levedad del Final](https://open.spotify.com/album/6qNHPl2FTO7hgeNOO39E4s) | 3:57 |
-| 40 | [15 de Junio](https://open.spotify.com/track/1P9AQNoaDW3F5SThfJ7dUZ) | [Liz Forte](https://open.spotify.com/artist/7GArathIWiQj50qNsBBLN1) | [15 de Junio](https://open.spotify.com/album/4P1ONNbWN12mI1YNxFFQlO) | 2:10 |
-| 41 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
+| 40 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
+| 41 | [15 de Junio](https://open.spotify.com/track/1P9AQNoaDW3F5SThfJ7dUZ) | [Liz Forte](https://open.spotify.com/artist/7GArathIWiQj50qNsBBLN1) | [15 de Junio](https://open.spotify.com/album/4P1ONNbWN12mI1YNxFFQlO) | 2:10 |
 | 42 | [Miedo A Caer \(Opening 3 Latino Sub.amv\)](https://open.spotify.com/track/7JVkWGxZo44Jmrb9hbDIpA) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [CRISIS](https://open.spotify.com/album/1KkuK9uYHUFAgTLFjTpG0R) | 2:54 |
-| 43 | [Conversaciones Con Mi Almohada](https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ), [Fear Allison](https://open.spotify.com/artist/75t1ar10ekAij353mysCMK) | [Autodestrucción](https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR) | 3:54 |
-| 44 | [Un Año](https://open.spotify.com/track/1NvuUQSActakCpCg071n2x) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Año](https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6) | 2:46 |
+| 43 | [Un Año](https://open.spotify.com/track/1NvuUQSActakCpCg071n2x) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Año](https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6) | 2:46 |
+| 44 | [Conversaciones Con Mi Almohada](https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ), [Fear Allison](https://open.spotify.com/artist/75t1ar10ekAij353mysCMK) | [Autodestrucción](https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR) | 3:54 |
 | 45 | [Un X100To \- Cover](https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Un X100To \(Cover\)](https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN) | 2:46 |
 | 46 | [Lugar Especial](https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s) | [Finde](https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC) | [Lugar Especial](https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT) | 3:24 |
 | 47 | [Humanos Como Tú](https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Humanos Como Tú](https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY) | 3:48 |

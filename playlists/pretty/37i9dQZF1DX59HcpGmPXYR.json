@@ -1,6 +1,6 @@
 {
   "description": "The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride. Cover: Sam Smith & Kim Petras",
-  "num_followers": 656721,
+  "num_followers": 656750,
   "original_name": "Pride Party",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 275440,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 214739,
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Heal",
-        "url": "https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 239400,
       "name": "Let's Get Loud",
       "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW"
     },
     {
       "added_at": "2023-06-08 22:01:00",

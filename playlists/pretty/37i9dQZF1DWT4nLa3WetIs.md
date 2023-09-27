@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Celebrating ten years of Burna Boys's Debut Album; Leaving an Impact for Eternity \(LIFE\)\. Cover: Burna boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,668 likes - 40 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,781 likes - 40 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 29 | [Kiss Your Hand \(feat\. Wande Coal\)](https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Da Revolution](https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4) | 4:28 |
 | 30 | [Say So](https://open.spotify.com/track/2ympTJan7fHe3brZ2ZUXEo) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA) | 4:36 |
 | 31 | [African Queen](https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [REWIND\. SELECT\. UPDATE](https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6) | 4:24 |
-| 32 | [Olufunmi](https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB) | 5:20 |
+| 32 | [Godwin](https://open.spotify.com/track/1xMj8OCAN3atp4tcdY4MiM) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Godwin](https://open.spotify.com/album/19NL6cXxKUls7Im7vwhC4T) | 2:59 |
 | 33 | [Like Dat](https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Like Dat](https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM) | 3:20 |
-| 34 | [Godwin](https://open.spotify.com/track/1xMj8OCAN3atp4tcdY4MiM) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Godwin](https://open.spotify.com/album/19NL6cXxKUls7Im7vwhC4T) | 2:59 |
+| 34 | [Olufunmi](https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB) | 5:20 |
 | 35 | [Over The Moon Ft\. K\-Switch](https://open.spotify.com/track/3R963wuVpbDXyzKHUS25Tc) | [Dr SID](https://open.spotify.com/artist/1A1IEvjX2MyuMXDDsSW8sD) | [Turning Point](https://open.spotify.com/album/2FwDRA8NiC7IoaO9V3AH8k) | 3:53 |
 | 36 | [Limpopo](https://open.spotify.com/track/6DX3c5LFsm0sJE8eZezUWu) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Take Over](https://open.spotify.com/album/59Oas92o7LPanTgxcsJTjU) | 4:13 |
 | 37 | [Gongo Aso](https://open.spotify.com/track/2uRYQDCdF76L5YNZflN8qK) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Gongo Aso](https://open.spotify.com/album/4Lkl7erFMkTHWmkdSmEpj3) | 3:36 |
 | 38 | [Dami Duro](https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dami Duro](https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2) | 4:10 |
 | 39 | [Repete](https://open.spotify.com/track/2IgwxE5qvqb6LoP36mHa8G) | [Blackmagic](https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8) | [Blackmagic \(Version 2.0\)](https://open.spotify.com/album/0nepGl4m2TfanN9B9LYZDW) | 3:38 |
-| 40 | [Kele Kele](https://open.spotify.com/track/6leKqvSviIydDluSDB7gQz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:42 |
+| 40 | [Expensive Shit](https://open.spotify.com/track/2yBjFF19OmukrC7deP7LfZ) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Expensive Shit](https://open.spotify.com/album/6zZXBV5eC1oISyUGZFfthw) | 13:13 |
 
 Snapshot ID: `MCw1NTAwYjQ3YzVkNjNmODNlYzIzNjI5MmQyOTYxZDE4MDBlNDMzNDk4`

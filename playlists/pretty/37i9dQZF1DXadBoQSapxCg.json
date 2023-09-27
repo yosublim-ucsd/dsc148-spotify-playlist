@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 302367,
+  "num_followers": 302401,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-06-16 03:00:00",
       "album": {
-        "name": "Contato",
-        "url": "https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        },
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 193971,
-      "name": "Fala",
-      "url": "https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw"
-    },
-    {
-      "added_at": "2023-06-16 03:00:00",
-      "album": {
         "name": "Playlist Transante",
         "url": "https://open.spotify.com/album/5kU7Es6oEU01pfXhkG9YBS"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 197494,
       "name": "Playlist Transante",
       "url": "https://open.spotify.com/track/2qCps28vIziXwOKmici1g7"
+    },
+    {
+      "added_at": "2023-06-16 03:00:00",
+      "album": {
+        "name": "Contato",
+        "url": "https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        },
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 193971,
+      "name": "Fala",
+      "url": "https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw"
     },
     {
       "added_at": "2023-06-16 03:00:00",

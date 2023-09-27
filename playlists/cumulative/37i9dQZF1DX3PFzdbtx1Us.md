@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-276 songs - 10 hr 44 min
+281 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,12 +116,14 @@
 | [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-05-15 |  |
 | [Hoarfrost](https://open.spotify.com/track/035cErPCPOVn4L3USUtBc9) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [20023](https://open.spotify.com/album/32zg3pyWlp7g2lvJ2CN68Z) | 2:31 | 2023-06-19 |  |
 | [Hoarfrost](https://open.spotify.com/track/7raJ9hPFYeCf8o43g176zS) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Hoarfrost](https://open.spotify.com/album/6DaDlbh2nSPJoD3Qj3pjXS) | 2:31 | 2023-05-15 | 2023-07-09 |
+| [I'll Be Around](https://open.spotify.com/track/4UJ8IkZl3qhcRLFdZ9XyY5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [I'll Be Around](https://open.spotify.com/album/2A01x4zvltCBhOa8cpl9mf) | 3:10 | 2023-09-26 |  |
 | [If The Wind Stops \- Calm Version](https://open.spotify.com/track/1IftqSqlnSXAHG6Vahrsuj) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo](https://open.spotify.com/album/7vBWI0VTZ4NPylawx1Eng2) | 4:04 | 2023-09-11 |  |
 | [Incision In The Silence](https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Incision In The Silence](https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN) | 2:09 | 2023-05-15 |  |
 | [Inside the Moon](https://open.spotify.com/track/64vVXe441Mo6VmJJw6Ab2d) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Inside the Moon](https://open.spotify.com/album/30Uqu5fDo3Bjykr8fkuxUD) | 1:45 | 2023-09-11 |  |
 | [Intervention](https://open.spotify.com/track/4fIU735WMN6QXZKysQkbop) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [KEEN: Soft Piano Vol\. 2](https://open.spotify.com/album/2ZgUoWirpgNlnnEYOKDXpT) | 2:19 | 2022-07-05 | 2022-11-13 |
 | [Intervention](https://open.spotify.com/track/5w8M2WZDLoFwycrmB3QfBm) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [Fractions](https://open.spotify.com/album/5ZVtZ3m4nZBoc0R2paTrKc) | 2:19 | 2021-06-27 | 2022-07-29 |
 | [Intervention](https://open.spotify.com/track/6MDfWbNJYTqkS7uvJeq0Hq) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [Fractions](https://open.spotify.com/album/4bOm72QuKbzeeo0HBHpD1a) | 2:19 | 2022-07-05 | 2023-05-16 |
+| [Into the Lights!](https://open.spotify.com/track/6kw9ZXP2MRg47APXPeWuEH) | [Velt](https://open.spotify.com/artist/4PlpRJa8q0CVyvDQnIym7p) | [Into the Lights!](https://open.spotify.com/album/4WXLAkHw55c6sZEqgPIK1e) | 3:55 | 2023-09-26 |  |
 | [Iris](https://open.spotify.com/track/0D5YPSKMbCvMdlMQpzdSzz) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Iris](https://open.spotify.com/album/0g3IMaraB7gFx6CKCYre8x) | 2:25 | 2023-05-15 |  |
 | [Irises](https://open.spotify.com/track/7azMv5J7HgganI20NqKa9P) | [Jenna Zabrosky](https://open.spotify.com/artist/3UWLIPhm28PKVe5Nun7yf7) | [Irises](https://open.spotify.com/album/4JBuho1GiboA519o6hz6Wd) | 2:57 | 2023-05-15 |  |
 | [IX...like a calm and careless morning](https://open.spotify.com/track/2pbc6fHU2RkFwIaA1PMUbr) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [XII...with the full weight of love](https://open.spotify.com/album/40g96ULP7Y2FrXRAyw8nYQ) | 2:14 | 2023-05-15 | 2023-06-24 |
@@ -171,12 +173,14 @@
 | [Morning Frost](https://open.spotify.com/track/62lauFlgnyCxmKnCrdXHBj) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [Morning Frost](https://open.spotify.com/album/22tSnBD38TgaLWbMzbfNXM) | 1:52 | 2023-06-19 | 2023-08-16 |
 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 | 2023-07-24 |  |
 | [Música De La Montaña](https://open.spotify.com/track/7mzc35QkCyOX2vvFaO0CEY) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [Música De La Montaña](https://open.spotify.com/album/7pJy6qLcQVxYYJ1bQXmCM4) | 1:59 | 2023-06-19 | 2023-08-16 |
+| [Narrative](https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS) | [Emma Richter](https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR) | [Narrative](https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH) | 3:02 | 2023-09-26 |  |
 | [Nascondiglio](https://open.spotify.com/track/3e8DQgRVImwkDYrJJEh9xO) | [Giovanna Petrini](https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb) | [Nascondiglio](https://open.spotify.com/album/0TRLxuQkDGaKoJEYOmCNMr) | 1:57 | 2023-05-15 | 2023-08-16 |
 | [Never Give In](https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Never Give In](https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY) | 3:05 | 2023-05-15 |  |
 | [Next](https://open.spotify.com/track/3YNbisxUYGwvlqlGYoa0fo) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [Finding Rain](https://open.spotify.com/album/6FSHR1O0FVsANtmPMWINB8) | 2:08 | 2021-06-27 | 2022-07-29 |
 | [Next](https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [Finding Rain](https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq) | 2:14 | 2022-07-05 | 2023-05-16 |
 | [Night Dive](https://open.spotify.com/track/11WOlDMShdSUaqgWY7g0aZ) | [Aro Aro](https://open.spotify.com/artist/3vu7Ij17FpvXQcwn3HlYci) | [Night Dive](https://open.spotify.com/album/1UD8U6n2uHCU823C7JoAxr) | 3:00 | 2021-06-27 | 2023-05-16 |
 | [Nightwalk](https://open.spotify.com/track/38eJFgnWP7EfqIsuvNj90w) | [Charly Martin](https://open.spotify.com/artist/0hO3nAl0tbOlhLN99WasSE) | [Nightwalk](https://open.spotify.com/album/6KGw2zORWawBHERxGGjVMG) | 3:21 | 2023-08-15 |  |
+| [No Goodbye](https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [No Goodbye](https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL) | 2:24 | 2023-09-26 |  |
 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-05-15 |  |
 | [Nothingness Began Slowly](https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Nothingness Began Slowly](https://open.spotify.com/album/35HuYT7YxzpZUeCSOaLzac) | 1:59 | 2023-05-15 | 2023-08-16 |
 | [Now](https://open.spotify.com/track/2jFfDGcVzMONceohrF4Jre) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [The Giant](https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU) | 3:02 | 2021-06-27 | 2023-05-16 |
@@ -272,6 +276,7 @@
 | [Trust](https://open.spotify.com/track/1iRrLvRjllhC2zCTNeNoqW) | [Martin Herzberg](https://open.spotify.com/artist/0G0i5Fk40ZZ6JylmVT4rsu), [Rubin Henkel](https://open.spotify.com/artist/097BWrWlRc3ADrPFarUVmP) | [Liebe & Tasten](https://open.spotify.com/album/01zK27YlZXwzlf486jjZZt) | 5:25 | 2021-06-27 | 2022-07-29 |
 | [Trust](https://open.spotify.com/track/2pjQWze8GykFggjtw6ADiY) | [Martin Herzberg](https://open.spotify.com/artist/0G0i5Fk40ZZ6JylmVT4rsu), [Rubin Henkel](https://open.spotify.com/artist/097BWrWlRc3ADrPFarUVmP) | [Liebe & Tasten](https://open.spotify.com/album/7EBMkyhjrIbB9BY75EDEOd) | 5:25 | 2022-07-05 | 2023-05-16 |
 | [Unconditional](https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Unconditional](https://open.spotify.com/album/1uy7xtQ94KNqMtQnr2KNCO) | 2:24 | 2023-05-15 |  |
+| [Unexpected Journey](https://open.spotify.com/track/6HgXeN1ZnCxTJshHSK73z9) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Unexpected Journey](https://open.spotify.com/album/7G4UfvLMGm1QheYzzWrupS) | 2:42 | 2023-09-26 |  |
 | [Untextured Sighs](https://open.spotify.com/track/2DfFinSzRS5nwkya1xdHaH) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Untextured Sighs](https://open.spotify.com/album/7axKO0cbma2inHc4wJFg4o) | 2:38 | 2023-05-15 |  |
 | [Unwind](https://open.spotify.com/track/3OkgEgwg2ju4JcPDJxVDUY) | [Samuel Meadow](https://open.spotify.com/artist/7yNqNp5N9rCZJLcJPxDHHS) | [Clarity](https://open.spotify.com/album/4gwIzFYM5sKgPPeLIG5AP9) | 3:42 | 2021-06-27 | 2023-05-16 |
 | [Utsjoki](https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Utsjoki](https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT) | 2:23 | 2023-05-15 |  |

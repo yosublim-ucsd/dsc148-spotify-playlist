@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 224000,
       "name": "1st Soundscape",
       "url": "https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm"
@@ -5014,7 +5014,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 228333,
       "name": "Lwonesome Tonight",
       "url": "https://open.spotify.com/track/6Yhk3snL6uYrbzIjU4xKzI"
@@ -6708,7 +6708,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 177635,
       "name": "Reflexion",
       "url": "https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn"
@@ -10580,6 +10580,24 @@
       "duration_ms": 311059,
       "name": "\u714c\u3081\u304f - feat.AAAMYYY",
       "url": "https://open.spotify.com/track/7k5YjdvUH1siAzc7GEODy2"
+    },
+    {
+      "album": {
+        "name": "\u74b0\u4e16\u754c",
+        "url": "https://open.spotify.com/album/1rmcQrDcx2Iqy6Fxd3whut"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253577,
+      "name": "\u74b0\u4e16\u754c",
+      "url": "https://open.spotify.com/track/7GnjAtmBx6YSnnuOks4U3C"
     },
     {
       "album": {

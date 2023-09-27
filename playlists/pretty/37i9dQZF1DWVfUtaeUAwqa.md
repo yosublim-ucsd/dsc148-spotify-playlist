@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,419 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,418 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 33 | [Weary Blues](https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ) | [Sidney Bechet's Blue Note Jazzmen](https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt) | [Triple Best Of](https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY) | 2:53 |
 | 34 | [Ring On Her Fingers](https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI) | [Dixieland Band](https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E) | [Kings Of Dixieland](https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71) | 2:19 |
 | 35 | [Royal Garden Blues](https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [The Dukes At Disneyland](https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB) | 6:02 |
-| 36 | [Old Time Religion](https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir) | [Papa Celestin](https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx) | [Marie Laveau](https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw) | 3:19 |
-| 37 | [Roses of Picardy](https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar) | [George Girard](https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud), [Stanley Mendelson](https://open.spotify.com/artist/5JJlaaIvTD9K58QNw8nBFG), [Johnny Senac](https://open.spotify.com/artist/1996CQ5it5fbdZQMLZu3e0), [Abbie Brunies](https://open.spotify.com/artist/2KeWtakcNFeypauMJeqxcI), [Raymond Burke](https://open.spotify.com/artist/1k9qij2IWERN0mwiWfwynE), [Jack Delaney](https://open.spotify.com/artist/2F1gi8KBOgDVX4oRbes9bU) | [George Girard's Band](https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr) | 2:59 |
-| 38 | [Bugle Boy March](https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx) | 5:15 |
+| 36 | [Bugle Boy March](https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx) | 5:15 |
+| 37 | [Old Time Religion](https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir) | [Papa Celestin](https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx) | [Marie Laveau](https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw) | 3:19 |
+| 38 | [Roses of Picardy](https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar) | [George Girard](https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud), [Stanley Mendelson](https://open.spotify.com/artist/5JJlaaIvTD9K58QNw8nBFG), [Johnny Senac](https://open.spotify.com/artist/1996CQ5it5fbdZQMLZu3e0), [Abbie Brunies](https://open.spotify.com/artist/2KeWtakcNFeypauMJeqxcI), [Raymond Burke](https://open.spotify.com/artist/1k9qij2IWERN0mwiWfwynE), [Jack Delaney](https://open.spotify.com/artist/2F1gi8KBOgDVX4oRbes9bU) | [George Girard's Band](https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr) | 2:59 |
 | 39 | [Livery Stable Blues \(Barnyard Blues\)](https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 3:01 |
 | 40 | [While We Danced at Mardi Gras](https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d) | [Sharkey Bonano](https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM) | [Mardi Gras Parade Music from New Orleans](https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o) | 4:45 |
 | 41 | [Lassa's Trombone](https://open.spotify.com/track/40GGKzPCqYCqhydSjk3d6Y) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [The Best Of Dixieland Volume 2](https://open.spotify.com/album/1RB0fpiwqDNTEn6OECBiTV) | 2:47 |

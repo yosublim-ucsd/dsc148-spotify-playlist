@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Restaurant style background music for chill dinner ambiance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,388 likes - 190 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,413 likes - 190 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

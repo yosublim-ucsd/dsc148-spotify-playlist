@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPj9VuIP3Gq.md) - [plain]
 
 > Dale play y llénate de nostalgia con estas canciones inolvidables\. En portada: Shakira \#DiaDeShakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,793 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,860 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

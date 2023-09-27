@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb?si=a\_XM\-zwDQRihgQVYS\-dXUQ"> Crayon </a>  and <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=huFuBlX4QaCPC1BXi\_yOsA"> Ayra Starr </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,456,388 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,457,019 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

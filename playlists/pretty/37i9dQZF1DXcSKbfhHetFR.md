@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,138 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,140 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 37 | [Poney](https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh) | [Pépé et sa guitare](https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV) | [100% boeuf](https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG) | 4:11 |
 | 38 | [Joyeus'ment désespéré](https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA) | [La Chango Family](https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8) | [La Chango Family](https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd) | 3:26 |
 | 39 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
-| 40 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 |
-| 41 | [Le teint de Linda](https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Le Chihuahua](https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe) | 4:39 |
+| 40 | [Le teint de Linda](https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Le Chihuahua](https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe) | 4:39 |
+| 41 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 |
 | 42 | [Gwen et les rats](https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [l'amour la haine les animaux les automobiles](https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW) | 3:08 |
 | 43 | [Fuck'n'shit baby love!](https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx) | [Le Karlof Orchestra](https://open.spotify.com/artist/7KntwuIhLLYTksaejy4b7z) | [Fuck'n'shit baby love!](https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i) | 2:07 |
 | 44 | [Laissez venir à moi les grandes brunes](https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB) | [Le Nombre](https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d) | [Le Nombre](https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > ¡Con sabor y perrenque, aquí está lo mejor de "la tierra de los mil ritmos"! En portada: Shakira\. \#DiaDeShakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,735 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,844 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

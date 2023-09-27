@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-201 songs - 12 hr 36 min
+202 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Georgia Drumbeat](https://open.spotify.com/track/4y5qy3U22W30TUX4hutV5d) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Prospect Hill: The American Songster Omnibus](https://open.spotify.com/album/5616zmHV1bAxmnpM9v2bsU) | 2:50 | 2022-05-16 |  |
 | [Going Where the Lonely Go](https://open.spotify.com/track/1obqA76qNSGEnN4kTafsQw) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 4:10 | 2021-11-19 | 2022-07-29 |
 | [Going Where The Lonely Go](https://open.spotify.com/track/4MTpZs4wIJ4SpqMkh0CMuJ) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:10 | 2022-05-16 |  |
-| [Gold \- Audiotree Live Version](https://open.spotify.com/track/4uhEjM1u1Mh2Dxze7eseC4) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Penny and Sparrow on Audiotree Live](https://open.spotify.com/album/4Ain8ns95BURYlX02sM3H2) | 4:07 | 2021-11-19 |  |
+| [Gold \- Audiotree Live Version](https://open.spotify.com/track/4uhEjM1u1Mh2Dxze7eseC4) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Penny and Sparrow on Audiotree Live](https://open.spotify.com/album/4Ain8ns95BURYlX02sM3H2) | 4:07 | 2021-11-19 | 2023-09-27 |
+| [Gold \- Audiotree Live Version](https://open.spotify.com/track/6wYPW25oVorYqaZBTw1n8Q) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Penny and Sparrow on Audiotree Live](https://open.spotify.com/album/60M5DV44tvrN67gQL6RjWI) | 4:07 | 2023-09-08 |  |
 | [Goodbye, Honey, You Call That Gone](https://open.spotify.com/track/74KdVnlCyEqUod4bti2GBc) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Spider Tales](https://open.spotify.com/album/3S2GACXwN1hHxSKHxkGvKb) | 2:10 | 2021-11-19 |  |
 | [Hands for the Harvest](https://open.spotify.com/track/6phbZ3XdpEPzmye2NNrDt9) | [H.C\. McEntire](https://open.spotify.com/artist/223IvfSnge3qiGcDMHk2e4) | [Eno Axis](https://open.spotify.com/album/3jPpqSXDrFVsZeFTmRRE00) | 4:17 | 2022-05-16 |  |
 | [Hands for the Harvest](https://open.spotify.com/track/7Dkw3j1rlDRf5qlQs1Qthw) | [H.C\. McEntire](https://open.spotify.com/artist/223IvfSnge3qiGcDMHk2e4) | [Eno Axis](https://open.spotify.com/album/17pqCR4Q5CInYKj4VizvD8) | 4:17 | 2021-11-19 | 2022-07-29 |

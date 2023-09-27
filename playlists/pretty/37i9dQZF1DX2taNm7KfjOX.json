@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Mitski",
-  "num_followers": 805641,
+  "num_followers": 805709,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Ready or Not (feat. Sierra Ferrell)",
-        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 192901,
-      "name": "Ready or Not (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -671,18 +667,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+        "name": "Ready or Not (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 259592,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+      "duration_ms": 192901,
+      "name": "Ready or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -763,6 +763,42 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "yeti",
+        "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        },
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 252152,
+      "name": "yeti",
+      "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -791,38 +827,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
+        "name": "Will Anybody Ever Love Me?",
+        "url": "https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1"
       },
       "artists": [
         {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "yeti",
-        "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        },
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 252152,
-      "name": "yeti",
-      "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
+      "duration_ms": 289897,
+      "name": "So You Are Tired",
+      "url": "https://open.spotify.com/track/0BjU4kaYvJPjRIQqdxtNom"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -887,22 +903,6 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Will Anybody Ever Love Me?",
-        "url": "https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 289897,
-      "name": "So You Are Tired",
-      "url": "https://open.spotify.com/track/0BjU4kaYvJPjRIQqdxtNom"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Fruit from the Trees",
         "url": "https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 296929,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "You and Me for Now",
+        "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
+      },
+      "artists": [
+        {
+          "name": "Austin Basham",
+          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
+        }
+      ],
+      "duration_ms": 256680,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Th\u00e9r\u00e8se",
         "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "You and Me for Now",
-        "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
-      },
-      "artists": [
-        {
-          "name": "Austin Basham",
-          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
-        }
-      ],
-      "duration_ms": 256680,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "and we\u2019ll leave it there\u2026",
+        "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Ella McRobb",
+          "url": "https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "and we\u2019ll leave it there\u2026",
+      "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Projections",
         "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 174773,
       "name": "Faith Healer",
       "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "and we\u2019ll leave it there\u2026",
-        "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Ella McRobb",
-          "url": "https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "and we\u2019ll leave it there\u2026",
-      "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Hidden Hollow, Vol. One - Singles",
-        "url": "https://open.spotify.com/album/5g87k21hmJs58l0iRfUwoq"
-      },
-      "artists": [
-        {
-          "name": "Radical Face",
-          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
-        }
-      ],
-      "duration_ms": 248385,
-      "name": "The Missing Road",
-      "url": "https://open.spotify.com/track/1RBEBRUKdXKFKILSHkbQFa"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Set the House on Fire",
         "url": "https://open.spotify.com/album/4jmVTmCZC64dy09Cg14Ujk"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 218280,
       "name": "House by the Sea",
       "url": "https://open.spotify.com/track/34Qk1WJ2ukktGOCNcRzxus"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Hidden Hollow, Vol. One - Singles",
+        "url": "https://open.spotify.com/album/5g87k21hmJs58l0iRfUwoq"
+      },
+      "artists": [
+        {
+          "name": "Radical Face",
+          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
+        }
+      ],
+      "duration_ms": 248385,
+      "name": "The Missing Road",
+      "url": "https://open.spotify.com/track/1RBEBRUKdXKFKILSHkbQFa"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252454,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -1987,18 +2003,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+        "name": "Henry St.",
+        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 252454,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+      "duration_ms": 215280,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2015,22 +2031,6 @@
       "duration_ms": 251656,
       "name": "Eye of the Canyon",
       "url": "https://open.spotify.com/track/2dd8AouAUzOXkoeGYj5KXA"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Henry St.",
-        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Younger & Dumber",
-        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 279040,
-      "name": "Younger & Dumber",
-      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -2155,18 +2139,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+        "name": "Younger & Dumber",
+        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
       },
       "artists": [
         {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
         }
       ],
-      "duration_ms": 300586,
-      "name": "Cool Dry Place",
-      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
+      "duration_ms": 279040,
+      "name": "Younger & Dumber",
+      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2187,18 +2171,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Bad Moves",
-        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
       "artists": [
         {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
         }
       ],
-      "duration_ms": 246800,
-      "name": "Bad Moves",
-      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2239,6 +2223,38 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Bad Moves",
+        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Bad Moves",
+      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Exploding",
+        "url": "https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 241712,
+      "name": "Exploding",
+      "url": "https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "A Month Or Two",
         "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
       },
@@ -2251,22 +2267,6 @@
       "duration_ms": 191226,
       "name": "A Month Or Two",
       "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Bedouine (Deluxe)",
-        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Nice and Quiet",
-      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Bedouine (Deluxe)",
+        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Nice and Quiet",
+      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -2319,22 +2335,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 174465,
-      "name": "It's Infinite",
-      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -2347,6 +2347,22 @@
       "duration_ms": 179280,
       "name": "Halloween Store",
       "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 174465,
+      "name": "It's Infinite",
+      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2383,6 +2399,22 @@
       "duration_ms": 252816,
       "name": "Used",
       "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Ultrapure",
+        "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Sink;Swim",
+      "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2475,22 +2507,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 275662,
-      "name": "Life According To Raechel - Spotify Single",
-      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Sundowner",
         "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
       },
@@ -2507,18 +2523,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Exploding",
-        "url": "https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
       "artists": [
         {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 241712,
-      "name": "Exploding",
-      "url": "https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf"
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2543,22 +2559,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Leftovers",
-        "url": "https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK"
-      },
-      "artists": [
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
-        }
-      ],
-      "duration_ms": 158208,
-      "name": "Dyan",
-      "url": "https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD"
       },
@@ -2575,18 +2575,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Eyes Wide Open (From \"North Star\")",
-        "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
+        "name": "Leftovers",
+        "url": "https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
         }
       ],
-      "duration_ms": 195840,
-      "name": "Eyes Wide Open - From \"North Star\"",
-      "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
+      "duration_ms": 158208,
+      "name": "Dyan",
+      "url": "https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR"
     }
   ],
   "unique_name": "Infinite Indie Folk",

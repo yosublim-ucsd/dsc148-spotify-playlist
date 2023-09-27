@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Una selezione speciale a cura di <a href="spotify:artist:6jLkAhKbd3toZ58ri9NQrV">Francesca Gaza</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,088 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,136 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

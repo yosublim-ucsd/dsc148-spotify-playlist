@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE?si=WqKJk6IgSLq3ymoTb4T59Q">Miel San Marcos</a> y <a href="https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m?si=EJdRgFjpQo6stbxUb9cvkQ">Chris Tomlin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,266 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,390 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

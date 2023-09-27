@@ -1,6 +1,6 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"https://www.thestellarawards.com/index.html\">Stellar Award</a> winning artist <a href=\"https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e\">Pastor Mike Jr.</a>.",
-  "num_followers": 60650,
+  "num_followers": 60714,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
-      },
-      "artists": [
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        }
-      ],
-      "duration_ms": 211203,
-      "name": "Positive",
-      "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "When I Pray",
         "url": "https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 221915,
       "name": "When I Pray",
       "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 211203,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "The Divide",
+        "url": "https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx"
+      },
+      "artists": [
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "duration_ms": 193385,
+      "name": "The Divide",
+      "url": "https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "Look Up to the Sky",
         "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 173522,
       "name": "Look Up to the Sky",
       "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "The Divide",
-        "url": "https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx"
-      },
-      "artists": [
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
-        }
-      ],
-      "duration_ms": 193385,
-      "name": "The Divide",
-      "url": "https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        }
-      ],
-      "duration_ms": 154970,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "New Me",
         "url": "https://open.spotify.com/album/3HxJp2yggz9PmJAMV7kem2"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 166000,
       "name": "New Me",
       "url": "https://open.spotify.com/track/6brsm8V6sd9YhiWs8NqzoD"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 154970,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Take Me to the Fire",
-        "url": "https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 182552,
-      "name": "Take Me to the Fire",
-      "url": "https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "Ese",
         "url": "https://open.spotify.com/album/4tRwplns0Oy4hQZsoVQWdR"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 157881,
       "name": "Ese",
       "url": "https://open.spotify.com/track/7lNo5JKa9o3Z7hFCnLoJWu"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Take Me to the Fire",
+        "url": "https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 182552,
+      "name": "Take Me to the Fire",
+      "url": "https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Blues and Roses",
-        "url": "https://open.spotify.com/album/1ZFR3JEObwGawMRnvj2ZDY"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 145725,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/0QvZBcImFtSlNrWgUQeChr"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "Welcome to Faith City",
         "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 285106,
       "name": "Jesus (feat. Le'andria Johnson)",
       "url": "https://open.spotify.com/track/3Fw9sLyTKHYpRISAWCgvY1"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Blues and Roses",
+        "url": "https://open.spotify.com/album/1ZFR3JEObwGawMRnvj2ZDY"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 145725,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/0QvZBcImFtSlNrWgUQeChr"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
-      },
-      "artists": [
-        {
-          "name": "Kennis Clark",
-          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "Take It",
         "url": "https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ"
       },
@@ -1303,6 +1287,38 @@
       "duration_ms": 155400,
       "name": "Take It",
       "url": "https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
+      },
+      "artists": [
+        {
+          "name": "Kennis Clark",
+          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Ultimate Self",
+        "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
+      },
+      "artists": [
+        {
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Ultimate Self",
+      "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Ultimate Self",
-        "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
-      },
-      "artists": [
-        {
-          "name": "Lani Rose",
-          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Ultimate Self",
-      "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "The Invitation",
         "url": "https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg"
       },
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Breakthrough: The Exodus (Live)",
-        "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
-      },
-      "artists": [
-        {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
-        }
-      ],
-      "duration_ms": 518057,
-      "name": "All Of My Help - Live",
-      "url": "https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "Won't Be Long Now",
         "url": "https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 195541,
       "name": "Won't Be Long Now",
       "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Breakthrough: The Exodus (Live)",
+        "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
+      },
+      "artists": [
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        }
+      ],
+      "duration_ms": 518057,
+      "name": "All Of My Help - Live",
+      "url": "https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1439,6 +1439,38 @@
       "duration_ms": 184973,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 185382,
+      "name": "Blak Sheep Freestyle",
+      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        }
+      ],
+      "duration_ms": 397297,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1471,18 +1503,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+        "name": "The Family Album",
+        "url": "https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo"
       },
       "artists": [
         {
-          "name": "Bri Babineaux",
-          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+          "name": "RED Hands",
+          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
         }
       ],
-      "duration_ms": 397297,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
+      "duration_ms": 283311,
+      "name": "YOUR WILL",
+      "url": "https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1499,38 +1531,6 @@
       "duration_ms": 290237,
       "name": "HOLY GHOST",
       "url": "https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 185382,
-      "name": "Blak Sheep Freestyle",
-      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "The Family Album",
-        "url": "https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo"
-      },
-      "artists": [
-        {
-          "name": "RED Hands",
-          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
-        }
-      ],
-      "duration_ms": 283311,
-      "name": "YOUR WILL",
-      "url": "https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "What?",
+        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
+      },
+      "artists": [
+        {
+          "name": "Reece Lache",
+          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
+        }
+      ],
+      "duration_ms": 132472,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "Welcome to Faith City",
         "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
@@ -1631,6 +1647,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Yellow Soul",
+        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Yellow Soul",
+      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "NO WORRIES",
         "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
       },
@@ -1647,38 +1679,6 @@
       "duration_ms": 212615,
       "name": "NO WORRIES",
       "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "What?",
-        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
-      },
-      "artists": [
-        {
-          "name": "Reece Lache",
-          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
-        }
-      ],
-      "duration_ms": 132472,
-      "name": "What?",
-      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Yellow Soul",
-        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Yellow Soul",
-      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
     },
     {
       "added_at": "2023-07-13 07:29:04",

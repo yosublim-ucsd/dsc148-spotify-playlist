@@ -4,7 +4,7 @@
 
 > Musiquita riqui para chillear y echarla junto a la piscina.
 
-125 songs - 8 hr 23 min
+126 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [nice 2 me](https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [nice 2 me](https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT) | 2:51 | 2023-05-26 |  |
 | [Okay Okay](https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:18 | 2023-03-20 |  |
 | [On The Cloud](https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [On the Cloud](https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG) | 1:51 | 2023-03-20 |  |
+| [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-08-14 |  |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-07 | 2023-06-18 |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-07 | 2023-09-26 |
 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 | 2023-03-20 |  |
@@ -106,7 +107,7 @@
 | [Sauvage](https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Sauvage](https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt) | 5:31 | 2023-05-09 | 2023-07-30 |
 | [Secrets \(Your Fire\)](https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:05 | 2023-03-20 |  |
 | [Segrados Do Samba](https://open.spotify.com/track/1QXImka15rUVwpakYivJ70) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD) | [Jogar](https://open.spotify.com/album/3I7vdWnYNdlyvnNnYVQRUJ) | 4:19 | 2023-03-20 |  |
-| [Shadows](https://open.spotify.com/track/0FNC6hGhHNFHOpqLfhEbTd) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Young Romance \(Deluxe\)](https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg) | 4:26 | 2023-08-14 |  |
+| [Shadows](https://open.spotify.com/track/0FNC6hGhHNFHOpqLfhEbTd) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Young Romance \(Deluxe\)](https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg) | 4:26 | 2023-08-14 | 2023-09-27 |
 | [Shinjuku Strut](https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Hustler's Lullaby](https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z) | 5:14 | 2023-03-20 |  |
 | [Si Te Portas Bonito](https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 5:01 | 2023-07-28 |  |
 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 | 2023-03-20 |  |

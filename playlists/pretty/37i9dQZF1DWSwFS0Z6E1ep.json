@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 226282,
+  "num_followers": 226366,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,26 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Sings Hank Williams",
+        "url": "https://open.spotify.com/album/0X7AlTPtEDf0Kv1QqYQwlU"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "duration_ms": 168554,
+      "name": "Folsom Prison Blues",
+      "url": "https://open.spotify.com/track/121sjkub4p4zcFNozkKnQD"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Rockin' With Danny And The Juniors (Expanded Edition)",
         "url": "https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq"
       },
@@ -723,22 +743,6 @@
       "duration_ms": 150866,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "The Best Of The Clovers (Love Potion No. 9)",
-        "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
-      },
-      "artists": [
-        {
-          "name": "The Clovers",
-          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
-        }
-      ],
-      "duration_ms": 113200,
-      "name": "Love Potion No. 9 - Remastered / Single Version",
-      "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -759,22 +763,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sings Hank Williams",
-        "url": "https://open.spotify.com/album/0X7AlTPtEDf0Kv1QqYQwlU"
+        "name": "The Best Of The Clovers (Love Potion No. 9)",
+        "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "The Tennessee Two",
-          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+          "name": "The Clovers",
+          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
         }
       ],
-      "duration_ms": 168554,
-      "name": "Folsom Prison Blues",
-      "url": "https://open.spotify.com/track/121sjkub4p4zcFNozkKnQD"
+      "duration_ms": 113200,
+      "name": "Love Potion No. 9 - Remastered / Single Version",
+      "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -843,26 +843,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Buddy Holly",
-        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        },
-        {
-          "name": "The Crickets",
-          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
-        }
-      ],
-      "duration_ms": 109960,
-      "name": "Rave On",
-      "url": "https://open.spotify.com/track/33aYzW5ToRjiFOzkubeJ8H"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Buddy Holly",
+        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        },
+        {
+          "name": "The Crickets",
+          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
+        }
+      ],
+      "duration_ms": 109960,
+      "name": "Rave On",
+      "url": "https://open.spotify.com/track/33aYzW5ToRjiFOzkubeJ8H"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "All I Have to Do Is Dream",
+        "url": "https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 142906,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/6OPMgzdjWaxR0P8mCql03S"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Rockin' The Joint",
         "url": "https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 167840,
       "name": "Boppin' The Blues",
       "url": "https://open.spotify.com/track/0wNnwLgq5N9lWYib8eUnu6"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "All I Have to Do Is Dream",
-        "url": "https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 142906,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/6OPMgzdjWaxR0P8mCql03S"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Flyin' Saucers Rock & Roll / I Want You Baby",
-        "url": "https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS"
-      },
-      "artists": [
-        {
-          "name": "Billy Lee Riley",
-          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
-        }
-      ],
-      "duration_ms": 122108,
-      "name": "Flyin' Saucers Rock & Roll",
-      "url": "https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockin' The Joint",
         "url": "https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 138986,
       "name": "New Rock The Joint",
       "url": "https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Flyin' Saucers Rock & Roll / I Want You Baby",
+        "url": "https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "duration_ms": 122108,
+      "name": "Flyin' Saucers Rock & Roll",
+      "url": "https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "I Need a Man / No Matter Who's to Blame",
-        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
-      },
-      "artists": [
-        {
-          "name": "Barbara Pittman",
-          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
-        }
-      ],
-      "duration_ms": 172140,
-      "name": "I Need a Man",
-      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "20 Best of Doo Wop",
         "url": "https://open.spotify.com/album/7q4HXnmWEyMJLQIqnGZTH5"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 138776,
       "name": "Ain't Got No Home - Rerecorded",
       "url": "https://open.spotify.com/track/635WSqOORhDgO8sWWEoGen"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "I Need a Man / No Matter Who's to Blame",
+        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pittman",
+          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
+        }
+      ],
+      "duration_ms": 172140,
+      "name": "I Need a Man",
+      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records- Boogie BBQ",
-        "url": "https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT"
-      },
-      "artists": [
-        {
-          "name": "Johnny O'Neal",
-          "url": "https://open.spotify.com/artist/0GCJ4kJKmHuLJw6goEKAP2"
-        }
-      ],
-      "duration_ms": 157446,
-      "name": "Ugly Woman",
-      "url": "https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Something for Nothing / Little Fine Healthy Thing",
         "url": "https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 153627,
       "name": "Little Fine Healthy Thing",
       "url": "https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sun Records- Boogie BBQ",
+        "url": "https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT"
+      },
+      "artists": [
+        {
+          "name": "Johnny O'Neal",
+          "url": "https://open.spotify.com/artist/0GCJ4kJKmHuLJw6goEKAP2"
+        }
+      ],
+      "duration_ms": 157446,
+      "name": "Ugly Woman",
+      "url": "https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2007,18 +2007,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - Rockabilly Archive",
-        "url": "https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL"
+        "name": "Marty: A Lifetime In Music 1957-2019",
+        "url": "https://open.spotify.com/album/0NKAdbK2bWipMLHfeGRw6s"
       },
       "artists": [
         {
-          "name": "Dean Beard",
-          "url": "https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5"
+          "name": "Marty Wilde",
+          "url": "https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN"
         }
       ],
-      "duration_ms": 139181,
-      "name": "Rock Around The Town",
-      "url": "https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh"
+      "duration_ms": 140533,
+      "name": "A Teenager In Love",
+      "url": "https://open.spotify.com/track/4817x5vTdyiguUlzk5NAoO"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2055,18 +2055,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Marty: A Lifetime In Music 1957-2019",
-        "url": "https://open.spotify.com/album/0NKAdbK2bWipMLHfeGRw6s"
+        "name": "Sun Records - Rockabilly Archive",
+        "url": "https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL"
       },
       "artists": [
         {
-          "name": "Marty Wilde",
-          "url": "https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN"
+          "name": "Dean Beard",
+          "url": "https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5"
         }
       ],
-      "duration_ms": 140533,
-      "name": "A Teenager In Love",
-      "url": "https://open.spotify.com/track/4817x5vTdyiguUlzk5NAoO"
+      "duration_ms": 139181,
+      "name": "Rock Around The Town",
+      "url": "https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2119,18 +2119,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Cliff: Cliff Sings",
-        "url": "https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er"
+        "name": "Little Bitty Pretty One",
+        "url": "https://open.spotify.com/album/4nYxAqSN5IKtwX1E1wJtTO"
       },
       "artists": [
         {
-          "name": "Cliff Richard & The Drifters",
-          "url": "https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b"
+          "name": "Thurston Harris",
+          "url": "https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT"
+        },
+        {
+          "name": "The Sharps",
+          "url": "https://open.spotify.com/artist/6ML5oUVCtIT9xBele6LLMn"
         }
       ],
-      "duration_ms": 138133,
-      "name": "Move It - Live; 1998 Remaster",
-      "url": "https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA"
+      "duration_ms": 142453,
+      "name": "Little Bitty Pretty One",
+      "url": "https://open.spotify.com/track/6FMGHBZaYQY7oFS7vyZx8a"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2151,22 +2155,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Little Bitty Pretty One",
-        "url": "https://open.spotify.com/album/4nYxAqSN5IKtwX1E1wJtTO"
+        "name": "Cliff: Cliff Sings",
+        "url": "https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er"
       },
       "artists": [
         {
-          "name": "Thurston Harris",
-          "url": "https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT"
-        },
-        {
-          "name": "The Sharps",
-          "url": "https://open.spotify.com/artist/6ML5oUVCtIT9xBele6LLMn"
+          "name": "Cliff Richard & The Drifters",
+          "url": "https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b"
         }
       ],
-      "duration_ms": 142453,
-      "name": "Little Bitty Pretty One",
-      "url": "https://open.spotify.com/track/6FMGHBZaYQY7oFS7vyZx8a"
+      "duration_ms": 138133,
+      "name": "Move It - Live; 1998 Remaster",
+      "url": "https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA"
     },
     {
       "added_at": "2022-06-07 05:25:13",

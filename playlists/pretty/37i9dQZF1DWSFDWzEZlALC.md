@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,831 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,073 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 13 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 |
 | 14 | [Lange nicht gut](https://open.spotify.com/track/0AoOnrPNHPwuqgPoJX5LRB) | [Goldroger](https://open.spotify.com/artist/3sAbVxYjczgrSmGrxcu7bM) | [Lange nicht gut](https://open.spotify.com/album/0cBmAMmyymnRIlQUknmhaZ) | 2:49 |
 | 15 | [\\ der schönste mensch der welt](https://open.spotify.com/track/120jaxjSxt7ocidusCDQoy) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:50 |
-| 16 | [Laut Denken](https://open.spotify.com/track/0ByVX07lcLowwxoSOEeMGo) | [Flavio](https://open.spotify.com/artist/6TBB2wdiwVBJYCdaRhOErs), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Laut Denken](https://open.spotify.com/album/2TcpdBpjdbvCeeIAfFR783) | 2:17 |
+| 16 | [Laut Denken \(feat\. Levin Liam\)](https://open.spotify.com/track/0ByVX07lcLowwxoSOEeMGo) | [Flavio](https://open.spotify.com/artist/6TBB2wdiwVBJYCdaRhOErs), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Laut Denken \(feat\. Levin Liam\)](https://open.spotify.com/album/2TcpdBpjdbvCeeIAfFR783) | 2:17 |
 | 17 | [Selbstspüren](https://open.spotify.com/track/5NtwruoP4MFCJw3OndR3tF) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Selbstspüren](https://open.spotify.com/album/79MRFDhwy0G3O59EyCbmY0) | 2:54 |
 | 18 | [Offiziell Glücklich](https://open.spotify.com/track/4zD9KFD8awuhpSuzygS4Pf) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Offiziell Glücklich](https://open.spotify.com/album/5nI1xih2hIWj0zf056x31C) | 2:48 |
 | 19 | [streetsmart](https://open.spotify.com/track/0Qe3c6avosY3zD6m6nmK24) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [streetsmart](https://open.spotify.com/album/6dHxhtdsS5j3GxXbOr7T46) | 2:32 |

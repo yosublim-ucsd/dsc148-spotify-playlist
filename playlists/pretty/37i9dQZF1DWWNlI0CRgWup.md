@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez notre sélection des artistes à suivre\. Photo : Maureen
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,754 likes - 38 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,761 likes - 38 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

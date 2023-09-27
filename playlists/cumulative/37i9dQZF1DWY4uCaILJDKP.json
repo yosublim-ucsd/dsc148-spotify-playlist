@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "HOLIDAY in OHAPA!!",
+        "url": "https://open.spotify.com/album/1khr284a8asSOAQqs3sqpp"
+      },
+      "artists": [
+        {
+          "name": "\u304a\u306f\u671d\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/5wLfo9S8j40aNshxoojY23"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230660,
+      "name": "HOLIDAY in OHAPA!!",
+      "url": "https://open.spotify.com/track/46w2GqGJ9dXOoZM7RLAAHQ"
+    },
+    {
+      "album": {
         "name": "FLOWERS",
         "url": "https://open.spotify.com/album/0bKTvirykWz7P04Tx4F6FZ"
       },

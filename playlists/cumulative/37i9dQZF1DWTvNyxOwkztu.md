@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-283 songs - 15 hr 42 min
+284 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 | 2021-12-09 |  |
 | [Back in Love](https://open.spotify.com/track/0xURkLqwfxkalc37EGgkVU) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Back in Love](https://open.spotify.com/album/1dBmcN0lkbhAq3zFoPEe3E) | 2:09 | 2022-03-25 | 2022-04-21 |
 | [Back to Java](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Back to Java](https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4) | 3:17 | 2021-12-09 |  |
-| [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 | 2023-09-13 | 2023-09-26 |
+| [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 | 2023-09-13 |  |
 | [Bangkok](https://open.spotify.com/track/1WzL0kZk3j5lCse7JgF3qV) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Bangkok](https://open.spotify.com/album/3BIefweoHMJZJhDsbn0t5q) | 2:48 | 2021-12-09 | 2022-07-23 |
 | [Bangkok](https://open.spotify.com/track/2jldQxck8ZUKv1BLxqVt4b) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Bangkok](https://open.spotify.com/album/2aRJel1Hr4NGqK9MVfivfA) | 2:48 | 2022-06-02 | 2022-11-26 |
 | [Barracudas](https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Barracudas EP](https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ) | 4:13 | 2021-12-09 |  |
@@ -193,7 +193,7 @@
 | [Push](https://open.spotify.com/track/1i5lXpzjo8qBAVRvEoBl7Z) | [Grennels](https://open.spotify.com/artist/0qbTETuJCrGSTL7EKVWIH5) | [Push](https://open.spotify.com/album/3qjxhwOM5CJJ83VVlwe2cv) | 5:35 | 2021-12-09 | 2022-05-21 |
 | [Rain in the Moat](https://open.spotify.com/track/6mxSKjZQXaC3nTpqQJTAv8) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Rain in the Moat](https://open.spotify.com/album/1n711WPVKs4V76KjxxVwSN) | 2:39 | 2022-03-25 | 2022-04-21 |
 | [Ray of Light](https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Ray of Light](https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE) | 3:48 | 2023-02-17 |  |
-| [Readings](https://open.spotify.com/track/6JMYFarzbRvp8J7YnGdbsP) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Readings](https://open.spotify.com/album/6n1vtw8Wjkec1HUpcyYckb) | 2:16 | 2023-02-17 |  |
+| [Readings](https://open.spotify.com/track/6JMYFarzbRvp8J7YnGdbsP) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Readings](https://open.spotify.com/album/6n1vtw8Wjkec1HUpcyYckb) | 2:16 | 2023-02-17 | 2023-09-27 |
 | [RELAX \(Late Night\)](https://open.spotify.com/track/37H1s2CbDWICwprjFFofO3) | [NINA](https://open.spotify.com/artist/0ssy2SRz3rHuTgb41Q7c2d) | [RELAX \(Late Night\)](https://open.spotify.com/album/3P7r3HKBrh7KowhBTAYtDj) | 2:51 | 2022-03-25 | 2022-07-27 |
 | [Remember](https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH) | [Hocus Faux](https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp) | [Remember](https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt) | 3:33 | 2021-12-09 | 2023-02-01 |
 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 | 2021-12-09 | 2023-09-14 |
@@ -222,8 +222,9 @@
 | [sinks deep](https://open.spotify.com/track/1JOcfQEI0fJXoDhKKO8XMl) | [Fuze T](https://open.spotify.com/artist/7Eiei3IWCbX0zxoWoxR1KK) | [sinks deep](https://open.spotify.com/album/7lLxb8zhBE9xiPz5n6CSZQ) | 2:56 | 2022-04-22 | 2022-07-24 |
 | [Sinus](https://open.spotify.com/track/0H2KxoSVnnEJrbOruF5lgk) | [Leo Perna](https://open.spotify.com/artist/0nZVFbVPVpCz6leeVjpWf7) | [Trigonometry](https://open.spotify.com/album/2iMHXhlavQVsCWERxPNvCN) | 1:49 | 2021-12-09 | 2022-05-23 |
 | [Sleep Online](https://open.spotify.com/track/4njORatgD4DQOZsgio3Wiq) | [Barbatula](https://open.spotify.com/artist/7hn07YGWIDqLjXljHGI6t9) | [Sungaze](https://open.spotify.com/album/1qHZRhAkC4JTXgYVi8LUXT) | 4:06 | 2022-03-25 | 2022-04-19 |
-| [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 | 2021-12-09 |  |
+| [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 | 2021-12-09 | 2023-09-27 |
 | [Soldiner](https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Soldiner](https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu) | 5:46 | 2022-03-25 | 2023-04-15 |
+| [Sona](https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Sona](https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF) | 3:32 | 2023-09-13 |  |
 | [Spring Embers](https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Spring Embers](https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU) | 3:32 | 2023-04-14 |  |
 | [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 | 2021-12-09 | 2023-04-14 |
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2021-12-09 |  |

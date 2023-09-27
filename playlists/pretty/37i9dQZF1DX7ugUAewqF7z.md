@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,791 likes - 101 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,850 likes - 101 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

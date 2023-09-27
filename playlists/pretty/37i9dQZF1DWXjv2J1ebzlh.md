@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,072 likes - 1,175 songs - 3 day 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,118 likes - 1,175 songs - 3 day 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1044,7 +1044,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1034 | [President Kennedy](https://open.spotify.com/track/3rRAWOWdm28WhJv63SkJYZ) | [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn) | [Studio One Ska](https://open.spotify.com/album/0rb7M19pl1lRSboIKvoxEv) | 2:52 |
 | 1035 | [Kingdom of D'mt](https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Ka Rica\-Tar](https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg) | 3:15 |
 | 1036 | [To Minore Tis Avgis](https://open.spotify.com/track/7DrGc72zMMvu3VOLRVRsgm) | [Markos Vamvakaris](https://open.spotify.com/artist/2MOeRxQqwrvur6it4B3G3R), [Apostolos Hatzichristos](https://open.spotify.com/artist/5XFtjPHUPYfb0ea4iUCfmq) | [Complete Guide to Markos Vamvakaris](https://open.spotify.com/album/2LfXDPKz7EANTKaLweYyRJ) | 3:19 |
-| 1037 | [Still Got a Way to Fall](https://open.spotify.com/track/06xHsdwvGuvdBivuCyGps5) | [Nicole Willis](https://open.spotify.com/artist/0eNjd1MGYdXbMLHoMNu1NI), [UMO Jazz Orchestra](https://open.spotify.com/artist/1tF1OoWEyzysLCCBRwzDc1) | [My Name Is Nicole Willis](https://open.spotify.com/album/0e7kN4e5eTuvhpqBXSVq4V) | 3:47 |
+| 1037 | [Still Got a Way to Fall](https://open.spotify.com/track/06xHsdwvGuvdBivuCyGps5) | [Nicole Willis](https://open.spotify.com/artist/0eNjd1MGYdXbMLHoMNu1NI), [UMO Helsinki Jazz Orchestra](https://open.spotify.com/artist/7wfO8pXRKhjRBFVKdSvdWq) | [My Name Is Nicole Willis](https://open.spotify.com/album/0e7kN4e5eTuvhpqBXSVq4V) | 3:47 |
 | 1038 | [Handsome Boy \(E Wara\) \- Pt\. 1 & 2](https://open.spotify.com/track/4KB3zx8o2ljshzXYtvJsy4) | [The Rwenzori's](https://open.spotify.com/artist/7FvUNDLSBrTUnAo3IRmhL0) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 6:44 |
 | 1039 | [Oh Yeh Soweto](https://open.spotify.com/track/62PQBJn14c9Um19YDFfU2j) | [Teaspoon](https://open.spotify.com/artist/7KC3heaWvCM1YKpctH4U4D), [The Waves](https://open.spotify.com/artist/01JMJxTziEMRUIJ9J8JK2z) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 4:09 |
 | 1040 | [Les voyages](https://open.spotify.com/track/0ID6Hh3bFnyW7wpUsiCAbQ) | [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Jeanne Chante Jeanne](https://open.spotify.com/album/7uzZRu1T0i14kICtviB9x7) | 3:01 |

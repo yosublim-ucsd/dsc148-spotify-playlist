@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qgJkcIjXC2.md) - [plain]
 
 > Spotify's first ever all\-women soccer playlist\. Built by your favorite players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,501 likes - 127 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,541 likes - 127 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

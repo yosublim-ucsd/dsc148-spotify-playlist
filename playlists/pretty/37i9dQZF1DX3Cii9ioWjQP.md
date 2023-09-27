@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,877 likes - 106 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,883 likes - 106 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

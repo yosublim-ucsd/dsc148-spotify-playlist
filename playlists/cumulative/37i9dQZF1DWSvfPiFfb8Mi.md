@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-221 songs - 15 hr 15 min
+222 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,13 +149,14 @@
 | [Move Out the Way \- Radio Edit](https://open.spotify.com/track/4q5O14RoZXNF8hTZxKpsd9) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Coffee in the Morning EP](https://open.spotify.com/album/5THT3dLSH2Wb5o4bpJ1ZtS) | 3:49 | 2021-07-24 | 2023-03-09 |
 | [Move Out the Way \- Radio Edit](https://open.spotify.com/track/6bFf1hwv13VHkPm95s24dB) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Coffee in the Morning](https://open.spotify.com/album/6q0LCCmAkCPnma67fi12Vk) | 3:49 | 2022-06-20 | 2023-05-20 |
 | [Music Saved My Life](https://open.spotify.com/track/2XPixA82xnIiju7E0bgt4e) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [Music Saved My Life](https://open.spotify.com/album/5MZqeTw9XvDNq8TgYq0AsO) | 3:44 | 2021-07-24 | 2023-08-07 |
-| [My All](https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [My All](https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH) | 4:00 | 2023-07-28 |  |
+| [My All](https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [My All](https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH) | 4:00 | 2023-07-28 | 2023-09-27 |
 | [Nektar](https://open.spotify.com/track/1of7gEdQHr4ZXUxYr8ougw) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Lisa Toh](https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO) | [Moon II](https://open.spotify.com/album/3xRV4gGRWtSkRpHJqvo6vL) | 3:18 | 2021-07-24 | 2023-05-20 |
 | [Never Let It Go](https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP) | [Final Djs](https://open.spotify.com/artist/591Lye06icbAJuSGpZ9hBa) | [Never Let It Go](https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q) | 2:38 | 2023-05-19 |  |
 | [NYC Dirty Talks](https://open.spotify.com/track/0y7OfSu7FZSJViYvRKigzl) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [JAH Love](https://open.spotify.com/album/24n2ljrMMv2UHYVlibcInw) | 6:23 | 2021-07-24 | 2022-07-29 |
 | [NYC Dirty Talks](https://open.spotify.com/track/4pf4aRWUDzJTHacddS3e25) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [JAH Love](https://open.spotify.com/album/4s2kxIRXTtf2Fu4oyh4Lqa) | 6:23 | 2022-06-20 | 2023-05-20 |
 | [NYC Dirty Talks \- Original Mix](https://open.spotify.com/track/4WRrZknAyG38JPLFL2Sej0) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [This Is House, Vol\. 1](https://open.spotify.com/album/0XNQ1bQRX7M37TUGeoeLji) | 6:23 | 2022-06-20 | 2022-11-13 |
 | [ON THE MOVE](https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [ON THE MOVE](https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu) | 3:24 | 2023-06-09 |  |
+| [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-25 |  |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-07-28 | 2023-09-26 |
 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 | 2021-07-24 |  |
 | [Patti](https://open.spotify.com/track/4T5Z0tSggegOb89AORT6AM) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [Patti](https://open.spotify.com/album/3ZNk3kfQlopQkWvdGWna5s) | 3:22 | 2021-07-24 | 2023-06-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,134 likes - 217 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,310 likes - 217 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

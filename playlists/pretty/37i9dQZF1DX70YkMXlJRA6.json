@@ -1,6 +1,6 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 46349,
+  "num_followers": 46365,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx"
-      },
-      "artists": [
-        {
-          "name": "Bruxas",
-          "url": "https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "M\u00e1s Profundo",
-      "url": "https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Un Canto",
         "url": "https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 284915,
       "name": "Un Canto",
       "url": "https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx"
+      },
+      "artists": [
+        {
+          "name": "Bruxas",
+          "url": "https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "M\u00e1s Profundo",
+      "url": "https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt"
     },
     {
       "added_at": "2023-03-31 18:13:24",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/2gokZy0P2QgqIRGMljHJAg"
     },
     {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw"
-    },
-    {
       "added_at": "2023-03-23 21:34:53",
       "album": {
         "name": "Gato Negro (Daniel Hokum & Okuma Remix)",
@@ -523,6 +507,22 @@
       "duration_ms": 395632,
       "name": "Gato Negro - Daniel Hokum & okuma Remix",
       "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -565,24 +565,20 @@
       "url": "https://open.spotify.com/track/5h5Mc6KAFfrVzsP9ENIH0S"
     },
     {
-      "added_at": "2022-11-12 17:24:45",
+      "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Piedras del Sol",
-        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
       },
       "artists": [
         {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Aceros del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
         }
       ],
-      "duration_ms": 222426,
-      "name": "Piedras del Sol",
-      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
+      "duration_ms": 284000,
+      "name": "Costa Para\u00edso",
+      "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -601,20 +597,24 @@
       "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
     },
     {
-      "added_at": "2022-06-07 16:47:23",
+      "added_at": "2022-11-12 17:24:45",
       "album": {
-        "name": "Pulso",
-        "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
+        "name": "Piedras del Sol",
+        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
       },
       "artists": [
         {
-          "name": "Aceros del Pac\u00edfico",
-          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Costa Para\u00edso",
-      "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
+      "duration_ms": 222426,
+      "name": "Piedras del Sol",
+      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -751,26 +751,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Tierra",
-        "url": "https://open.spotify.com/album/1fbKhVPG7X4oROz23Z7d2J"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Conexi\u00f3n Total",
-      "url": "https://open.spotify.com/track/2NC0w4Z6RuW5j7tGTy73E8"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Tierra",
+        "url": "https://open.spotify.com/album/1fbKhVPG7X4oROz23Z7d2J"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Conexi\u00f3n Total",
+      "url": "https://open.spotify.com/track/2NC0w4Z6RuW5j7tGTy73E8"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Vayay\u00f3",
-        "url": "https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf"
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
       },
       "artists": [
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Vayay\u00f3",
-      "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
+      "duration_ms": 238280,
+      "name": "Sambita - Remastered",
+      "url": "https://open.spotify.com/track/3WqdQxa5yPMLSbbnA1u2s3"
     },
     {
       "added_at": "2022-06-07 16:47:23",

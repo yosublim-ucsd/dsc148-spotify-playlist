@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Out Of Control Army
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,539 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,565 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 40 | [El Último Ska](https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [Infiernos](https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1) | 4:34 |
 | 41 | [All Outta Angst](https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:52 |
 | 42 | [Ciegos de Amor](https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Lágrimas y Risas](https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR) | 3:53 |
-| 43 | [Tu Alma Mía / Adelita](https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:53 |
+| 43 | [Calaveras y Diablitos](https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Exitos](https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU) | 4:24 |
 | 44 | [In The Mirror](https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:04 |
-| 45 | [Calaveras y Diablitos](https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Exitos](https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU) | 4:24 |
+| 45 | [Tu Alma Mía / Adelita](https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:53 |
 | 46 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
 | 47 | [Komm mit aufs Boot](https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Alles glänzt](https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l) | 3:16 |
 | 48 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 51 | [Monkey Man \- 2015 Remaster](https://open.spotify.com/track/04BXsortkjpUxf1sOtLRXE) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:45 |
 | 52 | [Sarri, Sarri](https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 4:05 |
 | 53 | [Sólo Vivir](https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Klub Ska](https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w) | 3:26 |
-| 54 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
-| 55 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
+| 54 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
+| 55 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
 | 56 | [Somos del Barrio](https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc) | 2:44 |
 | 57 | [Labios Rojos](https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Salvador Moreno](https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:39 |
 | 58 | [Te Sigo](https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Aconcagua \(El Gobierno de las Tribus\)](https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx) | 3:32 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 68 | [Mejores Tiempos](https://open.spotify.com/track/7jBIWPsJJ09O0ffutG92Hw) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [Mejores Tiempos](https://open.spotify.com/album/4XJpYmsQZSIMcvENsWz2Nx) | 4:33 |
 | 69 | [I Wanna Riot](https://open.spotify.com/track/3prgCqodybVT758HNY2SXW) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 3:11 |
 | 70 | [Despideme](https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Radio Ghetto](https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ) | 3:18 |
-| 71 | [No Te Olvidé](https://open.spotify.com/track/05oVLw37812S2eoTVetosi) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj), [Banda Bastón](https://open.spotify.com/artist/5VP1mX81Z9JJSioPFTYF5a) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:17 |
-| 72 | [Take Five](https://open.spotify.com/track/4oMMdE8PlUjnyNO7HRixuV) | [New York Ska\-Jazz Ensemble](https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj) | [Step Forward](https://open.spotify.com/album/7CTa40f16I1EjYJUa724iE) | 5:04 |
+| 71 | [Take Five](https://open.spotify.com/track/4oMMdE8PlUjnyNO7HRixuV) | [New York Ska\-Jazz Ensemble](https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj) | [Step Forward](https://open.spotify.com/album/7CTa40f16I1EjYJUa724iE) | 5:04 |
+| 72 | [No Te Olvidé](https://open.spotify.com/track/05oVLw37812S2eoTVetosi) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj), [Banda Bastón](https://open.spotify.com/artist/5VP1mX81Z9JJSioPFTYF5a) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:17 |
 | 73 | [Baggy Trousers](https://open.spotify.com/track/3Sbnhrpec0ULbeWBsA6GS6) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Absolutely](https://open.spotify.com/album/5HkyBg5Hj4PanOXcWe9i49) | 2:47 |
 | 74 | [Into Action](https://open.spotify.com/track/0gz2UpeIgaeqOb9FXQp06s) | [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [A Poets Life](https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI) | 3:41 |
 | 75 | [Mala Vida](https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Frecuencia Extrema](https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA) | 3:18 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 96 | [Sally Brown](https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Story So Far...](https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg) | 4:29 |
 | 97 | [No More Sorrow](https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r) | [Rotterdam Ska\-Jazz Foundation](https://open.spotify.com/artist/4702lx6KuOKmumm9tH0uCp) | [Motiv Loco](https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK) | 2:42 |
 | 98 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
-| 99 | [Charade](https://open.spotify.com/track/4TU950aBQIwFjkuWk63shn) | [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn), [The Beverley's All Stars](https://open.spotify.com/artist/4YLJ8hO5NSk1uWjGUb0xlK) | [King of Ska: The Beverley's Records Singles Collection 1963 \- 1967](https://open.spotify.com/album/2rRn15y0Y7m6NKWL9QXo3Y) | 3:06 |
-| 100 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
+| 99 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
+| 100 | [Charade](https://open.spotify.com/track/4TU950aBQIwFjkuWk63shn) | [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn), [The Beverley's All Stars](https://open.spotify.com/artist/4YLJ8hO5NSk1uWjGUb0xlK) | [King of Ska: The Beverley's Records Singles Collection 1963 \- 1967](https://open.spotify.com/album/2rRn15y0Y7m6NKWL9QXo3Y) | 3:06 |
 
 Snapshot ID: `MCwzNWE0MzhlYTYwMDcwODZkYjAyMGY5NTUwNjQ5MjdhM2IxNmNhYmI5`

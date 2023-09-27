@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: CRi
 
-937 songs - 2 day 12 hr 42 min
+938 songs - 2 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,7 +511,7 @@
 | [Love Divide](https://open.spotify.com/track/2q1fb1ENmNiJAeosPZqAlC) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 4:29 | 2022-09-17 | 2022-10-06 |
 | [Love Divide](https://open.spotify.com/track/5N6x5VY1I0ER9JRtD9PEcy) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Love Divide](https://open.spotify.com/album/16dR19lw7xsjTvpkga7Sg0) | 4:29 | 2021-10-01 | 2022-07-26 |
 | [Love for the Sake of Love](https://open.spotify.com/track/3XfO4iKlM7fdoiJ4uz1wku) | [Claudia Barry](https://open.spotify.com/artist/5Y4hAdGj1mciEktS39vJYN) | [Discomania: Hits Dance 70\-80, Vol\. 6](https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d) | 4:27 | 2022-01-28 | 2022-04-16 |
-| [Love In C Minor \- Franc Moody Remix](https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Love In C Minor \(Franc Moody Remix\)](https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF) | 3:05 | 2023-08-25 |  |
+| [Love In C Minor \- Franc Moody Remix](https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Love In C Minor \(Franc Moody Remix\)](https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF) | 3:05 | 2023-08-25 | 2023-09-27 |
 | [Love Invention](https://open.spotify.com/track/7xn5k1DSJrEIXYAE824Xvm) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Love Invention](https://open.spotify.com/album/27EBdWkxelrRDYitkJgH4W) | 4:19 | 2023-05-05 | 2023-05-13 |
 | [Love Letter \(feat\. The Knocks\)](https://open.spotify.com/track/26wuBc04catG1QQyYupr35) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Love Letter \(feat\. The Knocks\)](https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk) | 4:13 | 2022-03-25 | 2023-04-01 |
 | [Love Signs](https://open.spotify.com/track/6RaevDdXDLwoHtacMeCz8Q) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Love Signs](https://open.spotify.com/album/4aaroRnULzmow4vwcUCV2g) | 4:14 | 2021-07-09 | 2022-02-10 |
@@ -625,6 +625,7 @@
 | [Ooo La La](https://open.spotify.com/track/0avbGep1xxLYfWfkUlMiVK) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Ooo La La](https://open.spotify.com/album/6ygPmv9UkNIKQe9IlBDJC6) | 2:38 | 2022-06-03 | 2022-07-26 |
 | [Orbit](https://open.spotify.com/track/76JrDwcnbm9sy1n4l0Zapo) | [Modern Modern Life](https://open.spotify.com/artist/6eKLS5YH8mJvVwAJbAw7aZ) | [Orbit](https://open.spotify.com/album/46bLwaAKfSyWcv0glzaeh4) | 3:12 | 2021-07-13 | 2022-05-24 |
 | [Orbit](https://open.spotify.com/track/2UMhA9izu5CLzqpYGpRupa) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Benjamin Yellowitz](https://open.spotify.com/artist/1phQHVBN66RZdZEK1M7Zlw) | [Orbit](https://open.spotify.com/album/3PbzZs9oHr5n5oPHDVsA1q) | 4:58 | 2022-03-11 | 2022-04-16 |
+| [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-08-25 |  |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-05-26 | 2023-06-18 |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-05-26 | 2023-09-26 |
 | [Our Way](https://open.spotify.com/track/0CdNOaZUy8JAbx7cuDoks1) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Soy Gitano EP](https://open.spotify.com/album/5pB761K03E09m3aZz9YFOM) | 3:24 | 2023-08-25 |  |

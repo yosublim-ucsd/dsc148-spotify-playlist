@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,582 songs - 2 day 12 hr 6 min
+1,583 songs - 2 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Audemars Pigeon](https://open.spotify.com/track/7iFiiIo6y2jNsmnWJaGUpz) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Audemars Pigeon](https://open.spotify.com/album/5urVLzzVGsvI0lNH1ufLGI) | 2:20 | 2023-01-13 |  |
 | [Aurora Village](https://open.spotify.com/track/5uMKK3FM8xuOtBQ4r5kHsV) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [Aurora Village](https://open.spotify.com/album/1GEp44Hx7irB4w6RmOadUq) | 2:33 | 2022-11-11 |  |
 | [Autopilot](https://open.spotify.com/track/7qwKNJIHESKRCZhMVEryi0) | [Vrouzli](https://open.spotify.com/artist/5UdyPviMkdOWjnawTiCFch) | [Autopilot](https://open.spotify.com/album/4zkTVG3n8JMJ97rBPvRcWv) | 2:08 | 2023-03-08 |  |
-| [Autumn Air](https://open.spotify.com/track/6rHLRiZ8YYwO03he7OJQU2) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Autumn Air](https://open.spotify.com/album/1LOTpCIncHlI19boa03gC5) | 2:19 | 2022-11-25 |  |
+| [Autumn Air](https://open.spotify.com/track/6rHLRiZ8YYwO03he7OJQU2) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Autumn Air](https://open.spotify.com/album/1LOTpCIncHlI19boa03gC5) | 2:19 | 2022-11-25 | 2023-09-27 |
 | [avant garde](https://open.spotify.com/track/4AkXE5K2Zh9qUnTaHsbkPn) | [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg), [abovus](https://open.spotify.com/artist/5DXweVRKKbzWHYb4jgIafb) | [avant garde](https://open.spotify.com/album/5oYB1uIVN78liVioenI2ro) | 2:00 | 2023-08-31 |  |
 | [Aviate](https://open.spotify.com/track/532CHPJ8XDomggcCqh9kyr) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Aviate](https://open.spotify.com/album/2aj5Rcvstgx3xt0CNviHE3) | 2:08 | 2022-04-22 | 2022-11-12 |
 | [Awa](https://open.spotify.com/track/6pyx1rF7cfoEnjxR0dlVld) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Awa](https://open.spotify.com/album/7JkfKYlxoOGIQDDKjnEVbX) | 2:26 | 2022-04-15 | 2022-10-01 |
@@ -812,7 +812,7 @@
 | [Lost in LA](https://open.spotify.com/track/4dZBeDiuLJ6dKmB3NDqjui) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Lost in LA](https://open.spotify.com/album/1jmrcNqyUhff0IGK1AwxVb) | 2:01 | 2023-01-20 |  |
 | [Lost in the Woods](https://open.spotify.com/track/1EcB1d4312bZha775c7woO) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Solsken](https://open.spotify.com/album/2JzhBFTPswo8Xzv48mSn6G) | 2:30 | 2022-04-15 | 2022-05-27 |
 | [lostonbrick](https://open.spotify.com/track/4yiteviu6ykAfAN7AspXCE) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [lostonbrick](https://open.spotify.com/album/0dS1PtAgPFSiuUhs9o9GNs) | 2:00 | 2022-09-23 |  |
-| [Loud Bolt](https://open.spotify.com/track/4JgH9mzHDXcL4ZQW9NvXwU) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [Loud Bolt](https://open.spotify.com/album/6GpmOKP4fhN0L3lxxTQVk9) | 2:17 | 2023-01-06 |  |
+| [Loud Bolt](https://open.spotify.com/track/4JgH9mzHDXcL4ZQW9NvXwU) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [Loud Bolt](https://open.spotify.com/album/6GpmOKP4fhN0L3lxxTQVk9) | 2:17 | 2023-01-06 | 2023-09-27 |
 | [louis](https://open.spotify.com/track/1DAAws1qqg7mn6mrlxQFuB) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [louis](https://open.spotify.com/album/2l7BsAYyTpFMILFg6FFqs7) | 2:28 | 2022-10-01 | 2023-03-09 |
 | [lounge life](https://open.spotify.com/track/4zHwNqoIVdtq6BVg4b6r0x) | [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb), [sage green](https://open.spotify.com/artist/48XozkeJU7sbKjb0DG40ts) | [lounge life](https://open.spotify.com/album/5bvih2zwhn2PvGMQebhySh) | 1:58 | 2022-05-27 | 2022-11-12 |
 | [Love Me Right](https://open.spotify.com/track/2k5xwTwocZZkMxKoMyxopz) | [Loe Brezy](https://open.spotify.com/artist/5ioMPzIi3WiKXfrS8n3bau) | [Lost Instrument](https://open.spotify.com/album/21Y57FbMC9n2wHJWBq0qCk) | 1:42 | 2022-04-15 | 2023-08-18 |
@@ -864,7 +864,7 @@
 | [Melting](https://open.spotify.com/track/27Y8SVpM3t1Ni8nbnKsaRW) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Melting](https://open.spotify.com/album/0h4nSIq7YwurSAqTruXNh4) | 1:50 | 2022-07-08 | 2022-12-03 |
 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 | 2022-10-14 |  |
 | [memories we made](https://open.spotify.com/track/01dT6aejWkATblUn3zs0l0) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [memories we made](https://open.spotify.com/album/0tH4sqm0Rpc9fLcJfRRAFN) | 2:25 | 2023-07-13 |  |
-| [Memory Lane](https://open.spotify.com/track/5OUp8kF4z1oxwWcYFKg2qW) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Memory Lane](https://open.spotify.com/album/280ABIKRcVoUXHuuPC5MGv) | 1:56 | 2022-11-11 | 2023-09-26 |
+| [Memory Lane](https://open.spotify.com/track/5OUp8kF4z1oxwWcYFKg2qW) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Memory Lane](https://open.spotify.com/album/280ABIKRcVoUXHuuPC5MGv) | 1:56 | 2022-11-11 |  |
 | [Memory Lane](https://open.spotify.com/track/6jKYl3OeK7tW5gpSGPIRXb) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME) | [Scenery](https://open.spotify.com/album/1F85ZcndEEfLMCrABfeZ9t) | 2:56 | 2022-04-15 | 2022-05-27 |
 | [Mercury](https://open.spotify.com/track/6e3z2mC5b3GHSqIzLu7Xlm) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Mercury](https://open.spotify.com/album/00ILcS2b2y3luywwjvBcUS) | 2:18 | 2022-06-17 | 2022-08-12 |
 | [Mercury](https://open.spotify.com/track/1N8dgi0AloTfpufmCk35GH) | [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ), [Croupnoop](https://open.spotify.com/artist/1cbGJW4vh41OwcsuLtvRGx) | [The Balance of All Things](https://open.spotify.com/album/3Ka8E3b8JUok3tu1zmZSxV) | 2:02 | 2022-04-15 | 2022-08-12 |
@@ -1165,6 +1165,7 @@
 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-09-08 |  |
 | [Roadwalk](https://open.spotify.com/track/1y4JxFcwfHaBnx91s4tdfs) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E), [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [Roadwalk](https://open.spotify.com/album/6qJaJS8sB5obL0Dd58uQ0K) | 2:30 | 2022-07-15 | 2022-07-22 |
 | [Rocking Chair](https://open.spotify.com/track/2xbQ4xdV9FuN9VdCshaOcr) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Rocking Chair](https://open.spotify.com/album/0xLjnKdDGk054OL9CZsCKU) | 1:36 | 2023-06-06 |  |
+| [Rododendron](https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 2](https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG) | 2:09 | 2023-09-22 |  |
 | [rollups](https://open.spotify.com/track/0egGEXJbXSsahzn67PQmPr) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [rollups](https://open.spotify.com/album/464Q2A9SCCQRi6RxIVm8ub) | 1:46 | 2023-01-20 |  |
 | [Rooftop](https://open.spotify.com/track/2Fc4CqCia3MvJeWULkzW9o) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Notes & Notes](https://open.spotify.com/album/4FMg0ovfJvNeNNoYs8Rn5N) | 2:06 | 2022-04-15 | 2022-11-12 |
 | [Roots of the Green](https://open.spotify.com/track/1b8U66FM9AsyPEc3fX7sai) | [Variantations](https://open.spotify.com/artist/0T9rN6QQTpCjTgS0lnxjp4) | [Nothing Nothing Nothing](https://open.spotify.com/album/1G8bOuwfnLfVelPOCCz2Mv) | 3:13 | 2022-04-15 | 2022-08-19 |

@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-801 songs - 2 day 4 hr 23 min
+802 songs - 2 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Moonlight In Vermont](https://open.spotify.com/track/0xQtmSn12S3L8agMrnEoYh) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Moonlight In Vermont](https://open.spotify.com/album/3XYrxBccjXCVDiFwgfc4Dd) | 2:48 | 2023-08-18 |  |
 | [More Than Ever](https://open.spotify.com/track/2v4qjnLzXPqxZiM635UZwt) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [More Than Ever](https://open.spotify.com/album/2fvT46J3wLSyRyCEvNCPFv) | 6:11 | 2022-10-20 |  |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-11-10 |  |
+| [More than you know](https://open.spotify.com/track/0KDlzhSMPS14CBl50556yf) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [More than you know](https://open.spotify.com/album/0qsxhiQaIOfxt2Eq1NMw1z) | 3:50 | 2023-09-22 |  |
 | [Morii](https://open.spotify.com/track/25uH0QfCoOQ5Jw2c0rXGWf) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Morii](https://open.spotify.com/album/1ESEXNpgchtK0kal3g1lyo) | 3:48 | 2023-02-16 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-11-10 |  |
 | [Morning Break](https://open.spotify.com/track/1IXLCaoZZxsjIC1ke4dm6E) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Morning Break](https://open.spotify.com/album/00e4qwtnnNFvjW6aNurKFa) | 3:23 | 2023-03-16 |  |
@@ -619,7 +620,7 @@
 | [Somewhere Only We Go](https://open.spotify.com/track/3FUPP0Q5E2JKopEUHXIwdw) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Somewhere Only We Go](https://open.spotify.com/album/4MkXfde3NQsZfcsP09EeeZ) | 3:47 | 2023-02-09 |  |
 | [Song for Elmore](https://open.spotify.com/track/5XPbZCjTZ8XQEGUiNoKopS) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Song for Elmore](https://open.spotify.com/album/4ClRkE0o2Yu4e7YK2Cg602) | 3:16 | 2023-02-02 |  |
 | [Sonne](https://open.spotify.com/track/77rbW6F9WjICIjf518rzhA) | [Vincent Meissner](https://open.spotify.com/artist/7ox1pso1ax4HtLO22VU0YL), [Josef Zeimetz](https://open.spotify.com/artist/1hAUxw9mJUSkRpJuEDrsca), [Henri Reichmann](https://open.spotify.com/artist/6jrUiDeiXgBgUFPjvOQSi7) | [Wille](https://open.spotify.com/album/31NhLTsgSc8U0vWuIv6hFK) | 4:54 | 2023-03-16 |  |
-| [Sonny Side](https://open.spotify.com/track/3845TYxfJm5POl4ipU6mBO) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [Remembrance](https://open.spotify.com/album/4Tghkoa8HIUpFyG47MCHXx) | 7:25 | 2022-01-27 |  |
+| [Sonny Side](https://open.spotify.com/track/3845TYxfJm5POl4ipU6mBO) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [Remembrance](https://open.spotify.com/album/4Tghkoa8HIUpFyG47MCHXx) | 7:25 | 2022-01-27 | 2023-09-27 |
 | [Sophisticated Lady](https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ) | [Cliff Jordan](https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij) | [Cliff Craft](https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a) | 6:46 | 2022-06-30 |  |
 | [Sophisticated Lady \- Remastered 1997](https://open.spotify.com/track/4MOg9akJ30Hz8ox8NBw2j1) | [Clifford Jordan](https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn) | [Cliff Craft](https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp) | 6:47 | 2021-12-03 | 2022-07-29 |
 | [Soul Eyes](https://open.spotify.com/track/2WwFItAZw5RcYv3rECNFIZ) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [Inside Out](https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC) | 4:43 | 2022-01-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > For all the beautiful queens! Guest curated by Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,399 likes - 53 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,559 likes - 53 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

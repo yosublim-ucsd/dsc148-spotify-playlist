@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > 2023年8月\~10月に開催される<a href="https://www.straykidsjapan.com/5stardometour/">Stray Kids 5\-STAR Dome Tour</a>に備えて、プレイリストで予習しよう!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,721 likes - 46 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,821 likes - 46 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

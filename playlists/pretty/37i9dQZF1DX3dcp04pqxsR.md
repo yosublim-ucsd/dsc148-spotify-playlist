@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dcp04pqxsR.md) - [plain]
 
 > Let the hum of calming white noise box fans lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,345 likes - 116 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,354 likes - 116 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

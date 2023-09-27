@@ -4,7 +4,7 @@
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-78 songs - 6 hr 53 min
+79 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,12 +23,13 @@
 | [Close Ear to Ear Whispered Countdown to Sleep Pt.4](https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Close Ear to Ear Whispered Countdown to Sleep](https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk) | 4:39 | 2021-11-12 |  |
 | [Cozy Low\-Light Pt.4](https://open.spotify.com/track/16hoz3j0hMPDMJYv659kPq) | [Goodnight Moon ASMR](https://open.spotify.com/artist/2suw8cZRpUiapwhFP8tASj) | [Cozy Low\-Light](https://open.spotify.com/album/4ycfXJlHSIT4JeosgjGcMb) | 7:50 | 2021-11-12 |  |
 | [DEEP SLEEP in 45 Minutes Pt.3](https://open.spotify.com/track/0vDgu0Eyll8tdk1ai6J94q) | [Alana ASMR](https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM) | [DEEP SLEEP in 45 Minutes](https://open.spotify.com/album/3lTWKjbjrHsEQ27NqB7h3u) | 4:58 | 2022-01-07 |  |
+| [Do You Have Plans?](https://open.spotify.com/track/1qlGwXQZKiyXOw67dElhoP) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Checking Up On You \(Scratch, Tapping, Ramble\)](https://open.spotify.com/album/1Do1eNmYnpBrXSbjXCI57Z) | 5:21 | 2023-09-08 |  |
 | [Do You Have Plans?](https://open.spotify.com/track/6AEOwjjFIvwtHy77gwiHiQ) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Checking Up On You \(Scratch, Tapping, Ramble\)](https://open.spotify.com/album/6jBVHUHGixqktpxgeX9YBy) | 5:21 | 2021-11-12 | 2023-09-16 |
 | [Everything is Okay](https://open.spotify.com/track/0EuUoivsrB7lBHZDffnvxc) | [LunaRexx ASMR](https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D) | [May I Touch You?](https://open.spotify.com/album/3bnzZw0jzoa7AYlZDYTxPw) | 3:07 | 2021-11-12 | 2023-09-10 |
 | [Everything is Okay](https://open.spotify.com/track/3nb3ETwE9NEjmRuszFSFp2) | [LunaRexx ASMR](https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D) | [May I Touch You?](https://open.spotify.com/album/3zr7dqQ2k9EG0MCAubYqql) | 3:07 | 2023-09-08 |  |
 | [Extremely Sensitive ASMR Mic Scratching and Ear to Ear Whispering, Pt\. 1](https://open.spotify.com/track/5k6j68qAUCCMtuFsuKPWSo) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [Extremely Sensitive ASMR Mic Scratching and Ear to Ear Whispering \[ASMR at 100% Sensitivity\]](https://open.spotify.com/album/1OmgwNuQvXPqnqENtlkrjT) | 3:12 | 2021-11-12 | 2022-07-13 |
 | [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/2KUF4YBM0ekcDf6aTsEbq1) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ) | 5:16 | 2021-11-12 | 2023-09-17 |
-| [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/4EAP4yIQlIwowyqTKKBLXv) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0Gh6wdhrgzwGeTYsiz9qTY) | 5:16 | 2023-09-08 |  |
+| [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/4EAP4yIQlIwowyqTKKBLXv) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0Gh6wdhrgzwGeTYsiz9qTY) | 5:16 | 2023-09-08 | 2023-09-27 |
 | [Gibberish](https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1) | [Mikki ASMR](https://open.spotify.com/artist/0CinSQAHxIyGB3lNkPEQVu) | [ASMR Whispers](https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN) | 5:06 | 2022-07-14 |  |
 | [Going Over Your Notes / Writing Sounds](https://open.spotify.com/track/1oRrPXaq2PNiGYiUn6YV6a) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR For Sleep \| Zen Rainforest Sleep Treatment \- Day 1 of 3](https://open.spotify.com/album/3PgSMImJNYOEUCTHudph0c) | 6:01 | 2021-11-12 | 2023-09-16 |
 | [Going Over Your Notes / Writing Sounds](https://open.spotify.com/track/3YxyDSG1HgIjVQOIt1sENb) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR For Sleep \| Zen Rainforest Sleep Treatment \- Day 1 of 3](https://open.spotify.com/album/7FFtmDlOVzVkqRUuFip36l) | 6:01 | 2023-09-08 | 2023-09-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Michael Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,777 likes - 120 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,789 likes - 120 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

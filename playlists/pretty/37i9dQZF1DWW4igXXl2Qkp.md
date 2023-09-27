@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:1WaFQSHVGZQJTbf0BdxdNo">Tommy Richman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,323 likes - 70 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,376 likes - 70 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

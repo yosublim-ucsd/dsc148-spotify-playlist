@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 53180,
+  "num_followers": 53227,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDU1NGI5ZDUzOTlhM2I4NDVhMTFjZmIzZDcxOWEyYzVhZGI4MWNl",
+  "snapshot_id": "MCxiMGM3NjYwYTk3OTJiM2Y0MjNiMWExZGJlMjg4Nzc4M2EyODFhNWZm",
   "tracks": [
     {
       "added_at": "2023-09-12 08:17:16",
@@ -46,6 +46,10 @@
         {
           "name": "M.C.Bijju",
           "url": "https://open.spotify.com/artist/4Um1J2sDY8esAapos04b4X"
+        },
+        {
+          "name": "Charanraj",
+          "url": "https://open.spotify.com/artist/3eDnvCTeFDK9FsEAghlpc2"
         }
       ],
       "duration_ms": 151000,
@@ -129,6 +133,30 @@
       "url": "https://open.spotify.com/track/61vsNRNqUQs9htOvb2pTH7"
     },
     {
+      "added_at": "2023-09-26 13:41:37",
+      "album": {
+        "name": "Aaneya Maadi (From \"Kathora\")",
+        "url": "https://open.spotify.com/album/6LaBeldNohUdlA62eCztyZ"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Vijetha Manjaiah",
+          "url": "https://open.spotify.com/artist/4shEtV0cxBRMGw1T1YoavQ"
+        },
+        {
+          "name": "Murthy TM",
+          "url": "https://open.spotify.com/artist/60idM85Gd5WfmEMS2TSCG5"
+        }
+      ],
+      "duration_ms": 215982,
+      "name": "Aaneya Maadi - From \"Kathora\"",
+      "url": "https://open.spotify.com/track/2ViBaE2lmN1hDXqdZpXH4y"
+    },
+    {
       "added_at": "2023-09-11 13:29:48",
       "album": {
         "name": "Summane Naga Bahudhe Hudugi (from \"Jigar\")",
@@ -191,6 +219,26 @@
       "duration_ms": 226200,
       "name": "Choo Mantar Title Track (from \"Choo Mantar\")",
       "url": "https://open.spotify.com/track/6hiAkSbSDFKBMDCHz1lbTH"
+    },
+    {
+      "added_at": "2023-09-26 13:41:37",
+      "album": {
+        "name": "Nannaki BGM",
+        "url": "https://open.spotify.com/album/5MF79cjBjmFJ2IVpqUMYpq"
+      },
+      "artists": [
+        {
+          "name": "Anil CJ",
+          "url": "https://open.spotify.com/artist/06MUYjay1afxal0kI4n4nD"
+        },
+        {
+          "name": "Mallu Jamkhandi",
+          "url": "https://open.spotify.com/artist/64CsJXPVhevCqZs6s1oTFL"
+        }
+      ],
+      "duration_ms": 114545,
+      "name": "Nannaki BGM",
+      "url": "https://open.spotify.com/track/4Hvgw6uTUBbDjv96XWQuye"
     },
     {
       "added_at": "2023-09-22 09:38:53",
@@ -1493,22 +1541,6 @@
       "url": "https://open.spotify.com/track/3tUfAAX3KOWnceR77QRzun"
     },
     {
-      "added_at": "2023-07-31 06:01:51",
-      "album": {
-        "name": "Danka Dankaara (From \"Vikrant Rona\")",
-        "url": "https://open.spotify.com/album/3gMODnlgmTDeBBJAG9ORXc"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 127140,
-      "name": "Danka Dankaara (From \"Vikrant Rona\")",
-      "url": "https://open.spotify.com/track/7qlwM6HDJpe80aGxmKIfCz"
-    },
-    {
       "added_at": "2023-07-25 11:15:09",
       "album": {
         "name": "Manasu Bereya Dikkali Saagalu (From \"Ramana Avatara\")",
@@ -1635,30 +1667,6 @@
       "duration_ms": 282541,
       "name": "Snehada Kadalali (From \"Paramvah\")",
       "url": "https://open.spotify.com/track/4KJvTL4XjJoKUb5CZIgEtz"
-    },
-    {
-      "added_at": "2023-06-07 04:40:04",
-      "album": {
-        "name": "Adipurush (KANNADA)",
-        "url": "https://open.spotify.com/album/50dYEIA7LMq5pmRZFInNve"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Ninna Araso Nanage (Kannada)",
-      "url": "https://open.spotify.com/track/45i6Oq0aD0EZJ3PLG2IRP4"
     },
     {
       "added_at": "2023-05-24 12:20:30",

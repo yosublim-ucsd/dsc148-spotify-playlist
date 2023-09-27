@@ -1,6 +1,6 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 66291,
+  "num_followers": 66355,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "I Ain't Blue - 2008 Remaster",
-      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Get Up! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xu9bQjnB72GNFeH31UDX7"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 261573,
       "name": "You Found Another Lover (I Lost Another Friend) - The Machine Shop Session",
       "url": "https://open.spotify.com/track/2ElTJmWJbuHT7owpTe3upS"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "I Ain't Blue - 2008 Remaster",
+      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "All Blues's Up: Songs of Led Zeppelin",
         "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 139146,
       "name": "When The Levee Breaks (Part One)",
       "url": "https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "Scoundrel",
-        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "Call Me King",
+        "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
+      },
+      "artists": [
+        {
+          "name": "Son Of Dave",
+          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Call Me King",
+      "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 298293,
       "name": "Outside (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "Call Me King",
-        "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
-      },
-      "artists": [
-        {
-          "name": "Son Of Dave",
-          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Call Me King",
-      "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Too Wet to Plow",
-        "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
-      },
-      "artists": [
-        {
-          "name": "Johnny Shines",
-          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Travelling Back Home",
-      "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Racing To A Red Light",
         "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "Too Wet to Plow",
+        "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Shines",
+          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "Travelling Back Home",
+      "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 237769,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "The 1928 Sessions",
+        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 263319,
+      "name": "Avalon Blues",
+      "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1155,22 +1171,6 @@
       "duration_ms": 181546,
       "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
       "url": "https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "The 1928 Sessions",
-        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 263319,
-      "name": "Avalon Blues",
-      "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Keep on Lovin You (feat. Billy Branch)",
-        "url": "https://open.spotify.com/album/0ZxrwdpdMoPhIrlYfsXMJu"
-      },
-      "artists": [
-        {
-          "name": "Lil' Red & the Rooster",
-          "url": "https://open.spotify.com/artist/2pm8z0Ff2sSRehZetUntu6"
-        },
-        {
-          "name": "Billy Branch",
-          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
-        }
-      ],
-      "duration_ms": 315842,
-      "name": "Keep on Lovin You (feat. Billy Branch)",
-      "url": "https://open.spotify.com/track/0bFC7aJVSuRY26OVco4hdJ"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Shake Sugaree",
         "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
       },
@@ -1499,18 +1479,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "The Road to Liberty, Pt. 1",
-        "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
+        "name": "Keep on Lovin You (feat. Billy Branch)",
+        "url": "https://open.spotify.com/album/0ZxrwdpdMoPhIrlYfsXMJu"
       },
       "artists": [
         {
-          "name": "Mark Harrison",
-          "url": "https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd"
+          "name": "Lil' Red & the Rooster",
+          "url": "https://open.spotify.com/artist/2pm8z0Ff2sSRehZetUntu6"
+        },
+        {
+          "name": "Billy Branch",
+          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Passing Through",
-      "url": "https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj"
+      "duration_ms": 315842,
+      "name": "Keep on Lovin You (feat. Billy Branch)",
+      "url": "https://open.spotify.com/track/0bFC7aJVSuRY26OVco4hdJ"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1543,6 +1527,22 @@
       "duration_ms": 244746,
       "name": "Hangover Blues",
       "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "The Road to Liberty, Pt. 1",
+        "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
+      },
+      "artists": [
+        {
+          "name": "Mark Harrison",
+          "url": "https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Passing Through",
+      "url": "https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Strange Time To Be Alive",
-        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 231373,
-      "name": "Dance In The Fire",
-      "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Misery Loves Company",
         "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 372440,
       "name": "Death Letter Blues",
       "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Strange Time To Be Alive",
+        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 231373,
+      "name": "Dance In The Fire",
+      "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
     },
     {
       "added_at": "2023-09-22 11:16:18",

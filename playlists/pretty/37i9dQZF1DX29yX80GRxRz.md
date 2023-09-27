@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29yX80GRxRz.md) - [plain]
 
 > Drift away on cotton candy clouds and dream sweet with continuous pink sleep noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558 likes - 235 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,562 likes - 235 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

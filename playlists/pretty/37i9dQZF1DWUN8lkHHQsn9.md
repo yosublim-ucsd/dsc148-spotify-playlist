@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:5n9VtqOD2WpsEHeCdTCLKt">Zawadzki</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,417 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,444 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 49 | [Dokąd biegnę](https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb) | 3:14 |
 | 50 | [SLAY](https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [SLAY](https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m) | 2:59 |
 | 51 | [Spina](https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O) | [Spina](https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd) | 3:33 |
-| 52 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
-| 53 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
+| 52 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
+| 53 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
 | 54 | [BSoD \(Bluescreen\)](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD \(Bluescreen\)](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
 | 55 | [Stamina](https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 4:22 |
 | 56 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
 | 57 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 |
 | 58 | [Barbie](https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B) | 2:21 |
 | 59 | [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 |
-| 60 | [Tango](https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 3:45 |
+| 60 | [Cień](https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:03 |
 
-Snapshot ID: `MCxmM2IzODRlYTUwNDllZWE2NTA3ZGE5MmRmNzU5NzI4NjBkOTVmMzQw`
+Snapshot ID: `MCw1OThhNGY1ZWVkNTUxZDE2MjRmZGZkYWZmYTFlOTNhMWM4OTljMjIy`

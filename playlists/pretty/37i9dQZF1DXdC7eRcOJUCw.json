@@ -1,6 +1,6 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
-  "num_followers": 123845,
+  "num_followers": 123910,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,18 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Alquimia",
-        "url": "https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq"
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 201200,
-      "name": "Una Llamada Perdida",
-      "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
+      "duration_ms": 270600,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -615,18 +611,22 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+        "name": "Alquimia",
+        "url": "https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
         }
       ],
-      "duration_ms": 270600,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
+      "duration_ms": 201200,
+      "name": "Una Llamada Perdida",
+      "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203173,
       "name": "Mi Ego",
       "url": "https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
         "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
         "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 180773,
       "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
       "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA"
+    },
+    {
+      "added_at": "2023-07-28 16:34:00",
+      "album": {
         "name": "Entiende Que Ya",
         "url": "https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 162829,
       "name": "Con Mis Propias Manos",
       "url": "https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB"
-    },
-    {
-      "added_at": "2023-07-28 16:34:00",
-      "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA"
     },
     {
       "added_at": "2023-07-28 16:34:00",

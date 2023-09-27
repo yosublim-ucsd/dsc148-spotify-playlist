@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "bocs\u00e1nat",
+        "url": "https://open.spotify.com/album/34FAN6XAoTyVX2y47ebTE1"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "bocs\u00e1nat",
+      "url": "https://open.spotify.com/track/2Q5bUYf0LU4Tvg5nJH2WtA"
+    },
+    {
+      "album": {
         "name": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
         "url": "https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx"
       },
@@ -5869,6 +5887,24 @@
     },
     {
       "album": {
+        "name": "Gurulgatok",
+        "url": "https://open.spotify.com/album/4MXiWo5vhU1I3N9k72bu7F"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Gurulgatok",
+      "url": "https://open.spotify.com/track/3tYdb1HYnrqcq9bdwsuxfg"
+    },
+    {
+      "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
       },
@@ -8750,7 +8786,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 168800,
       "name": "Lej",
       "url": "https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E"
@@ -9634,7 +9670,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 215538,
       "name": "MAUI",
       "url": "https://open.spotify.com/track/6uxearbIqsWnmB0yDjEojB"
@@ -10008,7 +10044,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 193542,
       "name": "Miafasz",
       "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
@@ -12527,6 +12563,32 @@
     },
     {
       "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -13268,7 +13330,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 116000,
       "name": "ROSSZL\u00c1NY",
       "url": "https://open.spotify.com/track/0uL4P24GkIY7p2Y9Dfgsfk"
@@ -14486,7 +14548,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -14974,7 +15036,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 198278,
       "name": "SZ\u00cdNVAK",
       "url": "https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo"
@@ -16220,7 +16282,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 182333,
       "name": "T\u00daL SOK A TUNE",
       "url": "https://open.spotify.com/track/40JheOaLfoH15JoGUemME8"

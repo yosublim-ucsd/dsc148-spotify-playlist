@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¿Shakira belicona? ¿Nodal y Ricky Martin sinfónicos? ¿Blink\-182 de regreso? 2023 todavía tiene sorpresas para ti
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,997 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,144 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

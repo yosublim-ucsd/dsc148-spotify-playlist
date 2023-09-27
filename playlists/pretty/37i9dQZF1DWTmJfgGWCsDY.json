@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 2158,
+  "num_followers": 2171,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,18 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Nalimwaga",
-        "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
+        "name": "Sweet Pain",
+        "url": "https://open.spotify.com/album/7reN9E16zjBQdFnsUJnpbj"
       },
       "artists": [
         {
-          "name": "Mzee wa Bwax",
-          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
-        },
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Kayumba",
+          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
         }
       ],
-      "duration_ms": 224906,
-      "name": "Nalimwaga",
-      "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
+      "duration_ms": 222119,
+      "name": "Nimegonga",
+      "url": "https://open.spotify.com/track/4SeJF14PnQOeCr5OM4Yqwj"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -395,18 +391,22 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Sweet Pain",
-        "url": "https://open.spotify.com/album/7reN9E16zjBQdFnsUJnpbj"
+        "name": "Nalimwaga",
+        "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
       },
       "artists": [
         {
-          "name": "Kayumba",
-          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+        },
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 222119,
-      "name": "Nimegonga",
-      "url": "https://open.spotify.com/track/4SeJF14PnQOeCr5OM4Yqwj"
+      "duration_ms": 224906,
+      "name": "Nalimwaga",
+      "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Sanamu La Michelini",
-        "url": "https://open.spotify.com/album/5cKSAOEgMgvIdOmNfOqFWG"
-      },
-      "artists": [
-        {
-          "name": "Mzee wa Bwax",
-          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
-        },
-        {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
-        }
-      ],
-      "duration_ms": 233866,
-      "name": "Sanamu La Michelini",
-      "url": "https://open.spotify.com/track/4izbp6tGtMpur0Dw05Wmql"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
         "name": "Singeli Jungles",
         "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
       },
@@ -539,6 +519,22 @@
       "duration_ms": 280393,
       "name": "Singeli Jungles",
       "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
+        "name": "Sawa Nitaacha",
+        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 218197,
+      "name": "Sawa Nitaacha",
+      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -563,38 +559,22 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Sawa Nitaacha",
-        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
+        "name": "Sanamu La Michelini",
+        "url": "https://open.spotify.com/album/5cKSAOEgMgvIdOmNfOqFWG"
       },
       "artists": [
         {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 218197,
-      "name": "Sawa Nitaacha",
-      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
-        "name": "Umekopwa",
-        "url": "https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X"
-      },
-      "artists": [
-        {
-          "name": "MABANTU",
-          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
         },
         {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
         }
       ],
-      "duration_ms": 283884,
-      "name": "Umekopwa",
-      "url": "https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG"
+      "duration_ms": 233866,
+      "name": "Sanamu La Michelini",
+      "url": "https://open.spotify.com/track/4izbp6tGtMpur0Dw05Wmql"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -619,22 +599,22 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Status",
-        "url": "https://open.spotify.com/album/1mt4GI9A1Msw42jevPqCqk"
+        "name": "Umekopwa",
+        "url": "https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X"
       },
       "artists": [
         {
-          "name": "Mzee wa Bwax",
-          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
         },
         {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 248853,
-      "name": "Status",
-      "url": "https://open.spotify.com/track/7qk0HfhXHEYQQzoZ6caYQM"
+      "duration_ms": 283884,
+      "name": "Umekopwa",
+      "url": "https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -655,6 +635,22 @@
       "duration_ms": 270460,
       "name": "Hatujui",
       "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
+        "name": "Hits of Aslay",
+        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
+      },
+      "artists": [
+        {
+          "name": "Aslay",
+          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "Umbea",
+      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -699,18 +695,22 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Hits of Aslay",
-        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
+        "name": "Status",
+        "url": "https://open.spotify.com/album/1mt4GI9A1Msw42jevPqCqk"
       },
       "artists": [
         {
-          "name": "Aslay",
-          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+        },
+        {
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
         }
       ],
-      "duration_ms": 202631,
-      "name": "Umbea",
-      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
+      "duration_ms": 248853,
+      "name": "Status",
+      "url": "https://open.spotify.com/track/7qk0HfhXHEYQQzoZ6caYQM"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Poaa",
-        "url": "https://open.spotify.com/album/4SkM8MD6ClaCC3e8ePKehm"
-      },
-      "artists": [
-        {
-          "name": "Bamba Pana, Makaveli",
-          "url": "https://open.spotify.com/artist/5pNtipGqlJhqyNscXUwaST"
-        }
-      ],
-      "duration_ms": 278233,
-      "name": "Linga Linga - feat. Makaveli",
-      "url": "https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
         "name": "Mr Dj",
         "url": "https://open.spotify.com/album/37awOEGhmiE9qzRWY1tllI"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 313074,
       "name": "Mr Dj",
       "url": "https://open.spotify.com/track/2Fsdy8geaRfOQzsCBd1ibk"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
+        "name": "Poaa",
+        "url": "https://open.spotify.com/album/4SkM8MD6ClaCC3e8ePKehm"
+      },
+      "artists": [
+        {
+          "name": "Bamba Pana, Makaveli",
+          "url": "https://open.spotify.com/artist/5pNtipGqlJhqyNscXUwaST"
+        }
+      ],
+      "duration_ms": 278233,
+      "name": "Linga Linga - feat. Makaveli",
+      "url": "https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -907,22 +907,22 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Kupendwa Raha",
-        "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
+        "name": "Simu Yangu (Remix)",
+        "url": "https://open.spotify.com/album/1lQ6mMdnmZ44RFxY3y6EgH"
       },
       "artists": [
         {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
         },
         {
-          "name": "Dogo Jully",
-          "url": "https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ"
+          "name": "Mbrasil",
+          "url": "https://open.spotify.com/artist/2y4fe1JlBfqMTvScV2lYu6"
         }
       ],
-      "duration_ms": 304986,
-      "name": "Kupendwa Raha",
-      "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
+      "duration_ms": 224440,
+      "name": "Simu Yangu - Remix",
+      "url": "https://open.spotify.com/track/0a7roGzPErbKY6NLCZPSq4"
     }
   ],
   "unique_name": "Singeli Sounds",

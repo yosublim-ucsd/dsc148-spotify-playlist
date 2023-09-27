@@ -261,6 +261,50 @@
     },
     {
       "album": {
+        "name": "bathroom",
+        "url": "https://open.spotify.com/album/2fKpk83eEE5bozCQDk84z0"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211266,
+      "name": "bathroom",
+      "url": "https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0"
+    },
+    {
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246693,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
+    },
+    {
+      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp"
       },
@@ -432,7 +476,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 216306,
       "name": "California and Me",
       "url": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
@@ -2297,6 +2341,24 @@
     },
     {
       "album": {
+        "name": "Miles Day Blues",
+        "url": "https://open.spotify.com/album/1OKgxHur481MYFpS7GJlp9"
+      },
+      "artists": [
+        {
+          "name": "Thiiird Place",
+          "url": "https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Miles Day Blues",
+      "url": "https://open.spotify.com/track/5rmYtVeUM7Lr4G6BxJAd2J"
+    },
+    {
+      "album": {
         "name": "Miserable Man",
         "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
       },
@@ -3344,7 +3406,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 295201,
       "name": "The Grants",
       "url": "https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h"
@@ -3766,7 +3828,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 216234,
       "name": "Weird",
       "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"

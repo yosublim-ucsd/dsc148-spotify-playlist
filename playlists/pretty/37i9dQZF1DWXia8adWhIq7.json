@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jess\u00e9 Alcantara",
-  "num_followers": 76742,
+  "num_followers": 76830,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-09-25 15:16:47",
       "album": {
-        "name": "De 1 At\u00e9 3",
-        "url": "https://open.spotify.com/album/7jmdlVQj7FLKPIA5VYJcLz"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Figueiredo",
-          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
-        }
-      ],
-      "duration_ms": 168725,
-      "name": "De 1 At\u00e9 3",
-      "url": "https://open.spotify.com/track/4Op3IMhQmQTiJ4ghAX2pCG"
-    },
-    {
-      "added_at": "2023-09-25 15:16:47",
-      "album": {
         "name": "Sua Paz",
         "url": "https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 205266,
       "name": "Sua Paz",
       "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
+    },
+    {
+      "added_at": "2023-09-25 15:16:47",
+      "album": {
+        "name": "De 1 At\u00e9 3",
+        "url": "https://open.spotify.com/album/7jmdlVQj7FLKPIA5VYJcLz"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Figueiredo",
+          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
+        }
+      ],
+      "duration_ms": 168725,
+      "name": "De 1 At\u00e9 3",
+      "url": "https://open.spotify.com/track/4Op3IMhQmQTiJ4ghAX2pCG"
     },
     {
       "added_at": "2023-09-25 15:16:47",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-09-25 15:16:47",
       "album": {
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
+    },
+    {
+      "added_at": "2023-09-25 15:16:47",
+      "album": {
         "name": "Dono dos Meus Dias",
         "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
       },
@@ -339,22 +355,6 @@
     {
       "added_at": "2023-09-25 15:16:47",
       "album": {
-        "name": "Resultado",
-        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Resultado",
-      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
-    },
-    {
-      "added_at": "2023-09-25 15:16:47",
-      "album": {
         "name": "Me Ensina a Viver",
         "url": "https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w"
       },
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-09-25 15:16:47",
       "album": {
-        "name": "Voc\u00ea Por Perto",
-        "url": "https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew"
-      },
-      "artists": [
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        }
-      ],
-      "duration_ms": 231679,
-      "name": "Voc\u00ea Por Perto",
-      "url": "https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9"
-    },
-    {
-      "added_at": "2023-09-25 15:16:47",
-      "album": {
         "name": "Tens o Meu Sim",
         "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 224000,
       "name": "Tens o Meu Sim",
       "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
+    },
+    {
+      "added_at": "2023-09-25 15:16:47",
+      "album": {
+        "name": "Voc\u00ea Por Perto",
+        "url": "https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew"
+      },
+      "artists": [
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        }
+      ],
+      "duration_ms": 231679,
+      "name": "Voc\u00ea Por Perto",
+      "url": "https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9"
     },
     {
       "added_at": "2023-09-25 15:16:47",
@@ -423,6 +423,22 @@
       "duration_ms": 215856,
       "name": "Deus no Controle - Remix",
       "url": "https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2"
+    },
+    {
+      "added_at": "2023-09-25 15:16:47",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 240697,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
     },
     {
       "added_at": "2023-09-25 15:16:47",
@@ -499,22 +515,6 @@
       "duration_ms": 256476,
       "name": "Eu To Vivo",
       "url": "https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc"
-    },
-    {
-      "added_at": "2023-09-25 15:16:47",
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 240697,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
     },
     {
       "added_at": "2023-09-25 15:16:47",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-25 15:16:47",
       "album": {
-        "name": "Teu Reino Venha",
-        "url": "https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw"
-      },
-      "artists": [
-        {
-          "name": "Cord\u00e3o de Tr\u00eas",
-          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
-        }
-      ],
-      "duration_ms": 222103,
-      "name": "Teu Reino Venha",
-      "url": "https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx"
-    },
-    {
-      "added_at": "2023-09-25 15:16:47",
-      "album": {
         "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
         "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 272021,
       "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
       "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
+    },
+    {
+      "added_at": "2023-09-25 15:16:47",
+      "album": {
+        "name": "Teu Reino Venha",
+        "url": "https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw"
+      },
+      "artists": [
+        {
+          "name": "Cord\u00e3o de Tr\u00eas",
+          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
+        }
+      ],
+      "duration_ms": 222103,
+      "name": "Teu Reino Venha",
+      "url": "https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx"
     },
     {
       "added_at": "2023-09-25 15:16:47",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-09-25 15:16:47",
       "album": {
-        "name": "Teu Amor Me Consome",
-        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
-      },
-      "artists": [
-        {
-          "name": "Guerreiros da F\u00e9",
-          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
-        }
-      ],
-      "duration_ms": 226187,
-      "name": "Teu Amor Me Consome",
-      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
-    },
-    {
-      "added_at": "2023-09-25 15:16:47",
-      "album": {
         "name": "Sabe Tudo",
         "url": "https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 193388,
       "name": "Sabe Tudo",
       "url": "https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah"
+    },
+    {
+      "added_at": "2023-09-25 15:16:47",
+      "album": {
+        "name": "Teu Amor Me Consome",
+        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
+      },
+      "artists": [
+        {
+          "name": "Guerreiros da F\u00e9",
+          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
+        }
+      ],
+      "duration_ms": 226187,
+      "name": "Teu Amor Me Consome",
+      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
     },
     {
       "added_at": "2023-09-25 15:16:47",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2023-09-25 15:16:47",
       "album": {
+        "name": "Nunca Te Deixei",
+        "url": "https://open.spotify.com/album/0pF4py857zGGCEty1CeelF"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Nunca Te Deixei",
+      "url": "https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG"
+    },
+    {
+      "added_at": "2023-09-25 15:16:47",
+      "album": {
         "name": "Tudo Novo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk"
       },
@@ -1047,26 +1067,6 @@
     {
       "added_at": "2023-09-25 15:16:47",
       "album": {
-        "name": "Nunca Te Deixei",
-        "url": "https://open.spotify.com/album/0pF4py857zGGCEty1CeelF"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Nunca Te Deixei",
-      "url": "https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG"
-    },
-    {
-      "added_at": "2023-09-25 15:16:47",
-      "album": {
         "name": "Levanto um Aleluia",
         "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
@@ -1083,6 +1083,26 @@
       "duration_ms": 233261,
       "name": "Levanto um Aleluia",
       "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
+    },
+    {
+      "added_at": "2023-09-25 15:16:47",
+      "album": {
+        "name": "Me Alcan\u00e7ou (Remix)",
+        "url": "https://open.spotify.com/album/7rCwRGabV1EuDoZC1eDIfa"
+      },
+      "artists": [
+        {
+          "name": "Heric Tolentino",
+          "url": "https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k"
+        },
+        {
+          "name": "Yann RD",
+          "url": "https://open.spotify.com/artist/4vRegmzSs4RfvmEJVWgOIL"
+        }
+      ],
+      "duration_ms": 331653,
+      "name": "Me Alcan\u00e7ou (Remix)",
+      "url": "https://open.spotify.com/track/1nB2rtGVCTZl1XazO4eTvV"
     },
     {
       "added_at": "2023-09-25 15:16:47",
@@ -1107,26 +1127,6 @@
       "duration_ms": 166530,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
-    },
-    {
-      "added_at": "2023-09-25 15:16:47",
-      "album": {
-        "name": "Me Alcan\u00e7ou (Remix)",
-        "url": "https://open.spotify.com/album/7rCwRGabV1EuDoZC1eDIfa"
-      },
-      "artists": [
-        {
-          "name": "Heric Tolentino",
-          "url": "https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k"
-        },
-        {
-          "name": "Yann RD",
-          "url": "https://open.spotify.com/artist/4vRegmzSs4RfvmEJVWgOIL"
-        }
-      ],
-      "duration_ms": 331653,
-      "name": "Me Alcan\u00e7ou (Remix)",
-      "url": "https://open.spotify.com/track/1nB2rtGVCTZl1XazO4eTvV"
     },
     {
       "added_at": "2023-09-25 15:16:47",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2023-09-25 15:16:47",
       "album": {
+        "name": "Amor de Deus",
+        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Amor de Deus",
+      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
+    },
+    {
+      "added_at": "2023-09-25 15:16:47",
+      "album": {
         "name": "Pai Nosso",
         "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
       },
@@ -1403,22 +1423,22 @@
     {
       "added_at": "2023-09-25 15:16:47",
       "album": {
-        "name": "Amor de Deus",
-        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
+        "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
+        "url": "https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q"
       },
       "artists": [
         {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
         },
         {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+          "name": "Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Amor de Deus",
-      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
+      "duration_ms": 279191,
+      "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
+      "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
     },
     {
       "added_at": "2023-09-25 15:16:47",
@@ -1475,6 +1495,22 @@
     {
       "added_at": "2023-09-25 15:16:47",
       "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+    },
+    {
+      "added_at": "2023-09-25 15:16:47",
+      "album": {
         "name": "Luz do Mundo",
         "url": "https://open.spotify.com/album/6VIlAkJqFIEn863W1fFcDW"
       },
@@ -1491,22 +1527,6 @@
       "duration_ms": 193793,
       "name": "Luz do Mundo",
       "url": "https://open.spotify.com/track/6CDYoW7uZw3st6Fr5uSqSR"
-    },
-    {
-      "added_at": "2023-09-25 15:16:47",
-      "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2023-09-25 15:16:47",
@@ -1559,46 +1579,6 @@
     {
       "added_at": "2023-09-25 15:16:47",
       "album": {
-        "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
-        "url": "https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
-        }
-      ],
-      "duration_ms": 279191,
-      "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
-      "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
-    },
-    {
-      "added_at": "2023-09-25 15:16:47",
-      "album": {
-        "name": "Teu Calor (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY"
-      },
-      "artists": [
-        {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 224083,
-      "name": "Teu Calor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS"
-    },
-    {
-      "added_at": "2023-09-25 15:16:47",
-      "album": {
         "name": "O Amor de Deus",
         "url": "https://open.spotify.com/album/08wVdMKnZGndh8zL9uYEvg"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 156481,
       "name": "O Amor de Deus",
       "url": "https://open.spotify.com/track/5S5MNp2WRwmvdG7JlbdgW8"
+    },
+    {
+      "added_at": "2023-09-25 15:16:47",
+      "album": {
+        "name": "Teu Calor (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY"
+      },
+      "artists": [
+        {
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 224083,
+      "name": "Teu Calor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS"
     },
     {
       "added_at": "2023-09-25 15:16:47",

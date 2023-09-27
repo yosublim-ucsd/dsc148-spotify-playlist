@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > The defining songs of the riot grrrl era, and the artists keeping their spirit alive\. Cover: Sleater\-Kinney
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,619 likes - 86 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,740 likes - 86 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

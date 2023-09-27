@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Quiero Salsa, dame Salsa! Foto: Marc Anthony",
+  "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Marc Anthony",
   "name": "Dame Salsa",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 331773,
       "name": "Conciencia",
       "url": "https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj"
@@ -1714,10 +1714,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 228966,
       "name": "Mala",
       "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
+    },
+    {
+      "album": {
+        "name": "Trovando El Son",
+        "url": "https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu"
+      },
+      "artists": [
+        {
+          "name": "Fresto Music",
+          "url": "https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300791,
+      "name": "Me Hace Da\u00f1o Verte",
+      "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
     },
     {
       "album": {
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 268440,
       "name": "Parecen Viernes",
       "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 310973,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
@@ -2404,7 +2422,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 311800,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"

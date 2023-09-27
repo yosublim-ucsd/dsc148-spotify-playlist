@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > Oneohtrix Point Never takes us on a magical journey ahead of his new album.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,560 likes - 46 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,712 likes - 46 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

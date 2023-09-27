@@ -1,6 +1,6 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 271138,
+  "num_followers": 271258,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
@@ -659,26 +659,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "The Loft Sessions",
-        "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        }
-      ],
-      "duration_ms": 264680,
-      "name": "Fall Afresh",
-      "url": "https://open.spotify.com/track/42TAP4olyZONFmNT48O10D"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Into The Deep (Live)",
         "url": "https://open.spotify.com/album/0VvN0tftREbwUMOBpyOOHB"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 388133,
       "name": "Into The Deep - Live",
       "url": "https://open.spotify.com/track/5wkUfhKdCzHRGK7XwpMksC"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "The Loft Sessions",
+        "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "duration_ms": 264680,
+      "name": "Fall Afresh",
+      "url": "https://open.spotify.com/track/42TAP4olyZONFmNT48O10D"
     },
     {
       "added_at": "2020-06-26 04:02:00",

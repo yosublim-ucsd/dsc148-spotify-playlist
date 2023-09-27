@@ -12381,6 +12381,24 @@
     },
     {
       "album": {
+        "name": "\u0633\u064a\u0628\u0643 \u0645\u0646 \u0627\u0644\u0644\u064a \u062e\u0644\u0639 (\u0643\u0627\u0646 \u0641\u0642\u0631\u064a \u0645\u0634 \u0648\u0634 \u062f\u0644\u0639) \u0639\u0635\u0627\u0645 \u0635\u0627\u0635\u0627 \u0627\u0644\u0643\u0631\u0648\u0627\u0646 - \u0645\u062d\u0645\u0648\u062f \u0627\u0644\u0644\u064a\u062b\u064a",
+        "url": "https://open.spotify.com/album/2wfpcI11XXS5T5vA88NGQA"
+      },
+      "artists": [
+        {
+          "name": "MINA_KHALIL",
+          "url": "https://open.spotify.com/artist/4NbEJrIXdugmiwkJ5oMRRg"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "\u0633\u064a\u0628\u0643 \u0645\u0646 \u0627\u0644\u0644\u064a \u062e\u0644\u0639 (\u0643\u0627\u0646 \u0641\u0642\u0631\u064a \u0645\u0634 \u0648\u0634 \u062f\u0644\u0639) \u0639\u0635\u0627\u0645 \u0635\u0627\u0635\u0627 \u0627\u0644\u0643\u0631\u0648\u0627\u0646 - \u0645\u062d\u0645\u0648\u062f \u0627\u0644\u0644\u064a\u062b\u064a",
+      "url": "https://open.spotify.com/track/4vZihMXPmhRlpON5zwBhLW"
+    },
+    {
+      "album": {
         "name": "\u0633\u064a\u0631\u064a",
         "url": "https://open.spotify.com/album/5NHI0t2ytAVZTVIM0XfTBZ"
       },
@@ -12432,7 +12450,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 162011,
       "name": "\u0634\u0627\u064a\u0641\u0643 \u0645\u062a\u0627\u0628\u0639 \u0639\u0635\u0627\u0645 \u0635\u0627\u0635\u0627 \u0648 \u0645\u062d\u0645\u0648\u062f \u0627\u0644\u0644\u064a\u062b\u064a - ( \u0633\u064a\u0628\u0643 \u0627\u0644\u0644\u064a \u062e\u0644\u0639 )",
       "url": "https://open.spotify.com/track/0mHuKt8J66Uvjvot1pM3Lm"
@@ -12913,6 +12931,24 @@
     },
     {
       "album": {
+        "name": "\u0646\u0633\u0627\u0649",
+        "url": "https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235833,
+      "name": "\u0643\u0644\u0627\u0645 \u0639\u064a\u0646\u064a\u0647",
+      "url": "https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5"
+    },
+    {
+      "album": {
         "name": "\u0643\u0644\u0645\u0647 \u0642\u0628\u0644 \u0645\u0627 \u0623\u0645\u0648\u062a",
         "url": "https://open.spotify.com/album/5WsEgRP7J49LpLJXWsUyZe"
       },
@@ -13070,7 +13106,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 206132,
       "name": "\u0644\u0645\u0648\u0646 \u0646\u0639\u0646\u0627\u0639",
       "url": "https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM"

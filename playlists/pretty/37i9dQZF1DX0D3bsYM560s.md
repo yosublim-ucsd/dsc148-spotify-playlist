@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,658 likes - 97 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,672 likes - 97 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

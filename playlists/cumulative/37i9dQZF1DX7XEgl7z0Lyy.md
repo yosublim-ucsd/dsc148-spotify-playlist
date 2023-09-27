@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-100 songs - 3 hr 21 min
+102 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All Eyez On Me](https://open.spotify.com/track/3Ml1RetK8lfUZ1kBzMhvNf) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [All Eyez On Me](https://open.spotify.com/album/73ltZParXtux9ydXMo4qo5) | 1:24 | 2023-07-21 | 2023-08-26 |
 | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H) | 3:28 | 2023-08-18 |  |
 | [Bag \(azurreh mix\) <3](https://open.spotify.com/track/0dUY7LFK25EqLLeSwDtAB9) | [azurreh](https://open.spotify.com/artist/1nWQz0dYYJRbyym28yHcw4), [mai](https://open.spotify.com/artist/77lNm684zLFkTVZyWtyhca) | [Bag \(azurreh mix\) <3](https://open.spotify.com/album/6uCUWx86biFtjsCvh0qbpj) | 1:46 | 2023-07-28 |  |
+| [BAIXO](https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [BAIXO](https://open.spotify.com/album/4FZ9dWvoOMpOMzh914Jmhc) | 1:44 | 2023-09-26 |  |
 | [bandz in my poccket](https://open.spotify.com/track/6D9pELc0TWsCgxVxqhpmkR) | [kaystrueno](https://open.spotify.com/artist/2PY3V8CCFzhqxUzWEcjKZ4) | [bandz in my poccket](https://open.spotify.com/album/6iu9KtHmLXOiHX0Kh2dh7t) | 1:01 | 2023-07-21 | 2023-07-28 |
 | [Blow Up!](https://open.spotify.com/track/2zzZeb9Ak6Dg4ApitspENL) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Blow Up!](https://open.spotify.com/album/4LLNrklrDzeZl5M9gc8kBx) | 2:30 | 2023-09-08 |  |
 | [BodyPartz](https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [BodyPartz](https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7) | 1:19 | 2023-07-21 |  |
@@ -37,6 +38,7 @@
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2023-07-27 |  |
 | [go\_hard](https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [WASTY](https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ) | [go\_hard](https://open.spotify.com/album/6PKcqeS05kyd5MjawZcV1q) | 2:06 | 2023-08-25 |  |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 | 2023-07-21 |  |
+| [Hands up!](https://open.spotify.com/track/04gSLX5nUhkKiMe1geeqnA) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Hands up!](https://open.spotify.com/album/4poweJXaiw4HwGhfvjMGkL) | 2:14 | 2023-09-26 |  |
 | [Hands up!](https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Sassy Scene](https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl) | 2:15 | 2023-07-21 | 2023-09-09 |
 | [help\_urself](https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [Ezekiel Singles ’18\-‘20](https://open.spotify.com/album/2myOeDsuEGTSUhmkRQMH0v) | 2:19 | 2023-07-21 |  |
 | [HOSTAGE](https://open.spotify.com/track/4TlKDSXQtHkDJIa5v6gB8A) | [Kayla G](https://open.spotify.com/artist/70a2f8eEAvvtz3uLxq35CL) | [HOSTAGE](https://open.spotify.com/album/2iETy4VvjZT3I6smiL21Zh) | 1:47 | 2023-08-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Una selección de baladas para suspirar de amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,643 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,693 likes - 90 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 26 | [La Soñé](https://open.spotify.com/track/5irK16GrbSb7eSKzvrbJiZ) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq) | [Poncho](https://open.spotify.com/album/2LqkMvdnxBpqdOwGXPMdP3) | 3:15 |
 | 27 | [Vuela una Lagrima](https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnaval, Pasión del Norte](https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC) | 4:57 |
 | 28 | [Folklore Romántico: Nada Tengo de Ti / Canción del Adiós / Dueña de Mi Alma / Zamba para Olvidarte](https://open.spotify.com/track/3YicOdQ4o9KZcyxY8bZWu5) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Folklore Romántico: Nada Tengo de Ti / Canción del Adiós / Dueña de Mi Alma / Zamba para Olvidarte](https://open.spotify.com/album/3MuAn8aG7ZvtCop2C8GH3G) | 7:55 |
-| 29 | [Cuando Llegue El Alba](https://open.spotify.com/track/3BTDGRUiGAf4aki71sVObH) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:02 |
+| 29 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 |
 | 30 | [Si Pudiera](https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Si Pudiera](https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C) | 2:53 |
-| 31 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 |
+| 31 | [Cuando Llegue El Alba](https://open.spotify.com/track/3BTDGRUiGAf4aki71sVObH) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:02 |
 | 32 | [Olvida Que Te He Amado](https://open.spotify.com/track/0addwQw947UzHhby2thnGg) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Mi Cantar](https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX) | 4:19 |
 | 33 | [La Flor Azul](https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 2:42 |
 | 34 | [No Me Olvides](https://open.spotify.com/track/5OJAOB8Pe0IZOeGGjerPkE) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:54 |
 | 35 | [Anaranjado \- Mas Allá De La Ternura](https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71) | [Mas Alla De La Ternura](https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc) | 4:12 |
 | 36 | [Zamba para Decir Adiós](https://open.spotify.com/track/1XojvsvPtUsG4SqgHiGiGX) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Zamba para Decir Adiós](https://open.spotify.com/album/0Yu1ZRD84F4phx551aEUl5) | 3:54 |
-| 37 | [Fabula De Amor](https://open.spotify.com/track/7KAX0hjF1ieKr0k5rSPDNH) | [Sergio Galleguillo Y Los Amigos](https://open.spotify.com/artist/4RWsSjLE6TMBwdYzHj2NiO) | [Grito Chayero](https://open.spotify.com/album/0Q5etdp3c84hBS4RgfPv4O) | 4:02 |
-| 38 | [Te Pido En Agosto](https://open.spotify.com/track/39EGOt9hySCsyT0Bamt8v2) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [PACHAKUTI](https://open.spotify.com/album/5vSZkx2vIdCNH0IVndOHpi) | 3:36 |
+| 37 | [Te Pido En Agosto](https://open.spotify.com/track/39EGOt9hySCsyT0Bamt8v2) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [PACHAKUTI](https://open.spotify.com/album/5vSZkx2vIdCNH0IVndOHpi) | 3:36 |
+| 38 | [Fabula De Amor](https://open.spotify.com/track/7KAX0hjF1ieKr0k5rSPDNH) | [Sergio Galleguillo Y Los Amigos](https://open.spotify.com/artist/4RWsSjLE6TMBwdYzHj2NiO) | [Grito Chayero](https://open.spotify.com/album/0Q5etdp3c84hBS4RgfPv4O) | 4:02 |
 | 39 | [Eterno Amor](https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Eterno Amor](https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X) | 3:56 |
 | 40 | [Hablan de Ti](https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6) | [Copla alta](https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Hablan de Ti](https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz) | 4:02 |
 | 41 | [Si Te Vas](https://open.spotify.com/track/5OHJKDaqEWl4t5aCilj3aQ) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Codigo de Barro](https://open.spotify.com/album/0K93fTicVZxSDToZ0wwQDL) | 5:13 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 87 | [Te Olvidé](https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Te Olvidé](https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU) | 3:00 |
 | 88 | [No Te Vayas](https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [No Te Vayas](https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT) | 3:44 |
 | 89 | [Quiero Saber Si Me Extrañas](https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy) | [Bruno Sosa Trotti](https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ) | [Canciones Con Sentido](https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w) | 3:04 |
-| 90 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
+| 90 | [Tan Cerca En La Distancia](https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG) | [Los Juncales](https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA) | [Tan Cerca En La Distancia](https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo) | 3:22 |
 
 Snapshot ID: `MCw1NTA3ZTJhNTM5NGFkZTU2ODkxYjlkODE4NGEyMDEzMzRkN2ZkMzkw`

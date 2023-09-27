@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-88 songs - 5 hr 17 min
+89 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Bouncybob](https://open.spotify.com/track/7ekejMr4jz8UZOthhMVMKn) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Bouncybob](https://open.spotify.com/album/2O5qqcBlfr5LYlvu9Kf9jU) | 4:11 | 2022-06-30 |  |
 | [Calling](https://open.spotify.com/track/4LApxjrPhbmSXdTXaHrqA1) | [Exotic](https://open.spotify.com/artist/14ASSasIb42tG16ym4kVfh) | [Elite Guarach](https://open.spotify.com/album/2ISwlwDSZNJFwWEB99DBfh) | 3:37 | 2022-06-30 |  |
 | [Colombia \- Bootleg](https://open.spotify.com/track/0xIS1ttmdlsu6Dhw4wyXmE) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Elee Bermudez](https://open.spotify.com/artist/3XL83JdrAA1BDV1yVTcskW) | [The King Of Guaracha](https://open.spotify.com/album/70kQUkBcjrztqhpnbSfi5m) | 3:45 | 2022-06-30 |  |
-| [Deep Down Low](https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM) | 3:10 | 2022-06-30 |  |
+| [Deep Down Low](https://open.spotify.com/track/2UnjLIBORWFqHmYrmzttg8) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low \(Remixes\)](https://open.spotify.com/album/1aZVy48fiWgn4G6KL08C6r) | 3:04 | 2023-01-09 |  |
+| [Deep Down Low](https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM) | 3:10 | 2022-06-30 | 2023-09-27 |
 | [Diamonds](https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Diamonds](https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc) | 3:25 | 2022-06-30 |  |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2022-06-30 |  |
 | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/track/5M9jOReAKGZ2AttVefFjTY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/album/7e4eCJT5ON1FpJD5Si341e) | 3:43 | 2022-06-30 |  |

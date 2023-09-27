@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 
 > Music by our 2023 Artists To Watch\. Cover: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,785 likes - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,808 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

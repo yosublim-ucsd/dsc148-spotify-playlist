@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78tHDcKCzXN.md) - [plain]
 
 > To the world, this is NCT! This is NCT 127!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,899 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,987 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

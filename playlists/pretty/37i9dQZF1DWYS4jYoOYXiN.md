@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,847 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,877 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 22 | [Grazin' In The Grass](https://open.spotify.com/track/071QzNfV4nNVuCbBZ598uC) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Orchestra Harlow Presenta a Ismael Miranda](https://open.spotify.com/album/3YIcRu0JUrtqcXQUoLjoy4) | 3:16 |
 | 23 | [Lo Atará la Arache](https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:32 |
 | 24 | [That's How Rumors Start](https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv) | [Joey Pastrana and His Orchestra](https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2) | [Joey](https://open.spotify.com/album/2N69ERhN11ludnptsYs16c) | 7:32 |
-| 25 | [Cloud Nine](https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 5:44 |
-| 26 | [Marilu](https://open.spotify.com/track/0fkWQUZ8Rhh99dNDAIT5Q1) | [George Guzman](https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL) | [Introducing George Guzman](https://open.spotify.com/album/6jP4TUoDIjzM85nWsPdFgb) | 4:07 |
+| 25 | [Marilu](https://open.spotify.com/track/0fkWQUZ8Rhh99dNDAIT5Q1) | [George Guzman](https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL) | [Introducing George Guzman](https://open.spotify.com/album/6jP4TUoDIjzM85nWsPdFgb) | 4:07 |
+| 26 | [Cloud Nine](https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 5:44 |
 | 27 | [Pastime Paradise](https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [La Cuna](https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy) | 8:34 |
 | 28 | [Richie's Jala\-Jala](https://open.spotify.com/track/0QvRbWa5WBhbJtg52GdbJq) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 4:57 |
 | 29 | [Arrecotín Arrecotán](https://open.spotify.com/track/4YvQolXPImTRwrhG40hqsf) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ), [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma) | [Con Todos los Hierros: Everything But The Kitchen Sink](https://open.spotify.com/album/4VXR5GVsHxY0dXM0XwK9rX) | 3:36 |

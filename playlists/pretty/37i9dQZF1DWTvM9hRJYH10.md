@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: MaRynn Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,784 likes - 165 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,816 likes - 165 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

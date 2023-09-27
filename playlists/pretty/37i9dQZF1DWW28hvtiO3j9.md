@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,594 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,759 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 8 | [Just a Joke](https://open.spotify.com/track/1dLeSutde2Nt4DIWaLKxXO) | [Yurie Kokubu](https://open.spotify.com/artist/1TnNKsMdzxwBiHkde10tPX) | [Relief 72 hours](https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5) | 3:09 |
 | 9 | [街のドルフィン](https://open.spotify.com/track/5w6EvyvomUSWsF430iixmc) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [midnight cruisin'](https://open.spotify.com/album/30lgWjklkY1TOx7EdiGYlq) | 3:52 |
 | 10 | [Wash](https://open.spotify.com/track/0M9q4H3pQaoNUgBXZj34U1) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 4:31 |
-| 11 | [テレフォン・ナンバー](https://open.spotify.com/track/4o5pAjHBuKose80OQRgXAg) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [City Pop Essetials \- Idols \-](https://open.spotify.com/album/28xnnoGQ81K2Y7M2OqGn4o) | 3:59 |
+| 11 | [テレフォン・ナンバー](https://open.spotify.com/track/4o5pAjHBuKose80OQRgXAg) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [City Pop Essentials \- Idols \-](https://open.spotify.com/album/28xnnoGQ81K2Y7M2OqGn4o) | 3:59 |
 | 12 | [思い出のビーチクラブ](https://open.spotify.com/track/6ynyyNv3m9ghqePgtDUQCE) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [稲垣潤一 meets 林哲司](https://open.spotify.com/album/7AVLTM7be4utQhJ3yPBc89) | 4:37 |
 | 13 | [Love Was Really Gone \- 2018 Remaster](https://open.spotify.com/track/2aaOJJd2fBkd4es7vI2h2a) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 5:47 |
 | 14 | [ふたりの夏物語 NEVER ENDING SUMMER](https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx), [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [ゴールデン☆ベスト](https://open.spotify.com/album/3Vq6k1RTSR7NydAR6AoDw6) | 4:01 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 43 | [土曜の夜はパラダイス](https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [VITAMIN E・P・O](https://open.spotify.com/album/6IpND4kv199toWznRRTqrW) | 4:09 |
 | 44 | [雨](https://open.spotify.com/track/697jY7OLi15Iv3YUMrrULD) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Yokohama Ragtime](https://open.spotify.com/album/7qjft00dDfIB21CxjCGjiJ) | 3:28 |
 | 45 | [色彩都市](https://open.spotify.com/track/1NPwuNYRugoQz8y5HTnIBL) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [cliche \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/4al3d0A9Ial2N26xVMa2EM) | 3:34 |
-| 46 | [雨のウェンズデイ](https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:26 |
-| 47 | [LIGHT'N UP](https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [LIGHT'N UP](https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7) | 5:48 |
+| 46 | [LIGHT'N UP](https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [LIGHT'N UP](https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7) | 5:48 |
+| 47 | [雨のウェンズデイ](https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:26 |
 | 48 | [Bewitched \(Are You Leaving Soon\)](https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy) | [Naomi Akimoto](https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl) | [The 20th Anniversary](https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd) | 4:44 |
 | 49 | [Junjou](https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Air Kiss](https://open.spotify.com/album/0HPFK3PQpRl1bU3Maptq78) | 3:31 |
 | 50 | [A面で恋をして](https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH) | [NIAGARA TRIANGLE](https://open.spotify.com/artist/2Z7xG1x1KFkKXGQmr38j1M), [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [Masamichi Sugi](https://open.spotify.com/artist/0sunKSW71vUUlXKwwJQKKH), [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [NIAGARA TRIANGLE vol.2 40th Anniversary Edition](https://open.spotify.com/album/1eXJvf74OeQnFlx6G7qbCJ) | 3:11 |

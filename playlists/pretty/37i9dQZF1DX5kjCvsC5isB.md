@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise and are rocking our worlds right now / Cover: Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,775 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,805 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 84 | [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 |
 | 85 | [Overrated](https://open.spotify.com/track/5pfU5BzNAY2ICD6ebEdTQ2) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Overrated](https://open.spotify.com/album/4bwu7tY0egNlRfdnckf6gE) | 2:59 |
 | 86 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 |
-| 87 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 |
+| 87 | [Do It All the Same](https://open.spotify.com/track/2R1biw2dakDeYLstlHYZ3x) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Compromise](https://open.spotify.com/album/4zTzdqL5Zfk0CYnrs8pkzP) | 3:27 |
 | 88 | [Wish It Was](https://open.spotify.com/track/31fAHxxQshddV7JHNkxz49) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Wish It Was](https://open.spotify.com/album/6VPEA2UY1r17TtbsGAiIdz) | 3:06 |
 | 89 | [LASSO](https://open.spotify.com/track/2loBPRmc29O9vNAQ5UD9kF) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [LASSO](https://open.spotify.com/album/4jUoqzZSmKP9QFOC9DCQba) | 2:58 |
 | 90 | [RICH$$$](https://open.spotify.com/track/0WJqGFXhuSV7UxjrvbcLdY) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [RICH$$$](https://open.spotify.com/album/5LPNhMtx4YfvNzZzHyv8YF) | 2:59 |

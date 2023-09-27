@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Teen Jesus and the Jean Teasers are our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,710 likes - 63 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,714 likes - 63 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

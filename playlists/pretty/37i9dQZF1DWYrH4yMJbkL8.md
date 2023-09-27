@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by OMBIIGIZI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,219 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,248 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

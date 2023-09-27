@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Baron, Niclov
 
-1,263 songs - 2 day 11 hr 53 min
+1,264 songs - 2 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,7 +622,7 @@
 | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 | 2022-06-23 | 2022-07-05 |
 | [Laufen](https://open.spotify.com/track/48uj745ePI0ArluMx8oT2d) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Laufen](https://open.spotify.com/album/3lNTzd382GByIN1haGtVl5) | 3:06 | 2023-05-18 | 2023-05-26 |
 | [laut](https://open.spotify.com/track/1sxuAbsNUfiBXqXrJA12fb) | [Apollo Sissi](https://open.spotify.com/artist/3rx1CQwe0iyA3d2q1renfJ) | [the most beautiful storm you can imagine](https://open.spotify.com/album/782Z7f4RMyLl3xx20wioUW) | 2:37 | 2023-06-15 | 2023-06-23 |
-| [Laut Denken](https://open.spotify.com/track/0ByVX07lcLowwxoSOEeMGo) | [Flavio](https://open.spotify.com/artist/6TBB2wdiwVBJYCdaRhOErs), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Laut Denken](https://open.spotify.com/album/2TcpdBpjdbvCeeIAfFR783) | 2:17 | 2023-09-15 |  |
+| [Laut Denken \(feat\. Levin Liam\)](https://open.spotify.com/track/0ByVX07lcLowwxoSOEeMGo) | [Flavio](https://open.spotify.com/artist/6TBB2wdiwVBJYCdaRhOErs), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Laut Denken \(feat\. Levin Liam\)](https://open.spotify.com/album/2TcpdBpjdbvCeeIAfFR783) | 2:17 | 2023-09-15 |  |
 | [Lautlos](https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Lautlos](https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW) | 2:53 | 2022-11-21 | 2022-12-02 |
 | [Leben ist zu kurz um Angst zu haben](https://open.spotify.com/track/2Rh89ij1q0U3r1qJUaWUHz) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Pass dich nie an, Pass auf dich auf](https://open.spotify.com/album/0O0Ex2MfhZxODJo26RIP30) | 2:25 | 2022-06-16 | 2022-07-14 |
 | [LEBENSLANG \- HBz Remix](https://open.spotify.com/track/3VezyVVENyPQ5u2DIJsITb) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac), [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ) | [LEBENSLANG \(HBz Remix\)](https://open.spotify.com/album/6tk8ZgyU3O0JpBIpqphJpq) | 2:50 | 2023-08-29 |  |
@@ -1027,7 +1027,7 @@
 | [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 | 2023-03-20 | 2023-04-09 |
 | [Stories](https://open.spotify.com/track/5ojRucwd93evX3j6XzIid8) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L), [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Stories](https://open.spotify.com/album/3Jpv4tjQUyOiMFtEDfDTTl) | 2:16 | 2022-06-23 | 2022-07-15 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-04 |  |
-| [streetsmart](https://open.spotify.com/track/0Qe3c6avosY3zD6m6nmK24) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [streetsmart](https://open.spotify.com/album/6dHxhtdsS5j3GxXbOr7T46) | 2:32 | 2023-08-31 |  |
+| [streetsmart](https://open.spotify.com/track/0Qe3c6avosY3zD6m6nmK24) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [streetsmart](https://open.spotify.com/album/6dHxhtdsS5j3GxXbOr7T46) | 2:32 | 2023-08-31 | 2023-09-27 |
 | [sucht](https://open.spotify.com/track/2CHiLa0obXZOzUd8BzUmhI) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [sucht](https://open.spotify.com/album/2FiytmCp7Ewv6FDcyGxzQf) | 2:33 | 2023-06-01 | 2023-06-23 |
 | [sugar mommy](https://open.spotify.com/track/7nsNcz4GrjN8jZElIpEi7w) | [Colm](https://open.spotify.com/artist/78l4EfrLQMmhAvNxoGQ2UW), [Hello Hannes](https://open.spotify.com/artist/0NUCZzalRW9dNTTBzP19pi) | [sugar mommy](https://open.spotify.com/album/5HgXIYMS30bkhmISIZ5EUS) | 2:09 | 2023-03-02 | 2023-03-10 |
 | [Suicide](https://open.spotify.com/track/3WYuIKvTLWbv8IwFNakmo5) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Suicide](https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs) | 3:44 | 2022-11-03 | 2022-11-18 |
@@ -1051,6 +1051,7 @@
 | [TABU.](https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [TABU.](https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom) | 2:15 | 2023-04-13 | 2023-07-27 |
 | [Tag 1](https://open.spotify.com/track/0t2RBIqDsLgqPN9fe4Tb5y) | [Kidd Azzurra](https://open.spotify.com/artist/78l0gyXe9ppP4zLZDsgfcj) | [Tag 1](https://open.spotify.com/album/34ht475Ql2EnLpXFJeaKAV) | 1:56 | 2023-06-15 | 2023-06-30 |
 | [take a moment to breathe.](https://open.spotify.com/track/4oXmzcn9ritfb7n9rvZWf6) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [take a moment to breathe.](https://open.spotify.com/album/0toJrr2xW06CSwEut3bbK9) | 3:38 | 2022-06-09 | 2022-07-05 |
+| [Take it](https://open.spotify.com/track/0ya0fBUHF1TKookyKM5ZVQ) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Take it](https://open.spotify.com/album/3W3co9SDAzroZoUME3aaZ3) | 2:52 | 2023-09-26 |  |
 | [Take me home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 | 2022-12-15 | 2022-12-24 |
 | [Tanz In Deiner Wohnung](https://open.spotify.com/track/1HK0OkZNHBGUwG4BkcydKB) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Tanz In Deiner Wohnung](https://open.spotify.com/album/4yzLVO788gfMjTO43aX3ws) | 3:04 | 2023-06-23 | 2023-08-30 |
 | [Taste](https://open.spotify.com/track/1Z2hD2Mk0zI3Ky2XhekgXG) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Taste](https://open.spotify.com/album/6QbctyjXKTZYdBKU8xj3u6) | 2:49 | 2023-07-27 | 2023-08-11 |

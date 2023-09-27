@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 
 > cute moments in fields and on dancefloors \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,261 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,322 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 33 | [Danielle \(smile on my face\)](https://open.spotify.com/track/4HStxm6wtRzoAyOacAlHUG) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 3:21 |
 | 34 | [In Control \- Innellea Remix](https://open.spotify.com/track/35fdRgZrz5ujDGBaqhoPE8) | [Forma](https://open.spotify.com/artist/1lmP325N7mFdhDOl7tMfpL), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [In Control \(Innellea Remix\)](https://open.spotify.com/album/2ldvU2vukDp8TyH9qDie2G) | 5:45 |
 | 35 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 |
-| 36 | [Never Gonna Stop](https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:59 |
-| 37 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 |
+| 36 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 |
+| 37 | [Never Gonna Stop](https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:59 |
 | 38 | [Alright](https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Alright](https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi) | 4:55 |
 | 39 | [Bby](https://open.spotify.com/track/7kAJWULoQUsWiiTJp2951Y) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Diamond Cut / Bby](https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k) | 5:43 |
 | 40 | [To The Floor](https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:09 |

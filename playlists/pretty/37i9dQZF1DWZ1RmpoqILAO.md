@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation Cover: Slaughter Beach, Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,575 likes - 144 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,664 likes - 144 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

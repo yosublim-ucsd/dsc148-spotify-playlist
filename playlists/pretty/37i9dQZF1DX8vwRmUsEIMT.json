@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Bakar",
-  "num_followers": 547015,
+  "num_followers": 546999,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWIwODA4NmM2MjE2NDgwYmJkMzY0ZmEzZjY0OGFiMjM5MTUzNWVk",
+  "snapshot_id": "MCxjZTFkYjM0NDViMGNkMDY0YTVlNGZlY2UyOGJiODQ4ZTc3YzBlN2Q3",
   "tracks": [
     {
       "added_at": "2023-09-22 08:14:48",
@@ -27,22 +27,34 @@
     {
       "added_at": "2023-09-21 23:12:12",
       "album": {
-        "name": "Slime You Out",
-        "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
+        "name": "Got Me Started",
+        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 310490,
-      "name": "Slime You Out (feat. SZA)",
-      "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
+    },
+    {
+      "added_at": "2023-09-21 23:12:12",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO"
     },
     {
       "added_at": "2023-09-21 23:12:12",
@@ -71,34 +83,22 @@
     {
       "added_at": "2023-09-21 23:12:12",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk"
+        "name": "Slime You Out",
+        "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO"
-    },
-    {
-      "added_at": "2023-09-21 23:12:12",
-      "album": {
-        "name": "Got Me Started",
-        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
-      },
-      "artists": [
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 198448,
-      "name": "Got Me Started",
-      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
+      "duration_ms": 310490,
+      "name": "Slime You Out (feat. SZA)",
+      "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
     },
     {
       "added_at": "2023-09-21 23:12:12",
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
+      "added_at": "2023-09-26 09:58:39",
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
       "added_at": "2023-09-21 23:12:12",
       "album": {
         "name": "GUTS",
@@ -501,7 +517,7 @@
         }
       ],
       "duration_ms": 220408,
-      "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
+      "name": "Another One Of Me (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
     },
     {
@@ -651,6 +667,22 @@
       "duration_ms": 164795,
       "name": "Tip Toes",
       "url": "https://open.spotify.com/track/2AQQu9575Fa8o8tkbSrFoG"
+    },
+    {
+      "added_at": "2023-09-26 09:58:39",
+      "album": {
+        "name": "With All Due Disrespect",
+        "url": "https://open.spotify.com/album/30yDua4Di0L2wouOc5rHKN"
+      },
+      "artists": [
+        {
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+        }
+      ],
+      "duration_ms": 177911,
+      "name": "Mr. Hypocrite",
+      "url": "https://open.spotify.com/track/1gKelgRPHsiSnVXWlgHJff"
     },
     {
       "added_at": "2023-09-21 23:12:12",

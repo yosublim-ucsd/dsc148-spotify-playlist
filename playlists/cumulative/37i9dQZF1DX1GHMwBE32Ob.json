@@ -450,7 +450,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 144758,
       "name": "Call of Duty",
       "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 145125,
       "name": "IDme (owo to po leti)",
       "url": "https://open.spotify.com/track/6tJxcQmhOM9jY744gFKWdY"
@@ -2216,7 +2216,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 146494,
       "name": "Pop (Alcohol Alcohol)",
       "url": "https://open.spotify.com/track/6rMi4IgGoZ8ahKFNlhUym1"
@@ -2242,6 +2242,24 @@
       "duration_ms": 174666,
       "name": "Portable - Ogbafia",
       "url": "https://open.spotify.com/track/0kYQtrYwRdnRzHhR0fd2fm"
+    },
+    {
+      "album": {
+        "name": "Puff & Pass",
+        "url": "https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161462,
+      "name": "Puff & Pass",
+      "url": "https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U"
     },
     {
       "album": {
@@ -2274,7 +2292,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 208581,
       "name": "PXTA",
       "url": "https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg"

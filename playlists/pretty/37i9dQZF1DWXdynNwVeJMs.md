@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: John Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,481 likes - 80 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,493 likes - 80 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

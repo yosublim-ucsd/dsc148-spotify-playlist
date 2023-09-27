@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 
 > Canciones tropicales que te transportan a Caleta y Caletilla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,620 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,674 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 | 38 | [Agüita De Melón](https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Se Nos Paso La Mano En Sabor](https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs) | 3:05 |
 | 39 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |
 | 40 | [Culpable O No](https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Cumbias Con Amor](https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN) | 3:28 |
-| 41 | [Amor Añejo](https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL) | [Internacional Carro Show](https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt) | [Las Viejas Mas Bailadas](https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET) | 3:05 |
-| 42 | [Viva El Amor](https://open.spotify.com/track/588ZtSf0EGxZoMF4AIEtoL) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Mi Fantasia](https://open.spotify.com/album/1adsPQiPWD6KU41u114eii) | 3:46 |
+| 41 | [Viva El Amor](https://open.spotify.com/track/588ZtSf0EGxZoMF4AIEtoL) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Mi Fantasia](https://open.spotify.com/album/1adsPQiPWD6KU41u114eii) | 3:46 |
+| 42 | [Amor Añejo](https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL) | [Internacional Carro Show](https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt) | [Las Viejas Mas Bailadas](https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET) | 3:05 |
 | 43 | [La del Vestido Rojo](https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [La Del Vestido Rojo](https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS) | 3:41 |
 | 44 | [La Sirenita](https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Amor Y Cumbia](https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ) | 3:56 |
-| 45 | [Pero Tu No Estas](https://open.spotify.com/track/00c81raDwIJa803nmAgcU3) | [Grupo Flash](https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK) | [20 Joyas de la Historia Musical](https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B) | 2:34 |
-| 46 | [Príncipe Azul](https://open.spotify.com/track/5WdQyJKSSw7591St3jSKS2) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Tu Principe Azul](https://open.spotify.com/album/3Rx03l8gqAhv3NAciC3gh5) | 2:56 |
+| 45 | [Príncipe Azul](https://open.spotify.com/track/5WdQyJKSSw7591St3jSKS2) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Tu Principe Azul](https://open.spotify.com/album/3Rx03l8gqAhv3NAciC3gh5) | 2:56 |
+| 46 | [Pero Tu No Estas](https://open.spotify.com/track/00c81raDwIJa803nmAgcU3) | [Grupo Flash](https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK) | [20 Joyas de la Historia Musical](https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B) | 2:34 |
 | 47 | [Hola, ¿Cómo Estás?](https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Amor Vendido, Vol\. 4](https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3) | 3:19 |
 | 48 | [Mentirosa \(Eres Mentirosa\)](https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss) | [Chicos de Barrio](https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X) | [Puros Vatos...Choca Y Rebota](https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe) | 4:33 |
 | 49 | [Viento](https://open.spotify.com/track/0Vu0dWhxAoin5w2WgMl01i) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [Bailando Bien Con...](https://open.spotify.com/album/2M7tRxi6Tev1wi65YlEptV) | 2:55 |
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 | 77 | [Capullo y Sorullo](https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Margarita](https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl) | [Música Tropical de Colombia, Vol\. 3](https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9) | 4:10 |
 | 78 | [Ron Y Coca Cola](https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV) | [Mister Chivo](https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw) | [Ron Y Coca Cola](https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx) | 3:14 |
 | 79 | [Por Unas Monedas](https://open.spotify.com/track/0FYTqOgOiMRRJsntgcGhSD) | [Los Abelardos](https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX) | [Poquito a Poquito](https://open.spotify.com/album/3FFqpuXSWBsijefP5UMI5E) | 3:11 |
-| 80 | [La Hierba Se Movía](https://open.spotify.com/track/3gFAXop87ZB2sZZI6B59Vy) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [Mis 14 Exitos De Oro](https://open.spotify.com/album/0AzKda2rKGMlbWvwSBt1ln) | 3:06 |
+| 80 | [Macumba](https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Macumba](https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5) | 2:44 |
 | 81 | [La Coloreteada](https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Serie 32](https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u) | 3:21 |
-| 82 | [Macumba](https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Macumba](https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5) | 2:44 |
+| 82 | [La Hierba Se Movía](https://open.spotify.com/track/3gFAXop87ZB2sZZI6B59Vy) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [Mis 14 Exitos De Oro](https://open.spotify.com/album/0AzKda2rKGMlbWvwSBt1ln) | 3:06 |
 | 83 | [La feria de Cali](https://open.spotify.com/track/1v7xtNEebuvdi147gd7rRc) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [Antología...Los Sonor's](https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6) | 2:52 |
 | 84 | [De Quen Chon](https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [De Quen Chon](https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q) | 2:48 |
 | 85 | [Tiburón A La Vista](https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:43 |

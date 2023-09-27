@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Excision & Subtronics.",
-  "num_followers": 974760,
+  "num_followers": 974787,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Bass To The Dome",
-        "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 203224,
-      "name": "Bass To The Dome",
-      "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "BANG YOUR HEAD",
         "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 204798,
       "name": "BANG YOUR HEAD",
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Bass To The Dome",
+        "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 203224,
+      "name": "Bass To The Dome",
+      "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -647,30 +647,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Don't Look Down (Hold On)",
-        "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Don't Look Down (Hold On)",
-      "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "SAXORiDDiM",
         "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 216000,
       "name": "EAT SLEEP RAGE",
       "url": "https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Don't Look Down (Hold On)",
+        "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Don't Look Down (Hold On)",
+      "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "DREAMING",
-        "url": "https://open.spotify.com/album/4j4lXlRPk0dcQZl8UqMorB"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "DREAMING",
-      "url": "https://open.spotify.com/track/1XmNeOPvxlWupeok8TzNvm"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 284137,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "DREAMING",
+        "url": "https://open.spotify.com/album/4j4lXlRPk0dcQZl8UqMorB"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "DREAMING",
+      "url": "https://open.spotify.com/track/1XmNeOPvxlWupeok8TzNvm"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1211,6 +1211,34 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Shapeshifter (feat. Styles of Beyond) [Zardonic & Pythius Remix]",
+        "url": "https://open.spotify.com/album/2tc5jcJXOOaSLgGpa2ELcG"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        },
+        {
+          "name": "Styles Of Beyond",
+          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
+        },
+        {
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        },
+        {
+          "name": "Pythius",
+          "url": "https://open.spotify.com/artist/0CRJK2gwHjs3IKm4uhjNTR"
+        }
+      ],
+      "duration_ms": 304460,
+      "name": "Shapeshifter (feat. Styles of Beyond) - Zardonic & Pythius Remix",
+      "url": "https://open.spotify.com/track/2UuHVdvmK8hcjLF6ek117I"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "OH LAWD",
         "url": "https://open.spotify.com/album/4qKjQ6GfhuN7WRxOHdB7U4"
       },
@@ -1231,26 +1259,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Of Two Minds",
-        "url": "https://open.spotify.com/album/3WfUE3XbaPkBOkRF3wTYMy"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Rhode",
-          "url": "https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi"
-        }
-      ],
-      "duration_ms": 279069,
-      "name": "Of Two Minds",
-      "url": "https://open.spotify.com/track/7Btth4NK0ICZC9DjYZPxgg"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg"
       },
@@ -1267,6 +1275,26 @@
       "duration_ms": 197538,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Of Two Minds",
+        "url": "https://open.spotify.com/album/3WfUE3XbaPkBOkRF3wTYMy"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Rhode",
+          "url": "https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi"
+        }
+      ],
+      "duration_ms": 279069,
+      "name": "Of Two Minds",
+      "url": "https://open.spotify.com/track/7Btth4NK0ICZC9DjYZPxgg"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1347,34 +1375,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Shapeshifter (feat. Styles of Beyond) [Zardonic & Pythius Remix]",
-        "url": "https://open.spotify.com/album/2tc5jcJXOOaSLgGpa2ELcG"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        },
-        {
-          "name": "Styles Of Beyond",
-          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
-        },
-        {
-          "name": "Zardonic",
-          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
-        },
-        {
-          "name": "Pythius",
-          "url": "https://open.spotify.com/artist/0CRJK2gwHjs3IKm4uhjNTR"
-        }
-      ],
-      "duration_ms": 304460,
-      "name": "Shapeshifter (feat. Styles of Beyond) - Zardonic & Pythius Remix",
-      "url": "https://open.spotify.com/track/2UuHVdvmK8hcjLF6ek117I"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "GENESIS",
         "url": "https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v"
       },
@@ -1431,18 +1431,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Money Dance",
-        "url": "https://open.spotify.com/album/0xYuvy9cAFsizq7UA1vG4S"
+        "name": "Play With You",
+        "url": "https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w"
       },
       "artists": [
         {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
         }
       ],
-      "duration_ms": 138630,
-      "name": "Money Dance",
-      "url": "https://open.spotify.com/track/2F9oUWhetYspt7jiVpZgSX"
+      "duration_ms": 214005,
+      "name": "Take Your Throne",
+      "url": "https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1463,6 +1467,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Money Dance",
+        "url": "https://open.spotify.com/album/0xYuvy9cAFsizq7UA1vG4S"
+      },
+      "artists": [
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "duration_ms": 138630,
+      "name": "Money Dance",
+      "url": "https://open.spotify.com/track/2F9oUWhetYspt7jiVpZgSX"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 200339,
       "name": "Breath",
       "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Play With You",
-        "url": "https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w"
-      },
-      "artists": [
-        {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
-        },
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        }
-      ],
-      "duration_ms": 214005,
-      "name": "Take Your Throne",
-      "url": "https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1559,46 +1559,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Feeling Free",
-        "url": "https://open.spotify.com/album/5hYaCD1FopzL8Gd4wWUilB"
-      },
-      "artists": [
-        {
-          "name": "CloudNone",
-          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
-        },
-        {
-          "name": "Skybreak",
-          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
-        }
-      ],
-      "duration_ms": 179555,
-      "name": "Feeling Free",
-      "url": "https://open.spotify.com/track/4DYTMSIZB7nIazRd0vuI5w"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Dead Meat",
-        "url": "https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ"
-      },
-      "artists": [
-        {
-          "name": "Esseks",
-          "url": "https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ"
-        },
-        {
-          "name": "tiedye ky",
-          "url": "https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x"
-        }
-      ],
-      "duration_ms": 165339,
-      "name": "Dead Meat",
-      "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Nonstop",
         "url": "https://open.spotify.com/album/3tS6hhl22D2BWjA7Y0Vf35"
       },
@@ -1615,6 +1575,26 @@
       "duration_ms": 294653,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/0SUc7tyzR0jSTBEElIzqxB"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Feeling Free",
+        "url": "https://open.spotify.com/album/5hYaCD1FopzL8Gd4wWUilB"
+      },
+      "artists": [
+        {
+          "name": "CloudNone",
+          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
+        },
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "duration_ms": 179555,
+      "name": "Feeling Free",
+      "url": "https://open.spotify.com/track/4DYTMSIZB7nIazRd0vuI5w"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1659,22 +1639,38 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "\u5929\u306e\u5ddd (River of Heaven)",
-        "url": "https://open.spotify.com/album/6NitlvfyIC8Bxo4wRP6syP"
+        "name": "Dead Meat",
+        "url": "https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ"
       },
       "artists": [
         {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+          "name": "Esseks",
+          "url": "https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ"
         },
         {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+          "name": "tiedye ky",
+          "url": "https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x"
         }
       ],
-      "duration_ms": 191435,
-      "name": "Quasar",
-      "url": "https://open.spotify.com/track/4B9l4icnBVdbp7u5lXVGFI"
+      "duration_ms": 165339,
+      "name": "Dead Meat",
+      "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Summer Of Saigon",
+        "url": "https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO"
+      },
+      "artists": [
+        {
+          "name": "Elephant Heart",
+          "url": "https://open.spotify.com/artist/2nwPBvsuf070C7KYSWoXbD"
+        }
+      ],
+      "duration_ms": 233452,
+      "name": "Summer Of Saigon",
+      "url": "https://open.spotify.com/track/5BWpRTmIud6QuaKxZI4Ilr"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1731,6 +1727,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "\u5929\u306e\u5ddd (River of Heaven)",
+        "url": "https://open.spotify.com/album/6NitlvfyIC8Bxo4wRP6syP"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "duration_ms": 191435,
+      "name": "Quasar",
+      "url": "https://open.spotify.com/track/4B9l4icnBVdbp7u5lXVGFI"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Liminality",
         "url": "https://open.spotify.com/album/0yHqyK0h7PqpFdh1Pw6A5S"
       },
@@ -1747,18 +1763,46 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Summer Of Saigon",
-        "url": "https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO"
+        "name": "Dominate (Boombox Cartel Edit)",
+        "url": "https://open.spotify.com/album/6pyOAdOI2rY9eilAUn8tUI"
       },
       "artists": [
         {
-          "name": "Elephant Heart",
-          "url": "https://open.spotify.com/artist/2nwPBvsuf070C7KYSWoXbD"
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        },
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
         }
       ],
-      "duration_ms": 233452,
-      "name": "Summer Of Saigon",
-      "url": "https://open.spotify.com/track/5BWpRTmIud6QuaKxZI4Ilr"
+      "duration_ms": 111040,
+      "name": "Dominate - Boombox Cartel Edit",
+      "url": "https://open.spotify.com/track/3HDTkL6fBNThcfeqKk8D17"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Bring It Back (Spencer Ramsay Remix)",
+        "url": "https://open.spotify.com/album/2JVhngo2MEV6euWD4HqLZ7"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        },
+        {
+          "name": "Spencer Ramsay",
+          "url": "https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji"
+        }
+      ],
+      "duration_ms": 125851,
+      "name": "Bring It Back (Spencer Ramsay Remix)",
+      "url": "https://open.spotify.com/track/558wlAeGGjLBB1cua3OpSh"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1799,22 +1843,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Dominate (Boombox Cartel Edit)",
-        "url": "https://open.spotify.com/album/6pyOAdOI2rY9eilAUn8tUI"
+        "name": "BORN TO DIE",
+        "url": "https://open.spotify.com/album/2Ke0BcTe2c3Dh5LRxzd4cs"
       },
       "artists": [
         {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        },
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+          "name": "MVDNES",
+          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
         }
       ],
-      "duration_ms": 111040,
-      "name": "Dominate - Boombox Cartel Edit",
-      "url": "https://open.spotify.com/track/3HDTkL6fBNThcfeqKk8D17"
+      "duration_ms": 112128,
+      "name": "BORN TO DIE",
+      "url": "https://open.spotify.com/track/34pS1KVbdWpcckfWOIhdtI"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1851,22 +1891,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "BORN TO DIE",
-        "url": "https://open.spotify.com/album/2Ke0BcTe2c3Dh5LRxzd4cs"
-      },
-      "artists": [
-        {
-          "name": "MVDNES",
-          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
-        }
-      ],
-      "duration_ms": 112128,
-      "name": "BORN TO DIE",
-      "url": "https://open.spotify.com/track/34pS1KVbdWpcckfWOIhdtI"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Hammer Time",
         "url": "https://open.spotify.com/album/5KtTHlM5BH0d0eMANZS39s"
       },
@@ -1899,30 +1923,6 @@
       "duration_ms": 228923,
       "name": "Starfire",
       "url": "https://open.spotify.com/track/5x2FToE9OYtZt1McsqhiFY"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Bring It Back (Spencer Ramsay Remix)",
-        "url": "https://open.spotify.com/album/2JVhngo2MEV6euWD4HqLZ7"
-      },
-      "artists": [
-        {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        },
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        },
-        {
-          "name": "Spencer Ramsay",
-          "url": "https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji"
-        }
-      ],
-      "duration_ms": 125851,
-      "name": "Bring It Back (Spencer Ramsay Remix)",
-      "url": "https://open.spotify.com/track/558wlAeGGjLBB1cua3OpSh"
     },
     {
       "added_at": "2023-09-22 04:00:00",

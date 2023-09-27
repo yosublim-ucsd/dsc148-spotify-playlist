@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover:  Prem Dhillon & Straight Bank
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,547 likes - 53 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,569 likes - 53 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

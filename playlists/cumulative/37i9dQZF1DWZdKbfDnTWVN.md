@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=pdat4ZEbS9GP1JuDOOI\_TQ"> Wakadinali </a>
 
-153 songs - 7 hr 53 min
+154 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Lose](https://open.spotify.com/track/4nWq6NkvzFuxqbd1cyVk4A) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY) | [Lose](https://open.spotify.com/album/7LxnVwde82SZ0GCfFNGfJR) | 3:22 | 2023-04-13 | 2023-07-28 |
 | [Lose](https://open.spotify.com/track/7ojMJpBewMnczrWKsIlKMC) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY) | [Lose](https://open.spotify.com/album/77GsYDaqzWi5uTDxBYVy3x) | 3:22 | 2023-01-12 | 2023-04-20 |
 | [Mabadiliko](https://open.spotify.com/track/0fEw1TI2CPzXs93EEKo0cl) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o), [Fadhilee Itulya](https://open.spotify.com/artist/3iWzdkOgIDqZDiakNnnlig) | [Mabadiliko](https://open.spotify.com/album/6IFsDy5C0kynOzSTMQVolo) | 3:09 | 2022-08-04 | 2023-06-03 |
-| [Made For This](https://open.spotify.com/track/0CdoYWHl0BGDL9XUQ0RnIN) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ), [Timmy Blanco](https://open.spotify.com/artist/1Vn2QDLkrVV4M1Y85dePup) | [Made For This](https://open.spotify.com/album/6HGtxJpzngWeBOcH88HlEa) | 1:10 | 2023-05-05 |  |
+| [Made For This](https://open.spotify.com/track/0CdoYWHl0BGDL9XUQ0RnIN) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ), [Timmy Blanco](https://open.spotify.com/artist/1Vn2QDLkrVV4M1Y85dePup) | [Made For This](https://open.spotify.com/album/6HGtxJpzngWeBOcH88HlEa) | 1:10 | 2023-05-05 | 2023-09-27 |
+| [Made For This](https://open.spotify.com/track/5Gr47d1ThvLMeJR8ueVd2W) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ), [Timmy Blanco](https://open.spotify.com/artist/64r1hRUVXSdoMT30u3pUbS) | [Made For This](https://open.spotify.com/album/77xVkwwWp6O3xX0lpWprzH) | 1:10 | 2023-09-21 |  |
 | [Magic](https://open.spotify.com/track/0SWqx2r2vLUY3j9bCPYnLp) | [Kig$](https://open.spotify.com/artist/0f9uh9RgnM6OSO5zkGyRpZ), [Kahu$h](https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr) | [Connecting The Dots](https://open.spotify.com/album/65eH656OUbEIXNrFqV0tqc) | 3:50 | 2022-12-09 | 2023-09-08 |
 | [Make Amends](https://open.spotify.com/track/5F2xI5nPDnatDJvNtP06NA) | [Amaz](https://open.spotify.com/artist/3wtVJS5a0IunELhRRHubXr) | [Make Amends](https://open.spotify.com/album/5uFC8GqHRAwtyV2wY8oWER) | 2:51 | 2022-06-02 | 2022-12-10 |
 | [Makin Music](https://open.spotify.com/track/4Z5DU441GzVl5OVxUl8xmU) | [Ace](https://open.spotify.com/artist/4JE88HnStToQiqFDeVOxV9), [Shukid](https://open.spotify.com/artist/7L7R79upSyUMVrmKtmF13G) | [Makin Music](https://open.spotify.com/album/2vER1Eyvwv8hJJsuFIpbfH) | 4:19 | 2022-09-29 | 2023-02-04 |

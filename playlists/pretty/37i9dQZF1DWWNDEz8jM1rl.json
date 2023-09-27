@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 116771,
+  "num_followers": 116822,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "S\u00f3lo \u00c9xitos Tropicales",
+        "url": "https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Col\u00f3n",
+          "url": "https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ"
+        }
+      ],
+      "duration_ms": 272745,
+      "name": "Todo Se Lo Debo a El",
+      "url": "https://open.spotify.com/track/3954VWv51e6kVHKAupQj2m"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Historia",
         "url": "https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 250493,
       "name": "Dame Tus Ojos (feat. Laurie Col\u00f3n)",
       "url": "https://open.spotify.com/track/3jPaLIbWPyfS5GZluhxh4D"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "S\u00f3lo \u00c9xitos Tropicales",
-        "url": "https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Col\u00f3n",
-          "url": "https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ"
-        }
-      ],
-      "duration_ms": 272745,
-      "name": "Todo Se Lo Debo a El",
-      "url": "https://open.spotify.com/track/3954VWv51e6kVHKAupQj2m"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "S\u00f3lo \u00c9xitos Tropicales",
+        "url": "https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Col\u00f3n",
+          "url": "https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ"
+        }
+      ],
+      "duration_ms": 209476,
+      "name": "Largo Viaje",
+      "url": "https://open.spotify.com/track/5RC9Wt1fdM8h1LzoHBeAZm"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 245173,
       "name": "Vivo por Cristo",
       "url": "https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "S\u00f3lo \u00c9xitos Tropicales",
-        "url": "https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Col\u00f3n",
-          "url": "https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ"
-        }
-      ],
-      "duration_ms": 209476,
-      "name": "Largo Viaje",
-      "url": "https://open.spotify.com/track/5RC9Wt1fdM8h1LzoHBeAZm"
     },
     {
       "added_at": "2020-09-18 05:02:00",

@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Moderatto en portada.",
-  "num_followers": 510672,
+  "num_followers": 510906,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Comprendes, Mendes?",
-      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 225173,
       "name": "Vendedora de Caricias",
       "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Comprendes, Mendes?",
+      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -655,8 +655,8 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 472400,
-      "name": "La Negra Tomasa - Bilongo - Versi\u00f3n Tropical",
-      "url": "https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3"
+      "duration_ms": 274000,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
-        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Tijuana Sound Machine",
-      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "Sweet & Sour - Hot & Spicy",
         "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 218920,
       "name": "Qui\u00e9reme Mucho",
       "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
+        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Tijuana Sound Machine",
+      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
+        "name": "Bestia",
+        "url": "https://open.spotify.com/album/3thOTiN8dswNmDUHEkIXiL"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 248939,
+      "name": "Bestia",
+      "url": "https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
         "name": "D.D. Y Ponle Play",
         "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 183480,
       "name": "Mi Vida es un Tango",
       "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
-        "name": "Bestia",
-        "url": "https://open.spotify.com/album/3thOTiN8dswNmDUHEkIXiL"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 248939,
-      "name": "Bestia",
-      "url": "https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz"
     },
     {
       "added_at": "2023-08-04 20:21:55",

@@ -2832,7 +2832,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 256702,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
@@ -4076,6 +4076,24 @@
       "duration_ms": 161410,
       "name": "Te Escapas De Mis Brazos",
       "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
+    },
+    {
+      "album": {
+        "name": "Te Sigo Enamorando",
+        "url": "https://open.spotify.com/album/3jhZE9j5IRdc6JX8lCepYZ"
+      },
+      "artists": [
+        {
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311080,
+      "name": "Te hubieras ido antes",
+      "url": "https://open.spotify.com/track/79v3sImuaCmWvOn1Au1EZU"
     },
     {
       "album": {

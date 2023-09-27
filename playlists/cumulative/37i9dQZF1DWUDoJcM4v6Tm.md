@@ -4,7 +4,7 @@
 
 > Explore a sprawling musical landscape.
 
-254 songs - 15 hr 59 min
+255 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Let You Go](https://open.spotify.com/track/3Q5EDW5YtRcnrWS2fTFnw1) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Moon](https://open.spotify.com/album/2jCMxN3Ys1PCq6FQBEwM5L) | 3:52 | 2022-05-02 |  |
 | [Let You Go](https://open.spotify.com/track/4YydHoIzabGxMvVnh6FaTA) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Let You Go](https://open.spotify.com/album/6HIGa89voop7TxtKLYcuDK) | 3:52 | 2022-02-25 | 2022-07-29 |
 | [LIFE ON EARTH](https://open.spotify.com/track/6ZUZ33Hz83h6szgf56gzJx) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 5:46 | 2022-02-25 |  |
-| [Love You Blind \- Windowsill Version](https://open.spotify.com/track/1Yo8jKTBjNt5Db0381cA7F) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Love You Blind \(Windowsill Version\)](https://open.spotify.com/album/1mwie1mfuJn1tpv0y8m980) | 3:44 | 2023-09-22 |  |
+| [Love You Blind \- Windowsill Version](https://open.spotify.com/track/1Yo8jKTBjNt5Db0381cA7F) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Love You Blind \(Windowsill Version\)](https://open.spotify.com/album/1mwie1mfuJn1tpv0y8m980) | 3:44 | 2023-09-22 | 2023-09-27 |
+| [Love You Blind \- Windowsill Version](https://open.spotify.com/track/2CDPoedvXCCnPuzZe5KB8W) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Love You Blind \(Windowsill Version\)](https://open.spotify.com/album/7MQfEwXY0TuMvHGxGjJFhy) | 3:44 | 2023-09-22 |  |
 | [Made For This](https://open.spotify.com/track/12zsnvR0HghiFtHbsfMBrM) | [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Made For This](https://open.spotify.com/album/5Tu4YwduM7y8R0JjWXeSPa) | 4:26 | 2023-02-24 |  |
 | [Made For This](https://open.spotify.com/track/42Cf50MbLHrmHHfK1ckhD0) | [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Made for This](https://open.spotify.com/album/64XuRgvbhSOHZpZPIUI3pS) | 4:26 | 2021-10-08 | 2023-03-02 |
 | [Mama Werewolf](https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:41 | 2021-10-08 |  |

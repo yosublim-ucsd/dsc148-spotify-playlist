@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-641 songs - 1 day 17 hr 5 min
+642 songs - 1 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,6 +522,7 @@
 | [Sun Souls](https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA) | [Tosh Rhann Band](https://open.spotify.com/artist/0VO3Qw7YVwTbXhBx6neI0e) | [Of Laughter and Warmth](https://open.spotify.com/album/0Uq5FeJyKcIEUv07HQJPGc) | 2:38 | 2023-06-01 |  |
 | [Sunset over Paris](https://open.spotify.com/track/4J7o5z21AHxX83IxXOGdWe) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Sunset over Paris](https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF) | 4:03 | 2023-06-01 |  |
 | [Sunset Stroll](https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Sunset Stroll](https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf) | 2:44 | 2023-09-22 |  |
+| [Swedish sauce](https://open.spotify.com/track/17EQIcoPaLULq6gpDVwRWM) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Swedish sauce](https://open.spotify.com/album/1obVmVYjVAIRiWOo97UNVc) | 3:21 | 2023-09-22 |  |
 | [Swift](https://open.spotify.com/track/44jzOlKl5WL7YT6KYP7uU6) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Swift](https://open.spotify.com/album/3yuhZHaZEgzbVrQsN3nuTw) | 3:24 | 2023-08-31 |  |
 | [Tammy's Song](https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Tammy's Song](https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2) | 4:20 | 2023-06-01 |  |
 | [Tap on my Door](https://open.spotify.com/track/4ezJCCD1FWm2VcCH8HM3zA) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Tap on my Door](https://open.spotify.com/album/4pjKtKKOOKoi6ug0Mjqxi7) | 3:34 | 2022-11-11 |  |
@@ -611,7 +612,7 @@
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-11-11 | 2023-08-18 |
 | [What A Lovely Day](https://open.spotify.com/track/3D1jCXLmt2EMpNUjYS3pl8) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [What A Lovely Day](https://open.spotify.com/album/4TGAXUUwK6xyVqLjVl7oTG) | 3:12 | 2023-08-10 |  |
 | [What A Wonderful World](https://open.spotify.com/track/0s3HQstgfSJ3HYKRxcgkA4) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [What A Wonderful World](https://open.spotify.com/album/6SMXQ92Fqa6MJLx09Idi7T) | 2:50 | 2021-12-16 | 2022-05-04 |
-| [What Is This Thing Called Love?](https://open.spotify.com/track/6kpocYwFqMxws72HV8iVj3) | [J for Jazz](https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3) | [What Is This Thing Called Love?](https://open.spotify.com/album/5UVZ4s0KCXmafIb6IqkNeB) | 3:49 | 2023-06-01 |  |
+| [What Is This Thing Called Love?](https://open.spotify.com/track/6kpocYwFqMxws72HV8iVj3) | [J for Jazz](https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3) | [What Is This Thing Called Love?](https://open.spotify.com/album/5UVZ4s0KCXmafIb6IqkNeB) | 3:49 | 2023-06-01 | 2023-09-27 |
 | [What It's All About](https://open.spotify.com/track/2QXo6BPjYrNc1RESHn8X5d) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 4:01 | 2021-12-16 | 2022-11-11 |
 | [What It's All About](https://open.spotify.com/track/3kSPBfOF2cDiyAcoRiuN8v) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Jazz Chill](https://open.spotify.com/album/6Xo9x7tOJ1u34p13qurFqe) | 4:01 | 2023-08-10 | 2023-08-13 |
 | [What room you in?](https://open.spotify.com/track/0aq8Ox33II1IE0fubT3YDe) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [What room you in?](https://open.spotify.com/album/2pJzyAeVLq0Ms0xA258gHE) | 3:17 | 2023-08-10 |  |

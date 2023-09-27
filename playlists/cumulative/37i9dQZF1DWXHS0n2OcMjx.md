@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-484 songs - 18 hr 19 min
+487 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Free Yourself](https://open.spotify.com/track/71yIgNO9WFWYHxGkN4U7Qn) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [Free Yourself](https://open.spotify.com/album/6fdg8NXRp9Rh4FmmcCjneS) | 2:47 | 2023-09-22 |  |
 | [Fresh Pour Over Jam](https://open.spotify.com/track/0T7gCTRVrjm7fKJcIciXm7) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Fresh Pour Over Jam](https://open.spotify.com/album/3mhufOmozF6GbopHw1JFmW) | 2:01 | 2022-04-08 | 2023-09-23 |
 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 | 2022-04-08 | 2023-09-23 |
+| [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 |  |
 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 | 2022-04-08 | 2023-09-23 |
 | [Future Lovers](https://open.spotify.com/track/3SORHgn6Gj7qBzQuZLv7N7) | [Nice Gii](https://open.spotify.com/artist/4y04SK9f1oYHAZ8WDHy9wi) | [Move It Slower](https://open.spotify.com/album/5HRAg8TbMGIpE1yJXBLQAL) | 2:28 | 2023-09-22 |  |
 | [future retro](https://open.spotify.com/track/4W0VbKOx9nIMl822qQHef1) | [stonefold](https://open.spotify.com/artist/1jCsCfZCxNohxXdoE3Rw4f) | [future retro](https://open.spotify.com/album/3mJhmdDs83sGZfpr9pYpgN) | 2:01 | 2022-05-13 | 2023-09-09 |
@@ -281,8 +282,9 @@
 | [Nachtschicht](https://open.spotify.com/track/1Nk21HZ5Gdyt0C7Ta7JAFn) | [Fuzl](https://open.spotify.com/artist/4PcJcSL24JeqLoQla78EPA), [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7) | [Nachtschicht](https://open.spotify.com/album/5KkUK4Vkla73stLftrjk2z) | 2:04 | 2023-09-22 | 2023-09-25 |
 | [Natural Midst](https://open.spotify.com/track/0T0Qw9dfYjTf6umYfjC5zf) | [Illum Noyz](https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW) | [Natural Midst](https://open.spotify.com/album/3VqDQlMLsc0mBCqc4s9XWL) | 2:41 | 2023-09-22 |  |
 | [NEAR](https://open.spotify.com/track/72u6WlUdYIx62Z33Xvh7A4) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/47couheC4wUEeHig9mBYHW) | 1:35 | 2022-04-08 | 2022-04-22 |
-| [Neon Vision](https://open.spotify.com/track/7M2Iw9mM6J9cXSlTPJmJna) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Neon Vision](https://open.spotify.com/album/0KA0WQNv9pzBaXaNBwXVsK) | 1:35 | 2023-09-22 |  |
+| [Neon Vision](https://open.spotify.com/track/7M2Iw9mM6J9cXSlTPJmJna) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Neon Vision](https://open.spotify.com/album/0KA0WQNv9pzBaXaNBwXVsK) | 1:35 | 2023-09-22 | 2023-09-27 |
 | [New Growth](https://open.spotify.com/track/2I0x0mu9XbWlIfqoLoTHcj) | [titus barnacle](https://open.spotify.com/artist/5EJZmwZWIIfJvPaGPwMnyT) | [New Growth](https://open.spotify.com/album/7jgdixZrr2xvhZwWaey6bC) | 2:44 | 2023-09-22 |  |
+| [Newfoundland](https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Newfoundland](https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH) | 2:49 | 2023-09-22 |  |
 | [Nice & Slow](https://open.spotify.com/track/248PhgimKf2fadl85Jpahp) | [Abel Cainstro](https://open.spotify.com/artist/5CPBSgpTzpVWoLHc5sCLgk) | [Nice & Slow](https://open.spotify.com/album/2qjuhm2zAbotesLj3pOK49) | 2:05 | 2023-09-22 |  |
 | [nightbefore](https://open.spotify.com/track/0jHMnNlipupeMqodQ4CT2j) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [ili](https://open.spotify.com/album/3D8ATLRSxBxi5qIAmNEJM2) | 1:32 | 2022-04-08 | 2022-11-20 |
 | [nightbefore](https://open.spotify.com/track/3zT3IP0oKCCC3y053oTxfq) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [ili](https://open.spotify.com/album/0XYhq9IUqFfBsHpTyZfEmi) | 1:32 | 2022-07-08 | 2023-09-23 |
@@ -346,7 +348,7 @@
 | [Pyr](https://open.spotify.com/track/6obeFK7XJ3JeFRqN0C2FSj) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [Departure](https://open.spotify.com/album/5wJOwS6E57lKzR8XaopvOZ) | 2:36 | 2022-04-08 | 2023-09-23 |
 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 | 2022-04-08 | 2023-09-09 |
 | [Rainclouds Still Remember](https://open.spotify.com/track/2RAYJawqivodlRe2C6emmK) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Rainclouds Still Remember](https://open.spotify.com/album/19d7nSFHyMulZzgTEwhlIH) | 2:55 | 2023-09-22 |  |
-| [rainy daze](https://open.spotify.com/track/7yqa0s4ZJdHWm4ofHjXwC7) | [Nazaha](https://open.spotify.com/artist/2sLHWzSi6dSE8C5GdHwNtD) | [rainy daze](https://open.spotify.com/album/6WVMFLJCLo8YDQ8Z7HPUrb) | 2:02 | 2023-09-22 |  |
+| [rainy daze](https://open.spotify.com/track/7yqa0s4ZJdHWm4ofHjXwC7) | [Nazaha](https://open.spotify.com/artist/2sLHWzSi6dSE8C5GdHwNtD) | [rainy daze](https://open.spotify.com/album/6WVMFLJCLo8YDQ8Z7HPUrb) | 2:02 | 2023-09-22 | 2023-09-27 |
 | [raised by a pear](https://open.spotify.com/track/0bf0Kr1Vkb4xkHrzmlKIp3) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [raised by a pear](https://open.spotify.com/album/0WdwUwKsClIiD8Cgk9Qa2k) | 2:21 | 2023-09-22 |  |
 | [Reactor](https://open.spotify.com/track/3bs59WfesFHG6lGI3xsyAZ) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Reactor](https://open.spotify.com/album/3l3ehOEXCHbmZrOVvA5tKU) | 2:20 | 2022-04-08 | 2023-09-23 |
 | [Regular Guy](https://open.spotify.com/track/0Qxfx9Sxa0TVy3p0j0lPha) | [Sir Peanut](https://open.spotify.com/artist/3HpvKoWXmM1S2eB4tKBtRF) | [Regular Guy](https://open.spotify.com/album/756SsPw88dp4o0LVN8L6ru) | 3:34 | 2022-04-08 | 2023-09-23 |
@@ -447,8 +449,9 @@
 | [Train Ride](https://open.spotify.com/track/5hCXtdsOhwWCG6zX0ivfYg) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE) | 2:31 | 2022-07-08 | 2023-09-23 |
 | [Train Ride](https://open.spotify.com/track/1wHe3rj4X3t64ysy8s6iI1) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Train Ride](https://open.spotify.com/album/75LJ0BirgujfrO2VNXNSIh) | 1:52 | 2023-09-22 |  |
 | [Tranquil Twilight](https://open.spotify.com/track/22zMUlKVs4jOX5BBPrftUc) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Tranquil Twilight](https://open.spotify.com/album/3PZQWTZ50FwGQfJczPcDlA) | 2:00 | 2023-09-22 |  |
+| [transient beach](https://open.spotify.com/track/30eLFH6K8Dro6bUQ6hGvrl) | [gnerf](https://open.spotify.com/artist/74bY9Mn9CdYFwFSkoDDxmP) | [transient beach](https://open.spotify.com/album/1TVeo9z2FlgRQ0XuKXZpju) | 2:27 | 2023-09-22 |  |
 | [Tronntora](https://open.spotify.com/track/2f26EtMrZFMuFLx8RrFeaL) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Tronntora](https://open.spotify.com/album/38e12KrFKnDpLXp6x5rrCN) | 2:06 | 2023-09-22 |  |
-| [troppo cotti](https://open.spotify.com/track/0kGXVhsOfsRaLd7pInaHWL) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [troppo cotti](https://open.spotify.com/album/22SgJONA07woG9X6c7jWwz) | 1:52 | 2023-09-22 |  |
+| [troppo cotti](https://open.spotify.com/track/0kGXVhsOfsRaLd7pInaHWL) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [troppo cotti](https://open.spotify.com/album/22SgJONA07woG9X6c7jWwz) | 1:52 | 2023-09-22 | 2023-09-27 |
 | [Trumpet On The Street](https://open.spotify.com/track/24mMhupEYd9fMpKM60MjVp) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Trumpet On The Street](https://open.spotify.com/album/62uuJcDaUDeXUIXUbVMDKo) | 1:49 | 2022-04-08 | 2023-09-23 |
 | [Tuesday, July 14](https://open.spotify.com/track/4yhW6u0AjkMvwUY4z9TPeQ) | [Dogman Chill](https://open.spotify.com/artist/24bL1XqEUecJLJp9V1jzd2) | [Tuesday, July 14](https://open.spotify.com/album/5SNvq17CajTfZrNHcxP3qc) | 2:00 | 2022-04-08 | 2022-04-22 |
 | [Tunnel Vision](https://open.spotify.com/track/2CoR2TpBOczV3v5J8TEhGn) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [Tunnel Vision](https://open.spotify.com/album/7u2nU8RZndutf2Bh8H2y8Z) | 2:03 | 2023-09-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: City Morgue
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,290 likes - 106 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,737 likes - 106 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

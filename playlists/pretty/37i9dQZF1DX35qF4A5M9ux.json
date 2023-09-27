@@ -1,6 +1,6 @@
 {
   "description": "\u00a1\u00c9xitos salseros para prenderle fuego a la pista de baile!",
-  "num_followers": 250808,
+  "num_followers": 250936,
   "original_name": "Salsa de Oro",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 281186,
-      "name": "Dese\u00e1ndote",
-      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "No Me Olvidaras",
         "url": "https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 211586,
       "name": "Ese",
       "url": "https://open.spotify.com/track/23gGTtWSjeTx4HEnAfdCgW"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "Expresion",
+        "url": "https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 290413,
+      "name": "Que Alguien Me Diga",
+      "url": "https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -723,18 +723,18 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Expresion",
-        "url": "https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3"
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 290413,
-      "name": "Que Alguien Me Diga",
-      "url": "https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu"
+      "duration_ms": 281186,
+      "name": "Dese\u00e1ndote",
+      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Sentimental de Punta a Punta",
-        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 336640,
-      "name": "Te Amo, Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/0GHCgZdI5W324Byq24qJdF"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 261333,
       "name": "Ojos Chinos",
       "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "Sentimental de Punta a Punta",
+        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 336640,
+      "name": "Te Amo, Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/0GHCgZdI5W324Byq24qJdF"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
+        "name": "Feliz Navidad Con Salsa",
+        "url": "https://open.spotify.com/album/5RktkOfRU1eqXvh0qSK2uP"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 289880,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/7fuKGQRFnSZu4k1LSJnuex"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
         "name": "Siempre Charanga",
         "url": "https://open.spotify.com/album/5LRCh0vhclTfXIwnPaU7Az"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 261472,
       "name": "Punta a Punta",
       "url": "https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
-        "name": "Feliz Navidad Con Salsa",
-        "url": "https://open.spotify.com/album/5RktkOfRU1eqXvh0qSK2uP"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 289880,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/7fuKGQRFnSZu4k1LSJnuex"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
+        "name": "Son By 4",
+        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
         "name": "Hechizando",
         "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 293067,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
-        "name": "Son By 4",
-        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
-      },
-      "artists": [
-        {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1387,38 +1387,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Arriba Siempre - De Pura Sangre",
-        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
-      },
-      "artists": [
-        {
-          "name": "Michel el Buen\u00f3n",
-          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
-        "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
-        "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
-      },
-      "artists": [
-        {
-          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
-          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
-        }
-      ],
-      "duration_ms": 261591,
-      "name": "Mujer Ara\u00f1a",
-      "url": "https://open.spotify.com/track/2fDsUZOpQriPe84trnuwXs"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "Hechizando",
         "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
@@ -1439,18 +1407,34 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Septimo Sentido",
-        "url": "https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ"
+        "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
+        "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
       },
       "artists": [
         {
-          "name": "Gustavo Rodriguez",
-          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
+          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
+          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
         }
       ],
-      "duration_ms": 312006,
-      "name": "Isi",
-      "url": "https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ"
+      "duration_ms": 261591,
+      "name": "Mujer Ara\u00f1a",
+      "url": "https://open.spotify.com/track/2fDsUZOpQriPe84trnuwXs"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "Arriba Siempre - De Pura Sangre",
+        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
+      },
+      "artists": [
+        {
+          "name": "Michel el Buen\u00f3n",
+          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Zayda",
-        "url": "https://open.spotify.com/album/5Xltwg9RR39wz6oiyl9O2H"
+        "name": "Septimo Sentido",
+        "url": "https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ"
       },
       "artists": [
         {
-          "name": "Zayda",
-          "url": "https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn"
+          "name": "Gustavo Rodriguez",
+          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
         }
       ],
-      "duration_ms": 260109,
-      "name": "Lo Quiero a Morir",
-      "url": "https://open.spotify.com/track/1UUh3mwMdY0ruEllPXrroj"
+      "duration_ms": 312006,
+      "name": "Isi",
+      "url": "https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1499,6 +1483,22 @@
       "duration_ms": 296773,
       "name": "T\u00fa Me Vuelves Loco",
       "url": "https://open.spotify.com/track/64zAjhGj8t7iHtUdNoTnRm"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "Zayda",
+        "url": "https://open.spotify.com/album/5Xltwg9RR39wz6oiyl9O2H"
+      },
+      "artists": [
+        {
+          "name": "Zayda",
+          "url": "https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn"
+        }
+      ],
+      "duration_ms": 260109,
+      "name": "Lo Quiero a Morir",
+      "url": "https://open.spotify.com/track/1UUh3mwMdY0ruEllPXrroj"
     },
     {
       "added_at": "2022-08-04 20:14:51",

@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Mixed Emotions II - EP",
+        "url": "https://open.spotify.com/album/61CVDc5pgAaPRubBGAjx7D"
+      },
+      "artists": [
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148958,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/6fUF3VmUAF0C1OqAg39HXy"
+    },
+    {
+      "album": {
         "name": "For You (feat. TaTa)",
         "url": "https://open.spotify.com/album/3xqrmsG6yWQ05ITnRvqBv6"
       },

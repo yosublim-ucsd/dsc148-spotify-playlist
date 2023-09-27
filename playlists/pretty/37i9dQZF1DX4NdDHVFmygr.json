@@ -1,12 +1,12 @@
 {
   "description": "\u00c9coutez en boucle les hits 100% marocains du moment.",
-  "num_followers": 219804,
+  "num_followers": 219890,
   "original_name": "Maroc Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWUzZDNjZmJjNGFkYjc4Mzk5MDJlZWYxYTZjMWU3NjU1Mzg5Njk3",
+  "snapshot_id": "MCw3N2U5NGM3MzQwZjA1N2FiNTg3M2VmNzc5ZGE2NDIzMDlkMjdjYWM2",
   "tracks": [
     {
       "added_at": "2023-09-25 15:39:42",
@@ -303,6 +303,22 @@
       "duration_ms": 238882,
       "name": "MARJANA",
       "url": "https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o"
+    },
+    {
+      "added_at": "2023-09-26 10:59:47",
+      "album": {
+        "name": "VISA",
+        "url": "https://open.spotify.com/album/3wxWPfLUzoFHLOTaMadDly"
+      },
+      "artists": [
+        {
+          "name": "Flooky",
+          "url": "https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "VISA",
+      "url": "https://open.spotify.com/track/4oajGi0Wd33IL0LzjiU6Si"
     },
     {
       "added_at": "2023-09-25 15:39:42",

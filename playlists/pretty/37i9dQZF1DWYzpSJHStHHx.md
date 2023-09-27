@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All new surf rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,951 likes - 74 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,936 likes - 74 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

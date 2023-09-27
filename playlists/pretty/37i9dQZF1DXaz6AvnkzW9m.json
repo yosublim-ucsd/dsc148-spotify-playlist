@@ -1,6 +1,6 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Santa Fe Klan en portada.",
-  "num_followers": 102938,
+  "num_followers": 103054,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Mecha Corta",
-        "url": "https://open.spotify.com/album/6LTuoNqFv4mpSTUjGsbfiI"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 205309,
-      "name": "Mecha Corta",
-      "url": "https://open.spotify.com/track/6fMVfi5TK2A5b1gMbWfjOV"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 200682,
       "name": "Seguimos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Mecha Corta",
+        "url": "https://open.spotify.com/album/6LTuoNqFv4mpSTUjGsbfiI"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 205309,
+      "name": "Mecha Corta",
+      "url": "https://open.spotify.com/track/6fMVfi5TK2A5b1gMbWfjOV"
     },
     {
       "added_at": "2023-09-22 06:00:00",

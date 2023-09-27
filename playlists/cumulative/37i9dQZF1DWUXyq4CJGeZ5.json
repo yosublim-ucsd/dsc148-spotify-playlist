@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 182550,
       "name": "Ad Libitum",
       "url": "https://open.spotify.com/track/7m5OILw45b30QyaqG8zhic"
@@ -398,6 +398,24 @@
       "duration_ms": 141500,
       "name": "Answer With Light",
       "url": "https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km"
+    },
+    {
+      "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/0dIFaSYu3tI7NohFzFf3sr"
+      },
+      "artists": [
+        {
+          "name": "Arata Rin",
+          "url": "https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181913,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/1Eqlx3dtG65l9KI0uF3zuP"
     },
     {
       "album": {
@@ -2000,6 +2018,24 @@
       "duration_ms": 178500,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0PDPU0FvLXuOWRHN0uOV7t"
+    },
+    {
+      "album": {
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/3Iw5GGcBOH38MN5KwB98p4"
+      },
+      "artists": [
+        {
+          "name": "Vaughn Harrison",
+          "url": "https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145092,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/3Na1QdVT2YRBw9S8RikZzo"
     },
     {
       "album": {
@@ -6479,6 +6515,24 @@
     },
     {
       "album": {
+        "name": "The Last Days Of Summer",
+        "url": "https://open.spotify.com/album/6n8czmPuICnaqG66hVLGfo"
+      },
+      "artists": [
+        {
+          "name": "Ima Rayner",
+          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129975,
+      "name": "The Last Days Of Summer",
+      "url": "https://open.spotify.com/track/2YBz1rKIDo0VCY1y7n76sC"
+    },
+    {
+      "album": {
         "name": "The Other Place",
         "url": "https://open.spotify.com/album/1HKXs6ACrqDbWb7RjE6rE8"
       },
@@ -6814,7 +6868,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 136085,
       "name": "Tonals",
       "url": "https://open.spotify.com/track/6wvCRq82UNSugRl6mE8ZyL"
@@ -7336,7 +7390,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 173963,
       "name": "Waltz Of The Swallow",
       "url": "https://open.spotify.com/track/1b4TVciUAU6bAXMNgpgxbf"
@@ -7408,7 +7462,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 159650,
       "name": "We Persist",
       "url": "https://open.spotify.com/track/5cWCVoVOHjhUNm0I3JE06l"
@@ -7700,6 +7754,24 @@
       "duration_ms": 131777,
       "name": "Yellow Entropy",
       "url": "https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/05ivnxOIaNNAj3zBFFNnpO"
+      },
+      "artists": [
+        {
+          "name": "Eric de Jot\u00e9",
+          "url": "https://open.spotify.com/artist/0JEX9uWA6GolbCcaqfD6rL"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145876,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0NVVI7x68BZqFXWsNkfNMv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Shakira & Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,110 likes - 56 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,322 likes - 56 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

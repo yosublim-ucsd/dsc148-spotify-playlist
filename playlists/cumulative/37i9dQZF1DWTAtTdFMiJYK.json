@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Aadhe Waade",
+        "url": "https://open.spotify.com/album/3rzWT5DEabAiiD3Dq221cl"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Aadhe Waade",
+      "url": "https://open.spotify.com/track/5pCRRKwA796gdrNkCmJ9vt"
+    },
+    {
+      "album": {
         "name": "Aaina",
         "url": "https://open.spotify.com/album/6Ujs8343i3KHRv91qvUdAY"
       },
@@ -620,7 +638,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 171428,
       "name": "Bewajah",
       "url": "https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C"
@@ -4210,7 +4228,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 164912,
       "name": "Sirfira",
       "url": "https://open.spotify.com/track/4EtsQ4vcaGs13NFFLNS6yK"
@@ -4752,6 +4770,24 @@
       "duration_ms": 333473,
       "name": "Tu Kaun Hai",
       "url": "https://open.spotify.com/track/0z4WjqjRgQJuXlWbOC5L6A"
+    },
+    {
+      "album": {
+        "name": "Tum Jaise Ho",
+        "url": "https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250124,
+      "name": "Tum Jaise Ho",
+      "url": "https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo"
     },
     {
       "album": {

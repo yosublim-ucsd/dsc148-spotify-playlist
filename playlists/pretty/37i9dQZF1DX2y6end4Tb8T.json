@@ -1,6 +1,6 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 55049,
+  "num_followers": 55081,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 116256,
+      "name": "GNF (OKOKOK)",
+      "url": "https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Los Dioses",
         "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 278280,
       "name": "Los Dioses",
       "url": "https://open.spotify.com/track/7oHsIIDKbEJlFULg1HF0pP"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 116256,
-      "name": "GNF (OKOKOK)",
-      "url": "https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN"
     },
     {
       "added_at": "2023-09-01 14:43:51",

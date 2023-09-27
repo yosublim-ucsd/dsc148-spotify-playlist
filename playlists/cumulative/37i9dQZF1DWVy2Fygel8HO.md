@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-113 songs - 4 hr 37 min
+115 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Al fín](https://open.spotify.com/track/3F1jev8GAdSB1jyKHuAqhZ) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Al fín](https://open.spotify.com/album/0FjpiJwqP0wFPTdi0tbTs7) | 2:28 | 2023-05-09 |  |
 | [Another Time](https://open.spotify.com/track/4D3yNko56x9TtQgVBKkxRl) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Another Time](https://open.spotify.com/album/2jeYw4SEjdiEUnCanJ2gIr) | 2:32 | 2023-05-09 |  |
 | [Apricity](https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Apricity](https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW) | 2:36 | 2023-05-09 |  |
+| [Arribar](https://open.spotify.com/track/6mqoZNxazZnSLm6Qh03eUu) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Arribar](https://open.spotify.com/album/61fEiZp23pZk77w6sLN9gz) | 2:18 | 2023-09-26 |  |
 | [Barely Awake](https://open.spotify.com/track/7xKLiItra445rJi8Fehifn) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Barely Awake](https://open.spotify.com/album/3SDVYC3KCzaVn6x5cwPytt) | 2:19 | 2023-05-09 |  |
 | [Blanche, Op\. 10](https://open.spotify.com/track/3WIIFZRWbPORTJarz8ozTL) | [Henri de Quengo](https://open.spotify.com/artist/5OgcUeWAFwuAgo9wDWr6hr) | [Blanche, Op\. 10](https://open.spotify.com/album/5AKXt0yEKjmyKE9fdddEdt) | 2:19 | 2023-05-09 |  |
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2023-05-09 |  |
@@ -65,6 +66,7 @@
 | [Paysage](https://open.spotify.com/track/1BDWgomhclzgAn13yMXe1N) | [Marie\-Ange](https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR) | [Prendre congé](https://open.spotify.com/album/0BdqQv0UlcZCQc28XaEy1H) | 3:26 | 2023-05-09 |  |
 | [Perennial Youth](https://open.spotify.com/track/7J7tN1PAKrD6yY8xmR8Q7a) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Acertijos](https://open.spotify.com/album/0GPaw2ltzhkjwsVCZaeiDx) | 3:04 | 2023-05-09 |  |
 | [Pillows of Lavender](https://open.spotify.com/track/0sPVOMEGFC0E745DbYZ99I) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [As The Wind Changes...](https://open.spotify.com/album/1dizOonSlamkYJ7OvsDcGY) | 2:28 | 2023-08-15 |  |
+| [Poussière](https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Poussière](https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6) | 2:12 | 2023-09-26 |  |
 | [Prados](https://open.spotify.com/track/611ldJjjgj1nHk7Y9nJQvv) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Prados](https://open.spotify.com/album/4p18DPrMcWKVrfqfs2LP5b) | 2:03 | 2023-05-09 |  |
 | [Prélude](https://open.spotify.com/track/6HIRhDZd8E7MMkfZDLpV48) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Somnio Novo](https://open.spotify.com/album/0BlgO0ukeZGE8VM3VaTaGk) | 2:51 | 2023-05-09 |  |
 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 | 2023-09-11 |  |

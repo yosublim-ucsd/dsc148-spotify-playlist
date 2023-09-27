@@ -338,7 +338,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 195840,
       "name": "Acceptance",
       "url": "https://open.spotify.com/track/4DE4fXnXftKMyl6IQEYWnp"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 147314,
       "name": "Gdansk",
       "url": "https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP"
@@ -2305,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Kalmte",
+        "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
+      },
+      "artists": [
+        {
+          "name": "Barry Hudson-Taylor",
+          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141736,
+      "name": "Languor",
+      "url": "https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO"
+    },
+    {
+      "album": {
         "name": "Old Friends New Friends",
         "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
       },
@@ -2500,6 +2518,24 @@
       "duration_ms": 141241,
       "name": "Look into Your Eyes",
       "url": "https://open.spotify.com/track/0IGKdZPC3cys3xy8z21RHH"
+    },
+    {
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
+      },
+      "artists": [
+        {
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125308,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
     },
     {
       "album": {

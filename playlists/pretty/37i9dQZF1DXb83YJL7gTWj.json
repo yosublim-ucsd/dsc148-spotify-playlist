@@ -1,6 +1,6 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 258295,
+  "num_followers": 258531,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-09-03 14:00:11",
       "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
+    },
+    {
+      "added_at": "2023-09-03 14:00:11",
+      "album": {
         "name": "Dear August",
         "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 200940,
       "name": "Dear August",
       "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
-    },
-    {
-      "added_at": "2023-09-03 14:00:11",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
     },
     {
       "added_at": "2023-09-03 14:00:11",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-09-03 14:00:11",
       "album": {
-        "name": "Perfectly Imperfect",
-        "url": "https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy"
-      },
-      "artists": [
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 204309,
-      "name": "Perfectly Imperfect",
-      "url": "https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9"
-    },
-    {
-      "added_at": "2023-09-03 14:00:11",
-      "album": {
         "name": "New Ways",
         "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
@@ -1319,22 +1303,18 @@
     {
       "added_at": "2023-09-03 14:00:11",
       "album": {
-        "name": "Grow As We Go (feat. Sara Bareilles)",
-        "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
+        "name": "Perfectly Imperfect",
+        "url": "https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy"
       },
       "artists": [
         {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        },
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
         }
       ],
-      "duration_ms": 249937,
-      "name": "Grow as We Go (feat. Sara Bareilles)",
-      "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
+      "duration_ms": 204309,
+      "name": "Perfectly Imperfect",
+      "url": "https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9"
     },
     {
       "added_at": "2023-09-03 14:00:11",
@@ -1355,6 +1335,26 @@
       "duration_ms": 164494,
       "name": "Think I'm Gonna Love You",
       "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
+    },
+    {
+      "added_at": "2023-09-03 14:00:11",
+      "album": {
+        "name": "Grow As We Go (feat. Sara Bareilles)",
+        "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 249937,
+      "name": "Grow as We Go (feat. Sara Bareilles)",
+      "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
     },
     {
       "added_at": "2023-09-03 14:00:11",

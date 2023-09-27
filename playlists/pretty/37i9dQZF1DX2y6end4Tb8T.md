@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,049 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,081 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 67 | [Chucky73: Bzrp Music Sessions, Vol\. 43](https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Chucky73: Bzrp Music Sessions, Vol\. 43](https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9) | 2:21 |
 | 68 | [Tren Thomas](https://open.spotify.com/track/2215X6fteco2cgMa8I8ifV) | [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Tren Thomas](https://open.spotify.com/album/63Bc1jFmC0eRj07FrE12tF) | 3:15 |
 | 69 | [Errbody](https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Errbody](https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2) | 3:30 |
-| 70 | [Los Dioses](https://open.spotify.com/track/7oHsIIDKbEJlFULg1HF0pP) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 4:38 |
-| 71 | [GNF \(OKOKOK\)](https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 1:56 |
+| 70 | [GNF \(OKOKOK\)](https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 1:56 |
+| 71 | [Los Dioses](https://open.spotify.com/track/7oHsIIDKbEJlFULg1HF0pP) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 4:38 |
 | 72 | [Cascada](https://open.spotify.com/track/7pKe9aetI14JCwKBZAEe6a) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 3:12 |
 | 73 | [Buenos Aires](https://open.spotify.com/track/42NACeANuRucHuCOFL5umq) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [MYKKA](https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa) | [Buenos Aires](https://open.spotify.com/album/0Wai6umy1E7IWqsKUASoyT) | 3:30 |
 | 74 | [UGLY \(feat\. Lil Baby\)](https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [UGLY \(feat\. Lil Baby\)](https://open.spotify.com/album/6QKJuikQEvlMmthEFunSUW) | 3:14 |

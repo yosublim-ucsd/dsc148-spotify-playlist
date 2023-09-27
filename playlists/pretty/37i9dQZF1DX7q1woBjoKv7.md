@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa?si=aaf9d7e5bc4349fb">AMAKA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,778 likes - 54 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,787 likes - 54 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 131666,
       "name": "Dream lantern",
       "url": "https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF"
@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "\u3075\u305f\u308a\u307c\u3063\u3061",
+        "url": "https://open.spotify.com/album/5dYY8qhnEXDrk8vZAPf8jf"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30dc\u30bf\u30ab\u30a4",
+          "url": "https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184233,
+      "name": "\u3075\u305f\u308a\u307c\u3063\u3061",
+      "url": "https://open.spotify.com/track/1D5ZzYP5y8BGNRfyT7JTXf"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
         "url": "https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj"
       },
@@ -2041,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3\u306b\u306e\u3063\u3066",
+        "url": "https://open.spotify.com/album/3pZbyfVXT3wJFnjoU7rJf7"
+      },
+      "artists": [
+        {
+          "name": "neguse.",
+          "url": "https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236802,
+      "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3\u306b\u306e\u3063\u3066",
+      "url": "https://open.spotify.com/track/60Ll4oaLbHtoscyMJyNwfo"
+    },
+    {
+      "album": {
         "name": "\u30c0\u30fc\u30ea\u30f3",
         "url": "https://open.spotify.com/album/6hgcwuQOeRXhEj52Zr1CUK"
       },
@@ -2168,7 +2204,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 244869,
       "name": "\u30d6\u30eb\u30fc\u30d9\u30ea\u30fc\u30fb\u30ca\u30a4\u30c4",
       "url": "https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm"
@@ -2244,6 +2280,24 @@
       "duration_ms": 271640,
       "name": "\u30e9\u30a4\u30d6\u7d42\u308f\u308a\u306b",
       "url": "https://open.spotify.com/track/25CT9v6urtrTRZjr1WOV0G"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/5tSuCB8yf6cvvf6SrtyQnv"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256706,
+      "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/5ezanQZbxISkNLgQUW08Cs"
     },
     {
       "album": {
@@ -3050,7 +3104,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 286053,
       "name": "\u82b1\u675f",
       "url": "https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,889 likes - 69 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,890 likes - 69 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

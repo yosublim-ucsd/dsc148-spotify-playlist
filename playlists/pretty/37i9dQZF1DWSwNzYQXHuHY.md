@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,518 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,530 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 21 | [You, Who?](https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i) | 3:39 |
 | 22 | [Where Is Dream](https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [START\-UP \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu) | 3:03 |
 | 23 | [The Moment](https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w) | [LILY](https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5), [SULLYOON](https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH) | [Love to Hate You, Pt\. 4 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7qMURkrL885kAgogHHnSon) | 3:11 |
-| 24 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
-| 25 | [Pop? Pop!](https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [Sequence : 7272](https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo) | 3:35 |
+| 24 | [Pop? Pop!](https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [Sequence : 7272](https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo) | 3:35 |
+| 25 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
 | 26 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 |
 | 27 | [Feel Like Falling In Love](https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy) | 3:14 |
 | 28 | [Can you stay](https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [Can you stay \(From Semantic Error\)](https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU) | 3:02 |

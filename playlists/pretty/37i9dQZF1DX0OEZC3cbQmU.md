@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Maria Marçal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,999,346 likes - 75 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,999,912 likes - 75 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

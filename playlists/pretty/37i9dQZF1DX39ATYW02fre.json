@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 139838,
+  "num_followers": 139929,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,18 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "Brightest Lights",
-        "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Arctic Lake",
-          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         }
       ],
-      "duration_ms": 238032,
-      "name": "Road",
-      "url": "https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"
+      "duration_ms": 224133,
+      "name": "On Hold",
+      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
     },
     {
       "added_at": "2022-11-25 16:48:26",
@@ -355,18 +351,22 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
+        "name": "Brightest Lights",
+        "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
       },
       "artists": [
         {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
         }
       ],
-      "duration_ms": 224133,
-      "name": "On Hold",
-      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
+      "duration_ms": 238032,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"
     },
     {
       "added_at": "2022-11-25 16:48:26",

@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Camilo Séptimo
 
-464 songs - 1 day 1 hr 49 min
+465 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [A La Quien Quieres](https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:41 | 2023-04-14 | 2023-06-27 |
 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 | 2023-03-10 |  |
 | [A Veces](https://open.spotify.com/track/2hEGuvAcZGt6kOh5COiBgF) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [A Veces](https://open.spotify.com/album/6miHXeWD9DWJLrUtgNAf5C) | 2:45 | 2021-11-18 | 2022-11-25 |
-| [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 | 2023-05-12 |  |
+| [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 | 2023-05-12 | 2023-09-27 |
 | [Acapulco](https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Acapulco](https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm) | 3:57 | 2023-08-04 |  |
+| [Acá](https://open.spotify.com/track/1Y1ZjDVV24xDdnK2WiVsjc) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Acá](https://open.spotify.com/album/3qUG8qKETKEmmZqhcRbGcX) | 4:10 | 2023-09-22 |  |
 | [Aeroplanos](https://open.spotify.com/track/2uTOK71u7nWtvDQky4wyEx) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Aeroplanos](https://open.spotify.com/album/2V5rVAdsjlL4fiwHzbQ1OG) | 3:59 | 2021-11-18 | 2022-11-25 |
 | [Agosto](https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Agosto](https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5) | 3:39 | 2023-08-04 |  |
 | [Agua al dolor](https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Agua al dolor](https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh) | 3:28 | 2023-01-13 | 2023-08-05 |
@@ -201,7 +202,7 @@
 | [Lava](https://open.spotify.com/track/0itpe8ossR5xjg9gd9NyyI) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Lava](https://open.spotify.com/album/0P7BNrKeRNCFyuUHtmK5KY) | 3:22 | 2023-04-14 | 2023-05-06 |
 | [Le hablo al agua](https://open.spotify.com/track/03tx7WIGxOlPt0TFLKKY6y) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Le hablo al agua](https://open.spotify.com/album/4YaTl31aeIe2HUgftnmbh7) | 4:16 | 2023-03-10 | 2023-03-12 |
 | [Lento](https://open.spotify.com/track/5qy7TkqmSsuDarSz9Ogt5s) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Fin de Semana Largo](https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7) | 2:53 | 2023-03-10 | 2023-08-12 |
-| [Lento](https://open.spotify.com/track/0lDFMgOWHOBziopIEPUEX2) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [The Citie](https://open.spotify.com/artist/2c7bLl7KC3V1C2YCUYaiHb) | [Lento](https://open.spotify.com/album/7KgYdNJpqOGhtZMCWLHwgz) | 3:35 | 2023-07-28 | 2023-09-18 |
+| [Lento](https://open.spotify.com/track/0lDFMgOWHOBziopIEPUEX2) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [The Citie](https://open.spotify.com/artist/2c7bLl7KC3V1C2YCUYaiHb) | [Lento](https://open.spotify.com/album/7KgYdNJpqOGhtZMCWLHwgz) | 3:35 | 2023-07-28 |  |
 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 | 2022-10-27 | 2023-04-22 |
 | [Liberado por un sueño](https://open.spotify.com/track/0YiyRdU3egpWq0ULQxKAA4) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:28 | 2023-05-19 | 2023-06-03 |
 | [Life](https://open.spotify.com/track/6mGhjylKtwyqiyaEhO5CB3) | [bearly](https://open.spotify.com/artist/4XKXIcyfPHauW8KznG2isn), [Christine Noel](https://open.spotify.com/artist/7K2Yw6RepVJb82r3mK93sB), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Life](https://open.spotify.com/album/5H3owcMi5LPfGvZUaD4ek3) | 4:00 | 2021-11-18 | 2022-07-29 |
@@ -321,7 +322,7 @@
 | [Pesadilla](https://open.spotify.com/track/6A8BQ6seDdCSVosLDUVlNy) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pesadilla](https://open.spotify.com/album/22bM1mtaAqFITc3Krdro7u) | 2:54 | 2021-11-18 | 2022-11-25 |
 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 | 2021-11-18 | 2022-05-10 |
 | [Pienso en Ti](https://open.spotify.com/track/2Oy1ZKm1QWYsLThU4rhduF) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:07 | 2023-08-18 | 2023-09-02 |
-| [poco a poquito](https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [poco a poquito](https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b) | 2:48 | 2023-08-11 |  |
+| [poco a poquito](https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [poco a poquito](https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b) | 2:48 | 2023-08-11 | 2023-09-27 |
 | [Polyhymnia](https://open.spotify.com/track/7grLgKJ2Og4CS6o6ky26U8) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Polyhymnia](https://open.spotify.com/album/2ZAaJFzi1XDfESGeFsNvsq) | 3:03 | 2022-01-10 | 2022-07-27 |
 | [Porcelana china](https://open.spotify.com/track/3flLyuvTJUeF0UieIfaMi7) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Porcelana china](https://open.spotify.com/album/0R23z9FEZ94c7qmcVSoyDs) | 3:32 | 2023-03-24 |  |
 | [Porque Existo](https://open.spotify.com/track/3FbYgQOGUARaGbUMkfP9Cp) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/3S4lvCHMkqUzXhqAWbrMEg) | 2:50 | 2022-06-29 | 2022-08-12 |

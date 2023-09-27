@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,512 likes - 76 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,626 likes - 76 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

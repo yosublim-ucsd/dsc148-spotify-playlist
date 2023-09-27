@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,771 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,822 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 15 | [Tengo Victoria](https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [De La a a La Z](https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt) | 3:07 |
 | 16 | [Mi Fe](https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat) | 3:56 |
 | 17 | [Fue Por Ti](https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax) | [Raza For Christ](https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW) | [Nonstop](https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA) | 3:14 |
-| 18 | [El Cristiano No Se Enoja](https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Historia](https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx) | 4:25 |
-| 19 | [Dame Tus Ojos \(feat\. Laurie Colón\)](https://open.spotify.com/track/3jPaLIbWPyfS5GZluhxh4D) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1), [Laurie Colon](https://open.spotify.com/artist/3D3ZmxtOiCz4n6UJf9k1R7) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 4:10 |
-| 20 | [Todo Se Lo Debo a El](https://open.spotify.com/track/3954VWv51e6kVHKAupQj2m) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Sólo Éxitos Tropicales](https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH) | 4:32 |
+| 18 | [Todo Se Lo Debo a El](https://open.spotify.com/track/3954VWv51e6kVHKAupQj2m) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Sólo Éxitos Tropicales](https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH) | 4:32 |
+| 19 | [El Cristiano No Se Enoja](https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Historia](https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx) | 4:25 |
+| 20 | [Dame Tus Ojos \(feat\. Laurie Colón\)](https://open.spotify.com/track/3jPaLIbWPyfS5GZluhxh4D) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1), [Laurie Colon](https://open.spotify.com/artist/3D3ZmxtOiCz4n6UJf9k1R7) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 4:10 |
 | 21 | [Rumbarengue](https://open.spotify.com/track/4h689d9SNdQ5WbrYcsGtG4) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [De Todo Un Poco](https://open.spotify.com/album/0HpcxLjTaZ65MM7auMqwdb) | 3:30 |
 | 22 | [Conmigo](https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Conmigo](https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs) | 2:50 |
 | 23 | [Una Señal](https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C) | [Banda Alternativa](https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Alegría y Gozo 2020](https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx) | 3:49 |
-| 24 | [Paz En La Tormenta](https://open.spotify.com/track/0vEQ3fQREP0tIObiMfuScP) | [Ander](https://open.spotify.com/artist/5twxq8MG0kp3dWPN1UKMCm) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:45 |
-| 25 | [Vivo por Cristo](https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d) | [Redimidos](https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7) | [Contigo Todo Es Posible](https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2) | 4:05 |
-| 26 | [Largo Viaje](https://open.spotify.com/track/5RC9Wt1fdM8h1LzoHBeAZm) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Sólo Éxitos Tropicales](https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH) | 3:29 |
+| 24 | [Largo Viaje](https://open.spotify.com/track/5RC9Wt1fdM8h1LzoHBeAZm) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Sólo Éxitos Tropicales](https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH) | 3:29 |
+| 25 | [Paz En La Tormenta](https://open.spotify.com/track/0vEQ3fQREP0tIObiMfuScP) | [Ander](https://open.spotify.com/artist/5twxq8MG0kp3dWPN1UKMCm) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:45 |
+| 26 | [Vivo por Cristo](https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d) | [Redimidos](https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7) | [Contigo Todo Es Posible](https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2) | 4:05 |
 | 27 | [Digan Lo Que Diga](https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Vivo Enamorado](https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5) | 4:04 |
 | 28 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
 | 29 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |

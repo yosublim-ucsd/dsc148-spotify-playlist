@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Paulo Cesar Baruk, Marcela Tais",
-  "num_followers": 269662,
+  "num_followers": 269819,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,18 @@
     {
       "added_at": "2023-09-25 14:55:13",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
+        "name": "Espera S\u00f3 Mais um Pouquinho",
+        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 236013,
-      "name": "Meu Barquinho",
-      "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
+      "duration_ms": 229759,
+      "name": "Espera S\u00f3 Mais um Pouquinho",
+      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
     },
     {
       "added_at": "2023-09-25 14:55:13",
@@ -747,18 +743,22 @@
     {
       "added_at": "2023-09-25 14:55:13",
       "album": {
-        "name": "Espera S\u00f3 Mais um Pouquinho",
-        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
         }
       ],
-      "duration_ms": 229759,
-      "name": "Espera S\u00f3 Mais um Pouquinho",
-      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
+      "duration_ms": 236013,
+      "name": "Meu Barquinho",
+      "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
     },
     {
       "added_at": "2023-09-25 14:55:13",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-09-25 14:55:13",
       "album": {
-        "name": "Intimidade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3fWhF5KsfOZxRUvYEVIw3T"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 219625,
-      "name": "Intimidade - Ao Vivo",
-      "url": "https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG"
-    },
-    {
-      "added_at": "2023-09-25 14:55:13",
-      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 290250,
       "name": "Muda os Planos - Ao Vivo",
       "url": "https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs"
+    },
+    {
+      "added_at": "2023-09-25 14:55:13",
+      "album": {
+        "name": "Intimidade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3fWhF5KsfOZxRUvYEVIw3T"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 219625,
+      "name": "Intimidade - Ao Vivo",
+      "url": "https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG"
     },
     {
       "added_at": "2023-09-25 14:55:13",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-09-25 14:55:13",
       "album": {
+        "name": "Nada vai me separar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0OnNop3rDPF1YGjO94Okju"
+      },
+      "artists": [
+        {
+          "name": "Thamires Garcia",
+          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
+        }
+      ],
+      "duration_ms": 278125,
+      "name": "Nada vai me separar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3Gx2PliooXRtT5Budt9Oc0"
+    },
+    {
+      "added_at": "2023-09-25 14:55:13",
+      "album": {
         "name": "O Que Meu Deus Vai Fazer (Ess\u00eancia Sessions)",
         "url": "https://open.spotify.com/album/2YzdSN1IQZJlISrbINPnSM"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 309333,
       "name": "Me Enche de Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
-    },
-    {
-      "added_at": "2023-09-25 14:55:13",
-      "album": {
-        "name": "Nada vai me separar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0OnNop3rDPF1YGjO94Okju"
-      },
-      "artists": [
-        {
-          "name": "Thamires Garcia",
-          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
-        }
-      ],
-      "duration_ms": 278125,
-      "name": "Nada vai me separar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3Gx2PliooXRtT5Budt9Oc0"
     },
     {
       "added_at": "2023-09-25 14:55:13",

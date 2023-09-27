@@ -4,12 +4,12 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-205 songs - 23 hr 7 min
+206 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-06-09 | 2023-08-26 |
-| [Alagbara \(feat\. Lyrical HI\) \- Live](https://open.spotify.com/track/6ezGHMuG167jNieeHVEan4) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Alagbara \(feat\. Lyrical HI\) \[Live\]](https://open.spotify.com/album/0U4J6xspO4tfRebuqjlhEk) | 12:14 | 2023-09-01 |  |
+| [Alagbara \(feat\. Lyrical HI\) \- Live](https://open.spotify.com/track/6ezGHMuG167jNieeHVEan4) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Alagbara \(feat\. Lyrical HI\) \[Live\]](https://open.spotify.com/album/0U4J6xspO4tfRebuqjlhEk) | 12:14 | 2023-09-01 | 2023-09-27 |
 | [Alayo](https://open.spotify.com/track/6C3VOdOfte4tMLFZT3fOeH) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU), [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [The Spirit of Light](https://open.spotify.com/album/1grxa0bu0S0u98pDXNnFSg) | 4:10 | 2022-10-14 | 2022-11-05 |
 | [Almighty God](https://open.spotify.com/track/6QqMh9HOshOWh1yhsdcrXv) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Koinonia Phase I](https://open.spotify.com/album/6MdmJ0FsRgpgq3pv1wwtTX) | 10:06 | 2022-11-04 | 2023-07-28 |
 | [ALONE WITH GOD \(Spontaneous Worship\)](https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ALONE WITH GOD \(Spontaneous Worship\)](https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM) | 42:06 | 2022-12-08 |  |
@@ -113,6 +113,7 @@
 | [Mercy](https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Mercy](https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu) | 16:45 | 2023-08-11 |  |
 | [Messengers](https://open.spotify.com/track/16QyjYsEnTcPhmpjqTg1Ad) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Messengers](https://open.spotify.com/album/0upBIxCFfX69fL1uB0NhTO) | 4:48 | 2022-06-09 | 2023-01-02 |
 | [Mighty God \- Live At Kairos Night](https://open.spotify.com/track/5ZkJihnxkWNFJA6l7NCpQt) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Mighty God \(Live At Kairos Night\)](https://open.spotify.com/album/4em67UPd4Q701rGceqOClt) | 7:04 | 2023-03-30 | 2023-04-25 |
+| [Mon Dieu](https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Mon Dieu](https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd) | 2:46 | 2023-09-22 |  |
 | [More than the world](https://open.spotify.com/track/60m6IGnuQ5RGKJhfrGtGmy) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Most High](https://open.spotify.com/album/4DmICvVxirmdQzjbuXEfzS) | 6:07 | 2022-10-14 | 2022-11-05 |
 | [Most High \- African Worship Medley/Live](https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 4:58 | 2022-06-09 |  |
 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 | 2023-02-03 |  |

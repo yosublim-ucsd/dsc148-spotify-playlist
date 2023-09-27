@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with Advisry's Season 10 Runway for NYFW, Mixtape by Keith Herron.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,568 likes - 42 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,610 likes - 42 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

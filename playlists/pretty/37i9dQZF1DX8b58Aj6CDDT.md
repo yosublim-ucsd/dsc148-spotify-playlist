@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 
 > Las canciones alternativas que definieron el 2022 en Hispanoamérica\. Marilina Bertoldi y Javiera Mena en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,178 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,182 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 44 | [Te Sigo Buscando](https://open.spotify.com/track/26XiKU35Cs3TnPKvX0Oamf) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Te Sigo Buscando](https://open.spotify.com/album/0MxoRjinPNdShp76AEPGmo) | 4:01 |
 | 45 | [Mi Barco](https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Mi Barco](https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr) | 3:30 |
 | 46 | [Quemonito](https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Raylen](https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l) | [Quemonito](https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb) | 3:40 |
-| 47 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
-| 48 | [Matizando](https://open.spotify.com/track/7qBYuqHrm5AyA6J500vhoq) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Matizando](https://open.spotify.com/album/0GLE4CLio2Kj4fLoBrHOU4) | 3:34 |
+| 47 | [Matizando](https://open.spotify.com/track/7qBYuqHrm5AyA6J500vhoq) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Matizando](https://open.spotify.com/album/0GLE4CLio2Kj4fLoBrHOU4) | 3:34 |
+| 48 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
 | 49 | [Lamentar](https://open.spotify.com/track/4VUO4tl0mGNhz2zoQ2EZd0) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Lamentar](https://open.spotify.com/album/3qqKA3lRu2PizL8UuQCD68) | 2:41 |
 | 50 | [Anhedonia](https://open.spotify.com/track/3l7XgSNNdnLEZ7Ipcj4Z1X) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Anhedonia](https://open.spotify.com/album/4mFzkhis1q3DVpQ86GhJv9) | 3:44 |
 

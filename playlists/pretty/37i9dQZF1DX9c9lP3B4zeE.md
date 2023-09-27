@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 
 > California dreaming\. Listen to the soundtrack that shaped a generation\. 🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,410 likes - 51 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,464 likes - 51 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Bad Bunny
 
-439 songs - 1 day 0 hr 23 min
+440 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-02-24 | 2023-03-29 |
 | [Traductor](https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Traductor](https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl) | 3:42 | 2022-07-26 | 2022-12-17 |
 | [Triste Verano](https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Triste Verano](https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y) | 3:32 | 2023-04-14 | 2023-09-01 |
+| [TROYA](https://open.spotify.com/track/1CEdDExqYCaf9UB3nwsBZs) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [TROYA](https://open.spotify.com/album/6lwxRxjLpoyE1BFnWumftN) | 2:43 | 2023-09-26 |  |
 | [Tuenti \- Remix](https://open.spotify.com/track/1ZkIxbmM3ZUhn2OayBdwe5) | [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Tuenti \(Remix\)](https://open.spotify.com/album/5tvMf5MkyB97XVuVLa4xSd) | 3:04 | 2023-03-06 | 2023-09-19 |
 | [Tus Labios](https://open.spotify.com/track/0HVvp9utYjZ9RCKgBNIGUY) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tus Labios](https://open.spotify.com/album/4fQLquz6RHPXSFeIRNiWYD) | 2:55 | 2023-08-21 | 2023-09-22 |
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-21 | 2023-02-11 |

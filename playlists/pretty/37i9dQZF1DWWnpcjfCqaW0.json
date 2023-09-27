@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 281550,
+  "num_followers": 281627,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -579,18 +579,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Dance To The Bop",
-        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
+        "name": "Songs Of The Brazos Valley",
+        "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
       },
       "artists": [
         {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+          "name": "Hank Thompson",
+          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
+        },
+        {
+          "name": "Hank Thompson And His Brazos Valley Boys",
+          "url": "https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk"
         }
       ],
-      "duration_ms": 156306,
-      "name": "Be-Bop-A-Lula",
-      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
+      "duration_ms": 164520,
+      "name": "The Wild Side Of Life",
+      "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -627,22 +631,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Songs Of The Brazos Valley",
-        "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
+        "name": "Dance To The Bop",
+        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
       },
       "artists": [
         {
-          "name": "Hank Thompson",
-          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
-        },
-        {
-          "name": "Hank Thompson And His Brazos Valley Boys",
-          "url": "https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk"
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
         }
       ],
-      "duration_ms": 164520,
-      "name": "The Wild Side Of Life",
-      "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
+      "duration_ms": 156306,
+      "name": "Be-Bop-A-Lula",
+      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
       "artists": [
         {
-          "name": "Sonny James",
-          "url": "https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
         }
       ],
-      "duration_ms": 152200,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S"
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Sonny James",
+          "url": "https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Am I Losing You",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+      "duration_ms": 152200,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
-      },
-      "artists": [
-        {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "Oh Lonesome Me",
-      "url": "https://open.spotify.com/track/0F8JWFitStLlel68uSLhUX"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Best Of Jimmie Rodgers",
         "url": "https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 137106,
       "name": "Honeycomb",
       "url": "https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "Oh Lonesome Me",
+      "url": "https://open.spotify.com/track/0F8JWFitStLlel68uSLhUX"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
-      },
-      "artists": [
-        {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Essential Johnny Horton",
         "url": "https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 157000,
       "name": "A Dear John Letter",
       "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12"
     },
     {
       "added_at": "2023-01-02 21:32:07",

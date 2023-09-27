@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Diesel And Dust",
+        "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
+      },
+      "artists": [
+        {
+          "name": "Midnight Oil",
+          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255680,
+      "name": "Beds Are Burning - Remastered",
+      "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
+    },
+    {
+      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -1726,6 +1744,24 @@
       "duration_ms": 176533,
       "name": "I Walk the Line",
       "url": "https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE"
+    },
+    {
+      "album": {
+        "name": "Savage Garden (Original Version)",
+        "url": "https://open.spotify.com/album/0980NRxcxOXllQhJQ8iPu4"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231510,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/13SKWUEst7c0WohbwPAJJT"
     },
     {
       "album": {

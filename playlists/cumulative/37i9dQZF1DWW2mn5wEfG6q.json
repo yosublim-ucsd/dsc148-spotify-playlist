@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "2013 highlights from the home of indie music.",
+  "description": "2013 highlights from the home of indie music. Cover: HAIM ",
   "name": "Best of Indie 2013",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 204591,
       "name": "Alive",
       "url": "https://open.spotify.com/track/5WBnKCEsPwsvWHUZmLjS3s"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 274200,
       "name": "Another Story",
       "url": "https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 207356,
       "name": "Arabella",
       "url": "https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 204773,
       "name": "Call It Fate, Call It Karma",
       "url": "https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 224640,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 188280,
       "name": "Devil Like Me",
       "url": "https://open.spotify.com/track/6pSliMukEwAdpMPgCKTKDH"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 221894,
       "name": "Drop The Game",
       "url": "https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 245240,
       "name": "I Need My Girl",
       "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 223186,
       "name": "Kangaroo Court",
       "url": "https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 238853,
       "name": "My Number",
       "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 268455,
       "name": "Only",
       "url": "https://open.spotify.com/track/1GxNPd5r7D1zChEMuMhue0"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 196026,
       "name": "Raspberry",
       "url": "https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn"
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 298920,
       "name": "Red Eyes",
       "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 223600,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 254509,
       "name": "Robbers",
       "url": "https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03"
@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 146293,
       "name": "Sleep Apnea",
       "url": "https://open.spotify.com/track/6XyjwF7CAwuEaW77noJr6I"
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 230146,
       "name": "So Good At Being in Trouble",
       "url": "https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp"
@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 228293,
       "name": "Telescope",
       "url": "https://open.spotify.com/track/0tkBOcK7oRVXQJY97zzSvr"
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 198907,
       "name": "Tennis Court",
       "url": "https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt"
@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 259413,
       "name": "W.D.Y.W.F.M?",
       "url": "https://open.spotify.com/track/3vooOYHU0Fi3ViCG7Ozh0Y"

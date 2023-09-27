@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-134 songs - 9 hr 10 min
+135 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Gifu Me Chance](https://open.spotify.com/track/7sOoTm3v0SCIbZmp1uXDjt) | [Nagareboshi](https://open.spotify.com/artist/7w9QTvKp59PCHa4fkL3NZ6) | [Gifu Me Chance](https://open.spotify.com/album/0NZQ4ZVCUzF6Q1Pg8FLjGF) | 4:29 | 2022-07-12 |  |
 | [Han\-Pan Spirit](https://open.spotify.com/track/1YfbLKjPSdfIWr7Yeblqb8) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Han\-Pan Spirit](https://open.spotify.com/album/3EgBwcapLupR4VuwdrCsa9) | 3:59 | 2023-05-16 |  |
 | [HAPPY WEDDING珍道中](https://open.spotify.com/track/0OxcQ5z8HdEWwVBi64uwOm) | [Fischer’s](https://open.spotify.com/artist/6jzUFgPUi6cl92JOaM6gbF) | [Last Restart](https://open.spotify.com/album/0CembaiBBmxs0Ab9FFJFoB) | 5:02 | 2023-08-17 |  |
+| [HOLIDAY in OHAPA!!](https://open.spotify.com/track/46w2GqGJ9dXOoZM7RLAAHQ) | [おは朝バンド](https://open.spotify.com/artist/5wLfo9S8j40aNshxoojY23) | [HOLIDAY in OHAPA!!](https://open.spotify.com/album/1khr284a8asSOAQqs3sqpp) | 3:50 | 2023-09-26 |  |
 | [Home Sweet Home !](https://open.spotify.com/track/71t4iyi0NqFcHU1hcYojjH) | [Yutaro Miura](https://open.spotify.com/artist/4NV9z38H7a9yNJCzu5Pnp3) | [FLOWERS](https://open.spotify.com/album/0bKTvirykWz7P04Tx4F6FZ) | 4:01 | 2022-03-08 |  |
 | [Hyouriittai](https://open.spotify.com/track/5oTkVrnbUnDQpQ5o7XjWyN) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Hyouriittai \(HunterxHunter Ver.\)](https://open.spotify.com/album/0NgnybaNNz1WleLYRIUEro) | 5:36 | 2022-08-04 | 2022-11-13 |
 | [Hyouriittai](https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Shinsekai](https://open.spotify.com/album/2R5uRvmQGlvwYDzpl7pK63) | 5:36 | 2022-07-12 |  |

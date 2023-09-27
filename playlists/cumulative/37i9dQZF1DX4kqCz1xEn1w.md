@@ -4,7 +4,7 @@
 
 > Victory over death has been won today, forever!
 
-202 songs - 18 hr 45 min
+203 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Death Was Arrested](https://open.spotify.com/track/2HFi7awvXr2IPFX1j2D9IA) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/6S0HZLGlyWy8mB8nhkKVn4) | 4:53 | 2021-04-04 | 2022-07-29 |
 | [Death Was Arrested \(feat\. Seth Condrey\)](https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested \(feat\. Seth Condrey\)](https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr) | 4:55 | 2022-04-17 |  |
 | [Diamonds \(Something Beautiful\)](https://open.spotify.com/track/5YYfRoURZob8PAsw0gzwjF) | [NP / NIGHTS](https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL) | [Diamonds \(Something Beautiful\)](https://open.spotify.com/album/4NKrnSZo8kbQ7rpghQvOrA) | 3:47 | 2022-04-02 | 2022-05-21 |
-| [Diamonds \(Something Beautiful\)](https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb) | [NP / NIGHTS](https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL) | [Diamonds \(Something Beautiful\)](https://open.spotify.com/album/6HAYpLUYV5LWy3xPPMiz7K) | 3:47 | 2022-04-17 |  |
+| [Diamonds \(Something Beautiful\)](https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb) | [NP / NIGHTS](https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL) | [Diamonds \(Something Beautiful\)](https://open.spotify.com/album/6HAYpLUYV5LWy3xPPMiz7K) | 3:47 | 2022-04-17 | 2023-09-27 |
 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 | 2021-04-04 |  |
 | [Don't Ever Let Me Go \- Live](https://open.spotify.com/track/3OvG9LxwPFPBS2W4JqVDrm) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Songs of Heaven and Earth \(Vol\. 1\) \[Live\]](https://open.spotify.com/album/74bTU3e8S2m12OYitJsZxc) | 4:15 | 2021-04-04 | 2022-07-28 |
 | [Endlessly](https://open.spotify.com/track/3JrygX9aQ8rAHoQ0Tsm3cq) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 4:35 | 2022-04-17 | 2023-04-03 |
@@ -195,6 +195,7 @@
 | [Victorious](https://open.spotify.com/track/3vA31JbPn2wt9XtGF2jU3k) | [Radiate Worship](https://open.spotify.com/artist/3i5uup1PgNejl68RMu8kju) | [Victorious](https://open.spotify.com/album/4qTemhvdw7xJBAubwDBuXI) | 4:43 | 2022-04-02 | 2022-05-16 |
 | [Waymaker](https://open.spotify.com/track/0hLsDRLsfvwExXMBeDS53k) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM), [Madelyn Berry](https://open.spotify.com/artist/0BQdLOsJd5icawEym8uBp0) | [Awaken: The Surrounded Experience](https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa) | 7:17 | 2021-04-04 |  |
 | [Waymaker \(Live\)](https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 8:20 | 2021-04-04 | 2023-09-16 |
+| [Waymaker \- Bonus Track, Live](https://open.spotify.com/track/4WBGWowkttFkVlxULnCWKP) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/5EbRkyqOEX6pXqypa5Eh65) | 8:20 | 2023-04-09 |  |
 | [We Adore You](https://open.spotify.com/track/3jNMRPHBzue94UVUGsF9d3) | [The Vigil Project](https://open.spotify.com/artist/2Qtvrlcjx83rryARiEIPeI), [Greg&Lizzy](https://open.spotify.com/artist/54xxNWktx50xuT5G2rOiZ2) | [We Adore You](https://open.spotify.com/album/0Xk4lFyKQ91MlURQwhi4Yw) | 3:13 | 2022-04-17 | 2022-07-29 |
 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 | 2021-04-04 |  |
 | [What A Beautiful Name \- Live](https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 5:41 | 2021-04-04 |  |

@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Never Tear Us Apart",
+        "url": "https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198653,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi"
+    },
+    {
+      "album": {
         "name": "Once Twice Melody",
         "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
       },
@@ -738,7 +756,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 322573,
       "name": "One More Second",
       "url": "https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE"

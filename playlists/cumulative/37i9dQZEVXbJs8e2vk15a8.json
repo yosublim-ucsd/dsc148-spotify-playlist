@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Cantan las Canciones de Lona",
+        "url": "https://open.spotify.com/album/0okSuR9REAM3YPUcud8l9L"
+      },
+      "artists": [
+        {
+          "name": "Tina y Tin",
+          "url": "https://open.spotify.com/artist/2iNwRUfZjytm6noUCtN7Nz"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97201,
+      "name": "A Levantarse Lona",
+      "url": "https://open.spotify.com/track/0GMXCR5z5qxg6QubmbOtBQ"
+    },
+    {
+      "album": {
         "name": "Totally Hot",
         "url": "https://open.spotify.com/album/1ueVqnd8GuQ8qi2kyr2uCa"
       },
@@ -792,7 +810,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 136600,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/3lOdizEbYSdv9LxCh2F9I8"
@@ -1308,7 +1326,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 132942,
       "name": "Aki Voy a Estar :)",
       "url": "https://open.spotify.com/track/4rQsIXQcv99uTxjxSVpGoh"
@@ -1504,6 +1522,24 @@
       "duration_ms": 221407,
       "name": "All Of The Girls You Loved Before",
       "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "all-american bitch",
+      "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
     },
     {
       "album": {
@@ -5231,6 +5267,40 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Roto pt. 3",
+        "url": "https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348400,
+      "name": "Coraz\u00f3n Roto pt. 3",
+      "url": "https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP"
+    },
+    {
+      "album": {
         "name": "CORAZ\u00d3N VAC\u00cdO",
         "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
       },
@@ -5290,6 +5360,28 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "album": {
+        "name": "CRIS MJ | DJ TAO Turreo Sessions #20",
+        "url": "https://open.spotify.com/album/4HCyWSPj8iDtCN291g4n39"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210012,
+      "name": "CRIS MJ | DJ TAO Turreo Sessions #20",
+      "url": "https://open.spotify.com/track/6bAxW5fCFc4mfe8otIxWf9"
     },
     {
       "album": {
@@ -5402,7 +5494,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 200000,
       "name": "Culpable o No",
       "url": "https://open.spotify.com/track/6dydgoHVmvAsRLBTKnitue"
@@ -5684,7 +5776,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 147494,
       "name": "Darkera",
       "url": "https://open.spotify.com/track/2TBuVTy3QnnFn4u4IV7ZMy"
@@ -5720,7 +5812,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 481000,
       "name": "De la Vida Como Pelicula, Tragedia, Comedia y Ficcion",
       "url": "https://open.spotify.com/track/76YpLOgJcD2YInDHs5u69s"
@@ -8415,6 +8507,32 @@
     },
     {
       "album": {
+        "name": "TU DUO FAVORITO",
+        "url": "https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185241,
+      "name": "FLECHAZO EN EL CENTRO",
+      "url": "https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE"
+    },
+    {
+      "album": {
         "name": "Floricienta",
         "url": "https://open.spotify.com/album/2X3U1Ra8bYgf0wXMjYJ1rN"
       },
@@ -8660,6 +8778,40 @@
       "duration_ms": 122833,
       "name": "Fornico Riko",
       "url": "https://open.spotify.com/track/2jkmynAXg9i8vBd0fIljj5"
+    },
+    {
+      "album": {
+        "name": "Forte Forte de Lacoste - Pra Come\u00e7ar o Final de Semana",
+        "url": "https://open.spotify.com/album/3cMus2DPrc3370m8whkCul"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "MC LCKaiique",
+          "url": "https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS"
+        },
+        {
+          "name": "MC Celo BK",
+          "url": "https://open.spotify.com/artist/0nppFBXdpNggDY3LdjX29c"
+        },
+        {
+          "name": "DJ Menezes",
+          "url": "https://open.spotify.com/artist/12ayBbABWnctytOKqQwMyr"
+        },
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Forte Forte de Lacoste - Pra Come\u00e7ar o Final de Semana",
+      "url": "https://open.spotify.com/track/5vdQUAFncALEH9EQvyAqIX"
     },
     {
       "album": {
@@ -9112,6 +9264,24 @@
       "duration_ms": 164186,
       "name": "Generation",
       "url": "https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
       "album": {
@@ -10452,7 +10622,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 126600,
       "name": "I LOVE YOU HOE (w/ 9lives)",
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
@@ -11073,6 +11243,48 @@
     },
     {
       "album": {
+        "name": "JARABE (feat. Chiko Alfa, Bayriton, Malito Malozo & Paolo Pimp)",
+        "url": "https://open.spotify.com/album/2fIVbh6bx6h3odxlQJ0Oof"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Chiko Alfa",
+          "url": "https://open.spotify.com/artist/6fDFw5ZF2hKa52oH1enbks"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Malito Malozo",
+          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
+        },
+        {
+          "name": "Paolo Pimp",
+          "url": "https://open.spotify.com/artist/3C4u5zRlcRqpe26zQmQRku"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416419,
+      "name": "JARABE (feat. Chiko Alfa, Bayriton, Malito Malozo & Paolo Pimp)",
+      "url": "https://open.spotify.com/track/7q9Sq1jrDgmyEAaWXKhqtg"
+    },
+    {
+      "album": {
         "name": "jere klein",
         "url": "https://open.spotify.com/album/6tAmasTOkfW0plNNDEr1Lk"
       },
@@ -11450,7 +11662,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 151578,
       "name": "Kraazy",
       "url": "https://open.spotify.com/track/3s2Qd1rsWqbvOoxpFTRp8D"
@@ -11624,7 +11836,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 127613,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
@@ -11952,7 +12164,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 256914,
       "name": "La Pirilacha",
       "url": "https://open.spotify.com/track/39Tix2LMbFHyZHJoNLXbUO"
@@ -12576,7 +12788,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 131106,
       "name": "Llorando Ausencia",
       "url": "https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r"
@@ -12946,7 +13158,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 105266,
       "name": "Los Viejos Estandartes",
       "url": "https://open.spotify.com/track/0K7k6dYM3E6VbHszkR4Tpo"
@@ -13042,6 +13254,24 @@
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+    },
+    {
+      "album": {
+        "name": "Love Lee",
+        "url": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179683,
+      "name": "Love Lee",
+      "url": "https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ"
     },
     {
       "album": {
@@ -14080,7 +14310,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 236066,
       "name": "Me Gusta el Vino",
       "url": "https://open.spotify.com/track/4phiyACOmjHDWImFfi99Fi"
@@ -14230,7 +14460,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 463253,
       "name": "Medley: Te Miro la Cara y Me da Sed / Ta' Bailando una Morena / El Sombrero de Paja",
       "url": "https://open.spotify.com/track/63xr0kuokCreaKuklqDsF5"
@@ -21247,6 +21477,24 @@
     },
     {
       "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo"
       },
@@ -22128,6 +22376,24 @@
       "duration_ms": 176285,
       "name": "SloMo",
       "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"
+    },
+    {
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     },
     {
       "album": {
@@ -23398,7 +23664,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 110053,
       "name": "Te Miro la Cara y Me Da Sed",
       "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"
@@ -23768,6 +24034,24 @@
       "duration_ms": 316493,
       "name": "The Emperor's New Clothes",
       "url": "https://open.spotify.com/track/0HSmS7KsbOpB3K4UFdOSx9"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189386,
+      "name": "the grudge",
+      "url": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt"
     },
     {
       "album": {
@@ -24837,6 +25121,32 @@
     },
     {
       "album": {
+        "name": "TU DUO FAVORITO",
+        "url": "https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204003,
+      "name": "TUUUYO",
+      "url": "https://open.spotify.com/track/57WroSoheS9bWCtALlXA1t"
+    },
+    {
+      "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/0mrflT70oAJM0Tzdo2jUXx"
       },
@@ -25646,7 +25956,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 194360,
       "name": "Usted Me Gusta",
       "url": "https://open.spotify.com/track/3uuPiEUCeU3sPqqDWYhFbx"

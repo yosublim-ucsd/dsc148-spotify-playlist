@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house. Cover: AC Slater & Chris Lorenzo (Fly With Us)",
-  "num_followers": 434634,
+  "num_followers": 434702,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "buttons!",
+        "url": "https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "buttons!",
+      "url": "https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Leave Me Like This",
         "url": "https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U"
       },
@@ -471,22 +491,6 @@
       "duration_ms": 255360,
       "name": "The Freaks",
       "url": "https://open.spotify.com/track/4NoJpQvvjVJ2m8S72eIDaF"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -619,6 +623,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Neurose 2.0",
         "url": "https://open.spotify.com/album/6VSMvcgi4WWfWBY8yKJoe5"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 207694,
       "name": "Aarena (Knock2 Remix)",
       "url": "https://open.spotify.com/track/61xflUm94Khk7PVeyJIyJ3"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "buttons!",
-        "url": "https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "buttons!",
-      "url": "https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The Way We Touch",
-        "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Mahalo",
-          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "The Way We Touch",
-      "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "NRG",
         "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 220898,
       "name": "NRG",
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "The Way We Touch",
+        "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "The Way We Touch",
+      "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r"
-      },
-      "artists": [
-        {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        },
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Bassline Rumble",
         "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
       },
@@ -1323,18 +1303,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Relations",
-        "url": "https://open.spotify.com/album/6pPtbWPEp1UN26ExUTE2Sz"
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r"
       },
       "artists": [
         {
-          "name": "Dzeko",
-          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
         }
       ],
-      "duration_ms": 169523,
-      "name": "Relations",
-      "url": "https://open.spotify.com/track/5O0vOpDt91Rw20NYKO6XQq"
+      "duration_ms": 177230,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1359,6 +1343,46 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Relations",
+        "url": "https://open.spotify.com/album/6pPtbWPEp1UN26ExUTE2Sz"
+      },
+      "artists": [
+        {
+          "name": "Dzeko",
+          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Relations",
+      "url": "https://open.spotify.com/track/5O0vOpDt91Rw20NYKO6XQq"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Haus of Panda",
+          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
+        },
+        {
+          "name": "MYLK",
+          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Dont Sleep",
         "url": "https://open.spotify.com/album/29C3mRpDY5Lqxh5X5mlnl9"
       },
@@ -1371,6 +1395,22 @@
       "duration_ms": 156480,
       "name": "Dont Sleep",
       "url": "https://open.spotify.com/track/0bmT2MQ4FrBOgWhYr4S8Lj"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 163369,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1415,38 +1455,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "RUSH",
-        "url": "https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 163369,
-      "name": "RUSH",
-      "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/3xjnO30PBWtbz6CuaMn3gg"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Fiya (Curbi Edit)",
         "url": "https://open.spotify.com/album/296eebCCSymVYHR6fjiISA"
       },
@@ -1463,6 +1471,22 @@
       "duration_ms": 280771,
       "name": "Fiya - Curbi Edit",
       "url": "https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/3xjnO30PBWtbz6CuaMn3gg"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1499,30 +1523,6 @@
       "duration_ms": 139047,
       "name": "Here With You",
       "url": "https://open.spotify.com/track/3ofM6vMSZ9FWC0bUv6VzYg"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "Haus of Panda",
-          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
-        },
-        {
-          "name": "MYLK",
-          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "In Your House",
-        "url": "https://open.spotify.com/album/73tX1UuJM9z5a0KcQsEKWn"
-      },
-      "artists": [
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 164591,
-      "name": "In Your House",
-      "url": "https://open.spotify.com/track/4yhN31oCtIMfHutV6k42oa"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Don Malaa",
         "url": "https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 240000,
       "name": "Discipline (with Tchami)",
       "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "In Your House",
+        "url": "https://open.spotify.com/album/73tX1UuJM9z5a0KcQsEKWn"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 164591,
+      "name": "In Your House",
+      "url": "https://open.spotify.com/track/4yhN31oCtIMfHutV6k42oa"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2187,18 +2187,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Let It Drop",
-        "url": "https://open.spotify.com/album/7ioBTB82MiREoFryyTsx3V"
+        "name": "Techno",
+        "url": "https://open.spotify.com/album/78pp5cZjGZ3HsONFmbn7bE"
       },
       "artists": [
         {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
         }
       ],
-      "duration_ms": 193809,
-      "name": "Let It Drop",
-      "url": "https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o"
+      "duration_ms": 222260,
+      "name": "Techno",
+      "url": "https://open.spotify.com/track/2CcQBQomdpTg3q97rj2Gp7"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2223,22 +2227,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Techno",
-        "url": "https://open.spotify.com/album/78pp5cZjGZ3HsONFmbn7bE"
+        "name": "Let It Drop",
+        "url": "https://open.spotify.com/album/7ioBTB82MiREoFryyTsx3V"
       },
       "artists": [
         {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
-        },
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
         }
       ],
-      "duration_ms": 222260,
-      "name": "Techno",
-      "url": "https://open.spotify.com/track/2CcQBQomdpTg3q97rj2Gp7"
+      "duration_ms": 193809,
+      "name": "Let It Drop",
+      "url": "https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2263,26 +2263,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Beyond To Infinity",
-        "url": "https://open.spotify.com/album/4gADnOxVCUHLvDYKI5Iukp"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Purple Velvet Curtains",
-          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
-        }
-      ],
-      "duration_ms": 240014,
-      "name": "Beyond To Infinity",
-      "url": "https://open.spotify.com/track/1bMa7uY77rZV51qsaYKHIO"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Block Party EP",
         "url": "https://open.spotify.com/album/0i0UghehaPAyvAKScn543o"
       },
@@ -2303,18 +2283,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Set You Free",
-        "url": "https://open.spotify.com/album/6v8K8RsjlK7K7SqM4MOpfp"
+        "name": "Beyond To Infinity",
+        "url": "https://open.spotify.com/album/4gADnOxVCUHLvDYKI5Iukp"
       },
       "artists": [
         {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Purple Velvet Curtains",
+          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
         }
       ],
-      "duration_ms": 200347,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/0nKeZkMxxMPp37kCZOenbe"
+      "duration_ms": 240014,
+      "name": "Beyond To Infinity",
+      "url": "https://open.spotify.com/track/1bMa7uY77rZV51qsaYKHIO"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2331,6 +2315,42 @@
       "duration_ms": 207000,
       "name": "Like That",
       "url": "https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/6v8K8RsjlK7K7SqM4MOpfp"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/0nKeZkMxxMPp37kCZOenbe"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "FAME?",
+        "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 142562,
+      "name": "FAME?",
+      "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -2383,22 +2403,6 @@
       "duration_ms": 157440,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Feeling under Pressure",
-        "url": "https://open.spotify.com/album/1OW3rBusYWKe9oWJ5BRccS"
-      },
-      "artists": [
-        {
-          "name": "NIGHTCAP",
-          "url": "https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH"
-        }
-      ],
-      "duration_ms": 173208,
-      "name": "Feeling Under Pressure",
-      "url": "https://open.spotify.com/track/3DX8LKpJpOXEyNsS2NICrO"
     }
   ],
   "unique_name": "Nasty Bits",

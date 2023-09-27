@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 
 > Show the world what love is made of\. Listen to the music from Heartstopper, new season now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,419 likes - 87 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,828 likes - 87 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

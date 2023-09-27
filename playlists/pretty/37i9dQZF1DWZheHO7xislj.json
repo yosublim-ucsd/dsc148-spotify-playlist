@@ -1,6 +1,6 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 137691,
+  "num_followers": 137706,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 187666,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Cherish - Single Version",
-      "url": "https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ"
+      "duration_ms": 155026,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
         }
       ],
-      "duration_ms": 155026,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
+      "duration_ms": 238000,
+      "name": "Cherish - Single Version",
+      "url": "https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 324040,
+      "name": "Biggest Part of Me",
+      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "The First Family of Soul: The Best of The Five Stairsteps",
         "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 419640,
       "name": "Papa Was A Rollin' Stone - Single Version",
       "url": "https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 324040,
-      "name": "Biggest Part of Me",
-      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "I've Been Loving You Too Long",
-      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Winner In You",
         "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 290840,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 269333,
       "name": "I Can't Help It",
       "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Just Once",
+      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
       },
       "artists": [
         {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 273333,
-      "name": "Just Once",
-      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Essentials: Bloodstone",
-        "url": "https://open.spotify.com/album/40itH1o9OXNvjVjendp50L"
-      },
-      "artists": [
-        {
-          "name": "Bloodstone",
-          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
-        }
-      ],
-      "duration_ms": 249093,
-      "name": "Natural High - Single Version",
-      "url": "https://open.spotify.com/track/73etijhz7pV4Wx7GTANLpq"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "It's A Long Road",
         "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/6UuMxlYqfGzN0PhFO4PqCo"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Essentials: Bloodstone",
+        "url": "https://open.spotify.com/album/40itH1o9OXNvjVjendp50L"
+      },
+      "artists": [
+        {
+          "name": "Bloodstone",
+          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
+        }
+      ],
+      "duration_ms": 249093,
+      "name": "Natural High - Single Version",
+      "url": "https://open.spotify.com/track/73etijhz7pV4Wx7GTANLpq"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Respect Yourself",
-      "url": "https://open.spotify.com/track/4lzTyLYXb3ED01TSLCJ1Hz"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Be Thankful for What You Got",
         "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 429371,
       "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
       "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Respect Yourself",
+      "url": "https://open.spotify.com/track/4lzTyLYXb3ED01TSLCJ1Hz"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Very Best of Otis Redding",
-        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Black Radio",
         "url": "https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 307626,
       "name": "Afro Blue",
       "url": "https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Very Best of Otis Redding",
+        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "Do I Move You?",
-      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Soul Messin'",
         "url": "https://open.spotify.com/album/5WPhlzl38yomyOqn5MNnMe"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 224000,
       "name": "This Girl",
       "url": "https://open.spotify.com/track/5TJD3o52h1wMDoU0cYGwTv"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Do I Move You?",
+      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Just Being Myself",
-        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "You're Gonna Need Me",
-      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
         "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 354400,
       "name": "It's Love",
       "url": "https://open.spotify.com/track/2U7X7mPD4wSp0capCGfpmM"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Just Being Myself",
+        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "You're Gonna Need Me",
+      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 208555,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/11pd7go1eobijf2rxN5YbG"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Wake Up!",
         "url": "https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP"
       },
@@ -2567,18 +2551,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Essential Bill Withers",
-        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/1k2ybm1oz7rVPchTKCgMMz"
+      "duration_ms": 208555,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/11pd7go1eobijf2rxN5YbG"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2595,6 +2579,22 @@
       "duration_ms": 344560,
       "name": "I Am The Black Gold Of The Sun - Remastered",
       "url": "https://open.spotify.com/track/520qcJGrYM0HORZ5LsYg2K"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Essential Bill Withers",
+        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/1k2ybm1oz7rVPchTKCgMMz"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2647,22 +2647,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Liquid Spirit (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 235573,
-      "name": "No Love Dying",
-      "url": "https://open.spotify.com/track/03BN4IvMyiT9OEDJv2fH5n"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Jim",
         "url": "https://open.spotify.com/album/1tLJLTMFumKOyXQ9Cwnb0g"
       },
@@ -2675,6 +2659,22 @@
       "duration_ms": 242720,
       "name": "Little Bit of Feel Good",
       "url": "https://open.spotify.com/track/28jg9LDVwisxGNGN8Wl2UD"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Liquid Spirit (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 235573,
+      "name": "No Love Dying",
+      "url": "https://open.spotify.com/track/03BN4IvMyiT9OEDJv2fH5n"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2859,18 +2859,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Tellin' It",
-        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
+        "name": "Another Side",
+        "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
       },
       "artists": [
         {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+          "name": "Leo Nocentelli",
+          "url": "https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Come to Mama",
-      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
+      "duration_ms": 214506,
+      "name": "You've Become a Habit",
+      "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2895,18 +2895,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Another Side",
-        "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
+        "name": "Tellin' It",
+        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
       },
       "artists": [
         {
-          "name": "Leo Nocentelli",
-          "url": "https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e"
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
         }
       ],
-      "duration_ms": 214506,
-      "name": "You've Become a Habit",
-      "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
+      "duration_ms": 178280,
+      "name": "Come to Mama",
+      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Can't Stop Dancing, Vol. 6",
-        "url": "https://open.spotify.com/album/67Za0D5XluGk4Bm1WlQrIc"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 416626,
-      "name": "Be Thankful for What You've Got - David Todd Remix",
-      "url": "https://open.spotify.com/track/2TKt71TTe2CZCFsphbIZEs"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Best Of Joss Stone 2003 - 2009",
         "url": "https://open.spotify.com/album/6Z8HL0drVRDIGrqIrSM1Ad"
       },
@@ -2975,6 +2959,22 @@
       "duration_ms": 219506,
       "name": "Fell In Love With A Boy",
       "url": "https://open.spotify.com/track/4FEAmHZ3UXRAzP5354CErS"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Can't Stop Dancing, Vol. 6",
+        "url": "https://open.spotify.com/album/67Za0D5XluGk4Bm1WlQrIc"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 416626,
+      "name": "Be Thankful for What You've Got - David Todd Remix",
+      "url": "https://open.spotify.com/track/2TKt71TTe2CZCFsphbIZEs"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3075,6 +3075,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Body Heat",
+        "url": "https://open.spotify.com/album/3lvSxvMmdUz694tDBXkPmv"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "Body Heat",
+      "url": "https://open.spotify.com/track/0OLOcKHN4uXRo5ISx2TAqk"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Playlist: The ATCO Singles",
         "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
       },
@@ -3091,22 +3107,6 @@
       "duration_ms": 174706,
       "name": "I'm About Loving You",
       "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Body Heat",
-        "url": "https://open.spotify.com/album/3lvSxvMmdUz694tDBXkPmv"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "Body Heat",
-      "url": "https://open.spotify.com/track/0OLOcKHN4uXRo5ISx2TAqk"
     },
     {
       "added_at": "2023-08-15 12:19:30",

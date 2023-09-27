@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 288977,
+  "num_followers": 289054,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "CPM 22 - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4"
-      },
-      "artists": [
-        {
-          "name": "CPM 22",
-          "url": "https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Regina Let's Go - Live",
-      "url": "https://open.spotify.com/track/4RDAoIi6TCV4madz9hL0CF"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0FVwOZ7tlwwXSymeRyPfud"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 396968,
       "name": "Sweet Child O' Mine - Acoustic",
       "url": "https://open.spotify.com/track/1Qq7Tq8zZHuelGv9LQE2Yy"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "CPM 22 - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4"
+      },
+      "artists": [
+        {
+          "name": "CPM 22",
+          "url": "https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Regina Let's Go - Live",
+      "url": "https://open.spotify.com/track/4RDAoIi6TCV4madz9hL0CF"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Voc\u00ea Vai Lembrar de Mim (Edi\u00e7\u00e3o Especial)",
+        "url": "https://open.spotify.com/album/0WE73xCoDYeWVoU7b7Trlb"
+      },
+      "artists": [
+        {
+          "name": "NX Zero",
+          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Voc\u00ea Vai Lembrar de Mim - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Sex on the Beach (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Behind Your Walls",
-        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Behind Your Walls - Acoustic",
-      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Can You Hear Me (Acoustic)",
         "url": "https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR"
       },
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Voc\u00ea Vai Lembrar de Mim (Edi\u00e7\u00e3o Especial)",
-        "url": "https://open.spotify.com/album/0WE73xCoDYeWVoU7b7Trlb"
+        "name": "Behind Your Walls",
+        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
       },
       "artists": [
         {
-          "name": "NX Zero",
-          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Voc\u00ea Vai Lembrar de Mim - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR"
+      "duration_ms": 201186,
+      "name": "Behind Your Walls - Acoustic",
+      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Digital (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk"
+        "name": "Gold on the Ceiling (BBC Session)",
+        "url": "https://open.spotify.com/album/5a7S1MDqFYulZZD40MrdGt"
       },
       "artists": [
         {
-          "name": "Pirredy",
-          "url": "https://open.spotify.com/artist/1t06JeHvwnnglW4sw3Luhf"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 196023,
-      "name": "Digital - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
+      "duration_ms": 228163,
+      "name": "Gold on the Ceiling - BBC Session",
+      "url": "https://open.spotify.com/track/5W8OjPfxN7bc7FgTcqwgfu"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Gold on the Ceiling (BBC Session)",
-        "url": "https://open.spotify.com/album/5a7S1MDqFYulZZD40MrdGt"
+        "name": "Digital (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Pirredy",
+          "url": "https://open.spotify.com/artist/1t06JeHvwnnglW4sw3Luhf"
         }
       ],
-      "duration_ms": 228163,
-      "name": "Gold on the Ceiling - BBC Session",
-      "url": "https://open.spotify.com/track/5W8OjPfxN7bc7FgTcqwgfu"
+      "duration_ms": 196023,
+      "name": "Digital - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
     },
     {
       "added_at": "2023-09-22 03:01:00",

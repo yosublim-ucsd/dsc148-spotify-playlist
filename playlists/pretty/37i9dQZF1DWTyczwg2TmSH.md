@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 
 > Music from Ladies First: A Story of Women in Hip\-Hop, streaming now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,959 likes - 31 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,044 likes - 31 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-271 songs - 14 hr 8 min
+273 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Ab Ovo](https://open.spotify.com/track/1G0gPuaIFKB8Ua6mFUh2pu) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Ab Ovo](https://open.spotify.com/album/2Zg3YIxgAy5hnEvuy3LThJ) | 4:48 | 2019-04-17 | 2022-06-12 |
 | [Ab Ovo](https://open.spotify.com/track/5BRfucuiAf5IYRbwBYBYPZ) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Prehension](https://open.spotify.com/album/5hh0izzUUhsDp54kcijlKK) | 4:48 | 2022-07-28 | 2023-07-06 |
 | [Abandon Window](https://open.spotify.com/track/6ONMIrYmLAF2523vlCQclj) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/7H7UxuxjGSJuV7LcCFUxTD) | 4:57 | 2019-04-17 | 2022-02-05 |
-| [Acceptance](https://open.spotify.com/track/4DE4fXnXftKMyl6IQEYWnp) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Acceptance](https://open.spotify.com/album/0kNSxjrtG1jxZWb0BKfCHo) | 3:15 | 2022-04-08 |  |
+| [Acceptance](https://open.spotify.com/track/4DE4fXnXftKMyl6IQEYWnp) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Acceptance](https://open.spotify.com/album/0kNSxjrtG1jxZWb0BKfCHo) | 3:15 | 2022-04-08 | 2023-09-27 |
 | [Across Borders](https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Across Borders](https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG) | 2:36 | 2022-02-04 | 2023-09-23 |
 | [Across Long Lakes](https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Across Long Lakes](https://open.spotify.com/album/0dam87WXF1rtP8TYNRuYcZ) | 2:28 | 2022-02-11 |  |
 | [Afterwards](https://open.spotify.com/track/3cJd0mjiuqQzHU3aaPRyQr) | [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn) | [Paces](https://open.spotify.com/album/5A9A7MG3cXrgnZz0tpU3Eo) | 4:17 | 2019-04-17 | 2022-02-05 |
@@ -106,7 +106,7 @@
 | [Fractions](https://open.spotify.com/track/38QAogdiLHS54YxFbOO4Jj) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [Fractions](https://open.spotify.com/album/5ZVtZ3m4nZBoc0R2paTrKc) | 2:15 | 2019-04-17 | 2022-02-05 |
 | [Fragile](https://open.spotify.com/track/6uQaPMGHgvqYG3Jb2VlKqG) | [Hauschka](https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt) | [Substantial](https://open.spotify.com/album/64LyVOmmmTqVxtmPsyZPmc) | 3:28 | 2019-04-17 | 2022-02-05 |
 | [Fundersom](https://open.spotify.com/track/3gl8vhkqDmqEVN2ZZp7ML8) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Fundersom](https://open.spotify.com/album/0vMpCoijfU4ZT0YBCSmVmx) | 2:01 | 2022-09-20 | 2022-12-27 |
-| [Gdansk](https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Gdansk](https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR) | 2:27 | 2022-02-04 |  |
+| [Gdansk](https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Gdansk](https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR) | 2:27 | 2022-02-04 | 2023-09-27 |
 | [Grey Light](https://open.spotify.com/track/2OT0D7g8Y0CotmE5DYcbvy) | [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj) | [Piano Circle Songs](https://open.spotify.com/album/0HZffZIK7Q6RCdn8LOI72k) | 4:36 | 2019-04-17 | 2022-02-05 |
 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 | 2022-02-04 |  |
 | [Help](https://open.spotify.com/track/0FGQxILDykQk9njstjmJsW) | [Andy Gbormittah](https://open.spotify.com/artist/2mIwIuVk0LJ3Yx1OF9oemI), [Jake Warren](https://open.spotify.com/artist/4qpQbtCd9KCxdSNHsiiYc2), [Silence & Air](https://open.spotify.com/artist/6nz1OqkcYolAH8NHMQEqAs) | [Solo](https://open.spotify.com/album/7kgpxixcMnXRZ6f1FqIOLv) | 1:34 | 2019-04-17 | 2022-02-05 |
@@ -132,6 +132,7 @@
 | [Jean Paul errant](https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Jean Paul errant](https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0) | 2:20 | 2023-09-11 |  |
 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 | 2023-09-11 |  |
 | [land in sight](https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [land in sight](https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3) | 3:20 | 2023-09-22 |  |
+| [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 | 2023-09-26 |  |
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2022-02-04 |  |
 | [Lately \(Interlude\)](https://open.spotify.com/track/3mZg4qv8X55kolcHiQw2hy) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB) | [FreeDumb](https://open.spotify.com/album/3DgKFCcChPWJrDACBf9Wi4) | 0:56 | 2019-04-17 | 2022-02-05 |
 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 | 2022-02-04 |  |
@@ -143,6 +144,7 @@
 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 | 2023-07-05 |  |
 | [Little While](https://open.spotify.com/track/1f9RHATlSLTKsEgGjC6lQh) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Little While](https://open.spotify.com/album/11gmPF0r2oGtFQ6WP943jU) | 2:35 | 2022-03-04 | 2022-05-20 |
 | [Look into Your Eyes](https://open.spotify.com/track/0IGKdZPC3cys3xy8z21RHH) | [Dravde](https://open.spotify.com/artist/48hcGoeqRficiqH0Egd2Kc) | [Look into Your Eyes](https://open.spotify.com/album/1rv9Fe3kIFWdNkYC831aG8) | 2:21 | 2022-03-11 | 2022-07-31 |
+| [Luminous](https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Luminous](https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE) | 2:05 | 2023-09-26 |  |
 | [Matches \- Day 1](https://open.spotify.com/track/7MuStWT5QPoc6NzFR40oST) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking \(Day 1\)](https://open.spotify.com/album/1m4GKm4lVNZdA4dHwcr8of) | 2:54 | 2019-04-17 | 2022-02-05 |
 | [Merry](https://open.spotify.com/track/300EJYXVV966PiUOcZnTxP) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Solo](https://open.spotify.com/album/7eC6sBSIM2MgWdpywd90iU) | 4:08 | 2019-04-17 | 2022-02-05 |
 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 | 2022-02-04 | 2023-09-23 |

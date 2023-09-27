@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 441189,
+  "num_followers": 441334,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Oh! Chuva",
-        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Halfway (feat. Twan Ray)",
         "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 158416,
       "name": "Halfway (feat. Twan Ray)",
       "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Oh! Chuva",
+        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
     },
     {
       "added_at": "2023-07-14 03:03:00",

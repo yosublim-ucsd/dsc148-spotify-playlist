@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Emma from Men I trust.
 
-896 songs - 1 day 22 hr 36 min
+897 songs - 1 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Black Coffee](https://open.spotify.com/track/67aZdAS6doqinEJfperUnH) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Black Coffee](https://open.spotify.com/album/2HJ6fPTZHFuiSxWDGPTKo3) | 2:24 | 2021-05-09 | 2021-08-28 |
 | [Blame](https://open.spotify.com/track/0dlpkHAazQr4WtOTirzRnT) | [Mikalyn](https://open.spotify.com/artist/1uFSMxmIM7eRPSPlHBep7Y) | [Blame](https://open.spotify.com/album/7vfT5KiIrwzJR6oSsa3ahN) | 3:25 | 2021-10-08 | 2022-04-10 |
 | [blank slate](https://open.spotify.com/track/7EIiQFUmU8e6KFAid9L411) | [spookyghostboy](https://open.spotify.com/artist/3pHAJqPZhCGNoFShXcqD9k) | [blank slate](https://open.spotify.com/album/5dBn4IzCllX9kFAU70SGnB) | 4:49 | 2021-04-12 | 2021-08-27 |
-| [BLOOD DIAMOND RING](https://open.spotify.com/track/2I7rgaoo5F5ZAZIg6cIPVu) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [BLOOD DIAMOND RING](https://open.spotify.com/album/4hRVeQYXDUEiwhtfwcBObt) | 2:25 | 2023-09-22 |  |
+| [BLOOD DIAMOND RING](https://open.spotify.com/track/0ucjBqEJzF3qCsxzyALaxH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [BLOOD DIAMOND RING](https://open.spotify.com/album/4j0nubT1thDDL0CpeZjtZq) | 2:25 | 2023-09-22 |  |
+| [BLOOD DIAMOND RING](https://open.spotify.com/track/2I7rgaoo5F5ZAZIg6cIPVu) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [BLOOD DIAMOND RING](https://open.spotify.com/album/4hRVeQYXDUEiwhtfwcBObt) | 2:25 | 2023-09-22 | 2023-09-27 |
 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 | 2023-04-28 |  |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-08-13 | 2022-12-01 |
 | [BLUEBLUEBLUE](https://open.spotify.com/track/3c8joelJQd6Ae7vEIhme97) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C), [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [BLUEBLUEBLUE](https://open.spotify.com/album/3dOqYtutrXgjShT82NgDZu) | 2:11 | 2021-10-25 | 2022-04-18 |

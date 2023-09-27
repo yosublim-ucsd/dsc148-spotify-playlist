@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW?si=\-IQQXnf\-QHm2NhCpCMz9qA">Kiddo CSA</a>, <a href="https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT?si=mR\_f\-W0UQLKpSDBpKwKRzA">Lucasraps</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,815 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,876 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

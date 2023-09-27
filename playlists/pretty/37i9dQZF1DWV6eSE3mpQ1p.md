@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6eSE3mpQ1p.md) - [plain]
 
 > Let the music take you on a journey of peace, love, and good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,997 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,246 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

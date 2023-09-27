@@ -4,7 +4,7 @@
 
 > Solo il meglio dello street rap italiano\. Cover: Sacky, Baby Gang
 
-357 songs - 16 hr 34 min
+358 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Prefissi](https://open.spotify.com/track/19ik2WLPpAWJIy3k3Q2a2L) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:15 | 2023-01-12 | 2023-03-25 |
 | [Problèmes](https://open.spotify.com/track/6wdpb17i1FDIexi6x1vTke) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Problèmes](https://open.spotify.com/album/4TgBFy1SSFw7m5lhx2wut6) | 2:19 | 2022-11-10 | 2023-05-10 |
 | [Progressi \(feat\. Vale pain\)](https://open.spotify.com/track/1Pyj0bfp0E6xvDjJdBR662) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Progressi \(feat\. Vale pain\)](https://open.spotify.com/album/4TXJALE2louD30G0onu9zl) | 2:30 | 2023-03-30 | 2023-04-21 |
+| [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 | 2023-09-26 |  |
 | [Pula Ciao](https://open.spotify.com/track/0j6b6C1RjXJwqcgtQiaYv1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Pula Ciao](https://open.spotify.com/album/6ppGNR4fN65Zmcboef4BfT) | 3:01 | 2022-12-08 | 2022-12-16 |
 | [PULL UP \(feat\. Big P\)](https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [IL MINORENNE + BASTARDO](https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE) | 2:46 | 2022-05-11 | 2022-05-27 |
 | [Purosangue \(feat\. Shiva\)](https://open.spotify.com/track/5ZzDWDMYnWK8qwcOjVyoPv) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Purosangue \(feat\. Shiva\)](https://open.spotify.com/album/6qFCy6Umhqty9GB7QThBft) | 2:50 | 2022-10-20 | 2022-10-25 |
@@ -330,7 +331,7 @@
 | [Totò Riina](https://open.spotify.com/track/1tC2jyKepT8S8xd7vzBcPK) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo) | [Immigrato](https://open.spotify.com/album/7gyW0t8LnPglkkU1gICpCQ) | 2:22 | 2022-09-08 | 2022-11-25 |
 | [Towro Industria](https://open.spotify.com/track/7h9lrqaS0rg33ku8VaQC5Y) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [CrocoJonny](https://open.spotify.com/artist/7p8ahUHgDDCdDv552Kq2nH), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Towro Industria](https://open.spotify.com/album/1QV1q7sKhU756R4S4maDMu) | 2:34 | 2022-05-11 | 2022-05-13 |
 | [Towro Industria 2](https://open.spotify.com/track/0kE2Ke5hNq50j9MHwMqh8i) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [CrocoJonny](https://open.spotify.com/artist/7p8ahUHgDDCdDv552Kq2nH), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Towro Industria 2](https://open.spotify.com/album/4qKL8ayTp3YmbAQyXKiseN) | 3:29 | 2023-04-06 | 2023-04-21 |
-| [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 | 2022-09-29 |  |
+| [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 | 2022-09-29 | 2023-09-27 |
 | [TRAPHOUSE \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/6WuGf5uKp3zOEv70OuErP7) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [VIRUS](https://open.spotify.com/album/1sLrrbc4ZAivtSdEApAi3q) | 2:32 | 2023-04-27 | 2023-05-19 |
 | [Trendsetter](https://open.spotify.com/track/2SektBPshBcB4rLKQUxDQY) | [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY) | [Trendsetter](https://open.spotify.com/album/7BnUlh1mAu8h3t9tSvuFJz) | 2:02 | 2023-04-20 | 2023-05-05 |
 | [TUTA FAKE \(feat\. Don Pero\)](https://open.spotify.com/track/5PT8q7q0VFRA0YL1AbVaiP) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [TUTA FAKE \(feat\. Don Pero\)](https://open.spotify.com/album/6QalFNzRnlYZ6KEYLLIKUZ) | 2:40 | 2023-07-13 | 2023-09-08 |

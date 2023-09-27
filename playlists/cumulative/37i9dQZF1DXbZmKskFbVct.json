@@ -276,6 +276,24 @@
     {
       "album": {
         "name": "Checking Up On You (Scratch, Tapping, Ramble)",
+        "url": "https://open.spotify.com/album/1Do1eNmYnpBrXSbjXCI57Z"
+      },
+      "artists": [
+        {
+          "name": "ASMR Leedah",
+          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321000,
+      "name": "Do You Have Plans?",
+      "url": "https://open.spotify.com/track/1qlGwXQZKiyXOw67dElhoP"
+    },
+    {
+      "album": {
+        "name": "Checking Up On You (Scratch, Tapping, Ramble)",
         "url": "https://open.spotify.com/album/6jBVHUHGixqktpxgeX9YBy"
       },
       "artists": [
@@ -376,7 +394,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 316000,
       "name": "Fluffy Mic & Slow Whispering Around Your Head, Pt. 2",
       "url": "https://open.spotify.com/track/4EAP4yIQlIwowyqTKKBLXv"

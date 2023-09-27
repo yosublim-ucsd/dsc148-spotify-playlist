@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZTdvWvQHAL.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,935 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,939 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZTdvWvQHAL.md) - [plain]
 | 19 | [Babbling Brook](https://open.spotify.com/track/4ec3VGnJUyMfX5GEFCBipt) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 |
 | 20 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 |
 | 21 | [Soothing Waves of Santa Barbara](https://open.spotify.com/track/2YXhl6Y5gFdMYUKS3WWUtg) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Soothing Waves of Santa Barbara](https://open.spotify.com/album/4PVLbEJbfULsHFINoXQ5Af) | 5:42 |
-| 22 | [Campfire Rain](https://open.spotify.com/track/6R6P2svDNwlc8bE0keLWaV) | [Forest FX](https://open.spotify.com/artist/0vNfZW2aLWeldSO6KgGJwn) | [Sleep \(Rain Sounds Compilation\)](https://open.spotify.com/album/4YmNhD0y0D0jMa926HRizV) | 2:29 |
-| 23 | [Light Forest Rain 2](https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
-| 24 | [Under Shelter Rain](https://open.spotify.com/track/18aGDOpPblt4w29uE9NMbd) | [Rain Sound Studio](https://open.spotify.com/artist/3Qs1EAnyqWLaNqk0wHS63M) | [Rain Sounds For Sleeping](https://open.spotify.com/album/7LkoFPniOrFcSDbvYzCK9x) | 2:54 |
+| 22 | [Light Forest Rain 2](https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
+| 23 | [Under Shelter Rain](https://open.spotify.com/track/18aGDOpPblt4w29uE9NMbd) | [Rain Sound Studio](https://open.spotify.com/artist/3Qs1EAnyqWLaNqk0wHS63M) | [Rain Sounds For Sleeping](https://open.spotify.com/album/7LkoFPniOrFcSDbvYzCK9x) | 2:54 |
+| 24 | [Campfire Rain](https://open.spotify.com/track/6R6P2svDNwlc8bE0keLWaV) | [Forest FX](https://open.spotify.com/artist/0vNfZW2aLWeldSO6KgGJwn) | [Sleep \(Rain Sounds Compilation\)](https://open.spotify.com/album/4YmNhD0y0D0jMa926HRizV) | 2:29 |
 | 25 | [Thunderstorm By The Waterfall](https://open.spotify.com/track/5dqINJU28icQujnJU37BJS) | [Thunderstorm Sound Bank](https://open.spotify.com/artist/6xQDyC92UEZQCySBNTdkyx) | [Thunder & Rain Relaxation](https://open.spotify.com/album/5Y6fIPchbFHAtc3BaBC9am) | 2:13 |
 | 26 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 |
 | 27 | [Cave Escape \- Rain](https://open.spotify.com/track/6tvrRjz2Z8RblCDfahdB8p) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Skyfall Oasis \(Rain\)](https://open.spotify.com/album/2Rf8vEVuzcRHAMk6tPEUZC) | 2:12 |

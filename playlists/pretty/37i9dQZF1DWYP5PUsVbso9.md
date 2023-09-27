@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,255 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,387 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 90 | [When You're Hot, You're Hot](https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:19 |
 | 91 | [Love In The Hot Afternoon](https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Love In The Hot Afternoon](https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77) | 3:19 |
 | 92 | [Why Have You Left The One You Left Me For](https://open.spotify.com/track/4u2Fcnbsf2KtH7gE86vxM0) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:56 |
-| 93 | [Heaven's Just A Sin Away](https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk) | [The Kendalls](https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN) | [The Kendalls \- 42 Massive Hits](https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz) | 2:25 |
-| 94 | [You've Never Been This Far Before](https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [25 Number Ones](https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh) | 3:01 |
+| 93 | [You've Never Been This Far Before](https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [25 Number Ones](https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh) | 3:01 |
+| 94 | [Heaven's Just A Sin Away](https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk) | [The Kendalls](https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN) | [The Kendalls \- 42 Massive Hits](https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz) | 2:25 |
 | 95 | [Her Name Is...](https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Anniversary \(Ten Years Of Hits\)](https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb) | 2:18 |
 | 96 | ['Til I Get It Right](https://open.spotify.com/track/64s3ywG24Rkgum7qIIA6wO) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 2:37 |
 | 97 | [Some Broken Hearts Never Mend \- Single Version](https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:48 |

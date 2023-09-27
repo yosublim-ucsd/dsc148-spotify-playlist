@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with soft, calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,277 likes - 250 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,325 likes - 250 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

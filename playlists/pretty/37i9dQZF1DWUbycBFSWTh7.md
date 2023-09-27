@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > Deephouse in the mix for your delight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,248 likes - 100 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,273 likes - 100 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

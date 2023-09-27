@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse liedjes! Cover: Suzan & Freek
 
-345 songs - 16 hr 39 min
+346 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,8 @@
 | [Zij Heeft Alles](https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Zij Heeft Alles](https://open.spotify.com/album/69jSlMa042sypmsAS7rORE) | 3:03 | 2023-03-16 | 2023-07-11 |
 | [ZO BEN JIJ](https://open.spotify.com/track/4DzdniulQXcwnnjUabxHLb) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [ZO BEN JIJ](https://open.spotify.com/album/4LY7izKbtV5aoHaQfDbmtn) | 2:02 | 2023-09-21 |  |
 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/2p8EJUT61FPH3cax0UdSnK) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1OuwGZMLpotXelAT54hv4C) | 3:07 | 2023-09-04 | 2023-09-21 |
-| [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/7nyjc67qu7HJm24mjSspcb) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/6SY21zr7uf71GLBZxXsITj) | 3:07 | 2023-09-14 |  |
+| [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/7lV6AmnEDfNwCMKLf9Tbmk) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/63zOiWwbAQgq0Ygfba01R4) | 3:07 | 2023-09-21 |  |
+| [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/7nyjc67qu7HJm24mjSspcb) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/6SY21zr7uf71GLBZxXsITj) | 3:07 | 2023-09-14 | 2023-09-27 |
 | [Zoals Jij](https://open.spotify.com/track/3NjCVq7Mi6RsrG2yzY74Hl) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Zoals Jij](https://open.spotify.com/album/5a85ABmKZ9AcTG05umi7FL) | 2:32 | 2023-08-31 | 2023-09-22 |
 | [Zolang Dit Liedje Duurt](https://open.spotify.com/track/4yzvrn5hlJBTbLvOrjGSvv) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Zolang Dit Liedje Duurt](https://open.spotify.com/album/06dgQlNUalqNxkOC2t73bl) | 2:43 | 2023-05-04 | 2023-08-25 |
 | [Zolang Het Nog Kan](https://open.spotify.com/track/2kEEscbP2aJrhpzjXCDafF) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Zolang Het Nog Kan](https://open.spotify.com/album/2lgD74bxM5UBblLbOdmbRE) | 3:12 | 2023-07-07 | 2023-09-22 |

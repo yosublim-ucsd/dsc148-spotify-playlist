@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2460,6 +2460,24 @@
       "duration_ms": 226973,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe"
+    },
+    {
+      "album": {
+        "name": "Mirage world",
+        "url": "https://open.spotify.com/album/7skzSHbTUnytSdI5Gy1U1G"
+      },
+      "artists": [
+        {
+          "name": "WashingtonFx",
+          "url": "https://open.spotify.com/artist/0DxsQ3ONaqRXqNOfHpYQw1"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167311,
+      "name": "Bad Energy",
+      "url": "https://open.spotify.com/track/3l6KL0Kjiuy8vd7VoCR2Hg"
     },
     {
       "album": {
@@ -3610,7 +3628,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
@@ -5587,6 +5605,24 @@
     },
     {
       "album": {
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/1b9typsY4p5JAKJjctxnwD"
+      },
+      "artists": [
+        {
+          "name": "3plebeatz",
+          "url": "https://open.spotify.com/artist/2f3upDsUFfkg93rHI7wrTD"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170840,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/1eJwqYE1r7i5ds0vylhc75"
+    },
+    {
+      "album": {
         "name": "Boys Do Cry",
         "url": "https://open.spotify.com/album/1lIjKOmyguCKZFuPyDZp6h"
       },
@@ -5930,7 +5966,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -8210,7 +8246,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 273473,
       "name": "El Final - Remix",
       "url": "https://open.spotify.com/track/2JBdEfaJGjKAkkGGZn1Iad"
@@ -9396,10 +9432,28 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
     },
     {
       "album": {
@@ -9432,7 +9486,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 286477,
       "name": "Fly High",
       "url": "https://open.spotify.com/track/6BVB7RupdCbWrLYXJ8eggY"
@@ -9530,7 +9584,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 171757,
       "name": "For You",
       "url": "https://open.spotify.com/track/0ycXEADE6ra6nW7cJgX5Qm"
@@ -9664,6 +9718,24 @@
       "duration_ms": 200976,
       "name": "Freestyle LVL UP 3",
       "url": "https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd"
+    },
+    {
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/70aj1LzgLHNYvH4keCpyF9"
+      },
+      "artists": [
+        {
+          "name": "26.10.ap",
+          "url": "https://open.spotify.com/artist/7ufW7kO9oqI0qxhBX9ssKw"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/0fSUtec1GsMjMhx8Mrwvkj"
     },
     {
       "album": {
@@ -10811,6 +10883,24 @@
     },
     {
       "album": {
+        "name": "Hands On Me (Radio Edit)",
+        "url": "https://open.spotify.com/album/4NAL2NsdszDoeQh9MBvkpH"
+      },
+      "artists": [
+        {
+          "name": "Tbii",
+          "url": "https://open.spotify.com/artist/3P5YzVqH2KhBvovS4Dik3z"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211617,
+      "name": "Hands On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/6AtuXNuT1Tnf2Nl7n328XB"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -11120,6 +11210,24 @@
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+    },
+    {
+      "album": {
+        "name": "Hey ! :} (Death March)",
+        "url": "https://open.spotify.com/album/58BD4Ud05xULZ3awLNyiB2"
+      },
+      "artists": [
+        {
+          "name": "@6urn6i6les",
+          "url": "https://open.spotify.com/artist/48ODZmmmmuH76hQYfJoJf9"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120032,
+      "name": "Hey ! :} (Death March)",
+      "url": "https://open.spotify.com/track/5bqPrkSQqB8Gg4YsiWv1Ql"
     },
     {
       "album": {
@@ -11902,7 +12010,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -12090,7 +12198,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -14690,7 +14798,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -14708,7 +14816,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-27",
+      "date_removed": null,
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
@@ -16458,7 +16566,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 152546,
       "name": "Meuda",
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
@@ -17502,7 +17610,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 156841,
       "name": "My Flex",
       "url": "https://open.spotify.com/track/67AgOrAogVDA4tvtWnSGcR"
@@ -18823,6 +18931,24 @@
     },
     {
       "album": {
+        "name": "Osawese (Thank God)",
+        "url": "https://open.spotify.com/album/3JWLHBj6Si76UmazS80udU"
+      },
+      "artists": [
+        {
+          "name": "WashingtonFx",
+          "url": "https://open.spotify.com/artist/0DxsQ3ONaqRXqNOfHpYQw1"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178533,
+      "name": "Osawese (Thank God)",
+      "url": "https://open.spotify.com/track/19D8fTyA4a7HYqkXJGC9mG"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -19778,7 +19904,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -21827,6 +21953,28 @@
     },
     {
       "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/3OnvgR2ilDXCjjtGAXJQ0E"
+      },
+      "artists": [
+        {
+          "name": "Cri$t187",
+          "url": "https://open.spotify.com/artist/2gIFJxMWrV4S27l0WGul8y"
+        },
+        {
+          "name": "B Karma",
+          "url": "https://open.spotify.com/artist/0ynWhY0uvz6PlM7kmtuKLQ"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204027,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/7phVbzMsvDlA2L5qIU4HOo"
+    },
+    {
+      "album": {
         "name": "SCHMETTERLING",
         "url": "https://open.spotify.com/album/5g5MrW0VTQxK0wa7Tnn1al"
       },
@@ -22574,7 +22722,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 138433,
       "name": "SKY HIGH",
       "url": "https://open.spotify.com/track/7mIk7a72hvVv7DYTywl9Jg"
@@ -23782,7 +23930,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
@@ -25214,6 +25362,28 @@
       "duration_ms": 161253,
       "name": "Tiene Que Movelo",
       "url": "https://open.spotify.com/track/0DTQC17qYPwRSugHicNMst"
+    },
+    {
+      "album": {
+        "name": "Tik Tok Girlfriend",
+        "url": "https://open.spotify.com/album/1jovMv6rQ4j1NcJoeLsmb3"
+      },
+      "artists": [
+        {
+          "name": "Dillio",
+          "url": "https://open.spotify.com/artist/4utekdPrVgO34qnV7qmYSB"
+        },
+        {
+          "name": "Mackthaknife",
+          "url": "https://open.spotify.com/artist/5ld0C70Fr7OeinEqTjEtkr"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269207,
+      "name": "Tik Tok Girlfriend",
+      "url": "https://open.spotify.com/track/0ZqGAaBZdTtco82AH4N62X"
     },
     {
       "album": {

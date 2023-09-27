@@ -2,7 +2,7 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: TOTALFAT
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: WANIMA
 
 624 songs - 1 day 9 hr 45 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 108843,
+  "num_followers": 108865,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Honey, No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "Lo jodiste",
         "url": "https://open.spotify.com/album/2A5vxG20vPoqRvvp2gLvrz"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 271306,
       "name": "Lo jodiste",
       "url": "https://open.spotify.com/track/1Sedbo7kqP6PXnN5iKg183"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 202446,
+      "name": "Con La Miel En Los Labios",
+      "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 202446,
-      "name": "Con La Miel En Los Labios",
-      "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
+      "duration_ms": 207333,
+      "name": "Honey, No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
+        "name": "Devu\u00e9lvemelo",
+        "url": "https://open.spotify.com/album/1VTDSrRRsre4j3FeApaK8f"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "duration_ms": 242546,
+      "name": "Devu\u00e9lvemelo",
+      "url": "https://open.spotify.com/track/5KwzWrI7rj4O6Dj701hzpM"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
         "name": "Subcampe\u00f3n",
         "url": "https://open.spotify.com/album/0n25eeakMD41p1JUUlUinE"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 230080,
       "name": "De M\u00ed",
       "url": "https://open.spotify.com/track/4Si4I7aAPl7liGtTWlIYKN"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
-        "name": "Devu\u00e9lvemelo",
-        "url": "https://open.spotify.com/album/1VTDSrRRsre4j3FeApaK8f"
-      },
-      "artists": [
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
-        }
-      ],
-      "duration_ms": 242546,
-      "name": "Devu\u00e9lvemelo",
-      "url": "https://open.spotify.com/track/5KwzWrI7rj4O6Dj701hzpM"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "NASA",
-        "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
-      },
-      "artists": [
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
-        }
-      ],
-      "duration_ms": 220075,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "Tal Vez",
         "url": "https://open.spotify.com/album/3kE68K2LF8KdxJr2B2IoDw"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 172693,
       "name": "El Fuego En El Cielo (MASTER 1)",
       "url": "https://open.spotify.com/track/3hJgUV0AiZkjalnfq8geGo"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "duration_ms": 220075,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Nada de Nada",
-        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Nada de Nada",
-      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "La Pared",
         "url": "https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 289762,
       "name": "La Pared",
       "url": "https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "Nada de Nada",
+        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
+        "name": "Mundo De Dos",
+        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 197793,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/64evbvaNb4twXgBPV42jlG"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
         "name": "Venecia (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3EBFHB0poFL63o1DrIMSkl"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Mundo De Dos",
-        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
       },
       "artists": [
         {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
         }
       ],
-      "duration_ms": 197793,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/64evbvaNb4twXgBPV42jlG"
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1463,22 +1479,6 @@
       "duration_ms": 141882,
       "name": "No Estoy",
       "url": "https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Amor Insustancial",
-        "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
       },
       "artists": [
         {
-          "name": "Jordano",
-          "url": "https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW"
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
         }
       ],
-      "duration_ms": 205450,
-      "name": "Se que te iras",
-      "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+        "name": "Amor Insustancial",
+        "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "Jordano",
+          "url": "https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW"
         }
       ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+      "duration_ms": 205450,
+      "name": "Se que te iras",
+      "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1659,22 +1659,22 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Bailando Lentos",
-        "url": "https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W"
+        "name": "Directo en mi habitacion <3 (En directo)",
+        "url": "https://open.spotify.com/album/5AijlOnw4oJZ79S24j0acY"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
         },
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Juan Azul",
+          "url": "https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw"
         }
       ],
-      "duration_ms": 207413,
-      "name": "Bailando Lentos",
-      "url": "https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE"
+      "duration_ms": 346000,
+      "name": "Corazon partio (feat. Juan Azul) - En directo",
+      "url": "https://open.spotify.com/track/3rba2fObaZaOsBTAq74Qi6"
     }
   ],
   "unique_name": "gris",

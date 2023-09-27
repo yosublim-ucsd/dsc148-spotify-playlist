@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Celebrating 10 Years Strong this summer, <a href="spotify:user:31fovtijggn2vbq7cpwd2bjhpfqm">ANTS</a> champions the forefront of house and techno, delivering spectacular immersive productions and creating a global colony of passionate music lovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,859 likes - 56 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,856 likes - 56 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

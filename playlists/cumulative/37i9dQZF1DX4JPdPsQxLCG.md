@@ -4,7 +4,7 @@
 
 > Classic tunes for the open road.
 
-340 songs - 22 hr 22 min
+341 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(Expanded Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 2:40 | 2022-09-10 | 2022-09-15 |
 | [Hayloft](https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 3:01 | 2023-07-14 |  |
 | [Heart of Gold \- 2009 Remaster](https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 3:07 | 2022-05-02 | 2022-07-24 |
-| [Heaven Coming Down](https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB) | [The Tea Party](https://open.spotify.com/artist/6O5Xi2xT3bICu1ZLXqLYRE) | [TRIPtych](https://open.spotify.com/album/1q1DoRb0McqviO1JCwJ7mQ) | 4:01 | 2022-05-02 |  |
+| [Heaven Coming Down](https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB) | [The Tea Party](https://open.spotify.com/artist/6O5Xi2xT3bICu1ZLXqLYRE) | [TRIPtych](https://open.spotify.com/album/1q1DoRb0McqviO1JCwJ7mQ) | 4:01 | 2022-05-02 | 2023-09-27 |
 | [Hello Time Bomb](https://open.spotify.com/track/60VbLbx7B1ST4zYJBatjne) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/5ISNKUHRn9zX5vM7Z6Khka) | 3:58 | 2022-05-02 | 2022-11-13 |
 | [Hello, I'm In Delaware](https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes](https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn) | 5:45 | 2022-05-02 | 2023-05-19 |
 | [High Road Easy](https://open.spotify.com/track/42KjSGC2rITrf3aPGPvdmm) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Rats](https://open.spotify.com/album/6fRQotr4bCJNFScYyIHkCP) | 4:01 | 2022-05-02 | 2022-07-25 |
@@ -236,6 +236,7 @@
 | [Rockin' in the Free World](https://open.spotify.com/track/6jDAPpcJ6YYPLC7XYH1Mnx) | [Leopanforte](https://open.spotify.com/artist/72ptKrXdQG9VlKwtwzwpi7) | [Rockin' in the Free World](https://open.spotify.com/album/6j2vkYgWppe1vGfAuiHniI) | 4:41 | 2022-09-13 | 2023-03-02 |
 | [Rockin' in the Free World](https://open.spotify.com/track/4Y7fEQ4PAzhlLnLviRw2P4) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Freedom](https://open.spotify.com/album/3uOOKcr91I3Br0Rtmu4zdT) | 4:41 | 2022-05-02 | 2022-07-29 |
 | [Rockstar](https://open.spotify.com/track/6n9yCXvLhnYMgJIiIcMu7D) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons \(Special Edition\)](https://open.spotify.com/album/69ny9Y7VrjVP7JNK0xhYke) | 4:12 | 2023-05-18 | 2023-09-25 |
+| [Rockstar \- 2020 Remaster](https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All The Right Reasons \(15th Anniversary Expanded Edition\)](https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm) | 4:15 | 2023-09-22 |  |
 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 | 2022-05-02 |  |
 | [S.O.S\. \(Sawed Off Shotgun\)](https://open.spotify.com/track/3NyovXfcpc8PDWWKH7xEDs) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Young Beauties and Fools](https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE) | 3:15 | 2023-05-18 | 2023-08-05 |
 | [Seasons in the Sun](https://open.spotify.com/track/6AhUX0ObPgTnS5GGFrRidN) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:25 | 2022-09-13 | 2022-11-13 |

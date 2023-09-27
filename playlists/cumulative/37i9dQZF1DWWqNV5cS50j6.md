@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: underscores
 
-1,517 songs - 3 day 1 hr 5 min
+1,518 songs - 3 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,7 +574,7 @@
 | [Headset Go](https://open.spotify.com/track/5VS54lu9H0o7Wj5TBP3qNu) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Headset Go](https://open.spotify.com/album/0Dyt1CtkImtFkWOwKZLRhQ) | 3:16 | 2021-09-22 | 2022-03-01 |
 | [HEADY](https://open.spotify.com/track/7aNW0M1R6eUnoXKpN2HncV) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [heady](https://open.spotify.com/album/2v9Eny0s7E50ugTiFlCuUF) | 3:31 | 2020-10-13\* | 2021-01-23 |
 | [hearing faces](https://open.spotify.com/track/3aIOgiGUBjEBiVAoaRbEgx) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [THE RED BUTTON WAS TALKING AGAIN](https://open.spotify.com/album/7zieU55cGtAinDTr3OkPGw) | 3:25 | 2023-09-08 |  |
-| [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 | 2023-09-01 |  |
+| [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [Midwxst](https://open.spotify.com/artist/3LqnZmfaZKVQPm8Ruj37wb) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 | 2023-09-01 |  |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2020-10-13\* | 2021-05-29 |
 | [heaven](https://open.spotify.com/track/3gIk5AdaPLq5b5tey5tJkO) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [heaven](https://open.spotify.com/album/4eo9Noh6eN6ikAJ1bSTA8u) | 2:00 | 2023-06-06 | 2023-09-09 |
 | [heaven](https://open.spotify.com/track/5gEoep9RwLEy8hFJMne9ad) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [heaven](https://open.spotify.com/album/6P3AsR6fFqtaR4uDv7pfbC) | 2:00 | 2023-06-06 | 2023-07-12 |
@@ -742,7 +742,8 @@
 | [lazy \(haste\)](https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [lazy](https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4) | 2:05 | 2023-01-27 | 2023-07-22 |
 | [Lazy Summer Day](https://open.spotify.com/track/6ND3HuPxTJzFcRpyAAvhpL) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lazy Summer Day / Chinese Restaurant](https://open.spotify.com/album/31Llb7Ur6VlRgCHsZBaGaQ) | 2:21 | 2022-09-02 | 2022-10-01 |
 | [Leave It Unlocked](https://open.spotify.com/track/2AxRXlSfnn4XZZiT7auOES) | [Christian Blue](https://open.spotify.com/artist/1X1R5azJYxs6wdFzEOBoI3) | [Leave It Unlocked](https://open.spotify.com/album/1Ew1VP6CSoSJ1votNiT1ey) | 2:10 | 2020-10-13\* | 2021-03-26 |
-| [Leave With Me](https://open.spotify.com/track/1qAY1Qa18jN50Pnn4CpVst) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Leave With Me](https://open.spotify.com/album/4xmzAJ3edr4asi2TSxS1od) | 3:16 | 2023-08-18 |  |
+| [Leave With Me](https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:16 | 2023-09-22 |  |
+| [Leave With Me](https://open.spotify.com/track/1qAY1Qa18jN50Pnn4CpVst) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Leave With Me](https://open.spotify.com/album/4xmzAJ3edr4asi2TSxS1od) | 3:16 | 2023-08-18 | 2023-09-27 |
 | [Leaving You](https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Leaving You](https://open.spotify.com/album/58sphqqoVOzCqMeWGEAv7O) | 1:53 | 2021-08-21 | 2023-03-02 |
 | [Leeway](https://open.spotify.com/track/35yCNucw3ozeVvlGxEc1KB) | [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [Leeway](https://open.spotify.com/album/5aS7Q4tjq7nth0gzkeiBAr) | 3:03 | 2020-10-13\* | 2020-11-03 |
 | [lemon sorbet](https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS) | [SASH](https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ) | [lemon sorbet](https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd) | 2:31 | 2022-11-11 | 2023-01-28 |

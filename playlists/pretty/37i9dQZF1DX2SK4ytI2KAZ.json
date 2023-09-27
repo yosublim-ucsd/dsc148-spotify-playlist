@@ -1,6 +1,6 @@
 {
   "description": "K. Flay celebrates her new album <a href=\"http://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM\">MONO</a> and highlights some of her favorite alternative tracks.",
-  "num_followers": 703989,
+  "num_followers": 703961,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Gawk",
         "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 155933,
       "name": "Alien Blues",
       "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "What, Me Worry?",
-        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 177397,
-      "name": "What, Me Worry?",
-      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "I've Got Some Living To Do",
         "url": "https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 186324,
       "name": "Stella Brown",
       "url": "https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "What, Me Worry?",
+        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 177397,
+      "name": "What, Me Worry?",
+      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
-      },
-      "artists": [
-        {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
-        }
-      ],
-      "duration_ms": 172921,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Kiss Ur Face Forever",
         "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 166556,
       "name": "Kiss Ur Face Forever",
       "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "duration_ms": 172921,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "What Could Be Better",
-        "url": "https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1"
-      },
-      "artists": [
-        {
-          "name": "The Happy Fits",
-          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
-        }
-      ],
-      "duration_ms": 223813,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "tryhard",
         "url": "https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 182840,
       "name": "Daphne Blue",
       "url": "https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "What Could Be Better",
+        "url": "https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1"
+      },
+      "artists": [
+        {
+          "name": "The Happy Fits",
+          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
+        }
+      ],
+      "duration_ms": 223813,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Live A Little",
-        "url": "https://open.spotify.com/album/6t3du226nIyJNEHTuYPBdK"
-      },
-      "artists": [
-        {
-          "name": "Chaz Cardigan",
-          "url": "https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "Live A Little",
-      "url": "https://open.spotify.com/track/4TMVC63HZDYaTGtlhbM95i"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "The Gutter",
         "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 174641,
       "name": "6 Pack and Cigarettes",
       "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Live A Little",
+        "url": "https://open.spotify.com/album/6t3du226nIyJNEHTuYPBdK"
+      },
+      "artists": [
+        {
+          "name": "Chaz Cardigan",
+          "url": "https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "Live A Little",
+      "url": "https://open.spotify.com/track/4TMVC63HZDYaTGtlhbM95i"
     }
   ],
   "unique_name": "it's alt good",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > 經得起時間考驗嘅歌曲，無論新版、舊歌一樣好聽！
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,792 likes - 37 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,790 likes - 37 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

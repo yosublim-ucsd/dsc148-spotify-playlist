@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,469 likes - 123 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,480 likes - 123 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 94 | [Dawn](https://open.spotify.com/track/5aKYTdjwCfr7mstCf631oB) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [\[Pieces of \_\]](https://open.spotify.com/album/1Q7d6j21ErInY0s4guwJUx) | 4:14 |
 | 95 | [lullaby](https://open.spotify.com/track/5svaQXGGlWWzuJW4eGAN9p) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [lullaby](https://open.spotify.com/album/3xrgoW81mLMRai347DLCW2) | 3:14 |
 | 96 | [Dear Me, from Angel](https://open.spotify.com/track/17yBAsK6pcxJuDACwWmkNE) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [\[Pieces of \_\]](https://open.spotify.com/album/1Q7d6j21ErInY0s4guwJUx) | 3:27 |
-| 97 | [Highlight](https://open.spotify.com/track/48JjpKbGmbCLFw8eYN64x6) | [Touched](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [GREAT SEOUL INVASION Section 2](https://open.spotify.com/album/4Rko8X39IJUjC0zr63ttXz) | 3:39 |
-| 98 | [Hi Bully](https://open.spotify.com/track/0gd4nhLObQ2fOEvQzBq9KF) | [Touched](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Purple](https://open.spotify.com/album/2vCvybjj710CSzDo3EdzHY) | 3:24 |
-| 99 | [The Dawn Star](https://open.spotify.com/track/0psWDl3FJLx1QARN9XHqdK) | [Touched](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [The Dawn Star](https://open.spotify.com/album/4sWMKUyokFPH0bYIUVvyBG) | 4:27 |
+| 97 | [Highlight](https://open.spotify.com/track/48JjpKbGmbCLFw8eYN64x6) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [GREAT SEOUL INVASION Section 2](https://open.spotify.com/album/4Rko8X39IJUjC0zr63ttXz) | 3:39 |
+| 98 | [Hi Bully](https://open.spotify.com/track/0gd4nhLObQ2fOEvQzBq9KF) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Purple](https://open.spotify.com/album/2vCvybjj710CSzDo3EdzHY) | 3:24 |
+| 99 | [The Dawn Star](https://open.spotify.com/track/0psWDl3FJLx1QARN9XHqdK) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [The Dawn Star](https://open.spotify.com/album/4sWMKUyokFPH0bYIUVvyBG) | 4:27 |
 | 100 | [Like A Movie](https://open.spotify.com/track/2ZSPHTpYqx2icUcbkr6Y5O) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [Like A Movie](https://open.spotify.com/album/2WvBKcO2WKwcVX97RWhQD4) | 3:16 |
 | 101 | [It is U](https://open.spotify.com/track/1vZB60Vn6CxFXaeixbPwni) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [OST \(Plz Luv Me Again\)](https://open.spotify.com/album/7bRCsUatH9bzjmpCR32yut) | 3:28 |
 | 102 | [SUN](https://open.spotify.com/track/32lY8lZDjJ90bvK30IuwNp) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [Like A Movie](https://open.spotify.com/album/2WvBKcO2WKwcVX97RWhQD4) | 3:16 |

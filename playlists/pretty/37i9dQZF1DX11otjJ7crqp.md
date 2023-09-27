@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Stephen Sanchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,168 likes - 106 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,196 likes - 106 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 67 | [Dead on Arrival](https://open.spotify.com/track/7HFtKNaYQ5ggZ07shL6hN0) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Dead on Arrival](https://open.spotify.com/album/2VMH4eIpxtG1SsCwBsQ4uQ) | 2:35 |
 | 68 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 69 | [Jenna](https://open.spotify.com/track/4OuS6CcTr3kofsSYpDyrTB) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC), [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Jenna](https://open.spotify.com/album/20FpfGh5Cftua64aroaT1k) | 3:11 |
-| 70 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 |
+| 70 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 |
 | 71 | [To The Bank](https://open.spotify.com/track/09Dw0K3RIvQR5bmrbQZIzr) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [To The Bank](https://open.spotify.com/album/21MKeEtRDAKYVLlTJW5NOb) | 2:42 |
 | 72 | [Desperate](https://open.spotify.com/track/5mzB0agonYZ1RDfsPdXt1K) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:36 |
 | 73 | [Heartbreak Souvenirs](https://open.spotify.com/track/1v7exhEYimYPHHV58YyYY6) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Heartbreak Souvenirs](https://open.spotify.com/album/2KQ3PWiOJWWlei0U5j9E0b) | 3:13 |

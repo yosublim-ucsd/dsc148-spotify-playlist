@@ -2689,6 +2689,32 @@
     },
     {
       "album": {
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/0hZQmqMGLG95A46E8YoQN3"
+      },
+      "artists": [
+        {
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        },
+        {
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+        },
+        {
+          "name": "Scott Rill",
+          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155267,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/6ZLSMHpVJf7ZzHttdmROoD"
+    },
+    {
+      "album": {
         "name": "LaLaLaLaLa (2023 Edit)",
         "url": "https://open.spotify.com/album/6WFIeGQ7534bMXAGeceWdr"
       },
@@ -4572,7 +4598,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 171028,
       "name": "She Wolf (Falling to Pieces)",
       "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"

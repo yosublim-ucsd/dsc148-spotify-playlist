@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mr Pig y Mario Bautista en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Dannylux en portada.",
   "name": "mint MX",
   "tracks": [
     {
@@ -64,6 +64,28 @@
       "duration_ms": 332560,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
+    },
+    {
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/2dpoGIT0FH5ceESag6H3bi"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/6hh3qOUupeGORRXwNJXmuL"
     },
     {
       "album": {

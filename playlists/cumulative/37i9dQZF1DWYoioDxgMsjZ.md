@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-78 songs - 4 hr 3 min
+79 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Daddy](https://open.spotify.com/track/5Yhi9POMWUPXlQj8MX6MC1) | [Sleepsleep](https://open.spotify.com/artist/4CFMk5S0u6xWTtoLoaEJ6O), [Tahlia Paris](https://open.spotify.com/artist/0VTbeDBlVbDZlboa6jxzT7) | [Daddy](https://open.spotify.com/album/4c4J91y3nnGddQbEE8IwWw) | 3:08 | 2022-08-31 |  |
 | [Daddy AF](https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Daddy AF](https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV) | 2:31 | 2022-08-31 |  |
 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 | 2022-08-31 |  |
-| [Deep Down Low](https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM) | 3:10 | 2022-08-31 |  |
+| [Deep Down Low](https://open.spotify.com/track/2UnjLIBORWFqHmYrmzttg8) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low \(Remixes\)](https://open.spotify.com/album/1aZVy48fiWgn4G6KL08C6r) | 3:04 | 2023-06-16 |  |
+| [Deep Down Low](https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM) | 3:10 | 2022-08-31 | 2023-09-27 |
 | [DIP N DRIP](https://open.spotify.com/track/2BH9ryNKlONkENIhgMM4lq) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [DIP N DRIP](https://open.spotify.com/album/1FaryKGpT1iu4YXsNMWwdE) | 2:52 | 2022-08-31 |  |
 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 | 2022-08-31 |  |
 | [ELASTIC](https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV) | [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj), [Prado Monroe](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq), [Slim Media Player](https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR) | [ELASTIC](https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO) | 3:39 | 2022-08-31 |  |

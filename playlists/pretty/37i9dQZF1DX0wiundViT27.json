@@ -1,6 +1,6 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 616274,
+  "num_followers": 616286,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Wonderful Wonderful",
-        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "Run For Cover",
-      "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 235613,
       "name": "Bored To Death",
       "url": "https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Wonderful Wonderful",
+        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "Run For Cover",
+      "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Crooked Teeth",
         "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 227847,
       "name": "Born For Greatness",
       "url": "https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": "2023-08-11 04:00:00",

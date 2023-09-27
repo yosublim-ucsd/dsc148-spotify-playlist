@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "no public sounds",
+        "url": "https://open.spotify.com/album/6aO96YUjirdU0mPzy7mCHd"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345952,
+      "name": "16:28",
+      "url": "https://open.spotify.com/track/6uqVlsFHg4Nkr1wRenev6O"
+    },
+    {
+      "album": {
         "name": "1989's",
         "url": "https://open.spotify.com/album/14984DgT52EAK32llFN3w6"
       },
@@ -850,6 +868,28 @@
       "duration_ms": 136866,
       "name": "ANGRY ANGRY",
       "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
+    },
+    {
+      "album": {
+        "name": "AROMATIC",
+        "url": "https://open.spotify.com/album/5OMqaGaCzjInevG0ji1kFU"
+      },
+      "artists": [
+        {
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+        },
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217436,
+      "name": "ANY DAY",
+      "url": "https://open.spotify.com/track/5SWEws8tWvOvql08LeJD2G"
     },
     {
       "album": {
@@ -9746,7 +9786,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 171923,
       "name": "Paris feat. YELLOW Huang Hsuan",
       "url": "https://open.spotify.com/track/6zBZytsj3jzGJa8SFlyfKZ"
@@ -12856,7 +12896,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 229911,
       "name": "Super funk market",
       "url": "https://open.spotify.com/track/3HnMGHU13H5oeNYjbKw8Eb"
@@ -13148,10 +13188,28 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 219252,
       "name": "Sweet Wine",
       "url": "https://open.spotify.com/track/04GsYibBOoPxJEBL92AniN"
+    },
+    {
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4XxZJsBbE0O0hUhNUvvKHt"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Synergy",
+      "url": "https://open.spotify.com/track/0qpw1DaobgqEb1w89zU37U"
     },
     {
       "album": {
@@ -14618,7 +14676,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 157924,
       "name": "Unmellow",
       "url": "https://open.spotify.com/track/0QBMxVVIXqVNp2Yce45nBQ"
@@ -15992,7 +16050,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 141000,
       "name": "\u3044\u3061\u3054\u30df\u30eb\u30af - ISLTR Remix",
       "url": "https://open.spotify.com/track/5xI8FJWUOduxstAJrBdGkI"
@@ -16482,6 +16540,28 @@
       "duration_ms": 215325,
       "name": "\u30ac\u30fc\u30eb\u30d5\u30ec\u30f3\u30c9\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30c7\u30c3\u30c9!",
       "url": "https://open.spotify.com/track/1oYLlpOQv3LrykfZDyizun"
+    },
+    {
+      "album": {
+        "name": "DEBUT",
+        "url": "https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ"
+      },
+      "artists": [
+        {
+          "name": "Kyrie",
+          "url": "https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu"
+        },
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318762,
+      "name": "\u30ad\u30ea\u30a8\u30fb\u6190\u308c\u307f\u306e\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq"
     },
     {
       "album": {
@@ -17652,6 +17732,24 @@
       "duration_ms": 268315,
       "name": "\u5149\u306e\u5ead\u3068\u9b5a\u306e\u5922",
       "url": "https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi"
+    },
+    {
+      "album": {
+        "name": "\u5149\u3092\u6d74\u3073\u3066",
+        "url": "https://open.spotify.com/album/2gmerqerD6iqVX4RgzDWGt"
+      },
+      "artists": [
+        {
+          "name": "\u78a7\u6d77\u7950\u4eba",
+          "url": "https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "\u5149\u3092\u6d74\u3073\u3066",
+      "url": "https://open.spotify.com/track/6w8teS79FT2JV8XV4EgZDj"
     },
     {
       "album": {

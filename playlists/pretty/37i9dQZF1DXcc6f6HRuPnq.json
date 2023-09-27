@@ -1,6 +1,6 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 102282,
+  "num_followers": 102376,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
-        "name": "Woman Across The River",
-        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
+        "name": "Bad Spell (Acoustic)",
+        "url": "https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 270600,
-      "name": "Help Me Through The Day",
-      "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
+      "duration_ms": 194970,
+      "name": "Bad Spell - Acoustic",
+      "url": "https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0"
     },
     {
       "added_at": "2023-09-15 11:42:36",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
+        "name": "Woman Across The River",
+        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 270600,
+      "name": "Help Me Through The Day",
+      "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
+    },
+    {
+      "added_at": "2023-09-15 11:42:36",
+      "album": {
         "name": "Damn Right, I've Got The Blues",
         "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 418880,
       "name": "Rememberin' Stevie",
       "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
-    },
-    {
-      "added_at": "2023-09-15 11:42:36",
-      "album": {
-        "name": "Bad Spell (Acoustic)",
-        "url": "https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 194970,
-      "name": "Bad Spell - Acoustic",
-      "url": "https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0"
     },
     {
       "added_at": "2023-09-15 11:42:36",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
+        "name": "Then Play On (2013 Remaster; Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 275201,
+      "name": "Without You - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
+    },
+    {
+      "added_at": "2023-09-15 11:42:36",
+      "album": {
         "name": "Roll Away (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 349893,
       "name": "Gotta Leave",
       "url": "https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ"
-    },
-    {
-      "added_at": "2023-09-15 11:42:36",
-      "album": {
-        "name": "Then Play On (2013 Remaster; Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 275201,
-      "name": "Without You - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
     },
     {
       "added_at": "2023-09-15 11:42:36",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
-        "name": "Bad Mouthin'",
-        "url": "https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 223800,
-      "name": "Heartbreak Hotel",
-      "url": "https://open.spotify.com/track/04pD7a7jfQjpQDsP3VgYDy"
-    },
-    {
-      "added_at": "2023-09-15 11:42:36",
-      "album": {
         "name": "The Motown Years 1972-1976",
         "url": "https://open.spotify.com/album/5b1RrcADU8Ziwyz6ViTGpW"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 380493,
       "name": "Luther's Blues",
       "url": "https://open.spotify.com/track/0GvTuG8uhF45s8yT3aYPH4"
+    },
+    {
+      "added_at": "2023-09-15 11:42:36",
+      "album": {
+        "name": "Bad Mouthin'",
+        "url": "https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 223800,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/04pD7a7jfQjpQDsP3VgYDy"
     },
     {
       "added_at": "2023-09-15 11:42:36",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
-        "name": "Golden Selection (Remastered)",
-        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
-      },
-      "artists": [
-        {
-          "name": "Sunnyland Slim",
-          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Everytime I Get to Drinkin' - Remastered",
-      "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
-    },
-    {
-      "added_at": "2023-09-15 11:42:36",
-      "album": {
         "name": "Driftin' Blues (Live)",
         "url": "https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 252000,
       "name": "Driftin' Blues - Live",
       "url": "https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L"
+    },
+    {
+      "added_at": "2023-09-15 11:42:36",
+      "album": {
+        "name": "Golden Selection (Remastered)",
+        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
+      },
+      "artists": [
+        {
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Everytime I Get to Drinkin' - Remastered",
+      "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
     },
     {
       "added_at": "2023-09-15 11:42:36",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
-        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
-        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "That Evening Train - Remastered 2022",
-      "url": "https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl"
-    },
-    {
-      "added_at": "2023-09-15 11:42:36",
-      "album": {
         "name": "Old Bones, New Fire",
         "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 187524,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
+    },
+    {
+      "added_at": "2023-09-15 11:42:36",
+      "album": {
+        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "That Evening Train - Remastered 2022",
+      "url": "https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl"
     },
     {
       "added_at": "2023-09-15 11:42:36",

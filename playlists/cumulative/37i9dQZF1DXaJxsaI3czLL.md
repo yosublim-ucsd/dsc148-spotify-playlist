@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-307 songs - 21 hr 39 min
+308 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [family](https://open.spotify.com/track/5MSi0XXAwILX2Y38zLEdw4) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [scent of memory](https://open.spotify.com/album/4itk7c0pByLsMzpwsajyW3) | 5:23 | 2022-10-20 | 2022-12-07 |
 | [Fire \(feat\. Sam Gendel\)](https://open.spotify.com/track/1zTowLItLwjFXiqAso4Fuw) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [State of Mind](https://open.spotify.com/album/5IlACT0Uw2qjYTgHrK37b0) | 5:44 | 2022-11-23 | 2022-12-14 |
 | [Fove](https://open.spotify.com/track/3UiVQ5BWMNSF7erQgxHXPY) | [naomi paris tokyo](https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8) | [22FW](https://open.spotify.com/album/1kSHbuF1QdslgIjYYOHnx8) | 4:05 | 2023-06-20 | 2023-07-19 |
+| [Fragments](https://open.spotify.com/track/63m3h54z2rge3HTbjGe3Bb) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Fragments](https://open.spotify.com/album/6KeXmbO5ZaW0SWoUW3TgX7) | 3:51 | 2023-09-26 |  |
 | [Furui Chizu \(Old Map\)](https://open.spotify.com/track/0cNzX9fSafdJQQuxNeUOFM) | [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI), [Kazuma Fujimoto](https://open.spotify.com/artist/20qDjhYBrYKWNCKmGgJIFH) | [Yoru no Niwa \(Night Garden\)](https://open.spotify.com/album/596yPS71AnU4gBjgzK4eKR) | 3:42 | 2022-11-10 | 2022-12-14 |
 | [Gekijyou](https://open.spotify.com/track/6JgoiW5cZae1GUEktXaJLq) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 5:58 | 2023-08-15 | 2023-09-06 |
 | [Gloria](https://open.spotify.com/track/1LfLRWF1I3ydJpNgwGP88u) | [Wuinguin](https://open.spotify.com/artist/00N3aCj3lIPQW8hcPNFjRO) | [Gloria](https://open.spotify.com/album/4c7yPOvymJDhwEpwiQ1yOq) | 3:07 | 2023-03-14 | 2023-03-29 |
@@ -276,7 +277,7 @@
 | [此方へ](https://open.spotify.com/track/1B3NvWfqicpcSfN1973izy) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [きおくのすみか](https://open.spotify.com/album/4Z4th95ji6NrTFwdImP1xv) | 3:19 | 2023-07-18 | 2023-08-12 |
 | [気分のせいさ](https://open.spotify.com/track/4IrpbZVOnMUAK7JGpnYfJH) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [気分のせいさ](https://open.spotify.com/album/67YmrIEOI0VFdV0wfKl99d) | 4:38 | 2023-08-17 | 2023-09-20 |
 | [沈む春](https://open.spotify.com/track/3yfNB07uA5h5pvDp54T8Xm) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [沈む春](https://open.spotify.com/album/6WeLC2BPHsW74aLlN3nixv) | 3:50 | 2023-03-12 | 2023-03-15 |
-| [波間にて](https://open.spotify.com/track/7LnJsDQaaJW3ATtIjsDHdk) | [影山朋子](https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp) | [波間にて](https://open.spotify.com/album/0O5iAHM0Bbrg5fuui6DEv7) | 3:36 | 2023-08-30 |  |
+| [波間にて](https://open.spotify.com/track/7LnJsDQaaJW3ATtIjsDHdk) | [影山朋子](https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp) | [波間にて](https://open.spotify.com/album/0O5iAHM0Bbrg5fuui6DEv7) | 3:36 | 2023-08-30 | 2023-09-27 |
 | [海にいる](https://open.spotify.com/track/7oDgdiATvjIjqVS6ak2fJz) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [海にいる](https://open.spotify.com/album/3GErNAcHZcwXC6r1fdSSKH) | 3:53 | 2023-07-25 | 2023-08-11 |
 | [涙は星屑のように](https://open.spotify.com/track/2nYHBQmM8Wp3d6UB4Bbe5l) | [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [星屑たち](https://open.spotify.com/album/5dGmv1ySk8MBfoYIBHciMH) | 5:33 | 2023-08-15 | 2023-09-26 |
 | [深呼吸](https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [SHINJITERU](https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU) | 3:33 | 2022-10-20 |  |

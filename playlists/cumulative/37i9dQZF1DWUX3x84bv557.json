@@ -6354,6 +6354,24 @@
     {
       "album": {
         "name": "Beste Zangers 2023 (MEAU)",
+        "url": "https://open.spotify.com/album/63zOiWwbAQgq0Ygfba01R4"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187263,
+      "name": "Zoals Ik Jou Gevonden Heb",
+      "url": "https://open.spotify.com/track/7lV6AmnEDfNwCMKLf9Tbmk"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2023 (MEAU)",
         "url": "https://open.spotify.com/album/6SY21zr7uf71GLBZxXsITj"
       },
       "artists": [
@@ -6364,7 +6382,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 187263,
       "name": "Zoals Ik Jou Gevonden Heb",
       "url": "https://open.spotify.com/track/7nyjc67qu7HJm24mjSspcb"

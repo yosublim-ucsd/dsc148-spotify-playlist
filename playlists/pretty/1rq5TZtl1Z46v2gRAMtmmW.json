@@ -1,13 +1,33 @@
 {
   "description": "",
-  "num_followers": 28447,
+  "num_followers": 28449,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzQ4NSwyNDY0ZTdhODA4ZWRhYmFjMDE1MWUyMzcwYzI3NjlmMzJhZmM4YTNh",
+  "snapshot_id": "MzQ5MSwzZDFmMzVmYWQ0ZTQwZDc4ZjM4NWU1MDFhN2Q2NGY1OTI2M2M1NGUz",
   "tracks": [
+    {
+      "added_at": "2023-09-26 19:24:10",
+      "album": {
+        "name": "VIOLET",
+        "url": "https://open.spotify.com/album/1PXmYCuozfCvpV3ssSgsgA"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "duration_ms": 146621,
+      "name": "VIOLET",
+      "url": "https://open.spotify.com/track/7bj2V0jUq2wbuOwxlajhIu"
+    },
     {
       "added_at": "2023-09-22 17:16:54",
       "album": {
@@ -67,6 +87,30 @@
       "duration_ms": 235265,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn"
+    },
+    {
+      "added_at": "2023-09-26 19:24:31",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/6eVyeXNcxcfv0eE5fZmteF"
+      },
+      "artists": [
+        {
+          "name": "H31R",
+          "url": "https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr"
+        },
+        {
+          "name": "JWords",
+          "url": "https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT"
+        },
+        {
+          "name": "maassai",
+          "url": "https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/5lheFJ9dG8CvAUmDobTTYP"
     },
     {
       "added_at": "2023-09-15 16:21:26",
@@ -165,30 +209,6 @@
       "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
-      "added_at": "2023-09-05 19:38:06",
-      "album": {
-        "name": "Backwards",
-        "url": "https://open.spotify.com/album/2jPweadDjOnzChjjcuselh"
-      },
-      "artists": [
-        {
-          "name": "H31R",
-          "url": "https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr"
-        },
-        {
-          "name": "JWords",
-          "url": "https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT"
-        },
-        {
-          "name": "maassai",
-          "url": "https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV"
-        }
-      ],
-      "duration_ms": 128562,
-      "name": "Backwards",
-      "url": "https://open.spotify.com/track/3AalwwmizoPXoLJOoAqnJe"
-    },
-    {
       "added_at": "2023-08-31 11:05:30",
       "album": {
         "name": "DJ Friendly",
@@ -203,22 +223,6 @@
       "duration_ms": 280328,
       "name": "DJ Friendly",
       "url": "https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7"
-    },
-    {
-      "added_at": "2023-08-17 19:48:41",
-      "album": {
-        "name": "Butterfly Effect (Remixes)",
-        "url": "https://open.spotify.com/album/1GEUwENl79CEkDtJjGQd2H"
-      },
-      "artists": [
-        {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Butterfly Effect - DJ Ron Dixon's Clubstep Remix",
-      "url": "https://open.spotify.com/track/4T4vBTxrbXdfJxOjHclV1Q"
     },
     {
       "added_at": "2023-07-28 15:51:50",

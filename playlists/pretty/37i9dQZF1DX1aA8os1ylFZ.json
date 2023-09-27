@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 236936,
+  "num_followers": 237020,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Don't Give It Away",
-        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 206143,
-      "name": "Don't Give It Away (with Chris Brown)",
-      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Sincerely For You",
         "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 190186,
       "name": "When You Bad Like That (feat. Future)",
       "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Don't Give It Away",
+        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 206143,
+      "name": "Don't Give It Away (with Chris Brown)",
+      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 161410,
       "name": "Split",
       "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "who's loving you?",
-        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 238178,
-      "name": "MUSE FREESTYLE",
-      "url": "https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Mood Swings",
         "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 193789,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "who's loving you?",
+        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 238178,
+      "name": "MUSE FREESTYLE",
+      "url": "https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 173968,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 187428,
       "name": "Bittersweet Goodbyes",
       "url": "https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 173968,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Face Down",
+        "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        }
+      ],
+      "duration_ms": 168755,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Life Is Better Now",
         "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 151569,
       "name": "Save Me, Pt. 2",
       "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Face Down",
-        "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        }
-      ],
-      "duration_ms": 168755,
-      "name": "Face Down",
-      "url": "https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 156213,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Hyde Out",
         "url": "https://open.spotify.com/album/3ChAAathOrBgPaXDJJk5Wy"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 228075,
       "name": "Where Ya From",
       "url": "https://open.spotify.com/track/74kvijB0vU5BK44QnNb4Gt"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 156213,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "feelings 4 u",
-        "url": "https://open.spotify.com/album/18Q7p6s4Va4TVe7OqA5yoe"
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m"
       },
       "artists": [
         {
-          "name": "Colette Lush",
-          "url": "https://open.spotify.com/artist/6cPaKxbdmfSTmt1wKh4GcX"
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
         }
       ],
-      "duration_ms": 144352,
-      "name": "feelings 4 u",
-      "url": "https://open.spotify.com/track/0bJymL5VTkMpiaZWw5048W"
+      "duration_ms": 189063,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m"
+        "name": "feelings 4 u",
+        "url": "https://open.spotify.com/album/18Q7p6s4Va4TVe7OqA5yoe"
       },
       "artists": [
         {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+          "name": "Colette Lush",
+          "url": "https://open.spotify.com/artist/6cPaKxbdmfSTmt1wKh4GcX"
         }
       ],
-      "duration_ms": 189063,
-      "name": "If You Leave",
-      "url": "https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ"
+      "duration_ms": 144352,
+      "name": "feelings 4 u",
+      "url": "https://open.spotify.com/track/0bJymL5VTkMpiaZWw5048W"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "On Mine",
+        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
+      },
+      "artists": [
+        {
+          "name": "Imani Williams",
+          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 143986,
+      "name": "On Mine",
+      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "hoe bedoel je?",
         "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
       },
@@ -1571,22 +1591,6 @@
       "duration_ms": 137846,
       "name": "hoe bedoel je?",
       "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Cheetos",
-        "url": "https://open.spotify.com/album/5Jby2Guls2iIWSotmzpHoM"
-      },
-      "artists": [
-        {
-          "name": "Mael",
-          "url": "https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Cheetos",
-      "url": "https://open.spotify.com/track/6ZJ3sIrY1vsOpu75NnNVEz"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1611,22 +1615,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "On Mine",
-        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
+        "name": "Cheetos",
+        "url": "https://open.spotify.com/album/5Jby2Guls2iIWSotmzpHoM"
       },
       "artists": [
         {
-          "name": "Imani Williams",
-          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "Mael",
+          "url": "https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7"
         }
       ],
-      "duration_ms": 143986,
-      "name": "On Mine",
-      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
+      "duration_ms": 152727,
+      "name": "Cheetos",
+      "url": "https://open.spotify.com/track/6ZJ3sIrY1vsOpu75NnNVEz"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1647,26 +1647,6 @@
       "duration_ms": 179112,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja"
-      },
-      "artists": [
-        {
-          "name": "Kim Petite",
-          "url": "https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6"
-        },
-        {
-          "name": "Eurosoundz",
-          "url": "https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn"
-        }
-      ],
-      "duration_ms": 179954,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1695,18 +1675,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2pQtPvWVGYTIOuRdtcv7iw"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja"
       },
       "artists": [
         {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+          "name": "Kim Petite",
+          "url": "https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6"
+        },
+        {
+          "name": "Eurosoundz",
+          "url": "https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn"
         }
       ],
-      "duration_ms": 169341,
-      "name": "It Ain't Easy",
-      "url": "https://open.spotify.com/track/70NUQKxZwOxjp03dJOlRGH"
+      "duration_ms": 179954,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1723,6 +1707,22 @@
       "duration_ms": 170129,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2pQtPvWVGYTIOuRdtcv7iw"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 169341,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/70NUQKxZwOxjp03dJOlRGH"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1759,22 +1759,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Risking It All",
-        "url": "https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB"
+        "name": "Wickedest (feat. Haile)",
+        "url": "https://open.spotify.com/album/0gcr59uNr2tD6yoz9dRipQ"
       },
       "artists": [
         {
-          "name": "Romeyo Wilson",
-          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
-        },
-        {
-          "name": "Kiki Rowe",
-          "url": "https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP"
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
         }
       ],
-      "duration_ms": 190500,
-      "name": "Risking It All",
-      "url": "https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN"
+      "duration_ms": 195976,
+      "name": "Wickedest (feat. Haile)",
+      "url": "https://open.spotify.com/track/3W7p3aKtbyLjqiTwxF1jKw"
     }
   ],
   "unique_name": "R&B Magic",

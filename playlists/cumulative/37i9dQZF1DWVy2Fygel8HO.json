@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Arribar",
+        "url": "https://open.spotify.com/album/61fEiZp23pZk77w6sLN9gz"
+      },
+      "artists": [
+        {
+          "name": "Con Alma",
+          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138105,
+      "name": "Arribar",
+      "url": "https://open.spotify.com/track/6mqoZNxazZnSLm6Qh03eUu"
+    },
+    {
+      "album": {
         "name": "Barely Awake",
         "url": "https://open.spotify.com/album/3SDVYC3KCzaVn6x5cwPytt"
       },
@@ -1036,6 +1054,24 @@
       "duration_ms": 148520,
       "name": "Pillows of Lavender",
       "url": "https://open.spotify.com/track/0sPVOMEGFC0E745DbYZ99I"
+    },
+    {
+      "album": {
+        "name": "Poussi\u00e8re",
+        "url": "https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6"
+      },
+      "artists": [
+        {
+          "name": "Anne Vallayer",
+          "url": "https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132378,
+      "name": "Poussi\u00e8re",
+      "url": "https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se"
     },
     {
       "album": {

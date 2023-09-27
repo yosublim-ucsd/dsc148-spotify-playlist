@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 
 > n3xt l3v3l gaming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,956 likes - 118 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,970 likes - 118 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

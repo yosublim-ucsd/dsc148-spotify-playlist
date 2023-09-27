@@ -34854,7 +34854,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 127500,
       "name": "first light",
       "url": "https://open.spotify.com/track/4ybJ6R5bjp9MbXlDmJLVjI"
@@ -56843,6 +56843,28 @@
     },
     {
       "album": {
+        "name": "Light Breeze",
+        "url": "https://open.spotify.com/album/3cGiW50UTCjwTrUDV0Vtth"
+      },
+      "artists": [
+        {
+          "name": "Jost Esser",
+          "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
+        },
+        {
+          "name": "MALIWA",
+          "url": "https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125787,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/0NhTjpZsDm7vVPXzszd9B2"
+    },
+    {
+      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/2lDFPAiVZclsLncjbYjlrh"
       },
@@ -60669,6 +60691,24 @@
     },
     {
       "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P"
+      },
+      "artists": [
+        {
+          "name": "Cal Credence",
+          "url": "https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu"
+    },
+    {
+      "album": {
         "name": "Lush Lush Lake",
         "url": "https://open.spotify.com/album/6UZspmwJnmXPbVg4ilUvtB"
       },
@@ -61020,7 +61060,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 138326,
       "name": "Mad Hatters",
       "url": "https://open.spotify.com/track/65y6tOf0C8XFuQE6bpPZzL"
@@ -63996,7 +64036,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 140930,
       "name": "Miles Deep",
       "url": "https://open.spotify.com/track/2F6zzRtx5UZPna7aMPDhoj"
@@ -82609,6 +82649,24 @@
     },
     {
       "album": {
+        "name": "Remedies",
+        "url": "https://open.spotify.com/album/4StwBfTJI1FDpX6GhgtwNY"
+      },
+      "artists": [
+        {
+          "name": "Illum Noyz",
+          "url": "https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Remedies",
+      "url": "https://open.spotify.com/track/2UKmdTfUbFrOacKeS3qkJS"
+    },
+    {
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/7M64T08lQLoAZT4QqJYZeI"
       },
@@ -98950,7 +99008,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-27",
       "duration_ms": 157241,
       "name": "Sweetheart Saga",
       "url": "https://open.spotify.com/track/2mNdHkeA9NB8Rbk9SPy1VB"
@@ -114602,6 +114660,24 @@
       "duration_ms": 188070,
       "name": "Wooden Swing",
       "url": "https://open.spotify.com/track/4Luz4HhDqWdoYlA1NGJ4W9"
+    },
+    {
+      "album": {
+        "name": "Woollen Potato",
+        "url": "https://open.spotify.com/album/0Hp5rOXs5sNNdgYmUVdsu2"
+      },
+      "artists": [
+        {
+          "name": "Yoga at the Disco",
+          "url": "https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150447,
+      "name": "Woollen Potato",
+      "url": "https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK"
     },
     {
       "album": {

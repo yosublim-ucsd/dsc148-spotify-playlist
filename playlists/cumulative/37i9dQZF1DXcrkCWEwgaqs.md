@@ -4,7 +4,7 @@
 
 > Featuring Aleman, Trueno, Calle 13 & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-25 songs - 1 hr 28 min
+26 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Abayarde](https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 3:22 | 2023-09-01 |  |
 | [Bandoleros](https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0) | 5:05 | 2023-09-01 |  |
 | [CANGURO](https://open.spotify.com/track/2UAWYufVaO3EnUUNzl0ppO) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 3:16 | 2023-09-01 |  |
-| [CSIpher \(audio latino\)](https://open.spotify.com/track/2M6XdDkJ3zRDo9XTsFoBME) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 4:10 | 2023-09-01 |  |
+| [CSIpher \(audio latino\)](https://open.spotify.com/track/2M6XdDkJ3zRDo9XTsFoBME) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 4:10 | 2023-09-01 | 2023-09-27 |
+| [CSIpher \(audio latino\)](https://open.spotify.com/track/4bp3MHLtiKfPaNL3iSbQ20) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Antes de Ameri](https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR) | 4:10 | 2023-09-01 |  |
 | [Digo Lo Que Pienso](https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:53 | 2023-09-01 |  |
 | [DISPARA \*\*\*](https://open.spotify.com/track/6r0TaoZh1Oc1KkuL4rC1kB) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:23 | 2023-09-01 |  |
 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 | 2023-09-01 |  |

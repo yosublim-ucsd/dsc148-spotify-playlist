@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,244 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,263 likes - 77 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 31 | [Turn Down for What](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Turn Down for What](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) | 3:33 |
 | 32 | [Get Up \(Rattle\) \[feat\. Far East Movement\] \- Vocal Edit](https://open.spotify.com/track/3bu6Gu2lzm9VEoab1za8BM) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [Get Up \(Rattle\) \[feat\. Far East Movement\]](https://open.spotify.com/album/1qnQH3SVJ19CIO16VW2tes) | 2:46 |
 | 33 | [No Heroes \(feat\. Luciana\)](https://open.spotify.com/track/3m4vB0q02q4xvBenENEkLw) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [No Heroes \(feat\. Luciana\)](https://open.spotify.com/album/0o5FMj2LepZb7fZ6CNAxe3) | 4:05 |
-| 34 | [Deep Down Low](https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM) | 3:10 |
+| 34 | [Deep Down Low](https://open.spotify.com/track/2UnjLIBORWFqHmYrmzttg8) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low \(Remixes\)](https://open.spotify.com/album/1aZVy48fiWgn4G6KL08C6r) | 3:04 |
 | 35 | [No Money](https://open.spotify.com/track/6M6Tk58pQvABy6ru66dY3d) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:11 |
 | 36 | [Booyah \- Radio Edit](https://open.spotify.com/track/2EpS5TgdngSISM63rhBsnK) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [We Are Loud](https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Booyah](https://open.spotify.com/album/0Dix8CfvtZEHUyJGnmPnaB) | 3:35 |
 | 37 | [Recess \(with Kill The Noise, Fatman Scoop, and Michael Angelakos\)](https://open.spotify.com/track/1RJZLVGpBG9nNZiHRQSWTp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 3:57 |

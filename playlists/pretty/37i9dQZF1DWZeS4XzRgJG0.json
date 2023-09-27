@@ -1,6 +1,6 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 24583,
+  "num_followers": 24646,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
         "name": "Icarus Falls",
         "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 239000,
       "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
       "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
         "name": "FourFiveSeconds",
         "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 188238,
       "name": "FourFiveSeconds",
       "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "James Arthur (Deluxe)",
-        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 240013,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"
+      "duration_ms": 222800,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1143,6 +1127,22 @@
       "duration_ms": 221106,
       "name": "Supermarket Flowers",
       "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1211,38 +1211,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
       },
@@ -1271,6 +1239,38 @@
       "duration_ms": 295502,
       "name": "Hello",
       "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Six Feet Under",
+        "url": "https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/1QNt0bhIXWu5XdlXlYI4iI"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 214533,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/1QNt0bhIXWu5XdlXlYI4iI"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2663,22 +2663,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Only Ticket Home",
-        "url": "https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 247842,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "No Surrender",
         "url": "https://open.spotify.com/album/3tL1HdrbBUHinxRBJCor48"
       },
@@ -2691,6 +2675,22 @@
       "duration_ms": 184768,
       "name": "No Surrender",
       "url": "https://open.spotify.com/track/5eOcgSPoAzma8qvtOl5mWt"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Only Ticket Home",
+        "url": "https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 247842,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
     },
     {
       "added_at": "2023-05-12 08:21:15",

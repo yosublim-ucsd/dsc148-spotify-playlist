@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Pendulum \\m/
 
-326 songs - 18 hr 41 min
+327 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Flatline](https://open.spotify.com/track/3mNMRpuv9V7DtVMVPh2saF) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Flatline](https://open.spotify.com/album/2doxRabzdeSo7zM5fcZmtq) | 3:28 | 2021-12-10 | 2022-10-08 |
 | [Flatlined](https://open.spotify.com/track/1jFw2LjM5koaqVYaiA2SPN) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Flatlined](https://open.spotify.com/album/2sK83xEbolOa7q6ZcyOC7W) | 4:51 | 2022-05-13 | 2023-04-07 |
 | [FØØL \- INHUMAN Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \(INHUMAN Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 | 2021-12-10 |  |
-| [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-04-15 |  |
+| [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-04-15 | 2023-09-27 |
 | [Ghost Story \(with All Time Low\)](https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Ghost Story \(with All Time Low\)](https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E) | 2:46 | 2021-12-10 |  |
 | [Ghostbox](https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI) | [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Crywolf](https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z) | [self:antiself](https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p) | 4:50 | 2022-01-28 |  |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-02-10 | 2023-08-19 |
@@ -203,6 +203,7 @@
 | [My Head](https://open.spotify.com/track/4cvQl9lwZV9RkekUBdoYsY) | [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC), [Listing](https://open.spotify.com/artist/2KFVbDcO6wEgFaecVXDMhw) | [Bloom](https://open.spotify.com/album/2sy97HeTkGB4xLK4ATxuqV) | 4:30 | 2021-12-10 | 2022-01-27 |
 | [My Name Is Thunder](https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [The Great Electronic Swindle](https://open.spotify.com/album/20huTj57KXvDNglsTbvoDi) | 2:47 | 2021-12-10 |  |
 | [Never Change \- Sullivan King Remix](https://open.spotify.com/track/0SmsBon58vD8QskC1l18TQ) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Never Change \(Sullivan King Remix\)](https://open.spotify.com/album/7oIr0bLgBlxMScTiaVlU3K) | 4:28 | 2022-07-08 |  |
+| [Never Go Back](https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Never Go Back](https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD) | 3:18 | 2023-09-22 |  |
 | [Never Let You Down \(with TELLE\)](https://open.spotify.com/track/7l7UeB9sG7lMtikz0DUkpS) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Never Let You Down \(with TELLE\)](https://open.spotify.com/album/1Fld0ymwHFvzS7ES7YdKsd) | 2:46 | 2021-12-10 | 2023-09-08 |
 | [Next To You](https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Next To You](https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj) | 2:51 | 2021-12-10 |  |
 | [Night Terror \(feat\. Of Mice & Men\)](https://open.spotify.com/track/1LZ4s4yuTmlsQy1udl1hPZ) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Night Terror \(feat\. Of Mice & Men\)](https://open.spotify.com/album/2l6ae2Q8emA3ek4a1BAbcj) | 3:24 | 2021-12-10 | 2022-06-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, Laurel Halo has finely chosen a selection of Ambient to create her very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,721 likes - 30 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,788 likes - 30 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 3267,
+  "num_followers": 3290,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "duration_ms": 379520,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Eastside (with Halsey & Khalid) [Acoustic]",
         "url": "https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 173004,
       "name": "Eastside (with Halsey & Khalid) - Acoustic",
       "url": "https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
-      },
-      "artists": [
-        {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
-        }
-      ],
-      "duration_ms": 379520,
-      "name": "Orange Sky",
-      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Chasing After the Moon",
-        "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
-      },
-      "artists": [
-        {
-          "name": "Michael Shynes",
-          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
-        }
-      ],
-      "duration_ms": 238994,
-      "name": "Chasing After the Moon",
-      "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 212400,
       "name": "OK",
       "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Chasing After the Moon",
+        "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
+      },
+      "artists": [
+        {
+          "name": "Michael Shynes",
+          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
+        }
+      ],
+      "duration_ms": 238994,
+      "name": "Chasing After the Moon",
+      "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "~how i'm feeling~ (the extras)",
+        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 252681,
+      "name": "Modern Loneliness - acoustic",
+      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Hey (Acoustic Version)",
         "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 156804,
       "name": "Hey - Acoustic",
       "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "~how i'm feeling~ (the extras)",
-        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 252681,
-      "name": "Modern Loneliness - acoustic",
-      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
-      },
-      "artists": [
-        {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
-        }
-      ],
-      "duration_ms": 193756,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Deny Me",
         "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 307620,
       "name": "Deny Me",
       "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
+      },
+      "artists": [
+        {
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+        }
+      ],
+      "duration_ms": 193756,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Nervous - Acoustic",
-      "url": "https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Wonderwall",
         "url": "https://open.spotify.com/album/5dqiCzCXC1zrV6H6RDoLKe"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 236094,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/4b6ru8IDPaVNw4ccHjYOSg"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Nervous - Acoustic",
+      "url": "https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Without Me (Acoustic)",
-        "url": "https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn"
-      },
-      "artists": [
-        {
-          "name": "Ben Woodward",
-          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
-        }
-      ],
-      "duration_ms": 193318,
-      "name": "Without Me (Acoustic)",
-      "url": "https://open.spotify.com/track/3pnEPFXuYoYKEiBRTCElog"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 272680,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Without Me (Acoustic)",
+        "url": "https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn"
+      },
+      "artists": [
+        {
+          "name": "Ben Woodward",
+          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
+        }
+      ],
+      "duration_ms": 193318,
+      "name": "Without Me (Acoustic)",
+      "url": "https://open.spotify.com/track/3pnEPFXuYoYKEiBRTCElog"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "When the Party's Over",
-        "url": "https://open.spotify.com/album/23Va4fs3LT53tTYFp2dvmb"
+        "name": "With Or Without You (Acoustic)",
+        "url": "https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC"
       },
       "artists": [
         {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+          "name": "Landon Austin",
+          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
+        },
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 154732,
-      "name": "When the Party's Over",
-      "url": "https://open.spotify.com/track/2q4t8aNC8tSQyViXrTwOFJ"
+      "duration_ms": 206666,
+      "name": "With Or Without You (Acoustic)",
+      "url": "https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS"
     }
   ],
   "unique_name": "Soft Morning",

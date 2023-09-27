@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-181 songs - 9 hr 17 min
+182 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2019-12-10 | 2022-10-13 |
 | [Luzon](https://open.spotify.com/track/0vInsOPBHyqtF5KYmyiNsv) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Luzon](https://open.spotify.com/album/3uWdP1qbPaBmVx1BEEtSLc) | 3:01 | 2019-12-10 |  |
 | [Make You Wait](https://open.spotify.com/track/0s58Xx9kQFoujKAuWM5k04) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Three, Fever](https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu) | 3:00 | 2019-12-10 | 2022-10-14 |
-| [Make You Wait](https://open.spotify.com/track/37f7JmemPNdPEJajylUrFz) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Three, Fever](https://open.spotify.com/album/3PK5pxy5QNNqIPvvXtAvQr) | 3:00 | 2019-12-10 |  |
+| [Make You Wait](https://open.spotify.com/track/37f7JmemPNdPEJajylUrFz) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Three, Fever](https://open.spotify.com/album/3PK5pxy5QNNqIPvvXtAvQr) | 3:00 | 2019-12-10 | 2023-09-27 |
+| [Make You Wait](https://open.spotify.com/track/3XozinBpBtUq6pXOJEJsQZ) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Three, Fever](https://open.spotify.com/album/27ZvCKXQRqDb4R7scSAvad) | 3:00 | 2019-12-10 |  |
 | [Make You Wait](https://open.spotify.com/track/6hynSfOyysRcPe9LbqtIHL) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/5Hs5HX81qk47VTS6ZW1Mms) | [Three, Fever](https://open.spotify.com/album/6VdrVl350WhMaS1xdn6r5k) | 3:00 | 2019-12-10 | 2022-11-13 |
 | [Meaner Girl](https://open.spotify.com/track/75Ybs07OwRvhRE1kedAhv5) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Self Aware Bitch](https://open.spotify.com/album/3AhOyLa5HZSJE0vb8ot3bn) | 3:11 | 2019-12-10 |  |
 | [Meaner Girl](https://open.spotify.com/track/3mMxsC9GZanDd6c0lp2h7o) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Meaner Girl](https://open.spotify.com/album/7fkrmcwqKtnqyAHz0Mg52G) | 3:13 | 2019-12-10 | 2022-07-29 |

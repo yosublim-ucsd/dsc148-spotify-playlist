@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 
 > Warming instrumental guitar for sitting by the fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,670 likes - 138 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,705 likes - 138 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

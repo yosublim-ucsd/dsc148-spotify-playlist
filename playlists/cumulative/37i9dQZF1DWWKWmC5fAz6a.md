@@ -4,7 +4,7 @@
 
 > Elle and Tao's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-69 songs - 3 hr 46 min
+70 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 | 2023-08-02 |  |
 | [Head In The Clouds](https://open.spotify.com/track/2mchaeoq35BUYXiOFLWD7i) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/2o3leUqps0lLmKlqfqzRW3) | 1:00 | 2022-05-26 | 2022-11-17 |
 | [Head In The Clouds](https://open.spotify.com/track/3uaW8TR5dvn4iripeYPw5t) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/37pRjW4teJk77oZbglQuJx) | 1:00 | 2022-05-31 |  |
-| [Honey](https://open.spotify.com/track/2IgtWhc0W0cbhYqpolqeKh) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Slack](https://open.spotify.com/album/4foNkrb7hHaP2ZFLlRHx3A) | 3:44 | 2023-08-02 |  |
+| [Honey](https://open.spotify.com/track/0mNoOaGPACxijG3wkudf6R) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Slack A](https://open.spotify.com/album/6yhwC2yFrX1js48ITVygoH) | 3:44 | 2023-08-02 |  |
+| [Honey](https://open.spotify.com/track/2IgtWhc0W0cbhYqpolqeKh) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Slack](https://open.spotify.com/album/4foNkrb7hHaP2ZFLlRHx3A) | 3:44 | 2023-08-02 | 2023-09-27 |
 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 | 2022-05-26 |  |
 | [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 | 2022-05-26 |  |
 | [Kids](https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg) | 4:29 | 2022-05-31 |  |

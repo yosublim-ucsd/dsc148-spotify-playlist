@@ -4,13 +4,14 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Joshua Baraka
 
-172 songs - 8 hr 56 min
+173 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 By 2](https://open.spotify.com/track/5YzRhflX7SXBWJdeSdEEmn) | [Bruz Newton](https://open.spotify.com/artist/7BPrSZBofgDgHqHlLQ0OZH) | [2 By 2](https://open.spotify.com/album/2a256gdr7138D4Nkbp2sb9) | 2:47 | 2022-07-29 | 2022-11-14 |
 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 | 2022-09-30 | 2023-06-05 |
 | [Abantu](https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Abantu](https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs) | 3:16 | 2023-01-26 | 2023-02-11 |
+| [Ability](https://open.spotify.com/track/2WfykADENkOGFjTxL8I5Cs) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Ability](https://open.spotify.com/album/7snzcqObYYgEgCzXPXCjqe) | 2:54 | 2023-09-22 |  |
 | [Afiya](https://open.spotify.com/track/1YXHLlENONleioam1NP9Uu) | [King Holiday](https://open.spotify.com/artist/2Qgp7qYMWApB3qwH3agQYs), [Koojo The Artist](https://open.spotify.com/artist/3eDzOzmge19my36Wia07yK), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Afiya](https://open.spotify.com/album/2rx4CkziHMdzRkvUukP33O) | 2:32 | 2022-08-05 | 2022-10-07 |
 | [Akahama](https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc) | [ALLAN TONIKS](https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s) | [Awo](https://open.spotify.com/album/02qumZkSj4oR8vJ41Vgf2X) | 4:20 | 2022-07-08 | 2023-03-13 |
 | [All Of You](https://open.spotify.com/track/0QQm7eqOsPVVepd1rHtJRE) | [Aethan Music](https://open.spotify.com/artist/609EazKArL58XXHcXgvPoU), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [The Opening Act](https://open.spotify.com/album/4J6STymks5es1DRudc1qT5) | 3:04 | 2022-12-02 | 2022-12-13 |
@@ -141,7 +142,7 @@
 | [Raha](https://open.spotify.com/track/2GJMYdqcS8uMRdUdwHJCY1) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:32 | 2022-09-22 | 2022-11-11 |
 | [RainFall](https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP) | [HerbertSkillz](https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba), [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [RainFall](https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK) | 3:29 | 2022-11-25 | 2023-02-28 |
 | [Riri](https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn) | 3:35 | 2022-09-30 | 2023-02-27 |
-| [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 | 2022-09-30 |  |
+| [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 | 2022-09-30 | 2023-09-27 |
 | [Riri](https://open.spotify.com/track/6uuhUQUMzrnEZdTaTwpgYZ) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/0YbmSdTyRouipTci3DtkQv) | 3:35 | 2022-05-12 | 2022-10-21 |
 | [Sakata](https://open.spotify.com/track/1vOBjsXST8IjLgoUZIwDU6) | [Authentically Plastic](https://open.spotify.com/artist/1Gum664eHo0JeNdHWb4hoY) | [Sakata](https://open.spotify.com/album/7oscxpiTiwjPlcBdqYa4uX) | 3:42 | 2022-07-22 | 2022-10-16 |
 | [Salary](https://open.spotify.com/track/78al3N9RaWJUDMhPS6Z669) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe), [Selecta Jeff](https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu) | [Salary](https://open.spotify.com/album/0ysAKohoYkEI47eHS9GPry) | 2:49 | 2023-07-28 |  |

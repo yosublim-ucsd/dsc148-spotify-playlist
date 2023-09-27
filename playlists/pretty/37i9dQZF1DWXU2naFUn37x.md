@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Sacky, Baby Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,773 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,994 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 42 | [SOLDATI](https://open.spotify.com/track/1SNjXnEMWjEYRLAteXJpTK) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:25 |
 | 43 | [SON FATTO COSÌ](https://open.spotify.com/track/2Q79rIelEvPfzLfqYwGbLX) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [SON FATTO COSÌ](https://open.spotify.com/album/6wQFQlu9RJDpVd4OigS5nS) | 2:53 |
 | 44 | [Drouba](https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Drouba](https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM) | 2:56 |
-| 45 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 |
+| 45 | [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 |
 | 46 | [Formentera](https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Formentera](https://open.spotify.com/album/4iUG3rZBWlkeCgfVAmIA65) | 2:58 |
 | 47 | [Paky Freestyle 2](https://open.spotify.com/track/15G4MmllbiFIDNILzUFn0o) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Paky Freestyle 2](https://open.spotify.com/album/505SokxH7l8nPEQlvAuq5M) | 2:01 |
 | 48 | [YALLA \(feat\. Guè & Marracash\)](https://open.spotify.com/track/6VTxXLLqkJw1GoKlKrwsvQ) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 3:17 |
 | 49 | [Chakachà](https://open.spotify.com/track/2y7MyvmXf54VAohtg6eb6s) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Chakachà](https://open.spotify.com/album/1a3jocnw41bCF7HsoHUXh9) | 2:47 |
 | 50 | [Whip Whip](https://open.spotify.com/track/3GlYaaFuFxEJWYiN0Vc41f) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Whip Whip](https://open.spotify.com/album/5nPvaJOnOIPRuDtRc2RicJ) | 1:57 |
 
-Snapshot ID: `MCxjMTE5OTc5NzNhNzAxZDUxZTNlNThlMWVkZTA4NTMzMTcyMWIxMDc5`
+Snapshot ID: `MCwyZjU0YzdjNzk1NDMwOTI3ZjZjNDUwY2Q2YmYyYWExM2MzYWU4M2Vh`

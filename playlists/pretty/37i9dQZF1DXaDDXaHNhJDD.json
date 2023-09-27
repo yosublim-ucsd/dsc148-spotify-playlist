@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate playlist for the best in Mollywood!\nCover: King of Kotha",
-  "num_followers": 72369,
+  "num_followers": 72529,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "Adam Joan",
-        "url": "https://open.spotify.com/album/1c0bWXAeQ4tNpIB7Ok3pSo"
-      },
-      "artists": [
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Deepak Dev",
-          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
-        }
-      ],
-      "duration_ms": 328542,
-      "name": "Ee Kaattu",
-      "url": "https://open.spotify.com/track/2uddWiAVaH4owVLOHZgjGp"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
         "name": "Jeevamshamayi (From \"Theevandi\")",
         "url": "https://open.spotify.com/album/1rMlUn5HViYHGwMrFYCca1"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 323179,
       "name": "Jeevamshamayi (From \"Theevandi\")",
       "url": "https://open.spotify.com/track/59oAJRA0zzLzl9AXa1R6zh"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
+        "name": "Adam Joan",
+        "url": "https://open.spotify.com/album/1c0bWXAeQ4tNpIB7Ok3pSo"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Deepak Dev",
+          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
+        }
+      ],
+      "duration_ms": 328542,
+      "name": "Ee Kaattu",
+      "url": "https://open.spotify.com/track/2uddWiAVaH4owVLOHZgjGp"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -1103,6 +1103,30 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
+        "name": "Minnal Murali",
+        "url": "https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x"
+      },
+      "artists": [
+        {
+          "name": "Narayani Gopan",
+          "url": "https://open.spotify.com/artist/77CpK8W1pBsAITFE3zVeOI"
+        },
+        {
+          "name": "Mithun Jayaraj",
+          "url": "https://open.spotify.com/artist/3mVQkEy8bTczhoTmCWTRbh"
+        },
+        {
+          "name": "Shaan Rahman",
+          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
+        }
+      ],
+      "duration_ms": 327155,
+      "name": "Uyire",
+      "url": "https://open.spotify.com/track/14eXAcAvCvirf0dSdDrgu2"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
         "name": "Goodalochana (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/74dfKo4DL91dTZZilPMplE"
       },
@@ -1139,30 +1163,6 @@
       "duration_ms": 132755,
       "name": "Thee Minnal",
       "url": "https://open.spotify.com/track/0MazZtniHdlLigR01rpKEI"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
-        "name": "Minnal Murali",
-        "url": "https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x"
-      },
-      "artists": [
-        {
-          "name": "Narayani Gopan",
-          "url": "https://open.spotify.com/artist/77CpK8W1pBsAITFE3zVeOI"
-        },
-        {
-          "name": "Mithun Jayaraj",
-          "url": "https://open.spotify.com/artist/3mVQkEy8bTczhoTmCWTRbh"
-        },
-        {
-          "name": "Shaan Rahman",
-          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
-        }
-      ],
-      "duration_ms": 327155,
-      "name": "Uyire",
-      "url": "https://open.spotify.com/track/14eXAcAvCvirf0dSdDrgu2"
     },
     {
       "added_at": "2023-09-15 10:32:16",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 666275,
+  "num_followers": 666339,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
     },
     {
-      "added_at": "2023-02-09 18:14:43",
-      "album": {
-        "name": "costas de coral",
-        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 188841,
-      "name": "costas de coral",
-      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Dimensi\u00f3n Caribe",
@@ -1015,6 +999,22 @@
       "duration_ms": 236026,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
+    },
+    {
+      "added_at": "2023-02-09 18:14:43",
+      "album": {
+        "name": "costas de coral",
+        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 188841,
+      "name": "costas de coral",
+      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
     },
     {
       "added_at": "2022-04-01 06:20:39",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 213810,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Churupaca",
         "url": "https://open.spotify.com/album/4WEJMxY05ww9RP2jCK4SXX"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 293746,
       "name": "Duda Morena",
       "url": "https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 213810,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Tengo Lo Que Tengo",
-        "url": "https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE"
-      },
-      "artists": [
-        {
-          "name": "Jimena Angel",
-          "url": "https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E"
-        }
-      ],
-      "duration_ms": 203664,
-      "name": "Tengo Lo Que Tengo",
-      "url": "https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Luna Completa",
         "url": "https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 288653,
       "name": "Luna Completa",
       "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Tengo Lo Que Tengo",
+        "url": "https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE"
+      },
+      "artists": [
+        {
+          "name": "Jimena Angel",
+          "url": "https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E"
+        }
+      ],
+      "duration_ms": 203664,
+      "name": "Tengo Lo Que Tengo",
+      "url": "https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1329,6 +1329,38 @@
       "url": "https://open.spotify.com/track/6A6cCw7LCB5ob9LRsQwc7I"
     },
     {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Post Qu\u00edmica",
+        "url": "https://open.spotify.com/album/6ofvehgD9KHjywtwgIy7nR"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Post Qu\u00edmica",
+      "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
+    },
+    {
       "added_at": "2023-02-03 04:48:46",
       "album": {
         "name": "Porque Yo",
@@ -1347,58 +1379,6 @@
       "duration_ms": 181914,
       "name": "Porque Yo",
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Paradiso",
-        "url": "https://open.spotify.com/album/1HVCTeGuFKuQSwXXNCEkJv"
-      },
-      "artists": [
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        },
-        {
-          "name": "La Comitiva",
-          "url": "https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh"
-        }
-      ],
-      "duration_ms": 181723,
-      "name": "Paradiso",
-      "url": "https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Post Qu\u00edmica",
-        "url": "https://open.spotify.com/album/6ofvehgD9KHjywtwgIy7nR"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Post Qu\u00edmica",
-      "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1423,6 +1403,26 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Paradiso",
+        "url": "https://open.spotify.com/album/1HVCTeGuFKuQSwXXNCEkJv"
+      },
+      "artists": [
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        },
+        {
+          "name": "La Comitiva",
+          "url": "https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh"
+        }
+      ],
+      "duration_ms": 181723,
+      "name": "Paradiso",
+      "url": "https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y"
     },
     {
       "added_at": "2022-06-08 03:35:19",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Aguacate",
-        "url": "https://open.spotify.com/album/1TArVEfPbbOXvsY84OuZBh"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Siladi",
-          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
-        }
-      ],
-      "duration_ms": 207313,
-      "name": "Aguacate",
-      "url": "https://open.spotify.com/track/6BKJgPiy3tYKnW7bIWiDej"
-    },
-    {
       "added_at": "2022-09-02 05:59:54",
       "album": {
         "name": "La Matanza",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Aguacate",
+        "url": "https://open.spotify.com/album/1TArVEfPbbOXvsY84OuZBh"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+        }
+      ],
+      "duration_ms": 207313,
+      "name": "Aguacate",
+      "url": "https://open.spotify.com/track/6BKJgPiy3tYKnW7bIWiDej"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Cambiar\u00e1s",
         "url": "https://open.spotify.com/album/1x73tbGDGSdOSer7ctL5xl"
       },
@@ -1507,22 +1507,6 @@
       "duration_ms": 243934,
       "name": "Cambiar\u00e1s",
       "url": "https://open.spotify.com/track/3IJX2DqFm8G6joQQsbQrqC"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Pescador de Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP"
-      },
-      "artists": [
-        {
-          "name": "Ramon Chicharron",
-          "url": "https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s"
-        }
-      ],
-      "duration_ms": 238861,
-      "name": "Mi Querer",
-      "url": "https://open.spotify.com/track/0zkPY5HjDwraDSJtAidTCb"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+        "name": "Pescador de Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+          "name": "Ramon Chicharron",
+          "url": "https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s"
         }
       ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+      "duration_ms": 238861,
+      "name": "Mi Querer",
+      "url": "https://open.spotify.com/track/0zkPY5HjDwraDSJtAidTCb"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1645,6 +1629,22 @@
       "url": "https://open.spotify.com/track/2Zh91nwJJNTyE6WzXfuZrO"
     },
     {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
       "added_at": "2022-03-11 03:38:19",
       "album": {
         "name": "Penas con Pan",
@@ -1675,6 +1675,22 @@
       "duration_ms": 242445,
       "name": "Te Queria",
       "url": "https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Como Viene Se Va",
+      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1711,22 +1727,6 @@
       "duration_ms": 222000,
       "name": "Gar\u00faa (Sabor a Querer)",
       "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Como Viene Se Va",
-      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1781,6 +1781,22 @@
       "url": "https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4"
     },
     {
+      "added_at": "2022-01-04 01:50:46",
+      "album": {
+        "name": "Easy and Tropical Machine",
+        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Cumbia Reggae",
+      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
+    },
+    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Sonre\u00edr",
@@ -1799,22 +1815,6 @@
       "duration_ms": 211480,
       "name": "Sonre\u00edr",
       "url": "https://open.spotify.com/track/748Vnqa1Rpwteiarxartiz"
-    },
-    {
-      "added_at": "2022-01-04 01:50:46",
-      "album": {
-        "name": "Easy and Tropical Machine",
-        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
-      },
-      "artists": [
-        {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Cumbia Reggae",
-      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1853,22 +1853,6 @@
       "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 261402,
-      "name": "A la Madrugada",
-      "url": "https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht"
-    },
-    {
       "added_at": "2021-11-10 16:29:39",
       "album": {
         "name": "Bichota \u2013 Spotify Singles",
@@ -1903,6 +1887,22 @@
       "duration_ms": 196984,
       "name": "Temes",
       "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 261402,
+      "name": "A la Madrugada",
+      "url": "https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht"
     }
   ],
   "unique_name": "Vibra Tropical",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,209 likes - 86 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,245 likes - 86 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 9 | [Summer Vibes](https://open.spotify.com/track/7aKX262g7OMTuPm9XwoYNS) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Summer Vibes](https://open.spotify.com/album/7Cm5Ys8oAUwV7COhNTF7aV) | 2:19 |
 | 10 | [Expat Living](https://open.spotify.com/track/2nRUk1Qbef1wGeX8tdCYCR) | [just Min](https://open.spotify.com/artist/30WOLSr0UBs8AKHEIbQB1B) | [Expat Living](https://open.spotify.com/album/6kGFNA77LeZa67JCMvJVfE) | 3:04 |
 | 11 | [tonight](https://open.spotify.com/track/3uPkF98XCSzJ9lVTwcpNa5) | [giabao](https://open.spotify.com/artist/3cowtwoHuAizkSqqTFyWus) | [tonight](https://open.spotify.com/album/7HpRSSqwPz0Evw1kIYVaU7) | 3:19 |
-| 12 | [Another One Of Me \(feat\. The Weeknd, French Montana and 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 |
+| 12 | [Another One Of Me \(feat\. 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 |
 | 13 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 |
 | 14 | [When the Rain Comes](https://open.spotify.com/track/0mw1bEX0GYt1txWBjwGmRJ) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [When the Rain Comes](https://open.spotify.com/album/2mPSmGrWTnWuND6i6CwgWE) | 3:19 |
 | 15 | [Suddenly](https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Suddenly](https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX) | 2:01 |

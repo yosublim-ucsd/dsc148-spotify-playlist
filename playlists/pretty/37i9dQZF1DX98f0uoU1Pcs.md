@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,541 likes - 125 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,642 likes - 125 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

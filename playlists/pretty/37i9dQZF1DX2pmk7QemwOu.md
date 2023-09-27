@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 
 > ONE DREAM with TXT! Are you ready for a Sugar Rush Ride?
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,923 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,054 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

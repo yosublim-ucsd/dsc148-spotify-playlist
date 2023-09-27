@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Cover: Mareux
 
-223 songs - 13 hr 59 min
+224 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Vertigo](https://open.spotify.com/album/58NrvyTDNC3JMpyKyX60uI) | 3:30 | 2022-02-18 |  |
 | [Waste Away](https://open.spotify.com/track/040jWZw29UCBxaJRoLch7h) | [Closed Tear](https://open.spotify.com/artist/79w0GjUevceZAA54kbzzoA) | [NADA ES PARA SIEMPRE](https://open.spotify.com/album/61KVjDNyYhfVFFZIhz1JLE) | 2:15 | 2023-08-31 |  |
 | [We Need](https://open.spotify.com/track/2iQ5UVxkcCfGZ6vLd4q8t1) | [Ssleeping Desiress](https://open.spotify.com/artist/4fDRRcMe3Ci8lhq01OaVlI) | [Ssleeping Desiress](https://open.spotify.com/album/157P582dPYLDWK3tbHBe8f) | 4:13 | 2023-02-09 | 2023-03-08 |
-| [Weak In Your Light](https://open.spotify.com/track/59NJzV28kIjaPVqnkEX55V) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Weak In Your Light](https://open.spotify.com/album/7jEMFyVOSHEDt307mMeOM1) | 4:15 | 2023-04-14 |  |
+| [Weak In Your Light](https://open.spotify.com/track/4odb2UIgc0u22MNV7p4iQq) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Strange Disciple](https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK) | 4:15 | 2023-08-31 |  |
+| [Weak In Your Light](https://open.spotify.com/track/59NJzV28kIjaPVqnkEX55V) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Weak In Your Light](https://open.spotify.com/album/7jEMFyVOSHEDt307mMeOM1) | 4:15 | 2023-04-14 | 2023-09-27 |
 | [Whirl](https://open.spotify.com/track/5CNEbwdhDgosVr96njlnGK) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Choke](https://open.spotify.com/album/5gX6BIzokidmOiI6X6ZnBH) | 6:08 | 2023-02-09 |  |
 | [Will I Ever Find Love?](https://open.spotify.com/track/2heRsJG7O8jamqtKFW8P8s) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ) | [Will I Ever Find Love?](https://open.spotify.com/album/6Vix7fnm5Cn5Z3iZ2bb5wK) | 3:52 | 2023-08-31 |  |
 | [Worst Way](https://open.spotify.com/track/5N517sy8DmxfeXrm5ZxMpg) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Worst Way](https://open.spotify.com/album/6oAeyTReEk0aU9Ih8uZAp1) | 2:18 | 2023-02-21 | 2023-03-25 |

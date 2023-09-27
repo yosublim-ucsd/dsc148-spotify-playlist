@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Bleachers
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,601 likes - 79 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,632 likes - 79 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

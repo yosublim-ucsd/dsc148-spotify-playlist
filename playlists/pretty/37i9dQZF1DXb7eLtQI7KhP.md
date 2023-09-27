@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 
 > Soft and soothing ambient piano music to help you meditate and find inner peace.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,831 likes - 132 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,857 likes - 132 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fulgent](https://open.spotify.com/track/6OGj1MTwo6tmbsmMxBqSX3) | [Elyse Faas](https://open.spotify.com/artist/0AUcdgT1rQui03m1wWxKkC) | [Fulgent](https://open.spotify.com/album/5mS7nwgmbtHg0xUidpcDfZ) | 2:52 |
-| 2 | [Quiet Respite](https://open.spotify.com/track/6rRC89OHKbpXVraHgnZ7MI) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Quiet Respite](https://open.spotify.com/album/29obYtqcaVQlkJ95FwcT9p) | 2:43 |
-| 3 | [Ciel Émerveillé](https://open.spotify.com/track/0kZT7fviP2mtbOQ9dd43sd) | [Adeline Verver](https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A) | [Ciel Émerveillé](https://open.spotify.com/album/6V32voIY6xE3NxZ3YxN0c3) | 2:25 |
-| 4 | [Stolen moment](https://open.spotify.com/track/0yDZ5ON2b1XVWDnQ8rMhXk) | [Carlo Verde](https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt) | [Stolen moment](https://open.spotify.com/album/63bNR2NDPNqh7tM6Y7ZzVJ) | 2:52 |
+| 1 | [Quiet Respite](https://open.spotify.com/track/6rRC89OHKbpXVraHgnZ7MI) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Quiet Respite](https://open.spotify.com/album/29obYtqcaVQlkJ95FwcT9p) | 2:43 |
+| 2 | [Fulgent](https://open.spotify.com/track/6OGj1MTwo6tmbsmMxBqSX3) | [Elyse Faas](https://open.spotify.com/artist/0AUcdgT1rQui03m1wWxKkC) | [Fulgent](https://open.spotify.com/album/5mS7nwgmbtHg0xUidpcDfZ) | 2:52 |
+| 3 | [Stolen moment](https://open.spotify.com/track/0yDZ5ON2b1XVWDnQ8rMhXk) | [Carlo Verde](https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt) | [Stolen moment](https://open.spotify.com/album/63bNR2NDPNqh7tM6Y7ZzVJ) | 2:52 |
+| 4 | [Ciel Émerveillé](https://open.spotify.com/track/0kZT7fviP2mtbOQ9dd43sd) | [Adeline Verver](https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A) | [Ciel Émerveillé](https://open.spotify.com/album/6V32voIY6xE3NxZ3YxN0c3) | 2:25 |
 | 5 | [Miilky Way](https://open.spotify.com/track/1o3XOdXFXFfNvOYaR4QK2e) | [Vantrum Quai](https://open.spotify.com/artist/11Cyks3KuPJNfn5U7CIaha) | [Miilky Way](https://open.spotify.com/album/6AchdzUUgRofxchroOvKt1) | 3:05 |
 | 6 | [Clementine](https://open.spotify.com/track/5mumYQLVn62eJyxR8wAb0v) | [David Bengloff](https://open.spotify.com/artist/68dr8j57cUoepznTIrbHcm) | [Clementine](https://open.spotify.com/album/1RgeZMJzrEjOu2maoK7YOa) | 2:40 |
 | 7 | [Winter solstice](https://open.spotify.com/track/5ahM6oAPik0WB6sEN8Oep6) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Winter solstice](https://open.spotify.com/album/0aUUS04W5TOsnBGxsE8A18) | 3:01 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 | 131 | [Kindred Spirits](https://open.spotify.com/track/2E2LkJCGxdELKo9WnL4p7k) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Kindred Spirits](https://open.spotify.com/album/6ESQFCQLr3c6F9BOu7AI3X) | 2:58 |
 | 132 | [A Pillow For Her Mind](https://open.spotify.com/track/4rJ9FYsLQeB7oi7DSVEeUn) | [Roberta Leontini](https://open.spotify.com/artist/7B8dWi5admMjncLMdbxfns) | [A Pillow For Her Mind](https://open.spotify.com/album/0SVZiy0h2h4ALjd5wueeYw) | 2:19 |
 
-Snapshot ID: `MCw3M2U2Yjk4NDRlODE3OTk1NTJiZmJkMzBjNzg5OTI1NjQzYjczMzAw`
+Snapshot ID: `MCxhYTdmZGQ1YjAzN2JkYWYzZTk1ZjgxYzg1YWIyMmI3MTAwYmM1MWVi`

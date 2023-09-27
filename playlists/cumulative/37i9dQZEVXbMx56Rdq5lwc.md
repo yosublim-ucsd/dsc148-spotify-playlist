@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,306 songs - 2 day 23 hr 14 min
+1,307 songs - 2 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,8 @@
 | [Flooded The Face](https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:12 | 2023-07-01 | 2023-07-03 |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-04-01 | 2023-04-04 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-15 | 2023-03-12 |
-| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 |  |
+| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 | 2023-09-27 |
+| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-26 |  |
 | [Follow You](https://open.spotify.com/track/0LtkAAEpEp1lkLX1ZvjHZb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:55 | 2023-08-17 | 2023-08-21 |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2021-03-27\* | 2021-05-16 |
 | [FONAS](https://open.spotify.com/track/7AGc8wXghy0gpkrsaB1qJ8) | [ba.](https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf) | [NAUTO](https://open.spotify.com/album/1XXP7AmLVPFsriIOegQYUf) | 3:20 | 2022-10-01 | 2022-10-03 |
@@ -517,7 +518,7 @@
 | [JAUCIUOSI LAISVAI](https://open.spotify.com/track/73YwAp1830h6nrJeXyuDtS) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [BILIETAS I ROJU](https://open.spotify.com/album/0ilD8GaVRbNbeSwqbNPXvD) | 2:49 | 2022-08-27 | 2022-09-12 |
 | [Jausmai](https://open.spotify.com/track/0I4DBmQBS4itjoi8GxG3FP) | [Donny Montell](https://open.spotify.com/artist/3McTKJDgAb7YHbPYOp9LQL) | [Jausmai](https://open.spotify.com/album/5vlj44HfHQtotkeoivOwvC) | 2:55 | 2023-07-01 |  |
 | [Je me casse](https://open.spotify.com/track/559RWsQqSe4fNUffI9P7mW) | [Destiny](https://open.spotify.com/artist/1D6ueetjwqW491iboMI3NT) | [Je me casse](https://open.spotify.com/album/6Ltrg0NAj6GqIyO2bjPgYI) | 2:58 | 2021-05-21 | 2021-06-11 |
-| [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2023-09-25 |  |
+| [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2023-09-25 | 2023-09-27 |
 | [Jei Leisi](https://open.spotify.com/track/6sgzKRJ1C38I4pmI1TCnSN) | [Gabrielius Vagelis](https://open.spotify.com/artist/0dJJpF4ULA7xCU5xwHbCB3), [69 Danguje](https://open.spotify.com/artist/7GWKbGPixqCtZrYiacoPbk) | [Jei Leisi](https://open.spotify.com/album/1zaNQRogEqdKb7gZHRwZDa) | 3:27 | 2023-06-08 | 2023-09-26 |
 | [Jesus Lord](https://open.spotify.com/track/56JwgcQcxo08w7YXrBzrA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 8:58 | 2021-08-31 | 2021-09-03 |
 | [Jezebel](https://open.spotify.com/track/2NehRqeFiEGV72lFfqJGUn) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Jezebel](https://open.spotify.com/album/5zhjGDcXytCo05wRxkNtIX) | 3:10 | 2022-05-14 | 2022-05-22 |
@@ -1132,7 +1133,7 @@
 | [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 | 2023-05-26 | 2023-05-28 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2022-01-03 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-12-24 | 2022-12-29 |
-| [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:46 | 2022-12-29 | 2023-06-03 |
+| [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:46 | 2022-12-29 |  |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-16 |
 | [The Jungle \(feat\. Lil Keed\)](https://open.spotify.com/track/78pxuoiKJnBBwSGgJrKAny) | [Danny Wolf](https://open.spotify.com/artist/6zrXmqDEqtBFUZo6jedNf0), [Lil Keed](https://open.spotify.com/artist/3HfoEuAprUSyqXbDCPVxZb) | [Dark Nights in Paradise](https://open.spotify.com/album/2TibZZXaW7Kqsde3ECPnRo) | 3:16 | 2021-09-07 | 2021-09-11 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-09 | 2023-01-22 |

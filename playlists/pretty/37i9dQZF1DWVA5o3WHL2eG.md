@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: MOLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,777 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,779 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [Bitterlemon](https://open.spotify.com/track/3MQXzVtLzCaLaScZpq9c6O) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Bitterlemon](https://open.spotify.com/album/3FLExWlp1ZLPxNwLVMmXYN) | 2:52 |
 | 14 | [zu schön für ein ende](https://open.spotify.com/track/01aa8mGA7swM8yhNn1tdhS) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [zu schön für ein ende](https://open.spotify.com/album/3OcY2YP8dx3KloRO1XBLWw) | 2:15 |
 | 15 | [me & my broken heart](https://open.spotify.com/track/6VSDSqXYfBlwLXdzl9Srs4) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [me & my broken heart](https://open.spotify.com/album/5dv3YjsXPfWBEClQwvQ0OJ) | 3:04 |
-| 16 | [One Week Love](https://open.spotify.com/track/2bEzVHjkBhJrLD2eDs9P5X) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [One Week Love](https://open.spotify.com/album/1kFutpQALb7YaRT1xfvaBU) | 2:27 |
-| 17 | [Where Do We Go](https://open.spotify.com/track/1M2NNUv8UV5smjMVGyTrmz) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/4DDBDbyg0A15tQuClSvcqg) | 2:51 |
+| 16 | [Where Do We Go](https://open.spotify.com/track/1M2NNUv8UV5smjMVGyTrmz) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/4DDBDbyg0A15tQuClSvcqg) | 2:51 |
+| 17 | [One Week Love](https://open.spotify.com/track/2bEzVHjkBhJrLD2eDs9P5X) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [One Week Love](https://open.spotify.com/album/1kFutpQALb7YaRT1xfvaBU) | 2:27 |
 | 18 | [Kce](https://open.spotify.com/track/6OWhZ14xOHZgTdILm2pSji) | [Arlinda](https://open.spotify.com/artist/2SSMKpG9gJLqvXS8mZqlHn) | [Kce](https://open.spotify.com/album/5MsyUNhs6Stt6yXhMZJyXL) | 2:21 |
 | 19 | [cold girl summer](https://open.spotify.com/track/6R634UgADeXwhX0tEs4OGp) | [CARAMELLA](https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ) | [cold girl summer](https://open.spotify.com/album/73lfDHQjIjQwTgjg15AnYP) | 3:03 |
 | 20 | [Girl across the street](https://open.spotify.com/track/34rhXzwBmgITm3UUiANiTy) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [Girl across the street](https://open.spotify.com/album/7b65QlBbL69pkk8zMtL54s) | 3:28 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [Three Weeks Ahead](https://open.spotify.com/track/2I7Qu6GIQHEg22DBeoHgaZ) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Three Weeks Ahead](https://open.spotify.com/album/1KZv7ETELLclLujd2ZAz8B) | 3:49 |
 | 41 | [Blau](https://open.spotify.com/track/0aoDXGbQp9cd5QQ3KPxFvl) | [GINI](https://open.spotify.com/artist/6TBAZHXDXBywvVgYyQ8aCQ) | [Blau](https://open.spotify.com/album/39oB4dVpCweoiPCs4MEa8k) | 3:07 |
 | 42 | [Garden Door](https://open.spotify.com/track/14ODk2zkl3L8BPEi7hHdhS) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Garden Door](https://open.spotify.com/album/6JiGziPrnEGosIKunjGJ1T) | 3:57 |
-| 43 | [Interstate Bridge](https://open.spotify.com/track/2k33m5kYVtQzTJXyUarRuu) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Interstate Bridge](https://open.spotify.com/album/4YY8cfIETTVzSVMtJRuzxl) | 4:11 |
-| 44 | [Call U Home](https://open.spotify.com/track/4emZWgcqMEPBRfygznNU3z) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Call U Home](https://open.spotify.com/album/5ZMt3uPYEGNQc5qiX683U1) | 2:36 |
-| 45 | [Lieben verlernt](https://open.spotify.com/track/3uLrN8W1kcxRnba3XtUoue) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Lieben verlernt](https://open.spotify.com/album/0BH4veMVrKrLgOcF6KXAe1) | 2:54 |
-| 46 | [Flutlicht](https://open.spotify.com/track/7ArEhJopPJsOzA6gNfiKlb) | [Culk](https://open.spotify.com/artist/5IjUMI9yd5rHBglgX8Ye4z) | [Flutlicht](https://open.spotify.com/album/7n9uQg7pO2f7aD7sJG7ijL) | 3:10 |
+| 43 | [Call U Home](https://open.spotify.com/track/4emZWgcqMEPBRfygznNU3z) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Call U Home](https://open.spotify.com/album/5ZMt3uPYEGNQc5qiX683U1) | 2:36 |
+| 44 | [Interstate Bridge](https://open.spotify.com/track/2k33m5kYVtQzTJXyUarRuu) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Interstate Bridge](https://open.spotify.com/album/4YY8cfIETTVzSVMtJRuzxl) | 4:11 |
+| 45 | [Flutlicht](https://open.spotify.com/track/7ArEhJopPJsOzA6gNfiKlb) | [Culk](https://open.spotify.com/artist/5IjUMI9yd5rHBglgX8Ye4z) | [Flutlicht](https://open.spotify.com/album/7n9uQg7pO2f7aD7sJG7ijL) | 3:10 |
+| 46 | [Lieben verlernt](https://open.spotify.com/track/3uLrN8W1kcxRnba3XtUoue) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Lieben verlernt](https://open.spotify.com/album/0BH4veMVrKrLgOcF6KXAe1) | 2:54 |
 | 47 | [birthday cake](https://open.spotify.com/track/6r5Bx0FOO2QyUJNrdVcMro) | [katya.](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [25yrs on earth](https://open.spotify.com/album/3WrFzxwbwDVkX3TkjPgO3j) | 2:58 |
 | 48 | [You Knew](https://open.spotify.com/track/6Mgntw8v9hBYzI0Oycmb3b) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [You Knew](https://open.spotify.com/album/3WCCVWh8DLGKNh9DfeNiV2) | 3:21 |
 | 49 | [Your Call](https://open.spotify.com/track/43IPFcPnZggexPs6ddU5B1) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Your Call](https://open.spotify.com/album/567ImEndAXXAawauP3gUxJ) | 3:13 |

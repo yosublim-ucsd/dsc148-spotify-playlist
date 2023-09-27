@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 > รวมที่สุดเพลงฮิปฮอปไทยไว้ที่นี่\. ศิลปิน: Maiyarap
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,972 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,996 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

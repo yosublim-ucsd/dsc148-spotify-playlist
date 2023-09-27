@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 171540,
+  "num_followers": 171655,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Night Lights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "Prelude In E Minor",
+      "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Chambre avec vue",
         "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 248306,
       "name": "All I Really Want Is Love",
       "url": "https://open.spotify.com/track/4EtULbS8K8zZ3apaEX36oI"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Night Lights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "Prelude In E Minor",
-      "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Jazz M\u00e9diterran\u00e9e",
-      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "I Still Haven't Found What I'm Looking For",
         "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "The Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Trio",
+          "url": "https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD"
+        }
+      ],
+      "duration_ms": 232261,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
       },
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Jazz M\u00e9diterran\u00e9e",
+      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Meets Gustav Lundgren",
         "url": "https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 230624,
       "name": "Fotografia",
       "url": "https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "The Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Jazz Trio",
-          "url": "https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD"
-        }
-      ],
-      "duration_ms": 232261,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Rio (Exclusive International Version)",
-        "url": "https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI"
-      },
-      "artists": [
-        {
-          "name": "Till Br\u00f6nner",
-          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
-        },
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 324520,
-      "name": "O Que Sera?",
-      "url": "https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 304826,
       "name": "Para Machuchar Meu Coracao",
       "url": "https://open.spotify.com/track/5jBv1j7ISp1ja8e1N2oSmt"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Rio (Exclusive International Version)",
+        "url": "https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI"
+      },
+      "artists": [
+        {
+          "name": "Till Br\u00f6nner",
+          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 324520,
+      "name": "O Que Sera?",
+      "url": "https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Cora\u00e7\u00e3o Madura",
-        "url": "https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9o Freire",
-          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
-        }
-      ],
-      "duration_ms": 120810,
-      "name": "Cora\u00e7\u00e3o Madura",
-      "url": "https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 199299,
       "name": "Vivendo",
       "url": "https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Madura",
+        "url": "https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9o Freire",
+          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
+        }
+      ],
+      "duration_ms": 120810,
+      "name": "Cora\u00e7\u00e3o Madura",
+      "url": "https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Green Grapes",
-        "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
-      },
-      "artists": [
-        {
-          "name": "Ennio M\u00e1no",
-          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
-        }
-      ],
-      "duration_ms": 224187,
-      "name": "Woodblock Print",
-      "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "From Paris To Rio",
         "url": "https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 269000,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Green Grapes",
+        "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
+      },
+      "artists": [
+        {
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+        }
+      ],
+      "duration_ms": 224187,
+      "name": "Woodblock Print",
+      "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Sunset Martini",
-        "url": "https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb"
-      },
-      "artists": [
-        {
-          "name": "Magnus Ringblom Quartet",
-          "url": "https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru"
-        }
-      ],
-      "duration_ms": 222599,
-      "name": "Enjoy Your Cigar",
-      "url": "https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Bossa Nova For Beginners",
         "url": "https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Time Passing Slowly",
-        "url": "https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv"
+        "name": "Sunset Martini",
+        "url": "https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb"
       },
       "artists": [
         {
-          "name": "Southside Trio",
-          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
+          "name": "Magnus Ringblom Quartet",
+          "url": "https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Time Passing Slowly",
-      "url": "https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf"
+      "duration_ms": 222599,
+      "name": "Enjoy Your Cigar",
+      "url": "https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1299,6 +1283,22 @@
       "duration_ms": 210965,
       "name": "A Bossa for Love",
       "url": "https://open.spotify.com/track/2EQ3JTfKv0W4bfpwp7Q0N4"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Time Passing Slowly",
+        "url": "https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv"
+      },
+      "artists": [
+        {
+          "name": "Southside Trio",
+          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Time Passing Slowly",
+      "url": "https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Mestre Sala",
         "url": "https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p"
       },
@@ -1715,18 +1699,18 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Ondas Cintilantes",
-        "url": "https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A"
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
       },
       "artists": [
         {
-          "name": "Mabon Clarke Quartet",
-          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 178123,
-      "name": "Ondas Cintilantes",
-      "url": "https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm"
+      "duration_ms": 215160,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1743,6 +1727,22 @@
       "duration_ms": 190500,
       "name": "Florian\u00f3polis",
       "url": "https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Ondas Cintilantes",
+        "url": "https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "duration_ms": 178123,
+      "name": "Ondas Cintilantes",
+      "url": "https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Letters in the Sand",
+        "url": "https://open.spotify.com/album/1OPc6UzxatVaPBoTgzqJlv"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "duration_ms": 259670,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1Lp9cOpGyHm02KXRt4nr9G"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
@@ -1815,18 +1831,18 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Letters in the Sand",
-        "url": "https://open.spotify.com/album/1OPc6UzxatVaPBoTgzqJlv"
+        "name": "Your Laugh",
+        "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
       },
       "artists": [
         {
-          "name": "The Groove Trio",
-          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
         }
       ],
-      "duration_ms": 259670,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1Lp9cOpGyHm02KXRt4nr9G"
+      "duration_ms": 262673,
+      "name": "Your Laugh",
+      "url": "https://open.spotify.com/track/1AGKMyRXRV6io3TLzgioVL"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1903,22 +1919,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Your Laugh",
-        "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 262673,
-      "name": "Your Laugh",
-      "url": "https://open.spotify.com/track/1AGKMyRXRV6io3TLzgioVL"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "The Cole Porter Mix",
         "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
       },
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Grand Songs",
-        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "I Should Have Known Better",
-      "url": "https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Above the Clouds",
         "url": "https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 240072,
       "name": "Above the Clouds",
       "url": "https://open.spotify.com/track/3LScC8PsoWhfG3IvoQ0VoC"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Grand Songs",
+        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "I Should Have Known Better",
+      "url": "https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Nana",
-        "url": "https://open.spotify.com/album/7JXX0EsuHWnOweuAmeb484"
-      },
-      "artists": [
-        {
-          "name": "Marcio Philomena",
-          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
-        }
-      ],
-      "duration_ms": 273637,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/7hZgnIYynYjpYPQ5lcvUXm"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Leon Noel & Roy Altice",
         "url": "https://open.spotify.com/album/1pSdcWvO67Ey07XOjUiuV2"
       },
@@ -2099,6 +2083,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Nana",
+        "url": "https://open.spotify.com/album/7JXX0EsuHWnOweuAmeb484"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "duration_ms": 273637,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/7hZgnIYynYjpYPQ5lcvUXm"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Take Ten",
         "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
       },
@@ -2111,6 +2111,22 @@
       "duration_ms": 253133,
       "name": "The Theme from \"Black Orpheus\"",
       "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "I Lead With My Heart",
+        "url": "https://open.spotify.com/album/15zZ5BOFxosE8twXhNIOyq"
+      },
+      "artists": [
+        {
+          "name": "The Brehms",
+          "url": "https://open.spotify.com/artist/6MruOb7or9JyVL2MSkVlWQ"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "I Lead With My Heart",
+      "url": "https://open.spotify.com/track/2BP8KIRvEvjcIeS8YwiE0F"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2147,22 +2163,6 @@
       "duration_ms": 284133,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "I Lead With My Heart",
-        "url": "https://open.spotify.com/album/15zZ5BOFxosE8twXhNIOyq"
-      },
-      "artists": [
-        {
-          "name": "The Brehms",
-          "url": "https://open.spotify.com/artist/6MruOb7or9JyVL2MSkVlWQ"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "I Lead With My Heart",
-      "url": "https://open.spotify.com/track/2BP8KIRvEvjcIeS8YwiE0F"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Fim do ver\u00e3o",
+        "url": "https://open.spotify.com/album/5sofxaOfF8vLaLAvn9hlzN"
+      },
+      "artists": [
+        {
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+        }
+      ],
+      "duration_ms": 230591,
+      "name": "Fim do ver\u00e3o",
+      "url": "https://open.spotify.com/track/31wVCqF1fJTpgLPraYmQPg"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Scintilla",
         "url": "https://open.spotify.com/album/5NOen6G8sot5tYOayw7UbP"
       },
@@ -2275,22 +2291,6 @@
       "duration_ms": 229291,
       "name": "S\u00e3o Conrado",
       "url": "https://open.spotify.com/track/70J7CgwIIEGbG3Aks9Ub8q"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Fim do ver\u00e3o",
-        "url": "https://open.spotify.com/album/5sofxaOfF8vLaLAvn9hlzN"
-      },
-      "artists": [
-        {
-          "name": "da Su\u00e9cia",
-          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
-        }
-      ],
-      "duration_ms": 230591,
-      "name": "Fim do ver\u00e3o",
-      "url": "https://open.spotify.com/track/31wVCqF1fJTpgLPraYmQPg"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "Est\u00e1gio",
+        "url": "https://open.spotify.com/album/5YpDYJcj7TWf8mxWD0DlQk"
+      },
+      "artists": [
+        {
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+        }
+      ],
+      "duration_ms": 259655,
+      "name": "Est\u00e1gio",
+      "url": "https://open.spotify.com/track/2Z5CvWJ5kgga6l3g4WaTTL"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Bossa Antigua",
         "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT"
       },
@@ -2439,22 +2455,6 @@
       "duration_ms": 302133,
       "name": "Baubles, Bangles and Beads",
       "url": "https://open.spotify.com/track/1vVm7i0MsbvRSGaX9SkyP0"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "Est\u00e1gio",
-        "url": "https://open.spotify.com/album/5YpDYJcj7TWf8mxWD0DlQk"
-      },
-      "artists": [
-        {
-          "name": "da Su\u00e9cia",
-          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
-        }
-      ],
-      "duration_ms": 259655,
-      "name": "Est\u00e1gio",
-      "url": "https://open.spotify.com/track/2Z5CvWJ5kgga6l3g4WaTTL"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2527,18 +2527,18 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Blue Bossa",
-        "url": "https://open.spotify.com/album/6XF9UCkQSJoS581x2pdG81"
+        "name": "Recife",
+        "url": "https://open.spotify.com/album/1mbGLAaBeA2071AXPDbDcW"
       },
       "artists": [
         {
-          "name": "Ana Caram",
-          "url": "https://open.spotify.com/artist/6wo2wDOKUSRpTSB7c21DyV"
+          "name": "Stockholm Whereabouts",
+          "url": "https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18"
         }
       ],
-      "duration_ms": 267493,
-      "name": "Blue Bossa",
-      "url": "https://open.spotify.com/track/30C4zBKFkScobGBxIPCuS1"
+      "duration_ms": 222195,
+      "name": "Recife",
+      "url": "https://open.spotify.com/track/2it9eIySkoMPexLleyo2eE"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -2559,18 +2559,18 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Recife",
-        "url": "https://open.spotify.com/album/1mbGLAaBeA2071AXPDbDcW"
+        "name": "Blue Bossa",
+        "url": "https://open.spotify.com/album/6XF9UCkQSJoS581x2pdG81"
       },
       "artists": [
         {
-          "name": "Stockholm Whereabouts",
-          "url": "https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18"
+          "name": "Ana Caram",
+          "url": "https://open.spotify.com/artist/6wo2wDOKUSRpTSB7c21DyV"
         }
       ],
-      "duration_ms": 222195,
-      "name": "Recife",
-      "url": "https://open.spotify.com/track/2it9eIySkoMPexLleyo2eE"
+      "duration_ms": 267493,
+      "name": "Blue Bossa",
+      "url": "https://open.spotify.com/track/30C4zBKFkScobGBxIPCuS1"
     },
     {
       "added_at": "2023-09-22 00:01:00",

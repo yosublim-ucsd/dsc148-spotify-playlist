@@ -4,7 +4,7 @@
 
 > 祝・結成5周年！6人組エンタメユニット、すとぷりの音楽をプレイリストで！ Music from Japanese entertainment group, Strawberry prince! ©STPR Inc.
 
-123 songs - 7 hr 36 min
+124 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [すとろべりーはろうぃんないと](https://open.spotify.com/track/0Sa2Hbxhfg7ONlLUMDGmrQ) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーはろうぃんないと](https://open.spotify.com/album/0FXndYw7yRfRpo9VImWrTR) | 3:03 | 2022-01-11 | 2022-12-30 |
 | [だいよげん](https://open.spotify.com/track/4bV7sX5toVrQJIvamzkqam) | [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [だいよげん](https://open.spotify.com/album/3On5tKLgPhPwXIE7QREADq) | 4:39 | 2022-01-11 |  |
 | [でこぼこげーむぱーてぃー](https://open.spotify.com/track/6Wurqa9hoSLHlfpc8rjQNP) | [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q), [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 3:55 | 2022-01-11 | 2023-03-26 |
-| [ないしょのプレゼントフォーユー！](https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:26 | 2022-12-20 |  |
+| [ないしょのプレゼントフォーユー！](https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:26 | 2022-12-20 | 2023-09-27 |
 | [ねぇよな](https://open.spotify.com/track/12C4oYIdJTXb8EXapCVoqu) | [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [ねぇよな](https://open.spotify.com/album/2VAHzJjvtuPrVEUoiQ79no) | 2:15 | 2022-09-01 |  |
 | [はりーはりーらぶ](https://open.spotify.com/track/1TxIOOB16wgtqlZCzAHgpC) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:32 | 2022-01-11 |  |
 | [よくできました◎](https://open.spotify.com/track/08GTTjgTpip5yfZH5IBDbA) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L) | [タイムカプセル](https://open.spotify.com/album/6ZG2fGDSPwAkTZLHuU1BSA) | 4:23 | 2022-01-11 |  |
@@ -98,6 +98,7 @@
 | [レベリング](https://open.spotify.com/track/3mAaDYQQYpws04nkfxGC8T) | [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q), [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 4:12 | 2022-01-11 | 2022-12-25 |
 | [僕は雨に濡れた](https://open.spotify.com/track/5460KYRCtUxr9y5aUExEyG) | [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [僕は雨に濡れた](https://open.spotify.com/album/7i1aLkKF1UPJBCG85DpKqH) | 3:13 | 2022-01-11 |  |
 | [僕らだけのシャングリラ](https://open.spotify.com/track/5MBOUl4Cbn1YhdU135mjxO) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーらぶっ！](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 4:01 | 2022-01-11 |  |
+| [光](https://open.spotify.com/track/2NpI9ilNDgERJSpaUZ3bLP) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L) | [光](https://open.spotify.com/album/7IrRhiRNysEZt8W37HlvtH) | 4:06 | 2023-09-26 |  |
 | [千本桜](https://open.spotify.com/track/5w25VJ2bjvDBtKoKMR9ZYH) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [千本桜](https://open.spotify.com/album/6bS7VaPu5juDVoagjPOJts) | 4:03 | 2022-01-11 |  |
 | [向こうへ](https://open.spotify.com/track/6eHD3Ay0yRlqr9KgRlTNhh) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 4:06 | 2022-01-11 | 2022-12-21 |
 | [君と僕のストーリー \- Birthday Ver.](https://open.spotify.com/track/281eQz1w4dcWgaPWTU93a5) | [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [君と僕のストーリー \(Birthday Ver.\)](https://open.spotify.com/album/3FqqdgpB5is8oIgNPtd253) | 3:04 | 2022-01-11 | 2023-09-17 |

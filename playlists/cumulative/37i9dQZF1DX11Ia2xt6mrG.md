@@ -2,15 +2,16 @@
 
 ### [mint MX](https://open.spotify.com/playlist/37i9dQZF1DX11Ia2xt6mrG)
 
-> Descubre lo más fresco de la electrónica mexicana\. Mr Pig y Mario Bautista en portada.
+> Descubre lo más fresco de la electrónica mexicana\. Dannylux en portada.
 
-214 songs - 12 hr 14 min
+215 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Addicted](https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK) | [Iker Azcué](https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp) | [Addicted](https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw) | 2:46 | 2022-05-06 |  |
 | [Agua Pa Beber](https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Gerardo Varela](https://open.spotify.com/artist/57j86YiiRgUagdEIbJN1Ny) | [Agua Pa Beber](https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p) | 2:30 | 2022-05-06 |  |
 | [Amanece](https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Amanece](https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8) | 5:32 | 2022-12-16 |  |
+| [Amanecer](https://open.spotify.com/track/6hh3qOUupeGORRXwNJXmuL) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Amanecer](https://open.spotify.com/album/2dpoGIT0FH5ceESag6H3bi) | 3:05 | 2023-09-26 |  |
 | [Angel](https://open.spotify.com/track/15zIyFyJLwcoxxFYU2fT3I) | [LULÚ](https://open.spotify.com/artist/0WbhCU7N9haH6aBYhdqP8a), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF) | [Angel](https://open.spotify.com/album/0g0qRFGKy3XoZ3B0xCa1Zi) | 2:24 | 2022-05-06 | 2022-12-22 |
 | [Asteria](https://open.spotify.com/track/3vcmc3kheY2009Lt5p7giZ) | [Fortu & Mendoza](https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex), [Youth In Circles](https://open.spotify.com/artist/35FbwufKDprqJfq8Qnk31b) | [Asteria](https://open.spotify.com/album/18bTlhk9U5LR3TarabRiMf) | 4:15 | 2022-05-06 | 2022-07-27 |
 | [Ayanami](https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um) | [Seith](https://open.spotify.com/artist/0AX9fLjdqQxFjteGQcg3u2), [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [B Kush](https://open.spotify.com/artist/6i4990JfINe9bxVJjqJISS) | [Ayanami](https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR) | 2:27 | 2023-07-28 |  |

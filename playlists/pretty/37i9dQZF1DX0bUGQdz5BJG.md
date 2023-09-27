@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Alex Hall
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,024 likes - 208 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,046 likes - 208 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

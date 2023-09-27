@@ -4,15 +4,16 @@
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-55 songs - 5 hr 21 min
+56 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adam Nana](https://open.spotify.com/track/3HL6eViBoq5YO8Gpy4VSUc) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [Adam Nana](https://open.spotify.com/album/0BjeF6EHMtr9lLzicT1kVH) | 3:50 | 2023-04-06 |  |
-| [Adam Nana](https://open.spotify.com/track/5Gxp5gkwk5EOMKQSkqMlJE) | [Prof\. Kofi Abraham](https://open.spotify.com/artist/1Do8CxsUCJy7Clp0AM3rCI) | [Wahwe Meso](https://open.spotify.com/album/3sk306dDSoE4dA4KcVPxvl) | 4:58 | 2023-04-06 |  |
+| [Adam Nana](https://open.spotify.com/track/5Gxp5gkwk5EOMKQSkqMlJE) | [Prof\. Kofi Abraham](https://open.spotify.com/artist/1Do8CxsUCJy7Clp0AM3rCI) | [Wahwe Meso](https://open.spotify.com/album/3sk306dDSoE4dA4KcVPxvl) | 4:58 | 2023-04-06 | 2023-09-27 |
 | [Adehye Mogya](https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV) | [Anita Afriyie](https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5) | [My Testimony 2015 \- 2017](https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y) | 5:25 | 2023-04-06 |  |
 | [Aden Nti Na Woresu Yi\_](https://open.spotify.com/track/5j3jlCQ6gJl4hMLLwTNF7H) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [Holy Ghost](https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0) | 5:47 | 2023-04-06 | 2023-09-07 |
 | [ADOM BI](https://open.spotify.com/track/1265RZfD3yji9xZ123cFUL) | [No Tribe](https://open.spotify.com/artist/6ocbT2YYie059c1m8axmG1) | [The Altar](https://open.spotify.com/album/6aGS6hhyjFgwrO1voxYyk4) | 4:18 | 2023-04-06 | 2023-09-25 |
+| [Adom Bi](https://open.spotify.com/track/7Adr3j41euWMHJ47EN8vRu) | [No Tribe](https://open.spotify.com/artist/6ocbT2YYie059c1m8axmG1) | [The Altar](https://open.spotify.com/album/1eBrxx2OziOjo18leed5Zs) | 4:18 | 2023-04-06 |  |
 | [Afurumuba](https://open.spotify.com/track/2XQijOC2m8i0kCwP43quJj) | [Cecilia Marfo](https://open.spotify.com/artist/2ruygXlfagVfWzDhyNooZo) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:18 | 2023-04-06 |  |
 | [Agyenkwah](https://open.spotify.com/track/0Mo8oQn8ZjAhU8ftXjxrg7) | [Dsp Kofi Sarpong](https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el) | [My Saviour](https://open.spotify.com/album/5dDZ6d85Ak4mwjt5YUvwlC) | 5:31 | 2023-04-06 |  |
 | [Akokyem Nyame](https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 3:24 | 2023-04-06 |  |

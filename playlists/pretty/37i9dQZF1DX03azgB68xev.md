@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,582 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,613 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 56 | [Unashamed](https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [Unashamed](https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey) | 2:58 |
 | 57 | [Alive](https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:19 |
 | 58 | [Tempo](https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Tempo](https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh) | 2:58 |
-| 59 | [It's About Time](https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [It's About Time](https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy) | 2:54 |
-| 60 | [Never Too Far](https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Never Too Far](https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8) | 3:04 |
+| 59 | [Never Too Far](https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Never Too Far](https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8) | 3:04 |
+| 60 | [It's About Time](https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [It's About Time](https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy) | 2:54 |
 | 61 | [Searching For](https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Searching For](https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf) | 4:15 |
 | 62 | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF) | 4:21 |
 | 63 | [Jireh \- Reyer Remix](https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Esther Lisette](https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH) | [Jireh \(Reyer Remix\)](https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK) | 3:04 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 76 | [more like you](https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [more like you](https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J) | 3:17 |
 | 77 | [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 |
 | 78 | [Right With You](https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [In the Upper Room](https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC) | 2:46 |
-| 79 | [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 |
+| 79 | [Won't Stop \- Reyer Remix](https://open.spotify.com/track/5scmtvav3joe03DAihMTd6) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Won't Stop \(Reyer Remix\)](https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh) | 3:04 |
 | 80 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 |
 
 Snapshot ID: `MCxlOGRhYzk1OGJmZTNmZGYyZTk1Mzg0NGY0OGJhYzUzZGFlOWFkM2Nl`
