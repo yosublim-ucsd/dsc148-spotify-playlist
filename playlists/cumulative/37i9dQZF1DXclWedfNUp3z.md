@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-377 songs - 1 day 1 hr 52 min
+378 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 | 2022-08-31 | 2022-10-07 |
 | [Another Dream](https://open.spotify.com/track/6ZUTsxms7QYaG06q37VRZp) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 7:34 | 2021-11-24 | 2022-07-21 |
 | [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 | 2021-10-20 | 2023-04-06 |
-| [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 | 2022-11-17 |  |
+| [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 | 2022-11-17 | 2023-09-28 |
 | [august 31st](https://open.spotify.com/track/0GyrNTSvyue6oLkUHmiSKa) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [fragments](https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx) | 2:31 | 2021-10-20 |  |
 | [august 31st](https://open.spotify.com/track/52Fe6gIiBQlJSZChf85bCZ) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [august 31st](https://open.spotify.com/album/2aA9Uvevi3VkrpsVPnSkoU) | 2:31 | 2021-10-20 | 2022-07-29 |
 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 | 2021-10-20 | 2022-07-22 |
@@ -304,6 +304,7 @@
 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 | 2023-01-06 |  |
 | [Solar](https://open.spotify.com/track/4Mgq8E9ehbpUFAFxiEcwss) | [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee) | [Solar](https://open.spotify.com/album/0qIMW1UNQKG34F9eXtr2uD) | 4:10 | 2021-10-20 | 2022-07-26 |
 | [Solo, Op\. 1: No\. 1](https://open.spotify.com/track/2HCtyKgeht2LC7jXhywJ1s) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Solo, Op\. 1: No\. 1](https://open.spotify.com/album/1Zk5AG5bbR2S3nP4YLCo2u) | 2:40 | 2021-10-20 | 2022-07-29 |
+| [Solo, Op\. 1: No\. 1](https://open.spotify.com/track/2QNMea9rsz01sxiNPErdwd) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Solo, Op\. 1: No\. 1](https://open.spotify.com/album/61XTYqp8mi8ULHA6huHRAN) | 2:40 | 2021-10-20 |  |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2021-10-20 |  |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2SxhgBSJw4BULcHrCmFWw7) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Sometimes He's In My Dreams](https://open.spotify.com/album/4pZGZPG7oUqZm2vjHZsnhl) | 3:46 | 2021-10-20 | 2022-07-29 |
 | [Sometimes Yes](https://open.spotify.com/track/4fhgB8wxt9prBq0JxZqaJZ) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Sometimes Yes](https://open.spotify.com/album/1tvc9QVN4XSx9P014zjQpF) | 3:21 | 2021-10-20 | 2022-04-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Bertrand Chamayou
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,681 likes - 97 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,704 likes - 97 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 96 | [Piano Sonata No\. 3: II\. 'Moto perpetuo' \- Allegro molto e sempre tempo giusto](https://open.spotify.com/track/1d78HOagv61FD7Y9ExU3Po) | [Paul Henley](https://open.spotify.com/artist/3mqSNQ2CJIarI9TG0UOz3P), [Duncan Honeybourne](https://open.spotify.com/artist/0EWVTiMmGeJ7I4wymz5XST) | [Henley: Piano Works](https://open.spotify.com/album/413ZdOztg86KdCiX6UyYzZ) | 2:05 |
 | 97 | [Aux étoiles](https://open.spotify.com/track/1pLUlsr2aIBWzXjRkBZkpf) | [Henri Duparc](https://open.spotify.com/artist/3ceP0vCQkBmSKTvF6CsuOw), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Nikolaj Szeps\-Znaider](https://open.spotify.com/artist/7oQfBuTdOZF6OHNuz7hjKF) | [Aux étoiles](https://open.spotify.com/album/7pG3JjBdH10NaMX2pC3uAA) | 4:57 |
 
-Snapshot ID: `MCw1YWMwOGFjMzhmMjlmNTM0OTIzZTBmNTYwNGEwYWYyMDRiZmJlYjIw`
+Snapshot ID: `MCw4ZjRhODAwOWYwMGJhZWExYWY1YmZmYmI2YmI5Mzk0ZDc1NGY3N2Vh`

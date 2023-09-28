@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: BM & La Champions Liga.",
-  "num_followers": 560184,
+  "num_followers": 560327,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjJmNTA2OWNiNGY4ODQ2YjU0ZTU1MTI4MGNlODU2YTM0OTg5ODdk",
+  "snapshot_id": "MCwwMzRjNzMyZjQxMmIzN2UwYmU4YThkYzBjMjc5YmYwNzAxNGY4MWI5",
   "tracks": [
     {
       "added_at": "2023-09-22 03:00:00",
@@ -252,8 +252,8 @@
       },
       "artists": [
         {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+          "name": "Smk-2",
+          "url": "https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt"
         },
         {
           "name": "El Pepo",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Vicera, las Zapas",
-        "url": "https://open.spotify.com/album/7jYECg5W7BIF5sMksrqxoi"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Danilo Montana",
-          "url": "https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP"
-        }
-      ],
-      "duration_ms": 136808,
-      "name": "Vicera, las Zapas",
-      "url": "https://open.spotify.com/track/2i0SfKksuxxJkDehpyzxuu"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Batalla de los Dj Mixerzone",
         "url": "https://open.spotify.com/album/1J3PnGjU5bj5b02D87zzxQ"
       },
@@ -1651,6 +1631,26 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "Vicera, las Zapas",
+        "url": "https://open.spotify.com/album/7jYECg5W7BIF5sMksrqxoi"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Danilo Montana",
+          "url": "https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP"
+        }
+      ],
+      "duration_ms": 136808,
+      "name": "Vicera, las Zapas",
+      "url": "https://open.spotify.com/track/2i0SfKksuxxJkDehpyzxuu"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "La Gilera (Remix)",
         "url": "https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3"
       },
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Rompelo Ah\u00ed",
-        "url": "https://open.spotify.com/album/4J6M9C6Zs0Ae3GIhactWyt"
-      },
-      "artists": [
-        {
-          "name": "Los Nota Lokos",
-          "url": "https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ"
-        }
-      ],
-      "duration_ms": 153512,
-      "name": "Sexy Soltera",
-      "url": "https://open.spotify.com/track/3WZCUO10KxZp5XExAAmbd7"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/6ilkDJx9M7ppTKzFvs5tQx"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 134217,
       "name": "Hoy Ac\u00e1 en el Baile (Cara de Gitana) - Versi\u00f3n El Pepo",
       "url": "https://open.spotify.com/track/0GXohhvxGe7ehlH84YGBO5"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Rompelo Ah\u00ed",
+        "url": "https://open.spotify.com/album/4J6M9C6Zs0Ae3GIhactWyt"
+      },
+      "artists": [
+        {
+          "name": "Los Nota Lokos",
+          "url": "https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ"
+        }
+      ],
+      "duration_ms": 153512,
+      "name": "Sexy Soltera",
+      "url": "https://open.spotify.com/track/3WZCUO10KxZp5XExAAmbd7"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "Lo Peor",
-        "url": "https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "La Motito de Carlitos",
-      "url": "https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
         "name": "Rompe el Party (Remix)",
         "url": "https://open.spotify.com/album/1h6s34Zj3EstmoMgn3J4ZV"
       },
@@ -1795,6 +1779,38 @@
       "duration_ms": 207673,
       "name": "Rompe el Party (Remix)",
       "url": "https://open.spotify.com/track/0bpzKlI1oiRYp9UnK90qcV"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "El Aguardiente",
+        "url": "https://open.spotify.com/album/0c9jqeMgjQYucsRyVanPvF"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "duration_ms": 195982,
+      "name": "El Aguardiente",
+      "url": "https://open.spotify.com/track/6KSRhpNFsToQMGvFxN7Oam"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
+        "name": "Lo Peor",
+        "url": "https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "La Motito de Carlitos",
+      "url": "https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -1831,22 +1847,6 @@
       "duration_ms": 214120,
       "name": "Resaka",
       "url": "https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "El Aguardiente",
-        "url": "https://open.spotify.com/album/0c9jqeMgjQYucsRyVanPvF"
-      },
-      "artists": [
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        }
-      ],
-      "duration_ms": 195982,
-      "name": "El Aguardiente",
-      "url": "https://open.spotify.com/track/6KSRhpNFsToQMGvFxN7Oam"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
+        "name": "El Retutu",
+        "url": "https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e"
+      },
+      "artists": [
+        {
+          "name": "El Retutu",
+          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Acercate Bandida",
+      "url": "https://open.spotify.com/track/5qLueRsolYdRjdxVcclWLb"
+    },
+    {
+      "added_at": "2023-09-22 03:00:00",
+      "album": {
         "name": "Sin Ayuda",
         "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
       },
@@ -2239,18 +2255,18 @@
     {
       "added_at": "2023-09-22 03:00:00",
       "album": {
-        "name": "El Retutu",
-        "url": "https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e"
+        "name": "Puro Movimiento",
+        "url": "https://open.spotify.com/album/6D53J2Fx7FANdtNngTsWCi"
       },
       "artists": [
         {
-          "name": "El Retutu",
-          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
         }
       ],
-      "duration_ms": 202040,
-      "name": "Acercate Bandida",
-      "url": "https://open.spotify.com/track/5qLueRsolYdRjdxVcclWLb"
+      "duration_ms": 293041,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0VK2WShGGSlD8wCD9DSxup"
     },
     {
       "added_at": "2023-09-22 03:00:00",
@@ -2299,22 +2315,6 @@
       "duration_ms": 178604,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/0cBDwyo9iFsSd3i4RrcKaB"
-    },
-    {
-      "added_at": "2023-09-22 03:00:00",
-      "album": {
-        "name": "Puro Movimiento",
-        "url": "https://open.spotify.com/album/6D53J2Fx7FANdtNngTsWCi"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 293041,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0VK2WShGGSlD8wCD9DSxup"
     },
     {
       "added_at": "2023-09-22 03:00:00",

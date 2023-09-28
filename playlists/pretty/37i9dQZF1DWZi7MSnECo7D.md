@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: JP
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,064 likes - 69 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,041 likes - 69 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 68 | [O Mundo é meu país](https://open.spotify.com/track/7fb1In9kjArmHwfVNoeHT8) | [Ian Ramil](https://open.spotify.com/artist/0t85gIjpINwfmPaELM53NP) | [Tetein](https://open.spotify.com/album/1x4mw11lPdBD1O3pfTlygb) | 3:09 |
 | 69 | [Trabalhar na MTV](https://open.spotify.com/track/3gTjKo4KRxQoBnN3Xpbjs9) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp), [Pullovers](https://open.spotify.com/artist/1ZsvMFESteQsWl6wx4GXqE) | [Trabalhar na MTV](https://open.spotify.com/album/0ShffzuYbSIJGLovvcoPoX) | 2:18 |
 
-Snapshot ID: `MCxlZjgwMjcyNTdlOGIwYWVjZWE0YWE2MTBiOTkxZTdhMmRjYjIwNjVk`
+Snapshot ID: `MCwyZmFmOWYzOTRlZDdlM2Y5ZjAzYThlNDIxMjkyMWQzMzA0OTBiYzdm`

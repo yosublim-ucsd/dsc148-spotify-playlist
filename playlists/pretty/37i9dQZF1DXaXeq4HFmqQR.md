@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paula Rivas.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,710 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,719 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 21 | [Dame Luz](https://open.spotify.com/track/6SCiGD1ztcfEu7tPaUI027) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Grandes Exitos](https://open.spotify.com/album/6CfjsKzo1t08s1GbM0s5DV) | 4:58 |
 | 22 | [Me Enamore De Mi](https://open.spotify.com/track/5Ollqs3igkGH8yxiAyCjj1) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Todas Seremos Reinas](https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd) | 2:48 |
 | 23 | [Doncella](https://open.spotify.com/track/20HsMGWCEbTCCpqBriaaSK) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Doncella](https://open.spotify.com/album/7DRvyobzwi9UOhFAagwe6D) | 3:34 |
-| 24 | [Cartas Marcadas](https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb) | [Guadalupe del Carmen](https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN) | [La Gran Fonda de Chile](https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O) | 3:26 |
-| 25 | [Cómo Voy a Renunciar a Ti](https://open.spotify.com/track/2RZKss79TnsQXTzxXvXJLv) | [Cecilia Echenique](https://open.spotify.com/artist/1aaJCccvrYoJQid1P4MSRY) | [El Amor Existe Aún](https://open.spotify.com/album/6Xp1xglTVJn57Ia8euOBF0) | 4:13 |
+| 24 | [Cómo Voy a Renunciar a Ti](https://open.spotify.com/track/2RZKss79TnsQXTzxXvXJLv) | [Cecilia Echenique](https://open.spotify.com/artist/1aaJCccvrYoJQid1P4MSRY) | [El Amor Existe Aún](https://open.spotify.com/album/6Xp1xglTVJn57Ia8euOBF0) | 4:13 |
+| 25 | [Cartas Marcadas](https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb) | [Guadalupe del Carmen](https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN) | [La Gran Fonda de Chile](https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O) | 3:26 |
 | 26 | [Si Te Volvieras Real](https://open.spotify.com/track/4qeQ2gEhB8zz8zyU3Uo6gz) | [Andrea Labarca](https://open.spotify.com/artist/5sHK6Fs9yxvTkYJhHnykTK) | [Andrea Labarca](https://open.spotify.com/album/7iqFva1GftiB41jKOXcJfn) | 5:02 |
 | 27 | [Aprendí De Ti](https://open.spotify.com/track/1734yg0bzf4SyRTrE61l6o) | [Soledad Guerrero](https://open.spotify.com/artist/2mC6OvTH4wDXUVYofwCrki) | [Soledad](https://open.spotify.com/album/7EY7Z13sJfpKBrWnrttzvx) | 3:50 |
 | 28 | [Matorrales](https://open.spotify.com/track/4Ps9r2oTq5c60edB1Pj0sn) | [La Guacha](https://open.spotify.com/artist/1XjMUgVvJTqba3Cvsbw1zi) | [Fácil](https://open.spotify.com/album/4NYS5h8qs6oZOwylo3OVBT) | 2:52 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 39 | [De los Besos Que Te Di](https://open.spotify.com/track/1qIUpOaSxn7IMbq8s6I7H5) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [Me Vale Madre](https://open.spotify.com/album/7ImqonYsJXJvaxDEA1sUCP) | 2:43 |
 | 40 | [No Me Enamores](https://open.spotify.com/track/4Fz1v6DZnUMnyBIrZlo88M) | [Andrea Labarca](https://open.spotify.com/artist/5sHK6Fs9yxvTkYJhHnykTK) | [Estigmas](https://open.spotify.com/album/2rtqkWVRddL8PmgbbLRRh3) | 4:10 |
 | 41 | [Era mi vida él](https://open.spotify.com/track/54sVlCNFkOg0u3YurAHKo2) | [Carolina Soto](https://open.spotify.com/artist/3Hbnc3QWx5yUHmwMyrT1Uj) | [Tributo a Isabel Pantoja](https://open.spotify.com/album/5WZe9tBnepIFKgTF5rhevN) | 3:52 |
-| 42 | [El Muñeco](https://open.spotify.com/track/4kF0X4hYbiiJrl5J79qxQx) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [Aquí Comienza Nuestra Historia](https://open.spotify.com/album/0VD7iwPecnytsRxk4JUaAU) | 3:58 |
-| 43 | [Poderosa Mariachi](https://open.spotify.com/track/5fthkSnpN5mTRjP6gl2z0K) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Poderosa Mariachi](https://open.spotify.com/album/7cum7Bx6TsU8ea1teFk569) | 3:32 |
+| 42 | [Poderosa Mariachi](https://open.spotify.com/track/5fthkSnpN5mTRjP6gl2z0K) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Poderosa Mariachi](https://open.spotify.com/album/7cum7Bx6TsU8ea1teFk569) | 3:32 |
+| 43 | [El Muñeco](https://open.spotify.com/track/4kF0X4hYbiiJrl5J79qxQx) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [Aquí Comienza Nuestra Historia](https://open.spotify.com/album/0VD7iwPecnytsRxk4JUaAU) | 3:58 |
 | 44 | [Qué Se Quede Contigo \(Remix\)](https://open.spotify.com/track/5j8TF64WTgkQxiEMiEdZkt) | [Reina Isabel](https://open.spotify.com/artist/6w67n5aSfExuuvgE4CBSru) | [Qué Se Quede Contigo \(Remix\)](https://open.spotify.com/album/53ozGH4W65mVOisTMK419s) | 2:27 |
 | 45 | [Estabas Ahí](https://open.spotify.com/track/27dh77ARViIpPL0Om53dKU) | [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Estabas Ahí](https://open.spotify.com/album/0YU3M1COCndvvYbpWwMoo1) | 3:27 |
 | 46 | [Fiesta de Arreboles](https://open.spotify.com/track/0uPbXn4yt2KdswEb1ShChO) | [La Culebrera](https://open.spotify.com/artist/6Lq6dDbzgmYt6BUtu8rdhW) | [Todos Vamos a Morir](https://open.spotify.com/album/3MPk4nmLplRdQgeaFy3hN3) | 3:30 |
 | 47 | [Julita la Buenita](https://open.spotify.com/track/1xsCZ7PZWbx8Ps8YpDZ5K3) | [Soledad Guerrero](https://open.spotify.com/artist/2mC6OvTH4wDXUVYofwCrki) | [Julita la Buenita](https://open.spotify.com/album/3TRgCkLlbpeZZq9jrNA88Q) | 3:44 |
 | 48 | [Metiendo tela y sacando tela](https://open.spotify.com/track/4LqzoBWvTQrXDUXHofb10Y) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [Metiendo tela y sacando tela](https://open.spotify.com/album/6zIElqIk70kLho7zQ1ZZ3T) | 2:51 |
-| 49 | [Brindemos por Ellos](https://open.spotify.com/track/7G8iKkndVdVZyVdS4Fz1cV) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [Aquí Comienza Nuestra Historia](https://open.spotify.com/album/0VD7iwPecnytsRxk4JUaAU) | 2:37 |
+| 49 | [Demencia por Amor](https://open.spotify.com/track/0HVTRu8tQNY1NpMLOeYY2s) | [Cecilia Echenique](https://open.spotify.com/artist/1aaJCccvrYoJQid1P4MSRY) | [Demencia por Amor](https://open.spotify.com/album/3s1mZseI3Qt1ekDMvIB3fF) | 2:43 |
 | 50 | [Mi Castigo](https://open.spotify.com/track/2F2zaebtZq4UGv1b41Np0E) | [Carolina Soto](https://open.spotify.com/artist/3Hbnc3QWx5yUHmwMyrT1Uj), [SCD](https://open.spotify.com/artist/3RNW1BijjM21MXFDIca2nJ) | [Mi Castigo](https://open.spotify.com/album/05PUE0TzRIIyz0SgwRiwYK) | 3:00 |
 
-Snapshot ID: `MCwzY2U1ZDI5N2FlM2Y1ZmM1NTYyZGIyNWRmMDRhOTU3Njg3NWE4NzM2`
+Snapshot ID: `MCwxYTE2M2U1MGMwMDc4MjFmYmQ4YWM0YjhjMjkzMzk1MDYxZjc2YzU5`

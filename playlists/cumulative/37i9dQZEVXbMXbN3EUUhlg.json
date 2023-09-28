@@ -10857,6 +10857,28 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Deixa Eu Saber",
+        "url": "https://open.spotify.com/album/4VLUQTD9p8yXgqnS8oBqN3"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185529,
+      "name": "N\u00e3o Deixa Eu Saber",
+      "url": "https://open.spotify.com/track/4C1zrTdEYE55CfWuYlYZ28"
+    },
+    {
+      "album": {
         "name": "Decretos Reais, Vol.1",
         "url": "https://open.spotify.com/album/24aslPrdihuSQ59jrB2eBB"
       },
@@ -11904,7 +11926,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 173228,
       "name": "Penhasco2",
       "url": "https://open.spotify.com/track/0t5cfOZxePTvuYXTywHzjH"

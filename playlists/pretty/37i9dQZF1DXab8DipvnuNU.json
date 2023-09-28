@@ -1,12 +1,12 @@
 {
   "description": "Curated by Bun B.",
-  "num_followers": 17793,
+  "num_followers": 17808,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmQ2NTVlZGQ0ZmIyYjgwZDExNjljMDZiZDhmMGE5MjFhYzRlNWMw",
+  "snapshot_id": "MCwyZGZjMmE3ZWFlNWM3YWFhOWNlZTFlYzFjZTk0ZDlkYjhiYmRlNjAw",
   "tracks": [
     {
       "added_at": "2023-08-30 19:30:34",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "Eazy-Duz-It",
         "url": "https://open.spotify.com/album/2glPhGd3WXbnNttSdOOr2e"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 379733,
       "name": "Boyz-N-The-Hood - Remix",
       "url": "https://open.spotify.com/track/3JdyhQORbJkCWT8xfLd8gD"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -599,30 +599,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "When the Smoke Clears: Sixty 6, Sixty 1",
-        "url": "https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI"
-      },
-      "artists": [
-        {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
-        },
-        {
-          "name": "UGK",
-          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        }
-      ],
-      "duration_ms": 261972,
-      "name": "Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)",
-      "url": "https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/6Xu470gdLgDOnFDj5qND1N"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 212146,
       "name": "Slow Jamz (feat. Kanye West & Jamie Foxx)",
       "url": "https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "When the Smoke Clears: Sixty 6, Sixty 1",
+        "url": "https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 261972,
+      "name": "Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)",
+      "url": "https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 320906,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "Warriorz",
         "url": "https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 248693,
       "name": "Ante Up (Robbin Hoodz Theory)",
       "url": "https://open.spotify.com/track/550JPXXPgjr1xqxtKIaX6b"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "Hard Core",
-        "url": "https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT"
-      },
-      "artists": [
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "Crush on You",
-      "url": "https://open.spotify.com/track/1bb6bROP3OXMHcPw84MtmN"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "Real Talk (123)",
         "url": "https://open.spotify.com/album/0852dsZQyLOGmvotlvOvoA"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 268960,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/7fuoqve1SOEBmhc2PoQTF0"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "Hard Core",
+        "url": "https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "duration_ms": 275640,
+      "name": "Crush on You",
+      "url": "https://open.spotify.com/track/1bb6bROP3OXMHcPw84MtmN"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -1347,26 +1347,18 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "From Coast To Coast",
-        "url": "https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx"
+        "name": "Don't Mess Wit Texas",
+        "url": "https://open.spotify.com/album/7zys39FMYPFyJkob8RYzJN"
       },
       "artists": [
         {
           "name": "Lil' Keke",
           "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
-        },
-        {
-          "name": "Fat Pat",
-          "url": "https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh"
-        },
-        {
-          "name": "DJ DMD",
-          "url": "https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL"
         }
       ],
-      "duration_ms": 287813,
-      "name": "25 Lighters",
-      "url": "https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG"
+      "duration_ms": 290120,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/7kkOuhyWcINZMDh4QGVyMB"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -1463,18 +1455,26 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "Don't Mess Wit Texas",
-        "url": "https://open.spotify.com/album/7zys39FMYPFyJkob8RYzJN"
+        "name": "From Coast To Coast",
+        "url": "https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx"
       },
       "artists": [
         {
           "name": "Lil' Keke",
           "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "name": "Fat Pat",
+          "url": "https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh"
+        },
+        {
+          "name": "DJ DMD",
+          "url": "https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL"
         }
       ],
-      "duration_ms": 290120,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/7kkOuhyWcINZMDh4QGVyMB"
+      "duration_ms": 287813,
+      "name": "25 Lighters",
+      "url": "https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "Somethin' Serious",
-        "url": "https://open.spotify.com/album/3huqsj2zWgtPUyktVpiKTz"
-      },
-      "artists": [
-        {
-          "name": "Big Mike",
-          "url": "https://open.spotify.com/artist/0nrUyKsdgzlKT6KpTcPhjA"
-        }
-      ],
-      "duration_ms": 288600,
-      "name": "Playa Playa",
-      "url": "https://open.spotify.com/track/7CxusEnUGQzaHZZVoxurYQ"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2VDtVEMfew8ClknPjdax3x"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 231746,
       "name": "Back Back",
       "url": "https://open.spotify.com/track/619cZyZyQK29YAb9IZGW02"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "Somethin' Serious",
+        "url": "https://open.spotify.com/album/3huqsj2zWgtPUyktVpiKTz"
+      },
+      "artists": [
+        {
+          "name": "Big Mike",
+          "url": "https://open.spotify.com/artist/0nrUyKsdgzlKT6KpTcPhjA"
+        }
+      ],
+      "duration_ms": 288600,
+      "name": "Playa Playa",
+      "url": "https://open.spotify.com/track/7CxusEnUGQzaHZZVoxurYQ"
     },
     {
       "added_at": "2023-08-30 19:30:34",

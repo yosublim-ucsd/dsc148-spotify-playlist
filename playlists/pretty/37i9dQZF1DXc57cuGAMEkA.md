@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Doja Cat, B'z, OneRepublic, Alok, Cardi B,  and more! Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,955 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,995 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 23 | [mcdonald'snocoffe](https://open.spotify.com/track/1F8AuzoFUXGFWTQIWSHqsS) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [mcdonald'snocoffe](https://open.spotify.com/album/4M3ngfQqV6Ic26QynJddEF) | 3:14 |
 | 24 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 |
 | 25 | [BLACK MOONLIGHT](https://open.spotify.com/track/6Puhv2Iw9K8A3rkpxr4Dsz) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [BLACK MOONLIGHT](https://open.spotify.com/album/7LVCjmDfqcVAWg74kQ0Qwr) | 3:06 |
-| 26 | [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 |
+| 26 | [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 |
 | 27 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 |
 | 28 | [Treat Me Like A Ho](https://open.spotify.com/track/5b67O08sN2itkQPsNmafPx) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 1:55 |
 | 29 | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/0Q4tlx5e1q5IJl44nb49rv) | 2:53 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 68 | [Let Me Love You](https://open.spotify.com/track/1wuLKsmd4e8UwKb5T1Ss2n) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Let Me Love You](https://open.spotify.com/album/3tFfD8hmcjfKCjfFZjR3Lp) | 2:27 |
 | 69 | [You Played Me](https://open.spotify.com/track/7CP6j7plNRRhNbp30E2erI) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [You Played Me](https://open.spotify.com/album/0um8cxdORhdmMWQsa7zMC2) | 3:28 |
 | 70 | [Keep Me In The Dark \(feat\. Natalie Duncan\) \- Single Edit](https://open.spotify.com/track/1sg4h7CvBBgBQ34a8qgh7h) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Natalie Duncan](https://open.spotify.com/artist/65eubtDer52NpLfG8p1Ehr) | [Keep Me In The Dark \(feat\. Natalie Duncan\)](https://open.spotify.com/album/455dEy49XNZisjQxzgerxW) | 3:44 |
-| 71 | [Pick it Up \(feat\. Jacquees\)](https://open.spotify.com/track/10rJH6BggTxh7esR2Hvpbd) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Pick it Up \(feat\. Jacquees\)](https://open.spotify.com/album/6hVfd2o9FBBrzSVkZ3wHdO) | 2:41 |
+| 71 | [Pick it Up](https://open.spotify.com/track/10rJH6BggTxh7esR2Hvpbd) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Pick it Up](https://open.spotify.com/album/6hVfd2o9FBBrzSVkZ3wHdO) | 2:41 |
 | 72 | [HIT IT \(feat\. Big Boss Vette\)](https://open.spotify.com/track/3L4MXGjeHH1zdD1zOKkt0Q) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33), [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [HIT IT \(feat\. Big Boss Vette\)](https://open.spotify.com/album/4Zht36G6ZfWgmbtoJ6eTHF) | 2:22 |
 | 73 | [MOMENT](https://open.spotify.com/track/4Pnb0qA8DLwFxB2yU95uWl) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R) | [MOMENT](https://open.spotify.com/album/30B59RcwXiGlk4CH6asZy2) | 2:12 |
 | 74 | [Holy Toast](https://open.spotify.com/track/3DBPSo3h99XWiVrIJ8GNXD) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Holy Toast](https://open.spotify.com/album/7sa0Q70GxJXv8iIRmu37cw) | 3:02 |
 | 75 | [Fireflies](https://open.spotify.com/track/2IvIUND7ZGjPftDyOYAWJ9) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:51 |
 
-Snapshot ID: `MCxlYmYzNmQ0NGU0ZGU5MjdiMWI3ZWMxZGVlNzMzZmVlMWE4NjM0Yjhm`
+Snapshot ID: `MCxmMTUzMTRmZWI4NDk0MWQ0YmExNzMwMmZhYWQ3MWEzODdjY2VmNDEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,418 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,420 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 18 | [Milenberg Joys](https://open.spotify.com/track/0XVHUN98T5As7UgtEM4bQG) | [Firehouse Five Plus Two](https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg) | [Goes South!](https://open.spotify.com/album/4e7OZWSm43uGotnZ4Js8lc) | 3:40 |
 | 19 | [When My Sugar Walks Down The Street](https://open.spotify.com/track/778SCkNfo4MyNQyB4H0fXb) | [Turk Murphy](https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM) | [Favorites](https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES) | 2:44 |
 | 20 | [Maple Leaf Rag](https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf) | [Sidney Bechet and his New Orleans Feetwarmers](https://open.spotify.com/artist/4j5ECARHCq8ahpuWM97KS5) | [The Essential Sidney Bechet](https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA) | 2:53 |
-| 21 | [Frankie & Johnny](https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [That's A Plenty](https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx) | 3:47 |
+| 21 | [Stock Yards Strut](https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7) | [Freddie Keppard](https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ) | [The Complete Set \- 1923\-1926](https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR) | 2:33 |
 | 22 | [Wolverine Blues](https://open.spotify.com/track/37VAo2JMwa5ZC1S8ePWt76) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [The Best Of The Dukes Of Dixieland \(Formerly Titled : The Dukes Of Disneyland\)](https://open.spotify.com/album/22YuEc5U4KScFU7RiXDuCg) | 6:29 |
-| 23 | [Stock Yards Strut](https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7) | [Freddie Keppard](https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ) | [The Complete Set \- 1923\-1926](https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR) | 2:33 |
+| 23 | [Frankie & Johnny](https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [That's A Plenty](https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx) | 3:47 |
 | 24 | [South Rampart Street Parade](https://open.spotify.com/track/1iz1K5LJL5FpXAUGXNAIQE) | [Bob Crosby & His Orchestra](https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4) | [South Rampart Street Parade](https://open.spotify.com/album/6ZlaNBrehRvuDtOb9mXVG1) | 3:33 |
 | 25 | [There Is a Tavern in the Town](https://open.spotify.com/track/2p5CwEAle0quZEownXxEu1) | [The Dixieland All Stars](https://open.spotify.com/artist/5F3AMgFU3r77TapncUH7Tb) | [Dixieland Jubilee](https://open.spotify.com/album/0jWy8Z5C5iAYDEMFS0Q6Z8) | 3:47 |
 | 26 | [Ballin' The Jack](https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [The Fabulous Sidney Bechet](https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS) | 3:52 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Jazz Me Blues](https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Pete Fountain Presents The Best Of Dixieland: Al Hirt](https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE) | 3:33 |
 | 55 | [Semper Fidelis](https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [4th of July Parade: 30 Patriotic Marches for Independence Day](https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj) | 3:09 |
 
-Snapshot ID: `MCwyMDdkNjhhZGRlOGMzYWVmOTlhYmI1YTE4ODA5NjA3YWNjZGVlNjYx`
+Snapshot ID: `MCw3YjY0ODczNjI4ZjQzN2VlYTQxOTI1MjlmMTNlNmVkMmMyYjE2NDc4`

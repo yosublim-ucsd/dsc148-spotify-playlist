@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 190344,
       "name": "99 Problemas",
       "url": "https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 115992,
       "name": "Ai Que Delicia o Ver\u00e3o",
       "url": "https://open.spotify.com/track/4Tf8I1nZMEwpu2G5UuPJvF"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 200156,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 129776,
       "name": "Automotivo Bibi Fogosa",
       "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 305666,
       "name": "Bandoleros",
       "url": "https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 164307,
       "name": "Barbie de Chap\u00e9u",
       "url": "https://open.spotify.com/track/4gPTuFFq4wt2aqAjJzXA5a"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 226476,
       "name": "Cad\u00ea Seu Namorado Mo\u00e7a?",
       "url": "https://open.spotify.com/track/6F0ldIcRC6oCcn3hDukg9T"
@@ -2748,7 +2748,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 83156,
       "name": "Ela Sabe Que \u00c9 o Henry N\u00e9?",
       "url": "https://open.spotify.com/track/3Er8so9d9DSxhgOF5Bcgc3"
@@ -3984,7 +3984,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 147777,
       "name": "Indom\u00e1vel",
       "url": "https://open.spotify.com/track/0lZp0muwBhwatS2psDYezn"
@@ -4391,6 +4391,64 @@
     },
     {
       "album": {
+        "name": "Let's Go 4",
+        "url": "https://open.spotify.com/album/5bL1JfGehas80YH7qoCyBL"
+      },
+      "artists": [
+        {
+          "name": "Dj GBR",
+          "url": "https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC GH do 7",
+          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 641941,
+      "name": "Let's Go 4",
+      "url": "https://open.spotify.com/track/2InS5VWKJQbsFBKOsf1cJB"
+    },
+    {
+      "album": {
         "name": "Let\u00b4s Go 4",
         "url": "https://open.spotify.com/album/4OvtSRAQWxnLMxgD2o3KOq"
       },
@@ -4712,7 +4770,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 131318,
       "name": "Macho Preferido",
       "url": "https://open.spotify.com/track/4D4yBfKqS2aBblJyVlpA7i"
@@ -4826,7 +4884,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 138715,
       "name": "Manda \u00c1udio",
       "url": "https://open.spotify.com/track/106v1J8uUOsa6Q0pAcxsKr"
@@ -4914,7 +4972,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 183652,
       "name": "Mas Existe um Lugar - Remix",
       "url": "https://open.spotify.com/track/4FKHFcKf0wmowGWbvfLrTn"
@@ -5988,7 +6046,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 112500,
       "name": "O BAGULHO MUDOU MULTIPLICOU",
       "url": "https://open.spotify.com/track/72FMy7t0w5aTGnm8yeX4Fn"
@@ -6414,7 +6472,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 143283,
       "name": "Paladar Infantil",
       "url": "https://open.spotify.com/track/2CzIoSG4eDkstyTiXzjryy"
@@ -7042,7 +7100,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 172875,
       "name": "Preto Demais",
       "url": "https://open.spotify.com/track/0SqExyvgUPTawKsVM2SZoP"
@@ -7360,7 +7418,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 121287,
       "name": "RITMO BRUTALISMO - Sped Up",
       "url": "https://open.spotify.com/track/1uCDg9WDXzG5j1tVqnFNBR"
@@ -7966,7 +8024,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 117500,
       "name": "Solta Minha Blusa",
       "url": "https://open.spotify.com/track/5i91iDdOjC7sexvXV3MlRc"
@@ -9476,7 +9534,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 288764,
       "name": "Wonderful Pagode Rmx",
       "url": "https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4"
@@ -9664,6 +9722,32 @@
       "duration_ms": 142151,
       "name": "Zona De Perigo",
       "url": "https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Tes\u00e3o ou \u00c9 Amor",
+        "url": "https://open.spotify.com/album/6yimbyJdwJgL4bKA8MfS1s"
+      },
+      "artists": [
+        {
+          "name": "cjnobeat",
+          "url": "https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM"
+        },
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158091,
+      "name": "\u00c9 Tes\u00e3o ou \u00c9 Amor",
+      "url": "https://open.spotify.com/track/19TnKf5YHapfrI1FJjbx8i"
     },
     {
       "album": {

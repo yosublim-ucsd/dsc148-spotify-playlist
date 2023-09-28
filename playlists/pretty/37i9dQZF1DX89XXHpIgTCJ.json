@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 282573,
+  "num_followers": 283019,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGQxMDIyNGM0ZmNkZDUwNzc3Nzc1YjQ1Y2E1Y2Y4ZGIzZmI4ZDY5",
+  "snapshot_id": "MCxhOWZiZTYxNzRjNjgzZWU0NjM0YzhmMGIzZTkzNGVkYjk4NTY0OWQx",
   "tracks": [
     {
       "added_at": "2023-07-25 11:59:13",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-07-25 11:59:13",
       "album": {
-        "name": "Bad Vibes Forever",
-        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 151683,
-      "name": "IT'S ALL FADING TO BLACK (feat. blink-182)",
-      "url": "https://open.spotify.com/track/0R6dvBlNevqkzioHLoygbI"
-    },
-    {
-      "added_at": "2023-07-25 11:59:13",
-      "album": {
         "name": "Run the Jewels 2",
         "url": "https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 234160,
       "name": "Close Your Eyes (And Count to Fuck)",
       "url": "https://open.spotify.com/track/3RlurnnuVkVbaN6lul4136"
+    },
+    {
+      "added_at": "2023-07-25 11:59:13",
+      "album": {
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 151683,
+      "name": "IT'S ALL FADING TO BLACK (feat. blink-182)",
+      "url": "https://open.spotify.com/track/0R6dvBlNevqkzioHLoygbI"
     },
     {
       "added_at": "2023-07-25 11:59:13",

@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.",
-  "num_followers": 310461,
+  "num_followers": 310771,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjM2ZjM4ZTlkOTIyMjdmZmFiMzdkMDE2MjZhOGNhMjAyYTMzYTk1",
+  "snapshot_id": "MCwyZmZkMDU4ZWFiNWQyNDgxMTE3ZGRmYzUwZDNhZjhjOGJmN2E5Nzg2",
   "tracks": [
     {
       "added_at": "2023-09-25 15:02:22",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-09-25 15:02:22",
       "album": {
+        "name": "A Casa \u00c9 Sua",
+        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 346697,
+      "name": "Eu Te Vejo Em Tudo",
+      "url": "https://open.spotify.com/track/7DWmnmZJicTPIxoZb0m9Go"
+    },
+    {
+      "added_at": "2023-09-25 15:02:22",
+      "album": {
         "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us (Ao Vivo)",
         "url": "https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 454133,
       "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us - Ao Vivo",
       "url": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl"
-    },
-    {
-      "added_at": "2023-09-25 15:02:22",
-      "album": {
-        "name": "A Casa \u00c9 Sua",
-        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 346697,
-      "name": "Eu Te Vejo Em Tudo",
-      "url": "https://open.spotify.com/track/7DWmnmZJicTPIxoZb0m9Go"
     },
     {
       "added_at": "2023-09-25 15:02:22",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-09-25 15:02:22",
       "album": {
-        "name": "Saudade, Vol. 1",
-        "url": "https://open.spotify.com/album/7AJY52qnMHN6z1xn1F0isE"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 220616,
-      "name": "Mesmo Sem Entender",
-      "url": "https://open.spotify.com/track/5A2PGUJvo4euS7n6Bu6C9u"
-    },
-    {
-      "added_at": "2023-09-25 15:02:22",
-      "album": {
         "name": "Yahweh Se Manifestar\u00e1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6PkqqM3tz6lQCyWTqTvh7f"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 472000,
       "name": "Yahweh Se Manifestar\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/7C6jN12e3k2weyxSDtmpj3"
+    },
+    {
+      "added_at": "2023-09-25 15:02:22",
+      "album": {
+        "name": "Saudade, Vol. 1",
+        "url": "https://open.spotify.com/album/7AJY52qnMHN6z1xn1F0isE"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 220616,
+      "name": "Mesmo Sem Entender",
+      "url": "https://open.spotify.com/track/5A2PGUJvo4euS7n6Bu6C9u"
     },
     {
       "added_at": "2023-09-25 15:02:22",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-09-25 15:02:22",
       "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 259691,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
-    },
-    {
-      "added_at": "2023-09-25 15:02:22",
-      "album": {
         "name": "Eis-me Aqui (Ao Vivo)",
         "url": "https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 459230,
       "name": "Eis-me Aqui - Ao Vivo",
       "url": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE"
+    },
+    {
+      "added_at": "2023-09-25 15:02:22",
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 259691,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
     },
     {
       "added_at": "2023-09-25 15:02:22",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-25 15:02:22",
       "album": {
-        "name": "N\u00e3o Acabou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 315556,
-      "name": "N\u00e3o Acabou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
-    },
-    {
-      "added_at": "2023-09-25 15:02:22",
-      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 197800,
       "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
       "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
+    },
+    {
+      "added_at": "2023-09-25 15:02:22",
+      "album": {
+        "name": "N\u00e3o Acabou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 315556,
+      "name": "N\u00e3o Acabou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
     },
     {
       "added_at": "2023-09-25 15:02:22",
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2023-09-25 15:02:22",
       "album": {
-        "name": "Bondade De Deus",
-        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
+        "name": "Pode Morar Aqui (feat. Alessandro Vilas Boas) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0mCox5GE2UX2tVdXwxBoYw"
       },
       "artists": [
         {
-          "name": "Pedras Vivas",
-          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
+        {
+          "name": "Alessandro Vilas Boas",
+          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
         }
       ],
-      "duration_ms": 295714,
-      "name": "Bondade De Deus",
-      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
+      "duration_ms": 590911,
+      "name": "Pode Morar Aqui (feat. Alessandro Vilas Boas) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7qEactOYoRIZZAbHB0iza9"
     },
     {
       "added_at": "2023-09-25 15:02:22",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2023-09-25 15:02:22",
       "album": {
-        "name": "Pode Morar Aqui (feat. Alessandro Vilas Boas) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/0mCox5GE2UX2tVdXwxBoYw"
+        "name": "Bondade De Deus",
+        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
       },
       "artists": [
         {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        },
-        {
-          "name": "Alessandro Vilas Boas",
-          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
+          "name": "Pedras Vivas",
+          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
         }
       ],
-      "duration_ms": 590911,
-      "name": "Pode Morar Aqui (feat. Alessandro Vilas Boas) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7qEactOYoRIZZAbHB0iza9"
+      "duration_ms": 295714,
+      "name": "Bondade De Deus",
+      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
     },
     {
       "added_at": "2023-09-25 15:02:22",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-09-25 15:02:22",
       "album": {
+        "name": "O Nome de Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 528693,
+      "name": "O Nome de Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
+    },
+    {
+      "added_at": "2023-09-25 15:02:22",
+      "album": {
         "name": "Eu Sou Livre",
         "url": "https://open.spotify.com/album/23O2Sf7BGe62TzjYdVP8wu"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 302834,
       "name": "Meu Universo",
       "url": "https://open.spotify.com/track/7abLLSsnvZUTnts7L0Ud3m"
-    },
-    {
-      "added_at": "2023-09-25 15:02:22",
-      "album": {
-        "name": "Pintor do Mundo",
-        "url": "https://open.spotify.com/album/6GjoyvpMj60P25HXcyPs0q"
-      },
-      "artists": [
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        }
-      ],
-      "duration_ms": 291317,
-      "name": "Pintor do Mundo",
-      "url": "https://open.spotify.com/track/3Xu39iqbrhEkzGwMNeGKRL"
     },
     {
       "added_at": "2023-09-25 15:02:22",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-09-25 15:02:22",
       "album": {
-        "name": "O Nome de Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
+        "name": "Pintor do Mundo",
+        "url": "https://open.spotify.com/album/6GjoyvpMj60P25HXcyPs0q"
       },
       "artists": [
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
         }
       ],
-      "duration_ms": 528693,
-      "name": "O Nome de Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
+      "duration_ms": 291317,
+      "name": "Pintor do Mundo",
+      "url": "https://open.spotify.com/track/3Xu39iqbrhEkzGwMNeGKRL"
     },
     {
       "added_at": "2023-09-25 15:02:22",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2023-09-25 15:02:22",
       "album": {
-        "name": "Os Planos de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hmoxjfFLeugjFi7NavOgo"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        },
-        {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
-        }
-      ],
-      "duration_ms": 392556,
-      "name": "Os Planos de Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0fO7XrdPkRXe7k0TzII9Br"
-    },
-    {
-      "added_at": "2023-09-25 15:02:22",
-      "album": {
         "name": "Al\u00e9m do Rio Azul (Ao Vivo)",
         "url": "https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp"
       },
@@ -1687,6 +1667,26 @@
     {
       "added_at": "2023-09-25 15:02:22",
       "album": {
+        "name": "Os Planos de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hmoxjfFLeugjFi7NavOgo"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        },
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        }
+      ],
+      "duration_ms": 392556,
+      "name": "Os Planos de Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0fO7XrdPkRXe7k0TzII9Br"
+    },
+    {
+      "added_at": "2023-09-25 15:02:22",
+      "album": {
         "name": "Restitui (ao Vivo)",
         "url": "https://open.spotify.com/album/3jKdDH1635WQtIUD52qCvp"
       },
@@ -1703,6 +1703,26 @@
       "duration_ms": 257896,
       "name": "Restitui - Ao Vivo",
       "url": "https://open.spotify.com/track/0NJuAF3mbH1EL3d8WAJ7Ra"
+    },
+    {
+      "added_at": "2023-09-25 15:02:22",
+      "album": {
+        "name": "Port\u00f5es Celestiais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/574eXP5AevEROvGHuUdGSv"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        },
+        {
+          "name": "Matheus Trindade",
+          "url": "https://open.spotify.com/artist/0Ymz1ExCtpFOHsNDa5JeyL"
+        }
+      ],
+      "duration_ms": 350226,
+      "name": "Port\u00f5es Celestiais - Ao Vivo",
+      "url": "https://open.spotify.com/track/5b3OazQ41nLo3CNeuLyMPA"
     },
     {
       "added_at": "2023-09-25 15:02:22",
@@ -1751,26 +1771,6 @@
       "duration_ms": 433400,
       "name": "Pai Nosso",
       "url": "https://open.spotify.com/track/0Wqczms3zaolkN1ErZtSVd"
-    },
-    {
-      "added_at": "2023-09-25 15:02:22",
-      "album": {
-        "name": "Port\u00f5es Celestiais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/574eXP5AevEROvGHuUdGSv"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        },
-        {
-          "name": "Matheus Trindade",
-          "url": "https://open.spotify.com/artist/0Ymz1ExCtpFOHsNDa5JeyL"
-        }
-      ],
-      "duration_ms": 350226,
-      "name": "Port\u00f5es Celestiais - Ao Vivo",
-      "url": "https://open.spotify.com/track/5b3OazQ41nLo3CNeuLyMPA"
     },
     {
       "added_at": "2023-09-25 15:02:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel & Rodolffo com Mc Don Juan e João Gomes, Alok e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922,823 likes - 101 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,923,092 likes - 101 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 77 | [Pode Me Internar](https://open.spotify.com/track/6VBN6Hv3IunqBsCuXY63eV) | [Forró Anjo Azul](https://open.spotify.com/artist/1EydKdbv0zEd72hSVbyFrI) | [Voando De Novo Parte 2](https://open.spotify.com/album/6HhhMatdOhZvG4c2temqkT) | 2:50 |
 | 78 | [Tantas Brigas](https://open.spotify.com/track/20SnOzkmkIVugbarwhE3vP) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Tantas Brigas](https://open.spotify.com/album/4HLCfTJdDP5F5DfPYf0y9D) | 2:52 |
 | 79 | [Qual De Nós?](https://open.spotify.com/track/3wqvPzIYWlsuBocbt8fxg9) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z), [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4) | [Qual De Nós?](https://open.spotify.com/album/70c8dzCFGLEpX9SZJA0ttP) | 4:36 |
-| 80 | [Love, Death + Robots](https://open.spotify.com/track/4BMLSNPIHdj2fYZrQAuXOU) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Fragmentado](https://open.spotify.com/album/5HlHiAusgy78Kaywnlmtqu) | 2:36 |
+| 80 | [Love, Death + Robots](https://open.spotify.com/track/4uPodG2bz6bbipLSkFKwQZ) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Fragmentado](https://open.spotify.com/album/68Tgc6yABJipkYkoDjnt5P) | 2:36 |
 | 81 | [Sangue Negro](https://open.spotify.com/track/5XFmilgqTejITyL7XTpDBc) | [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Sangue Negro](https://open.spotify.com/album/5BVSiqnFTBc9VNvGmwHT8R) | 1:44 |
 | 82 | [Melodramático](https://open.spotify.com/track/1fn9Ca7f5FdrZ5E6JUVh9s) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Melodramático](https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw) | 2:26 |
 | 83 | [PLENA TERÇA FEIRA](https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Julie Ramos](https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV) | [PLENA TERÇA FEIRA](https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3) | 3:07 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 100 | [Sentada Da Malvadona](https://open.spotify.com/track/6ZNzEuzqOU8Yn5TQgIdztO) | [Biel Rocha](https://open.spotify.com/artist/2oHZ8zd8mZpSO8UMoi9NBj) | [Sentada Da Malvadona](https://open.spotify.com/album/412j8v0VyPSxdc2jTL8zz3) | 2:12 |
 | 101 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 
-Snapshot ID: `MCxiYTJhMzczM2FhNzc2ZTViYWRkMDkyN2VhNTc2OGI2ODJlMTg4ODAz`
+Snapshot ID: `MCxmNjlmMzY5ZTI3YWU1YjhiMzMwZjc2NTI3YjBkMzBjMDE0YmFhOTMw`

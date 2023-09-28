@@ -4,7 +4,7 @@
 
 > tranquilo e calmo, no flow\. Foto: Arthurzin, WIU
 
-472 songs - 22 hr 34 min
+473 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,8 @@
 | [Lord](https://open.spotify.com/track/3xlr48QzAcZKdSLy8YNN2l) | [ike](https://open.spotify.com/artist/0S1SWWzZUhJk8CsjLI9YuN) | [Lord](https://open.spotify.com/album/5P43c7BTkkBggNvVTVv03j) | 2:14 | 2022-03-18 | 2022-03-26 |
 | [Lote 88](https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Lote 88](https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY) | 3:42 | 2023-04-07 | 2023-08-26 |
 | [Louis V](https://open.spotify.com/track/6iQT8I4O8rMvBWDhw4RN6S) | [Mc negrone](https://open.spotify.com/artist/660rMB6VLmtOdSBdtm62hw) | [Louis V](https://open.spotify.com/album/5CvGXgjfXiU4AaHEgOM6Su) | 1:58 | 2023-07-07 | 2023-07-29 |
-| [Love, Death + Robots](https://open.spotify.com/track/4BMLSNPIHdj2fYZrQAuXOU) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Fragmentado](https://open.spotify.com/album/5HlHiAusgy78Kaywnlmtqu) | 2:36 | 2023-09-22 |  |
+| [Love, Death + Robots](https://open.spotify.com/track/4BMLSNPIHdj2fYZrQAuXOU) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Fragmentado](https://open.spotify.com/album/5HlHiAusgy78Kaywnlmtqu) | 2:36 | 2023-09-22 | 2023-09-28 |
+| [Love, Death + Robots](https://open.spotify.com/track/4uPodG2bz6bbipLSkFKwQZ) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Fragmentado](https://open.spotify.com/album/68Tgc6yABJipkYkoDjnt5P) | 2:36 | 2023-09-22 |  |
 | [Lugar Nenhum](https://open.spotify.com/track/4Q0aSrMlOWdRS1mwRu9WB8) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o) | [Percalços](https://open.spotify.com/album/54JPLtLadzyPbneflbb6hK) | 3:12 | 2023-06-23 | 2023-07-29 |
 | [Luizza](https://open.spotify.com/track/23cGgRtYWKBKEHEB1Czrku) | [Muzzike](https://open.spotify.com/artist/2XTtA7Pvl5vucL3oFXlMyT) | [Luizza](https://open.spotify.com/album/3rhjCAcOJjYIpMNWs1FwxR) | 2:20 | 2022-09-02 | 2022-10-22 |
 | [Luneta](https://open.spotify.com/track/7LIti6cp8qgo3kBT4a0LEY) | [Nauta](https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Luneta](https://open.spotify.com/album/5Mnj12VlfA8hG7NPD92dte) | 2:50 | 2022-05-13 | 2022-05-20 |

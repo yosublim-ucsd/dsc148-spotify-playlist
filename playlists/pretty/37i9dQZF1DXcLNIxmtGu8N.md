@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 
 > Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,433 likes - 70 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,437 likes - 70 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jersey Anniversary \(Sample\)](https://open.spotify.com/track/4HgB4trNaESJ6RB6K5zsaV) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [The Radio Killaz Vol.2](https://open.spotify.com/album/02MRrKwlW9gz5UG3O43E63) | 0:46 |
+| 1 | [Jersey Anniversary \(Sample\)](https://open.spotify.com/track/35PnzA3A5Cd8R1ONTuBVEM) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [The Radio Killaz Vol.2](https://open.spotify.com/album/7BpVeonOpbKw7pU7aIPwq0) | 0:46 |
 | 2 | [Found Myself a Clappa 2019 \- Live](https://open.spotify.com/track/6TaUGITKJOhZPA66GKVSuf) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [The Gift](https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok) | 0:56 |
 | 3 | [Pressure\. \- Live](https://open.spotify.com/track/0HyX4CfHrqB8faZtNDAdvD) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [Pressure\. \(Live\)](https://open.spotify.com/album/0S4WiHEFxuVa011cE4PjT7) | 4:36 |
 | 4 | [Lay Ya Head](https://open.spotify.com/track/0kKEJGrSIPJggcV7ekdsYf) | [TCB Bounce Beat Kings](https://open.spotify.com/artist/6QoPapOk9izriQmEGamap3) | [The Lost Bounce Tapes Vol \#1](https://open.spotify.com/album/2RtDOZZBLKXMtnuiZeIs3K) | 2:36 |
-| 5 | [TwinN'Em](https://open.spotify.com/track/6C0Rpw1AvaVmADNCD1Zhww) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [The Radio Killaz Vol.2](https://open.spotify.com/album/02MRrKwlW9gz5UG3O43E63) | 4:14 |
+| 5 | [TwinN'Em](https://open.spotify.com/track/5n4iYMbRzo18VtETu1dEJn) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [The Radio Killaz Vol.2](https://open.spotify.com/album/7BpVeonOpbKw7pU7aIPwq0) | 4:14 |
 | 6 | [Sittin at The Bar](https://open.spotify.com/track/7wxDmQ0dy9dsDwSxby2m1b) | [TOB](https://open.spotify.com/artist/7COfOGDggDYrMbgI7rEcmk) | [THE RUNDOWN VOl.1](https://open.spotify.com/album/5ufhZ9WEDNGp3DHZ3EEBmN) | 4:49 |
 | 7 | [Excuse Me While I Dance...](https://open.spotify.com/track/32YlekcvtUel6567UswVfD) | [Black Alley](https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R) | [Live..\. from Rock n Roll Hotel \- DC](https://open.spotify.com/album/2MkOfsQNSTfKg01ZRnC7V7) | 8:26 |
 | 8 | [Classy](https://open.spotify.com/track/32VYGgCEVGE4WUDvnzuLbW) | [CCB \(Critical Condition Band\)](https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK) | [Critical Condition](https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc) | 4:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 | 69 | [Da Butt](https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [Lost R&B Hits Of The 80S](https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk) | 5:14 |
 | 70 | [96 Dope Jam](https://open.spotify.com/track/3UzNKOAkbXimKt9hzGKwfc) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Street Antidote](https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3) | 6:31 |
 
-Snapshot ID: `MCw4MzgzYWRhNWFhN2Y5OTg4OGUzNWI1ZDEyYTE2ZGRkOWMxZWZkZmY0`
+Snapshot ID: `MCw4N2U1MGJlMTc4YjVkYjQwOGEyNTI2MDIxMzUwOTgwMWFhMDk1NDNk`

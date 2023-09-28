@@ -2,7 +2,7 @@
 
 ### [WorshipNow](https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz)
 
-> No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="spotify:artist:6JaSyvyg28SHC0Of8YE6M9">Christine D'Clario<a>
+> No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:6JaSyvyg28SHC0Of8YE6M9">Christine D'Clario</a>
 
 431 songs - 1 day 17 hr 46 min
 

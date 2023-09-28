@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,856 likes - 196 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,930 likes - 196 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 43 | [Perceptive](https://open.spotify.com/track/7Mi5eCOPGZI4jwlpzb0xSC) | [Ravndala](https://open.spotify.com/artist/40OmNBDYoyRn43AjGjJzlH) | [Perceptive](https://open.spotify.com/album/60jpACFvJmrcVpXft0PKH4) | 3:32 |
 | 44 | [Fading](https://open.spotify.com/track/5ULifaHIedzoCiIkjHU5i5) | [The Go Steady](https://open.spotify.com/artist/6jLapoPif6z2m9XEJ82G4J) | [Fading](https://open.spotify.com/album/78IJVIdID5GtvM5oB8EP8g) | 2:25 |
 | 45 | [Nocturne](https://open.spotify.com/track/0vtabIK29LljzI0O5eG8Yw) | [FoaM](https://open.spotify.com/artist/1XEXjIZsZ178A5msOFALpu) | [Nocturne](https://open.spotify.com/album/5Rl9UU8fQAi7vvA7zbCrdX) | 1:58 |
-| 46 | [I Found You](https://open.spotify.com/track/5FV8186V5bGlGQa3RhzOcM) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [Under an Autumnal Sky](https://open.spotify.com/album/3NGahLW8AiKzVk3d1laAyR) | 3:24 |
+| 46 | [I Found You](https://open.spotify.com/track/2e84ShlQlgyMuE99oX7ekA) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [Under an Autumnal Sky](https://open.spotify.com/album/4o4dM1VnVQIVtCSaRsWnV8) | 3:24 |
 | 47 | [Folds](https://open.spotify.com/track/1upFTZnAallS4AfzHZ7RmP) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Folds](https://open.spotify.com/album/43uRd28euFG1OYGTZDobV7) | 3:16 |
 | 48 | [Epoque](https://open.spotify.com/track/0WUmEgNPYXDCe8zwecTlYk) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Epoque](https://open.spotify.com/album/6BXVSh9Izt5gRFUUeaF2iw) | 2:05 |
 | 49 | [Knowledge](https://open.spotify.com/track/32jPQvbPz02F2jhlDdM3SU) | [Endless Voyager](https://open.spotify.com/artist/15TXDkpu2tSyiy77G5ckRa) | [Knowledge](https://open.spotify.com/album/1Fl3JnASxezylSjI0YZgVt) | 2:37 |
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 150 | [Wires](https://open.spotify.com/track/2wAOrDyPab6VEsaaNFmQAM) | [Harvest Silence](https://open.spotify.com/artist/6qtd1ujjnPOMDU5DCDQPuH) | [Wires](https://open.spotify.com/album/3smWNxmoz5deYJejiTWJY3) | 2:13 |
 | 151 | [Maybe This is the Year for the Maple Leafs, Or Will I Just Be Disappointed Again?](https://open.spotify.com/track/1cNr7ghW0xOmwqQzQSSWP2) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Minus Time](https://open.spotify.com/album/770ePZN0ps20Gj7IJObZZv) | 4:03 |
 | 152 | [I'll Be Gone](https://open.spotify.com/track/5s0gxKFZCSQ6USPwKMdgUu) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:31 |
-| 153 | [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/6yiPwfADSoJQ0k5to30gIi) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 3:50 |
+| 153 | [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/0zafu3xeKBBa1aUo9vOGOV) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt) | 3:50 |
 | 154 | [At The Meadows](https://open.spotify.com/track/3lNjQSSfa7SFJkLZWiAsaL) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [At The Meadows](https://open.spotify.com/album/4rcgEBuwQNrXOEdIE67RBf) | 2:25 |
 | 155 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 |
 | 156 | [Parallels](https://open.spotify.com/track/4ujZScjhNsCcDdK5iriHhU) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Parallels](https://open.spotify.com/album/1WEeuWUxTIuVUc3i1lKwFn) | 2:54 |
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 195 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 |
 | 196 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 |
 
-Snapshot ID: `MCxkNzVlMDcyZGFkNmIyY2M3NjliZTkzNDQyOTM2ZTI2NzVkYTNhMDI5`
+Snapshot ID: `MCw3ZTA4YmI1OWMyMDI4OTBiOGNjMTIyYTgzMTUwNDMxZmFhODQzNzNh`

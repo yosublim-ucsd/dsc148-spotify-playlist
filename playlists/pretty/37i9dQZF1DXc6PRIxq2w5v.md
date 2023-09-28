@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,175 likes - 85 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,388 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 27 | [Controle](https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Controle](https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI) | 3:04 |
 | 28 | [É Você](https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [É Você](https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX) | 3:51 |
 | 29 | [Maranata](https://open.spotify.com/track/34xtS6GYIxEo59L7hvgnt9) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [Fábio Casagrande](https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn) | [Setenta / Maranata](https://open.spotify.com/album/69eIqWuYoPjxBXI1XxKnch) | 2:00 |
-| 30 | [Fogo](https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Fogo](https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63) | 2:40 |
-| 31 | [Mulher de Fé](https://open.spotify.com/track/1gTlbwHRrkbZNUsJcxME1i) | [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Mulher de Fé](https://open.spotify.com/album/0IT2j6KDkwBEQdT9qkXZpi) | 2:10 |
+| 30 | [Mulher de Fé](https://open.spotify.com/track/1gTlbwHRrkbZNUsJcxME1i) | [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Mulher de Fé](https://open.spotify.com/album/0IT2j6KDkwBEQdT9qkXZpi) | 2:10 |
+| 31 | [Fogo](https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Fogo](https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63) | 2:40 |
 | 32 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 |
 | 33 | [Jesus](https://open.spotify.com/track/4azlwGeA9FkbPjXGaMDGQn) | [MC Liro](https://open.spotify.com/artist/3i7YFHRKEJmsz4cVqeF2eG) | [Jesus](https://open.spotify.com/album/4eMANLN3chqHNdhilVWxzR) | 3:47 |
 | 34 | [100 Versos](https://open.spotify.com/track/6mMsJejUwWpTHjYyrRTg7p) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [100 Versos](https://open.spotify.com/album/3mLp7jYB9OvVRhjHXJMM7s) | 2:38 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 84 | [Filho do Homem](https://open.spotify.com/track/2WQ87ao5uZsRZS0UB8cQQi) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena](https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA) | 3:15 |
 | 85 | [Se o Espírito de Deus Se Move em Mim](https://open.spotify.com/track/3Ob9HR0tFe110PuUrZdIcy) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Daniel Salez](https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO) | [Se o Espírito de Deus Se Move em Mim](https://open.spotify.com/album/0onAAqhvNW20080BvMMCkO) | 2:10 |
 
-Snapshot ID: `MCxlYTA5N2RlYjMwYjY5NjBhZTkxZmI1MjAzZjVjODc1YjFhMTI1Zjkx`
+Snapshot ID: `MCxmMTRhZmRmNGI0OWIzYWFiYzA0NzAzMjdiYzc5ZjBjM2QyZTAxZTY1`

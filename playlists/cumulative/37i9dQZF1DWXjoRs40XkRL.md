@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-194 songs - 17 hr 27 min
+195 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Jheeni Jheeni Beeni Chadariya](https://open.spotify.com/track/2FlrURkLtjLKlfkVmgQRob) | [Baiju Mangeshkar](https://open.spotify.com/artist/5lf48jDMFrdJkvnYW8Gg5T) | [Man Mast Kabira](https://open.spotify.com/album/6h564cMA06UJRCmanWFdqp) | 5:27 | 2023-03-30 | 2023-04-01 |
 | [Jheeni Jheeni Beeni Chadariya](https://open.spotify.com/track/7sFrXIq0TJZUYVgASM9bDv) | [Baiju Mangeshkar](https://open.spotify.com/artist/5lf48jDMFrdJkvnYW8Gg5T) | [Man Mast Kabira](https://open.spotify.com/album/6cLEimgx42vKP8ReAXgcAc) | 5:27 | 2023-03-31 | 2023-07-25 |
 | [Jhinjhoti](https://open.spotify.com/track/4oWJqeGeJK1N5M0dUqogYD) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Jhinjhoti](https://open.spotify.com/album/6weyfGZOlWKTnp5Yq49Fjn) | 5:02 | 2022-05-17 |  |
+| [Jiya Lage Na](https://open.spotify.com/track/476FFGIqNYi8jd7aEmXJBR) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [George Brooks](https://open.spotify.com/artist/2XfVMjEed5ozwWxinyXDHy) | [Jiya Lage Na](https://open.spotify.com/album/2n5NLskzy65xxbTvIl9uUM) | 6:52 | 2023-09-27 |  |
 | [Jiya Mora Re](https://open.spotify.com/track/2n3H9PPBOXWproji7x3g0E) | [The PriyaRang Project](https://open.spotify.com/artist/0V9JIMj8rpAb5sLaETyJdn), [Priyanka Barve](https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P), [Sarang Kulkarni](https://open.spotify.com/artist/5AbDGuiDyG6kdlMLbo2njR) | [Jiya Mora Re](https://open.spotify.com/album/2z6FfQtPih0s6iSkPne2PV) | 6:21 | 2022-12-22 |  |
 | [Jiyara](https://open.spotify.com/track/2tCyldMmgrHlhP8IWiSy4h) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Fungeet](https://open.spotify.com/album/2pWlLUrt2y0QppU4OUXFTh) | 2:54 | 2023-04-24 | 2023-08-04 |
 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2022-05-17 | 2023-09-09 |
@@ -198,7 +199,7 @@
 | [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/68pnUjdZYEgYuHArZRxETk) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [OK \(Expanded Edition\)](https://open.spotify.com/album/78TxUdER5QfLxTBpXu1UZm) | 5:50 | 2022-07-12 | 2023-03-03 |
 | [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/6eksDMdyTYPB3e1nycPx6c) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Winter Mix 2021](https://open.spotify.com/album/5gfKfF2hnSbYCdI21NilnF) | 5:50 | 2022-09-23 | 2022-11-14 |
 | [Tum Jo Mile Ho](https://open.spotify.com/track/0DCXweyQdnUXQ6bDSNXFi8) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Sangeeta Shankar](https://open.spotify.com/artist/2oHDVj3P55EigkZFdtngNn) | [Tum Jo Mile Ho \- Single](https://open.spotify.com/album/2QYap5S921w48KgN7MUsdb) | 4:06 | 2022-05-17 |  |
-| [Veera Raja Veera](https://open.spotify.com/track/60fyKjKygvMuVArFIlioyb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Arman Dehlvi](https://open.spotify.com/artist/1wYOalcwgWTyVjqG22p3Od), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [PS\-2 \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/07qw6WgmXr7RzNA9jHIpuD) | 5:04 | 2023-03-31 |  |
+| [Veera Raja Veera](https://open.spotify.com/track/60fyKjKygvMuVArFIlioyb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Arman Dehlvi](https://open.spotify.com/artist/1wYOalcwgWTyVjqG22p3Od), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [PS\-2 \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/07qw6WgmXr7RzNA9jHIpuD) | 5:04 | 2023-03-31 | 2023-09-28 |
 | [Viraha](https://open.spotify.com/track/0j1Z4bp6LeIxb9Rdq0kdsu) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Elements](https://open.spotify.com/album/4PDXWMxlqPHO4Ox9KCvoJ8) | 4:43 | 2022-05-17 | 2023-03-21 |
 | [Yaad Piya Ki Aaye](https://open.spotify.com/track/3LWZsbikDu2gSiiExEifHw) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Yaad Piya Ki...](https://open.spotify.com/album/63RWUfA8NjW6ooa5MXP8HB) | 5:14 | 2022-05-17 | 2023-04-19 |
 | [Yaman](https://open.spotify.com/track/5y4WiVUc1SbjnfXLu9szYI) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Yaman](https://open.spotify.com/album/6NZONtGQRxsnIomjyClIqf) | 5:24 | 2022-05-17 | 2023-08-02 |

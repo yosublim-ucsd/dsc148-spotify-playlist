@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:4jLWtcGrESS5YvRip2ATmL">Niko Eme</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,243 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,279 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Lo Harás](https://open.spotify.com/track/1XnYHgCrAU6DFJH7mlZ6pC) | [Sharil](https://open.spotify.com/artist/5ORVnd2wkMlJx7wkblVY5l) | [Lo Harás](https://open.spotify.com/album/4zYNT4pTDitu8L94sTWvgQ) | 4:22 |
 | 100 | [Amado Por Ti](https://open.spotify.com/track/6vN6auyoGsmpDqkFRCDmmd) | [Infinitoamor](https://open.spotify.com/artist/6sd0RW2mhgFiCaPtdnSPcL), [Jennifer Hurtado](https://open.spotify.com/artist/4F1wRYU0CoLIhLMjdmoEXx), [David Ordoñez](https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0) | [Amado Por Ti](https://open.spotify.com/album/5VphoFSFKFYa4IjvNMV9x3) | 4:49 |
 
-Snapshot ID: `MCw5MWM1YWJmODM2OTk2NjQwMjNmYWYxZGZlOWExZjlhZTcwNmY4MTE4`
+Snapshot ID: `MCwzOTllMmFjNmU1YTQwNTE4YmE2NWU4NzQ3ZWVmOWU1NzIxMTliNDky`

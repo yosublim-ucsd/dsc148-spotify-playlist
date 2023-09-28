@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="spotify:artist:7yZC6AEhvCD5NFR8yDUxCG">Riley Clemmons</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,992 likes - 102 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,193 likes - 102 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 101 | [Anxious Heart](https://open.spotify.com/track/2lgK3q3cnmrHzZwDOgfMdG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 2:57 |
 | 102 | [Something Better](https://open.spotify.com/track/2oMV6710ZfkU1ZTtZrhyHL) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Something Better](https://open.spotify.com/album/2WM90lCeuhwcW30awCgFtN) | 3:01 |
 
-Snapshot ID: `MCw3Yjg2Y2I3NWQ1NzdmZjAxYzA5MDgzNjkzZWM4NzdhN2M2YTdkOGRi`
+Snapshot ID: `MCw0N2QwY2UwYWI1MDg3MzQ4M2MzNGQ1NGQxM2VmODc5OTdkOTQ0MWRh`

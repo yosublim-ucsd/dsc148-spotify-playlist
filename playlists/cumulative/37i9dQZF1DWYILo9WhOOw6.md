@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-106 songs - 5 hr 25 min
+112 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,8 @@
 | [Binaural Delta Sinus 125 Hz \- 126 Hz](https://open.spotify.com/track/6JXlGLYJT2DnpM9yzmJSGG) | [Estonian Machine](https://open.spotify.com/artist/3T3PyxVgQxyzalpGZA4Paw) | [Binaural Delta Sinus 125 Hz \- 126 Hz](https://open.spotify.com/album/1pP5mixoFr0RTFJ3SzKQji) | 2:21 | 2023-01-20 |  |
 | [Binaural Delta Sinus 125 Hz \- 128 Hz](https://open.spotify.com/track/5jJ7EiQ0Ls2n7BGmM4vI0k) | [Sundance Darling](https://open.spotify.com/artist/7MRQbUPfaklI0EgLzZSEYP) | [Binaural Gamma Sinus 120 Hz \- 170 Hz](https://open.spotify.com/album/6RQNAwfBLqs9YYxEmGP5CF) | 2:36 | 2023-01-20 |  |
 | [Binaural Delta Sinus 90 Hz \- L 94 Hz \- R](https://open.spotify.com/track/70PN99PsC7BoqAmmrdxj0H) | [No Placebo](https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i) | [Binaural Gamma Sinus 70 Hz \- L 170 Hz \- R](https://open.spotify.com/album/7E9Zfn9aGdJOSp1YxBiGZg) | 2:16 | 2023-01-20 |  |
+| [Binaural Delta Waves 58\-58.5 Hz](https://open.spotify.com/track/1SFqeroxwFNEiQFkR4tgOz) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Binaural Delta Waves 58\-58.5 Hz](https://open.spotify.com/album/63tbjNcDy424UFV0hrMgis) | 2:33 | 2023-09-27 |  |
+| [Binaural Delta Waves 90\-91 Hz](https://open.spotify.com/track/3ue9kzU2jjGDnIFOtzoTLh) | [The Delta Architect](https://open.spotify.com/artist/7m551v8boZ6Q1aT1WXPxNt) | [Binaural Delta Waves 90\-91 Hz](https://open.spotify.com/album/6Ue7qEM3NjGgMWhzH5MNFy) | 2:34 | 2023-09-27 |  |
 | [Binaural Drone 100 Hz \- 101 Hz](https://open.spotify.com/track/3NCBrdKXGqiiLYccNcESVN) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Delta 1\-4 Hz Sleep Drones](https://open.spotify.com/album/3PUY5HcJ3F92UCN9SKkMlI) | 3:23 | 2023-01-20 |  |
 | [Binaural Drone 90 Hz \- 91 Hz](https://open.spotify.com/track/53OvBqtojrI9EUmuskfKlJ) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Delta 1\-4 Hz Sleep Drones](https://open.spotify.com/album/3PUY5HcJ3F92UCN9SKkMlI) | 3:29 | 2023-01-20 |  |
 | [Binaural Sines 2hz Delta 55hz \- 57hz](https://open.spotify.com/track/1Om7a5bQfKfQWFgmDCdFxX) | [Assembly of Sines](https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt) | [Delta](https://open.spotify.com/album/01lzymsaF2TaNrcDyW1bdX) | 2:33 | 2023-04-28 |  |
@@ -31,6 +33,8 @@
 | [Dark Blue \(Delta 124 Hz \- 127 Hz\)](https://open.spotify.com/track/3XrAci11gTweKd4odCVBAO) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 2:46 | 2023-01-20 |  |
 | [Deep Delta Sleep 96.8 Hz\-98.4 Hz](https://open.spotify.com/track/6LS66LUZJybYyZ4OTLvYhd) | [Syntropic Mind](https://open.spotify.com/artist/01O0xjXft0U8kHePVxE0iC) | [Deep Delta Sleep 96.8 Hz\-98.4 Hz](https://open.spotify.com/album/31X3Csbqb2ztASsvHZ7t4e) | 2:37 | 2023-08-03 |  |
 | [Deep Sleep 3 Hz Drone](https://open.spotify.com/track/279WfshbvRdtkSeHG69GMm) | [Dronal](https://open.spotify.com/artist/5JdRe38yBQW84oz1rjPvLL) | [Binaural Delta Sinus](https://open.spotify.com/album/5Nilmc6apWTsMi8cqBVjU9) | 3:45 | 2023-01-20 |  |
+| [Deep Sleep Delta Binaural 78.4Hz \- 80Hz](https://open.spotify.com/track/2LBY7o7yGN6twBv6LsiQx4) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Deep Sleep Delta Waves](https://open.spotify.com/album/0aA1BSj06GuIZ9ZJyo2nnZ) | 3:06 | 2023-09-27 |  |
+| [Deep Sleep Delta Binaural 82.8Hz \- 84.3Hz](https://open.spotify.com/track/13XtUIisqIt3ZRtF92yK1W) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Deep Sleep Delta Waves](https://open.spotify.com/album/0aA1BSj06GuIZ9ZJyo2nnZ) | 2:53 | 2023-09-27 |  |
 | [Deep Sleep Delta Binaural 83.8Hz \- 85.2Hz](https://open.spotify.com/track/0s840ASDKgRxLob8pGgUJD) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Deep Sleep Delta Binaural 83.8Hz \- 85.2Hz](https://open.spotify.com/album/0HKx7gDLPJlyf4tKPI3AmZ) | 3:13 | 2023-01-20 |  |
 | [Deep Sleep Delta Waves 82 Hz \- 84 Hz](https://open.spotify.com/track/6L3R4jp8mpFt3Cs8ufY06v) | [Binaural Odyssey](https://open.spotify.com/artist/78S7eBwwMnjzkzATY2vGO6) | [Mind Exploration](https://open.spotify.com/album/2gin8S8bLJjVwlcHd0w0f3) | 2:59 | 2023-01-20 |  |
 | [Delta 4 Hz Drone](https://open.spotify.com/track/4frZaw0LM9m8OpE9wbs8O3) | [Source Dimension](https://open.spotify.com/artist/3z3CegfPYP7ql4oU0pfCWf) | [Sinus Drones](https://open.spotify.com/album/6GleEVvhpKS2K8ftr68BIF) | 3:18 | 2023-01-20 |  |
@@ -70,6 +74,7 @@
 | [Delta Sleep Binaural 80Hz \- 81.2Hz](https://open.spotify.com/track/5ztYXHxfznJEOJM2UMFGOf) | [Sleeposines](https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG) | [Binaural Flow](https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz) | 3:12 | 2023-03-10 |  |
 | [Delta Sleep Binaural 82.7Hz \- 84Hz](https://open.spotify.com/track/7FXq4DGcyddOyOy3zj8iJF) | [Sleeposines](https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG) | [Binaural Flow](https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz) | 3:06 | 2023-03-10 |  |
 | [Delta Sleep Binaural 84Hz \- 85.4Hz](https://open.spotify.com/track/5LytHS5LTpaVfyzvJ1Nc5E) | [Sleeposines](https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG) | [Binaural Flow](https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz) | 3:15 | 2023-03-10 |  |
+| [Delta Sleep Binaural 92.4Hz \- 94Hz](https://open.spotify.com/track/6wiSWb52zpQOYgG2qXyJ7t) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Delta Resonance](https://open.spotify.com/album/37iNiPm2yyCRX8rAedpJXG) | 2:55 | 2023-09-27 |  |
 | [Delta Sleep Waves 87.2Hz \- 88.6Hz](https://open.spotify.com/track/2eCKzMlnobzurHO3q6WvTc) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Explorer](https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023) | 3:11 | 2023-04-07 |  |
 | [Delta Sleep Waves 88.8Hz \- 90.2Hz](https://open.spotify.com/track/5QsYuzWo2yegOxhVuGhYnk) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Explorer](https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023) | 3:24 | 2023-04-07 |  |
 | [Delta Sleep Waves 98Hz \- 99.6Hz](https://open.spotify.com/track/51US4kWdKFk1uWhRXG1LbV) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Delta Mind](https://open.spotify.com/album/3fUJVv905XG6LDsQc0s0Zn) | 2:52 | 2023-06-02 |  |
@@ -110,6 +115,7 @@
 | [Sun Salutation : Delta Sinus Beats](https://open.spotify.com/track/33w0naE7b9wBFV0NwtMxSs) | [Enlightened Spirits](https://open.spotify.com/artist/0Ii80W3VIHBgr211IUReM8) | [Sun Salutation : Delta Sinus Beats](https://open.spotify.com/album/2wdkJYEmhMdgmwyc9GXOmG) | 1:57 | 2023-01-20 | 2023-07-29 |
 | [Sunrays \- Delta 94Hz \- 96Hz](https://open.spotify.com/track/1CesGp7vyNjZ4ybuaBlveg) | [Lotus Frequencies](https://open.spotify.com/artist/6FbnkqvAfBc6iR5kOMfHA5) | [Waveclouds](https://open.spotify.com/album/4y0p9YzK8tbOGFBgtRGrEQ) | 3:45 | 2023-01-20 |  |
 | [Thoughtless A Delta 109\-112hz](https://open.spotify.com/track/5NUnNDy5LlGtlZXbO1ignG) | [Peace In Stillness](https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf) | [Thoughtless Echoes Delta](https://open.spotify.com/album/6E7fHsEJu4MnV5uJ1VSO7j) | 2:32 | 2023-05-05 |  |
+| [Transcendental Phase Bb Delta \(114\-118hz\)](https://open.spotify.com/track/7pe4sWtc1ocgLrKrIeUzFG) | [Peace In Stillness](https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf) | [Transcendental Phase Delta](https://open.spotify.com/album/1SJVQ7hhm89HhcMIxAUCbB) | 2:15 | 2023-09-27 |  |
 | [Two Worlds Delta](https://open.spotify.com/track/2Tz4E2VYaVHmasmoXOGIom) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Delta Atmosphere](https://open.spotify.com/album/72WSIvz2C29GFf6Wh3bhMT) | 3:21 | 2023-01-20 |  |
 | [Unter dem Himmelszelt Delta Sinus 99Hz \- 102Hz](https://open.spotify.com/track/17oMg9bmY7DCU1VO4ucXyI) | [Sleeping Stars](https://open.spotify.com/artist/54dYMs8urBZyC8MDEifWuc) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:24 | 2023-01-20 |  |
 | [Warm Delta 58\-61 Hz](https://open.spotify.com/track/4P6Ww6a8eerhN3yD0nPgG3) | [Nukahtaa](https://open.spotify.com/artist/3WfE7A0OI5tIqY57aEE2T5) | [Warm Delta 58\-61 Hz](https://open.spotify.com/album/4RFaQvqqX9G42duV9PApxf) | 3:16 | 2023-01-20 |  |

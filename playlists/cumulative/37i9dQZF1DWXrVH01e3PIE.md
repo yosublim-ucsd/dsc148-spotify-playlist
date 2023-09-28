@@ -4,7 +4,7 @@
 
 > LIT killah & Tiago PZK en la casa del Trap Argentino.
 
-237 songs - 11 hr 23 min
+238 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,8 @@
 | [UN PISO MÁS](https://open.spotify.com/track/6Rsryyrp2tB4t0f8c60bGm) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [KOKI](https://open.spotify.com/artist/5LUkjuvgqMcroPUghvtqSX) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:55 | 2022-11-11 |  |
 | [Un Poquito Ma](https://open.spotify.com/track/3VlYUSijICgv7zJ8gJBkNZ) | [Chiki Wanted](https://open.spotify.com/artist/33jFO9W9LzOFYLwdPcs97O) | [Un Poquito Ma](https://open.spotify.com/album/4kRGbFD8ccaTBhdnt9rCS6) | 1:32 | 2022-06-17 | 2022-08-06 |
 | [Una Luz en Todo Esto](https://open.spotify.com/track/3VTjIwrfPrnsI49lsF1mMs) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [Una Luz en Todo Esto](https://open.spotify.com/album/5LsWezLLDfSW0aijS2yFeR) | 3:04 | 2022-01-21 | 2023-06-03 |
-| [uNO dOS](https://open.spotify.com/track/3H5N7Lnvv64H3iae6InGLz) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 2:45 | 2023-07-14 |  |
+| [uNO dOS](https://open.spotify.com/track/3H5N7Lnvv64H3iae6InGLz) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 2:45 | 2023-07-14 | 2023-09-28 |
+| [uNO dOS](https://open.spotify.com/track/43tSc5PlZvGJ39Cnrs94AL) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Antes de Ameri](https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR) | 2:45 | 2023-09-22 |  |
 | [uNO dOS](https://open.spotify.com/track/6T2lmSzYB7V4tqYazwJITe) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 2:45 | 2023-06-23 | 2023-07-18 |
 | [Vacio](https://open.spotify.com/track/435YiiQUdWbS6Z735tNrdL) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [Vacio](https://open.spotify.com/album/3mPQrAo1k1theUTXCjuYRM) | 2:08 | 2022-01-21 | 2022-04-06 |
 | [Valentino](https://open.spotify.com/track/27uT2ouF88miD988lpgkm5) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 2:36 | 2022-01-21 | 2022-05-05 |

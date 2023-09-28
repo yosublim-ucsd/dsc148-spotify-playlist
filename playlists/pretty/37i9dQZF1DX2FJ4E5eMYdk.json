@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 152224,
+  "num_followers": 152318,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Mzc2ZDM4NDAxZjJlNjBmMmM5ZTY3Y2UzNGUyNDE0MWE0MjAwODVj",
+  "snapshot_id": "MCw2YTU5MGJjOGUxZjkxODVkYjdlODBkMzA2ZDhlZjY4MmI5YzQyYmMx",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Dream Within a Dream",
-        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
-      },
-      "artists": [
-        {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
-        }
-      ],
-      "duration_ms": 168080,
-      "name": "Dream Within a Dream",
-      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "The Alien Coast",
         "url": "https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 447998,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Dream Within a Dream",
+        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 168080,
+      "name": "Dream Within a Dream",
+      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Mangy Love",
-        "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
-      },
-      "artists": [
-        {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
-        }
-      ],
-      "duration_ms": 254541,
-      "name": "Opposite House",
-      "url": "https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Critical Equation",
         "url": "https://open.spotify.com/album/2NsHYx621pWYlCrJFhTDaq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 295396,
       "name": "Listening In",
       "url": "https://open.spotify.com/track/46D2L5WkfinP6scJ7sLX3Z"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Mangy Love",
+        "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "duration_ms": 254541,
+      "name": "Opposite House",
+      "url": "https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 166453,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Celeste",
         "url": "https://open.spotify.com/album/6Vl1wRSlzvKUcvjaQe7ugY"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 207450,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/3t8UcMoMMif97zQ9SEAB7e"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
     },
     {
       "added_at": "2023-09-22 04:00:00",

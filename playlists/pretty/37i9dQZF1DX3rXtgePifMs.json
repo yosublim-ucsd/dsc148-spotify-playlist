@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 42193,
+  "num_followers": 44311,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTllZjVmOWVlYjIzMjlhNjI0YTFkMjUyMzU4YjFmMTU4ZTE5Yzlh",
+  "snapshot_id": "MCwyNjhhMzBkYWE3Y2EzOTdlMGUzMmUwZTM2ZjhiNzdmMWYxMWVlNzlh",
   "tracks": [
     {
       "added_at": "2023-09-25 18:14:25",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
-        "name": "6am",
-        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 221748,
-      "name": "6am",
-      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
-    },
-    {
-      "added_at": "2023-09-25 18:14:25",
-      "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
       },
@@ -419,18 +403,18 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 190626,
-      "name": "Going Kokomo",
-      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -459,6 +443,22 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Going Kokomo",
+      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+    },
+    {
+      "added_at": "2023-09-25 18:14:25",
+      "album": {
         "name": "nice 2 me",
         "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
       },
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
+        "name": "1,2 & Mer",
+        "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
+      },
+      "artists": [
+        {
+          "name": "BABY MALA",
+          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "1,2 & Mer",
+      "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
+    },
+    {
+      "added_at": "2023-09-25 18:14:25",
+      "album": {
         "name": "CATALYST",
         "url": "https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 206746,
       "name": "CATALYST",
       "url": "https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44"
-    },
-    {
-      "added_at": "2023-09-25 18:14:25",
-      "album": {
-        "name": "1,2 & Mer",
-        "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
-      },
-      "artists": [
-        {
-          "name": "BABY MALA",
-          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "1,2 & Mer",
-      "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2E00JwOIngqnZbeBkj7aB2"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk"
+    },
+    {
+      "added_at": "2023-09-25 18:14:25",
+      "album": {
         "name": "Universal Credit (Deluxe)",
         "url": "https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+        "name": "HOLD ON",
+        "url": "https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
         }
       ],
-      "duration_ms": 243354,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
+      "duration_ms": 245454,
+      "name": "HOLD ON",
+      "url": "https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -735,34 +751,18 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
-        "name": "HOLD ON",
-        "url": "https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
       "artists": [
         {
-          "name": "ill peach",
-          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 245454,
-      "name": "HOLD ON",
-      "url": "https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL"
-    },
-    {
-      "added_at": "2023-09-25 18:14:25",
-      "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2E00JwOIngqnZbeBkj7aB2"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk"
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -803,6 +803,26 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
+        "name": "no sleep in LA",
+        "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "Lute",
+          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+        }
+      ],
+      "duration_ms": 212282,
+      "name": "cracked screen",
+      "url": "https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq"
+    },
+    {
+      "added_at": "2023-09-25 18:14:25",
+      "album": {
         "name": "Stone",
         "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
       },
@@ -823,22 +843,18 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
-        "name": "no sleep in LA",
-        "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
+        "name": "SPECCHIO",
+        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
       },
       "artists": [
         {
-          "name": "blackwave.",
-          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
-        },
-        {
-          "name": "Lute",
-          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
         }
       ],
-      "duration_ms": 212282,
-      "name": "cracked screen",
-      "url": "https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq"
+      "duration_ms": 183386,
+      "name": "AVVISO",
+      "url": "https://open.spotify.com/track/2YMvLfACAlvQMiKonxdeUq"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
-        "name": "SPECCHIO",
-        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 183386,
-      "name": "AVVISO",
-      "url": "https://open.spotify.com/track/2YMvLfACAlvQMiKonxdeUq"
-    },
-    {
-      "added_at": "2023-09-25 18:14:25",
-      "album": {
         "name": "Henge",
         "url": "https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 222200,
       "name": "The Stranger",
       "url": "https://open.spotify.com/track/6vWKSlMiyGlsWzRw8REBxE"
-    },
-    {
-      "added_at": "2023-09-25 18:14:25",
-      "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "The Hard Way",
-      "url": "https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -967,6 +951,22 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG"
+    },
+    {
+      "added_at": "2023-09-25 18:14:25",
+      "album": {
         "name": "We Can Be Anything",
         "url": "https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 201047,
       "name": "We Can Be Anything",
       "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
+    },
+    {
+      "added_at": "2023-09-25 18:14:25",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 279810,
+      "name": "Fall Right In",
+      "url": "https://open.spotify.com/track/5NqxYiQuZFRIlhZmNVQEPX"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -1043,42 +1059,22 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/1mnkQmiqItiPZVAu4jrk14"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 279810,
-      "name": "Fall Right In",
-      "url": "https://open.spotify.com/track/5NqxYiQuZFRIlhZmNVQEPX"
-    },
-    {
-      "added_at": "2023-09-25 18:14:25",
-      "album": {
-        "name": "Haunt My Mind (Machinedrum Remix)",
-        "url": "https://open.spotify.com/album/28qqCQqnNzVnAsfXOsuaDU"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+          "name": "Matata",
+          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
         },
         {
-          "name": "Tudor",
-          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
-        },
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
         }
       ],
-      "duration_ms": 205140,
-      "name": "Haunt My Mind - Machinedrum Remix",
-      "url": "https://open.spotify.com/track/3TXrfDuEZxTaXLG8236DyQ"
+      "duration_ms": 252693,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/2iGu9F7QQXW8h7Er5c8Gq3"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -1107,22 +1103,26 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
-        "name": "Not Today",
-        "url": "https://open.spotify.com/album/1mnkQmiqItiPZVAu4jrk14"
+        "name": "Haunt My Mind (Machinedrum Remix)",
+        "url": "https://open.spotify.com/album/28qqCQqnNzVnAsfXOsuaDU"
       },
       "artists": [
         {
-          "name": "Matata",
-          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         },
         {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+          "name": "Tudor",
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+        },
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
         }
       ],
-      "duration_ms": 252693,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/2iGu9F7QQXW8h7Er5c8Gq3"
+      "duration_ms": 205140,
+      "name": "Haunt My Mind - Machinedrum Remix",
+      "url": "https://open.spotify.com/track/3TXrfDuEZxTaXLG8236DyQ"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -1139,6 +1139,22 @@
       "duration_ms": 202493,
       "name": "DOOLALLY",
       "url": "https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg"
+    },
+    {
+      "added_at": "2023-09-25 18:14:25",
+      "album": {
+        "name": "Pinking Shears",
+        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 152420,
+      "name": "Pinking Shears",
+      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -1163,18 +1179,34 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
-        "name": "Pinking Shears",
-        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
+        "name": "A STRANGER",
+        "url": "https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC"
       },
       "artists": [
         {
-          "name": "Mandy, Indiana",
-          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
         }
       ],
-      "duration_ms": 152420,
-      "name": "Pinking Shears",
-      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
+      "duration_ms": 167391,
+      "name": "A STRANGER",
+      "url": "https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I"
+    },
+    {
+      "added_at": "2023-09-25 18:14:25",
+      "album": {
+        "name": "Better Than I?",
+        "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
+      },
+      "artists": [
+        {
+          "name": "Shakes",
+          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
+        }
+      ],
+      "duration_ms": 145861,
+      "name": "Better Than I?",
+      "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -1195,22 +1227,6 @@
       "duration_ms": 124878,
       "name": "Tings My Way",
       "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
-    },
-    {
-      "added_at": "2023-09-25 18:14:25",
-      "album": {
-        "name": "A STRANGER",
-        "url": "https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 167391,
-      "name": "A STRANGER",
-      "url": "https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
-        "name": "Better Than I?",
-        "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
-      },
-      "artists": [
-        {
-          "name": "Shakes",
-          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
-        }
-      ],
-      "duration_ms": 145861,
-      "name": "Better Than I?",
-      "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
-    },
-    {
-      "added_at": "2023-09-25 18:14:25",
-      "album": {
         "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
         "url": "https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 267066,
       "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
       "url": "https://open.spotify.com/track/3yVz0LNJ7gdMsAfIAxlKJO"
-    },
-    {
-      "added_at": "2023-09-25 18:14:25",
-      "album": {
-        "name": "The World\u2019s Biggest Paving Slab",
-        "url": "https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6"
-      },
-      "artists": [
-        {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
-        }
-      ],
-      "duration_ms": 185471,
-      "name": "The World's Biggest Paving Slab",
-      "url": "https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -1319,6 +1303,22 @@
       "duration_ms": 174830,
       "name": "FORMULA",
       "url": "https://open.spotify.com/track/383FsUoOEqgBRcttGMeoLs"
+    },
+    {
+      "added_at": "2023-09-25 18:14:25",
+      "album": {
+        "name": "The World\u2019s Biggest Paving Slab",
+        "url": "https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "duration_ms": 185471,
+      "name": "The World's Biggest Paving Slab",
+      "url": "https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
-        "name": "i've got a bf (best friend)",
-        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        },
-        {
-          "name": "niina",
-          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
-        }
-      ],
-      "duration_ms": 148852,
-      "name": "i've got a bf (best friend)",
-      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
-    },
-    {
-      "added_at": "2023-09-25 18:14:25",
-      "album": {
         "name": "RTJ CU4TRO",
         "url": "https://open.spotify.com/album/1wJ0AElY0PY4pbzvKZw8io"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 244440,
       "name": "fuera de vista (feat. Baco Exu Do Blues) - TROOKO's Versi\u00f3n",
       "url": "https://open.spotify.com/track/4tS1IvkIue4frsyOmZmb1W"
+    },
+    {
+      "added_at": "2023-09-25 18:14:25",
+      "album": {
+        "name": "i've got a bf (best friend)",
+        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        },
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "duration_ms": 148852,
+      "name": "i've got a bf (best friend)",
+      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
-        "name": "Mantra No. 9",
-        "url": "https://open.spotify.com/album/2ZUa47nI8CFCIJhA94UGEj"
-      },
-      "artists": [
-        {
-          "name": "Fliptrix",
-          "url": "https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE"
-        }
-      ],
-      "duration_ms": 212213,
-      "name": "So Clear",
-      "url": "https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo"
-    },
-    {
-      "added_at": "2023-09-25 18:14:25",
-      "album": {
         "name": "DICHOTOMY",
         "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 223278,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
+    },
+    {
+      "added_at": "2023-09-25 18:14:25",
+      "album": {
+        "name": "Mantra No. 9",
+        "url": "https://open.spotify.com/album/2ZUa47nI8CFCIJhA94UGEj"
+      },
+      "artists": [
+        {
+          "name": "Fliptrix",
+          "url": "https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE"
+        }
+      ],
+      "duration_ms": 212213,
+      "name": "So Clear",
+      "url": "https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo"
     },
     {
       "added_at": "2023-09-25 18:14:25",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2023-09-25 18:14:25",
       "album": {
-        "name": "MMM",
-        "url": "https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco"
-      },
-      "artists": [
-        {
-          "name": "Skinny Local",
-          "url": "https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1"
-        },
-        {
-          "name": "Cartel Madras",
-          "url": "https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3"
-        }
-      ],
-      "duration_ms": 144928,
-      "name": "MMM",
-      "url": "https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P"
-    },
-    {
-      "added_at": "2023-09-25 18:14:25",
-      "album": {
         "name": "Absolutely Tidy",
         "url": "https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 212790,
       "name": "R.A.V.E.A.S.A.P (Unglued Remix)",
       "url": "https://open.spotify.com/track/1FSy5JFWNsPj6hM2qIWr7W"
+    },
+    {
+      "added_at": "2023-09-25 18:14:25",
+      "album": {
+        "name": "MMM",
+        "url": "https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco"
+      },
+      "artists": [
+        {
+          "name": "Skinny Local",
+          "url": "https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1"
+        },
+        {
+          "name": "Cartel Madras",
+          "url": "https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3"
+        }
+      ],
+      "duration_ms": 144928,
+      "name": "MMM",
+      "url": "https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P"
     },
     {
       "added_at": "2023-09-25 18:14:25",

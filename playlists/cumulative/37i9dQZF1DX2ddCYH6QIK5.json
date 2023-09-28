@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: *maliiik, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: soffie, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 213168,
       "name": "17",
       "url": "https://open.spotify.com/track/6bmiDWvLMOJToIujv306Iy"
@@ -1258,6 +1258,24 @@
       "duration_ms": 159829,
       "name": "Baby Steps - Single Edit",
       "url": "https://open.spotify.com/track/7zJWKWiZ0EBAJpRuLs2uzC"
+    },
+    {
+      "album": {
+        "name": "Back To The Roots",
+        "url": "https://open.spotify.com/album/1pOUgIh2725gfM990d7ebO"
+      },
+      "artists": [
+        {
+          "name": "Chris Wayfarer",
+          "url": "https://open.spotify.com/artist/26Wrq8n8NmvH9B01Uq2Fok"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390500,
+      "name": "Back to the Roots",
+      "url": "https://open.spotify.com/track/54KvNhZTGFHT8tazI0TAdo"
     },
     {
       "album": {
@@ -3768,6 +3786,24 @@
       "duration_ms": 240813,
       "name": "Die Welt ist fertig",
       "url": "https://open.spotify.com/track/3LUOcqlu46rIVkRRxJF0mU"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/7815hAIrXX9NA8CqRhyAej"
+      },
+      "artists": [
+        {
+          "name": "ANOTHER NGUYEN",
+          "url": "https://open.spotify.com/artist/38bL6RPFPY14qTcIGIYyPM"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142480,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/76uoN1r9wMzKgjHu8nJjaZ"
     },
     {
       "album": {
@@ -8211,6 +8247,24 @@
     },
     {
       "album": {
+        "name": "Keep It Movin'",
+        "url": "https://open.spotify.com/album/2nGY8IsJjHiPuMi0dr6LeV"
+      },
+      "artists": [
+        {
+          "name": "Naesia",
+          "url": "https://open.spotify.com/artist/2InyKKvSXjsPZHDhAKrtZA"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178092,
+      "name": "Keep It Movin'",
+      "url": "https://open.spotify.com/track/0VgKrJORvQuSbLkgzYw1BU"
+    },
+    {
+      "album": {
         "name": "keep on living",
         "url": "https://open.spotify.com/album/0WCs20i2tHSE4sr6fzegho"
       },
@@ -9545,6 +9599,24 @@
     },
     {
       "album": {
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/4yzMntUkyuX8gYyWFlNMLO"
+      },
+      "artists": [
+        {
+          "name": "MOLLY SUE",
+          "url": "https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145840,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/0mcsqmNDZrdOPUvVnwpo9h"
+    },
+    {
+      "album": {
         "name": "Model",
         "url": "https://open.spotify.com/album/16lYaRj49ot04pViDsSTqf"
       },
@@ -9672,7 +9744,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 192000,
       "name": "Monster on a Screen",
       "url": "https://open.spotify.com/track/0LtWvhu3hN8iZ0jVRVqp7U"
@@ -11073,6 +11145,24 @@
     },
     {
       "album": {
+        "name": "Paralysiert",
+        "url": "https://open.spotify.com/album/0kz1ifVEspJbS3s3QIJIAZ"
+      },
+      "artists": [
+        {
+          "name": "Low Life Rich Kids",
+          "url": "https://open.spotify.com/artist/07N6DATtpRNMzxRVEXTX0v"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146518,
+      "name": "Paralysiert",
+      "url": "https://open.spotify.com/track/6Ryf1GSw4Q0qTMRzy6Tk69"
+    },
+    {
+      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/6KPV1coqiNMzWmfjpUI9LY"
       },
@@ -11312,7 +11402,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 217301,
       "name": "Please Clap",
       "url": "https://open.spotify.com/track/5tFdafNAfx0k4a29muk2jS"
@@ -11550,7 +11640,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 233493,
       "name": "Protection",
       "url": "https://open.spotify.com/track/6AAFmz6VIZfKily1dhD08h"
@@ -12217,6 +12307,24 @@
     },
     {
       "album": {
+        "name": "Rosenkohl",
+        "url": "https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5"
+      },
+      "artists": [
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Rosenkohl",
+      "url": "https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis"
+    },
+    {
+      "album": {
         "name": "Round Around",
         "url": "https://open.spotify.com/album/5zimKf9QPGPHWY6bpz4CDp"
       },
@@ -12722,6 +12830,24 @@
       "duration_ms": 245760,
       "name": "Shades",
       "url": "https://open.spotify.com/track/4SdBlOhE545Zr2ZH2oca3i"
+    },
+    {
+      "album": {
+        "name": "Shark attack",
+        "url": "https://open.spotify.com/album/7H7LO3Wlpmr3J687K9iEnv"
+      },
+      "artists": [
+        {
+          "name": "Softbait",
+          "url": "https://open.spotify.com/artist/5S5yEz4ECzgreq1QGXwDo0"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205479,
+      "name": "Shark attack",
+      "url": "https://open.spotify.com/track/2MS1PhV46SXkNzGrXGfPlO"
     },
     {
       "album": {
@@ -13595,6 +13721,24 @@
     },
     {
       "album": {
+        "name": "still life",
+        "url": "https://open.spotify.com/album/7oYrLzInntMh7wdbryFnDS"
+      },
+      "artists": [
+        {
+          "name": "sanna",
+          "url": "https://open.spotify.com/artist/31BTzG2olQWOHbn1nh1E94"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144903,
+      "name": "still life",
+      "url": "https://open.spotify.com/track/2v4TtNgwXRQxqjYUPKA8Ln"
+    },
+    {
+      "album": {
         "name": "Still Remain",
         "url": "https://open.spotify.com/album/7tAGMWaFWHV3csTmNRV9TV"
       },
@@ -14364,7 +14508,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 302202,
       "name": "The Trap",
       "url": "https://open.spotify.com/track/42x6wBHYjVFcU3a8VJK718"
@@ -15180,7 +15324,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 249052,
       "name": "Unsaid",
       "url": "https://open.spotify.com/track/1hcclZ8pSg2yYlQc6XqoMT"
@@ -15556,7 +15700,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 148363,
       "name": "Wakey Wakey",
       "url": "https://open.spotify.com/track/6WgkOAS4j7FableCK8NXEj"
@@ -16530,7 +16674,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 169374,
       "name": "you're a project",
       "url": "https://open.spotify.com/track/0LNGqZIfDsFWJ1h6Cz2SXH"

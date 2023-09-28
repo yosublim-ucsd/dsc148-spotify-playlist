@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,661 songs - 5 day 20 hr 18 min
+3,662 songs - 5 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2220,7 +2220,7 @@
 | [NOEL.IS & MC Rene](https://open.spotify.com/track/6eVZC97sVSF4A6Cnt51ynJ) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [90](https://open.spotify.com/album/4mTYARb95MTR0DKmxqaX3S) | 2:29 | 2021-08-27 | 2021-09-08 |
 | [Noia](https://open.spotify.com/track/14z1EmhBgo1NE3x1zkM2KE) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Noia](https://open.spotify.com/album/2WXw7idqMNjv2Zj1Y2qePz) | 2:06 | 2020-09-11 | 2021-02-06 |
 | [Non](https://open.spotify.com/track/70Fpfvw4EwnTiInSc1U3e0) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Flitzer](https://open.spotify.com/album/7I13wkKorEyQq5WCU7e0Vv) | 2:41 | 2021-08-13 | 2021-09-10 |
-| [Nonobody](https://open.spotify.com/track/6TRmQMiyzoqKDTmrT8ZIpe) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Nonobody](https://open.spotify.com/album/4Yn55I0bFe87BrUFQIISXF) | 2:24 | 2022-10-13 |  |
+| [Nonobody](https://open.spotify.com/track/6TRmQMiyzoqKDTmrT8ZIpe) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Nonobody](https://open.spotify.com/album/4Yn55I0bFe87BrUFQIISXF) | 2:24 | 2022-10-13 | 2023-09-28 |
 | [Noodle Soup](https://open.spotify.com/track/31pRixOWqVG7Gp1SpZj8mt) | [Cactus Vibrance](https://open.spotify.com/artist/6PVB0Ti5A0B4sCtcVKyQ5G) | [Noodle Soup](https://open.spotify.com/album/2EvTde1WHndypmL6zv8MmG) | 1:13 | 2021-12-11 | 2021-12-21 |
 | [Northern Lights](https://open.spotify.com/track/5ie0eCg6MnIAXVyqg8VGGy) | [HawkOne](https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Northern Lights](https://open.spotify.com/album/7fuQgnBnwhQOPUjkJtWUCX) | 2:00 | 2022-08-18 |  |
 | [Nostalgia](https://open.spotify.com/track/3iT6bEadJKPuGhc01xKGLF) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [NXWA](https://open.spotify.com/artist/1sHBsHEfGEQIuSbvyMB8jn), [LOOF](https://open.spotify.com/artist/6hhRXLJb6Uvb29pFipoZGP) | [En Route](https://open.spotify.com/album/3numgBHs95MdGUKMcDgAT7) | 2:05 | 2023-04-13 |  |
@@ -2341,6 +2341,7 @@
 | [Paces](https://open.spotify.com/track/2ZrUwNP8q29wg3VpvMI0t3) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Paces](https://open.spotify.com/album/08PsAKfhRdGhIXLmSvz6f7) | 2:11 | 2023-04-20 |  |
 | [Pacific Coastline](https://open.spotify.com/track/6xNnK0rlHFSeOx5QFJI4se) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Pacific Coastline](https://open.spotify.com/album/4YoZ5rggr007R3t6CRfBIS) | 1:37 | 2021-05-07 | 2021-09-03 |
 | [Pacific Nights](https://open.spotify.com/track/5JuEdzGvKzxKkRbNhWCgvM) | [MagFi](https://open.spotify.com/artist/7cP4a4wJ4c2u9zTEi7g8xs) | [Pacific Nights](https://open.spotify.com/album/3WQ3XWSeMaL70lToYqWn1y) | 2:07 | 2023-01-20 | 2023-04-14 |
+| [Pacific Ocean](https://open.spotify.com/track/0HVhGwl00ZiNSVvqih07cH) | [TwoChills](https://open.spotify.com/artist/6H52XHsK270xEHnxCpVKat), [kyoshi](https://open.spotify.com/artist/3f07ZRsXK7XDJfccmAJNi1), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [Pacific Ocean](https://open.spotify.com/album/2hoqnoAOACLf7UiKn73UfW) | 1:36 | 2023-09-21 |  |
 | [Pacific Road](https://open.spotify.com/track/14HnkFmwaUsHnGYIuovIyF) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection II](https://open.spotify.com/album/6xjbfA7URpzEV1Po9eTAWB) | 1:33 | 2019-05-26\* | 2019-08-13 |
 | [Pack It](https://open.spotify.com/track/7CXFNdBUWiAFWYNSS1JWQR) | [L One](https://open.spotify.com/artist/7tEjTeqNJNgTEprTguQGTK), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Pack It](https://open.spotify.com/album/0GiC9zDBsYwype56k8CSC3) | 2:46 | 2020-07-11 | 2021-02-24 |
 | [Pacman](https://open.spotify.com/track/42MVeCHFVCM9B9wF2ybTDk) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Pacman](https://open.spotify.com/album/18R4LQrYnTXl4r95Y65XjX) | 1:57 | 2021-08-27 | 2021-09-30 |

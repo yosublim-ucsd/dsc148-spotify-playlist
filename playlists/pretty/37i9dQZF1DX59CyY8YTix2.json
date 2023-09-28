@@ -1,18 +1,18 @@
 {
   "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese female rock icons. Cover: \u30af\u30ec\u30ca\u30ba\u30e0 (Culenasm)",
-  "num_followers": 45127,
+  "num_followers": 45138,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGM5YmNhZWI4MGFkMzU4OGQ2NzZkMjE3YzVkZDAxNDFhYTU2ZThj",
+  "snapshot_id": "MCwxMDBiMjFhMTQ0YjgzYmE1MjBhY2VmZTIzNTc0ZmE4MTEzNTBmODZl",
   "tracks": [
     {
       "added_at": "2023-09-26 17:11:09",
       "album": {
-        "name": "\u5915\u51ea\u8a60\u8349",
-        "url": "https://open.spotify.com/album/0hz1H7b4aFsXSRsPfb4hj8"
+        "name": "yunagieiso",
+        "url": "https://open.spotify.com/album/7FD9T96o1fl2qTcRem8iNM"
       },
       "artists": [
         {
@@ -21,8 +21,8 @@
         }
       ],
       "duration_ms": 237975,
-      "name": "\u5915\u51ea\u8a60\u8349",
-      "url": "https://open.spotify.com/track/3ubz3X8CL6Fd1xUYh1L2IU"
+      "name": "yunagieiso",
+      "url": "https://open.spotify.com/track/618pyNivEdcfLnc9TbKAuQ"
     },
     {
       "added_at": "2023-09-26 17:11:09",
@@ -131,8 +131,8 @@
     {
       "added_at": "2023-09-26 17:11:09",
       "album": {
-        "name": "\u6700\u7d42\u96fb\u8eca",
-        "url": "https://open.spotify.com/album/4YBeOztoozbacnkUrTIZ9a"
+        "name": "Saishu Densha",
+        "url": "https://open.spotify.com/album/0gQM4q0zKxgweOJrcfDaS1"
       },
       "artists": [
         {
@@ -141,8 +141,8 @@
         }
       ],
       "duration_ms": 202812,
-      "name": "\u6700\u7d42\u96fb\u8eca",
-      "url": "https://open.spotify.com/track/5w6BAOkBuEeu9etAliMA4a"
+      "name": "Saishu Densha",
+      "url": "https://open.spotify.com/track/3gT0d6cGELhvkElB9sWRrM"
     },
     {
       "added_at": "2023-09-26 17:11:09",
@@ -327,22 +327,18 @@
     {
       "added_at": "2023-09-26 17:11:09",
       "album": {
-        "name": "\u865a\u50cf\u306eCarousel",
-        "url": "https://open.spotify.com/album/4HnTbIJinqxIvnHeIBaJv6"
+        "name": "\u30b4\u30fc\u30b9\u30c8\u30c0\u30a4\u30d6",
+        "url": "https://open.spotify.com/album/22Y4CMkBXjaGCVfzNrtdEw"
       },
       "artists": [
         {
-          "name": "Mori Calliope",
-          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
-        },
-        {
-          "name": "Reol",
-          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
+          "name": "POLKADOT STINGRAY",
+          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
         }
       ],
-      "duration_ms": 228840,
-      "name": "\u865a\u50cf\u306eCarousel",
-      "url": "https://open.spotify.com/track/2FCkgW3vOc3IvpOCd0LJMT"
+      "duration_ms": 198000,
+      "name": "\u30b4\u30fc\u30b9\u30c8\u30c0\u30a4\u30d6",
+      "url": "https://open.spotify.com/track/3YSYq98AiBIXAj8GCW3wbd"
     },
     {
       "added_at": "2023-09-26 17:11:09",
@@ -363,18 +359,22 @@
     {
       "added_at": "2023-09-26 17:11:09",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+        "name": "\u865a\u50cf\u306eCarousel",
+        "url": "https://open.spotify.com/album/4HnTbIJinqxIvnHeIBaJv6"
       },
       "artists": [
         {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        },
+        {
+          "name": "Reol",
+          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
         }
       ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+      "duration_ms": 228840,
+      "name": "\u865a\u50cf\u306eCarousel",
+      "url": "https://open.spotify.com/track/2FCkgW3vOc3IvpOCd0LJMT"
     },
     {
       "added_at": "2023-09-26 17:11:09",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-09-26 17:11:09",
       "album": {
-        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
-        "url": "https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU"
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 215600,
-      "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
-      "url": "https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv"
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2023-09-26 17:11:09",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-09-26 17:11:09",
       "album": {
+        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
+        "url": "https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
+      "url": "https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv"
+    },
+    {
+      "added_at": "2023-09-26 17:11:09",
+      "album": {
         "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
         "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 228573,
       "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
-    },
-    {
-      "added_at": "2023-09-26 17:11:09",
-      "album": {
-        "name": "\u30b4\u30fc\u30b9\u30c8\u30c0\u30a4\u30d6",
-        "url": "https://open.spotify.com/album/22Y4CMkBXjaGCVfzNrtdEw"
-      },
-      "artists": [
-        {
-          "name": "POLKADOT STINGRAY",
-          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "\u30b4\u30fc\u30b9\u30c8\u30c0\u30a4\u30d6",
-      "url": "https://open.spotify.com/track/3YSYq98AiBIXAj8GCW3wbd"
     },
     {
       "added_at": "2023-09-26 17:11:09",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-09-26 17:11:09",
       "album": {
+        "name": "FOOL",
+        "url": "https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "FOOL",
+      "url": "https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2"
+    },
+    {
+      "added_at": "2023-09-26 17:11:09",
+      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 198307,
       "name": "Kiddy",
       "url": "https://open.spotify.com/track/0XnzXvYScKwURM2Jf4vMlT"
-    },
-    {
-      "added_at": "2023-09-26 17:11:09",
-      "album": {
-        "name": "FOOL",
-        "url": "https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "FOOL",
-      "url": "https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2"
     },
     {
       "added_at": "2023-09-26 17:11:09",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-26 17:11:09",
       "album": {
-        "name": "\u3075\u305f\u308a",
-        "url": "https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w"
-      },
-      "artists": [
-        {
-          "name": "35.7",
-          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "\u3075\u305f\u308a",
-      "url": "https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT"
-    },
-    {
-      "added_at": "2023-09-26 17:11:09",
-      "album": {
         "name": "Sing The Moon",
         "url": "https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 206120,
       "name": "Sing The Moon",
       "url": "https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo"
+    },
+    {
+      "added_at": "2023-09-26 17:11:09",
+      "album": {
+        "name": "\u3075\u305f\u308a",
+        "url": "https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w"
+      },
+      "artists": [
+        {
+          "name": "35.7",
+          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "\u3075\u305f\u308a",
+      "url": "https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT"
     },
     {
       "added_at": "2023-09-26 17:11:09",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-09-26 17:11:09",
       "album": {
+        "name": "\u30cf\u30a4\u30ad",
+        "url": "https://open.spotify.com/album/4RCWq7krRO3AVFj8fvWhYs"
+      },
+      "artists": [
+        {
+          "name": "Regal Lily",
+          "url": "https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK"
+        }
+      ],
+      "duration_ms": 215214,
+      "name": "\u30cf\u30a4\u30ad",
+      "url": "https://open.spotify.com/track/571OuDNbmwsysH42KfVp5P"
+    },
+    {
+      "added_at": "2023-09-26 17:11:09",
+      "album": {
         "name": "8gatsu31nichi",
         "url": "https://open.spotify.com/album/6a7cJ86ZJjhRuwtK3Me8Rv"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2023-09-26 17:11:09",
       "album": {
-        "name": "\u30cf\u30a4\u30ad",
-        "url": "https://open.spotify.com/album/4RCWq7krRO3AVFj8fvWhYs"
+        "name": "charm",
+        "url": "https://open.spotify.com/album/4dw6Vqh0YknvgzKcfyKbIZ"
       },
       "artists": [
         {
-          "name": "Regal Lily",
-          "url": "https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK"
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
         }
       ],
-      "duration_ms": 215214,
-      "name": "\u30cf\u30a4\u30ad",
-      "url": "https://open.spotify.com/track/571OuDNbmwsysH42KfVp5P"
+      "duration_ms": 190210,
+      "name": "\u30ea\u30c3\u30d7\u30b7\u30f3\u30af",
+      "url": "https://open.spotify.com/track/1kyp3dQGHftpJRpRAoY94z"
     },
     {
       "added_at": "2023-09-26 17:11:09",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-09-26 17:11:09",
       "album": {
-        "name": "charm",
-        "url": "https://open.spotify.com/album/4dw6Vqh0YknvgzKcfyKbIZ"
-      },
-      "artists": [
-        {
-          "name": "Conton Candy",
-          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
-        }
-      ],
-      "duration_ms": 190210,
-      "name": "\u30ea\u30c3\u30d7\u30b7\u30f3\u30af",
-      "url": "https://open.spotify.com/track/1kyp3dQGHftpJRpRAoY94z"
-    },
-    {
-      "added_at": "2023-09-26 17:11:09",
-      "album": {
         "name": "Around Dusk",
         "url": "https://open.spotify.com/album/2ROkLQv3yr62pu56JjM483"
       },
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-09-26 17:11:09",
       "album": {
-        "name": "\u7720\u308c\u306a\u3044\u591c\u3092\u541b\u306b",
-        "url": "https://open.spotify.com/album/7rrFcw6k2bhPTVkhswjxTk"
+        "name": "Teenager",
+        "url": "https://open.spotify.com/album/4hQM81eAKcx3fnvBqNt2DF"
       },
       "artists": [
         {
-          "name": "\u3042\u305f\u3089\u3088",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+          "name": "Sundae May Club",
+          "url": "https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM"
         }
       ],
-      "duration_ms": 244279,
-      "name": "\u7720\u308c\u306a\u3044\u591c\u3092\u541b\u306b",
-      "url": "https://open.spotify.com/track/1ftEhiwyfsGsdYHyKxUj2f"
+      "duration_ms": 156866,
+      "name": "Teenager",
+      "url": "https://open.spotify.com/track/5HJmjrdCvcNg0VUzWy2DRT"
     }
   ],
   "unique_name": "She Rocks",

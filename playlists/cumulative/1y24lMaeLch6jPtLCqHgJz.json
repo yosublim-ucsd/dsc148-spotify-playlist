@@ -4703,6 +4703,32 @@
     },
     {
       "album": {
+        "name": "Want My Love (BLK RSE Remix)",
+        "url": "https://open.spotify.com/album/2kQ9OXxZefyarcAKXczCut"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Mentum",
+          "url": "https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3"
+        },
+        {
+          "name": "BLK RSE",
+          "url": "https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156354,
+      "name": "Want My Love - BLK RSE Remix",
+      "url": "https://open.spotify.com/track/6QO62YqktI1bBsQdQD2T57"
+    },
+    {
+      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/0alUNmsRrVuckujLRVFNK5"
       },

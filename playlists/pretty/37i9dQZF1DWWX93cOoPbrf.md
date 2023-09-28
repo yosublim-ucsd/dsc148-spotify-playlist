@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,913 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,620 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Apenas Es Martes](https://open.spotify.com/track/1RXb99lIyj8RYACt13yg8M) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 3:20 |
 | 75 | [Las Hazañas Del Güerito](https://open.spotify.com/track/0uZGA1nYVzPfDjFZYc8tme) | [Códice](https://open.spotify.com/artist/20p8yriwsdlALnCz2xXLmZ) | [Las Hazañas Del Güerito](https://open.spotify.com/album/3f42mpaRBVm7K2IBzsfL2O) | 2:58 |
 
-Snapshot ID: `MCw1ZDVmOWVhODA5MWVlODM3OWIyOGNiMDZmNThmY2NiZGJhZjlhZWQ2`
+Snapshot ID: `MCxiNTA2NDQzYTc2ZWRhZGYxZDljZjgzNmY3ZDIxOGI2OTUwZDU1M2I5`

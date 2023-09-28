@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: R\u00f4 Rosa",
-  "num_followers": 286254,
+  "num_followers": 286329,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTM1NWIwMjFlNmQ3ZTZhNGMzNTIzNzEyOGRjMjUyNmI1NGY4ODkx",
+  "snapshot_id": "MCwyOWQ0ZmZiMTI2M2IwYTRmYTI3NTBiMzczMThhYTBjZTcwYjQxYThj",
   "tracks": [
     {
       "added_at": "2023-09-22 17:48:35",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-09-22 17:48:35",
       "album": {
+        "name": "Sempre em Frente",
+        "url": "https://open.spotify.com/album/4nGrhdelNUboisIrusK5eS"
+      },
+      "artists": [
+        {
+          "name": "NAVALA",
+          "url": "https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p"
+        }
+      ],
+      "duration_ms": 203916,
+      "name": "Sempre em Frente",
+      "url": "https://open.spotify.com/track/6R17qo7qwpkPu7szy5tK7G"
+    },
+    {
+      "added_at": "2023-09-22 17:48:35",
+      "album": {
         "name": "Desliga",
         "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 208762,
       "name": "Linda",
       "url": "https://open.spotify.com/track/3knUp342DsZsUmcY62m1vU"
-    },
-    {
-      "added_at": "2023-09-22 17:48:35",
-      "album": {
-        "name": "Sempre em Frente",
-        "url": "https://open.spotify.com/album/4nGrhdelNUboisIrusK5eS"
-      },
-      "artists": [
-        {
-          "name": "NAVALA",
-          "url": "https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p"
-        }
-      ],
-      "duration_ms": 203916,
-      "name": "Sempre em Frente",
-      "url": "https://open.spotify.com/track/6R17qo7qwpkPu7szy5tK7G"
     },
     {
       "added_at": "2023-09-22 17:48:35",
@@ -1195,42 +1195,6 @@
     {
       "added_at": "2023-09-22 17:48:35",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
-    },
-    {
-      "added_at": "2023-09-22 17:48:35",
-      "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
-    },
-    {
-      "added_at": "2023-09-22 17:48:35",
-      "album": {
         "name": "FOME",
         "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
       },
@@ -1251,6 +1215,42 @@
     {
       "added_at": "2023-09-22 17:48:35",
       "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
+    },
+    {
+      "added_at": "2023-09-22 17:48:35",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
+    },
+    {
+      "added_at": "2023-09-22 17:48:35",
+      "album": {
         "name": "Positiva",
         "url": "https://open.spotify.com/album/1Jx0BnQVqn5jXMA2LVJzTd"
       },
@@ -1263,6 +1263,26 @@
       "duration_ms": 150280,
       "name": "Positiva",
       "url": "https://open.spotify.com/track/33U3Gmoy3PzawWRSXujlrk"
+    },
+    {
+      "added_at": "2023-09-22 17:48:35",
+      "album": {
+        "name": "Espero Que N\u00e3o Dure (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2dmxASah4bRnBadFadPbXM"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Espero Que N\u00e3o Dure - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2LipaKn124ClsUoFjCoQIJ"
     },
     {
       "added_at": "2023-09-22 17:48:35",
@@ -1307,22 +1327,18 @@
     {
       "added_at": "2023-09-22 17:48:35",
       "album": {
-        "name": "Espero Que N\u00e3o Dure (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2dmxASah4bRnBadFadPbXM"
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/2tmBwAa0NoFE0c8h3LfCCp"
       },
       "artists": [
         {
-          "name": "Sabrina Lopes",
-          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
-        },
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+          "name": "NIZZ",
+          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Espero Que N\u00e3o Dure - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2LipaKn124ClsUoFjCoQIJ"
+      "duration_ms": 175208,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6a5l5Yh0RHApkOPcE39T02"
     },
     {
       "added_at": "2023-09-22 17:48:35",
@@ -1343,22 +1359,6 @@
       "duration_ms": 109260,
       "name": "R\u00e1dio do Caribe",
       "url": "https://open.spotify.com/track/19g8PZ080d83ibFIDdqu3k"
-    },
-    {
-      "added_at": "2023-09-22 17:48:35",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/2tmBwAa0NoFE0c8h3LfCCp"
-      },
-      "artists": [
-        {
-          "name": "NIZZ",
-          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/6a5l5Yh0RHApkOPcE39T02"
     },
     {
       "added_at": "2023-09-22 17:48:35",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2023-09-22 17:48:35",
       "album": {
-        "name": "Seu Z\u00e9",
-        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
-      },
-      "artists": [
-        {
-          "name": "Gu",
-          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
-        },
-        {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
-        }
-      ],
-      "duration_ms": 136430,
-      "name": "Seu Z\u00e9",
-      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
-    },
-    {
-      "added_at": "2023-09-22 17:48:35",
-      "album": {
         "name": "Aquelas Coisas",
         "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 196363,
       "name": "Aquelas Coisas",
       "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+    },
+    {
+      "added_at": "2023-09-22 17:48:35",
+      "album": {
+        "name": "Seu Z\u00e9",
+        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
+      },
+      "artists": [
+        {
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        }
+      ],
+      "duration_ms": 136430,
+      "name": "Seu Z\u00e9",
+      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
     },
     {
       "added_at": "2023-09-22 17:48:35",
@@ -1711,30 +1711,6 @@
     {
       "added_at": "2023-09-22 17:48:35",
       "album": {
-        "name": "No Ponto",
-        "url": "https://open.spotify.com/album/0MMeTJK5RBZzPyje8EkZdT"
-      },
-      "artists": [
-        {
-          "name": "Theo Bial",
-          "url": "https://open.spotify.com/artist/2spkAIBJRP7badm280YyB5"
-        },
-        {
-          "name": "Ogrow Beats",
-          "url": "https://open.spotify.com/artist/0Y71tGmD0xjvdg6hZoRywr"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "No Ponto",
-      "url": "https://open.spotify.com/track/19467mwzgOpeJPFjWlsChc"
-    },
-    {
-      "added_at": "2023-09-22 17:48:35",
-      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz"
       },
@@ -1759,6 +1735,30 @@
       "duration_ms": 138205,
       "name": "Magia",
       "url": "https://open.spotify.com/track/2dvPXUstjg81OAlx06pjB1"
+    },
+    {
+      "added_at": "2023-09-22 17:48:35",
+      "album": {
+        "name": "No Ponto",
+        "url": "https://open.spotify.com/album/0MMeTJK5RBZzPyje8EkZdT"
+      },
+      "artists": [
+        {
+          "name": "Theo Bial",
+          "url": "https://open.spotify.com/artist/2spkAIBJRP7badm280YyB5"
+        },
+        {
+          "name": "Ogrow Beats",
+          "url": "https://open.spotify.com/artist/0Y71tGmD0xjvdg6hZoRywr"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "No Ponto",
+      "url": "https://open.spotify.com/track/19467mwzgOpeJPFjWlsChc"
     },
     {
       "added_at": "2023-09-22 17:48:35",

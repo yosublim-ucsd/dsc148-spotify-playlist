@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Chesca",
-  "num_followers": 525250,
+  "num_followers": 525284,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDY2OWFjMDQzYzJjYjFjYzk4MjMyYjcwZGIzMmJlZDEzMzEyMDdl",
+  "snapshot_id": "MCwzZTRiY2I5Y2NiOGQ5ZDk0YTFjYjY1YzZmOWQ2MzZmYmRiOGMzMTZh",
   "tracks": [
     {
       "added_at": "2023-09-22 04:19:07",
@@ -851,6 +851,38 @@
     {
       "added_at": "2023-09-22 04:19:07",
       "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/14TXiNiKS2IN3DS2yebo6M"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 219626,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/5GeGyUYqWOjFBLKEa1CTet"
+    },
+    {
+      "added_at": "2023-09-22 04:19:07",
+      "album": {
+        "name": "La Verde",
+        "url": "https://open.spotify.com/album/05d4pEdbkJIdAtMy9xIokx"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 181342,
+      "name": "La Verde",
+      "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
+    },
+    {
+      "added_at": "2023-09-22 04:19:07",
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp"
       },
@@ -871,22 +903,6 @@
     {
       "added_at": "2023-09-22 04:19:07",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/14TXiNiKS2IN3DS2yebo6M"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 219626,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/5GeGyUYqWOjFBLKEa1CTet"
-    },
-    {
-      "added_at": "2023-09-22 04:19:07",
-      "album": {
         "name": "Cuerpo a Cuerpo",
         "url": "https://open.spotify.com/album/7jqGVZrtpQty4hCslVZJb9"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 244110,
       "name": "Cuerpo a Cuerpo",
       "url": "https://open.spotify.com/track/59cCMgCXQNLCk4AEnXr5GJ"
-    },
-    {
-      "added_at": "2023-09-22 04:19:07",
-      "album": {
-        "name": "La Verde",
-        "url": "https://open.spotify.com/album/05d4pEdbkJIdAtMy9xIokx"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 181342,
-      "name": "La Verde",
-      "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
     },
     {
       "added_at": "2023-09-22 04:19:07",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-22 04:19:07",
       "album": {
-        "name": "Pa' Que Afinken",
-        "url": "https://open.spotify.com/album/7v0hIMGMWE9HJjM7tbcxiJ"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 148504,
-      "name": "Pa' Que Afinken",
-      "url": "https://open.spotify.com/track/5nZdGg5KXKmp3Vzha41wje"
-    },
-    {
-      "added_at": "2023-09-22 04:19:07",
-      "album": {
         "name": "MILWAUKEE 2",
         "url": "https://open.spotify.com/album/2dSp6CWL2wGk5wuDddVRRe"
       },
@@ -1191,26 +1175,18 @@
     {
       "added_at": "2023-09-22 04:19:07",
       "album": {
-        "name": "BANDIDA",
-        "url": "https://open.spotify.com/album/0Gawwvg9JS6p24C2BpmyIb"
+        "name": "Pa' Que Afinken",
+        "url": "https://open.spotify.com/album/7v0hIMGMWE9HJjM7tbcxiJ"
       },
       "artists": [
         {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 229493,
-      "name": "BANDIDA",
-      "url": "https://open.spotify.com/track/3iecNdnfVdLoGCoBG2wmaT"
+      "duration_ms": 148504,
+      "name": "Pa' Que Afinken",
+      "url": "https://open.spotify.com/track/5nZdGg5KXKmp3Vzha41wje"
     },
     {
       "added_at": "2023-09-22 04:19:07",
@@ -1259,6 +1235,30 @@
     {
       "added_at": "2023-09-22 04:19:07",
       "album": {
+        "name": "BANDIDA",
+        "url": "https://open.spotify.com/album/0Gawwvg9JS6p24C2BpmyIb"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "BANDIDA",
+      "url": "https://open.spotify.com/track/3iecNdnfVdLoGCoBG2wmaT"
+    },
+    {
+      "added_at": "2023-09-22 04:19:07",
+      "album": {
         "name": "Bicha",
         "url": "https://open.spotify.com/album/2LhBFY1mquGDfrsIw0oPaS"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 173960,
       "name": "No Es Normal (con Jay Wheeler)",
       "url": "https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr"
-    },
-    {
-      "added_at": "2023-09-22 04:19:07",
-      "album": {
-        "name": "Ella Hace Vino",
-        "url": "https://open.spotify.com/album/2TKEmeQD9nxDVxkiKQ8OFt"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 158314,
-      "name": "Ella Hace Vino",
-      "url": "https://open.spotify.com/track/6ANymFCKuM24XvNxaHksH9"
     },
     {
       "added_at": "2023-09-22 04:19:07",
@@ -1391,6 +1375,22 @@
       "duration_ms": 186293,
       "name": "Icee - Remix",
       "url": "https://open.spotify.com/track/0z5qD3QfUXw2hGgkyeXo6D"
+    },
+    {
+      "added_at": "2023-09-22 04:19:07",
+      "album": {
+        "name": "Ella Hace Vino",
+        "url": "https://open.spotify.com/album/2TKEmeQD9nxDVxkiKQ8OFt"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 158314,
+      "name": "Ella Hace Vino",
+      "url": "https://open.spotify.com/track/6ANymFCKuM24XvNxaHksH9"
     },
     {
       "added_at": "2023-09-22 04:19:07",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-09-22 04:19:07",
       "album": {
-        "name": "DE LOS 90",
-        "url": "https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox"
-      },
-      "artists": [
-        {
-          "name": "Itzza Primera",
-          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
-        }
-      ],
-      "duration_ms": 118762,
-      "name": "DE LOS 90",
-      "url": "https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd"
-    },
-    {
-      "added_at": "2023-09-22 04:19:07",
-      "album": {
         "name": "D.N.D (feat. Nio Garcia)",
         "url": "https://open.spotify.com/album/2bvnyGn8HgeYVkqjIrQaxr"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 240303,
       "name": "D.N.D (feat. Nio Garcia)",
       "url": "https://open.spotify.com/track/5dpV98IziKB0xupnrXUe9E"
+    },
+    {
+      "added_at": "2023-09-22 04:19:07",
+      "album": {
+        "name": "DE LOS 90",
+        "url": "https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox"
+      },
+      "artists": [
+        {
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+        }
+      ],
+      "duration_ms": 118762,
+      "name": "DE LOS 90",
+      "url": "https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd"
     },
     {
       "added_at": "2023-09-22 04:19:07",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-09-22 04:19:07",
       "album": {
-        "name": "EN LA MIA",
-        "url": "https://open.spotify.com/album/2HpneKcoRlNwTe5UFlQOqJ"
-      },
-      "artists": [
-        {
-          "name": "D2OS",
-          "url": "https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "EN LA MIA",
-      "url": "https://open.spotify.com/track/1TfqRVmFP6vAWKrnsXvoiV"
-    },
-    {
-      "added_at": "2023-09-22 04:19:07",
-      "album": {
         "name": "Si Si Si",
         "url": "https://open.spotify.com/album/6bb67M0aTVOuHxBLOs3eEl"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 225280,
       "name": "Si Si Si",
       "url": "https://open.spotify.com/track/5pfn2dFlOvpx5hsTDk0SH5"
+    },
+    {
+      "added_at": "2023-09-22 04:19:07",
+      "album": {
+        "name": "EN LA MIA",
+        "url": "https://open.spotify.com/album/2HpneKcoRlNwTe5UFlQOqJ"
+      },
+      "artists": [
+        {
+          "name": "D2OS",
+          "url": "https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "EN LA MIA",
+      "url": "https://open.spotify.com/track/1TfqRVmFP6vAWKrnsXvoiV"
     },
     {
       "added_at": "2023-09-22 04:19:07",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2023-09-22 04:19:07",
       "album": {
+        "name": "WEEKENES",
+        "url": "https://open.spotify.com/album/5LEnwMeuUp1PxqnilPqseD"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        },
+        {
+          "name": "ADSO",
+          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
+        }
+      ],
+      "duration_ms": 175862,
+      "name": "WEEKENES",
+      "url": "https://open.spotify.com/track/4VaxDAbOqzCANkwLUIK1WW"
+    },
+    {
+      "added_at": "2023-09-22 04:19:07",
+      "album": {
         "name": "Gatando la Funda",
         "url": "https://open.spotify.com/album/2hsgCqphv4KLN3P2BlkUs4"
       },
@@ -1867,26 +1887,6 @@
       "duration_ms": 170086,
       "name": "Gatando la Funda",
       "url": "https://open.spotify.com/track/3eadQDgUDkKCPy2TgfPvuc"
-    },
-    {
-      "added_at": "2023-09-22 04:19:07",
-      "album": {
-        "name": "WEEKENES",
-        "url": "https://open.spotify.com/album/5LEnwMeuUp1PxqnilPqseD"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        },
-        {
-          "name": "ADSO",
-          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
-        }
-      ],
-      "duration_ms": 175862,
-      "name": "WEEKENES",
-      "url": "https://open.spotify.com/track/4VaxDAbOqzCANkwLUIK1WW"
     },
     {
       "added_at": "2023-09-22 04:19:07",

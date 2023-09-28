@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,081 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,757 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 18 | [I Wanna Be Your Dog](https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 3:08 |
 | 19 | [She Used To Wanna Be A Ballerina](https://open.spotify.com/track/4IoYayDdeeBJx5Vj1xLpaE) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [She Used To Wanna Be A Ballerina](https://open.spotify.com/album/0Gxy0Z3Zo4OissivfQGzzz) | 2:17 |
 | 20 | [The Way I Walk](https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:40 |
-| 21 | [Bizet: Carmen, WD 31, Act 1: Habanera\. "L'amour est un oiseau rebelle" \(Carmen, Chœur\)](https://open.spotify.com/track/3pzBD8BVdrv7VJ7glRYshl) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Michel Plasson](https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob), [Angela Gheorghiu](https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44), [Les Éléments](https://open.spotify.com/artist/3M6UtjNuBdRuHaxcWH3EM3), [Orchestre National Du Capitole De Toulouse](https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa) | [Bizet: Carmen, WD 31](https://open.spotify.com/album/249X9ZjhWATM2KlkcCh9pt) | 4:35 |
+| 21 | [Bizet: Carmen, WD 31, Act 1: Habanera\. "L'amour est un oiseau rebelle" \(Carmen, Chœur\)](https://open.spotify.com/track/3pzBD8BVdrv7VJ7glRYshl) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Michel Plasson](https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob), [Angela Gheorghiu](https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44), [Les Éléments](https://open.spotify.com/artist/3M6UtjNuBdRuHaxcWH3EM3), [Orchestre National Du Capitole De Toulouse](https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa) | [Bizet: Carmen](https://open.spotify.com/album/249X9ZjhWATM2KlkcCh9pt) | 4:35 |
 | 22 | [Dance Across The Floor](https://open.spotify.com/track/1qasZQjHj5Toth6lw0aX3m) | [Jimmy "Bo" Horne](https://open.spotify.com/artist/6jcPHv7qVfqysvBT7Jmn7K) | [Dance Across The Floor](https://open.spotify.com/album/70gWD5znMmV5cFENCH0EzA) | 2:40 |
 | 23 | [Feels Like I'm in Love](https://open.spotify.com/track/3Swc1delyFn1fwPDkInUhC) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feels Like I'm in Love](https://open.spotify.com/album/2Qg2gDjtzgtCVcokMRS7Wv) | 4:16 |
 | 24 | [Respectable](https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:22 |
@@ -340,4 +340,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 330 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 331 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 |
 
-Snapshot ID: `MCw5NWM2NTlhYmMyMWY5YzYyMmNlNDI0OWRlYjg3MDBhMDQ4NTg4NjYy`
+Snapshot ID: `MCw2NzRiZGU0NjgyYzdjZjJhMjc4MGVlZDE0Nzg2ZjM1NzBhYzY4YWRl`

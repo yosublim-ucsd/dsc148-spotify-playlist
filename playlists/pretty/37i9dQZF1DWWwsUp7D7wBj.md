@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > Todo lo que es cultura pop\. get yourself someone who looks at you the way Shakira looks at Karol\. 🩷
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,293 likes - 22 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,367 likes - 22 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 | 21 | [Ocean](https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:35 |
 | 22 | [Estoy Aquí](https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:52 |
 
-Snapshot ID: `MCw4NGM3YTgyM2FhMGFhYmY4OGZjZDcxYWU0NzMwOTMzMzU3NWM2OWIw`
+Snapshot ID: `MCwyMmMyNTBhMzk5ZjMwZGUyYzAzNDJiYTFkYjAwZmNjYTVhZjRhZDc2`

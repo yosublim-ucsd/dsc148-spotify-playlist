@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5?si=L6C8qlMDT3SFZVXz\-SvF\-w"> Tha Boy Myles </a>\. Artwork: Isu Kim.
 
-564 songs - 1 day 4 hr 37 min
+565 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Family](https://open.spotify.com/track/6Dx2di8pvFtk0nurb11NFM) | [Enaky](https://open.spotify.com/artist/3ve8stsOBoiayDuVU5X724) | [Family](https://open.spotify.com/album/4oBxf2NglPyfhVm5cylL4W) | 2:33 | 2023-09-27 |  |
 | [Far](https://open.spotify.com/track/1jtCc855Bcx4LuPSAdYbeQ) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [The Journey Continues...](https://open.spotify.com/album/0oFTaTpg0kUPIbwi9xJPkl) | 4:07 | 2023-01-25 | 2023-02-23 |
 | [Far Far Away](https://open.spotify.com/track/667RuRJORsvZLjNCjIJiYH) | [Miss Sxvage](https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo) | [Far Far Away](https://open.spotify.com/album/0zkZsqlINmCBM7iWY54D1G) | 2:33 | 2023-07-26 | 2023-09-27 |
-| [Fashion Killa](https://open.spotify.com/track/0RMwoTN2Hqu200NrggjNVY) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/6ZLeYdY71zyZ9Vvl17XSGM) | 2:46 | 2023-07-26 |  |
+| [Fashion Killa](https://open.spotify.com/track/0RMwoTN2Hqu200NrggjNVY) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/6ZLeYdY71zyZ9Vvl17XSGM) | 2:46 | 2023-07-26 | 2023-09-28 |
+| [Fashion Killa](https://open.spotify.com/track/4Wc6nQR36AZ5170I49hn05) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/5mZXL7VBgu2GGkdC6A6OWB) | 2:46 | 2023-09-27 |  |
 | [Fayvuh](https://open.spotify.com/track/1ru09kaqYqc6E6R60vzbpL) | [Victor Collins](https://open.spotify.com/artist/2cx2q93TdyDvgatIURJOAH), [Zyrx Sounds](https://open.spotify.com/artist/3uCdVvSdtUXzppPVXDQYSw) | [Fayvuh](https://open.spotify.com/album/4ArZsOCUcZYOXD49dIUdQO) | 3:00 | 2022-09-30 | 2023-01-26 |
 | [Fears](https://open.spotify.com/track/3XCIEKQ3tbyInsMSOQ4jlP) | [Necta](https://open.spotify.com/artist/4Bo3ajDWVahXScC5N04S8u) | [Fears](https://open.spotify.com/album/1tjMiV9tVUXedyMawaZ4u4) | 1:27 | 2022-09-30 | 2023-01-26 |
 | [Feel Low](https://open.spotify.com/track/5S4TFFPRghc9pI6kKRE6Ma) | [Crunchy Sweater](https://open.spotify.com/artist/2D3HVUBLvAhDjdTwXQhNQY) | [Feel Low](https://open.spotify.com/album/5R0py9OArsqpcf8LGRsEYm) | 2:18 | 2023-08-18 | 2023-09-27 |

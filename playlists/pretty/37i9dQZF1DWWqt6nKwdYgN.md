@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Chales Ans y Sharif en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,164 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,171 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [Morira El Sol](https://open.spotify.com/track/72ltAazPswu6uHZBNpfhGl) | [Duendy](https://open.spotify.com/artist/6EcbitbSqckbOT8K5Bjhrk), [Fasone shotz](https://open.spotify.com/artist/0qQDermOrbeLeVU5XHHX3r) | [Morira El Sol](https://open.spotify.com/album/6bc1E7xMIXiBDtuhC4tq6h) | 3:09 |
 | 100 | [BEEMO](https://open.spotify.com/track/7sBkokjVVW3wfU1SLE33Eh) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Sr\. Freddy Malaria](https://open.spotify.com/album/3DuxazPpULOeNqRAkq02AB) | 2:08 |
 
-Snapshot ID: `MCxlYmFiNTBkMzc5MjgzODNmYmVmMjBmOTMwMTI0MzZmZmZmMDczYjdm`
+Snapshot ID: `MCwzOTJlMDFmYjBlMjkzZTMyNDVkZTE2NTg5MjczZDU2ZjY4NmZiZWQx`

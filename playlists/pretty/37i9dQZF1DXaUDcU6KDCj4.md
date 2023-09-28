@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Zach Bryan & Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,901 likes - 149 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,027 likes - 149 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 148 | [Evergreen](https://open.spotify.com/track/1LAd1okwAypfCyUflwrpkj) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Evergreen](https://open.spotify.com/album/3Pr3e7FlIpuk61wTJIKP5o) | 4:53 |
 | 149 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 |
 
-Snapshot ID: `MCw2ODlmMzI3ZGY0NDk1MDNlYzkxOTRlMDYxMGNiM2VhNGEyYTU2Y2Yz`
+Snapshot ID: `MCwyMjg5NzdkMDEwNjYzMTBiNzNmOWIyOGNkZTJlZTY4NjI5YTU1ZmI3`

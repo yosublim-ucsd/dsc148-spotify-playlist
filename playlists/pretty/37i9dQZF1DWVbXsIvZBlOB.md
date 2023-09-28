@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: ג׳יי למוטה
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,147 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,165 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [לילות נשרפים](https://open.spotify.com/track/3BxU72C1bown4f0SwImyVb) | [הגר יפת](https://open.spotify.com/artist/0yuzd9F7msg9MS8MTzQOmy) | [לילות נשרפים](https://open.spotify.com/album/2wqBQrKKkrYz3hzpTyBcEc) | 3:10 |
 | 50 | [אף פעם לא לבד](https://open.spotify.com/track/4ZGe1hugAeejCOd7TWGiz0) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [אף פעם לא לבד](https://open.spotify.com/album/7vnTXeAqPJARapvbC3tSCW) | 2:48 |
 
-Snapshot ID: `MCw0YjVkYTllZmQ0ZTkzMzQ3YjVjYTUyYzI2ZDE4NWRlMWVmYjE4YjM5`
+Snapshot ID: `MCxlNzUwMzhmODVlMDY5OTNiMDQxZGE1NjFjYWY2ODlhMDIzOWE4Nzhk`

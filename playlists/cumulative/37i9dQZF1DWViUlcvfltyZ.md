@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. Cover: Appino
 
-548 songs - 1 day 6 hr 26 min
+549 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Barman](https://open.spotify.com/track/5IyY5hticbnFBR5ztmZ7cV) | [Divietø](https://open.spotify.com/artist/6xSpoFgkCHOIcy7egIhKhN) | [Barman](https://open.spotify.com/album/2ZV2tXJRNnVZ8G8K9Ng4ez) | 2:30 | 2023-02-16 | 2023-02-24 |
 | [Battelli ebbri](https://open.spotify.com/track/2PHcFq8CAordszMzLS1dAs) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Cosmic Res](https://open.spotify.com/album/4Myim57HbNcJ46KqbYkqmP) | 3:17 | 2023-01-19 | 2023-04-28 |
 | [Bed bugs](https://open.spotify.com/track/0f6w3CkDT3HlSuMYl3qsWQ) | [BAZAAR](https://open.spotify.com/artist/4kY7561u96mXGEzIwECjdd) | [Bed bugs](https://open.spotify.com/album/0QF16110YO5fcOfsU4WOCl) | 3:34 | 2022-05-26 | 2022-07-22 |
+| [Before](https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Before](https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp) | 4:28 | 2023-09-27 |  |
 | [Belli e Perdenti](https://open.spotify.com/track/7LgIenXK2Cy3uCdPVeirDX) | [DOLA](https://open.spotify.com/artist/0OvTRIcNwihrBkwZK2oiqy) | [Underground](https://open.spotify.com/album/0DZu5L7eucdWhumtvK6FT9) | 2:21 | 2023-04-20 | 2023-05-26 |
 | [Benda](https://open.spotify.com/track/01ngmXxVlCiS8PoBKoJzSL) | [⁄handlogic](https://open.spotify.com/artist/0Fke9julMOJ0HZ1UhCoe9Z) | [Benda](https://open.spotify.com/album/77KKHnyz5STrGs7viHSP1U) | 4:23 | 2023-05-11 | 2023-05-19 |
 | [Berserk](https://open.spotify.com/track/6fzsjiqZ38KakK6QcJWZ4q) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [Berserk](https://open.spotify.com/album/6UrRKtK69QZKkwui1SZ7ib) | 3:49 | 2022-11-10 | 2022-11-18 |
@@ -355,7 +356,7 @@
 | [Nuvolone](https://open.spotify.com/track/7MYSEt7ON2GaBKoW98eoyB) | [Renàra](https://open.spotify.com/artist/2RJIwXtGg34ECvKxTzYuNF) | [Nuvolone](https://open.spotify.com/album/1ko2CMTLW4iba939mRTago) | 3:06 | 2023-02-09 | 2023-03-03 |
 | [Oblivion](https://open.spotify.com/track/7jePbTgyKol6gHshTbF3Xz) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [Inferno](https://open.spotify.com/album/3Hnux3n5xhBOIrIxUsO2AF) | 3:19 | 2023-06-29 | 2023-09-01 |
 | [Occhi di Corvo](https://open.spotify.com/track/5qYNPhVUdQqo2PmUL3AKCO) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [YOGA, Pt\. 1](https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe) | 3:21 | 2022-05-09 | 2022-09-16 |
-| [Occhi rossi](https://open.spotify.com/track/2nIQIZWYXDVrjbD570hbTd) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Occhi rossi](https://open.spotify.com/album/1aM3xThqq4qdTRASt79Wye) | 2:43 | 2023-06-15 |  |
+| [Occhi rossi](https://open.spotify.com/track/2nIQIZWYXDVrjbD570hbTd) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Occhi rossi](https://open.spotify.com/album/1aM3xThqq4qdTRASt79Wye) | 2:43 | 2023-06-15 | 2023-09-28 |
 | [Ocean Cry](https://open.spotify.com/track/2lOLI3op0lv6kK3VrOCS1Z) | [pearl moth](https://open.spotify.com/artist/36PkhRLgmvQHdxm5wSdYnq) | [Ocean Cry](https://open.spotify.com/album/2uP99i8rDfjIpUPEurejZv) | 3:37 | 2023-08-28 | 2023-09-22 |
 | [Odd Vapors](https://open.spotify.com/track/3aaXPp8wg0Nezf5V45VBOo) | [His Electro Blue Voice](https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P) | [Love Conductor](https://open.spotify.com/album/3RJaUwLebeaKGW5F82WM1S) | 3:10 | 2023-04-06 | 2023-04-21 |
 | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/track/2spDH2rxS8fpw6XYxtCzue) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/album/3Sub0hfAL9OSty6082UfUg) | 3:27 | 2022-05-12 | 2022-05-27 |
@@ -410,7 +411,7 @@
 | [Resto solo io](https://open.spotify.com/track/0uLcIYwzGnHKxG395CCzu1) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY), [Omar Pedrini](https://open.spotify.com/artist/61qOS3wPz5dNeycrYEzfbb) | [Fulmini](https://open.spotify.com/album/0b7cQnE7oNuoB1NKWPNI0t) | 2:51 | 2022-09-15 | 2022-10-07 |
 | [RGRD](https://open.spotify.com/track/4gmxEVlGmX2brjJBEm4Fqy) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [RGRD](https://open.spotify.com/album/1EirmUuEp1El24sVa7Xf6s) | 3:53 | 2022-11-03 | 2022-12-24 |
 | [Rincorretevi](https://open.spotify.com/track/5cZHjGtsw6vsu5DVOrDBRP) | [Androgy̆nus](https://open.spotify.com/artist/4vOuZX3Pw0gO295lAdpDZT) | [Rincorretevi](https://open.spotify.com/album/6mPLQCRlvvFyWFW8A3Rd8K) | 5:05 | 2022-05-19 | 2022-07-01 |
-| [Ronaldo](https://open.spotify.com/track/5zOTYtift5RWyArMm2Nwd8) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Ronaldo](https://open.spotify.com/album/5Qav1GCe2ZOKcobjrQvDDG) | 2:49 | 2023-08-31 |  |
+| [Ronaldo](https://open.spotify.com/track/5zOTYtift5RWyArMm2Nwd8) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Ronaldo](https://open.spotify.com/album/5Qav1GCe2ZOKcobjrQvDDG) | 2:49 | 2023-08-31 | 2023-09-28 |
 | [Rossetto](https://open.spotify.com/track/65TUe2ZU0gG23xANNj3q6g) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Rossetto](https://open.spotify.com/album/6zUBlbn5dgLDIfsku4zQqy) | 2:50 | 2023-09-07 |  |
 | [Rosso](https://open.spotify.com/track/1dCoLitotcRABlWlOOZcTs) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Rosso](https://open.spotify.com/album/7wl8O8kzkACKcaiWrmXKEV) | 3:35 | 2023-03-09 | 2023-05-19 |
 | [rotten](https://open.spotify.com/track/4nU6o0IqVjUFjoqODuJBQl) | [grungelo](https://open.spotify.com/artist/6P6GEHeCnE88477yIshOMy), [The Steiner](https://open.spotify.com/artist/0E0656VNBS8nCeuLyjRFjp) | [rotten](https://open.spotify.com/album/04Jz6N7SeKqALkWIkVXCSL) | 2:40 | 2022-06-02 | 2022-07-08 |

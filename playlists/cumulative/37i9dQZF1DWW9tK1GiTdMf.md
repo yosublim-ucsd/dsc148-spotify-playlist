@@ -4,7 +4,7 @@
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Claudym in cover!
 
-628 songs - 1 day 4 hr 47 min
+629 songs - 1 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Crumbled](https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Crumbled](https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS) | 3:10 | 2023-04-27 |  |
 | [Cuore Aperto](https://open.spotify.com/track/5YRl41LTDFEARMtUlFbwDh) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [Cuore Aperto](https://open.spotify.com/album/1RRxrEGIXA6A2E204QWPmA) | 2:20 | 2022-06-16 | 2022-07-14 |
 | [CUORE IN UNA BUSTA](https://open.spotify.com/track/0lh1NAgpJxdAtKTvRor2f3) | [WEZ](https://open.spotify.com/artist/4vyMNshKeFNpOJSQViqjAi), [Noise](https://open.spotify.com/artist/6D4EJfLuwDV686lAIvGvdR), [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d) | [CUORE IN UNA BUSTA](https://open.spotify.com/album/59jpMKXkosR9Z9H0TTFpBc) | 2:21 | 2023-07-20 |  |
-| [cuore sacro](https://open.spotify.com/track/1v7UrBhMiGpigRr2CbXb0k) | [dolcedormire](https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP) | [cuore sacro](https://open.spotify.com/album/3pN7FUikn54e0DYW1xPxi1) | 2:57 | 2023-05-04 |  |
+| [cuore sacro](https://open.spotify.com/track/1v7UrBhMiGpigRr2CbXb0k) | [dolcedormire](https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP) | [cuore sacro](https://open.spotify.com/album/3pN7FUikn54e0DYW1xPxi1) | 2:57 | 2023-05-04 | 2023-09-28 |
 | [Cuore tra le stelle](https://open.spotify.com/track/6FH8iaLFRr2IZLy5Ww8heM) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Cuore tra le stelle](https://open.spotify.com/album/7IOLYZrWju1gh2GWImGYcM) | 3:00 | 2022-10-27 | 2023-02-17 |
 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 | 2022-09-08 | 2022-12-24 |
 | [C’est Comme Ça](https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [C'est Comme Ça](https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo) | 2:29 | 2023-01-12 | 2023-01-27 |
@@ -407,6 +407,7 @@
 | [OH NO](https://open.spotify.com/track/4wUHUOYICleu6CNNqGDsWp) | [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN) | [OH NO](https://open.spotify.com/album/0x9jN0c54VqoiAPSkCbPMt) | 3:17 | 2022-05-06 | 2022-05-13 |
 | [omg, lol](https://open.spotify.com/track/5klZLG9n6iZ9GPpEil9GwV) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [omg, lol](https://open.spotify.com/album/08DEirI7Hu33vxLoVZUzIz) | 2:35 | 2023-09-21 |  |
 | [One & Only](https://open.spotify.com/track/3lHIanYBxMNZPcRRu0WmWr) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [One & Only](https://open.spotify.com/album/46vi3TK1L8KjWArl67u3N9) | 2:17 | 2023-07-20 |  |
+| [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 | 2023-09-27 |  |
 | [Ora d'aria](https://open.spotify.com/track/5gbmz8TkFwcuTsHPbXq7F3) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [RESPIRA](https://open.spotify.com/album/4oLtZPBDcpeJkzobTwkaS4) | 2:20 | 2022-06-30 | 2022-12-09 |
 | [PainHub](https://open.spotify.com/track/4GB5cFlNjLMHWUtr0H0nf3) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [PainHub](https://open.spotify.com/album/0SamMMaFRb5EgaQadXP2Yx) | 2:16 | 2023-03-30 | 2023-06-02 |
 | [Panico](https://open.spotify.com/track/4NOFiXQQGGpb2ICxHs0eeT) | [ITAMI](https://open.spotify.com/artist/3jvrwPpeYnKPzzqHafSU5e) | [Panico](https://open.spotify.com/album/7aKYFgFEQ3vxfSVth7rfiU) | 2:45 | 2023-07-27 | 2023-08-04 |

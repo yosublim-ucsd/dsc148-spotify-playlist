@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,164 songs - 2 day 4 hr 9 min
+1,165 songs - 2 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -721,7 +721,7 @@
 | [On My Way](https://open.spotify.com/track/5xmkS1lv38JiohsD7omi8a) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [On My Way](https://open.spotify.com/album/652xJbu0kTPJcfXeKeYil2) | 2:16 | 2023-09-08 |  |
 | [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 | 2022-04-12 | 2023-09-09 |
 | [On The Ropes](https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [On The Ropes](https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN) | 1:24 | 2023-09-22 |  |
-| [One](https://open.spotify.com/track/6fUoCQqNPqbHo8ZTpQUqbM) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [One](https://open.spotify.com/album/0Fl6lilEEvNOIa9sBvfDZv) | 2:40 | 2023-09-08 |  |
+| [One](https://open.spotify.com/track/6fUoCQqNPqbHo8ZTpQUqbM) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [One](https://open.spotify.com/album/0Fl6lilEEvNOIa9sBvfDZv) | 2:40 | 2023-09-08 | 2023-09-28 |
 | [One Line](https://open.spotify.com/track/2DzL6LCF0GOxQIcbQitEOm) | [OTHERLiiNE](https://open.spotify.com/artist/5UaAbLKpBsJ9gh7FthqfW5), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [OTHERLiiNE](https://open.spotify.com/album/0XsqhKLzKCGw2q0VAT58Xj) | 5:24 | 2022-04-12 | 2023-09-09 |
 | [One Or Two](https://open.spotify.com/track/42Y2XqAMP2qXpNtAdi9qCU) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [One Or Two](https://open.spotify.com/album/4dbvFkMYZU4l2KdfSo8ZI0) | 2:08 | 2023-09-22 |  |
 | [Orb](https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Orb](https://open.spotify.com/album/0YfkN8XLus9Sj1PKnRvIq6) | 2:15 | 2023-09-22 |  |
@@ -867,6 +867,7 @@
 | [SDDS](https://open.spotify.com/track/64KlnwwIJFZiyTx2npti1W) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [Branko Presents: Enchufada Na Zona Vol\. 2](https://open.spotify.com/album/2qKCTElpP87LV5PdqDFgxt) | 3:35 | 2022-04-12 | 2023-09-09 |
 | [SDDS](https://open.spotify.com/track/64eLVpJjRI3U3Kg8mLyEdF) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [OBG](https://open.spotify.com/album/4aghuCPwRba0iBmzslJm9C) | 3:35 | 2022-09-09 | 2022-11-13 |
 | [SDDS](https://open.spotify.com/track/6E12A1iLAqjjOUlEjTY78N) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [SDDS](https://open.spotify.com/album/1JuzzZ8wwu2sNaq6cI5YIc) | 3:35 | 2022-04-12 | 2022-07-29 |
+| [Sea of Thoughts](https://open.spotify.com/track/22z4OBkJ2VmGA7dSssWsy7) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Sea of Thoughts](https://open.spotify.com/album/795sBvT2shhNGKZJoEcb6B) | 3:02 | 2023-09-22 |  |
 | [Seattle](https://open.spotify.com/track/6OXNET31Fn6HyFBwVz8f1Y) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Seattle](https://open.spotify.com/album/7z312yRo96Kz4FmncwfLjB) | 2:21 | 2023-09-22 |  |
 | [self\-love](https://open.spotify.com/track/20Qufms0u6e9mHprf81SzX) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/0OVyWmEdWlSrG2EcbkXjt4) | 2:23 | 2022-04-12 | 2022-07-29 |
 | [self\-love](https://open.spotify.com/track/63PjUXm7NNcqm5OCyRMbr5) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/647Fq4w3G1lqfi210TCblk) | 2:23 | 2022-04-12 | 2023-03-02 |

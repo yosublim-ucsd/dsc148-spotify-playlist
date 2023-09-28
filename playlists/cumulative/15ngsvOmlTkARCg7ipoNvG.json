@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Another Dreamscape Arr. For Strings",
+        "url": "https://open.spotify.com/album/0w8G9BdMDxPzSWlbG2sQVq"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60444,
+      "name": "Another Dreamscape Arr. For Strings",
+      "url": "https://open.spotify.com/track/1C7zEeLzMTRERkTpmIir0M"
+    },
+    {
+      "album": {
         "name": "Relaxing Cello and Piano",
         "url": "https://open.spotify.com/album/2dSaURPj5XAURyvb5nvO4U"
       },
@@ -6558,6 +6576,24 @@
       "duration_ms": 60620,
       "name": "Forgiving Times - Cello Version",
       "url": "https://open.spotify.com/track/7uHyHMpe7bx11leH8f0PPc"
+    },
+    {
+      "album": {
+        "name": "Forgiving Times Arr. For Strings",
+        "url": "https://open.spotify.com/album/3wUFg8a9aYgpZUUrkYshEv"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60620,
+      "name": "Forgiving Times Arr. For Strings",
+      "url": "https://open.spotify.com/track/6YDWylhDSKTsMuUz7TLsum"
     },
     {
       "album": {

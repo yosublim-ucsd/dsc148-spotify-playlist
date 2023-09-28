@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6703\)
+## Playlists \(6706\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -329,6 +329,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [A Sudden Rainstorm](/playlists/pretty/37i9dQZF1DX9NmDLwNQnXE.md)
 - [A Tranquil World](/playlists/pretty/37i9dQZF1DX1aJqrYHYkGX.md)
 - [A Very Mindy Weiss Wedding](/playlists/pretty/37i9dQZF1DWWcp8vZ8TtVI.md)
+- [A través de mi ventana](/playlists/pretty/37i9dQZF1DXdkAZcxd2m10.md)
 - [A.M\. Commute](/playlists/pretty/1UQo7foKwUUMjb9KnaBE3S.md)
 - [A1](/playlists/pretty/37i9dQZF1DX0sDai2F5jCQ.md)
 - [ABAT∑RA](/playlists/pretty/37i9dQZF1DWYtEjm4ihp5w.md)
@@ -2753,6 +2754,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Keith Power's Taste](/playlists/pretty/37i9dQZF1DXaWQ9H258ygx.md)
 - [Kelly Lee Owens' track IDs](/playlists/pretty/37i9dQZF1DWYMVjvqDxZQX.md)
 - [Kendrick Lamar](/playlists/pretty/4lwqQxljF1Rge3X4eMzdza.md)
+- [Kevin Saunderson's track IDs](/playlists/pretty/37i9dQZF1DXb0kH7WA2NSr.md)
 - [Keys N Krates DJ Mix](/playlists/pretty/37i9dQZF1DX1AhB1ESkQjZ.md)
 - [Kickass Metal](/playlists/pretty/37i9dQZF1DWTcqUzwhNmKv.md)
 - [Kickflip](/playlists/pretty/37i9dQZF1DX2v91v1834Ky.md)
@@ -3308,6 +3310,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [México Lindo & Querido](/playlists/pretty/37i9dQZF1DX1dJrNuyDEgy.md)
 - [México\-Tenochtitlán](/playlists/pretty/37i9dQZF1DXbEuT2QnORVM.md)
 - [Música Católica](/playlists/pretty/37i9dQZF1DX9foP18YmfwY.md)
+- [Música Clásica Chill](/playlists/pretty/37i9dQZF1DXdN7t5b8UEah.md)
 - [Música Clásica Serena](/playlists/pretty/37i9dQZF1DX4JHS1FmL6SE.md)
 - [Música Mexicana En Vivo](/playlists/pretty/37i9dQZF1DWVHIYChxh9sq.md)
 - [Música Mexicana Rising](/playlists/pretty/37i9dQZF1DX10A9MXc7csF.md)

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Medy, Sacky, Baby Gang, Boro, Artie 5ive e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,419 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,452 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 74 | [Money Cash \(feat\. Diss Gacha\)](https://open.spotify.com/track/1VxGl8QDtW6MnRBW7bNoSR) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 2:26 |
 | 75 | [BAILEYS](https://open.spotify.com/track/3i45cxmF0k70HsI7VUrMVh) | [Baby Sosa](https://open.spotify.com/artist/7jg5p3qrEEKY7fqNzgoJ9K), [Edo Fendy](https://open.spotify.com/artist/41arBMetHJgurmTgrlOF7J) | [BAILEYS](https://open.spotify.com/album/2PAwVhWREDhFFptsr5AdlT) | 2:37 |
 
-Snapshot ID: `MCw3MTEwNzNhZjdiOTU3ODc0M2RjM2Q3MmIwMDYzOGUxMzg2MjBlMTU5`
+Snapshot ID: `MCwyZTIxNzdmZTY5N2ExMGI5MTdmYjg2YTE0NzE1MTk0MmZiNDNhNWQw`

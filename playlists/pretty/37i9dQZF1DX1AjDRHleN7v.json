@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 280858,
+  "num_followers": 280950,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGVkNzkyNjJhOTAxN2JjZmVhM2ViMDQxZjU4ODFmNzYyMGY1NDUw",
+  "snapshot_id": "MCxmOWQ2ZGU0NTA0ZGJjNzU0MjIxMDU1MzFmNDAwZDM5YjM2NTNjMzNl",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "15 Anos (Ao vivo)",
-        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
-      },
-      "artists": [
-        {
-          "name": "Tribo De Jah",
-          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
-      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Acordei Bem Cedo",
         "url": "https://open.spotify.com/album/67TrPKnENDevc0cq8FEfm5"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 377142,
       "name": "Acordei Bem Cedo",
       "url": "https://open.spotify.com/track/0kXMyDlaPHsMJPLug6LZpI"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "15 Anos (Ao vivo)",
+        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
+      },
+      "artists": [
+        {
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
+      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Um banda um",
-        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
-      "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
         "url": "https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Por A\u00ed",
-        "url": "https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L"
+        "name": "Um banda um",
+        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
       },
       "artists": [
         {
-          "name": "Suwave",
-          "url": "https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 185470,
-      "name": "Por a\u00ed",
-      "url": "https://open.spotify.com/track/7zfACboYexn19rWa8mwCFA"
+      "duration_ms": 268706,
+      "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
+      "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -731,6 +715,22 @@
       "duration_ms": 217941,
       "name": "Tchau Querido",
       "url": "https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Por A\u00ed",
+        "url": "https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L"
+      },
+      "artists": [
+        {
+          "name": "Suwave",
+          "url": "https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe"
+        }
+      ],
+      "duration_ms": 185470,
+      "name": "Por a\u00ed",
+      "url": "https://open.spotify.com/track/7zfACboYexn19rWa8mwCFA"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Lua Crescente",
+        "url": "https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu"
+      },
+      "artists": [
+        {
+          "name": "Calbertini",
+          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
+        }
+      ],
+      "duration_ms": 201538,
+      "name": "Lua Crescente",
+      "url": "https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/75aD61Mdn46by45roKljUL"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 242948,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Lua Crescente",
-        "url": "https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu"
-      },
-      "artists": [
-        {
-          "name": "Calbertini",
-          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
-        }
-      ],
-      "duration_ms": 201538,
-      "name": "Lua Crescente",
-      "url": "https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt"
     },
     {
       "added_at": "2023-09-15 03:01:00",

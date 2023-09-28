@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Bouhali",
+        "url": "https://open.spotify.com/album/3nZmtmgfvJF0Lr5Lm1iihO"
+      },
+      "artists": [
+        {
+          "name": "Amoune Talens",
+          "url": "https://open.spotify.com/artist/43mogRFYKNNGyFY4ZHUZ5v"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199837,
+      "name": "Bouhali",
+      "url": "https://open.spotify.com/track/7JoBBEzKzh8OPA2fteUxAC"
+    },
+    {
+      "album": {
         "name": "C'est carr\u00e9 le S",
         "url": "https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y"
       },

@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Israel & Rodolffo com Mc Don Juan e João Gomes, Alok e muito mais!
 
-8,099 songs - 17 day 3 hr 56 min
+8,100 songs - 17 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3903,7 +3903,8 @@
 | [Love Moments](https://open.spotify.com/track/4M8yXaKDX6YXDJsy2JqX33) | [Lu Fossi](https://open.spotify.com/artist/5UooWZC3dCujBUWDDgn0G3) | [Love Moments](https://open.spotify.com/album/0h51Q23mRaKwgrzUuvZbTi) | 2:48 | 2022-08-05 | 2022-08-13 |
 | [Love que Tu Ama](https://open.spotify.com/track/5vHDYQAZj0ydjd9iguavCB) | [Lincoln & Duas Medidas](https://open.spotify.com/artist/33tvLva7hFpC9ajAxwyPkV) | [Love que Tu Ama](https://open.spotify.com/album/6KXR5weT4NTPyLGZVZ7wxr) | 2:36 | 2023-07-14 | 2023-07-22 |
 | [Love Terremoto \- Ao Vivo](https://open.spotify.com/track/5fYMMUN5xPo77r9qiBH0A0) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Resenha Preferida, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0yLpav6I3BD1JQ0p3qeObJ) | 2:28 | 2022-08-05 | 2022-08-13 |
-| [Love, Death + Robots](https://open.spotify.com/track/4BMLSNPIHdj2fYZrQAuXOU) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Fragmentado](https://open.spotify.com/album/5HlHiAusgy78Kaywnlmtqu) | 2:36 | 2023-09-22 |  |
+| [Love, Death + Robots](https://open.spotify.com/track/4BMLSNPIHdj2fYZrQAuXOU) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Fragmentado](https://open.spotify.com/album/5HlHiAusgy78Kaywnlmtqu) | 2:36 | 2023-09-22 | 2023-09-28 |
+| [Love, Death + Robots](https://open.spotify.com/track/4uPodG2bz6bbipLSkFKwQZ) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Fragmentado](https://open.spotify.com/album/68Tgc6yABJipkYkoDjnt5P) | 2:36 | 2023-09-26 |  |
 | [Love, Love](https://open.spotify.com/track/3P2ubMyuL9NQOVU67TVCXA) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [Matheus Alves](https://open.spotify.com/artist/1WA2YgK6RudLFgrIIPfUeR) | [Love, Love](https://open.spotify.com/album/1P6rGeHgiZkqO4H0fF4UaS) | 2:13 | 2023-06-16 | 2023-06-24 |
 | [love.](https://open.spotify.com/track/5XFoaqV1Z8XaLJidchVWhh) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [The Boy Who Flew To The Moon \(Vol\. 1\)](https://open.spotify.com/album/19ZYOtXGdqGpeeDS9SJccD) | 5:28 | 2022-07-08 | 2022-07-16 |
 | [Lovesick](https://open.spotify.com/track/5hB6UN3hxca8CP6dqs67On) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Lovesick](https://open.spotify.com/album/2WYETJesea0OP320GV0e3e) | 2:09 | 2022-11-04 | 2022-11-12 |

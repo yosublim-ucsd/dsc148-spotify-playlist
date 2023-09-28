@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,305 likes - 142 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,315 likes - 142 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Amor só de Mãe](https://open.spotify.com/track/6T25qSWKAmZXNTfdQH4FTz) | [Mc Zoio de Gato](https://open.spotify.com/artist/1Fq1hzXindJTeFJqxeiIEC) | [Fabrica de Bico](https://open.spotify.com/album/2REXp8mwSRqebM2WisciKK) | 4:38 |
+| 1 | [Amor só de Mãe](https://open.spotify.com/track/6T25qSWKAmZXNTfdQH4FTz) | [Mc Zoio de Gato](https://open.spotify.com/artist/1Fq1hzXindJTeFJqxeiIEC), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Fabrica de Bico](https://open.spotify.com/album/2REXp8mwSRqebM2WisciKK) | 4:38 |
 | 2 | [Forest](https://open.spotify.com/track/1B5Y9I5wPfvD3C2A81A36C) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 4:00 |
 | 3 | [Left Behind](https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:01 |
 | 4 | [Through Glass](https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[10th Anniversary Edition\]](https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq) | 4:42 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 141 | [Raridade](https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:57 |
 | 142 | [El Pañuelo](https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
 
-Snapshot ID: `MCxiODQ0MGYyNTNkZmIxZmUyNzZjNjk1MWNjOTFkMWZjZDZmYTljYTZm`
+Snapshot ID: `MCxhOTJiYzkzMWY2NTIyZTAyNjg2MTQ4MWZhNDYzMTlkOTU0OGYyZGUx`

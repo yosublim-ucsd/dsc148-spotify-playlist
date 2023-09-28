@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 626849,
+  "num_followers": 626817,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2UwYTFkNTkzZTA1NzY2ZjNlOTY2MGYyMjQyMWRlYTYxYzNkNDhk",
+  "snapshot_id": "MCxjYjg2ZTYxM2YzZWRlYTgwNjdjNGFhZmExMmJjZmUzY2U3YTc4NDg0",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -399,6 +399,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Love Lies (with Normani)",
+        "url": "https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 201707,
+      "name": "Love Lies (with Normani)",
+      "url": "https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (feat. J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Love Lies (with Normani)",
-        "url": "https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 201707,
-      "name": "Love Lies (with Normani)",
-      "url": "https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Beso",
+        "url": "https://open.spotify.com/album/3h1i2Oprt4fTDunTV4MRwx"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 203631,
+      "name": "Beso",
+      "url": "https://open.spotify.com/track/1L9UBn6F0iY4HZeeH4teDZ"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Rueda (Remix)",
         "url": "https://open.spotify.com/album/30hCIU4mQfd14LVCLCOdmA"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 212307,
       "name": "Rueda - Remix",
       "url": "https://open.spotify.com/track/3EWxpqOSP0KWgUmRiklqGy"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Beso",
-        "url": "https://open.spotify.com/album/3h1i2Oprt4fTDunTV4MRwx"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 203631,
-      "name": "Beso",
-      "url": "https://open.spotify.com/track/1L9UBn6F0iY4HZeeH4teDZ"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Live in the Moment",
-        "url": "https://open.spotify.com/album/2Zx5mrlkb70Qjh1RYEI4Pn"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 193507,
-      "name": "Live in the Moment",
-      "url": "https://open.spotify.com/track/0gQCDyX45XutyPdt5EWafa"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "All The Lies (with Felix Jaehn & The Vamps)",
         "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 179456,
       "name": "All The Lies (with Felix Jaehn & The Vamps)",
       "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Live in the Moment",
+        "url": "https://open.spotify.com/album/2Zx5mrlkb70Qjh1RYEI4Pn"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 193507,
+      "name": "Live in the Moment",
+      "url": "https://open.spotify.com/track/0gQCDyX45XutyPdt5EWafa"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "REALVERSO: Lado A",
-        "url": "https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ"
-      },
-      "artists": [
-        {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "VER\u00c3O DOS MEUS SONHOS",
-      "url": "https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Ya T\u00fa Me Conoces",
         "url": "https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 195573,
       "name": "Ya T\u00fa Me Conoces",
       "url": "https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "REALVERSO: Lado A",
+        "url": "https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ"
+      },
+      "artists": [
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "VER\u00c3O DOS MEUS SONHOS",
+      "url": "https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "La fiesta",
-        "url": "https://open.spotify.com/album/2oeYX230n70YtQDkmbeRPp"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "La fiesta",
-      "url": "https://open.spotify.com/track/0v1EnT2sDsuLnvwo7Z3N3c"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "POTINHO",
         "url": "https://open.spotify.com/album/2vhu177PuIf5IZQiuESQG7"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 177274,
       "name": "POTINHO",
       "url": "https://open.spotify.com/track/7wYZrv7HWbscIMnJZ6hj03"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "La fiesta",
+        "url": "https://open.spotify.com/album/2oeYX230n70YtQDkmbeRPp"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "La fiesta",
+      "url": "https://open.spotify.com/track/0v1EnT2sDsuLnvwo7Z3N3c"
     },
     {
       "added_at": "2023-02-17 03:00:00",

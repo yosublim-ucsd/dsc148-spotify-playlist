@@ -262,6 +262,24 @@
     {
       "album": {
         "name": "Duhan",
+        "url": "https://open.spotify.com/album/6gJ2tlLvvknigydDQWuFjh"
+      },
+      "artists": [
+        {
+          "name": "Mazlum Uruc",
+          "url": "https://open.spotify.com/artist/0JuZQEGDsR89y3vmkSukbj"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176111,
+      "name": "Duhan",
+      "url": "https://open.spotify.com/track/0iKRhJ0dQqRH8Ja0tg35cs"
+    },
+    {
+      "album": {
+        "name": "Duhan",
         "url": "https://open.spotify.com/album/0iV9y3FuVHgqU6XH4PgGzc"
       },
       "artists": [
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 184800,
       "name": "Sargon",
       "url": "https://open.spotify.com/track/4BLFw6EbBWHvKe7uTokPe5"

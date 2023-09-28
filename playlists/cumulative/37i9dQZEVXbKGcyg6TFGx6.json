@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211250,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
+    },
+    {
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
       },
@@ -1864,7 +1882,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 167311,
       "name": "Bad Energy",
       "url": "https://open.spotify.com/track/3l6KL0Kjiuy8vd7VoCR2Hg"
@@ -5502,7 +5520,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 202500,
       "name": "Coffee Face (2023 Remastered Version)",
       "url": "https://open.spotify.com/track/61gLU3eLWwPSZZu2R7HO0W"
@@ -5966,7 +5984,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -8246,7 +8264,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 273473,
       "name": "El Final - Remix",
       "url": "https://open.spotify.com/track/2JBdEfaJGjKAkkGGZn1Iad"
@@ -8836,6 +8854,24 @@
       "duration_ms": 245131,
       "name": "F*****g Fans",
       "url": "https://open.spotify.com/track/3RkNXZvOSMMElmmXztDc94"
+    },
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229627,
+      "name": "Face-off",
+      "url": "https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy"
     },
     {
       "album": {
@@ -9732,7 +9768,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 181106,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/0fSUtec1GsMjMhx8Mrwvkj"
@@ -10894,7 +10930,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 211617,
       "name": "Hands On Me - Radio Edit",
       "url": "https://open.spotify.com/track/6AtuXNuT1Tnf2Nl7n328XB"
@@ -11224,7 +11260,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 120032,
       "name": "Hey ! :} (Death March)",
       "url": "https://open.spotify.com/track/5bqPrkSQqB8Gg4YsiWv1Ql"
@@ -11250,6 +11286,24 @@
       "duration_ms": 152056,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/7g8pHMSPQFEsXXIN8mehfU"
+    },
+    {
+      "album": {
+        "name": "Hey Baby Que Paso",
+        "url": "https://open.spotify.com/album/4lkJ4ZcyU8O217DpRjkkL5"
+      },
+      "artists": [
+        {
+          "name": "ZEUS. El Mero Necio",
+          "url": "https://open.spotify.com/artist/5kUs9bHXMMmFZvP5WFVzfM"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184780,
+      "name": "Hey Baby Que Paso",
+      "url": "https://open.spotify.com/track/5InCYGVGASWxvJPLzw68P6"
     },
     {
       "album": {
@@ -12198,7 +12252,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -12348,6 +12402,24 @@
       "duration_ms": 178889,
       "name": "Ich mal den Himmel heute rosa an",
       "url": "https://open.spotify.com/track/7i8REP75WxlbjPZ1ITckDm"
+    },
+    {
+      "album": {
+        "name": "If You Are My Boyfriend",
+        "url": "https://open.spotify.com/album/0wsCC3CEiKKNPJhnVfd3HI"
+      },
+      "artists": [
+        {
+          "name": "Drop & Kick",
+          "url": "https://open.spotify.com/artist/2vO9CiKPVYAG7NCzNpY5ab"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "If You Are My Boyfriend",
+      "url": "https://open.spotify.com/track/3EOcW84lE01cHT0nievKOz"
     },
     {
       "album": {
@@ -14068,7 +14140,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -14798,7 +14870,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -14816,7 +14888,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
@@ -18021,6 +18093,24 @@
     },
     {
       "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4Giop6sYBtAHDJFvJJWDmD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Kubo",
+          "url": "https://open.spotify.com/artist/3cYRnHhZpR00snVlWpiZCK"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/6cEnfT1IazBcTeec4TA1NB"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -18942,7 +19032,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 178533,
       "name": "Osawese (Thank God)",
       "url": "https://open.spotify.com/track/19D8fTyA4a7HYqkXJGC9mG"
@@ -22244,7 +22334,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
@@ -23930,7 +24020,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
@@ -25380,7 +25470,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 269207,
       "name": "Tik Tok Girlfriend",
       "url": "https://open.spotify.com/track/0ZqGAaBZdTtco82AH4N62X"
@@ -26290,6 +26380,24 @@
       "duration_ms": 222000,
       "name": "Umbrella (with 21 Savage & Young Nudy)",
       "url": "https://open.spotify.com/track/2Yt4SXIgmoaPZHGdRafp4P"
+    },
+    {
+      "album": {
+        "name": "UN PREVIEW",
+        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165582,
+      "name": "UN PREVIEW",
+      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
     },
     {
       "album": {

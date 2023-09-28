@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,398 songs - 3 day 0 hr 3 min
+1,399 songs - 3 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Buongiorno vita](https://open.spotify.com/track/14rcy4M0wqiPHiCaT8U1Ju) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Solo](https://open.spotify.com/album/1CKeSCEj384RQmAUhcDUlw) | 3:10 | 2021-10-23 | 2021-10-27 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-05-27 |
 | [c!ao \(feat\. Rondodasosa\)](https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:32 | 2022-10-01 | 2022-12-10 |
+| [Cadillac \(feat\. Artie 5ive\)](https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Cadillac \(feat\. Artie 5ive\)](https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz) | 2:35 | 2023-09-27 |  |
 | [CADILLAC \(feat\. MV Killa, Geolier, Tony Effe\)](https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:53 | 2022-01-29 | 2022-01-31 |
 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2023-01-01 | 2023-01-03 |
 | [CAMEL E MALINCONIA \(feat\. PSICOLOGI & CoCo\)](https://open.spotify.com/track/6cK1buCgdWeO9536VM4XrS) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 2:54 | 2022-01-08 | 2022-01-15 |
@@ -729,7 +730,7 @@
 | [LORO](https://open.spotify.com/track/0A85tPJ5uRYudixySOsfIV) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:18 | 2021-11-21 | 2021-12-17 |
 | [LOST FOREVER](https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:43 | 2023-07-29 | 2023-07-31 |
 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 | 2021-09-05 | 2021-09-06 |
-| [Lovebars](https://open.spotify.com/track/6O7pAOsUm3d9R37vYdQnG5) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 2:45 | 2023-09-09 |  |
+| [Lovebars](https://open.spotify.com/track/6O7pAOsUm3d9R37vYdQnG5) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 2:45 | 2023-09-09 | 2023-09-28 |
 | [Lucciole](https://open.spotify.com/track/7HmgMA9PqikUtSG4eusHy2) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:56 | 2021-09-12 | 2022-02-13 |
 | [Luce a Roma \(feat\. Side Baby\)](https://open.spotify.com/track/5tAZWIV2ADm9WI2VTp440C) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [Untouchable](https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC) | 2:53 | 2021-06-06 | 2021-06-13 |
 | [Luna](https://open.spotify.com/track/6okLJn60TbvQjnIX6Nv3WP) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Aka 7even](https://open.spotify.com/album/2bqAWd0VQTvIaAxIQSKe7i) | 2:19 | 2021-05-23 | 2021-05-24 |

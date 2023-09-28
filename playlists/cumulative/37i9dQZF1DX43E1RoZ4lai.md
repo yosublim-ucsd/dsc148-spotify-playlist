@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-399 songs - 1 day 11 hr 28 min
+400 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Late Lament](https://open.spotify.com/track/6Yq7c4xi4og0panpqWtonR) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [Late Lament](https://open.spotify.com/album/2WHn7qSpz125SHdgwZK2eL) | 5:58 | 2022-02-10 | 2022-09-03 |
 | [Lennie's Pennies](https://open.spotify.com/track/5r7NKvWM2bobLktnfXAc0u) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [Trio in Motion](https://open.spotify.com/album/6EdM2mnZFUUtBWsgcHMMGY) | 3:05 | 2022-02-10 | 2022-09-03 |
 | [Let's Go Home](https://open.spotify.com/track/5PolOxhF0X14s1gFshlJhI) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP) | [Let's Go Home](https://open.spotify.com/album/34PHs2lBBeXgBrwOwWxDbp) | 5:16 | 2022-12-02 |  |
-| [Letter to Evan](https://open.spotify.com/track/5M75iNdgFbMgMd1hOz0Jv2) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [Letter to Evan](https://open.spotify.com/album/0rbFbKIDGo5QkikbauzcpM) | 4:30 | 2022-02-10 |  |
+| [Letter to Evan](https://open.spotify.com/track/5M75iNdgFbMgMd1hOz0Jv2) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [Letter to Evan](https://open.spotify.com/album/0rbFbKIDGo5QkikbauzcpM) | 4:30 | 2022-02-10 | 2023-09-28 |
+| [Letter To Evan](https://open.spotify.com/track/7EEJS0O6KwTqyVPdQoms4I) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [How Deep Is The Ocean](https://open.spotify.com/album/5JqlpeLZmzlnXv59xcYSUJ) | 4:34 | 2022-02-10 |  |
 | [Light Blue](https://open.spotify.com/track/49TAOnpGdf97IhLd6g4SaG) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [The Dancing Monk](https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV) | 4:47 | 2022-02-10 | 2022-09-03 |
 | [Little T](https://open.spotify.com/track/5VmNQjI6hEni7vLtqDAnGK) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Kenny Washington](https://open.spotify.com/artist/4ern8uIUTeqcI4AE8Q5ZnO) | [Source](https://open.spotify.com/album/17N9QvETm6ncEPa8sm4ZQD) | 4:48 | 2022-02-10 | 2022-07-25 |
 | [Liza](https://open.spotify.com/track/0KExALrggPW1WIidx9VpaQ) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Plays George Gershwin: The American Soul](https://open.spotify.com/album/7LZCmy2ZlEGnnYBxnvmCdo) | 2:16 | 2022-02-10 |  |

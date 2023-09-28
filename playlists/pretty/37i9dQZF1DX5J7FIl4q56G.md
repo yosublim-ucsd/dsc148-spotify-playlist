@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: P.O.D.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,632 likes - 51 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,752 likes - 51 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 23 | [Eisenseite](https://open.spotify.com/track/79DmkOhcKOSKdx7u5R39QZ) | [Varg](https://open.spotify.com/artist/4QjcHVaUB35395GeUoRIfZ) | [Eisenseite](https://open.spotify.com/album/63qmGZa6TeqkY9JEyWxUJD) | 5:19 |
 | 24 | [Fight the Fight \- For Promotion Only!! Ep 1992](https://open.spotify.com/track/2UsTGZZF2C2at5bWH2JpPt) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [The Forgotten Years](https://open.spotify.com/album/0TcDHhwjo6YvWr8pIwJa8T) | 3:00 |
 | 25 | [Dungeon Dweller](https://open.spotify.com/track/1xLONgkpP2dUCST67uJZic) | [Galleons](https://open.spotify.com/artist/0JE6zkJHzUQRY7rmI919eo), [Craig Owens](https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv) | [Dungeon Dweller](https://open.spotify.com/album/5xFmCemppnRTBIoQS3b9q7) | 3:38 |
-| 26 | [Almost Always \- Instrumental](https://open.spotify.com/track/2eAko6JrtHCC2SyqvZA4qa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory \(Instrumental\)](https://open.spotify.com/album/5Rt2LX1n4WMUHX1rqIPRDd) | 6:50 |
+| 26 | [Almost Always \- Instrumental](https://open.spotify.com/track/2eAko6JrtHCC2SyqvZA4qa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory \(Instrumental\)](https://open.spotify.com/album/5Rt2LX1n4WMUHX1rqIPRDd) | 6:30 |
 | 27 | [Burning in Reverse](https://open.spotify.com/track/7Jc4fuiInvHmzDlnF1nLa8) | [Mercenary](https://open.spotify.com/artist/7I4cvfefaKzYwdihC3n2y1) | [Soundtrack For The End Times](https://open.spotify.com/album/71PYpl3pLFfVG15It31GcA) | 5:22 |
 | 28 | [Worship The Internet](https://open.spotify.com/track/4TYsmhG3Iba4uxnSdAIOvU) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Worship The Internet](https://open.spotify.com/album/2vt3z8PJEoKIWdwV1YtqSB) | 3:40 |
 | 29 | [BODY//TEMPLE](https://open.spotify.com/track/0Vd9Rbw2dBRcrw5OBnGK7X) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [BODY//TEMPLE](https://open.spotify.com/album/7BmY2Ihzn5D4DgEmhzFCCS) | 3:25 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 50 | [Unveiling the Palest Truth](https://open.spotify.com/track/3lm1VP0tsGhjKNPsTAlFXE) | [Deadspace](https://open.spotify.com/artist/6Pil7ytDWKgjHf1mXQe4Q8) | [Unveiling the Palest Truth](https://open.spotify.com/album/2IwkBnUQiR0SYF6mo1eIeU) | 5:42 |
 | 51 | [Haunt Me](https://open.spotify.com/track/1QO4Ic2FSoocxgRExXCgjO) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [Haunt Me](https://open.spotify.com/album/4N57MpU7J8Rx4j1pp39iwg) | 3:39 |
 
-Snapshot ID: `MCw0MzhkNzMwYWU4ZGQ1MTc4MTQyNDc3ZjU1ZjRkNmNiNTMyNzExNGQ3`
+Snapshot ID: `MCxhMWVhZDQ0MDYxYmEwNDVkYzIxZjNmNTJjNTZjOGU5OTNhNDEwOTQ3`

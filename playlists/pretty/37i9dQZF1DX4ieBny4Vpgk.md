@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 
 > Vocal jazz favorites from 2022\. Cover: Samara Joy \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,572 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,589 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 7 | [Marina](https://open.spotify.com/track/6gevpgscwofUjTdGM0g6T9) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Quietude](https://open.spotify.com/album/0SzEjiRsCBU2SWT0C6ydUs) | 3:37 |
 | 8 | [Midnight at the Oasis \- Radio Edit](https://open.spotify.com/track/1GI9DcSiYadOTgU7bGIanB) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [Midnight at the Oasis \(Radio Edit\)](https://open.spotify.com/album/2w8hO8vjB2Ort4rSPCkAft) | 4:21 |
 | 9 | [I Wish You Love](https://open.spotify.com/track/5eg751DjyXstfd7xwdHZ62) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [I Wish You Love](https://open.spotify.com/album/6jmvc0SSvjpUSDwuxsFrSY) | 3:05 |
-| 10 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/0NUb2Cl5fs58ZPuZBYXnj6) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Carmen Staaf](https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/7s5zoUP13Lzz1KT2NLXp6u) | 5:58 |
+| 10 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1FPkGG0wRGYM8zIXBwq99G) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Carmen Staaf](https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/24yI5vwK7yTVV3nQxW6ukr) | 5:58 |
 | 11 | [This Foolish Heart Could Love You](https://open.spotify.com/track/2WZyoaM70TLZ3k8RbhGC2o) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Entre eux deux](https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7) | 3:32 |
 | 12 | [Blossom's Blues](https://open.spotify.com/track/2ZC6teLIAGQHEGIRs2VlUg) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/6VHzJNiSLGXkXw9NzY9GGX) | 3:28 |
 | 13 | [Come Fly with Me](https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Come Fly with Me](https://open.spotify.com/album/1a9XmKMYpi3XJAc626uqyY) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 49 | [I Can't Help It](https://open.spotify.com/track/1gVJYBIGO5zEKPa40MA1WK) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [I Can't Help It](https://open.spotify.com/album/334Lx9ZWSuv3zc0YHyQ0db) | 4:26 |
 | 50 | [If I Had You](https://open.spotify.com/track/6htL8eAdOScorA0ooaoL5k) | [Lara Luppi](https://open.spotify.com/artist/0TMpMNYlHlLT6Ey6BjcklA), [Luca Filastro](https://open.spotify.com/artist/7bRZhdSt3rftBwfmQRe5zR), [Aldo Zunino](https://open.spotify.com/artist/2ZQKolsIe5WgidiDRxLsCr), [Emanuele Zappia](https://open.spotify.com/artist/0yx2tQrSKPmyeVV1D82i6D) | [Day Dream](https://open.spotify.com/album/0IGv0S7wFk9QnyvMA0bIK2) | 5:28 |
 
-Snapshot ID: `MCxjMThiYTcwYzc5MWE0MzBmMzQ3ZDdiN2ExNmFhY2QwZjFlZmVjY2Iz`
+Snapshot ID: `MCxjZTNmOWU2MThiZGQ2Y2Y4ZDZmM2ZlMDA2YmZmMjU5NzM4OTZkYTVi`

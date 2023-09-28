@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-487 songs - 18 hr 26 min
+490 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Dedication](https://open.spotify.com/track/5OuHw5SfiGMtF7qrvrTw01) | [Drive](https://open.spotify.com/artist/58Z10RWlUsSA6UkgOnmHM1) | [Dedication](https://open.spotify.com/album/5iykePphdMLLyM0b3kFmPK) | 1:33 | 2023-09-22 |  |
 | [Deep Sea Horizon](https://open.spotify.com/track/0tAC0qTjy7muEbqbcDuDKX) | [Terce S.](https://open.spotify.com/artist/3dUZsndiuWqeatgYQBhkI9), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Deep Sea Horizon](https://open.spotify.com/album/19beJtaxrF8dra8AvCN91a) | 2:16 | 2023-09-22 |  |
 | [Delicious Deeds](https://open.spotify.com/track/6Ck6Tv3EopH6L33sH2I47y) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Delicious Deeds](https://open.spotify.com/album/6WBaVg8k0w6hKYPsWHCy7L) | 3:05 | 2022-04-08 |  |
+| [Disintegrate](https://open.spotify.com/track/6xvNZaAEtO0GqqdHi5CxOt) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Lucrative Behavior](https://open.spotify.com/album/2DMhX2hI5PcVHl1YGJHNui) | 2:14 | 2023-09-22 |  |
 | [Distractions](https://open.spotify.com/track/3jNkhv4Hn6MnogaKf6qJMk) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [As The Curtain Falls](https://open.spotify.com/album/0B4vsSRaBDU5lpxdzaMeEy) | 2:15 | 2023-09-22 |  |
 | [Dive In](https://open.spotify.com/track/1ZANGntZPUTTPR0P6n6upr) | [Low Lions](https://open.spotify.com/artist/2mUm5cFEahwt8CtctiwIor) | [Dive In](https://open.spotify.com/album/0F851oU5m8Mh3pqD0ZqWns) | 3:17 | 2022-04-08 | 2023-09-23 |
 | [Diving In](https://open.spotify.com/track/34rgBVC2wMRJcP5xQd03zQ) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Diving In](https://open.spotify.com/album/52oZVRf4u0aaIi813gKfC8) | 1:56 | 2023-09-22 |  |
@@ -228,7 +229,7 @@
 | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/track/3r92YrLWSVmwbCpyl0saJ1) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/album/1d6qrcmACFopMLcBqBhe5A) | 3:03 | 2023-09-22 |  |
 | [lemon](https://open.spotify.com/track/3Ca0cl4Qs3IhEBJpjVf53x) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [old fruits](https://open.spotify.com/album/3ksNu0rBR7M7nPfsUTxyQA) | 1:54 | 2022-07-08 | 2023-09-23 |
 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-04-08 | 2022-11-28 |
-| [Lemon Gardens](https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Lemon Gardens](https://open.spotify.com/album/3L6NZBTSSTtmy1fsiMc3Wg) | 2:38 | 2023-09-22 |  |
+| [Lemon Gardens](https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Lemon Gardens](https://open.spotify.com/album/3L6NZBTSSTtmy1fsiMc3Wg) | 2:38 | 2023-09-22 | 2023-09-28 |
 | [Lepricorn Ride](https://open.spotify.com/track/2YO5oyN7TcyRMlytlKxLmr) | [Sebastian Flecci](https://open.spotify.com/artist/4gJKWV189rb49Y9vvWmk3S) | [Magicos](https://open.spotify.com/album/1ji6VCa1jsz9wQ6cTX5Y0E) | 2:03 | 2023-09-22 |  |
 | [Let It Out](https://open.spotify.com/track/0JEU96lgzuk1xe5OOdK0H8) | [Mist Ant](https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC) | [Let It Out](https://open.spotify.com/album/5u538MJifK76tpNupA01jk) | 3:06 | 2023-09-22 |  |
 | [Lettin' Up](https://open.spotify.com/track/0Xwcj8iBawlYwg53Fbu6BE) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [Lettin' Up](https://open.spotify.com/album/1bnlspm7vBj7MbIYuwgy2q) | 4:11 | 2022-04-08 | 2022-04-22 |
@@ -361,7 +362,8 @@
 | [RIP Skippy](https://open.spotify.com/track/4MfCG6VMu4JSF4O9PI7qXr) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [RIP Skippy](https://open.spotify.com/album/6AYiDIfdBvxhyGRPuUYh69) | 1:54 | 2023-09-22 |  |
 | [Rivulet](https://open.spotify.com/track/1oR9gfWMz6KqwWRGnyEuyc) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Lazily](https://open.spotify.com/album/1F5fZmVZ7Id86HWpjZJNj1) | 2:23 | 2022-04-08 | 2023-09-23 |
 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-09-22 |  |
-| [Rooftop](https://open.spotify.com/track/4YLtJCjDkmw5dAbVuxpy7v) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Rooftop](https://open.spotify.com/album/5OOYTWekc4Zw1uQWvz9v0l) | 2:26 | 2022-04-08 |  |
+| [Rododendron](https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 2](https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG) | 2:09 | 2023-09-22 |  |
+| [Rooftop](https://open.spotify.com/track/4YLtJCjDkmw5dAbVuxpy7v) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Rooftop](https://open.spotify.com/album/5OOYTWekc4Zw1uQWvz9v0l) | 2:26 | 2022-04-08 | 2023-09-28 |
 | [Roses](https://open.spotify.com/track/1jcxxkEpDOMdVUxgetuxPC) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Roses](https://open.spotify.com/album/55goHQ2i5lKMDGiC7IDCLr) | 2:57 | 2023-09-22 |  |
 | [Rosé For Breakfast](https://open.spotify.com/track/7cO2sDDjsSG6altNBcy8h6) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rosé For Breakfast](https://open.spotify.com/album/0afijbIAtcutNiEJZRwinE) | 2:44 | 2023-09-22 |  |
 | [Royal Highness](https://open.spotify.com/track/7uJKZCjiHRAde6xQm2Kx0Q) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Kid Tested & Mother Approved](https://open.spotify.com/album/2wz6cO6pnQb0qGfRYkMWVc) | 2:08 | 2022-04-08 | 2023-09-23 |
@@ -381,7 +383,7 @@
 | [She Ski Lifts My Spirits](https://open.spotify.com/track/329HZF8ohmz9GYbFchV8wa) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [She Ski Lifts My Spirits](https://open.spotify.com/album/7gdWhNl9Nm20pp8QGaZTcz) | 3:15 | 2023-09-22 |  |
 | [Shiny Cement \- Garden](https://open.spotify.com/track/4Z5iuqme7UL1ihly12mbZr) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Shiny Cement](https://open.spotify.com/album/5BQNNaVQL1pKqyBZtOFj4E) | 2:20 | 2023-09-22 |  |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2022-04-08 |  |
-| [Shorty](https://open.spotify.com/track/74mNIO5GJ2wN4gSHBMutN6) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Shorty](https://open.spotify.com/album/25wroZFXAqdYQyP2S6fmCF) | 1:41 | 2023-09-22 |  |
+| [Shorty](https://open.spotify.com/track/74mNIO5GJ2wN4gSHBMutN6) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Shorty](https://open.spotify.com/album/25wroZFXAqdYQyP2S6fmCF) | 1:41 | 2023-09-22 | 2023-09-28 |
 | [Sidewall](https://open.spotify.com/track/4l7jeahYuBbxTlc9L6G7nY) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Sidewall](https://open.spotify.com/album/0h9LLix6ntwKH349MCZP0j) | 2:12 | 2022-04-08 | 2023-09-23 |
 | [Silence](https://open.spotify.com/track/6pGldgJpE1s0M83rksHHqr) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Silence](https://open.spotify.com/album/5ayHL3qDCkZZUBSdprKNrA) | 1:49 | 2023-09-22 |  |
 | [silly me](https://open.spotify.com/track/1Bl2RqLfN5V3uCTpcWl7Bn) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [silly me](https://open.spotify.com/album/68WtH1tl9o9QSmEH3q5WKt) | 1:30 | 2023-09-22 |  |
@@ -434,6 +436,7 @@
 | [The Carlton](https://open.spotify.com/track/3J7FvVmbz6vvPvu3XymrNK) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [The Carlton](https://open.spotify.com/album/1DMVvbrhKB6oJbZxQM0gDi) | 2:57 | 2023-09-22 |  |
 | [The Ceremony](https://open.spotify.com/track/3oQ8b6m5S531gvqZV9wEOY) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Dontcry](https://open.spotify.com/artist/6oVU5zCfJAyX49KhaKaPRS) | [Masters of the Lodge](https://open.spotify.com/album/1bx6nmknADHJvaxcvlO4go) | 1:35 | 2022-04-08 | 2023-09-23 |
 | [The Night Cruise](https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [The Night Cruise](https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo) | 2:17 | 2023-09-22 |  |
+| [This is Amsterdam](https://open.spotify.com/track/6DR19qqLR5SmXfMtOvFrrW) | [Flying Animal](https://open.spotify.com/artist/2swCJIywMR8xcM3yCXUFRx) | [This is Amsterdam](https://open.spotify.com/album/10wlmyMecAxIx7bdoIPNzK) | 1:48 | 2023-09-22 |  |
 | [Thoughts](https://open.spotify.com/track/09RjwDBWL5eM9LI2VVzcKn) | [Touri Fjell](https://open.spotify.com/artist/6WjVgq5WhsDumuVhwfKf5I) | [Thoughts](https://open.spotify.com/album/0uJfLdYRrEz5FSeyyNulr9) | 3:10 | 2023-09-22 |  |
 | [Thousand Islands](https://open.spotify.com/track/0PkaVMW00sCAeiXd5mKIVb) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Thousand Islands](https://open.spotify.com/album/1xYOX8UICuZXSwo1e7vLVy) | 3:23 | 2022-04-08 | 2023-09-23 |
 | [Through the Portal](https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Through the Portal](https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F) | 1:55 | 2023-09-22 |  |

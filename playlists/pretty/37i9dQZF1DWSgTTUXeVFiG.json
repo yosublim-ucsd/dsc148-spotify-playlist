@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 23158,
+  "num_followers": 23215,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWYyMDQ1MmIyNzNkMTZjYjExYzQwNzI3YzI2YjIxMDJmNDNjMWRl",
+  "snapshot_id": "MCxhOWQ5MWJhZmQ3ZDkxNWY1MzNjOTFjMzllOTMyNGY1MzIxOTY3ZWU4",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -867,22 +867,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Todos Vuelven Live, Vol. 1",
-        "url": "https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS"
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
       },
       "artists": [
         {
-          "name": "Ruben Blades",
-          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
-        },
-        {
-          "name": "Seis del Solar",
-          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 360080,
-      "name": "Decisiones - Live",
-      "url": "https://open.spotify.com/track/0NZ5mg6DGJHdnQkQjtsGHb"
+      "duration_ms": 474894,
+      "name": "No Es Casualidad - En Vivo",
+      "url": "https://open.spotify.com/track/0enkJVDmJcro5LDyC82p5X"
     }
   ],
   "unique_name": "Vivo de Salsa",

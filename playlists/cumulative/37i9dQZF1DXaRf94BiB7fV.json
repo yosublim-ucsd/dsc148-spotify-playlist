@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Rishabh Srivastava, Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Khatth , Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 147441,
       "name": "Bag Of Stuff For You",
       "url": "https://open.spotify.com/track/2gIisNoejyUgYXEEfpAdLS"
@@ -4024,7 +4024,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 212279,
       "name": "Dost",
       "url": "https://open.spotify.com/track/59a2sxaBI3We2OQ0r5I8lR"
@@ -4144,7 +4144,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 196000,
       "name": "Dude Subdued",
       "url": "https://open.spotify.com/track/2kEoB8aptQIPK4eIi1OpzM"
@@ -4824,7 +4824,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 140210,
       "name": "Fitoor",
       "url": "https://open.spotify.com/track/4epUtWMaUTjrk15xWzDVsk"
@@ -5002,7 +5002,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 194000,
       "name": "forgotten song",
       "url": "https://open.spotify.com/track/5RJCGKTXhpTB36oZyraMqC"
@@ -5582,6 +5582,24 @@
       "duration_ms": 181031,
       "name": "Heeriye",
       "url": "https://open.spotify.com/track/5kGsDg4DwHvDxsFsR7a7cJ"
+    },
+    {
+      "album": {
+        "name": "Hey Now",
+        "url": "https://open.spotify.com/album/4HdPhl5C8fFOH3e1BKwRQZ"
+      },
+      "artists": [
+        {
+          "name": "Strange Brew",
+          "url": "https://open.spotify.com/artist/52YXXc2g6R8VOwr2MXsylG"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/4iI7OkIZWkh4coWUfiREWa"
     },
     {
       "album": {
@@ -6733,6 +6751,24 @@
     },
     {
       "album": {
+        "name": "Ishaare",
+        "url": "https://open.spotify.com/album/4ZnaQqu6NwYdTeE5uRltsE"
+      },
+      "artists": [
+        {
+          "name": "Shirish",
+          "url": "https://open.spotify.com/artist/1gCoDNvciyx11iMi6aASNV"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175102,
+      "name": "Ishaare",
+      "url": "https://open.spotify.com/track/1VFIOx2iSJfQqWJPV4tzFv"
+    },
+    {
+      "album": {
         "name": "Ishqaan",
         "url": "https://open.spotify.com/album/0JwTQlwvtAxHXndre1dYC7"
       },
@@ -7696,6 +7732,24 @@
       "duration_ms": 313410,
       "name": "Kaash",
       "url": "https://open.spotify.com/track/3rv5JNulZpQa6GNTUzkkuU"
+    },
+    {
+      "album": {
+        "name": "Kaayar",
+        "url": "https://open.spotify.com/album/3nuufuEPeDjesdwC7AqzNQ"
+      },
+      "artists": [
+        {
+          "name": "Khatth",
+          "url": "https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134693,
+      "name": "Kaayar",
+      "url": "https://open.spotify.com/track/6cbxJhOuZWDP8kEeM6QWYe"
     },
     {
       "album": {
@@ -12775,6 +12829,24 @@
     },
     {
       "album": {
+        "name": "Rehgayi",
+        "url": "https://open.spotify.com/album/7DI8naLd05x0iCVbGmmShJ"
+      },
+      "artists": [
+        {
+          "name": "Amy Mamtura",
+          "url": "https://open.spotify.com/artist/76eG5F9jgoEsAnDkgMZl8K"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153142,
+      "name": "Rehgayi",
+      "url": "https://open.spotify.com/track/4D5NjvtKg8doqJO8Rllfui"
+    },
+    {
+      "album": {
         "name": "Rehna Tu Kareeb",
         "url": "https://open.spotify.com/album/7lFJKCUgL6tek0w5Ay43II"
       },
@@ -12790,7 +12862,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 185217,
       "name": "Rehna Tu Kareeb",
       "url": "https://open.spotify.com/track/648WuB3HUVIAYXLd1u7Mpf"
@@ -13198,7 +13270,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 215363,
       "name": "Saadgi (feat. Varsha Gaur)",
       "url": "https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA"
@@ -15304,6 +15376,24 @@
       "duration_ms": 232000,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/2CIoyocoRVqRKUZE8DZABT"
+    },
+    {
+      "album": {
+        "name": "Tere Liye",
+        "url": "https://open.spotify.com/album/1gDNF9FyEQkjVRhu8LXQCS"
+      },
+      "artists": [
+        {
+          "name": "Tanmay Ghoshal",
+          "url": "https://open.spotify.com/artist/20lfDLhyyv0gQi59As3JQ0"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314594,
+      "name": "Tere Liye",
+      "url": "https://open.spotify.com/track/1z3nEVTxTwliGeHxFDeZsQ"
     },
     {
       "album": {
@@ -17615,6 +17705,24 @@
     },
     {
       "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/0VxjrUfNVDB9QkpORGa7wl"
+      },
+      "artists": [
+        {
+          "name": "So Much To Carry",
+          "url": "https://open.spotify.com/artist/0Txjqsn9yVfhgY1pOQmRqd"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208894,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/1zRFBSJOkGqky3hjOCK85o"
+    },
+    {
+      "album": {
         "name": "Wonderlands In Alice",
         "url": "https://open.spotify.com/album/2sJRhepc1zmIHgU7EDeI1h"
       },
@@ -18090,6 +18198,24 @@
       "duration_ms": 178800,
       "name": "Your Best",
       "url": "https://open.spotify.com/track/10XpcY7siZYCfmo5pTBqIo"
+    },
+    {
+      "album": {
+        "name": "Zahir Si Baat Hai",
+        "url": "https://open.spotify.com/album/1CE2mQT5543Il9bR8tnCJ6"
+      },
+      "artists": [
+        {
+          "name": "Vineet Wunnava Mohanty",
+          "url": "https://open.spotify.com/artist/6JIPfyk7QtUlH1BplKhnl4"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "Zahir Si Baat Hai",
+      "url": "https://open.spotify.com/track/7j3llRAvBQrHT7owVF6iuL"
     },
     {
       "album": {

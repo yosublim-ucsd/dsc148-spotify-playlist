@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-241 songs - 12 hr 36 min
+243 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [High Windows](https://open.spotify.com/track/7dIO4IrjIlLhKsnj4o5nCn) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [High Windows](https://open.spotify.com/album/0UbucpkXmpzONj8JWSA6Zj) | 2:37 | 2023-08-11 |  |
 | [Homeward](https://open.spotify.com/track/73ezDZrPMOCfrd06ctU2lI) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Homeward](https://open.spotify.com/album/67LC6kwgCHBawwvif4AG6k) | 2:29 | 2023-02-09 |  |
 | [Horizons](https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Horizons](https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ) | 2:43 | 2022-03-30 |  |
-| [I Found You](https://open.spotify.com/track/5FV8186V5bGlGQa3RhzOcM) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [Under an Autumnal Sky](https://open.spotify.com/album/3NGahLW8AiKzVk3d1laAyR) | 3:24 | 2022-10-07 |  |
+| [I Found You](https://open.spotify.com/track/2e84ShlQlgyMuE99oX7ekA) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [Under an Autumnal Sky](https://open.spotify.com/album/4o4dM1VnVQIVtCSaRsWnV8) | 3:24 | 2023-09-22 |  |
+| [I Found You](https://open.spotify.com/track/5FV8186V5bGlGQa3RhzOcM) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [Under an Autumnal Sky](https://open.spotify.com/album/3NGahLW8AiKzVk3d1laAyR) | 3:24 | 2022-10-07 | 2023-09-28 |
 | [I'll Be Gone](https://open.spotify.com/track/5s0gxKFZCSQ6USPwKMdgUu) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:31 | 2022-05-19 |  |
 | [Illusory](https://open.spotify.com/track/6X7AjIztCoKnA1E1jfYoMo) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Illusory](https://open.spotify.com/album/2uoO43SIsOdbxYBOT9Jgs7) | 2:24 | 2023-05-26 |  |
 | [In Deep Colors](https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [In Deep Colors](https://open.spotify.com/album/0hg2UklcSrQrctoVPNbhbw) | 3:21 | 2022-09-02 |  |
@@ -206,7 +207,8 @@
 | [The C In Certain](https://open.spotify.com/track/1rNqvHHH5PTpX2E7guUwbj) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [Creep Mission](https://open.spotify.com/album/07ZrOXMlp266UZ7QILUOFO) | 6:23 | 2022-07-15 | 2023-01-28 |
 | [The Dream](https://open.spotify.com/track/6CsUuJ9gacyycbcVSUVBvk) | [Cherries & Daydreams](https://open.spotify.com/artist/0ONdCbjGiaB27gxgkVIXOA) | [The Dream](https://open.spotify.com/album/3aE5W4L8nurRgcvUIgvNUj) | 2:19 | 2023-06-09 |  |
 | [The Gathering](https://open.spotify.com/track/6Wgkn09AhQjIzFK1qx4xvY) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [The Gathering](https://open.spotify.com/album/3QuRI71gWqj1HxTmQdBMhF) | 2:10 | 2023-01-27 |  |
-| [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/6yiPwfADSoJQ0k5to30gIi) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 3:50 | 2022-05-19 |  |
+| [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/0zafu3xeKBBa1aUo9vOGOV) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt) | 3:50 | 2023-09-22 |  |
+| [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/6yiPwfADSoJQ0k5to30gIi) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 3:50 | 2022-05-19 | 2023-09-28 |
 | [The Light We Saw](https://open.spotify.com/track/1V8ldResSotRaJmU14r1IX) | [Parascope Doll](https://open.spotify.com/artist/0W8rgH2l5fMLS6hdxNMT9y) | [The Light We Saw](https://open.spotify.com/album/0JoJa8DNkmRGQwCAo7amaC) | 3:36 | 2023-03-31 |  |
 | [The Real Devil](https://open.spotify.com/track/4cbMi6XGtpDQ8GsBlKXkqv) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [The World Is A House On Fire](https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J) | 5:36 | 2022-03-30 | 2023-04-14 |
 | [The Second Sun](https://open.spotify.com/track/5IzF7aTQ1CHvoq5ifwp75J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [The Second Sun](https://open.spotify.com/album/7f4BYiovopoUQKVPqRZhQj) | 3:16 | 2022-09-14 |  |

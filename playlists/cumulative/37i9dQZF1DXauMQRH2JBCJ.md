@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-106 songs - 5 hr 24 min
+107 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 | 2022-03-16 |  |
 | [Almost There](https://open.spotify.com/track/2GLyruWagsv8o7aGNXboH1) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [The Princess and the Frog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) | 2:24 | 2022-09-15 | 2022-11-13 |
 | [Almost There \- From "The Princess and the Frog" / Soundtrack Version](https://open.spotify.com/track/0or0k6IgdkBPrfPuZsGBJ3) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [The Princess and the Frog](https://open.spotify.com/album/6UtWL1MOnEAua8BQb0l1g2) | 2:24 | 2022-03-16 | 2022-07-29 |
-| [Almost There \- From "The Princess and the Frog" / Soundtrack Version](https://open.spotify.com/track/3aJgAgTI9srxcTuyzVDtkm) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [The Princess and the Frog: Tiana and Her Princess Friends](https://open.spotify.com/album/5mZgyfa7rkogNoxxqHpbOg) | 2:24 | 2022-07-07 |  |
+| [Almost There \- From "The Princess and the Frog" / Soundtrack Version](https://open.spotify.com/track/7GBAXK535UBq8ftRh86FXq) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [Disney Summer Songs , Vol\. 2](https://open.spotify.com/album/4AORimNOUL0YaMx9jYx2G8) | 2:24 | 2023-08-25 |  |
+| [Almost There \- From "The Princess and the Frog" / Soundtrack Version](https://open.spotify.com/track/3aJgAgTI9srxcTuyzVDtkm) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [The Princess and the Frog: Tiana and Her Princess Friends](https://open.spotify.com/album/5mZgyfa7rkogNoxxqHpbOg) | 2:24 | 2022-07-07 | 2023-09-28 |
 | [Baby Mine](https://open.spotify.com/track/1UU3IpxOVpjjHdoQjchpgX) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Dumbo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2MmoEweTJheiCoiwohS8Yj) | 2:57 | 2023-01-31 |  |
 | [Baby Mine](https://open.spotify.com/track/5LkT5CVVxUPpZQXdYiEDoG) | [Sharon Rooney](https://open.spotify.com/artist/4UMviqfhVwm1rlvkmOHWJM) | [Dumbo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2MmoEweTJheiCoiwohS8Yj) | 1:44 | 2022-03-16 |  |
 | [Be Our Guest](https://open.spotify.com/track/18ZancOCnfubiRvcAx9kxe) | [Martin Short](https://open.spotify.com/artist/0dV9xcjrW5YwkxG3gEBhRx), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [David Alan Grier](https://open.spotify.com/artist/5aDJFTPB7JCC9T785IH2Fy) | [Beauty and the Beast: A 30th Celebration \(Original Soundtrack\)](https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N) | 3:52 | 2022-12-16 |  |

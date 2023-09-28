@@ -734,7 +734,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 251147,
       "name": "Aura Diferente",
       "url": "https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf"
@@ -1914,6 +1914,36 @@
       "duration_ms": 253150,
       "name": "de longe",
       "url": "https://open.spotify.com/track/64Dw1NR6wGTJHMIdWyZUz9"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Sou Daqui",
+        "url": "https://open.spotify.com/album/6F0dv3FpCtzK5HGldys7dX"
+      },
+      "artists": [
+        {
+          "name": "Flepa",
+          "url": "https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb"
+        },
+        {
+          "name": "Blacci",
+          "url": "https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        },
+        {
+          "name": "Blanko",
+          "url": "https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Deixa Arder",
+      "url": "https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP"
     },
     {
       "album": {

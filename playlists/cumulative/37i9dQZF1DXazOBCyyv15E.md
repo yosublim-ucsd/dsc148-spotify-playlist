@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Bleachers
 
-1,759 songs - 4 day 8 hr 44 min
+1,760 songs - 4 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,7 +571,8 @@
 | [Future Stranger](https://open.spotify.com/track/5ffc4zcIUxfzVWlCraZMXq) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [SLIPPING](https://open.spotify.com/album/2HESPFFJptgNSlBostvy1P) | 3:47 | 2022-08-05 | 2022-09-16 |
 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 | 2021-01-29 | 2021-04-16 |
 | [Fyodor Dormant](https://open.spotify.com/track/5o1yNJTd6zkDmxcwq12GYl) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Fyodor Dormant](https://open.spotify.com/album/1ohUm4cLNLeJQQGJD21xu9) | 2:46 | 2022-01-07 | 2022-02-18 |
-| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-21 |  |
+| [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 | 2023-09-21 |  |
+| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-21 | 2023-09-28 |
 | [Game Over](https://open.spotify.com/track/1ud2UCQ3mDIKYxOTWvcZpM) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [Game Over](https://open.spotify.com/album/3e91HWGq0MRSrivkscpoXZ) | 2:55 | 2023-05-04 | 2023-06-09 |
 | [Gamma Ray \- Edit](https://open.spotify.com/track/097k2qUMsMu32B9blDCimS) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [Gamma Ray](https://open.spotify.com/album/0iIqF4oEcivw7kjJ3RgRm4) | 3:26 | 2021-07-30 | 2021-09-24 |
 | [Garden](https://open.spotify.com/track/50iDsxVvLyArwlS5PUuiy3) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/63SUShWKQ0g7ttqbgN8b2P) | 3:12 | 2020-10-16 | 2021-01-29 |

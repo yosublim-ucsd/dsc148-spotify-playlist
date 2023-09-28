@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Lil Ella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,853 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,878 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Las Vegas](https://open.spotify.com/track/206wvAnF8zwhMXqCFFTQK4) | [Meritxell Neddermann](https://open.spotify.com/artist/59IkSVLk0jDhOyNrXrtpYv) | [Las Vegas](https://open.spotify.com/album/43m8j5ARAQYlHDt03yd2EI) | 3:18 |
 | 50 | [Pasodoble Maria](https://open.spotify.com/track/79tulTZfDA5BOYkpTwHihR) | [Sandra Monfort](https://open.spotify.com/artist/61e36FRgKb0nR158oVJvij) | [Pasodoble Maria](https://open.spotify.com/album/1ZPVWZb2Tt6LFG4bd1laGS) | 3:07 |
 
-Snapshot ID: `MCwwZWUwMmEwOGIxY2U1ODgxMjNkMGNhYWY5YmFlY2MxNjVlZWExYzI4`
+Snapshot ID: `MCwwYzQ4NjE4YzhjMmYwMGNkNDM2OGJkZTQxODdmODBmMzJhOTU0NGY5`

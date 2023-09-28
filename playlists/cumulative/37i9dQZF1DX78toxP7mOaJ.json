@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock from independent artists every Wednesday. Cover: Arcy Drive | Artwork: Jim Klok",
+  "description": "Fresh rock from independent artists every Wednesday. Cover: Office Dog | Artwork: Jim Klok",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 235574,
       "name": "(Full Free) Radical",
       "url": "https://open.spotify.com/track/6zk5XHx4mEtIuNDNvkT7Re"
+    },
+    {
+      "album": {
+        "name": "(The) Coffee Song / October",
+        "url": "https://open.spotify.com/album/43IfWtnJ6ICcrWOaT1JbQf"
+      },
+      "artists": [
+        {
+          "name": "The Toxhards",
+          "url": "https://open.spotify.com/artist/6LOm4xDQLq8kmcRaZIzB2s"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "(The) Coffee Song",
+      "url": "https://open.spotify.com/track/5mzUrpcMjjVEy92tLH3lqM"
     },
     {
       "album": {
@@ -290,6 +308,24 @@
       "duration_ms": 265161,
       "name": "24HR Fix",
       "url": "https://open.spotify.com/track/0GEPysbHDFpXm9Ya4HT4yq"
+    },
+    {
+      "album": {
+        "name": "5 Things I Can Taste",
+        "url": "https://open.spotify.com/album/71IBPfv1DLKTIPiq8jzZfW"
+      },
+      "artists": [
+        {
+          "name": "Teenage Joans",
+          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236662,
+      "name": "5 Things I Can Taste",
+      "url": "https://open.spotify.com/track/2M3NmJ4ukVKxPsuPV7JM3k"
     },
     {
       "album": {
@@ -3246,7 +3282,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 226551,
       "name": "Candy Apple",
       "url": "https://open.spotify.com/track/20uwCFdYyUHOhKZ3xGhrQh"
@@ -4058,7 +4094,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 235200,
       "name": "Conciousness",
       "url": "https://open.spotify.com/track/0mIjVwFud57Hv0zG36sULS"
@@ -4624,6 +4660,24 @@
       "duration_ms": 171990,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/4QSZrsCZx4jAPNIMoUsq03"
+    },
+    {
+      "album": {
+        "name": "Cylinders",
+        "url": "https://open.spotify.com/album/5nXRuh4rwIUu7TySmM9oeE"
+      },
+      "artists": [
+        {
+          "name": "Dog Sport",
+          "url": "https://open.spotify.com/artist/68RQxUCaZrjtIYlxk6mERg"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201346,
+      "name": "Cylinders",
+      "url": "https://open.spotify.com/track/17I5FjmxdcfWX9GYjsSkVJ"
     },
     {
       "album": {
@@ -5942,6 +5996,24 @@
       "duration_ms": 247002,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/1Hx2nUUnTyk5ewgKZt1lSI"
+    },
+    {
+      "album": {
+        "name": "Egyptian Walls",
+        "url": "https://open.spotify.com/album/6jzkRjnyRewZNwqV99t6Mc"
+      },
+      "artists": [
+        {
+          "name": "Reme",
+          "url": "https://open.spotify.com/artist/0OmHs6TGDJEJjZ1hUdPlHr"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191657,
+      "name": "Egyptian Walls",
+      "url": "https://open.spotify.com/track/4lbWSK2R6f44weepWjxsYN"
     },
     {
       "album": {
@@ -10454,7 +10526,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 178000,
       "name": "Jubilee",
       "url": "https://open.spotify.com/track/0ocFMZDwKFuDUKCLiQW4yw"
@@ -15321,6 +15393,24 @@
     },
     {
       "album": {
+        "name": "Road Trip!",
+        "url": "https://open.spotify.com/album/5oAV7k4HcnWDfyQ5a5b50U"
+      },
+      "artists": [
+        {
+          "name": "Baby Wave",
+          "url": "https://open.spotify.com/artist/2InWfiCopgR2razz9odY6K"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81654,
+      "name": "Road Trip!",
+      "url": "https://open.spotify.com/track/6AKyFcrurdc7gbdP7hW509"
+    },
+    {
+      "album": {
         "name": "tunes",
         "url": "https://open.spotify.com/album/2tjpOU5Zh0lOUoRC3JTfT4"
       },
@@ -15444,6 +15534,24 @@
       "duration_ms": 189237,
       "name": "Run (When I Tell You)",
       "url": "https://open.spotify.com/track/2HVPlrwGyrFO9SMEXXSdYw"
+    },
+    {
+      "album": {
+        "name": "RUN TO BUY VACUUM",
+        "url": "https://open.spotify.com/album/5Qdn2ZNsb8Ql9IU18I0rdH"
+      },
+      "artists": [
+        {
+          "name": "Milk TV",
+          "url": "https://open.spotify.com/artist/6iTicNZlmOqmxbpYxShHsF"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161784,
+      "name": "RUN TO BUY VACUUM",
+      "url": "https://open.spotify.com/track/0fWHQ0HDdc9XBKx4lC0xQ1"
     },
     {
       "album": {
@@ -15624,7 +15732,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 173081,
       "name": "Sandcastle",
       "url": "https://open.spotify.com/track/4hmTzkEtFi3ZH58lKJeW1G"
@@ -17033,6 +17141,24 @@
     },
     {
       "album": {
+        "name": "ITS BETTER HERE THAN IN THE DARK",
+        "url": "https://open.spotify.com/album/2gk0dpUiCJSlKToXdIJhMC"
+      },
+      "artists": [
+        {
+          "name": "Deaf Dreamer",
+          "url": "https://open.spotify.com/artist/5RGM0opcpgekOx1Dlq7iY6"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281451,
+      "name": "Spirit Guides",
+      "url": "https://open.spotify.com/track/6sKWqFeJAGAtXFFuwi186B"
+    },
+    {
+      "album": {
         "name": "Spit Me Out",
         "url": "https://open.spotify.com/album/6GEHuoCOcAYWhA2O0ZCubV"
       },
@@ -17602,7 +17728,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 212019,
       "name": "Sunny Smile",
       "url": "https://open.spotify.com/track/0DT9Q3fLZIN4v4kkpMgDCG"
@@ -18488,7 +18614,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 152110,
       "name": "The Power",
       "url": "https://open.spotify.com/track/0a5fTiH4xSCrnePP16HaTV"
@@ -20266,7 +20392,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 218510,
       "name": "Who's Laughing Now",
       "url": "https://open.spotify.com/track/7MtcgU2tdfXxVfzDZt08c9"

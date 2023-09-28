@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 76743,
+  "num_followers": 76932,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjI4MDViYWJkNmY3YjZlNjExZDY4YWQxMjk1YzQ3ODFlNmMxZGY5",
+  "snapshot_id": "MCxmMmUwMmI2ODdhY2E0ODk0OGNlMjliMjNkNGJjMDZjZTAxMDkyNGY2",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "The Healing Process",
-        "url": "https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq"
-      },
-      "artists": [
-        {
-          "name": "Koh Lantana",
-          "url": "https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc"
-        }
-      ],
-      "duration_ms": 161442,
-      "name": "The Healing Process",
-      "url": "https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "In This Moment",
         "url": "https://open.spotify.com/album/7FQTRcg3TMdaPvaaLHiS4o"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 166827,
       "name": "In This Moment",
       "url": "https://open.spotify.com/track/2qz4vG6T2PYAYP5YU9dULG"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "The Healing Process",
+        "url": "https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq"
+      },
+      "artists": [
+        {
+          "name": "Koh Lantana",
+          "url": "https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc"
+        }
+      ],
+      "duration_ms": 161442,
+      "name": "The Healing Process",
+      "url": "https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
-        "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
-      },
-      "artists": [
-        {
-          "name": "Nature Sound Series",
-          "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Birds Sounds",
-      "url": "https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Meditations for Transformation: Cycle of Life",
         "url": "https://open.spotify.com/album/3W9Jqw4DcG9dfZm2Y53eU0"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 366226,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
+        "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
+      },
+      "artists": [
+        {
+          "name": "Nature Sound Series",
+          "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Birds Sounds",
+      "url": "https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Still Moment",
-        "url": "https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5"
-      },
-      "artists": [
-        {
-          "name": "Tunde Jegede",
-          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
-        }
-      ],
-      "duration_ms": 343000,
-      "name": "Still Moment",
-      "url": "https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Reiki Hands of Light",
         "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 581226,
       "name": "Illumination of the Heart",
       "url": "https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Still Moment",
+        "url": "https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5"
+      },
+      "artists": [
+        {
+          "name": "Tunde Jegede",
+          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
+        }
+      ],
+      "duration_ms": 343000,
+      "name": "Still Moment",
+      "url": "https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
-        "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
-      },
-      "artists": [
-        {
-          "name": "Nature Sound Series",
-          "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Sea Waves",
-      "url": "https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Long Long Sleep",
         "url": "https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 137854,
       "name": "Long Long Sleep",
       "url": "https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
+        "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
+      },
+      "artists": [
+        {
+          "name": "Nature Sound Series",
+          "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Sea Waves",
+      "url": "https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Incomplete",
-        "url": "https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 139752,
-      "name": "A Whisper In The Dark",
-      "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Pamanyungan",
         "url": "https://open.spotify.com/album/4GafeD514GWyl9actIQHbA"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 512413,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/4knWfIEQO6hcKW20A16gYY"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Incomplete",
+        "url": "https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 139752,
+      "name": "A Whisper In The Dark",
+      "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Minimalia",
-        "url": "https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB"
-      },
-      "artists": [
-        {
-          "name": "Binary One",
-          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Two",
-      "url": "https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "E T",
         "url": "https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 226363,
       "name": "...There You Are!",
       "url": "https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Minimalia",
+        "url": "https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB"
+      },
+      "artists": [
+        {
+          "name": "Binary One",
+          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Tranquility: Just Relax - 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being",
-        "url": "https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc"
-      },
-      "artists": [
-        {
-          "name": "Namaste Healing Yoga",
-          "url": "https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "Baby Deep Sleep",
-      "url": "https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "101 Minutes Relaxing Sounds of Nature Music for Sleeping, Relaxation, Mindfulness Meditation, Reiki, Autogenic Training & Yoga Savasana Bonus Track Version",
         "url": "https://open.spotify.com/album/5RzQ5hreVnPZVKctWQzsqO"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 303786,
       "name": "Healing Sounds (Nature Music)",
       "url": "https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Tranquility: Just Relax - 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being",
+        "url": "https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc"
+      },
+      "artists": [
+        {
+          "name": "Namaste Healing Yoga",
+          "url": "https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "Baby Deep Sleep",
+      "url": "https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Sleep Meditation \u2013 Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing",
-        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
-      },
-      "artists": [
-        {
-          "name": "Natural Meditation Guru",
-          "url": "https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN"
-        }
-      ],
-      "duration_ms": 229927,
-      "name": "Breath Exercises for Deep Sleep",
-      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "The Healing Touch - Music for Reiki and Meditation, Vol. 2",
         "url": "https://open.spotify.com/album/69jtcMWOhK48aAPC52ZRwp"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 160374,
       "name": "Beauty of Hope",
       "url": "https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Sleep Meditation \u2013 Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing",
+        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
+      },
+      "artists": [
+        {
+          "name": "Natural Meditation Guru",
+          "url": "https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN"
+        }
+      ],
+      "duration_ms": 229927,
+      "name": "Breath Exercises for Deep Sleep",
+      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
     },
     {
       "added_at": "2023-05-10 11:43:32",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Mindfulness and Relaxation",
-        "url": "https://open.spotify.com/album/2N2hHr7r3EYQ6UGxJtIHwU"
-      },
-      "artists": [
-        {
-          "name": "Savasana",
-          "url": "https://open.spotify.com/artist/071HcfBGJsWCrggabfaC5D"
-        }
-      ],
-      "duration_ms": 129432,
-      "name": "Deep Meditation",
-      "url": "https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Jardin Zen - Musique Asiatique avec des Sons de la Nature",
         "url": "https://open.spotify.com/album/0BDyiYJ5bgQZgyhyGYfGGM"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 322478,
       "name": "Relaxation Music",
       "url": "https://open.spotify.com/track/5idm6KAMf3ikeOaGSqMklt"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Mindfulness and Relaxation",
+        "url": "https://open.spotify.com/album/2N2hHr7r3EYQ6UGxJtIHwU"
+      },
+      "artists": [
+        {
+          "name": "Savasana",
+          "url": "https://open.spotify.com/artist/071HcfBGJsWCrggabfaC5D"
+        }
+      ],
+      "duration_ms": 129432,
+      "name": "Deep Meditation",
+      "url": "https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Indian Music for Relaxation \u2013 Oriental Music, Music for Deep Meditation, Indian Flute, Native American Music, Sounds of Nature, Reiki Massage & Chakra Healing",
-        "url": "https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW"
-      },
-      "artists": [
-        {
-          "name": "Natural Meditation Guru",
-          "url": "https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN"
-        }
-      ],
-      "duration_ms": 221799,
-      "name": "Relaxing Native Flute",
-      "url": "https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Relaxation and Meditation in Bollywood",
         "url": "https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 215020,
       "name": "Savasana Yoga",
       "url": "https://open.spotify.com/track/30U8kxFDv8QL8fHKBoImSq"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Indian Music for Relaxation \u2013 Oriental Music, Music for Deep Meditation, Indian Flute, Native American Music, Sounds of Nature, Reiki Massage & Chakra Healing",
+        "url": "https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW"
+      },
+      "artists": [
+        {
+          "name": "Natural Meditation Guru",
+          "url": "https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN"
+        }
+      ],
+      "duration_ms": 221799,
+      "name": "Relaxing Native Flute",
+      "url": "https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml"
     },
     {
       "added_at": "2021-06-15 08:38:14",

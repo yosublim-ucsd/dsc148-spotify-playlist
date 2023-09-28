@@ -1492,10 +1492,32 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 208959,
       "name": "Mooier",
       "url": "https://open.spotify.com/track/5mabrt9VxlEgoSy3RSenW7"
+    },
+    {
+      "album": {
+        "name": "Uit Het Hoofd",
+        "url": "https://open.spotify.com/album/1iqVLBmEq2MpToLxxeQ8v8"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        },
+        {
+          "name": "De Getuigen",
+          "url": "https://open.spotify.com/artist/6mirF7xKDhc3pyVDxMrerP"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208959,
+      "name": "Mooier",
+      "url": "https://open.spotify.com/track/6Hj6xDRhdZOQujspgN4aCe"
     },
     {
       "album": {

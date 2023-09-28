@@ -32,7 +32,7 @@
     {
       "album": {
         "name": "Antes de Ameri",
-        "url": "https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO"
+        "url": "https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR"
       },
       "artists": [
         {
@@ -43,6 +43,24 @@
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 166567,
+      "name": "antes de perderte (OG VERSION)",
+      "url": "https://open.spotify.com/track/1btvwn9o5vsOkeIf8qJ4cP"
+    },
+    {
+      "album": {
+        "name": "Antes de Ameri",
+        "url": "https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-28",
       "duration_ms": 166567,
       "name": "antes de perderte (OG VERSION)",
       "url": "https://open.spotify.com/track/36wXX340N9sSUgvRe74Q3t"

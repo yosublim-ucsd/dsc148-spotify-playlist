@@ -1,13 +1,145 @@
 {
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Morganne",
-  "num_followers": 195443,
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Michael Gerow",
+  "num_followers": 195694,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2JjNDg2YWQxYmFkNjVhMWU0NjJiNjFiNzg3MWY4NTZmNDBmMjlm",
+  "snapshot_id": "MCw2NGQzMjQwNmFlMDZhYzBlYzk3NjJlNTljYzRlMzNhMDc2NGE2YzBj",
   "tracks": [
+    {
+      "added_at": "2023-09-27 04:11:21",
+      "album": {
+        "name": "Between The Lines",
+        "url": "https://open.spotify.com/album/3fCkMihwoQJsCmuiOzCeRa"
+      },
+      "artists": [
+        {
+          "name": "Michael Gerow",
+          "url": "https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl"
+        }
+      ],
+      "duration_ms": 136077,
+      "name": "Between The Lines",
+      "url": "https://open.spotify.com/track/78buF26zokb7wFmxzK8P7J"
+    },
+    {
+      "added_at": "2023-09-27 04:11:21",
+      "album": {
+        "name": "ITS OVER (feat. Yoshi T.)",
+        "url": "https://open.spotify.com/album/4nd4X77W8pMymN3P9UkYZP"
+      },
+      "artists": [
+        {
+          "name": "Jackson August",
+          "url": "https://open.spotify.com/artist/1fEYP7fDawtTMpV3IHzZRN"
+        },
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ITS OVER (feat. Yoshi T.)",
+      "url": "https://open.spotify.com/track/5sIPhxUbunhlJtp8jbqoTw"
+    },
+    {
+      "added_at": "2023-09-27 04:11:21",
+      "album": {
+        "name": "Wait Up",
+        "url": "https://open.spotify.com/album/4owm0U3LAo5y1sCun9lyXV"
+      },
+      "artists": [
+        {
+          "name": "Becky Sikasa",
+          "url": "https://open.spotify.com/artist/3UqXMAMPI53itEWm6SMaBZ"
+        }
+      ],
+      "duration_ms": 175699,
+      "name": "Wait Up",
+      "url": "https://open.spotify.com/track/6zniefLYl8sGh6TY0rDbID"
+    },
+    {
+      "added_at": "2023-09-27 04:11:21",
+      "album": {
+        "name": "your person",
+        "url": "https://open.spotify.com/album/1Ces5YhJPOOgDJA24KIahz"
+      },
+      "artists": [
+        {
+          "name": "Jake Clark",
+          "url": "https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd"
+        }
+      ],
+      "duration_ms": 201762,
+      "name": "your person",
+      "url": "https://open.spotify.com/track/0f9wp0OIGLlCfyEdAlS2wv"
+    },
+    {
+      "added_at": "2023-09-27 04:11:21",
+      "album": {
+        "name": "Sick Kisses",
+        "url": "https://open.spotify.com/album/2uyHyfER1KDOzu2j9C4eJe"
+      },
+      "artists": [
+        {
+          "name": "Liam Barrack",
+          "url": "https://open.spotify.com/artist/6J3nuRRUXPFTFGcWcOJvtG"
+        }
+      ],
+      "duration_ms": 213622,
+      "name": "Sick Kisses",
+      "url": "https://open.spotify.com/track/7qpWRfeB4KVRFA0UyjJcdF"
+    },
+    {
+      "added_at": "2023-09-27 04:11:21",
+      "album": {
+        "name": "Stupid Little Party Girl",
+        "url": "https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw"
+      },
+      "artists": [
+        {
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+        }
+      ],
+      "duration_ms": 179936,
+      "name": "Stupid Little Party Girl",
+      "url": "https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk"
+    },
+    {
+      "added_at": "2023-09-27 04:11:21",
+      "album": {
+        "name": "bololo",
+        "url": "https://open.spotify.com/album/3jEztz5q2762faS73uQ0HE"
+      },
+      "artists": [
+        {
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "bololo",
+      "url": "https://open.spotify.com/track/1TSOc20wZ3hNZQaj1qH6Bg"
+    },
+    {
+      "added_at": "2023-09-27 04:11:21",
+      "album": {
+        "name": "HEARTBREAK ON ANTIDEPRESSANTS",
+        "url": "https://open.spotify.com/album/25GJThOpJF9irGYwIFNdgW"
+      },
+      "artists": [
+        {
+          "name": "DONT MAKE THIS WEIRD",
+          "url": "https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "HEARTBREAK ON ANTIDEPRESSANTS",
+      "url": "https://open.spotify.com/track/73Ftztx5R2t7VI9X0BabGq"
+    },
     {
       "added_at": "2023-09-20 14:26:31",
       "album": {
@@ -25,6 +157,70 @@
       "url": "https://open.spotify.com/track/7Kww1lvMVSlOK7LttfKxNO"
     },
     {
+      "added_at": "2023-09-27 04:11:21",
+      "album": {
+        "name": "Felt Right",
+        "url": "https://open.spotify.com/album/0izNemQs7pECoJYbAOTAta"
+      },
+      "artists": [
+        {
+          "name": "Savannah Bleu",
+          "url": "https://open.spotify.com/artist/0aMRKrBdQ372cexSXGl4Wv"
+        }
+      ],
+      "duration_ms": 171768,
+      "name": "Felt Right",
+      "url": "https://open.spotify.com/track/7JEjkRI7uJAqMFv4618HHh"
+    },
+    {
+      "added_at": "2023-09-27 04:11:21",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1LpGadE3RF8aYWz06Ij9Lm"
+      },
+      "artists": [
+        {
+          "name": "India Thieriot",
+          "url": "https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg"
+        }
+      ],
+      "duration_ms": 216153,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3NQ3PPFELKvDRafbIrqMj9"
+    },
+    {
+      "added_at": "2023-09-27 04:11:21",
+      "album": {
+        "name": "Polite",
+        "url": "https://open.spotify.com/album/3kS9OA29PAdFlwhOLOS2KU"
+      },
+      "artists": [
+        {
+          "name": "JADE RICH",
+          "url": "https://open.spotify.com/artist/2fMcXdY556OEgI31kIwebi"
+        }
+      ],
+      "duration_ms": 184142,
+      "name": "Polite",
+      "url": "https://open.spotify.com/track/78mbjJFBbWZKoNdz1Ty2Ev"
+    },
+    {
+      "added_at": "2023-09-27 04:11:21",
+      "album": {
+        "name": "2009",
+        "url": "https://open.spotify.com/album/5W8wvoLa3IJiAa4wvbFoYe"
+      },
+      "artists": [
+        {
+          "name": "Livia O",
+          "url": "https://open.spotify.com/artist/0DJDFfRvWrXgjbFn0Wl0CG"
+        }
+      ],
+      "duration_ms": 219891,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/0PAgdg0v7LSjinrubTDsjp"
+    },
+    {
       "added_at": "2023-09-20 14:26:31",
       "album": {
         "name": "D.O.N.E",
@@ -39,6 +235,22 @@
       "duration_ms": 122842,
       "name": "D.O.N.E",
       "url": "https://open.spotify.com/track/0j4K8zY3Em7tzCYUkX5Dsh"
+    },
+    {
+      "added_at": "2023-09-20 14:26:31",
+      "album": {
+        "name": "Risky",
+        "url": "https://open.spotify.com/album/1PPHXJ5LxH3wdPAuOpkODv"
+      },
+      "artists": [
+        {
+          "name": "Isabel Wood",
+          "url": "https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO"
+        }
+      ],
+      "duration_ms": 186971,
+      "name": "Risky",
+      "url": "https://open.spotify.com/track/2m6impWnt3BTPW5hUpXDGD"
     },
     {
       "added_at": "2023-09-13 04:00:00",
@@ -151,22 +363,6 @@
       "duration_ms": 194684,
       "name": "V&V",
       "url": "https://open.spotify.com/track/3a6yyXcHO6gGrUpoC2ojaW"
-    },
-    {
-      "added_at": "2023-09-20 14:26:31",
-      "album": {
-        "name": "Risky",
-        "url": "https://open.spotify.com/album/1PPHXJ5LxH3wdPAuOpkODv"
-      },
-      "artists": [
-        {
-          "name": "Isabel Wood",
-          "url": "https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO"
-        }
-      ],
-      "duration_ms": 186971,
-      "name": "Risky",
-      "url": "https://open.spotify.com/track/2m6impWnt3BTPW5hUpXDGD"
     },
     {
       "added_at": "2023-09-20 14:26:31",
@@ -1099,22 +1295,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Stop Thinking About It",
-        "url": "https://open.spotify.com/album/0FzcialvWMP9Tbf2G6voU2"
-      },
-      "artists": [
-        {
-          "name": "Sophia Veraz",
-          "url": "https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ"
-        }
-      ],
-      "duration_ms": 186551,
-      "name": "Stop Thinking About It",
-      "url": "https://open.spotify.com/track/6Pmg5MkcA6xc4tuUKGLgB6"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "MANIA (Where Them Girls At)",
         "url": "https://open.spotify.com/album/3kZmSotBzwMnxCloeG7qfZ"
       },
@@ -1289,22 +1469,6 @@
       "url": "https://open.spotify.com/track/3LQnvTX0E4cwig42VTbX3X"
     },
     {
-      "added_at": "2023-06-21 03:57:25",
-      "album": {
-        "name": "h4msterb0y",
-        "url": "https://open.spotify.com/album/3uy3LkqdF1axtXTw3QEexR"
-      },
-      "artists": [
-        {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
-        }
-      ],
-      "duration_ms": 168236,
-      "name": "h4msterb0y",
-      "url": "https://open.spotify.com/track/6KGPqS4xegcAszjtMF40ra"
-    },
-    {
       "added_at": "2023-06-28 04:00:00",
       "album": {
         "name": "Before The Sad Sets In",
@@ -1339,22 +1503,6 @@
     {
       "added_at": "2023-06-14 04:00:00",
       "album": {
-        "name": "You're a Lot",
-        "url": "https://open.spotify.com/album/6se6xD1VQ6BNGwqD6wPTBg"
-      },
-      "artists": [
-        {
-          "name": "SISTRA",
-          "url": "https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU"
-        }
-      ],
-      "duration_ms": 152293,
-      "name": "You're a Lot",
-      "url": "https://open.spotify.com/track/7p1yFJ7tvOE8pwCbIB1ggu"
-    },
-    {
-      "added_at": "2023-06-14 04:00:00",
-      "album": {
         "name": "The Greatest Story Never Told",
         "url": "https://open.spotify.com/album/7jdM7oMdH9dQVklWF8JrFH"
       },
@@ -1367,22 +1515,6 @@
       "duration_ms": 167562,
       "name": "The Greatest Story Never Told",
       "url": "https://open.spotify.com/track/12Xt7wAOrGoYCXLwjnOC3K"
-    },
-    {
-      "added_at": "2023-06-07 12:22:16",
-      "album": {
-        "name": "Window Shopping",
-        "url": "https://open.spotify.com/album/240WxWalwymGHAPOJ3hNPp"
-      },
-      "artists": [
-        {
-          "name": "Flo Gallop",
-          "url": "https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN"
-        }
-      ],
-      "duration_ms": 178588,
-      "name": "Window Shopping",
-      "url": "https://open.spotify.com/track/63QD2rWbjJjwU9PK1YBOAd"
     },
     {
       "added_at": "2023-06-07 12:22:16",

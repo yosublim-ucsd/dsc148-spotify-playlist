@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 22230,
+  "num_followers": 22263,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmIxZDI1ZmYwMGQyODQ0M2JmYTQ1ZmI4MDViMTY4YTRlMmQ5ZWJi",
+  "snapshot_id": "MCw4NmJlYmI0YmU4NDc1YWVhM2JjMGVjYTI1YTE4OGQwZjJjZGRiOTli",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Basta Chiudere Gli Occhi",
-        "url": "https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j"
-      },
-      "artists": [
-        {
-          "name": "Gino Paoli",
-          "url": "https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "Sapore di sale",
-      "url": "https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Figli Delle Stelle (2005 - Remaster)",
         "url": "https://open.spotify.com/album/517MxHAODAKO4wAr4pHVAB"
       },
@@ -59,18 +43,18 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Traslocando",
-        "url": "https://open.spotify.com/album/3OiG985bPYsI0pWrNenI2Z"
+        "name": "Basta Chiudere Gli Occhi",
+        "url": "https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j"
       },
       "artists": [
         {
-          "name": "Loredana Bert\u00e8",
-          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
+          "name": "Gino Paoli",
+          "url": "https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH"
         }
       ],
-      "duration_ms": 209466,
-      "name": "Non sono una signora",
-      "url": "https://open.spotify.com/track/1zj7vlb9EFZ8NqbSHofkGT"
+      "duration_ms": 214306,
+      "name": "Sapore di sale",
+      "url": "https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -87,6 +71,22 @@
       "duration_ms": 234812,
       "name": "Boys - Summertime Love",
       "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Traslocando",
+        "url": "https://open.spotify.com/album/3OiG985bPYsI0pWrNenI2Z"
+      },
+      "artists": [
+        {
+          "name": "Loredana Bert\u00e8",
+          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Non sono una signora",
+      "url": "https://open.spotify.com/track/1zj7vlb9EFZ8NqbSHofkGT"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Riccardo Del Turco",
-        "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
-      },
-      "artists": [
-        {
-          "name": "Riccardo Del Turco",
-          "url": "https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Luglio",
-      "url": "https://open.spotify.com/track/083VTM4yXnNrspPRcVadTm"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Un'ora con...",
         "url": "https://open.spotify.com/album/3jYaY4hJL3Ene7hctpoX44"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 236813,
       "name": "Nell'aria",
       "url": "https://open.spotify.com/track/5PXaja7dpezSS8nSDsyfb7"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Riccardo Del Turco",
+        "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Del Turco",
+          "url": "https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Luglio",
+      "url": "https://open.spotify.com/track/083VTM4yXnNrspPRcVadTm"
     },
     {
       "added_at": "2023-06-05 07:42:38",

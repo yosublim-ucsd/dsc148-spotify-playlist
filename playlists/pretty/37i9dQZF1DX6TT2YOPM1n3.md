@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Current Pakistani hits under one roof\. Cover: Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,612 likes - 53 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,708 likes - 53 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 52 | [Afsanay](https://open.spotify.com/track/05sqcYfU2wMlKwPVJ0rotq) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Afsanay](https://open.spotify.com/album/4BSWdn9sd5vbeQpKbZ2MMr) | 5:43 |
 | 53 | [Mera Sawera](https://open.spotify.com/track/6MYdDETIIxZmbwlWYofhNJ) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Mera Sawera](https://open.spotify.com/album/72RLlXLJPNfjAygCfLPSRN) | 4:00 |
 
-Snapshot ID: `MCxiOWJhNzQ2MTFkYWNhYTFkMzIxZTBiNmZmMmE1NGQ4YzI3NjdjMmQ4`
+Snapshot ID: `MCw2NjNkMTMzYzRhYTdjMTJmNDNhODBmYzlhNzFmMDk2OGE1MjFiZGJi`

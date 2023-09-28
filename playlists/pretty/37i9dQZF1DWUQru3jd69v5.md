@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: RRARI DAL TACCO, Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,705 likes - 55 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,762 likes - 55 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [TYVEK](https://open.spotify.com/track/5b325VT8dUjm6MzXD97XWJ) | [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [ANONIMA](https://open.spotify.com/artist/3a9lizIsuK4uutbI1fJT5m) | [TYVEK](https://open.spotify.com/album/0cGyj4Vq60Zmsswka7O22C) | 3:33 |
 | 55 | [Playmaker](https://open.spotify.com/track/7957Ud9GA7uUteFT6VC779) | [Lil Cosse](https://open.spotify.com/artist/75jvCdf9ii6EVSsJtKYOXT) | [Playmaker](https://open.spotify.com/album/6NFyKfiDiCCYb2kJXl8uqE) | 2:17 |
 
-Snapshot ID: `MCxjNDg2YjEwN2VjN2JmOTk3ZjhiNjM4M2Y2M2JkOTA4NDY3NTVhYWMw`
+Snapshot ID: `MCwzMjIxM2Q0MTU4MGE3ODg3MDQ2M2RkZjMwYTU5ZjFiNDVhMzY0YjFj`

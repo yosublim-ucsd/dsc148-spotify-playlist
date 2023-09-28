@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0gg11prPP6OqtUvBcKnPpq">Rylo Rodriguez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,791,891 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,792,236 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 82 | [Knowing \(feat\. BigWalkDog\)](https://open.spotify.com/track/6tZkiw9Uw6kYQyINbsUCZV) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Knowing \(feat\. BigWalkDog\)](https://open.spotify.com/album/1A8BuBrelEEYmBRPwYQYWs) | 2:53 |
 | 83 | [Thinking Hurts](https://open.spotify.com/track/4g4cBK9ONBO2SCK9LYuTfI) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Thinking Hurts](https://open.spotify.com/album/7x4Z35NPBFuj5WRFURQ0ys) | 2:59 |
 | 84 | [I’m Him](https://open.spotify.com/track/6ISRN95tJh7iVS0Z3kggeF) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [ROTY](https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi) | 1:44 |
-| 85 | [Last laugh](https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last laugh](https://open.spotify.com/album/66KkpUCqEUPwxN8tYGSrBX) | 2:55 |
+| 85 | [Last Laugh](https://open.spotify.com/track/2ZZ2oXSD8ogObbJ1ydOHHJ) | [Slinqeh](https://open.spotify.com/artist/6ETwp3PoT1YZ8b4yloyylU) | [Last Laugh](https://open.spotify.com/album/0MImvHEJbrK7myhmRyv60X) | 2:55 |
 | 86 | [PAMPER PAMPER](https://open.spotify.com/track/6RZeZKaJfK1su5TdM6hWir) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [WISH YOU WERE HERE](https://open.spotify.com/album/6H565RedLjINKxrjk1RBz6) | 1:52 |
 | 87 | [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/track/7Clgnvwgszp14FU5B9cgvj) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/album/6dTPh7wqxX0nS45AGIVt7T) | 2:23 |
 | 88 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Gangsta Boogie](https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Gangsta Boogie](https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi) | 3:54 |
 | 100 | [Donda Bag](https://open.spotify.com/track/79rneIpoGKwhqE1MSaw4Ls) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Donda Bag](https://open.spotify.com/album/5QeuHVVKK7Y0lxmNX0OBuI) | 3:08 |
 
-Snapshot ID: `MCw1NTMyYTUwODgzMDQ2Y2U4NWUyZjRjM2FiMzkyODg1Y2U5MGZiMTc4`
+Snapshot ID: `MCxlYjZiZWUwMjYwOTI3YTkzMWM2NzJhNzQ1YTQxZGVjOWI1MTU2NGNh`

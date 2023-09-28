@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-2,055 songs - 4 day 4 hr 36 min
+2,056 songs - 4 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Becher voll Schnapz](https://open.spotify.com/track/15UnoXqXqhniJdpYjsa7DR) | [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [KEIN PLAN](https://open.spotify.com/album/0qLT7y0ImYkfJsPGs1rvIr) | 2:29 | 2022-05-28 | 2022-06-05 |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2021-04-24 | 2021-06-27 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-07 | 2021-12-05 |
-| [Bei Nacht](https://open.spotify.com/track/1kKvfCmzXzRcfszwQrXFPM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Weisses Herz](https://open.spotify.com/album/3TGzhEgQ0A1ijA6bnyrsJH) | 2:54 | 2022-10-07 |  |
+| [Bei Nacht](https://open.spotify.com/track/1kKvfCmzXzRcfszwQrXFPM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Weisses Herz](https://open.spotify.com/album/3TGzhEgQ0A1ijA6bnyrsJH) | 2:54 | 2022-10-07 | 2023-09-28 |
 | [bei Nacht](https://open.spotify.com/track/1YFNxlftAZsXS8tKkbGKYl) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq), [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt) | [bei Nacht](https://open.spotify.com/album/03yV6xTmC3DhzgkxyYFJAS) | 2:19 | 2023-04-08 | 2023-04-14 |
 | [Bei Nacht](https://open.spotify.com/track/2hEV30dObDzShJ3MbR9mGQ) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Bei Nacht](https://open.spotify.com/album/7nYEQwOK9T1EupUwsqVba5) | 2:36 | 2023-05-20 | 2023-06-18 |
 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2022-10-28 |
@@ -566,6 +566,7 @@
 | [Erzähl mir](https://open.spotify.com/track/4bkLNgL0GN45aZM9vCCJmQ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Erzähl mir](https://open.spotify.com/album/6XsBykqwHJxsNhl181NwYr) | 2:30 | 2023-07-15 | 2023-07-20 |
 | [Es ist Abend](https://open.spotify.com/track/5J8dExRYBLUfvOSwfcuVD4) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend](https://open.spotify.com/album/3GTooJumqyL0POpeQmHQN7) | 2:30 | 2022-10-29 | 2022-10-31 |
 | [ES IST WIE ES IST](https://open.spotify.com/track/7xx6S5PsAV7rziVCjCzDrl) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [ES IST WIE ES IST](https://open.spotify.com/album/2RgmfhWYQVAHuClAqxHurx) | 2:35 | 2021-12-18 | 2021-12-31 |
+| [Es kracht in Buxtehude](https://open.spotify.com/track/1oryzuL2gSZMmTGgKD3sh1) | [Trizto](https://open.spotify.com/artist/34hL467mqffW7Z5WQhM1MS), [MontanaBlack](https://open.spotify.com/artist/3G48828EYRdDAQ77Z6HidC) | [Es kracht in Buxtehude](https://open.spotify.com/album/1eOfCZvt4oRKS10xyLkvLO) | 2:41 | 2023-09-27 |  |
 | [Es tut mir doch so leid](https://open.spotify.com/track/2RnDbYNLxR4YAnwGPQeVii) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt) | [Es tut mir doch so leid](https://open.spotify.com/album/2WDZZRUpP9TeYyeWwItlKR) | 2:30 | 2023-06-10 | 2023-06-12 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-16 |
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2022-11-29 | 2023-02-05 |

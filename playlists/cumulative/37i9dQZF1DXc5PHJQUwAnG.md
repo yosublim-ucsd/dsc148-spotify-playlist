@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Krusha G y Papi Trujillo en portada.
 
-180 songs - 8 hr 27 min
+181 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Trapman](https://open.spotify.com/track/25l6wVWXH3LIf5dJQqZyqf) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Trapman](https://open.spotify.com/album/1llef7nzTSwQDrdaCrS8jO) | 3:10 | 2023-09-15 |  |
 | [tu ciudad](https://open.spotify.com/track/0o3eb8tDTW5yMBmcjcEjcK) | [Neithan](https://open.spotify.com/artist/7uB3ISWL0AIMgnFbxymctl) | [tu ciudad \(video oficial\).mp4](https://open.spotify.com/album/5kBv5qDuco9Pue7fKBx2xQ) | 3:11 | 2023-06-09 |  |
 | [Tus Ojos](https://open.spotify.com/track/2rWrjWEG90FvokHkyLPip3) | [Yagooo](https://open.spotify.com/artist/7af38cgJCib5WLhnRSiCBo), [Fraag Malas](https://open.spotify.com/artist/4EK2mROuFdIQDSY7QdgLS2) | [Fam Love Money](https://open.spotify.com/album/6gRnexmPU8V53K6DP2g7im) | 3:02 | 2023-06-30 |  |
-| [Unico en mi especie](https://open.spotify.com/track/0c7xCenpK86VlUUODSqc3i) | [Cray Dalton](https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C) | [Unico en mi especie](https://open.spotify.com/album/1Gq7Lmled3K6Xn9q7uYsy1) | 2:19 | 2023-06-09 |  |
+| [Unico en mi especie](https://open.spotify.com/track/0c7xCenpK86VlUUODSqc3i) | [Cray Dalton](https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C) | [Unico en mi especie](https://open.spotify.com/album/1Gq7Lmled3K6Xn9q7uYsy1) | 2:19 | 2023-06-09 | 2023-09-28 |
+| [Unico en mi especie](https://open.spotify.com/track/6o7WXKdCFKw7S5tDSo9BfU) | [Cray Dalton](https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C) | [Unico en mi especie](https://open.spotify.com/album/60F4vHmBUfofMGM9kzpk3S) | 2:19 | 2023-09-23 |  |
 | [UZI](https://open.spotify.com/track/3lDKFNhgDpu7W7UEQ6ix3O) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [UZI](https://open.spotify.com/album/6iLDAXWCP3IU4FvAa4egO4) | 2:06 | 2023-06-09 | 2023-09-16 |
 | [Vasos Llenos](https://open.spotify.com/track/5Qe6UqKkCumprVxBsDgeB9) | [Mike Diaz](https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz), [Phyzh Eye](https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01), [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6) | [Vasos Llenos](https://open.spotify.com/album/6aZN8b5h5POQC9rrPXpQIC) | 4:14 | 2023-06-09 | 2023-07-01 |
 | [Verde](https://open.spotify.com/track/5tze5L2cxNRp4qBTJQD94k) | [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh), [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Verde](https://open.spotify.com/album/2yHAABT6RPFulcihhh7uL1) | 2:15 | 2023-06-09 |  |

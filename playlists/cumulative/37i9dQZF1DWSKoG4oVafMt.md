@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-784 songs - 1 day 18 hr 36 min
+785 songs - 1 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Dark Circle](https://open.spotify.com/track/4Yy0Aval2j2K5UkLh6RAPO) | [Deep Fateh](https://open.spotify.com/artist/6TwRnAsvNFG4nXZyZhwXyn) | [Dark Circle](https://open.spotify.com/album/3D1EEKOLqoSXFIXGVhcngn) | 3:57 | 2022-03-25 | 2022-04-06 |
 | [Darling \- From "Kokka"](https://open.spotify.com/track/77WhbR5wdwAu28rKDriGfN) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Neeru Bajwa](https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB), [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Darling \(From "Kokka"\)](https://open.spotify.com/album/64B6K781jcvJ9lDgYUJv9w) | 3:36 | 2022-05-17 | 2022-05-20 |
 | [Das Ke Ja](https://open.spotify.com/track/77F0pganLgCeb8An8BRzIb) | [Bobby Sidhu](https://open.spotify.com/artist/1vKbHEP0ytopMo06g1hLqh) | [Not Again](https://open.spotify.com/album/1qyokWQGVeVSaIzq3Zbchy) | 2:29 | 2022-04-25 | 2022-05-11 |
+| [Das Mereya Dilbara](https://open.spotify.com/track/5Fq4Quuh64GxxeZVAtVeP4) | [Sofia Inder](https://open.spotify.com/artist/04T6LAjLQUxF7JCqclfr5F), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Das Mereya Dilbara](https://open.spotify.com/album/3161Pz8iLdtagTywFeM04k) | 2:34 | 2023-09-27 |  |
 | [Dassde](https://open.spotify.com/track/7qWApfggqk3A5UlEQwetaU) | [KRU172](https://open.spotify.com/artist/5fjpeqO0THJggLIvTJTKgc), [Surtaal Singh](https://open.spotify.com/artist/2FBUr8Sy2zQN6lqLb3B5jd) | [Dassde](https://open.spotify.com/album/1mz9DfdDowklM30GmvnsL1) | 3:16 | 2022-02-11 | 2022-02-19 |
 | [Deewana](https://open.spotify.com/track/7juUVr6VjvWPH4mccimhcZ) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3), [Kirat Gill](https://open.spotify.com/artist/4uJKlzA4Z8I8FEK50yKz2g) | [Deewana](https://open.spotify.com/album/4M93uVNVqjkjgG8U57XEOR) | 3:12 | 2022-04-28 | 2022-05-20 |
 | [Deewana](https://open.spotify.com/track/5z2FuFQrJ9xot9VGaJveS0) | [Erickk](https://open.spotify.com/artist/4qyIy5aNiSnuQRCNog8QYP), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Deewana](https://open.spotify.com/album/3JdqmLK5m6yMVmiJa9WYrX) | 2:50 | 2022-02-10 | 2022-02-19 |

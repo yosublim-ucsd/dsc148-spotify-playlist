@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-360 songs - 1 day 2 hr 14 min
+362 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Ever So Lonely / Eyes / Ocean](https://open.spotify.com/track/6PeTYB1Wiv5ijg46xkPBdE) | [Sheila Chandra](https://open.spotify.com/artist/7eYoqLpLD211aYrxb64AzN) | [Weaving My Ancestors' Voices \(Real World Gold\)](https://open.spotify.com/album/18xHLkID2nZIjqAGCrKVs6) | 3:24 | 2023-07-10 |  |
 | [Exodus](https://open.spotify.com/track/3UuqC9dKWG0bLu6TrPIe4F) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 7:40 | 2023-07-10 |  |
 | [Fantastic Man](https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 6:26 | 2023-07-10 |  |
+| [Feel da Fayah](https://open.spotify.com/track/2viGSjnyloxhBaVA5JXXnx) | [La Inedita](https://open.spotify.com/artist/0iazHkXB3jfE8iVb1IV5AF) | [Feel da Fayah](https://open.spotify.com/album/0FgRpGEp4MAPo34WAPZb9y) | 2:26 | 2023-07-10 |  |
 | [Feel Good \(feat\. Khruangbin\) \- Edit](https://open.spotify.com/track/5EhyJGUafXNnPniaIQnSER) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Feel Good \(feat\. Khruangbin\)](https://open.spotify.com/album/1UsruEVoYrg43BOPvwAHry) | 3:37 | 2023-07-10 |  |
 | [Flores y Tamales](https://open.spotify.com/track/6gucJfZpSTJp3g0Do75dgM) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [The Thread That Keeps Us \(Deluxe Edition\)](https://open.spotify.com/album/5Ws4bwfBSjDopuj2oUISaU) | 2:48 | 2023-07-10 |  |
 | [Floricanto](https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:10 | 2023-07-10 |  |
@@ -167,6 +168,7 @@
 | [I Zimbra \- 2005 Remaster](https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:08 | 2023-07-10 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/0QTDCY85qljLPKHoekvrVL) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Daptone Records Singles Collection: Volume 5](https://open.spotify.com/album/6exNhKZyY5D4KOqSVJk0mx) | 3:33 | 2023-07-10 | 2023-08-14 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/6SN0zMxQ7PlgpmwuVcGMgE) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [One Step Ahead](https://open.spotify.com/album/6oFyBwOwT0nh0hyOzr0Iht) | 3:36 | 2023-07-10 | 2023-09-25 |
+| [I'd Rather Go Blind](https://open.spotify.com/track/6dvQPRW4Gh1IHwLwXOsBBC) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [If You Ask Me To: Victor Axelrod Covers for Daptone Records](https://open.spotify.com/album/3WP7OnAU0FHW2XmwyhnYwq) | 3:36 | 2023-07-10 |  |
 | [Iko\-Iko](https://open.spotify.com/track/2wzFOtxpGbozpot0eQqsZ9) | [Zap Mama](https://open.spotify.com/artist/5UUHefXYUqgqmROQvDmJLL) | [A Ma Zone](https://open.spotify.com/album/251btTN1lTIGvJyyKiI19G) | 3:22 | 2023-07-10 |  |
 | [Ila Mata](https://open.spotify.com/track/76dtn2aKmnUOqE28BCzIuS) | [Bab L' Bluz](https://open.spotify.com/artist/07J09Vf9YReIIaFtarQshi) | [Nayda!](https://open.spotify.com/album/2Ctf8UeMAI9Iy2ODkUQyxv) | 4:23 | 2023-07-10 |  |
 | [Ilaló](https://open.spotify.com/track/36MwyyD3Bf7RHlq1zqmfMr) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Bienaventuranza](https://open.spotify.com/album/4drzgKTRP2tpl3Sic0osBQ) | 5:00 | 2023-07-10 |  |
@@ -236,7 +238,7 @@
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2023-07-10 |  |
 | [Mustt Mustt \- Massive Attack Remix \- Edit](https://open.spotify.com/track/4Bu3LxBpk3Mf80M0kVFdpU) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mustt Mustt \(Massive Attack Remix\)](https://open.spotify.com/album/1JdcPYsnzYzG0uAPq7u1Ie) | 3:52 | 2023-07-10 |  |
 | [Na Kolonia](https://open.spotify.com/track/27vo1mDwmlSwf8n6Kdg2d7) | [José Carlos Schwarz & Le Cobiana Djazz](https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO) | [Lua Ki Di Nos](https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm) | 5:40 | 2023-07-10 |  |
-| [Na Kozonga](https://open.spotify.com/track/67Cek9KjLrVc78oCJsZtCA) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT) | [Na Kozonga](https://open.spotify.com/album/4SgDBBS8LUgy7Wmxo3Lam0) | 2:59 | 2023-07-10 |  |
+| [Na Kozonga](https://open.spotify.com/track/67Cek9KjLrVc78oCJsZtCA) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT) | [Na Kozonga](https://open.spotify.com/album/4SgDBBS8LUgy7Wmxo3Lam0) | 2:59 | 2023-07-10 | 2023-09-28 |
 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2023-07-10 |  |
 | [Nadia](https://open.spotify.com/track/6c05B0BTOJbDyRy5KLI7my) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Beyond Skin](https://open.spotify.com/album/41qn4oxd4WFgz4JSBI9Ips) | 5:07 | 2023-07-10 |  |
 | [Nafagua](https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs) | 3:25 | 2023-07-10 |  |
@@ -257,7 +259,7 @@
 | [Open Your Eyes](https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Curiche](https://open.spotify.com/album/0iecitdzBzxPqDUar9vOBT) | 7:59 | 2023-07-10 |  |
 | [Ototoa](https://open.spotify.com/track/17eRr1u5GeuZiKpOmCi9gw) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Visit Malphino](https://open.spotify.com/album/2OA05pERt66hYi51jeM2oa) | 4:15 | 2023-07-10 |  |
 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 | 2023-07-10 |  |
-| [Pa ri nan male'm](https://open.spotify.com/track/6UHVo0ll6wwAKutKbgbdm2) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Dizan](https://open.spotify.com/album/0mT2Oej5aCLf47fQtz6XDA) | 3:57 | 2023-07-10 |  |
+| [Pa ri nan male'm](https://open.spotify.com/track/6UHVo0ll6wwAKutKbgbdm2) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Dizan](https://open.spotify.com/album/0mT2Oej5aCLf47fQtz6XDA) | 3:57 | 2023-07-10 | 2023-09-28 |
 | [Pacifique](https://open.spotify.com/track/5kBAS93dHatBVw5lve0NVF) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD) | [Chienne de vie](https://open.spotify.com/album/7c6Z4B7NbzngH484t8jrFQ) | 6:42 | 2023-07-10 |  |
 | [Palea](https://open.spotify.com/track/7cwmwDUVlrsH78TMBijAA4) | [Dobet Gnahoré](https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq) | [Na Afriki](https://open.spotify.com/album/0iq6cp0xVs0NTIcBr1W6bt) | 3:39 | 2023-07-10 |  |
 | [Paleta](https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4) | 2:38 | 2023-07-10 |  |

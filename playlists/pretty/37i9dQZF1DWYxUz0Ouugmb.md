@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Stereo Wall
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,266 likes - 45 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,279 likes - 45 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 3 | [Akhir Cerita Cinta](https://open.spotify.com/track/015Ot9oX7wEKAafr1L74wu) | [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs), [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Akhir Cerita Cinta](https://open.spotify.com/album/42kfP3Blcw7nbqmCBq8Rem) | 5:04 |
 | 4 | [CAN’T TAKE ME OFF](https://open.spotify.com/track/3PnXpGJbl9Mvr9SQHEg1AO) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [CAN’T TAKE ME OFF](https://open.spotify.com/album/5sgeTuVkXDbyzTjl0fle53) | 4:05 |
 | 5 | [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 |
-| 6 | [Kamu Kurang Usaha](https://open.spotify.com/track/2SmryvmzCMHQ4fjAf1mzmA) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Kamu Kurang Usaha](https://open.spotify.com/album/5eCGhOfeKF3PGDutfImNQd) | 4:45 |
+| 6 | [Kamu Kurang Usaha](https://open.spotify.com/track/2i5RTxltb0Bhn5fcXpqU7M) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Kamu Kurang Usaha](https://open.spotify.com/album/0CmomGvxqIOhb7PDcBPkNL) | 4:45 |
 | 7 | [no more you and i](https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [no more you and i](https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK) | 3:20 |
 | 8 | [Jaga Hati Ini](https://open.spotify.com/track/1RV4ibzfQKOYisbT5GY3Mg) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm), [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 3:17 |
 | 9 | [Sia Sia Merindu \- \(Live Ska Reggae\)](https://open.spotify.com/track/1A2f3LAchcQ1ayhAt3yx3z) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Sia Sia Merindu \(Live Ska Reggae\)](https://open.spotify.com/album/0udbI2HzOdI6RLliHbnHhk) | 5:03 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 44 | [Amin Kita Beda](https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/6U2e0q8eld9ufm7hQ9z6FL) | 4:08 |
 | 45 | [Cinta Air Mata](https://open.spotify.com/track/1Mhevyt2cl5lvG3htZoK7a) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Air Mata](https://open.spotify.com/album/7LdARvPk1Wms5pKXqP5UUp) | 4:39 |
 
-Snapshot ID: `MCwyN2IzZjk4MmJlZWE5OTMxZDJiZWU0ZWE4M2I2Y2VlNGY0NjIzZGRh`
+Snapshot ID: `MCwwMTc5ZDJjNjg0MDIxOTdiMjA4ODcwNzU5NjM0Njk5NWM0NmViZGYz`

@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 40142,
+  "num_followers": 40185,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODRlYmZkMWUxMmFlOThlODQ1NDY2NTI1ODZlNWY1ZTU2ZmIxYTE3",
+  "snapshot_id": "MCwwMzRmNWZjNjRjYjhkZDUzNDhmNTM2MGNlMWRhMTRlZTEyNTlmYTMy",
   "tracks": [
     {
       "added_at": "2023-08-23 10:15:28",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
-        "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
+        "name": "Big Band Bounce & Boogie",
+        "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
       },
       "artists": [
         {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+          "name": "Lucky Millinder",
+          "url": "https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Don't Mess With My Man",
-      "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
+      "duration_ms": 166760,
+      "name": "Shout Sister Shout",
+      "url": "https://open.spotify.com/track/7hpI4eFBXUYk3ZtsztFmWc"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Big Band Bounce & Boogie",
-        "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
+        "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
+        "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
       },
       "artists": [
         {
-          "name": "Lucky Millinder",
-          "url": "https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23"
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
         }
       ],
-      "duration_ms": 166760,
-      "name": "Shout Sister Shout",
-      "url": "https://open.spotify.com/track/7hpI4eFBXUYk3ZtsztFmWc"
+      "duration_ms": 139000,
+      "name": "Don't Mess With My Man",
+      "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "Raunchy Business: Hot Nuts & Lollypops",
+        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
+      },
+      "artists": [
+        {
+          "name": "Bernice Edwards",
+          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Butcher Shop Blues",
+      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
         "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
       },
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Raunchy Business: Hot Nuts & Lollypops",
-        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
+        "name": "Stationary Mama",
+        "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
       },
       "artists": [
         {
-          "name": "Bernice Edwards",
-          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
+          "name": "Edith Wilson",
+          "url": "https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH"
         }
       ],
-      "duration_ms": 186733,
-      "name": "Butcher Shop Blues",
-      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
+      "duration_ms": 168973,
+      "name": "How Come You Do Me Like You Do?",
+      "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -1035,22 +1051,6 @@
       "duration_ms": 179133,
       "name": "Tight in Chicago",
       "url": "https://open.spotify.com/track/4k67bWm6tosvIFUjuv9zpV"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Stationary Mama",
-        "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
-      },
-      "artists": [
-        {
-          "name": "Edith Wilson",
-          "url": "https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "How Come You Do Me Like You Do?",
-      "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Fujiyama Mama",
-        "url": "https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA"
-      },
-      "artists": [
-        {
-          "name": "Annisteen Allen",
-          "url": "https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "The Bluest Blues",
-      "url": "https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Presenting Trixie Smith",
         "url": "https://open.spotify.com/album/0PA8ZMSJS3KJuwaogi90lu"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 165573,
       "name": "Jack I'm Mellow (Alternate Take 2)",
       "url": "https://open.spotify.com/track/5d72jeEFlnQLM8crLgRPX3"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Fujiyama Mama",
+        "url": "https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA"
+      },
+      "artists": [
+        {
+          "name": "Annisteen Allen",
+          "url": "https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "The Bluest Blues",
+      "url": "https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo"
     },
     {
       "added_at": "2023-08-23 10:15:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Suspiria Pink  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,214 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,216 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Pintig](https://open.spotify.com/track/5KJy2qiuLZiQgN1KgnIf2a) | [647](https://open.spotify.com/artist/5D984UAqizvsWgAaUgx10v) | [Pintig](https://open.spotify.com/album/4bF21PJHU2mD1Xtj0F7x6J) | 4:09 |
 | 75 | [Day 1's](https://open.spotify.com/track/1wDDJksKr54KrHc3gftNja) | [Jo$h](https://open.spotify.com/artist/2WLHdtgNOvCzFd47N5bkiP), [Corrgtd](https://open.spotify.com/artist/1wkoRzaLhMGNfNEp7Lj9pV) | [Day 1's](https://open.spotify.com/album/5Ljh9MlaIgxdbEnMVWdqtj) | 3:28 |
 
-Snapshot ID: `MCw0MjcxMTZiYzllYmY4YTNiNzg2MTJmYWE3MWI5YjM2ZmI5OWYxMzBl`
+Snapshot ID: `MCwyZDNmNTgzMzA5Y2ZkMTExYWNiN2RjYmQ3YWE0ZTc3Y2RjNmFmMjA1`

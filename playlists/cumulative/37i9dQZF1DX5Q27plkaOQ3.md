@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: JEANIE
 
-413 songs - 23 hr 30 min
+415 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Arabian Knights](https://open.spotify.com/track/2kO0AAHz7hYN6taN6oUMwT) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy) | [Arabian Knights](https://open.spotify.com/album/1PicnlQtu8oliMzWJcQcZV) | 3:06 | 2022-06-17 | 2023-05-13 |
 | [Arcade Fire](https://open.spotify.com/track/6oXQKW4cXq2c1HaTycVIlF) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ), [FuntCase](https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D) | [Arcade Fire](https://open.spotify.com/album/3MxrpzVBvts8GL1xMrF3WH) | 3:54 | 2021-12-17 | 2022-10-08 |
 | [Arcadia](https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Arcadia](https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou) | 3:18 | 2023-06-23 |  |
+| [ARRIVAL](https://open.spotify.com/track/2acLjCqEIMP9hcF5fPC3JM) | [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe), [Hellscythe](https://open.spotify.com/artist/4jpGvJwGR0IeUuTYUtt6oK) | [ARRIVAL](https://open.spotify.com/album/6KGmL8TE79z5Gl4yYKXWjg) | 6:01 | 2023-09-22 |  |
 | [Artificial Dubstep](https://open.spotify.com/track/2iV6jpVuKh8PS3wWQ5xLIi) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Artificial Dubstep](https://open.spotify.com/album/2VRaD4Lr0lQKhinkSW2buX) | 2:40 | 2023-09-22 |  |
 | [ASCENSION RITE](https://open.spotify.com/track/0ko8SLwJgaWkhXmFZzGYXI) | [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [ASCENSION RITE](https://open.spotify.com/album/6oKG31pUZ6XgLrvtspQUCf) | 2:58 | 2022-02-04 | 2022-03-12 |
 | [Asteroid](https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Asteroid](https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf) | 4:03 | 2023-09-15 |  |
@@ -366,9 +367,9 @@
 | [stinkypoopy](https://open.spotify.com/track/1EXCk9dLn8evYJenfoh2dS) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [stinkypoopy](https://open.spotify.com/album/0D19xJOcXHup620LKBEIrW) | 3:35 | 2022-09-09 | 2023-06-17 |
 | [Stompi Boi](https://open.spotify.com/track/3uaRj0qQtOL6PauksKWhkD) | [FuntCase](https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D), [Dr\. Lobster](https://open.spotify.com/artist/6rAYLpYH7blCH8exP3DboL) | [FuntCase Presents: DPMO, Vol\. 4](https://open.spotify.com/album/6WVnsgbLJ2WkiA616PCdwu) | 5:42 | 2021-12-17 | 2022-03-05 |
 | [Street \- PEEKABOO Remix](https://open.spotify.com/track/202xexTyHxpvi6aqaaGEYq) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Street \(PEEKABOO Remix\)](https://open.spotify.com/album/61xOtAdVCQIj6Ipt4MzgXd) | 4:11 | 2022-02-18 | 2023-05-13 |
-| [Streets](https://open.spotify.com/track/73SLjEpuUqy13FS7HyewkM) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Streets](https://open.spotify.com/album/32nWboshupCJKvMhWhaetb) | 3:47 | 2023-04-07 |  |
+| [Streets](https://open.spotify.com/track/73SLjEpuUqy13FS7HyewkM) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Streets](https://open.spotify.com/album/32nWboshupCJKvMhWhaetb) | 3:47 | 2023-04-07 | 2023-09-28 |
 | [Style](https://open.spotify.com/track/79uUlT0sPzOO2XY035m729) | [Carbin](https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d), [DirtySnatcha](https://open.spotify.com/artist/13dsmcZVkb1XlhT6RQYh1n) | [Style](https://open.spotify.com/album/4emyO9ctIuPyNWiXIuTMLr) | 3:24 | 2022-02-25 | 2022-07-29 |
-| [Supersonic](https://open.spotify.com/track/6tPF5loVpq57PiSvwLE860) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Supersonic](https://open.spotify.com/album/23hERAsn2E7pl5wKpdyPFJ) | 3:36 | 2023-06-30 |  |
+| [Supersonic](https://open.spotify.com/track/6tPF5loVpq57PiSvwLE860) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Supersonic](https://open.spotify.com/album/23hERAsn2E7pl5wKpdyPFJ) | 3:36 | 2023-06-30 | 2023-09-28 |
 | [SURGE](https://open.spotify.com/track/20HSKZ4jG733BYqSDFTPgW) | [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo) | [EYE OF THE STORM](https://open.spotify.com/album/5QGsRIGb79JOvC2PimldPj) | 2:41 | 2023-01-06 |  |
 | [Sweet Revenge](https://open.spotify.com/track/0uawQC7MQYf2TQ6MdX2yeQ) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [ELLIS!](https://open.spotify.com/artist/3GPPLSi7KokwrVlLlTMYgC), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Sweet Revenge](https://open.spotify.com/album/3RMPCBY2FEhdVWlxzsaacc) | 3:48 | 2022-06-17 | 2022-09-19 |
 | [Switzerland](https://open.spotify.com/track/3FCayE3jBJijv56xbtl179) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Switzerland](https://open.spotify.com/album/711I1FS2T6BqFWtOWZQWfW) | 3:21 | 2023-09-15 |  |
@@ -405,6 +406,7 @@
 | [Trauma Queen](https://open.spotify.com/track/1kIXXNc6CUbi0xbnpSHJRc) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7) | [Trauma Queen](https://open.spotify.com/album/7sle2dPfKb5BMTocLlt0Bn) | 3:11 | 2023-03-10 |  |
 | [Trensetter](https://open.spotify.com/track/0WhTN2qunw2aYr9nDfqw6e) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Trensetter](https://open.spotify.com/album/0VUgYoQKCWvIE8ptlTTH0R) | 2:17 | 2021-12-17 | 2022-05-07 |
 | [Turn It Up](https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Turn It Up](https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf) | 3:13 | 2021-12-17 | 2022-03-05 |
+| [Turn The Tide](https://open.spotify.com/track/7r5s7HP6dJvcQjYrb0ZsoK) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Turn The Tide](https://open.spotify.com/album/1dKucMNWwvFT9BCl5Mts2g) | 3:06 | 2023-09-22 |  |
 | [Ultraviolent](https://open.spotify.com/track/3ADPEN0m92FLaY9Z0znhqd) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Shadow Cliq](https://open.spotify.com/artist/3MwmjpfJvIoCarmc1eehbu) | [Ultraviolent](https://open.spotify.com/album/0ny82WM3w2ueTkE0u69FPf) | 2:48 | 2023-05-19 |  |
 | [UMBRA](https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [UMBRA](https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6) | 3:37 | 2022-02-25 | 2023-04-01 |
 | [Underneath My Skin](https://open.spotify.com/track/26ZZUpJ2HO3aZUopW9b70h) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Underneath My Skin](https://open.spotify.com/album/21jKherj2N4me9IDXxFujR) | 3:38 | 2022-07-22 | 2022-10-11 |

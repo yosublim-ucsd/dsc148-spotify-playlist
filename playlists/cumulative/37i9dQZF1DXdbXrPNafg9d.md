@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Bleachers
 
-5,903 songs - 14 day 9 hr 28 min
+5,904 songs - 14 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2713,7 +2713,7 @@
 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 | 2020-02-14 | 2020-03-27 |
 | [Is It Worth It Now?](https://open.spotify.com/track/0sgPeetOYG1tFDZKTys2lN) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Is It Worth It Now?](https://open.spotify.com/album/35AXeLXRmbDOlRVrl1AUOV) | 3:24 | 2022-09-09 | 2022-10-22 |
 | [Is There Any Love](https://open.spotify.com/track/0hbEgkyRH0O8onQjSyRg1t) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Twin Shadow](https://open.spotify.com/album/4QZCgxTBUhyILi8vxR4fYU) | 3:27 | 2021-07-10 | 2021-08-28 |
-| [Is There Nightlife After Death?](https://open.spotify.com/track/1hPRiRIEeYpjIa8VFLpRab) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd) | [World of Hassle](https://open.spotify.com/album/06Zp2J6vjuVSOKHtFcFtJ0) | 3:14 | 2023-09-15 |  |
+| [Is There Nightlife After Death?](https://open.spotify.com/track/1hPRiRIEeYpjIa8VFLpRab) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [World of Hassle](https://open.spotify.com/album/06Zp2J6vjuVSOKHtFcFtJ0) | 3:14 | 2023-09-15 |  |
 | [Is There Something In The Movies?](https://open.spotify.com/track/38eArj40ijTenXtpbpMPnj) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Is There Something In The Movies?](https://open.spotify.com/album/5wRgdU0KVKlPl52TXYloet) | 3:30 | 2020-05-01 | 2020-06-12 |
 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/2qiYy5k1mDAOpegYqv00wG) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/53FpLc8sSUmGGb0OY6cZKG) | 2:45 | 2022-08-19 | 2022-10-08 |
 | [Isabella](https://open.spotify.com/track/4qJptAjwx2y7nZCOeXsSC9) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY) | [Isabella](https://open.spotify.com/album/28P5gwlKHfoI6DeSLC67ab) | 4:09 | 2020-03-06 | 2020-04-03 |
@@ -3668,7 +3668,8 @@
 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 | 2021-11-13 | 2021-12-18 |
 | [nothing to do](https://open.spotify.com/track/4LkMLBc3HDYi7lQsaeq7C7) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [sore thumb](https://open.spotify.com/album/6EjM6iU0bqurQwwSN3Ln0T) | 3:04 | 2022-03-22 | 2022-04-29 |
 | [Nothing to See](https://open.spotify.com/track/60qK1qbBq5xL1nXnVnjg28) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Nothing to See](https://open.spotify.com/album/5SZmoV89dSXDEzJ01DX75M) | 3:34 | 2022-07-22 | 2022-09-10 |
-| [Nothing Works](https://open.spotify.com/track/14PqPtYLsUuFaqp6c4urHN) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Nothing Works](https://open.spotify.com/album/6LkILMcjrr8n9WBKVpCLz5) | 4:12 | 2023-09-15 |  |
+| [Nothing Works](https://open.spotify.com/track/14PqPtYLsUuFaqp6c4urHN) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Nothing Works](https://open.spotify.com/album/6LkILMcjrr8n9WBKVpCLz5) | 4:12 | 2023-09-15 | 2023-09-28 |
+| [Nothing Works](https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Nothing Works](https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR) | 4:12 | 2023-09-15 |  |
 | [Nothing's Free](https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Nothing's Free](https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ) | 4:38 | 2023-03-10 | 2023-04-22 |
 | [NOTHINGTOLOSE](https://open.spotify.com/track/7CG1wypkvWy644LbTQUulJ) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [NOTHINGTOLOSE](https://open.spotify.com/album/7B6H4m4fM96SQ9aFrhoAW2) | 2:04 | 2021-11-13 | 2021-12-18 |
 | [NOTICE](https://open.spotify.com/track/37Ge7KuiQMJHRfKZEJGkJK) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [NOTICE](https://open.spotify.com/album/40cX9G1rXdpelRa9fwsBPM) | 4:01 | 2021-02-06 | 2021-03-26 |

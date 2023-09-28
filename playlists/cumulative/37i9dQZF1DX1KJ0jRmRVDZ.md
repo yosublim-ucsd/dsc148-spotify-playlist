@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-828 songs - 1 day 23 hr 17 min
+829 songs - 1 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [LOVE is](https://open.spotify.com/track/2Xrbmkla4NvUgJoubBGkLl) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [LOVE is](https://open.spotify.com/album/4BLLl09Rqmp3EK8Or5a6vn) | 3:26 | 2023-01-17 | 2023-03-25 |
 | [Love you raltutaltutata](https://open.spotify.com/track/34F9lAAkt1bTJVidBf6m9V) | [Yui Nijiki \[Super Yui\]](https://open.spotify.com/artist/2FwP3PFN8Znz44vNUAtlC7) | [Love you raltutaltutata](https://open.spotify.com/album/7xp7cghgpEIjEDlTJpiCr7) | 3:34 | 2023-01-05 | 2023-01-18 |
 | [Luck in me](https://open.spotify.com/track/7Cc2wTxZ2ZaglTu1wVCZUZ) | [來\-Ray\-](https://open.spotify.com/artist/2ZBJuQnv8Gmj0fIgvcgxhi) | [Luck in me](https://open.spotify.com/album/2SqQaZKFWtGqbb4UtnfSSx) | 3:17 | 2023-04-18 | 2023-04-26 |
-| [Lullaby](https://open.spotify.com/track/2ggV2CZgdulUzjNDS4qKK3) | [遊遊](https://open.spotify.com/artist/0xcDdlgQye7CQJa1fdJrPj) | [Lullaby](https://open.spotify.com/album/1NXZyQ7OF9Ct6pLi7E39UQ) | 3:14 | 2023-09-26 |  |
+| [Lullaby](https://open.spotify.com/track/2aKlVurHnMwaeF4vJADyE2) | [Yuyu](https://open.spotify.com/artist/4OTSiRMbLZrza8dQsoTUBy) | [Lullaby](https://open.spotify.com/album/1rcTGibD8vsMI7pHB0K3dI) | 3:14 | 2023-09-26 |  |
+| [Lullaby](https://open.spotify.com/track/2ggV2CZgdulUzjNDS4qKK3) | [遊遊](https://open.spotify.com/artist/0xcDdlgQye7CQJa1fdJrPj) | [Lullaby](https://open.spotify.com/album/1NXZyQ7OF9Ct6pLi7E39UQ) | 3:14 | 2023-09-26 | 2023-09-28 |
 | [luv bomb!!!](https://open.spotify.com/track/3YDifAivPM7V8dURt1zJaD) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [luv bomb!!!](https://open.spotify.com/album/2Bk7bhegFe57hoWMzD9NHE) | 3:36 | 2023-06-27 | 2023-07-05 |
 | [Luxury Spoon](https://open.spotify.com/track/7K7QoJtb4WAgEHn8lt9ilJ) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Luxury Spoon](https://open.spotify.com/album/1n88YDIWx9tuAL4mykoAVh) | 3:58 | 2023-01-25 | 2023-03-29 |
 | [Many Hero](https://open.spotify.com/track/3OmAw6cx8NDwj2AaRtz7FL) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [Many Hero](https://open.spotify.com/album/18BLDJe28dVOElI8ta5Rb1) | 3:00 | 2023-08-24 | 2023-09-06 |

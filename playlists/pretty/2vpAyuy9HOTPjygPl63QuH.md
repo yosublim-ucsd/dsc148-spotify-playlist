@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,523 likes - 28 songs - 1 hr 36 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,526 likes - 29 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,5 +36,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 26 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 |
 | 27 | [Yeah](https://open.spotify.com/track/6OSl6T4krWpPK7qrSStoS1) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Yeah](https://open.spotify.com/album/7h18BePxAaCgbyXVOBPLz8) | 3:33 |
 | 28 | [Elevate](https://open.spotify.com/track/4xoGO5RB7uMa1McZ3ildSK) | [Josh Samuel](https://open.spotify.com/artist/2a9qbB4LyjVFuaCeQBX11A) | [Elevate](https://open.spotify.com/album/5PqvMVRwm9MJUUYiyJr9AQ) | 3:00 |
+| 29 | [Lower Frequency](https://open.spotify.com/track/7zdNGaRlfqwbiar2pFUJwT) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx) | [Lower Frequency](https://open.spotify.com/album/5oEvfaeqX8esq1SGDHtVns) | 3:07 |
 
-Snapshot ID: `NzU5NSxhZjc3NGRkMWY1MmUyMDBlMGI0ZWEyZDA5MjU5MzdkYTg2ZTJmYmRh`
+Snapshot ID: `NzU5Niw3YTk3ZmEzMmRiYjBiYjg1MTc0MGRkNDc2MGUxNzlkNmI2ZjEwMGU2`

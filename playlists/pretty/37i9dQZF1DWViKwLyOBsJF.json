@@ -1,15 +1,303 @@
 {
   "description": "Traditional carols and hymns for a classic Christmas feeling.",
-  "num_followers": 50226,
+  "num_followers": 50231,
   "original_name": "Instrumental Christmas Hymns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzY3NjU1Y2M3NjU3YjI1MGY2MTQ1MDA2MmExYjdkZDJlN2YwYTll",
+  "snapshot_id": "MCxlNTg1ZGM2OWRmZDM2ZWZkZmQ2MDZiODhmMjJmZjY0YTU3Yjc5MGNh",
   "tracks": [
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "Joy Of Christmas",
+        "url": "https://open.spotify.com/album/0ZqKApps6FNEiOGYhZ2MKZ"
+      },
+      "artists": [
+        {
+          "name": "John Bladh",
+          "url": "https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "See Amidst The Winter's Snow",
+      "url": "https://open.spotify.com/track/3JWJdn9hTC9IumZx6bUoQM"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "Good Christian Men, Rejoice",
+        "url": "https://open.spotify.com/album/5I6pNQUojbwiZz5ybNPDWO"
+      },
+      "artists": [
+        {
+          "name": "Anne Stahl",
+          "url": "https://open.spotify.com/artist/75EMiZJs4kX9pxwH3O3WX4"
+        }
+      ],
+      "duration_ms": 171825,
+      "name": "Come Thou Long Expected Jesus",
+      "url": "https://open.spotify.com/track/1Bo6w9VDrKexPdDDzWOj5n"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "I Heard The Bells On Christmas Day",
+        "url": "https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA"
+      },
+      "artists": [
+        {
+          "name": "Manny Heights",
+          "url": "https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb"
+        }
+      ],
+      "duration_ms": 200343,
+      "name": "Do You Hear What I Hear",
+      "url": "https://open.spotify.com/track/4cchwOn0AJBffk0mlB8wmU"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "Seven Joys Of Mary",
+        "url": "https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m"
+      },
+      "artists": [
+        {
+          "name": "Stian Jarrell",
+          "url": "https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v"
+        }
+      ],
+      "duration_ms": 145080,
+      "name": "Sussex Carol",
+      "url": "https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "Seven Joys Of Mary",
+        "url": "https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m"
+      },
+      "artists": [
+        {
+          "name": "Stian Jarrell",
+          "url": "https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v"
+        }
+      ],
+      "duration_ms": 144305,
+      "name": "Seven Joys Of Mary",
+      "url": "https://open.spotify.com/track/6O289GwYiOa3i3AKU0EQwW"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "X-Mas",
+        "url": "https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7"
+      },
+      "artists": [
+        {
+          "name": "Hak Huyun Lee",
+          "url": "https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N"
+        }
+      ],
+      "duration_ms": 172452,
+      "name": "O Come, O Come, Emmanuel",
+      "url": "https://open.spotify.com/track/6wxLTjOG4U4rC9CWxGhWxu"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "A Cradle in Bethlehem",
+        "url": "https://open.spotify.com/album/0VOw1vFXbhrB5E5XbRq0MU"
+      },
+      "artists": [
+        {
+          "name": "Amy Krampf",
+          "url": "https://open.spotify.com/artist/0XSMCDhwttU0Drh3z9Gk0i"
+        }
+      ],
+      "duration_ms": 197871,
+      "name": "A Cradle in Bethlehem",
+      "url": "https://open.spotify.com/track/2Jpfg8Ad1ETuHtOgmUXIb7"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "Sans Day Carol",
+        "url": "https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7"
+      },
+      "artists": [
+        {
+          "name": "Ken Dorset",
+          "url": "https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI"
+        }
+      ],
+      "duration_ms": 161565,
+      "name": "Sans Day Carol",
+      "url": "https://open.spotify.com/track/17ECD7z521qoJRhO6N3iDB"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "We Three Kings",
+        "url": "https://open.spotify.com/album/5Ppd2aIzY3YD2ug3FMI7sg"
+      },
+      "artists": [
+        {
+          "name": "Chris Beard",
+          "url": "https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Good King Wenceslas",
+      "url": "https://open.spotify.com/track/25vdlTYdZPJssQbXU8qUsg"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "Star of Bethlehem",
+        "url": "https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8"
+      },
+      "artists": [
+        {
+          "name": "Emma Shynes",
+          "url": "https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Star of Bethlehem",
+      "url": "https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "Piano Christmas",
+        "url": "https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv"
+      },
+      "artists": [
+        {
+          "name": "Jules Amaro",
+          "url": "https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA"
+        }
+      ],
+      "duration_ms": 172034,
+      "name": "Once In Royal Davids City",
+      "url": "https://open.spotify.com/track/4PzC5QA9SkhDMO7MCItZXx"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "A Baby Changes Everything",
+        "url": "https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV"
+      },
+      "artists": [
+        {
+          "name": "Ivan Clarke",
+          "url": "https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W"
+        }
+      ],
+      "duration_ms": 213500,
+      "name": "A Baby Changes Everything",
+      "url": "https://open.spotify.com/track/7JlChhx7Srvi2bOveY2HOI"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "Seven Joys Of Mary",
+        "url": "https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m"
+      },
+      "artists": [
+        {
+          "name": "Stian Jarrell",
+          "url": "https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v"
+        }
+      ],
+      "duration_ms": 136659,
+      "name": "The Coventry Carol",
+      "url": "https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "I Heard The Bells On Christmas Day",
+        "url": "https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA"
+      },
+      "artists": [
+        {
+          "name": "Manny Heights",
+          "url": "https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "I Heard The Bells On Christmas Day",
+      "url": "https://open.spotify.com/track/0RcE3ty89FWkfv84lZewEH"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "Joy Of Christmas",
+        "url": "https://open.spotify.com/album/0ZqKApps6FNEiOGYhZ2MKZ"
+      },
+      "artists": [
+        {
+          "name": "John Bladh",
+          "url": "https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc"
+        }
+      ],
+      "duration_ms": 166457,
+      "name": "Come Thou Fount Of Every Blessing",
+      "url": "https://open.spotify.com/track/1m7kMiFTMuH3gBAZsNXC5B"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "Piano Christmas",
+        "url": "https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv"
+      },
+      "artists": [
+        {
+          "name": "Jules Amaro",
+          "url": "https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "As With Gladness Men Of Old",
+      "url": "https://open.spotify.com/track/2siSp0ase32wv1pzn71Guo"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "Sans Day Carol",
+        "url": "https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7"
+      },
+      "artists": [
+        {
+          "name": "Ken Dorset",
+          "url": "https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI"
+        }
+      ],
+      "duration_ms": 133403,
+      "name": "A Virgin Unspotted",
+      "url": "https://open.spotify.com/track/78Lpph0ArlWZDYkKoFTxZU"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "God Rest Ye Merry Gentlemen",
+        "url": "https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB"
+      },
+      "artists": [
+        {
+          "name": "Michael Logozar",
+          "url": "https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2"
+        }
+      ],
+      "duration_ms": 171306,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/3K2FgVaJdVXREA2Jqtklz4"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/123hrI7QAnWUXiZHVgKHca"
@@ -29,175 +317,23 @@
       "url": "https://open.spotify.com/track/2ITVOYAPc3tUdqtqt4fIdk"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
-        "name": "Good Christian Men, Rejoice",
-        "url": "https://open.spotify.com/album/5I6pNQUojbwiZz5ybNPDWO"
+        "name": "Oh Come All Ye Faithful",
+        "url": "https://open.spotify.com/album/0O1s5cB1Fg7gbpaZBaKF0k"
       },
       "artists": [
         {
-          "name": "Anne Stahl",
-          "url": "https://open.spotify.com/artist/75EMiZJs4kX9pxwH3O3WX4"
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
         }
       ],
-      "duration_ms": 171825,
-      "name": "Come Thou Long Expected Jesus",
-      "url": "https://open.spotify.com/track/1Bo6w9VDrKexPdDDzWOj5n"
+      "duration_ms": 152727,
+      "name": "Oh Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/2bFvadJJ8s0NKFnseW1L3R"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Seven Joys Of Mary",
-        "url": "https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m"
-      },
-      "artists": [
-        {
-          "name": "Stian Jarrell",
-          "url": "https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v"
-        }
-      ],
-      "duration_ms": 144305,
-      "name": "Seven Joys Of Mary",
-      "url": "https://open.spotify.com/track/6O289GwYiOa3i3AKU0EQwW"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Stille Nacht: Christmas Carols for Guitar",
-        "url": "https://open.spotify.com/album/3d5QmcTIJsOuQh2mU50x8F"
-      },
-      "artists": [
-        {
-          "name": "Rossini Hayward",
-          "url": "https://open.spotify.com/artist/5EvaMEwPzhyR6T3quNHR1K"
-        }
-      ],
-      "duration_ms": 106920,
-      "name": "Es ist ein Ros entsprungen (Arr. R. Hayward for Guitar)",
-      "url": "https://open.spotify.com/track/0diYZsE9aogD5itSwwNRtG"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Sans Day Carol",
-        "url": "https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7"
-      },
-      "artists": [
-        {
-          "name": "Ken Dorset",
-          "url": "https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI"
-        }
-      ],
-      "duration_ms": 161565,
-      "name": "Sans Day Carol",
-      "url": "https://open.spotify.com/track/17ECD7z521qoJRhO6N3iDB"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Candlelight Carol",
-        "url": "https://open.spotify.com/album/1Dttw1GpfmxFcz48e46STq"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Wayne Marshall",
-          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
-        }
-      ],
-      "duration_ms": 167652,
-      "name": "Candlelight Carol",
-      "url": "https://open.spotify.com/track/79iIraI9M4e0zWht6rE50N"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Simply Christmas: Instrumental Hymns",
-        "url": "https://open.spotify.com/album/0E4NGHzqWYQjxT26ldESgq"
-      },
-      "artists": [
-        {
-          "name": "Sarah Brooks",
-          "url": "https://open.spotify.com/artist/7d0kRVs5S78oKXf98cUDaN"
-        }
-      ],
-      "duration_ms": 117887,
-      "name": "Hark! the Herald Angels Sing",
-      "url": "https://open.spotify.com/track/6UJEo8y9mfG7oymaDrsVXM"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Star of Bethlehem",
-        "url": "https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8"
-      },
-      "artists": [
-        {
-          "name": "Emma Shynes",
-          "url": "https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Star of Bethlehem",
-      "url": "https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Merry Christmas (Favorite Holiday Piano Music for a Festive Occasion)",
-        "url": "https://open.spotify.com/album/5xRd9gJJ47uB3cXtMqw741"
-      },
-      "artists": [
-        {
-          "name": "J. L. Marshall",
-          "url": "https://open.spotify.com/artist/05f0QRzwQpjLRJwTdQgDZw"
-        }
-      ],
-      "duration_ms": 88842,
-      "name": "God Rest Ye Merry Gentlemen",
-      "url": "https://open.spotify.com/track/2Er9oTJkPruq8pao8aZY8s"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "What Sweeter Music",
-        "url": "https://open.spotify.com/album/5VYwzFtbdFy2k6RfpmWsM7"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Wayne Marshall",
-          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "What Sweeter Music",
-      "url": "https://open.spotify.com/track/0vm7QUQN5oSsgCpTaktYvm"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "I Heard The Bells On Christmas Day",
-        "url": "https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA"
-      },
-      "artists": [
-        {
-          "name": "Manny Heights",
-          "url": "https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb"
-        }
-      ],
-      "duration_ms": 200343,
-      "name": "Do You Hear What I Hear",
-      "url": "https://open.spotify.com/track/4cchwOn0AJBffk0mlB8wmU"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/4dZqm3SWryHNPXOPJ39AyP"
@@ -217,7 +353,7 @@
       "url": "https://open.spotify.com/track/6x3dy83g7vEmzd6z8wCVhK"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Stille Nacht: Christmas Carols for Guitar",
         "url": "https://open.spotify.com/album/3d5QmcTIJsOuQh2mU50x8F"
@@ -233,7 +369,27 @@
       "url": "https://open.spotify.com/track/6xT8cqiLYkHJIy2HaHC9ef"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "Candlelight Carol",
+        "url": "https://open.spotify.com/album/1Dttw1GpfmxFcz48e46STq"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Wayne Marshall",
+          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+        }
+      ],
+      "duration_ms": 167652,
+      "name": "Candlelight Carol",
+      "url": "https://open.spotify.com/track/79iIraI9M4e0zWht6rE50N"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Carol of the Bells (arr. piano) / Christmas Time Is Here (arr. piano)",
         "url": "https://open.spotify.com/album/5vYP61VuwDOFaqRfUtrhf7"
@@ -249,23 +405,27 @@
       "url": "https://open.spotify.com/track/5FCJXbQPOgC68fpHnBgHWx"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
-        "name": "A Cradle in Bethlehem",
-        "url": "https://open.spotify.com/album/0VOw1vFXbhrB5E5XbRq0MU"
+        "name": "What Sweeter Music",
+        "url": "https://open.spotify.com/album/5VYwzFtbdFy2k6RfpmWsM7"
       },
       "artists": [
         {
-          "name": "Amy Krampf",
-          "url": "https://open.spotify.com/artist/0XSMCDhwttU0Drh3z9Gk0i"
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Wayne Marshall",
+          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
         }
       ],
-      "duration_ms": 197871,
-      "name": "A Cradle in Bethlehem",
-      "url": "https://open.spotify.com/track/2Jpfg8Ad1ETuHtOgmUXIb7"
+      "duration_ms": 257760,
+      "name": "What Sweeter Music",
+      "url": "https://open.spotify.com/track/0vm7QUQN5oSsgCpTaktYvm"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Upright Sketches, Winter Carols",
         "url": "https://open.spotify.com/album/1YHbzjlMq9UIyGWZmaFOc5"
@@ -281,7 +441,7 @@
       "url": "https://open.spotify.com/track/1hYK7uOlnJ6kvMkdPsFQ5l"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Christmas Piano - Solo Piano and Strings",
         "url": "https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl"
@@ -297,75 +457,23 @@
       "url": "https://open.spotify.com/track/6W2PFX6g7FlbatxRneeUCK"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
-        "name": "A Baby Changes Everything",
-        "url": "https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV"
+        "name": "I Saw Three Ships",
+        "url": "https://open.spotify.com/album/7zV7gDophcjhvTynWSI9ju"
       },
       "artists": [
         {
-          "name": "Ivan Clarke",
-          "url": "https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W"
+          "name": "Michael Janzen",
+          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
         }
       ],
-      "duration_ms": 213500,
-      "name": "A Baby Changes Everything",
-      "url": "https://open.spotify.com/track/7JlChhx7Srvi2bOveY2HOI"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "X-Mas",
-        "url": "https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7"
-      },
-      "artists": [
-        {
-          "name": "Hak Huyun Lee",
-          "url": "https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N"
-        }
-      ],
-      "duration_ms": 172452,
-      "name": "O Come, O Come, Emmanuel",
-      "url": "https://open.spotify.com/track/6wxLTjOG4U4rC9CWxGhWxu"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "24 Christmas Songs & Carols Gently on My Piano",
-        "url": "https://open.spotify.com/album/4lGJils3BIt3Uv5hQpCxM2"
-      },
-      "artists": [
-        {
-          "name": "Traditional Song",
-          "url": "https://open.spotify.com/artist/4xpFJ59XzXnBngXKoH9Uld"
-        },
-        {
-          "name": "\u00d8yen",
-          "url": "https://open.spotify.com/artist/4An8FdoKpdHizSEaWQlqmT"
-        }
-      ],
-      "duration_ms": 94620,
+      "duration_ms": 148002,
       "name": "I Saw Three Ships",
-      "url": "https://open.spotify.com/track/6vT9ESh7N1SPjLfME1oLcp"
+      "url": "https://open.spotify.com/track/4DHmQW2gtRc4Gx991GZrsS"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Sans Day Carol",
-        "url": "https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7"
-      },
-      "artists": [
-        {
-          "name": "Ken Dorset",
-          "url": "https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI"
-        }
-      ],
-      "duration_ms": 133403,
-      "name": "A Virgin Unspotted",
-      "url": "https://open.spotify.com/track/78Lpph0ArlWZDYkKoFTxZU"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/1s1Qgr7AKrG5ciV6uic6jh"
@@ -381,23 +489,7 @@
       "url": "https://open.spotify.com/track/70pc6gMEd1FNs4rLfBCfm9"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Relaxing Christmas Music, Vol. 1",
-        "url": "https://open.spotify.com/album/3TsPUuASpxKagXwi12SSmx"
-      },
-      "artists": [
-        {
-          "name": "Christmas Music Holiday Trio",
-          "url": "https://open.spotify.com/artist/4XWZxmAaLdsJlJvUjlowZF"
-        }
-      ],
-      "duration_ms": 118453,
-      "name": "Good Christian Men, Rejoice",
-      "url": "https://open.spotify.com/track/225AhLsT6I6LWNB3ANefPf"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Tetra String Quartet Christmas",
         "url": "https://open.spotify.com/album/27c7vgqaJ2SQgO41lZacXK"
@@ -413,7 +505,23 @@
       "url": "https://open.spotify.com/track/4JV9zSuayX7Ee7sE5N4g0C"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
+      "album": {
+        "name": "Let All Mortal Flesh Keep Silence",
+        "url": "https://open.spotify.com/album/5NEoedZHX7AuDcrpOZJslv"
+      },
+      "artists": [
+        {
+          "name": "Alstad",
+          "url": "https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Let All Mortal Flesh Keep Silence",
+      "url": "https://open.spotify.com/track/7KaqgncCU5AuJyZeA7CGne"
+    },
+    {
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Christmas: Plain & Simple III",
         "url": "https://open.spotify.com/album/4qPPj6lqfBya86dvGQyy1Y"
@@ -429,23 +537,7 @@
       "url": "https://open.spotify.com/track/2zXTG9Uoqd8StCSfBTn6fZ"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Joy Of Christmas",
-        "url": "https://open.spotify.com/album/0ZqKApps6FNEiOGYhZ2MKZ"
-      },
-      "artists": [
-        {
-          "name": "John Bladh",
-          "url": "https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc"
-        }
-      ],
-      "duration_ms": 166457,
-      "name": "Come Thou Fount Of Every Blessing",
-      "url": "https://open.spotify.com/track/1m7kMiFTMuH3gBAZsNXC5B"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "O Come Emmanuel",
         "url": "https://open.spotify.com/album/3yOqSiDRYHeoe8B3bH4bUT"
@@ -461,23 +553,7 @@
       "url": "https://open.spotify.com/track/6wjdQUvDqBtrHUoqeI9ehb"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Celtic Guitar Duets: Christmas Edition",
-        "url": "https://open.spotify.com/album/44squAzHy4puVKGEtrmlUh"
-      },
-      "artists": [
-        {
-          "name": "Stephen Wake",
-          "url": "https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7"
-        }
-      ],
-      "duration_ms": 105446,
-      "name": "The Wexford Carol",
-      "url": "https://open.spotify.com/track/1NmDR64IJfFYAMWuA1Ggpg"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "A String Quartet Christmas",
         "url": "https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU"
@@ -509,23 +585,27 @@
       "url": "https://open.spotify.com/track/6qR5mHYq1pVlBWDdrpmR90"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
-        "name": "We Three Kings",
-        "url": "https://open.spotify.com/album/5Ppd2aIzY3YD2ug3FMI7sg"
+        "name": "Hark! The Herald Angel Sing",
+        "url": "https://open.spotify.com/album/0TIx5snVQO9bqxfYh9eB2v"
       },
       "artists": [
         {
-          "name": "Chris Beard",
-          "url": "https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp"
+          "name": "Manuel Valera",
+          "url": "https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8"
+        },
+        {
+          "name": "kamanote",
+          "url": "https://open.spotify.com/artist/0HljO0dF8nwi684rrDyhHa"
         }
       ],
-      "duration_ms": 122000,
-      "name": "Good King Wenceslas",
-      "url": "https://open.spotify.com/track/25vdlTYdZPJssQbXU8qUsg"
+      "duration_ms": 225031,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/7Ezy3sFFAS3kJntqZTWpXz"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Christmas Around The Piano",
         "url": "https://open.spotify.com/album/2YZZf9NIZnoUurtJdHVp2N"
@@ -541,39 +621,7 @@
       "url": "https://open.spotify.com/track/70TUCXbpF7SqtZOwqq6phF"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Seven Joys Of Mary",
-        "url": "https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m"
-      },
-      "artists": [
-        {
-          "name": "Stian Jarrell",
-          "url": "https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v"
-        }
-      ],
-      "duration_ms": 145080,
-      "name": "Sussex Carol",
-      "url": "https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Piano Christmas",
-        "url": "https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv"
-      },
-      "artists": [
-        {
-          "name": "Jules Amaro",
-          "url": "https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "As With Gladness Men Of Old",
-      "url": "https://open.spotify.com/track/2siSp0ase32wv1pzn71Guo"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "SnowGlow: Christmas Favorites For Solo Piano",
         "url": "https://open.spotify.com/album/2sgxTFzkbpnH9qDFFzPQiP"
@@ -589,39 +637,23 @@
       "url": "https://open.spotify.com/track/5kVjBwOK1eZsfuLy6Mr75v"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
-        "name": "I Heard The Bells On Christmas Day",
-        "url": "https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA"
+        "name": "The Wexford Carol",
+        "url": "https://open.spotify.com/album/2avlZClfTbrRCAMttmcPuE"
       },
       "artists": [
         {
-          "name": "Manny Heights",
-          "url": "https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb"
+          "name": "Carducci String Quartet",
+          "url": "https://open.spotify.com/artist/4cKOYjPLQGb79166NxfeyI"
         }
       ],
-      "duration_ms": 128000,
-      "name": "I Heard The Bells On Christmas Day",
-      "url": "https://open.spotify.com/track/0RcE3ty89FWkfv84lZewEH"
+      "duration_ms": 157376,
+      "name": "The Wexford Carol",
+      "url": "https://open.spotify.com/track/2DUq09XWvzX2QRXKs3ZMUH"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Christian Hymns, Vol. 4, Organ Accompaniments (The Church Organist Series)",
-        "url": "https://open.spotify.com/album/30AOxaN0uerFFVNBUVs8lT"
-      },
-      "artists": [
-        {
-          "name": "Andrey Jackson",
-          "url": "https://open.spotify.com/artist/2yQZGNQJExPLfCB8kfTD88"
-        }
-      ],
-      "duration_ms": 83452,
-      "name": "Hark! a Thrilling Voice Is Sounding",
-      "url": "https://open.spotify.com/track/1QJTGyetIQldxJCPnEQhOe"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Christmas Romance",
         "url": "https://open.spotify.com/album/5iSA8cwqAeL2Ep7RcnT62N"
@@ -637,7 +669,7 @@
       "url": "https://open.spotify.com/track/1xDE4ZqjA6Oi8yxIRn8goX"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Relaxing Christmas Music, Vol. 1",
         "url": "https://open.spotify.com/album/3TsPUuASpxKagXwi12SSmx"
@@ -653,43 +685,7 @@
       "url": "https://open.spotify.com/track/7y1j9j23BVQxvpBfI5PC5C"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Piano Christmas",
-        "url": "https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv"
-      },
-      "artists": [
-        {
-          "name": "Jules Amaro",
-          "url": "https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA"
-        }
-      ],
-      "duration_ms": 172034,
-      "name": "Once In Royal Davids City",
-      "url": "https://open.spotify.com/track/4PzC5QA9SkhDMO7MCItZXx"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/123hrI7QAnWUXiZHVgKHca"
-      },
-      "artists": [
-        {
-          "name": "Jill Pitz",
-          "url": "https://open.spotify.com/artist/0q4Gc8YuoF6mB9RHIi9FDQ"
-        },
-        {
-          "name": "Marjorie Hanna",
-          "url": "https://open.spotify.com/artist/2QYf4fFPNKLq2miKubXR0n"
-        }
-      ],
-      "duration_ms": 119146,
-      "name": "Let All Mortal Flesh Keep Silence",
-      "url": "https://open.spotify.com/track/5loBbZKs1cj4HTHaLIaTSn"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Peaceful Solo Piano Christmas 2",
         "url": "https://open.spotify.com/album/1HM8IfS4L23ezwo6mV5u2x"
@@ -705,7 +701,7 @@
       "url": "https://open.spotify.com/track/012kxyu91sy0GV2cDHU8M4"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Christmas - Plain & Simple II",
         "url": "https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4"
@@ -721,7 +717,7 @@
       "url": "https://open.spotify.com/track/6TsGWVS5Rqhq018gkSI31E"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Most Memorable Christmas on Piano: Best of The O'Neill Brothers",
         "url": "https://open.spotify.com/album/6u3EBI80MtYdsiODnZgzzu"
@@ -737,7 +733,7 @@
       "url": "https://open.spotify.com/track/62hAUuevuzKsElvDCoYZxK"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Winter - Solo Piano Christmas",
         "url": "https://open.spotify.com/album/5rKmeg1OjlUA5IwbtdRiLL"
@@ -753,39 +749,7 @@
       "url": "https://open.spotify.com/track/7Abl4nhpTicAlcbHmUGVv3"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "A String Quartet Christmas",
-        "url": "https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Arturo Delmoni",
-          "url": "https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv"
-        },
-        {
-          "name": "Alexander Romanul",
-          "url": "https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji"
-        },
-        {
-          "name": "Katherine Murdock",
-          "url": "https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl"
-        },
-        {
-          "name": "Nathaniel Rosen",
-          "url": "https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O"
-        }
-      ],
-      "duration_ms": 89800,
-      "name": "Angels, from the Realms of Glory (arr. A. Delmoni)",
-      "url": "https://open.spotify.com/track/56YOeRNT8wdRA9vvc5nq5i"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Christmas Piano - Solo Piano and Strings",
         "url": "https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl"
@@ -801,23 +765,7 @@
       "url": "https://open.spotify.com/track/7uVk518SvNt275Bhx02z06"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Seven Joys Of Mary",
-        "url": "https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m"
-      },
-      "artists": [
-        {
-          "name": "Stian Jarrell",
-          "url": "https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v"
-        }
-      ],
-      "duration_ms": 136659,
-      "name": "The Coventry Carol",
-      "url": "https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Simply Christmas: Instrumental Hymns",
         "url": "https://open.spotify.com/album/0E4NGHzqWYQjxT26ldESgq"
@@ -833,7 +781,7 @@
       "url": "https://open.spotify.com/track/4YOZhMlGjYyamRhAvs4n2r"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "A Steinway Christmas Album",
         "url": "https://open.spotify.com/album/1xyebt37cG56P72RwwlPEQ"
@@ -861,23 +809,7 @@
       "url": "https://open.spotify.com/track/3qURLCQx6PHG9HYrN4Yr0r"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Merry Christmas, You Are Loved",
-        "url": "https://open.spotify.com/album/1g2H5XhcLDVcUenGT2MOtw"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Saran",
-          "url": "https://open.spotify.com/artist/6jVs08HTU1scgge7NaxAed"
-        }
-      ],
-      "duration_ms": 55800,
-      "name": "Oh Come All Ye Faithful (Strings)",
-      "url": "https://open.spotify.com/track/6WbnXKhylRQFICMaE7PtTA"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Simply Christmas",
         "url": "https://open.spotify.com/album/5d8HRqN6O7RIcNi030teHY"
@@ -893,7 +825,7 @@
       "url": "https://open.spotify.com/track/044LY9AUmn4YaAQR9TWpdz"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Christmas - Plain & Simple II",
         "url": "https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4"
@@ -909,7 +841,7 @@
       "url": "https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "In the Bleak Midwinter (Piano Version)",
         "url": "https://open.spotify.com/album/4zqHiaCQamGSDLkzKS8UxF"
@@ -925,23 +857,7 @@
       "url": "https://open.spotify.com/track/5OKJh9efE7zbKQeSML51Xk"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Joy Of Christmas",
-        "url": "https://open.spotify.com/album/0ZqKApps6FNEiOGYhZ2MKZ"
-      },
-      "artists": [
-        {
-          "name": "John Bladh",
-          "url": "https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "See Amidst The Winter's Snow",
-      "url": "https://open.spotify.com/track/3JWJdn9hTC9IumZx6bUoQM"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "Christmas Piano - Solo Piano and Strings",
         "url": "https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl"
@@ -957,7 +873,7 @@
       "url": "https://open.spotify.com/track/0rUUKPi2d2riJQZzVfEoit"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "O Come, O Come Emmanuel 2018",
         "url": "https://open.spotify.com/album/2XSpLg6Gri2GupXZxP7K6j"
@@ -973,23 +889,7 @@
       "url": "https://open.spotify.com/track/0Xy3LwJFQfx7yQRRgdG5Wo"
     },
     {
-      "added_at": "2022-12-16 16:29:17",
-      "album": {
-        "name": "Christmas Piano Hits - Classic Xmas Piano Moods",
-        "url": "https://open.spotify.com/album/4Xgbrg5lv7FMUmhBiE8KHs"
-      },
-      "artists": [
-        {
-          "name": "Zach Rogers",
-          "url": "https://open.spotify.com/artist/2SnuUdtCpixnnrut9aAsVf"
-        }
-      ],
-      "duration_ms": 99226,
-      "name": "Unto Us a Boy Is Born",
-      "url": "https://open.spotify.com/track/185LBcu5JoC1k6wbGBVryT"
-    },
-    {
-      "added_at": "2022-12-16 16:29:17",
+      "added_at": "2023-09-27 12:56:52",
       "album": {
         "name": "A String Quartet Christmas",
         "url": "https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU"

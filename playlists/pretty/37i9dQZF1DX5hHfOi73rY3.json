@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 272875,
+  "num_followers": 272932,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjc5MWZmMzdkMzdlMTExNWM2NDA4ZjI4NWVmOTBlYjFmYTg1NDYz",
+  "snapshot_id": "MCw4ZjA0NTc4ZmM0MDMwMmU0Njk4M2FmZjFhMDgyNTU1ZTVmYjA2NThi",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -383,18 +383,18 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "The Groovy Cat",
-        "url": "https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz"
+        "name": "No More Idols",
+        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
         }
       ],
-      "duration_ms": 272394,
-      "name": "The Groovy Cat",
-      "url": "https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH"
+      "duration_ms": 250666,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -419,18 +419,18 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "No More Idols",
-        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
+        "name": "The Groovy Cat",
+        "url": "https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz"
       },
       "artists": [
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 250666,
-      "name": "No Problem",
-      "url": "https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD"
+      "duration_ms": 272394,
+      "name": "The Groovy Cat",
+      "url": "https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -531,6 +531,26 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
+        "name": "No More Idols",
+        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2HOMVMnOukowkziBJZyf7o"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
         "name": "It's the Arps",
         "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 158114,
       "name": "Chunky",
       "url": "https://open.spotify.com/track/5SB73InpxuEQ20qEWhOQFV"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "No More Idols",
-        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2HOMVMnOukowkziBJZyf7o"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -763,26 +763,6 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Solitary Daze",
-        "url": "https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM"
-      },
-      "artists": [
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        },
-        {
-          "name": "Gabriel Ananda",
-          "url": "https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX"
-        }
-      ],
-      "duration_ms": 463405,
-      "name": "Solitary Daze",
-      "url": "https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
         "name": "Mystery Machine",
         "url": "https://open.spotify.com/album/7tIUXWWbdUtPvzZRWrn7zj"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 228969,
       "name": "Control",
       "url": "https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "Solitary Daze",
+        "url": "https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Gabriel Ananda",
+          "url": "https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX"
+        }
+      ],
+      "duration_ms": 463405,
+      "name": "Solitary Daze",
+      "url": "https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8"
     },
     {
       "added_at": "2020-11-06 16:59:04",

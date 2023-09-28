@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 167311,
       "name": "Bad Energy",
       "url": "https://open.spotify.com/track/3l6KL0Kjiuy8vd7VoCR2Hg"
@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
@@ -3654,7 +3654,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 281500,
       "name": "Can't fight it",
       "url": "https://open.spotify.com/track/2qXREy7gASBMGnE6JQctmh"
@@ -5032,7 +5032,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -6677,6 +6677,36 @@
     },
     {
       "album": {
+        "name": "El Final (Remix)",
+        "url": "https://open.spotify.com/album/2TXMVtej74BAUJNGygjUl1"
+      },
+      "artists": [
+        {
+          "name": "Juanfran",
+          "url": "https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY"
+        },
+        {
+          "name": "BANDIDO",
+          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
+        },
+        {
+          "name": "Carlos Feria",
+          "url": "https://open.spotify.com/artist/2HEDKrO346KAYhGfmXaE7c"
+        },
+        {
+          "name": "Carlos Heredia",
+          "url": "https://open.spotify.com/artist/6SRzo6U0ay9Os3OXc2aahJ"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273473,
+      "name": "El Final - Remix",
+      "url": "https://open.spotify.com/track/2JBdEfaJGjKAkkGGZn1Iad"
+    },
+    {
+      "album": {
         "name": "Ela",
         "url": "https://open.spotify.com/album/6yLTAu9P2FW7uwTzchu1Xx"
       },
@@ -7722,7 +7752,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -8116,7 +8146,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -8240,6 +8270,28 @@
       "duration_ms": 207933,
       "name": "FOR A NUT (feat. Gunna & Young Thug)",
       "url": "https://open.spotify.com/track/7HCX1Ch3mklJyEdpwPZBFW"
+    },
+    {
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/5eszaPSSXhkDoiRQycfa4J"
+      },
+      "artists": [
+        {
+          "name": "Mari Vee",
+          "url": "https://open.spotify.com/artist/250WtipCPN76TYlOQh1Qdf"
+        },
+        {
+          "name": "Upstrz",
+          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158787,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/0vr5BuZbLB5PJnI1jGjfqr"
     },
     {
       "album": {
@@ -8426,7 +8478,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
@@ -12231,6 +12283,24 @@
     },
     {
       "album": {
+        "name": "If You Are My Boyfriend",
+        "url": "https://open.spotify.com/album/0wsCC3CEiKKNPJhnVfd3HI"
+      },
+      "artists": [
+        {
+          "name": "Drop & Kick",
+          "url": "https://open.spotify.com/artist/2vO9CiKPVYAG7NCzNpY5ab"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "If You Are My Boyfriend",
+      "url": "https://open.spotify.com/track/3EOcW84lE01cHT0nievKOz"
+    },
+    {
+      "album": {
         "name": "IKEA STELPAN",
         "url": "https://open.spotify.com/album/2q0kqdNRg166UES6o7zG7v"
       },
@@ -15085,6 +15155,24 @@
     },
     {
       "album": {
+        "name": "Lose My Kool",
+        "url": "https://open.spotify.com/album/2Il4ooGhLsCdADtiM5G20Y"
+      },
+      "artists": [
+        {
+          "name": "TOO KOOL",
+          "url": "https://open.spotify.com/artist/3x4AlTahn17j6I2F9Q063S"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147843,
+      "name": "Lose My Kool",
+      "url": "https://open.spotify.com/track/1zuFQ2vCQtmgTqeFVMDZiL"
+    },
+    {
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/6vzH59tobnxE5WXMiqvBIx"
       },
@@ -17541,6 +17629,24 @@
     },
     {
       "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4Giop6sYBtAHDJFvJJWDmD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Kubo",
+          "url": "https://open.spotify.com/artist/3cYRnHhZpR00snVlWpiZCK"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/6cEnfT1IazBcTeec4TA1NB"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -18757,6 +18863,28 @@
     },
     {
       "album": {
+        "name": "OnlyFans 2",
+        "url": "https://open.spotify.com/album/5lIYXCkx4L26oflJRnTVWO"
+      },
+      "artists": [
+        {
+          "name": "NewLanta CAP",
+          "url": "https://open.spotify.com/artist/54G84mtJvTmzccf4sih8Tx"
+        },
+        {
+          "name": "Woo Da Savage",
+          "url": "https://open.spotify.com/artist/5LkTP2uvAuoZzdkeJyMgJn"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155088,
+      "name": "OnlyFans 2",
+      "url": "https://open.spotify.com/track/2qU73FSqSc1Y9bV6O7BtiG"
+    },
+    {
+      "album": {
         "name": "Osawese (Thank God)",
         "url": "https://open.spotify.com/album/3JWLHBj6Si76UmazS80udU"
       },
@@ -18768,7 +18896,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 178533,
       "name": "Osawese (Thank God)",
       "url": "https://open.spotify.com/track/19D8fTyA4a7HYqkXJGC9mG"
@@ -19652,7 +19780,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -20574,7 +20702,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 166009,
       "name": "Reinvented",
       "url": "https://open.spotify.com/track/6uzxlXvbxxVRZo23kZZLUU"

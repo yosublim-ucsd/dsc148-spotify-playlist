@@ -1376,6 +1376,24 @@
     {
       "album": {
         "name": "Justa Jonesin'",
+        "url": "https://open.spotify.com/album/40RgLW2ntm5NoJn1jgQltx"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164602,
+      "name": "Justa Jonesin'",
+      "url": "https://open.spotify.com/track/4DQbYa6yBye49Yg1ui0hfO"
+    },
+    {
+      "album": {
+        "name": "Justa Jonesin'",
         "url": "https://open.spotify.com/album/3BIkkShMzkjbOfFfQdFvbC"
       },
       "artists": [
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 164602,
       "name": "Justa Jonesin'",
       "url": "https://open.spotify.com/track/4RudqZOuftr0uk55iKCYh3"

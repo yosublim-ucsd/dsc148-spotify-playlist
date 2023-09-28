@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-285 songs - 14 hr 32 min
+286 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Relaxed Flow Alpha 8Hz](https://open.spotify.com/track/3CZ6xE0YWhxwNZub2wVK3h) | [Sonic Gateway](https://open.spotify.com/artist/7k8bVHxTFUtko95PtysFOY) | [Subconscious Bliss](https://open.spotify.com/album/1cx79V42UvggJV8k6GUFxv) | 2:05 | 2021-08-05 | 2021-09-02 |
 | [Reset of the mind \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/track/1zDzm7luV055pHODOnGjeC) | [The Binaural Mind](https://open.spotify.com/artist/26xtWEL4HqIGvOcVFUyDSI) | [Alpha Focus](https://open.spotify.com/album/6bhMBqNY3GERf2ttWvxT0i) | 2:36 | 2021-06-18 |  |
 | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/track/6zfn958Atr2Nrx4A4eGJI5) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/album/2ZLbL1RUAloHNUQxZpyqBm) | 2:35 | 2023-03-10 |  |
+| [Silk Cocoon C\# Gamma \(77\-134hz\)](https://open.spotify.com/track/2BxwnvgDYhBP3LZbd8tkDu) | [Peace In Stillness](https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf) | [Solitude Hymns Gamma](https://open.spotify.com/album/7CGFprkjrgMdXGuiFftWMa) | 2:33 | 2023-09-27 |  |
 | [Sinus 100 Hz \- L 114 Hz \- R Drone](https://open.spotify.com/track/7vHODRL4ZfNcnU6YJjMdT7) | [Subtracters](https://open.spotify.com/artist/5zX5hB6Cf6jfDhz8M5n7A7) | [Beta 14\-30 Hz Drones](https://open.spotify.com/album/6wf0S6noQKzlOvSmph9XaB) | 3:24 | 2019-05-26\* | 2020-09-08 |
 | [Sinus 90 Hz \- L 120 Hz \- R Drone](https://open.spotify.com/track/0v2mApJ0py4fN6dqzkBJ5t) | [Subtracters](https://open.spotify.com/artist/5zX5hB6Cf6jfDhz8M5n7A7) | [Beta 14\-30 Hz Drones](https://open.spotify.com/album/6wf0S6noQKzlOvSmph9XaB) | 3:28 | 2019-05-26\* | 2020-06-03 |
 | [Sleepy Mountains \(Binaural Alpha 128Hz \- 133Hz\)](https://open.spotify.com/track/5Wp0TFlJeChDBh4HY5z022) | [Flying Rivers](https://open.spotify.com/artist/0dpYklrmz6pA7Yc3w48IPk) | [Sleepy Mountains \(Binaural Alpha 128Hz \- 133Hz\)](https://open.spotify.com/album/5NkVmf5vBPzHfQJXgdg76M) | 2:36 | 2022-08-12 |  |

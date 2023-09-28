@@ -2,7 +2,7 @@
 
 ### [Happy Vibes ](https://open.spotify.com/playlist/37i9dQZF1DWTwbZHrJRIgD)
 
-> Bright, sunny, catchy tunes put a smile on your face\. Cover \- Jab Harry Met Sejal
+> Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
 156 songs - 9 hr 44 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,098 likes - 88 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,200 likes - 88 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 17 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 |
 | 18 | [Red Light](https://open.spotify.com/track/7gV7gStLkm7ybb2WZhhksp) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Red Light](https://open.spotify.com/album/1w0t2M46PMA76fvR5rMEbo) | 2:28 |
 | 19 | [My Way](https://open.spotify.com/track/0RdWkCEgtdbxu2LkNQhFSm) | [Junior Soqeta](https://open.spotify.com/artist/1bJTmjgUdH1inz5cCpsOUA) | [My Way](https://open.spotify.com/album/1iLnbq8e557wQTI1WR4DQ4) | 3:40 |
-| 20 | [Hallelujah \(feat\. Lojay\)](https://open.spotify.com/track/0mNhTvdKz5Wkyopp3Opc7R) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Hallelujah \(feat\. Lojay\)](https://open.spotify.com/album/2RBdxSIZEDuOotLUsLbDmP) | 3:49 |
+| 20 | [Hallelujah \(feat\. Lojay\)](https://open.spotify.com/track/0Zb004lei42rERugapZaSt) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 3:49 |
 | 21 | [King of Pop](https://open.spotify.com/track/6IvgXou1CDNFO1cuILIqsf) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [The More The Better](https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I) | 2:21 |
 | 22 | [Lanke](https://open.spotify.com/track/3mYXLXiDW6iRIht6dfusIy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Lanke](https://open.spotify.com/album/6Di2j6dmIeMGuJDAd2m4ix) | 2:32 |
 | 23 | [Desire](https://open.spotify.com/track/5ZQwZFPgYSciSXvaVCH0Xw) | [Mike Wang](https://open.spotify.com/artist/09LAGEwOU3O1rXIY5Pa6S0) | [Henny & a Vibe](https://open.spotify.com/album/3TRG8uBtzK9b0Lixdp8sNn) | 2:36 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 87 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 |
 | 88 | [NOBODY ELSE](https://open.spotify.com/track/2bnNuJb9pvIJGbeXsJ8A8S) | [Adrian Dzvuke](https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go), [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [NOBODY ELSE](https://open.spotify.com/album/6cRQwq6B93zOqb6zu6lfAw) | 3:18 |
 
-Snapshot ID: `MCw2YmNmZDhmNWEzYjZiZGUxOTU5YjI4ZDA5NTc3N2NiYzljYTE0ZTNh`
+Snapshot ID: `MCwwZGIyZGRjNDVjNTI2N2E3ZTI4NTVmOTQ1MGU4OWQwOTc5MWQ5Y2Nj`

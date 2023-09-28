@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Juan Luis Guerra 4.40
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,177 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,216 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 8 | [Amor de Adolescentes](https://open.spotify.com/track/51O0gvoslFvNsyd4eb27vO) | [Gira Prohibida](https://open.spotify.com/artist/4iWPbVwCqqJCBRb8T8kUvi), [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [GIRA PROHIBIDA \#1: GRUPO RED](https://open.spotify.com/album/5BzHFiqDcYtZIuyZmQ1HKL) | 3:11 |
 | 9 | [Triste y Solitario](https://open.spotify.com/track/1SCETKwDlQs1uzymfwjKKp) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Triste y Solitario](https://open.spotify.com/album/5hXFSBG6SAR974UC9p95zK) | 3:41 |
 | 10 | [ALMA \- Cumbia](https://open.spotify.com/track/6bxxaIhzUAkcodQ0ACmVP7) | [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy), [Elias Tom](https://open.spotify.com/artist/1x6RKxUgCz1QmfrznLsFr4), [Fede Muniz](https://open.spotify.com/artist/01ZcFlHu39MygKFP2ZJ04A) | [ALMA \(Cumbia\)](https://open.spotify.com/album/05vQuxpNJy3LYXEzWvp73A) | 3:37 |
-| 11 | [Gancia y Limon](https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Gancia y Limon](https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa) | 3:53 |
+| 11 | [Gancia y Limon](https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o) | [Smk\-2](https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Gancia y Limon](https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa) | 3:53 |
 | 12 | [Todo Cansa](https://open.spotify.com/track/6dSfOKkfLJpy7hfCH6uGci) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Todo Cansa](https://open.spotify.com/album/05J8ZaGTOnHxGKHT7TKm09) | 3:22 |
 | 13 | [Ven, Devórame Otra Vez](https://open.spotify.com/track/27ekzRUEsgEgb2VNubBVn8) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [Ven, Devórame Otra Vez](https://open.spotify.com/album/2lwBH9GnKDOtABIVn4X3cA) | 4:15 |
 | 14 | [Ya no te conozco tanto](https://open.spotify.com/track/5nFflGdFHm6VB8ykjhcv4S) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Ya no te conozco tanto](https://open.spotify.com/album/5Ogb6xOq1zpN3XW7ZGK37f) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Latidos](https://open.spotify.com/track/3DgomWud1aeGEreShqhbrj) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Latidos](https://open.spotify.com/album/21S3A33s8jil3KqFnjL7vk) | 3:05 |
 | 50 | [Sigues En Mi Vida](https://open.spotify.com/track/68HfjBvYwUAFu3rRAGS1U7) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Sigues En Mi Vida](https://open.spotify.com/album/6g9RsKEGLj7Yz6SSaXDko7) | 2:57 |
 
-Snapshot ID: `MCwxZTJhY2E4ZjYxYzE0ZWFhYjMyOTM4ZmY1OTdjMmY1YzhmMjQwMzc2`
+Snapshot ID: `MCw2ZTgyZjMxYTgzNWNhNGQwODRhNjNkMDJjZWMyZTNmYWRmMmYyMWFk`

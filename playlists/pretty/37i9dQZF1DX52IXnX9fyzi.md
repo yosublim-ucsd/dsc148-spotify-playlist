@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,351 likes - 248 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,518 likes - 248 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 34 | [Viento En Calma](https://open.spotify.com/track/6uBL5gwVhfPMHic7YcD6TX) | [Levi Neroli](https://open.spotify.com/artist/2HTyHL2oeARjQT0ilYm93F) | [Viento En Calma](https://open.spotify.com/album/6S1AdQWqcStwMkxklMTQ7V) | 2:16 |
 | 35 | [Sacrifice](https://open.spotify.com/track/1w5hmKj5aKzeYwJDmXWvos) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Sacrifice](https://open.spotify.com/album/6H4OFwDXGIayENuOoNNnZX) | 3:04 |
 | 36 | [Kimono](https://open.spotify.com/track/5AaZ7bajy9frCgRNEPrJHI) | [Rose Riebl](https://open.spotify.com/artist/2Xc0QtIxx6QNTMucUi9mQV) | [Kimono](https://open.spotify.com/album/0cMYqes38oB1rvvaIDICUv) | 3:47 |
-| 37 | [Out on the Ionian](https://open.spotify.com/track/5Pi90LwtcfvKagOVhnyrLu) | [Joe Semple](https://open.spotify.com/artist/3XyAv5ndQJzky60hLgxS6X) | [Out on the Ionian](https://open.spotify.com/album/0UAx9JTCB0uFpk8FFznXDJ) | 1:56 |
+| 37 | [Out on the Ionian](https://open.spotify.com/track/5Pi90LwtcfvKagOVhnyrLu) | [Joe Sinha Semple](https://open.spotify.com/artist/1A7OPDVDUqq417nwKzAVu6) | [Out on the Ionian](https://open.spotify.com/album/0UAx9JTCB0uFpk8FFznXDJ) | 1:56 |
 | 38 | [Starry Night](https://open.spotify.com/track/20xYxo5QO7JqSeZ1V1WUiE) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Starry Night](https://open.spotify.com/album/3yF2Uz0nbLkrSmli3CcevE) | 2:08 |
 | 39 | [Pour dessiner des fleur](https://open.spotify.com/track/45tnZArwDyo4hM7Zjguqb9) | [Maël Alexandrienne](https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu) | [Pour dessiner des fleur](https://open.spotify.com/album/4jMqEaGWYUeMEAAus1t62g) | 2:24 |
 | 40 | [CHANGES](https://open.spotify.com/track/6JdbCoaNkc1Ur5PGK2JsqQ) | [Rangel Silaev](https://open.spotify.com/artist/5CeLTVTT72ZGWHK3q5Bmze) | [CHANGES](https://open.spotify.com/album/1unrTgi2EVB68rZXjXHaHE) | 2:00 |
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 247 | [Sea Change](https://open.spotify.com/track/3pJnfyKoVePwVmljB6Wun1) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Sea Change](https://open.spotify.com/album/1jqlahQiSw1r4Leg6IQp3S) | 2:51 |
 | 248 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 |
 
-Snapshot ID: `MCwxNzczNjE0ODU5ZDY2ZmRjYmY4MDA0MzhlYzYyZjA5YjBlOWU5ZTU1`
+Snapshot ID: `MCw1ZjZkYjc5YjI3ZTI2OGFlNGZlZDgzZWI5NzVhM2RiY2I1NzRhZmI3`

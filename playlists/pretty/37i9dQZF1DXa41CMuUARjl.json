@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Jauz.",
-  "num_followers": 452917,
+  "num_followers": 452974,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmE0ZjJlZWRmYmJjY2FkMDYwMDljMTkwNGJjZjM1MDM1Y2UwZmU0",
+  "snapshot_id": "MCw1MWViOWU5YzI2YzAwMWU5ZWVjNTkxODAxYTRiOGFhYzMyMDg1Mzcx",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/4YYQxEE1F9q99lwD6HEzzJ"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 186970,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/07B9SsrBhdpcVBGb7vOKYL"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Differently (Feat. MIST)",
         "url": "https://open.spotify.com/album/0nL1RvbwfO0PP5LGyoTR1s"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 148480,
       "name": "Differently (Feat. MIST)",
       "url": "https://open.spotify.com/track/6E2mwRT1vHBmvd4XTmbF8h"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/4YYQxEE1F9q99lwD6HEzzJ"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 186970,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/07B9SsrBhdpcVBGb7vOKYL"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Via Infinita (Marsh Remix)",
-        "url": "https://open.spotify.com/album/3IKJOrjCJDQJCGqnbv85ss"
-      },
-      "artists": [
-        {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
-        },
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 286252,
-      "name": "Via Infinita - Marsh Remix",
-      "url": "https://open.spotify.com/track/57j2b5YIcwavOLkl5yFkQG"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "i can see",
         "url": "https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A"
       },
@@ -755,22 +735,6 @@
       "duration_ms": 229083,
       "name": "i can see",
       "url": "https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "The Playground",
-        "url": "https://open.spotify.com/album/6tEEZtViXnvNeS5pFcY9fz"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 182675,
-      "name": "The Playground",
-      "url": "https://open.spotify.com/track/6otJQ1BMqoWjOXZb2KtgaQ"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -791,6 +755,42 @@
       "duration_ms": 154687,
       "name": "In Your Mind",
       "url": "https://open.spotify.com/track/1fljgBD0HxUOOtLDQ9WSaM"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "The Playground",
+        "url": "https://open.spotify.com/album/6tEEZtViXnvNeS5pFcY9fz"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 182675,
+      "name": "The Playground",
+      "url": "https://open.spotify.com/track/6otJQ1BMqoWjOXZb2KtgaQ"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Via Infinita (Marsh Remix)",
+        "url": "https://open.spotify.com/album/3IKJOrjCJDQJCGqnbv85ss"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        },
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 286252,
+      "name": "Via Infinita - Marsh Remix",
+      "url": "https://open.spotify.com/track/57j2b5YIcwavOLkl5yFkQG"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "If Only For A Moment - EP",
-        "url": "https://open.spotify.com/album/7amstqiL1GeP1zKnpcwka4"
-      },
-      "artists": [
-        {
-          "name": "ayokay",
-          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
-        },
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 189752,
-      "name": "Thousand Nights (with Forester)",
-      "url": "https://open.spotify.com/track/4Jso2rcIFzhZVQsfT8QaNm"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Killing Me Slowly",
         "url": "https://open.spotify.com/album/5CfsdEREZS2gS16RsxrKI9"
       },
@@ -863,38 +843,6 @@
       "duration_ms": 216000,
       "name": "Killing Me Slowly",
       "url": "https://open.spotify.com/track/04d4GzuAcytdLP2M3U9hiu"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "The Ocean (Still Young & BR\u00d8MANCE Remix)",
-        "url": "https://open.spotify.com/album/6Q0UbWcx7gbXN8T6k91fEm"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Saturday, Monday",
-          "url": "https://open.spotify.com/artist/4ChtTBF8lU2YYsuoTrquYn"
-        },
-        {
-          "name": "Julia Spada",
-          "url": "https://open.spotify.com/artist/0GtgBnMAiOhU6MebyAB0V2"
-        },
-        {
-          "name": "Still Young",
-          "url": "https://open.spotify.com/artist/36OHRfWvgcTohhk0st9VC4"
-        },
-        {
-          "name": "BR\u00d8MANCE",
-          "url": "https://open.spotify.com/artist/5svygegpStk22aX7000Wpa"
-        }
-      ],
-      "duration_ms": 191635,
-      "name": "The Ocean (Still Young & BR\u00d8MANCE Remix)",
-      "url": "https://open.spotify.com/track/21IwThJ6FgJt0U9j4ss7NG"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -919,6 +867,58 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "The Ocean (Still Young & BR\u00d8MANCE Remix)",
+        "url": "https://open.spotify.com/album/6Q0UbWcx7gbXN8T6k91fEm"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Saturday, Monday",
+          "url": "https://open.spotify.com/artist/4ChtTBF8lU2YYsuoTrquYn"
+        },
+        {
+          "name": "Julia Spada",
+          "url": "https://open.spotify.com/artist/0GtgBnMAiOhU6MebyAB0V2"
+        },
+        {
+          "name": "BR\u00d8MANCE",
+          "url": "https://open.spotify.com/artist/5svygegpStk22aX7000Wpa"
+        },
+        {
+          "name": "Still Young",
+          "url": "https://open.spotify.com/artist/36OHRfWvgcTohhk0st9VC4"
+        }
+      ],
+      "duration_ms": 191635,
+      "name": "The Ocean (Still Young & BR\u00d8MANCE Remix)",
+      "url": "https://open.spotify.com/track/21IwThJ6FgJt0U9j4ss7NG"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "If Only For A Moment - EP",
+        "url": "https://open.spotify.com/album/7amstqiL1GeP1zKnpcwka4"
+      },
+      "artists": [
+        {
+          "name": "ayokay",
+          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
+        },
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "duration_ms": 189752,
+      "name": "Thousand Nights (with Forester)",
+      "url": "https://open.spotify.com/track/4Jso2rcIFzhZVQsfT8QaNm"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Voltage",
         "url": "https://open.spotify.com/album/6VRvE1Md5dC2XZ5GsOF2yI"
       },
@@ -939,22 +939,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Use Me (MK / Carl Craig Remixes)",
-        "url": "https://open.spotify.com/album/2WyY2MwPEpqaeB5CPsHUsY"
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4ZhrkTokpL64LCWKGwrWrO"
       },
       "artists": [
         {
-          "name": "R-Tyme",
-          "url": "https://open.spotify.com/artist/1MKvHKK88iWuiDRIqIHjhw"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Bless You",
+          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
         }
       ],
-      "duration_ms": 220664,
-      "name": "Use Me - MK Mix",
-      "url": "https://open.spotify.com/track/3hVZX49w2f30DJh8A6VBu2"
+      "duration_ms": 177637,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2QJLf3SAYQswlUDphEImxv"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -975,18 +971,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4ZhrkTokpL64LCWKGwrWrO"
+        "name": "Use Me (MK / Carl Craig Remixes)",
+        "url": "https://open.spotify.com/album/2WyY2MwPEpqaeB5CPsHUsY"
       },
       "artists": [
         {
-          "name": "Bless You",
-          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+          "name": "R-Tyme",
+          "url": "https://open.spotify.com/artist/1MKvHKK88iWuiDRIqIHjhw"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         }
       ],
-      "duration_ms": 177637,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/2QJLf3SAYQswlUDphEImxv"
+      "duration_ms": 220664,
+      "name": "Use Me - MK Mix",
+      "url": "https://open.spotify.com/track/3hVZX49w2f30DJh8A6VBu2"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "METTENARRATIVE",
-        "url": "https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM"
-      },
-      "artists": [
-        {
-          "name": "METTE",
-          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "CHOCOLATE CITY",
-      "url": "https://open.spotify.com/track/5DMnRbwskRQAO35Lk1IGZC"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Safe",
         "url": "https://open.spotify.com/album/3ccep7dNfKrvfoYiQ5Kogy"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 133913,
       "name": "Safe",
       "url": "https://open.spotify.com/track/7EuW5fS26s5cHZjI56FCjr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "METTENARRATIVE",
+        "url": "https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "CHOCOLATE CITY",
+      "url": "https://open.spotify.com/track/5DMnRbwskRQAO35Lk1IGZC"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Yeah",
+        "url": "https://open.spotify.com/album/7h18BePxAaCgbyXVOBPLz8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 213447,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/6OSl6T4krWpPK7qrSStoS1"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Portal / Sad & Happy",
         "url": "https://open.spotify.com/album/1Cy0aIB5e4vHqHAAQm9RTa"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Yeah",
-        "url": "https://open.spotify.com/album/7h18BePxAaCgbyXVOBPLz8"
+        "name": "House Y'all",
+        "url": "https://open.spotify.com/album/2pTxm1H1e3zfJBzRDwtmty"
       },
       "artists": [
         {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
         }
       ],
-      "duration_ms": 213447,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/6OSl6T4krWpPK7qrSStoS1"
+      "duration_ms": 155625,
+      "name": "House Y'all",
+      "url": "https://open.spotify.com/track/0eWfHigLsQiQzmKRVbwjLL"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "House Y'all",
-        "url": "https://open.spotify.com/album/2pTxm1H1e3zfJBzRDwtmty"
-      },
-      "artists": [
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 155625,
-      "name": "House Y'all",
-      "url": "https://open.spotify.com/track/0eWfHigLsQiQzmKRVbwjLL"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Headlights",
         "url": "https://open.spotify.com/album/7Fixp63EZJVwpQduqCJCBi"
       },
@@ -1227,46 +1227,6 @@
       "duration_ms": 140806,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/3OLuiRmi5DtpHq8SZiCtW3"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "All Is Not Lost",
-        "url": "https://open.spotify.com/album/6xaBrVd2fc9x84UIhbxJfm"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        }
-      ],
-      "duration_ms": 276479,
-      "name": "All Is Not Lost",
-      "url": "https://open.spotify.com/track/0auC9udRUbG3L3NhUInxKg"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/3BRgsslGw2N7tIa47JWm97"
-      },
-      "artists": [
-        {
-          "name": "Modera",
-          "url": "https://open.spotify.com/artist/5srbzu0tyZ1Wb1HgDOqVFj"
-        },
-        {
-          "name": "Hessian",
-          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
-        },
-        {
-          "name": "Tailor",
-          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/1RahnXNJLH1Lakgf2K2ESm"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1307,6 +1267,46 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/3BRgsslGw2N7tIa47JWm97"
+      },
+      "artists": [
+        {
+          "name": "Modera",
+          "url": "https://open.spotify.com/artist/5srbzu0tyZ1Wb1HgDOqVFj"
+        },
+        {
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/1RahnXNJLH1Lakgf2K2ESm"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "All Is Not Lost",
+        "url": "https://open.spotify.com/album/6xaBrVd2fc9x84UIhbxJfm"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        }
+      ],
+      "duration_ms": 276479,
+      "name": "All Is Not Lost",
+      "url": "https://open.spotify.com/track/0auC9udRUbG3L3NhUInxKg"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/2effpJSCbDQfgt76VbUU9B"
       },
@@ -1343,6 +1343,58 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/7d3kLmrJCeyPJslW0hTPbU"
+      },
+      "artists": [
+        {
+          "name": "Pawl",
+          "url": "https://open.spotify.com/artist/1ShHSfgvLgJ4i26xcXB232"
+        }
+      ],
+      "duration_ms": 144952,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/5YbUGPHKbBf7iIikpKLTXU"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Just A Game",
+        "url": "https://open.spotify.com/album/5YIwaeaVvpkxpheIfJQZMj"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "C\u00d8RT",
+          "url": "https://open.spotify.com/artist/72uc6BIn48ZMOwbS4hMlGU"
+        }
+      ],
+      "duration_ms": 137078,
+      "name": "Just A Game",
+      "url": "https://open.spotify.com/track/29HmyW9lUWi4UbuIwrlErO"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/7sOHb747Acn8nM3P56vdOn"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4EJsOlrrfO2dA9Hy3rwNvn"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "\u15ad\u0f0f\u15ab",
         "url": "https://open.spotify.com/album/7GRY0w3qpmbKadXlRXp81E"
       },
@@ -1359,22 +1411,6 @@
       "duration_ms": 221818,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/5aPc6i8rZRqi08AFFo3UQv"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/7d3kLmrJCeyPJslW0hTPbU"
-      },
-      "artists": [
-        {
-          "name": "Pawl",
-          "url": "https://open.spotify.com/artist/1ShHSfgvLgJ4i26xcXB232"
-        }
-      ],
-      "duration_ms": 144952,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/5YbUGPHKbBf7iIikpKLTXU"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1423,58 +1459,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Just A Game",
-        "url": "https://open.spotify.com/album/5YIwaeaVvpkxpheIfJQZMj"
-      },
-      "artists": [
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        },
-        {
-          "name": "C\u00d8RT",
-          "url": "https://open.spotify.com/artist/72uc6BIn48ZMOwbS4hMlGU"
-        }
-      ],
-      "duration_ms": 137078,
-      "name": "Just A Game",
-      "url": "https://open.spotify.com/track/29HmyW9lUWi4UbuIwrlErO"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "HTJ001",
-        "url": "https://open.spotify.com/album/0XpjP49C89TpWqvxUc3PXC"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 403220,
-      "name": "End Of The Line",
-      "url": "https://open.spotify.com/track/3nqHSUDl2iZX0SHndCn0sT"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/7sOHb747Acn8nM3P56vdOn"
-      },
-      "artists": [
-        {
-          "name": "Jersey",
-          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/4EJsOlrrfO2dA9Hy3rwNvn"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Kababo",
         "url": "https://open.spotify.com/album/11O0BU7mUyyzavBc7vbsXf"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "HTJ001",
+        "url": "https://open.spotify.com/album/0XpjP49C89TpWqvxUc3PXC"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "duration_ms": 403220,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/3nqHSUDl2iZX0SHndCn0sT"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Bigger Than Us",
         "url": "https://open.spotify.com/album/3DQudKHmMF1sHvaW0JTOhT"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 172832,
       "name": "Bigger Than Us",
       "url": "https://open.spotify.com/track/55EM7fFmFL7nWuSauXmNPq"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "ALPHA+",
+        "url": "https://open.spotify.com/album/1gmQ00iJK3llx2mNToDiIp"
+      },
+      "artists": [
+        {
+          "name": "1788-L",
+          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "ALPHA+",
+      "url": "https://open.spotify.com/track/1y7mBTxavExe0UO8meET0J"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "ALPHA+",
-        "url": "https://open.spotify.com/album/1gmQ00iJK3llx2mNToDiIp"
-      },
-      "artists": [
-        {
-          "name": "1788-L",
-          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "ALPHA+",
-      "url": "https://open.spotify.com/track/1y7mBTxavExe0UO8meET0J"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "All In My Head",
         "url": "https://open.spotify.com/album/7qzHhlLgqJrA2vi9U7jgmU"
       },
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Can't Get over Me",
+        "url": "https://open.spotify.com/album/6l4JbBRojQPPGznEEbsJBp"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Can't Get over Me",
+      "url": "https://open.spotify.com/track/7swx2zXYblMAFx2SDUMIBq"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "SEOUL",
         "url": "https://open.spotify.com/album/4lx4LmtA35VNlbtylBWvff"
       },
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Can't Get over Me",
-        "url": "https://open.spotify.com/album/6l4JbBRojQPPGznEEbsJBp"
+        "name": "Get Down EP",
+        "url": "https://open.spotify.com/album/1GiStB0oGRElP49xAQo2A3"
       },
       "artists": [
         {
-          "name": "Take Van",
-          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Can't Get over Me",
-      "url": "https://open.spotify.com/track/7swx2zXYblMAFx2SDUMIBq"
+      "duration_ms": 308222,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3sFkO2PDRIiZhqR0ZtRzuw"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1643,22 +1659,6 @@
       "duration_ms": 144063,
       "name": "In Blood",
       "url": "https://open.spotify.com/track/1JsxABoXgub295UsXgKKeN"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Get Down EP",
-        "url": "https://open.spotify.com/album/1GiStB0oGRElP49xAQo2A3"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        }
-      ],
-      "duration_ms": 308222,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/3sFkO2PDRIiZhqR0ZtRzuw"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Black Power Electronics",
-        "url": "https://open.spotify.com/album/4Al3FvKz0avVt67TQE3og5"
-      },
-      "artists": [
-        {
-          "name": "Galcher Lustwerk",
-          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
-        }
-      ],
-      "duration_ms": 302017,
-      "name": "Black Power Electronics",
-      "url": "https://open.spotify.com/track/148k76CTMBGA50ffMmcmHF"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Tears In Berghain EP",
         "url": "https://open.spotify.com/album/7ez8S0rG2f4hec5NIJOaWY"
       },
@@ -1755,22 +1739,38 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/4bZ6u5RDYajHIfSenUNdwe"
+        "name": "Black Power Electronics",
+        "url": "https://open.spotify.com/album/4Al3FvKz0avVt67TQE3og5"
       },
       "artists": [
         {
-          "name": "Chanpan",
-          "url": "https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh"
-        },
-        {
-          "name": "Ladji Mouflet",
-          "url": "https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm"
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
         }
       ],
-      "duration_ms": 165942,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/2awBXPPzbOhux8MwSLozg9"
+      "duration_ms": 302017,
+      "name": "Black Power Electronics",
+      "url": "https://open.spotify.com/track/148k76CTMBGA50ffMmcmHF"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Feel It (The Remixes)",
+        "url": "https://open.spotify.com/album/4vynQKcTycZG9Zw3jUMNGq"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+        }
+      ],
+      "duration_ms": 174815,
+      "name": "Feel It - Jess Bays Remix",
+      "url": "https://open.spotify.com/track/6JbV2o2AqXRN8Apd1Cvmjt"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Feel It (The Remixes)",
-        "url": "https://open.spotify.com/album/4vynQKcTycZG9Zw3jUMNGq"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
-        }
-      ],
-      "duration_ms": 174815,
-      "name": "Feel It - Jess Bays Remix",
-      "url": "https://open.spotify.com/track/6JbV2o2AqXRN8Apd1Cvmjt"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Agosto",
         "url": "https://open.spotify.com/album/5Czb1yIkWoecRdGfyMHTR1"
       },
@@ -1843,6 +1823,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/4bZ6u5RDYajHIfSenUNdwe"
+      },
+      "artists": [
+        {
+          "name": "Chanpan",
+          "url": "https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh"
+        },
+        {
+          "name": "Ladji Mouflet",
+          "url": "https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm"
+        }
+      ],
+      "duration_ms": 165942,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/2awBXPPzbOhux8MwSLozg9"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "It Was",
         "url": "https://open.spotify.com/album/3fTEniw4A6Uevll9XMuQDK"
       },
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Body On Body (Curses Revamp)",
-        "url": "https://open.spotify.com/album/4y5HNwWletOx4oFa3THwjV"
-      },
-      "artists": [
-        {
-          "name": "J.W.B. Hits The Beat",
-          "url": "https://open.spotify.com/artist/5GgxVJHcq8km9JmTjHnyaG"
-        },
-        {
-          "name": "Curses",
-          "url": "https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1"
-        }
-      ],
-      "duration_ms": 305493,
-      "name": "Body On Body - Curses Revamp",
-      "url": "https://open.spotify.com/track/0hU6jmY2K3KRzSHIVw9ZHB"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/3kvEUyp7pMOntmlhhivSoH"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 150793,
       "name": "The Cure",
       "url": "https://open.spotify.com/track/2nmASM96RfAQKjuFjM5Lcn"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Body On Body (Curses Revamp)",
+        "url": "https://open.spotify.com/album/4y5HNwWletOx4oFa3THwjV"
+      },
+      "artists": [
+        {
+          "name": "J.W.B. Hits The Beat",
+          "url": "https://open.spotify.com/artist/5GgxVJHcq8km9JmTjHnyaG"
+        },
+        {
+          "name": "Curses",
+          "url": "https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "Body On Body - Curses Revamp",
+      "url": "https://open.spotify.com/track/0hU6jmY2K3KRzSHIVw9ZHB"
     },
     {
       "added_at": "2023-09-22 04:00:00",

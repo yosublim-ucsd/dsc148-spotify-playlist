@@ -4,7 +4,7 @@
 
 > Crush on Crush's K\-R&B and musics.
 
-187 songs - 11 hr 18 min
+188 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cereal](https://open.spotify.com/track/4G5SXAQyz9D75KmKTLbI0X) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [wonderlost](https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au) | 3:38 | 2020-12-27 | 2022-07-29 |
 | [Chill](https://open.spotify.com/track/0ysA3RnV8LmuXHewl7KSXi) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [wonderlost](https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr) | 3:43 | 2020-12-27 |  |
 | [Chill](https://open.spotify.com/track/3wQX0pnRgzLSI1r4rD8pcV) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [wonderlost](https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au) | 3:43 | 2020-12-27 | 2022-07-29 |
+| [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:45 | 2023-09-27 |  |
 | [Clock Out \(Feat\. Jay Park, Crush\)](https://open.spotify.com/track/3rpVUtSmM78lWeJSMQLCSw) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Clock Out](https://open.spotify.com/album/6EGUu4CDVbPr0YAggnmVSG) | 3:49 | 2020-12-27 |  |
 | [Close Your Eyes](https://open.spotify.com/track/2qjBt9S1s6wo07iQeJ4phD) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [wonderlost](https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr) | 4:10 | 2020-12-27 |  |
 | [Close Your Eyes](https://open.spotify.com/track/7zZnCBlFyAESht9EYLC08n) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [wonderlost](https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au) | 4:10 | 2020-12-27 | 2022-07-29 |

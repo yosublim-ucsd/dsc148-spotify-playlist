@@ -4621,6 +4621,24 @@
     },
     {
       "album": {
+        "name": "Solitude Hymns Gamma",
+        "url": "https://open.spotify.com/album/7CGFprkjrgMdXGuiFftWMa"
+      },
+      "artists": [
+        {
+          "name": "Peace In Stillness",
+          "url": "https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Silk Cocoon C# Gamma (77-134hz)",
+      "url": "https://open.spotify.com/track/2BxwnvgDYhBP3LZbd8tkDu"
+    },
+    {
+      "album": {
         "name": "Beta 14-30 Hz Drones",
         "url": "https://open.spotify.com/album/6wf0S6noQKzlOvSmph9XaB"
       },

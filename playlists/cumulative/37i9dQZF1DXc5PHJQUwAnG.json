@@ -3648,10 +3648,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 139244,
       "name": "Unico en mi especie",
       "url": "https://open.spotify.com/track/0c7xCenpK86VlUUODSqc3i"
+    },
+    {
+      "album": {
+        "name": "Unico en mi especie",
+        "url": "https://open.spotify.com/album/60F4vHmBUfofMGM9kzpk3S"
+      },
+      "artists": [
+        {
+          "name": "Cray Dalton",
+          "url": "https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C"
+        }
+      ],
+      "date_added": "2023-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139253,
+      "name": "Unico en mi especie",
+      "url": "https://open.spotify.com/track/6o7WXKdCFKw7S5tDSo9BfU"
     },
     {
       "album": {

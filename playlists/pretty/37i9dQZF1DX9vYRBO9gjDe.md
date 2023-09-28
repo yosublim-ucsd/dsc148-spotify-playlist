@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。9月25日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,818 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,891 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [It’s all good](https://open.spotify.com/track/5V6ZKHUuyo9TgpmzMgxV9R) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [It’s all good](https://open.spotify.com/album/2oD3JIzBpBCdWmEGVfg2F0) | 4:10 |
 | 50 | [左利きのBenz](https://open.spotify.com/track/2aC3fh9QFYTHHE0VoIlOSE) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [左利きのBenz](https://open.spotify.com/album/7HvUJW7LG42RXGgOUJWw4X) | 2:04 |
 
-Snapshot ID: `MCw0NjdkMTE1MTMzZmYwYmE0NjVhZmRlNzllYTI2MDdkMTJiOTA2OTc0`
+Snapshot ID: `MCxiMTVlYjk5OTE2ZTI2MDMyYzNjNWVmOTQwZGVlNWFjZGE1ZmU2ODQ3`

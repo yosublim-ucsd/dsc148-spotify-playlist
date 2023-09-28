@@ -4,7 +4,7 @@
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-200 songs - 10 hr 31 min
+201 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Home \- From The Motion Picture "Ferdinand"](https://open.spotify.com/track/7gkiBjpe8iHs5esLLlThly) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Ferdinand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JCNm5gXgKMKWrNtnYezXu) | 3:00 | 2022-03-25 |  |
 | [How Far I'll Go](https://open.spotify.com/track/1qEJ0XTPx0tEoXDP5E3AZL) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6WcwTfjz7H5SPRFF4Hf7g5) | 2:43 | 2022-03-25 | 2022-07-29 |
 | [How Far I'll Go](https://open.spotify.com/track/5Y7bvHLJGJIjc1WfkwleCj) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4SOH2pzzJ7MZ1DcutCKp8k) | 2:43 | 2022-03-25 | 2022-11-13 |
-| [How Far I'll Go \- From "Moana"/Soundtrack Version](https://open.spotify.com/track/0HT6xI2MTQ7qk4yNA1IZUd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 2:43 | 2022-03-25 |  |
+| [How Far I'll Go \- From "Moana"/Soundtrack Version](https://open.spotify.com/track/0HT6xI2MTQ7qk4yNA1IZUd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 2:43 | 2022-03-25 | 2023-09-28 |
+| [How Far I'll Go \- From "Moana"/Soundtrack Version](https://open.spotify.com/track/62wcjED7Q0eZLLtyp2Rlwt) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Disney Summer Songs , Vol\. 2](https://open.spotify.com/album/4AORimNOUL0YaMx9jYx2G8) | 2:43 | 2023-09-22 |  |
 | [I Choose \- From The Netflix Original Film "The Willoughbys"](https://open.spotify.com/track/13QIjo2iGBgl56mNDjJOet) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [I Choose \(From The Netflix Original Film The Willoughbys\)](https://open.spotify.com/album/6k4ugOvti66x6xvnQpYSj7) | 3:37 | 2022-03-25 |  |
 | [I Like To Move It](https://open.spotify.com/track/1VQ2FdkDQ6CnoxxIIomVWK) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \- Music From The Motion Picture](https://open.spotify.com/album/6xzALceHwgpeBIy1zSEx9d) | 3:41 | 2022-03-25 | 2022-07-29 |
 | [I Like To Move It](https://open.spotify.com/track/4bAFo6r2ODMDoqM5YHV2gM) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \(Music From The Motion Picture\)](https://open.spotify.com/album/0a6NsOaOzlrubGl3htyVWG) | 3:41 | 2022-03-25 |  |

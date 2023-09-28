@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX?si=qccMT5kwQpODWW0mhEuLZg"> M.anifest </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,165 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,188 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Win](https://open.spotify.com/track/6MXFJ3e7WUvuUsFgpSXvCY) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Win](https://open.spotify.com/album/2od5gvTOvH1SR7en3ns93x) | 4:12 |
 | 80 | [Winning](https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Winning](https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N) | 3:14 |
 
-Snapshot ID: `MCxjZDViOTg1YmUyYzA1MzE0ZjU2NjcwZmRkNDQ1MWE1ZWNiY2IzMDMy`
+Snapshot ID: `MCxjZWNhMjQ3OTI3MzFiOGM0ZTMxM2UzMmI5MTI1NTYwODllM2M4YmNk`

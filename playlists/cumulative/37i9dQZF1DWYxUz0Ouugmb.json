@@ -1232,10 +1232,28 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 285765,
       "name": "Kamu Kurang Usaha",
       "url": "https://open.spotify.com/track/2SmryvmzCMHQ4fjAf1mzmA"
+    },
+    {
+      "album": {
+        "name": "Kamu Kurang Usaha",
+        "url": "https://open.spotify.com/album/0CmomGvxqIOhb7PDcBPkNL"
+      },
+      "artists": [
+        {
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285765,
+      "name": "Kamu Kurang Usaha",
+      "url": "https://open.spotify.com/track/2i5RTxltb0Bhn5fcXpqU7M"
     },
     {
       "album": {

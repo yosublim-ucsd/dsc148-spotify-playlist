@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 206250,
+  "num_followers": 206351,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmE4OGM4YTUzMjBjZmMwYjc4NmQ5ODc2ZDg4ZmIyYzk3ZWYyOGEx",
+  "snapshot_id": "MCw3NzJjNWI4OGY2ZTlhZGNkMWJjODQ5NjRmZmU2OWQ1NTQ4NzZkMjFm",
   "tracks": [
     {
       "added_at": "2023-09-22 12:50:41",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-09-22 12:50:41",
       "album": {
-        "name": "The Metallic Index",
-        "url": "https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr"
-      },
-      "artists": [
-        {
-          "name": "Fenella",
-          "url": "https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R"
-        },
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 94632,
-      "name": "The Metallic Index",
-      "url": "https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr"
-    },
-    {
-      "added_at": "2023-09-22 12:50:41",
-      "album": {
         "name": "Thin Air (WaterBABii_MiiX)",
         "url": "https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ"
       },
@@ -695,26 +675,22 @@
     {
       "added_at": "2023-09-22 12:50:41",
       "album": {
-        "name": "i used to",
-        "url": "https://open.spotify.com/album/5zKGLARoiiUGb2r8R3kLv1"
+        "name": "The Metallic Index",
+        "url": "https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr"
       },
       "artists": [
         {
-          "name": "isomonstrosity",
-          "url": "https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi"
+          "name": "Fenella",
+          "url": "https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R"
         },
         {
-          "name": "International Contemporary Ensemble",
-          "url": "https://open.spotify.com/artist/1e6oJr3JG14gEuRLDl5ZsT"
-        },
-        {
-          "name": "Kacy Hill",
-          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
         }
       ],
-      "duration_ms": 188150,
-      "name": "i used to",
-      "url": "https://open.spotify.com/track/75EStj9OPvWHa9N5KvFo72"
+      "duration_ms": 94632,
+      "name": "The Metallic Index",
+      "url": "https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr"
     },
     {
       "added_at": "2023-09-22 12:50:41",
@@ -751,6 +727,30 @@
       "duration_ms": 233610,
       "name": "Archeological Longing",
       "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
+    },
+    {
+      "added_at": "2023-09-22 12:50:41",
+      "album": {
+        "name": "i used to",
+        "url": "https://open.spotify.com/album/5zKGLARoiiUGb2r8R3kLv1"
+      },
+      "artists": [
+        {
+          "name": "isomonstrosity",
+          "url": "https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi"
+        },
+        {
+          "name": "International Contemporary Ensemble",
+          "url": "https://open.spotify.com/artist/1e6oJr3JG14gEuRLDl5ZsT"
+        },
+        {
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+        }
+      ],
+      "duration_ms": 188150,
+      "name": "i used to",
+      "url": "https://open.spotify.com/track/75EStj9OPvWHa9N5KvFo72"
     },
     {
       "added_at": "2023-09-22 12:50:41",

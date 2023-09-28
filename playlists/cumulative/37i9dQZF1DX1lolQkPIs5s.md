@@ -4,7 +4,7 @@
 
 > ディズニーの人気曲を集めた公式プレイリスト♪『リトル・マーメイド』『ミラベルと魔法だらけの家』『モアナと伝説の海』『アナと雪の女王』『塔の上のラプンツェル』のおなじみの曲から隠れた名曲までセレクト！
 
-152 songs - 8 hr 11 min
+153 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Go The Distance](https://open.spotify.com/track/08BRdD3nHhV1we2G4YkfLP) | [Fumiya Fujii](https://open.spotify.com/artist/5uDMiTt5fxXmUyPS5HPwvS) | [Hercules \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/7EmZAi08IILcveityNOOg7) | 4:09 | 2022-12-28 |  |
 | [Hakuna Matata](https://open.spotify.com/track/0B1movspGuzySM8kWSzRFJ) | [Asei \(Miki\)](https://open.spotify.com/artist/46oAndFDb4vcSrOjQQ0wp4), [Jiro Sato](https://open.spotify.com/artist/0rFx9LyQzucBrFwAfmRktc), [Toshiki Kumagai](https://open.spotify.com/artist/3hnPwFy5CROr6XAZgqm7El), [Kento Kaku](https://open.spotify.com/artist/6fciuViWGy7j9fRifmbkAE) | [The Lion King \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/3pkboIyEctoZm4KkfJUbKG) | 4:11 | 2022-12-28 |  |
 | [Happy Song](https://open.spotify.com/track/3CTvENkGrXC47vyQNti7J4) | [Tokyo Disneyland](https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2) | [Tokyo Disneyland The Happy Ride with Baymax](https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k) | 1:35 | 2022-12-28 |  |
-| [Hawaiian Roller Coaster Ride \- From "Lilo & Stitch"/Soundtrack Version](https://open.spotify.com/track/7J2SpEpsLlEZDxi8WhS4ET) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 3:27 | 2022-12-28 |  |
+| [Hawaiian Roller Coaster Ride \- From "Lilo & Stitch"/Soundtrack Version](https://open.spotify.com/track/6lFJxmeD3Vak3nnoB9bDAi) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Disney Summer Songs , Vol\. 2](https://open.spotify.com/album/4AORimNOUL0YaMx9jYx2G8) | 3:27 | 2023-07-14 |  |
+| [Hawaiian Roller Coaster Ride \- From "Lilo & Stitch"/Soundtrack Version](https://open.spotify.com/track/7J2SpEpsLlEZDxi8WhS4ET) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 3:27 | 2022-12-28 | 2023-09-28 |
 | [Higitus Figitus \- From "The Sword In the Stone"](https://open.spotify.com/track/4DItdR57qt33oRwfL7sWQE) | [Karl Swensen](https://open.spotify.com/artist/6qVSV0PF2s5wYGkkE0w7hW), [Ricky Sorenson](https://open.spotify.com/artist/5IN3eGsI857KSCShFWkv8d) | [Super Friendship! \- Disney Music Collection](https://open.spotify.com/album/7urwdqe8iByOWPF1mrZ6oI) | 1:46 | 2023-07-14 |  |
 | [How Far I'll Go \- Japanese Version](https://open.spotify.com/track/5cUmp5Dx9FEKFG3UJaVQP7) | [Tomona Yabiku](https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz) | [Moana/Vaiana/Oceania Multi\-Language Songs, Vol\. 2](https://open.spotify.com/album/5bNUCxcIfJrHeuPnBHoApQ) | 2:43 | 2022-12-28 |  |
 | [I Can't Let You Throw Yourself Away \- Japanese Version](https://open.spotify.com/track/562r9e6J91tP6cDptGDImn) | [Diamond Yukai](https://open.spotify.com/artist/2Xgqw0qSxzLPXOgPg1NEUL) | [Toy Story 4 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eKxK3GqHexeJvi8XLE2xD) | 2:09 | 2022-12-28 |  |

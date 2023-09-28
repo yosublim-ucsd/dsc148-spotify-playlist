@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Roosevelt
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,391 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,466 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [A Different Frame](https://open.spotify.com/track/0pk4GJ9REs9fRFlUweWVgs) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [A Different Frame](https://open.spotify.com/album/1RVocr5uuN4XJW4UjyWBD3) | 3:11 |
 | 75 | [Ether](https://open.spotify.com/track/5IyOYclKa9w9sjEeewNDmu) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Ether](https://open.spotify.com/album/2GA2x8SLtSQLz0GNiK6b5D) | 3:10 |
 
-Snapshot ID: `MCw0NjAxODE4Nzk1MDViZWM2MDQyMjM1YzQzZGM4OTAwYWEyMzliZjhi`
+Snapshot ID: `MCwxNzNkNWY4OTU0NmRhMGU1NDY0NWViNGQ2YWQ2NTk4MTBiODNlYmY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: jev.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,250 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,279 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Fatality](https://open.spotify.com/track/0PN3ehH0hcjSbwCmy5WtWR) | [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH), [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE) | [Fatality](https://open.spotify.com/album/1O2zImTgvxU8lRdkGvcTUi) | 2:15 |
 | 100 | [Let's Slide](https://open.spotify.com/track/1O8OlK7VP4R8LGLFgNlZvm) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Let's Slide](https://open.spotify.com/album/2yTm9rMmF7nklt9MV3rtxK) | 2:24 |
 
-Snapshot ID: `MCxiMWJjOTBjNzZmMTBlM2M4NWE5MDM3NTQ0ZmY4MTYxODU3YTAyYzg5`
+Snapshot ID: `MCxjOWQ1YTEyZDE2ZThiZDBiMWZmZWFiMzE2MTgxYzlmOTFjMDNiYzQx`

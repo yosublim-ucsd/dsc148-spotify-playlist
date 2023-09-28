@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Krusha G y Papi Trujillo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,479 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,501 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 43 | [Mi Cabeza](https://open.spotify.com/track/72wd6LLe5x4KuoEwI8YWu7) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc) | [Mi Cabeza](https://open.spotify.com/album/2JpDPQjUAFrV7BsDQAO3HE) | 3:44 |
 | 44 | [k me la coma todo el tr4p](https://open.spotify.com/track/42TknIixHJVWmsqEqHK7fh) | [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [k me la coma todo el tr4p](https://open.spotify.com/album/7yFHxE9JNqUzDIH2jfuy9D) | 2:37 |
 | 45 | [Neurodanza](https://open.spotify.com/track/2ql58EznF126kY08XSXmuH) | [bbonsai!!!](https://open.spotify.com/artist/5e09T1HPyQw0grmg7BGFwj) | [Neurodanza](https://open.spotify.com/album/6VOUhybtZPaxagtcR8o7mO) | 1:15 |
-| 46 | [Unico en mi especie](https://open.spotify.com/track/0c7xCenpK86VlUUODSqc3i) | [Cray Dalton](https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C) | [Unico en mi especie](https://open.spotify.com/album/1Gq7Lmled3K6Xn9q7uYsy1) | 2:19 |
+| 46 | [Unico en mi especie](https://open.spotify.com/track/6o7WXKdCFKw7S5tDSo9BfU) | [Cray Dalton](https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C) | [Unico en mi especie](https://open.spotify.com/album/60F4vHmBUfofMGM9kzpk3S) | 2:19 |
 | 47 | [CDMX](https://open.spotify.com/track/7xuq3E5t2kJcuAZqkNDOvG) | [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [Trap Ejecutivo](https://open.spotify.com/album/3IUbI0QbFDjBYvo1t4OXqh) | 2:13 |
 | 48 | [No Kiero Correr](https://open.spotify.com/track/3nUHS4e9azCRN7CKcrQjoM) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH) | [No Kiero Correr](https://open.spotify.com/album/6bNzL24Ee3GlL99X4NjNWe) | 3:41 |
 | 49 | [Yeezys](https://open.spotify.com/track/0c4yuYnT4WF3s6p070qBwT) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH) | [Yeezys](https://open.spotify.com/album/5SxZc6xzugd2A0oSqozMWb) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 99 | [Excusa](https://open.spotify.com/track/6Iqbx7Fn7Hnw8iJOEhS9OL) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Excusa](https://open.spotify.com/album/6rDbHMk2z6qW0nskzy7CAC) | 3:16 |
 | 100 | [FERRAGAMO](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FERRAGAMO](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
 
-Snapshot ID: `MCwzNDYwN2IyZGE2Y2UxN2Y0NzAyMjE4YmE4MmI4MDc2MTRjNDRlMWUz`
+Snapshot ID: `MCw4NWM4NjI5ZWMxZDlkMmRjZjdjNjMzNDliYTY0MGZiMzU0MzlkMGQ4`

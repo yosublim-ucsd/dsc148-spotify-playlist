@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Shakira & Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,322 likes - 56 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,529 likes - 56 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 37 | [FATALITY](https://open.spotify.com/track/6SPQL7Kz0hiXyWzaYIw3Ga) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:31 |
 | 38 | [Mi Verdad](https://open.spotify.com/track/51dhwuk3F3fRzILk4y7OTm) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [Mi Verdad](https://open.spotify.com/album/08rPCbAQmG6mtHKyukKO2l) | 3:18 |
 | 39 | [Pay Me](https://open.spotify.com/track/4N5jnDQ8qdpfjSySfyYSL0) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Pay Me](https://open.spotify.com/album/5icLajLMHTL7pdt7FOQTFe) | 3:48 |
-| 40 | [Bellaca](https://open.spotify.com/track/5DotZ4jXrS25ncxCGkXUpF) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Yaissel LM](https://open.spotify.com/artist/19dbIFHTzSP8sGZmoABDrq) | [Bellaca](https://open.spotify.com/album/0C6vFlTZjoQLIOOw5xMDGV) | 2:11 |
+| 40 | [Bellaca](https://open.spotify.com/track/5DotZ4jXrS25ncxCGkXUpF) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Bellaca](https://open.spotify.com/album/0C6vFlTZjoQLIOOw5xMDGV) | 2:11 |
 | 41 | [Confiesa](https://open.spotify.com/track/6Aw0dXegFHBin64r2Vi6UN) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Confiesa](https://open.spotify.com/album/4DujyXRsAweVzAlhcpl7Jd) | 3:01 |
 | 42 | [Lo Que Falta De Mí](https://open.spotify.com/track/3egTDzqctMyQ8VVxNDpycu) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Lo Que Falta De Mí](https://open.spotify.com/album/60wOFQr0bZZjerxuioYEqA) | 3:41 |
 | 43 | [Mandala](https://open.spotify.com/track/3Lebs7ERP0ILzr80u9UReL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Jardín de las Almas](https://open.spotify.com/album/6qNDuK7TXMUK0aTKsyevYT) | 3:44 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 55 | [Esperando por ti](https://open.spotify.com/track/5dyRgwV3k4EJhU42qiKAGr) | [Alcover](https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo) | [Esperando por ti](https://open.spotify.com/album/31E7FllV2lrhSbY2Yfg06v) | 2:39 |
 | 56 | [Lil Shawty](https://open.spotify.com/track/54S2DEOEey8ylkNco8sWRB) | [YUNG BOI](https://open.spotify.com/artist/2IZTXLWKJGbmFiqly8VmvG) | [PLUGGTVLK](https://open.spotify.com/album/2coEPyeo8FulWe2LOp6Aqc) | 2:28 |
 
-Snapshot ID: `MCw5YWUzM2RkNDk1NjU5NWI5YjFjODUxOGNiNmM1MWRhZDg1NTE3NGRj`
+Snapshot ID: `MCxmMDFlNWE3ZWE4NTY3MTUwNjYwY2IxNDc3M2Q1NGRlMjYwZWUxMmVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DANSAR DOM I HIMMELEN??
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,603 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,640 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 |
 | 100 | [Igelkott](https://open.spotify.com/track/6ImJTRiCekTTfVRf5FDmEf) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR) | [Igelkott](https://open.spotify.com/album/7G4DnWKQz9Bc0BqJy3zUAi) | 2:21 |
 
-Snapshot ID: `MCw1OTc4OTA1OTQzYzIyMTI3Zjc1Y2I4NmM0ZjZiMmNlOTczMjczNTRk`
+Snapshot ID: `MCw4NTZhMzM3NGMzY2ZkOWNmMjFkOTFkZWIwMDhiY2UzODhhZTFmOTQx`

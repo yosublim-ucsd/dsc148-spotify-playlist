@@ -1,12 +1,12 @@
 {
   "description": "Estamos listas para un festival \u00fanico. \n",
-  "num_followers": 39188,
+  "num_followers": 39198,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTA2MDMzZjQ3ZjA1ZTU1MjYyYjhlYzM1OGYwNjQ1MDM5NjdjNjRi",
+  "snapshot_id": "MCwwNDZhZGNmNDM1MzdjMjE0NzhjODU0MjllZjlkYjdhNzQ3MjUzMmY1",
   "tracks": [
     {
       "added_at": "2023-09-20 19:09:49",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "La Movidita",
-        "url": "https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP"
-      },
-      "artists": [
-        {
-          "name": "Lia Crucet",
-          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "La G\u00fcera Salome",
-      "url": "https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "Mensajes en el Mar",
         "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 247614,
       "name": "Mensajes en el Mar",
       "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "La Movidita",
+        "url": "https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP"
+      },
+      "artists": [
+        {
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "La G\u00fcera Salome",
+      "url": "https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Lo Que Dicen De Mi",
-        "url": "https://open.spotify.com/album/5jt8WaEAUQAt2X8LmOZMF6"
-      },
-      "artists": [
-        {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
-        }
-      ],
-      "duration_ms": 203100,
-      "name": "Lo Que Dicen De Mi",
-      "url": "https://open.spotify.com/track/1Jydy8O36gvY6yXnjql1XD"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "Autobiograf\u00eda",
         "url": "https://open.spotify.com/album/6B12Cp3PX1iP6E9QUlNkHL"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 202693,
       "name": "Pedro Canoero",
       "url": "https://open.spotify.com/track/2KVgvEa5KCDgHwsPvdElSw"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "Lo Que Dicen De Mi",
+        "url": "https://open.spotify.com/album/5jt8WaEAUQAt2X8LmOZMF6"
+      },
+      "artists": [
+        {
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+        }
+      ],
+      "duration_ms": 203100,
+      "name": "Lo Que Dicen De Mi",
+      "url": "https://open.spotify.com/track/1Jydy8O36gvY6yXnjql1XD"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
+        "name": "R\u00e1pido y Furioso",
+        "url": "https://open.spotify.com/album/5TJxxdS6INtrFWCZY8sKgx"
+      },
+      "artists": [
+        {
+          "name": "Maia Reficco",
+          "url": "https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM"
+        }
+      ],
+      "duration_ms": 153877,
+      "name": "R\u00e1pido y Furioso",
+      "url": "https://open.spotify.com/track/0FTsEdWPw91sgfvuRgXkJr"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
         "name": "No te confundas",
         "url": "https://open.spotify.com/album/6Sp9EMuyxQtWwDri5dRji4"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 198800,
       "name": "Que no se entere",
       "url": "https://open.spotify.com/track/0PtHJn4KCLVoFI5gR4nBRU"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
-        "name": "R\u00e1pido y Furioso",
-        "url": "https://open.spotify.com/album/5TJxxdS6INtrFWCZY8sKgx"
-      },
-      "artists": [
-        {
-          "name": "Maia Reficco",
-          "url": "https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM"
-        }
-      ],
-      "duration_ms": 153877,
-      "name": "R\u00e1pido y Furioso",
-      "url": "https://open.spotify.com/track/0FTsEdWPw91sgfvuRgXkJr"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "La Luna y la Miel",
-        "url": "https://open.spotify.com/album/1fkwPvQLORS4FKvgQZrxyF"
-      },
-      "artists": [
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        }
-      ],
-      "duration_ms": 189889,
-      "name": "La Luna y la Miel",
-      "url": "https://open.spotify.com/track/6uWXPuM88EaoYAImM5hmwo"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "Tiene Que Haber Un Mapa",
         "url": "https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB"
       },
@@ -1283,22 +1267,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Y Segu\u00ed Cantando: Canciones Censuradas E Ineditas",
-        "url": "https://open.spotify.com/album/2r2shJjgCrryoYCQ1GUeNa"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 157066,
-      "name": "Como La Cigarra",
-      "url": "https://open.spotify.com/track/4gZBUGO3IJMvRilvnOxCaK"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "Es Mi Culpa",
         "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
       },
@@ -1315,6 +1283,22 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
+        "name": "La Luna y la Miel",
+        "url": "https://open.spotify.com/album/1fkwPvQLORS4FKvgQZrxyF"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        }
+      ],
+      "duration_ms": 189889,
+      "name": "La Luna y la Miel",
+      "url": "https://open.spotify.com/track/6uWXPuM88EaoYAImM5hmwo"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
         "name": "Confesion del Viento",
         "url": "https://open.spotify.com/album/0TgYYZdef8PHVqbaB8FLKe"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 268538,
       "name": "Oraci\u00f3n Del Remanso",
       "url": "https://open.spotify.com/track/7qzvssyQLOwo1fycCSEQCK"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "Y Segu\u00ed Cantando: Canciones Censuradas E Ineditas",
+        "url": "https://open.spotify.com/album/2r2shJjgCrryoYCQ1GUeNa"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 157066,
+      "name": "Como La Cigarra",
+      "url": "https://open.spotify.com/track/4gZBUGO3IJMvRilvnOxCaK"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Lo Que Tenias Conmigo",
-        "url": "https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 232838,
-      "name": "Lo Que Tenias Conmigo",
-      "url": "https://open.spotify.com/track/5Gxso3frtSCRcmagnnRPM1"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "Adonde No Me Llaman",
         "url": "https://open.spotify.com/album/0BBLEDpkYzFNGt6dYd6iNB"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 256416,
       "name": "Gusto de Vos",
       "url": "https://open.spotify.com/track/0xNGtFaZtXnA3crnTZ78gj"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "Lo Que Tenias Conmigo",
+        "url": "https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 232838,
+      "name": "Lo Que Tenias Conmigo",
+      "url": "https://open.spotify.com/track/5Gxso3frtSCRcmagnnRPM1"
     },
     {
       "added_at": "2023-09-20 19:09:49",

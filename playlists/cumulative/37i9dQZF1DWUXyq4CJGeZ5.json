@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 182550,
       "name": "Ad Libitum",
       "url": "https://open.spotify.com/track/7m5OILw45b30QyaqG8zhic"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 130394,
       "name": "Caprices",
       "url": "https://open.spotify.com/track/4K3o0HPO3OaGKWpR5h16J7"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 134876,
       "name": "Fo\u0301ra",
       "url": "https://open.spotify.com/track/6ZpsiNnK2yPcigPrtScGHG"
@@ -2382,6 +2382,24 @@
       "duration_ms": 124250,
       "name": "Grey Skies Move Slowly",
       "url": "https://open.spotify.com/track/1co2ylVRZ7R4VrFyIzoPZG"
+    },
+    {
+      "album": {
+        "name": "G\u00e5 med meg",
+        "url": "https://open.spotify.com/album/50p6uJ6Kel0ZgJRHizhiTZ"
+      },
+      "artists": [
+        {
+          "name": "Kaja Voll",
+          "url": "https://open.spotify.com/artist/30GIlEJx2Y7KvXfrbwDsK2"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122500,
+      "name": "G\u00e5 med meg",
+      "url": "https://open.spotify.com/track/32FzW47PYuyxvD7cERKKcM"
     },
     {
       "album": {
@@ -3656,7 +3674,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 178000,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/7aKFjNKVGj91rDTijx1IN7"
@@ -3754,6 +3772,24 @@
       "duration_ms": 172750,
       "name": "Litany",
       "url": "https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9"
+    },
+    {
+      "album": {
+        "name": "Little blue girl",
+        "url": "https://open.spotify.com/album/0XGqrSEMHcsJTSuhdn8IbA"
+      },
+      "artists": [
+        {
+          "name": "Luna Bauer",
+          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167647,
+      "name": "Little blue girl",
+      "url": "https://open.spotify.com/track/3pj9S5PnK0mEDIsjuCFr9U"
     },
     {
       "album": {
@@ -5460,7 +5496,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 140000,
       "name": "Respite",
       "url": "https://open.spotify.com/track/2udO9YUSR2cRQNgMyoJEYC"
@@ -5820,7 +5856,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 126000,
       "name": "Sensibilities",
       "url": "https://open.spotify.com/track/2Utg4Imeeq5cI6DQ8AupwV"
@@ -7030,7 +7066,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 188938,
       "name": "Turquoise Move",
       "url": "https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6"
@@ -7390,10 +7426,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 173963,
       "name": "Waltz Of The Swallow",
       "url": "https://open.spotify.com/track/1b4TVciUAU6bAXMNgpgxbf"
+    },
+    {
+      "album": {
+        "name": "Watching North",
+        "url": "https://open.spotify.com/album/5JjqTy2EicAtQbktvJrKXd"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136118,
+      "name": "Watching North",
+      "url": "https://open.spotify.com/track/3Dd5gOKG0iRpbKc7ZMp7rO"
     },
     {
       "album": {
@@ -7462,7 +7516,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 159650,
       "name": "We Persist",
       "url": "https://open.spotify.com/track/5cWCVoVOHjhUNm0I3JE06l"

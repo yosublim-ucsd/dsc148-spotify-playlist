@@ -100,10 +100,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 306573,
       "name": "American Nihilism",
       "url": "https://open.spotify.com/track/2GbjgxScwFSC3sJ9zp4FuF"
+    },
+    {
+      "album": {
+        "name": "High Peaks",
+        "url": "https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt"
+      },
+      "artists": [
+        {
+          "name": "Black Brunswicker",
+          "url": "https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306573,
+      "name": "American Nihilism",
+      "url": "https://open.spotify.com/track/3R3z6Xr0bIk1LHoIb7glKM"
     },
     {
       "album": {
@@ -363,6 +381,24 @@
     },
     {
       "album": {
+        "name": "In The Age of Aristocracy: 2nd Anniversary Extended Edition",
+        "url": "https://open.spotify.com/album/2p0SMYANCPd3P7k01sXboc"
+      },
+      "artists": [
+        {
+          "name": "Black Brunswicker",
+          "url": "https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294175,
+      "name": "Bohemian Paradise",
+      "url": "https://open.spotify.com/track/4nHM6GfKNeSrdvS2GDVJoj"
+    },
+    {
+      "album": {
         "name": "In the Age of Aristocracy",
         "url": "https://open.spotify.com/album/2VyzPKVjOkYIlevXe7midR"
       },
@@ -374,7 +410,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 294175,
       "name": "Bohemian Paradise",
       "url": "https://open.spotify.com/track/76BZeboUrTw8niFWxWET13"
@@ -1328,10 +1364,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 151394,
       "name": "Home Now",
       "url": "https://open.spotify.com/track/2TW2TH4m9gu3HhWMEJOlLW"
+    },
+    {
+      "album": {
+        "name": "High Peaks",
+        "url": "https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt"
+      },
+      "artists": [
+        {
+          "name": "Black Brunswicker",
+          "url": "https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151394,
+      "name": "Home Now",
+      "url": "https://open.spotify.com/track/6ee6pL1zK1Eh6UJVP8isQX"
     },
     {
       "album": {

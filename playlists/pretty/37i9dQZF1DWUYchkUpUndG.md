@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH?si=znlan191RL2odx63CR6OIw">CalledOut Music </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,997 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,035 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Work It Out](https://open.spotify.com/track/5pol8d0lIHv6664Ow4l9XE) | [Chané](https://open.spotify.com/artist/2prZqMnNuyFYxrjIMIUkPE), [Julanie J](https://open.spotify.com/artist/5FWjsO7SEyEQj4pTFUGsUD) | [Work It Out](https://open.spotify.com/album/74aAyivHbswbVLoqBBwpOV) | 3:04 |
 | 100 | [Maombi Ina Lipaka](https://open.spotify.com/track/5nHaTH2TvdZJWjGzu92Bbq) | [Pst Jeremie Safari](https://open.spotify.com/artist/1uCN4qjVUjBFof4Fl6eoE1) | [Maombi Ina Lipaka](https://open.spotify.com/album/46RuxyBgpDRNwzb7HqgcS2) | 4:16 |
 
-Snapshot ID: `MCxkY2QzYzVkMDYxMzJhZDBiOWUyODEwZmMwZTZhY2FjMzNhYjhmNTIz`
+Snapshot ID: `MCxiZmUyOThhMGZkYjMyNzEwOTRiMTRiZWFmZjFiZjM5ZjliYjEwMDY0`

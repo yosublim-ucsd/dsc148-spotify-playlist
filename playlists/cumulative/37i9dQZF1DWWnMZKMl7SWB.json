@@ -13434,7 +13434,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 160610,
       "name": "One",
       "url": "https://open.spotify.com/track/6fUoCQqNPqbHo8ZTpQUqbM"
@@ -16148,6 +16148,24 @@
       "duration_ms": 215084,
       "name": "SDDS",
       "url": "https://open.spotify.com/track/6E12A1iLAqjjOUlEjTY78N"
+    },
+    {
+      "album": {
+        "name": "Sea of Thoughts",
+        "url": "https://open.spotify.com/album/795sBvT2shhNGKZJoEcb6B"
+      },
+      "artists": [
+        {
+          "name": "Soft Vessels",
+          "url": "https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Sea of Thoughts",
+      "url": "https://open.spotify.com/track/22z4OBkJ2VmGA7dSssWsy7"
     },
     {
       "album": {

@@ -1,13 +1,49 @@
 {
   "description": "",
-  "num_followers": 28449,
+  "num_followers": 28454,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzQ5MSwzZDFmMzVmYWQ0ZTQwZDc4ZjM4NWU1MDFhN2Q2NGY1OTI2M2M1NGUz",
+  "snapshot_id": "MzQ5NyxhZjNiMDIwNjk1MTM3ZWQ0NzExOWVmNTAzZjk4NjM3ZTQ4NGE1ODZj",
   "tracks": [
+    {
+      "added_at": "2023-09-27 18:09:47",
+      "album": {
+        "name": "Deadbeat Gospel",
+        "url": "https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "somedeadbeat",
+          "url": "https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6"
+        }
+      ],
+      "duration_ms": 254791,
+      "name": "Deadbeat Gospel",
+      "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
+    },
+    {
+      "added_at": "2023-09-27 18:08:55",
+      "album": {
+        "name": "How Music Makes You Feel Better",
+        "url": "https://open.spotify.com/album/4mUY2PlUa8qducN1OyWu4w"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 283074,
+      "name": "How Music Makes You Feel Better",
+      "url": "https://open.spotify.com/track/2wGoegWa8zTI85Y8kxG3OP"
+    },
     {
       "added_at": "2023-09-26 19:24:10",
       "album": {
@@ -143,38 +179,6 @@
       "duration_ms": 218464,
       "name": "The Low",
       "url": "https://open.spotify.com/track/0VGmel9RQUjYxuqZkeublB"
-    },
-    {
-      "added_at": "2023-09-08 18:35:25",
-      "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/6bbYGbBQJm5XKn85vvt34t"
-      },
-      "artists": [
-        {
-          "name": "GAIKA",
-          "url": "https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd"
-        }
-      ],
-      "duration_ms": 207808,
-      "name": "DRIFT ON",
-      "url": "https://open.spotify.com/track/7e4PQr0twFDRfOpSedfA1L"
-    },
-    {
-      "added_at": "2023-08-29 14:14:33",
-      "album": {
-        "name": "Vajkoczy",
-        "url": "https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 250338,
-      "name": "Vajkoczy",
-      "url": "https://open.spotify.com/track/3KmzZk1OtrY7eNvAliEaiP"
     },
     {
       "added_at": "2023-08-14 14:09:37",

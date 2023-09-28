@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 377077,
+  "num_followers": 377061,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWI5YjY1ZWU3Mjk5ZmRlODEwYTVlNTM4NGUxMTM2Mzg3MTQ4NWYy",
+  "snapshot_id": "MCw5YWNhOTM4YTYwNzk4ZTQ2YjI3OGM5YTI3YzYwZTZmZmE1OTBkNTYx",
   "tracks": [
     {
       "added_at": "2023-09-26 15:00:00",
@@ -191,8 +191,8 @@
     {
       "added_at": "2023-09-26 15:00:00",
       "album": {
-        "name": "GAME",
-        "url": "https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS"
+        "name": "CHAI",
+        "url": "https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds"
       },
       "artists": [
         {
@@ -202,7 +202,7 @@
       ],
       "duration_ms": 154726,
       "name": "NEO KAWAII, K?",
-      "url": "https://open.spotify.com/track/25v5wN1NSE00W1tTH7F1LR"
+      "url": "https://open.spotify.com/track/1XpMbiTtDGFFcA6fyvZm8Y"
     },
     {
       "added_at": "2023-09-26 15:00:00",
@@ -1308,7 +1308,7 @@
       "added_at": "2023-09-26 15:00:00",
       "album": {
         "name": "AROMATIC",
-        "url": "https://open.spotify.com/album/5OMqaGaCzjInevG0ji1kFU"
+        "url": "https://open.spotify.com/album/6pWUe2jfsIGEYnYj6FlBbT"
       },
       "artists": [
         {
@@ -1322,7 +1322,7 @@
       ],
       "duration_ms": 217436,
       "name": "ANY DAY",
-      "url": "https://open.spotify.com/track/5SWEws8tWvOvql08LeJD2G"
+      "url": "https://open.spotify.com/track/7bgTx89SaMVK5ii4nrX8uM"
     },
     {
       "added_at": "2023-09-26 15:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-09-26 15:00:00",
       "album": {
-        "name": "Bee and The Whales",
-        "url": "https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs"
-      },
-      "artists": [
-        {
-          "name": "Galileo Galilei",
-          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
-        }
-      ],
-      "duration_ms": 207624,
-      "name": "\u6b7b\u3093\u3067\u304f\u308c",
-      "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"
-    },
-    {
-      "added_at": "2023-09-26 15:00:00",
-      "album": {
         "name": "We'll be fine (English Version)",
         "url": "https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi"
       },
@@ -1631,18 +1615,34 @@
     {
       "added_at": "2023-09-26 15:00:00",
       "album": {
-        "name": "one call",
-        "url": "https://open.spotify.com/album/6LVVpAPHMnk2EDvKSTWGA1"
+        "name": "Bee and The Whales",
+        "url": "https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs"
       },
       "artists": [
         {
-          "name": "Kaneee",
-          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+          "name": "Galileo Galilei",
+          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
         }
       ],
-      "duration_ms": 114089,
-      "name": "one call",
-      "url": "https://open.spotify.com/track/2ATQ3KHJowOqBzF6AiI67b"
+      "duration_ms": 207624,
+      "name": "\u6b7b\u3093\u3067\u304f\u308c",
+      "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"
+    },
+    {
+      "added_at": "2023-09-26 15:00:00",
+      "album": {
+        "name": "Pacific Line",
+        "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
+      },
+      "artists": [
+        {
+          "name": "Kidella",
+          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
+        }
+      ],
+      "duration_ms": 251922,
+      "name": "Pacific Line",
+      "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
     },
     {
       "added_at": "2023-09-26 15:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-09-26 15:00:00",
       "album": {
-        "name": "Pacific Line",
-        "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
+        "name": "one call",
+        "url": "https://open.spotify.com/album/6LVVpAPHMnk2EDvKSTWGA1"
       },
       "artists": [
         {
-          "name": "Kidella",
-          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
         }
       ],
-      "duration_ms": 251922,
-      "name": "Pacific Line",
-      "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
+      "duration_ms": 114089,
+      "name": "one call",
+      "url": "https://open.spotify.com/track/2ATQ3KHJowOqBzF6AiI67b"
     },
     {
       "added_at": "2023-09-26 15:00:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-09-26 15:00:00",
       "album": {
-        "name": "Booorn!!",
-        "url": "https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3"
+        "name": "Unmellow",
+        "url": "https://open.spotify.com/album/3BaxIQ05k9jCiYsks7kLqZ"
       },
       "artists": [
         {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
         }
       ],
-      "duration_ms": 222857,
-      "name": "Booorn!!",
-      "url": "https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R"
+      "duration_ms": 157924,
+      "name": "Unmellow",
+      "url": "https://open.spotify.com/track/0QBMxVVIXqVNp2Yce45nBQ"
     }
   ],
   "unique_name": "Tokyo Rising",

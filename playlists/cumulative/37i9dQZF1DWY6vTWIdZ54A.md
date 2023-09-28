@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-292 songs - 17 hr 8 min
+293 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [How You Like Me Now](https://open.spotify.com/track/7D180Q77XAEP7atBLmMTgK) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [The House That Dirt Built](https://open.spotify.com/album/0sKcuounq52lm9hmFwEZN5) | 3:37 | 2022-06-17 | 2022-08-27 |
 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 | 2020-12-11 |  |
 | [I Can't Hear You](https://open.spotify.com/track/3O1rkVw6tpDizXzHqMZfh5) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Sea of Cowards](https://open.spotify.com/album/5QaEJj1wEqIePsjVtMzReu) | 3:35 | 2020-12-11 | 2023-09-19 |
+| [I Can't Hear You](https://open.spotify.com/track/3W6bchE2NDsXdyfbhkHjjB) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Sea of Cowards](https://open.spotify.com/album/77B6oHxsalO8agATK8uGN0) | 3:35 | 2023-09-22 |  |
 | [I'm A King Bee](https://open.spotify.com/track/01RPOnIW38TuFv0CvHdVmz) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [I'm A King Bee](https://open.spotify.com/album/57q06NuEHVw0MAqZT3hEUV) | 3:19 | 2022-06-17 |  |
 | [I'm A King Bee](https://open.spotify.com/track/14vst2Dkr7OkYyzf1fftLu) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [I'm A King Bee](https://open.spotify.com/album/7Ih57vkBvpgCoL0Rd5Eq7q) | 3:19 | 2020-12-11 | 2022-07-29 |
 | [I'm America](https://open.spotify.com/track/5HYEjfX8h3F82Qyb96PXg8) | [Cilver](https://open.spotify.com/artist/5fpD3Iuy3RvPzcbWiekX7h) | [I'm America](https://open.spotify.com/album/7fbGdV2SozDKmWAAmSY3fo) | 3:42 | 2020-12-11 | 2022-07-12 |
@@ -230,7 +231,7 @@
 | [Skinny](https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Skinny](https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ) | 3:42 | 2021-04-01 |  |
 | [Sleeping with Lions](https://open.spotify.com/track/13gax9oQUwc13mshdh7C2j) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Sleeping with Lions](https://open.spotify.com/album/4OfZqfbLLs8gIPraaraSoH) | 3:19 | 2020-12-11 | 2023-06-10 |
 | [Soul Machine](https://open.spotify.com/track/30LW1jD84CVqmsR9tQQVnd) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Kentucky \(Deluxe Edition\)](https://open.spotify.com/album/6u0wKwjtR1sMN96z5aRfZ8) | 4:01 | 2020-12-11 | 2022-07-29 |
-| [Soul Machine](https://open.spotify.com/track/6VhKqO2krkpQ9TEJSpZlbG) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Kentucky \(Deluxe Edition\)](https://open.spotify.com/album/70l38e3JDxBKLO2Jo0LgEp) | 4:01 | 2022-06-17 |  |
+| [Soul Machine](https://open.spotify.com/track/6VhKqO2krkpQ9TEJSpZlbG) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Kentucky \(Deluxe Edition\)](https://open.spotify.com/album/70l38e3JDxBKLO2Jo0LgEp) | 4:01 | 2022-06-17 | 2023-09-28 |
 | [Speed Queen](https://open.spotify.com/track/5Lfl6K7BM3h4kDuytUMXZQ) | [Thunderpussy](https://open.spotify.com/artist/5wa2uCAfwySNkiWLr2xg3a) | [Speed Queen](https://open.spotify.com/album/2OugcYCB82CUMAfhZy5yP3) | 4:07 | 2020-12-11 | 2022-07-29 |
 | [Speed Queen](https://open.spotify.com/track/2zKi6xzM7MmdFg9JIltwu7) | [Thunderpussy](https://open.spotify.com/artist/5wa2uCAfwySNkiWLr2xg3a) | [Thunderpussy](https://open.spotify.com/album/12LmAapv86eYJGDSy43NOG) | 4:08 | 2022-06-17 | 2023-06-10 |
 | [Speed Queen](https://open.spotify.com/track/5GOYrAcAoEg8xJ4qVLzQao) | [Thunderpussy](https://open.spotify.com/artist/5wa2uCAfwySNkiWLr2xg3a) | [Thunderpussy](https://open.spotify.com/album/3qhtjP2PJB8JyuMZK1hvbp) | 4:08 | 2022-10-07 | 2022-11-13 |

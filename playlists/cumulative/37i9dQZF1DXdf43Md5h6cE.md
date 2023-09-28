@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-181 songs - 11 hr 45 min
+184 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A New Dawn](https://open.spotify.com/track/11N9Vx2jRgBwGZ4d34YteA) | [Origin ST](https://open.spotify.com/artist/03YMunHBU0yB0WIGH6RGE9) | [A New Dawn](https://open.spotify.com/album/2kMgRY4bKThFnvSIQdKzKn) | 2:40 | 2022-05-19 |  |
 | [A Pale Shelter](https://open.spotify.com/track/7hY7SElaTapgwcvFo2LR4i) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr), [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Ossa](https://open.spotify.com/artist/6UDMoQbqPXHUXfLRN6aXrc), [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [A Pale Shelter](https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B) | 4:32 | 2022-05-19 |  |
 | [Abrazo 2020](https://open.spotify.com/track/1r4aHCgkZhCuy91UmoVuVI) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 1:22 | 2022-05-19 |  |
-| [American Nihilism](https://open.spotify.com/track/2GbjgxScwFSC3sJ9zp4FuF) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 5:06 | 2022-05-19 |  |
+| [American Nihilism](https://open.spotify.com/track/2GbjgxScwFSC3sJ9zp4FuF) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 5:06 | 2022-05-19 | 2023-09-28 |
+| [American Nihilism](https://open.spotify.com/track/3R3z6Xr0bIk1LHoIb7glKM) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt) | 5:06 | 2023-09-19 |  |
 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 | 2022-05-19 | 2023-06-24 |
 | [An Ocean of Minutes](https://open.spotify.com/track/22xJTmYWqQqrNTVpGfMu76) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Futures](https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t) | 4:15 | 2022-05-19 | 2022-11-23 |
 | [Anteclock](https://open.spotify.com/track/1dtbIk3KUoFAiLzmPPtKN8) | [The Lifted Index](https://open.spotify.com/artist/5cEokn0XL4pw2riljXpJnj) | [Hosts Of Living Forms](https://open.spotify.com/album/3x9Ivzw0nJQ0COOFGqkfVH) | 7:27 | 2022-05-19 |  |
@@ -27,7 +28,8 @@
 | [Beauty](https://open.spotify.com/track/4sTJvOr6fwdXXQebRajeWl) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 1:58 | 2022-05-19 |  |
 | [Behind the Waterfall](https://open.spotify.com/track/4bqyQQx0Ezeun0Eem2OqlI) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Behind the Waterfall](https://open.spotify.com/album/3QH8aE7f8JB0nU8YrK5Bz8) | 2:49 | 2022-08-11 |  |
 | [Blis](https://open.spotify.com/track/7pVau53NvKbQ02gKoDgxJi) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U), [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [Naer](https://open.spotify.com/album/46gUlev9vSy4mLtR9Ec5Vl) | 3:30 | 2022-10-14 |  |
-| [Bohemian Paradise](https://open.spotify.com/track/76BZeboUrTw8niFWxWET13) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristocracy](https://open.spotify.com/album/2VyzPKVjOkYIlevXe7midR) | 4:54 | 2022-05-19 |  |
+| [Bohemian Paradise](https://open.spotify.com/track/4nHM6GfKNeSrdvS2GDVJoj) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In The Age of Aristocracy: 2nd Anniversary Extended Edition](https://open.spotify.com/album/2p0SMYANCPd3P7k01sXboc) | 4:54 | 2023-09-19 |  |
+| [Bohemian Paradise](https://open.spotify.com/track/76BZeboUrTw8niFWxWET13) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristocracy](https://open.spotify.com/album/2VyzPKVjOkYIlevXe7midR) | 4:54 | 2022-05-19 | 2023-09-28 |
 | [Break The Cycle](https://open.spotify.com/track/5dUpUWlBPGIydeG9Ew0fQa) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 4:46 | 2022-05-19 |  |
 | [Calming Measures](https://open.spotify.com/track/3e1oAxlPBpRF2LQSF7ZkhQ) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Calming Measures](https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8) | 3:18 | 2023-09-19 |  |
 | [Celestial Orbit](https://open.spotify.com/track/7leBQCu78Elq3ersWc8HWE) | [Yuio Zah](https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf) | [Intergalactic](https://open.spotify.com/album/2KnSiN6Iqp0CIdsMHu9L4P) | 3:00 | 2023-09-19 |  |
@@ -78,7 +80,8 @@
 | [Healing Waves](https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Healing Waves](https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD) | 2:41 | 2023-09-19 |  |
 | [Heavenly Harps](https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:04 | 2022-05-19 |  |
 | [Hiraeth](https://open.spotify.com/track/6Zv0JYbFJhOG0thnaGBIGW) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Painted Illusions](https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS) | 3:00 | 2023-09-19 |  |
-| [Home Now](https://open.spotify.com/track/2TW2TH4m9gu3HhWMEJOlLW) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 2:31 | 2022-05-19 |  |
+| [Home Now](https://open.spotify.com/track/2TW2TH4m9gu3HhWMEJOlLW) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 2:31 | 2022-05-19 | 2023-09-28 |
+| [Home Now](https://open.spotify.com/track/6ee6pL1zK1Eh6UJVP8isQX) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt) | 2:31 | 2023-09-19 |  |
 | [hope to see you again \(Slowed + Reverb\)](https://open.spotify.com/track/5OaCjFudicwBTOmRzzlrMG) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [hope to see you again \(Remixes\)](https://open.spotify.com/album/68tmCCN2uuu3M79UrPfaj8) | 2:42 | 2023-05-26 |  |
 | [Horizon](https://open.spotify.com/track/5WgwDJDSy2nxuV3iHlMXS4) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Compassberg](https://open.spotify.com/album/3r8FRtio1GfcpTW70YDt97) | 4:05 | 2022-05-19 |  |
 | [Huma](https://open.spotify.com/track/4sUDVt3gP4omAmrt6UzI4g) | [Soothing Dreamscapes](https://open.spotify.com/artist/2E7ynirvqKf8ZF7ATxFkTG) | [Freya](https://open.spotify.com/album/5HmDv1SzlqZzy4hE22Oycs) | 2:24 | 2023-08-18 |  |

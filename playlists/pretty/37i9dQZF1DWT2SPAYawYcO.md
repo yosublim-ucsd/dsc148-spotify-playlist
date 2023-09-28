@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,350 likes - 83 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,392 likes - 83 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 82 | [Safe Forever](https://open.spotify.com/track/0bJjmBXXf2610nAjRQGHwc) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Safe Forever](https://open.spotify.com/album/2lu3Z6ZZ3gms0kf1IvWYM3) | 4:17 |
 | 83 | [RUSH OF ADRENALINE](https://open.spotify.com/track/5rEoBScdfgC3uARpgA6Ppp) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [PU$$Y](https://open.spotify.com/album/3fdjotd2Jlz5UI3H5nQb2o) | 3:20 |
 
-Snapshot ID: `MCwxMDM0ZGRkN2ViZjAxNDY5ZmU5Yzg5ZTI3OGNmMjE5ZTE0OTczY2M5`
+Snapshot ID: `MCxiZTVhOGYwODc2YmY3YTdlYWYyZjJmYjJiYWMwMDJkZjc3ZWY3MTAw`

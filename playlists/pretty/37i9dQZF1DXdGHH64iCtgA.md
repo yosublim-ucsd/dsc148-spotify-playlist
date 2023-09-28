@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut down Etro's SS24 Runway for Milan Fashion Week, Soundtrack by Creative Director, Marco De Vincenzo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,397 likes - 62 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,595 likes - 62 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 23 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 |
 | 24 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
 | 25 | [Deadly Valentine](https://open.spotify.com/track/0pfTlQJBOV4LUmF8qqrVy5) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Rest](https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX) | 6:04 |
-| 26 | [Pang](https://open.spotify.com/track/5bcJwBywjaz78KTf374PCb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:33 |
-| 27 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 |
+| 26 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 |
+| 27 | [Pang](https://open.spotify.com/track/5bcJwBywjaz78KTf374PCb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:33 |
 | 28 | [Me in 20 Years](https://open.spotify.com/track/3LuaxVf1C3jAJO6kzQgbIg) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 3:40 |
 | 29 | [Eyes Without a Face](https://open.spotify.com/track/04YObtYkElo3sNcr9hUe1w) | [Marsheaux](https://open.spotify.com/artist/71kSWeYFioviuty6e3aj5k) | [E\-Bay Queen Is Dead](https://open.spotify.com/album/78xdXx85GxYUezK9kGO3yd) | 4:46 |
 | 30 | [Of My Mind](https://open.spotify.com/track/5PRdzrncmga9ieUFVrlE41) | [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [When Love Hurts](https://open.spotify.com/album/4Lz3mEQUvEls8T1YqtGqCP) | 4:12 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 48 | [Cuidado, Peligro, Eclipse](https://open.spotify.com/track/2niXWS7JOhbUm5oI2awwYE) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Cardan](https://open.spotify.com/album/3X7EL2ektk2cUqmXBwIQGO) | 5:59 |
 | 49 | [Distance](https://open.spotify.com/track/63UOCLFLRT2fA31DH1JOx3) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn), [Dylan Nichols](https://open.spotify.com/artist/3cwpNYqw8DgNLvMp97Q18u) | [Gaspard va au mariage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1234JRNDutF84RmOBE1cLS) | 5:28 |
 | 50 | [Entertnmnt](https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Entertnmnt](https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU) | 3:14 |
-| 51 | [Moon](https://open.spotify.com/track/6HH5YsdUL9p3EpPpHAjIHK) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Moon](https://open.spotify.com/album/09ocYTOuaUDAhwshSAYILr) | 4:41 |
-| 52 | [Lucid](https://open.spotify.com/track/0ATFMjLib1XaK01KibIyLj) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Kelly Lee Owens](https://open.spotify.com/album/0aol42apbylFf2POjiAOeP) | 3:32 |
+| 51 | [Lucid](https://open.spotify.com/track/0ATFMjLib1XaK01KibIyLj) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Kelly Lee Owens](https://open.spotify.com/album/0aol42apbylFf2POjiAOeP) | 3:32 |
+| 52 | [Moon](https://open.spotify.com/track/6HH5YsdUL9p3EpPpHAjIHK) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Moon](https://open.spotify.com/album/09ocYTOuaUDAhwshSAYILr) | 4:41 |
 | 53 | [For You](https://open.spotify.com/track/0kVrNcwLbPFYoPCHSLDc7M) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [&](https://open.spotify.com/album/0NkBeWqvEa5VnniPUCk4UW) | 4:26 |
 | 54 | [Come Down To Us](https://open.spotify.com/track/24mRY501qetRyl5wtLVP87) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Tunes 2011\-2019](https://open.spotify.com/album/4X4cmhqFm50dk6LyTtLuv6) | 13:07 |
 | 55 | [1,618](https://open.spotify.com/track/5LH6z8sYZ6gQ4xOxSWwvvy) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy) | [Charlotte Adigéry](https://open.spotify.com/album/5essRp10ttUIJXwlwNcGNH) | 5:58 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 57 | [Adieu Au Dancefloor](https://open.spotify.com/track/23bfFo3YUywjPKONLr2GN1) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Adieux Au Dancefloor](https://open.spotify.com/album/6mdIs3bkdfUTmRdkFEmQMc) | 5:58 |
 | 58 | [Shadows](https://open.spotify.com/track/7mW8ul2VqE6O9oBSuaxnlf) | [Au Revoir Simone](https://open.spotify.com/artist/0X0TajZO1RmY3D8u1JymYq) | [Still Night, Still Light](https://open.spotify.com/album/6meVSNjMZXTYr19bNtSYK8) | 4:02 |
 | 59 | [Fresh Faced](https://open.spotify.com/track/2cr4hBM1L966JNlaNdkpRL) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Circles](https://open.spotify.com/album/2q78xap5Jv3j3Do0VIasVZ) | 4:42 |
-| 60 | [Omnion \(feat\. Sharon Van Etten\)](https://open.spotify.com/track/3Hs30mGDpRG1uqkTYjSEJ8) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Omnion](https://open.spotify.com/album/0dhWdoFP6zgSavj2jcNCr3) | 4:54 |
-| 61 | [Utopia \- Sunroof Mix](https://open.spotify.com/track/5Pirg3m910jqAZOHIcAiVn) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS), [Sunroof](https://open.spotify.com/artist/0xQXMzZ4TFP23eJjBWdR9w) | [Utopia](https://open.spotify.com/album/0b7kSCIX3vzGQSekOQKpOC) | 7:37 |
+| 60 | [Utopia \- Sunroof Mix](https://open.spotify.com/track/5Pirg3m910jqAZOHIcAiVn) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS), [Sunroof](https://open.spotify.com/artist/0xQXMzZ4TFP23eJjBWdR9w) | [Utopia](https://open.spotify.com/album/0b7kSCIX3vzGQSekOQKpOC) | 7:37 |
+| 61 | [Omnion \(feat\. Sharon Van Etten\)](https://open.spotify.com/track/3Hs30mGDpRG1uqkTYjSEJ8) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Omnion](https://open.spotify.com/album/0dhWdoFP6zgSavj2jcNCr3) | 4:54 |
 | 62 | [Cu cu rru cu cu' paloma](https://open.spotify.com/track/08xzqLZV31VvaixcqZxzZa) | [Patrizia Laquidara](https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9) | [Indirizzo portoghese \(15TH anniversary edition\)](https://open.spotify.com/album/278MQ4EIMVpnB2QlmQrFEX) | 3:45 |
 
-Snapshot ID: `MCw5ZWQ4NTkzZWNiMDNmYWI2YzE2ZWYzNmYxMjU2ZGZmNjdkNjA2NzE1`
+Snapshot ID: `MCw3NWMzZjFjN2FjNmE1ZTFkMDUxYjg5OWE5MDA2NjJiY2IzMDVlNGM0`

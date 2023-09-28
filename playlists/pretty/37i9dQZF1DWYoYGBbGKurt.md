@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,681 likes - 391 songs - 14 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,775 likes - 391 songs - 14 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -400,4 +400,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 390 | [Swimming with You](https://open.spotify.com/track/0heL4m1abtT1Srd0cKT5JM) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Dance Closer](https://open.spotify.com/album/1QskRHXavrB690pfv3hg5L) | 2:55 |
 | 391 | [Dreams Of The Broken](https://open.spotify.com/track/3Mt7n41cPt3oRsG9tp26LD) | [Broken Embrace](https://open.spotify.com/artist/5xJZJn5NZIKZ6A25TwDQu8) | [Dreams Of The Broken](https://open.spotify.com/album/71nnTtdqPoBvXzderwdhc3) | 1:57 |
 
-Snapshot ID: `MCw4MDVmZjg2Mjg2MmFhMWE3MmJjM2JkNzI2ZTBkMTUxY2E2ZjhmOGIx`
+Snapshot ID: `MCxjODkwZGNmNzQxOGFjYWI5YTA3ODM4YjllMzYzMzdkZTQwY2RiMWM4`

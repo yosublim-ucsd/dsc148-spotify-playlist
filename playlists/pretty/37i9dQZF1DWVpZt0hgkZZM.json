@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 23237,
+  "num_followers": 23274,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWI4MDZmOWY0NjJjYzQzNTQ4OThmODU4YTM4NTU0MjkzZTQ5MGVi",
+  "snapshot_id": "MCxhMTBmNjU3Y2UyMDQxMjI3MWFiNjJiNmQ1NGI2NzM4MDM4YmJjNzY2",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -967,18 +967,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "30 Mejores: El Combo de las Estrellas",
-        "url": "https://open.spotify.com/album/1z7GXxwkXxAlJz1m6Rh14v"
+        "name": "Latin Vallenatos",
+        "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
       },
       "artists": [
         {
-          "name": "El Combo De Las Estrellas",
-          "url": "https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN"
+          "name": "Vallenatos Nativos",
+          "url": "https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok"
         }
       ],
-      "duration_ms": 237586,
-      "name": "En Silencio Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/0j4yCgCJGgVZFayuTDfmO4"
+      "duration_ms": 214840,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Latin Vallenatos",
-        "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
+        "name": "30 Mejores: El Combo de las Estrellas",
+        "url": "https://open.spotify.com/album/1z7GXxwkXxAlJz1m6Rh14v"
       },
       "artists": [
         {
-          "name": "Vallenatos Nativos",
-          "url": "https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok"
+          "name": "El Combo De Las Estrellas",
+          "url": "https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN"
         }
       ],
-      "duration_ms": 214840,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx"
+      "duration_ms": 237586,
+      "name": "En Silencio Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/0j4yCgCJGgVZFayuTDfmO4"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1651,18 +1651,26 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Cumbias, Cumbias",
-        "url": "https://open.spotify.com/album/4IGwcswnHXPJ3b85cYEYhA"
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
       "artists": [
         {
-          "name": "Los Warahuaco",
-          "url": "https://open.spotify.com/artist/06phV7fzCjfgTxdJ9MQeSQ"
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        },
+        {
+          "name": "Rochy",
+          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+        },
+        {
+          "name": "David",
+          "url": "https://open.spotify.com/artist/5XfK5zmN6FEyhMgpRIPrtw"
         }
       ],
-      "duration_ms": 174733,
-      "name": "El Pescador de Bar\u00fa",
-      "url": "https://open.spotify.com/track/7pjSbRfTwv6sk8lHCWquZI"
+      "duration_ms": 204288,
+      "name": "Cachete, Pechito y Ombligo",
+      "url": "https://open.spotify.com/track/4sZEqIf2LO003CBxxbBV51"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1703,26 +1711,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+        "name": "Cumbias, Cumbias",
+        "url": "https://open.spotify.com/album/4IGwcswnHXPJ3b85cYEYhA"
       },
       "artists": [
         {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        },
-        {
-          "name": "Rochy",
-          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
-        },
-        {
-          "name": "David",
-          "url": "https://open.spotify.com/artist/5XfK5zmN6FEyhMgpRIPrtw"
+          "name": "Los Warahuaco",
+          "url": "https://open.spotify.com/artist/06phV7fzCjfgTxdJ9MQeSQ"
         }
       ],
-      "duration_ms": 204288,
-      "name": "Cachete, Pechito y Ombligo",
-      "url": "https://open.spotify.com/track/4sZEqIf2LO003CBxxbBV51"
+      "duration_ms": 174733,
+      "name": "El Pescador de Bar\u00fa",
+      "url": "https://open.spotify.com/track/7pjSbRfTwv6sk8lHCWquZI"
     }
   ],
   "unique_name": "\u00c9xitos de Balneario",

@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 237220,
       "name": "2\u4eba\u306f\u98db\u3073\u964d\u308a\u305f",
       "url": "https://open.spotify.com/track/0pFQvJ2re0mMT5DF8o2gjE"
@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Bokushika Shiranai",
+        "url": "https://open.spotify.com/album/0BWxrCZbuUpQHGW9URPFdi"
+      },
+      "artists": [
+        {
+          "name": "Nerd Magnet",
+          "url": "https://open.spotify.com/artist/5GMWMP2vINSe4wq4mS5xle"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214382,
+      "name": "Bokushika Shiranai",
+      "url": "https://open.spotify.com/track/1ldYh94lEkyY2CEfWkpcKT"
+    },
+    {
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/2TS85JeTN0ufeIKtMDzYtW"
       },
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 206275,
       "name": "BOSSA TIME",
       "url": "https://open.spotify.com/track/006WrHfwZ3cgSthmExQDZu"
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 104231,
       "name": "botto\u2167",
       "url": "https://open.spotify.com/track/0CMxmQmnMhPGLUu0yW2Ooo"
@@ -3425,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "Futari Wa Tobiorita",
+        "url": "https://open.spotify.com/album/5XKVLxolj7tjWXgD1HgBr5"
+      },
+      "artists": [
+        {
+          "name": "SUBARASHIKA",
+          "url": "https://open.spotify.com/artist/6aNahzVflJNhU49Ttmvsq5"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237220,
+      "name": "Futari Wa Tobiorita",
+      "url": "https://open.spotify.com/track/2hNl4RZC4tyQ8x0BhBjOuy"
+    },
+    {
+      "album": {
         "name": "GAME",
         "url": "https://open.spotify.com/album/00tN5W3sO93jZSqpLywQBs"
       },
@@ -3534,7 +3570,7 @@
     {
       "album": {
         "name": "Gene",
-        "url": "https://open.spotify.com/album/4gc5c2BtolLfv1Fii7cIZf"
+        "url": "https://open.spotify.com/album/7MKF8cJtx42bxaFcEe0MI8"
       },
       "artists": [
         {
@@ -3545,6 +3581,24 @@
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199834,
+      "name": "Gene",
+      "url": "https://open.spotify.com/track/0Gh6U25xKdfiiPzNzAwsBM"
+    },
+    {
+      "album": {
+        "name": "Gene",
+        "url": "https://open.spotify.com/album/4gc5c2BtolLfv1Fii7cIZf"
+      },
+      "artists": [
+        {
+          "name": "Stone Flower Blooms",
+          "url": "https://open.spotify.com/artist/4xrufp4lvhwz4DwmPNUICF"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-28",
       "duration_ms": 199834,
       "name": "Gene",
       "url": "https://open.spotify.com/track/1lx8OEz37PCZmcOkSYDbNV"
@@ -4124,7 +4178,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 221728,
       "name": "honomekashi",
       "url": "https://open.spotify.com/track/0OymTpnvzQNQ4EpHs7gZrg"
@@ -11160,7 +11214,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 276588,
       "name": "\u304a\u3082\u3044\u3064\u304f\u304b\u304e\u308a\u306e\u3059\u3079\u3066",
       "url": "https://open.spotify.com/track/01EbADTLRUtT9qvfmSXxan"
@@ -13298,7 +13352,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 214382,
       "name": "\u50d5\u3057\u304b\u77e5\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/5bO0x5yT69HKIDVekQWUVV"

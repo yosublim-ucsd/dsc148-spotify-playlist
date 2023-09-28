@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Mohini Dey Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Sean Mason Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/6OpeLdxPD4fajLdDEBvT7o"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251302,
+      "name": "An Occasional Man",
+      "url": "https://open.spotify.com/track/3uF4zyJGxehSCtCH85sGXk"
+    },
+    {
+      "album": {
         "name": "An Open Mind (Transition)",
         "url": "https://open.spotify.com/album/7BOC8LZiUtLWtFZJRM9B3i"
       },
@@ -2274,7 +2292,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 367836,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/4Bl5RKvk1sjDTo2nZLrk8O"
@@ -6473,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "EJS",
+        "url": "https://open.spotify.com/album/6o9Ad7lUqLKGXgM4DLck42"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133259,
+      "name": "EJS",
+      "url": "https://open.spotify.com/track/0DfgW4Z7XprHeaUiam9xU3"
+    },
+    {
+      "album": {
         "name": "Ekpe",
         "url": "https://open.spotify.com/album/0usrQ7vfZfSvavgB5Kryj3"
       },
@@ -6600,7 +6636,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 201801,
       "name": "Elisir",
       "url": "https://open.spotify.com/track/6tagbIoTWyXwbHXd1i25Iv"
@@ -8894,7 +8930,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 342654,
       "name": "Have You Seen This Queen",
       "url": "https://open.spotify.com/track/0iYMXQSe4SsPqIcnM7hVYl"
@@ -9712,7 +9748,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 148106,
       "name": "I'm Scanning Things I Can't See",
       "url": "https://open.spotify.com/track/6PFMHtcCD9l1O7PVUvxRn5"
@@ -11238,6 +11274,40 @@
       "duration_ms": 339026,
       "name": "Kallio",
       "url": "https://open.spotify.com/track/1IkYEuDcR2XcuT80vEx6aq"
+    },
+    {
+      "album": {
+        "name": "Kambo Wambo",
+        "url": "https://open.spotify.com/album/4KFbzh1OIqNXur6SL7v2oI"
+      },
+      "artists": [
+        {
+          "name": "RAAR Trio",
+          "url": "https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl"
+        },
+        {
+          "name": "Ari Joshua",
+          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
+        },
+        {
+          "name": "Raymond Paczkowski",
+          "url": "https://open.spotify.com/artist/4qUkl3o89oPUOpFxm3NPDg"
+        },
+        {
+          "name": "Russell Lawton",
+          "url": "https://open.spotify.com/artist/1yb00XX9NeNeVGXrOUQZP8"
+        },
+        {
+          "name": "Soule Monde",
+          "url": "https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 623800,
+      "name": "Kambo Wambo",
+      "url": "https://open.spotify.com/track/33qt6xKsNhmssVVn43jmLC"
     },
     {
       "album": {
@@ -13058,6 +13128,36 @@
       "duration_ms": 376346,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/6XwOgNjyADq78kAl19qZC9"
+    },
+    {
+      "album": {
+        "name": "Manzanas",
+        "url": "https://open.spotify.com/album/7JgjRPr2CGJiuv8lhf4PVP"
+      },
+      "artists": [
+        {
+          "name": "Alex Hamberger",
+          "url": "https://open.spotify.com/artist/2dpPtuKuDckMttXUIT7ChB"
+        },
+        {
+          "name": "Efajemue",
+          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
+        },
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "Monica Valli",
+          "url": "https://open.spotify.com/artist/4OAlMIpSOtS2YRNxrkKVV9"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274931,
+      "name": "Manzanas",
+      "url": "https://open.spotify.com/track/2NL9BEaJHYJ6jwFOWTJrd3"
     },
     {
       "album": {
@@ -15496,7 +15596,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 174597,
       "name": "ON THAT SIDE - Live",
       "url": "https://open.spotify.com/track/54moRd4yBbYOmXeoY75G6b"
@@ -16060,7 +16160,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 381586,
       "name": "Paradiso",
       "url": "https://open.spotify.com/track/0ESyJO8ZJLJ8ruHj2Rx0KU"
@@ -16264,7 +16364,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 206382,
       "name": "Peach",
       "url": "https://open.spotify.com/track/1RpPfo58S3aT99FQMAs7MY"
@@ -16785,6 +16885,24 @@
     },
     {
       "album": {
+        "name": "Cinematic Chromatics Vol. I",
+        "url": "https://open.spotify.com/album/3yVLJzIPeXDArX0ik2pTBz"
+      },
+      "artists": [
+        {
+          "name": "Nick Marks",
+          "url": "https://open.spotify.com/artist/24oDE0vaH0JH83VNAQ7pGL"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299186,
+      "name": "Prelude/Arc of Light",
+      "url": "https://open.spotify.com/track/3ZXjdWUWr2gGIdaLSLx7ol"
+    },
+    {
+      "album": {
         "name": "Press Start",
         "url": "https://open.spotify.com/album/5zbognXVIVPduH2tHKw40s"
       },
@@ -17089,6 +17207,24 @@
     },
     {
       "album": {
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/6A6pwhm7bP7dtxpChK7TTZ"
+      },
+      "artists": [
+        {
+          "name": "Mama Terra",
+          "url": "https://open.spotify.com/artist/6lQtoDntLVJ1I5naPmQ0L1"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289161,
+      "name": "Radio Silence - Single Edit",
+      "url": "https://open.spotify.com/track/66zcmYfefNDpZE1RQul6Fd"
+    },
+    {
+      "album": {
         "name": "RagJazz",
         "url": "https://open.spotify.com/album/3zxutQ3DFl5sBX7sxI2nVZ"
       },
@@ -17180,7 +17316,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 123653,
       "name": "Raised by Conservatives",
       "url": "https://open.spotify.com/track/0n4yQY4XrRjVTlus30ev9c"
@@ -19038,7 +19174,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 247013,
       "name": "Slope",
       "url": "https://open.spotify.com/track/164UZH66VfrBcjgL375gPX"
@@ -20133,6 +20269,24 @@
     },
     {
       "album": {
+        "name": "Stracciatella",
+        "url": "https://open.spotify.com/album/5VnN7h8lOdpM9W1dUJiNb7"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249624,
+      "name": "Stracciatella",
+      "url": "https://open.spotify.com/track/6XQ5WKyNSxMXoLFB7kmgSA"
+    },
+    {
+      "album": {
         "name": "Strange Weather (Full Version)",
         "url": "https://open.spotify.com/album/5xlMOO8ZkIri6RbB41OgHe"
       },
@@ -20536,6 +20690,24 @@
       "duration_ms": 235890,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/6oBzaAZWEktygoxfPiOx0O"
+    },
+    {
+      "album": {
+        "name": "Ruins Everything",
+        "url": "https://open.spotify.com/album/3N7WvZ8Fp9THeqMTXW0xdg"
+      },
+      "artists": [
+        {
+          "name": "Snazzback",
+          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155333,
+      "name": "Superstar Fish Bar",
+      "url": "https://open.spotify.com/track/6oYOlXxEjFuA6j7oObInS9"
     },
     {
       "album": {
@@ -22907,6 +23079,24 @@
     },
     {
       "album": {
+        "name": "Transporter",
+        "url": "https://open.spotify.com/album/09HngDzsZe65srNA7niD9M"
+      },
+      "artists": [
+        {
+          "name": "Ryosuke Kojima",
+          "url": "https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Transporter",
+      "url": "https://open.spotify.com/track/7EAsB0WBKYzE6Hgmc5VXng"
+    },
+    {
+      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/5AAb2Ggk8How7c0Ye83dGp"
       },
@@ -25175,6 +25365,56 @@
     },
     {
       "album": {
+        "name": "Everything's for the Best",
+        "url": "https://open.spotify.com/album/6pJmIR4LFwrePj48aNeywV"
+      },
+      "artists": [
+        {
+          "name": "Yonathan Peled",
+          "url": "https://open.spotify.com/artist/5aOqFbXWVmJJQjoywyoVPm"
+        },
+        {
+          "name": "Tane",
+          "url": "https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3"
+        },
+        {
+          "name": "Nir Graff",
+          "url": "https://open.spotify.com/artist/7AAtjmLp6V9B9n752RfHVy"
+        },
+        {
+          "name": "Alexander Levin",
+          "url": "https://open.spotify.com/artist/0XuYksdjvEh9OsDBom0aYF"
+        },
+        {
+          "name": "Yonatan Guedj",
+          "url": "https://open.spotify.com/artist/2c4yFOgWAYPmSuqVwsC1jU"
+        },
+        {
+          "name": "Edo Gur",
+          "url": "https://open.spotify.com/artist/5KIYYHBo5UOij3asGZTSaq"
+        },
+        {
+          "name": "Elam Friedlander",
+          "url": "https://open.spotify.com/artist/2xkreqd0bbiy0ryD6FEvTW"
+        },
+        {
+          "name": "Julia Chen",
+          "url": "https://open.spotify.com/artist/4mBy4DFLjnTpGdXSf6R1mY"
+        },
+        {
+          "name": "Eviatar Slivnik",
+          "url": "https://open.spotify.com/artist/5bsXTqFoTwEE2cNBMwkOtJ"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308418,
+      "name": "Yeah Yeah Yeah",
+      "url": "https://open.spotify.com/track/02TOC91ymQxVeLhXHKAGEE"
+    },
+    {
+      "album": {
         "name": "Yep",
         "url": "https://open.spotify.com/album/1MlvBAyVBick54RiNWjdwT"
       },
@@ -25516,7 +25756,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 443666,
       "name": "Zenna",
       "url": "https://open.spotify.com/track/3SzVPug79tufstgxOYG5Bp"

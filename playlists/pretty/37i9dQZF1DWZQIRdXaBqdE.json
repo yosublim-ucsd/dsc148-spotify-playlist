@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 381324,
+  "num_followers": 381483,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWVkODY1YWY3OThkMzQ5YzNjZjk1YzMxZTUwYWY0YjVlYTA4ODhl",
+  "snapshot_id": "MCxiNmZjYTFmNTU2YWY4NzQ3NzYyZTQwODJjNzlmMDI1ZmI1MTJlNGZj",
   "tracks": [
     {
       "added_at": "2023-08-21 00:02:44",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "I'm Countryfied",
-        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
-      },
-      "artists": [
-        {
-          "name": "Mel McDaniel",
-          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Louisiana Saturday Night",
-      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Gunfighter Ballads And Trail Songs",
         "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 235733,
       "name": "Big Iron",
       "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "I'm Countryfied",
+        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
+      },
+      "artists": [
+        {
+          "name": "Mel McDaniel",
+          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "Louisiana Saturday Night",
+      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Rose Colored Glasses",
-        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
-      },
-      "artists": [
-        {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Rose Colored Glasses",
-      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 174666,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
+      },
+      "artists": [
+        {
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "You're The One",
-        "url": "https://open.spotify.com/album/4q0ML8wcGoyyMl3hOOACtJ"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Y'all Come Back Saloon",
-      "url": "https://open.spotify.com/track/790HdFZdub1eobl2iLzcem"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Out Of Hand",
         "url": "https://open.spotify.com/album/4vslpYaKUd2FnMGkZcq7vK"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 168120,
       "name": "She's Actin' Single (I'm Drinkin' Doubles)",
       "url": "https://open.spotify.com/track/7dZgDd8LYriRdR2kDSQjxx"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "You're The One",
+        "url": "https://open.spotify.com/album/4q0ML8wcGoyyMl3hOOACtJ"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Y'all Come Back Saloon",
+      "url": "https://open.spotify.com/track/790HdFZdub1eobl2iLzcem"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Chiseled In Stone",
-        "url": "https://open.spotify.com/album/5uiVA8AloRMncawS0H1cJP"
-      },
-      "artists": [
-        {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Set 'Em Up Joe",
-      "url": "https://open.spotify.com/track/3NK1S43wIXbYhWHCjQOrnM"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "RCA Country Legends: Don Gibson",
         "url": "https://open.spotify.com/album/4SWOxLi7nLs2Gjyv22q5As"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 155040,
       "name": "Sea of Heartbreak",
       "url": "https://open.spotify.com/track/0xERMvJD8djz1ZBjPSRLvM"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Chiseled In Stone",
+        "url": "https://open.spotify.com/album/5uiVA8AloRMncawS0H1cJP"
+      },
+      "artists": [
+        {
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Set 'Em Up Joe",
+      "url": "https://open.spotify.com/track/3NK1S43wIXbYhWHCjQOrnM"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Just Good Ol' Boys",
-        "url": "https://open.spotify.com/album/4Dimc7g8uaqY3EMKwMgDbx"
-      },
-      "artists": [
-        {
-          "name": "Moe Bandy",
-          "url": "https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz"
-        },
-        {
-          "name": "Joe Stampley",
-          "url": "https://open.spotify.com/artist/0bRY1ri3TKSfD5BRU8CvaJ"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "Just Good Ol' Boys",
-      "url": "https://open.spotify.com/track/3rvNZziNdig7Z0ePbB365e"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Get Rhythm / I Walk the Line",
         "url": "https://open.spotify.com/album/1ybcnccmuEwjwx9Y8NzvRH"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 163045,
       "name": "I Walk The Line - Single Version",
       "url": "https://open.spotify.com/track/0e1mMD6Pkn7zd9mhCQnrsY"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Just Good Ol' Boys",
+        "url": "https://open.spotify.com/album/4Dimc7g8uaqY3EMKwMgDbx"
+      },
+      "artists": [
+        {
+          "name": "Moe Bandy",
+          "url": "https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz"
+        },
+        {
+          "name": "Joe Stampley",
+          "url": "https://open.spotify.com/artist/0bRY1ri3TKSfD5BRU8CvaJ"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "Just Good Ol' Boys",
+      "url": "https://open.spotify.com/track/3rvNZziNdig7Z0ePbB365e"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "David Allan Coe - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/6tRSJPPrWs1hqOkllIJK9M"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "500 Miles Away From Home",
         "url": "https://open.spotify.com/album/06zl9w7hWWtjxFt76bMZEE"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 162560,
       "name": "500 Miles Away from Home",
       "url": "https://open.spotify.com/track/44AauRai27QWKEx4dKn0oU"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "David Allan Coe - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/6tRSJPPrWs1hqOkllIJK9M"
     }
   ],
   "unique_name": "Classic Country Drive",

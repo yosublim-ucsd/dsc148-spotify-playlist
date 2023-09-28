@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Morganne",
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Michael Gerow",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -410,6 +410,24 @@
       "duration_ms": 219115,
       "name": "2008",
       "url": "https://open.spotify.com/track/1xMSQSqL4VJSjPpGBo7r9w"
+    },
+    {
+      "album": {
+        "name": "2009",
+        "url": "https://open.spotify.com/album/5W8wvoLa3IJiAa4wvbFoYe"
+      },
+      "artists": [
+        {
+          "name": "Livia O",
+          "url": "https://open.spotify.com/artist/0DJDFfRvWrXgjbFn0Wl0CG"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219891,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/0PAgdg0v7LSjinrubTDsjp"
     },
     {
       "album": {
@@ -2748,6 +2766,24 @@
       "duration_ms": 296931,
       "name": "and you know it",
       "url": "https://open.spotify.com/track/4WBFHs6kG5qEknnpz3B8KJ"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1LpGadE3RF8aYWz06Ij9Lm"
+      },
+      "artists": [
+        {
+          "name": "India Thieriot",
+          "url": "https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216153,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3NQ3PPFELKvDRafbIrqMj9"
     },
     {
       "album": {
@@ -5278,6 +5314,24 @@
     {
       "album": {
         "name": "Between The Lines",
+        "url": "https://open.spotify.com/album/3fCkMihwoQJsCmuiOzCeRa"
+      },
+      "artists": [
+        {
+          "name": "Michael Gerow",
+          "url": "https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136077,
+      "name": "Between The Lines",
+      "url": "https://open.spotify.com/track/78buF26zokb7wFmxzK8P7J"
+    },
+    {
+      "album": {
+        "name": "Between The Lines",
         "url": "https://open.spotify.com/album/4SGn2OkOQyeHI73obluwZv"
       },
       "artists": [
@@ -6392,6 +6446,24 @@
       "duration_ms": 192500,
       "name": "body like gossip",
       "url": "https://open.spotify.com/track/422wpciRSX4nENEb1iaMwl"
+    },
+    {
+      "album": {
+        "name": "bololo",
+        "url": "https://open.spotify.com/album/3jEztz5q2762faS73uQ0HE"
+      },
+      "artists": [
+        {
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "bololo",
+      "url": "https://open.spotify.com/track/1TSOc20wZ3hNZQaj1qH6Bg"
     },
     {
       "album": {
@@ -16807,6 +16879,24 @@
     },
     {
       "album": {
+        "name": "Felt Right",
+        "url": "https://open.spotify.com/album/0izNemQs7pECoJYbAOTAta"
+      },
+      "artists": [
+        {
+          "name": "Savannah Bleu",
+          "url": "https://open.spotify.com/artist/0aMRKrBdQ372cexSXGl4Wv"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171768,
+      "name": "Felt Right",
+      "url": "https://open.spotify.com/track/7JEjkRI7uJAqMFv4618HHh"
+    },
+    {
+      "album": {
         "name": "Femme Fatale",
         "url": "https://open.spotify.com/album/2OCNR0NhVlsbjBY30l2PFj"
       },
@@ -20660,7 +20750,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 168236,
       "name": "h4msterb0y",
       "url": "https://open.spotify.com/track/6KGPqS4xegcAszjtMF40ra"
@@ -21472,6 +21562,24 @@
       "duration_ms": 162140,
       "name": "Heartbreak Hall Of Fame",
       "url": "https://open.spotify.com/track/1umzFJ7Z8wkYIL0IZTL0wo"
+    },
+    {
+      "album": {
+        "name": "HEARTBREAK ON ANTIDEPRESSANTS",
+        "url": "https://open.spotify.com/album/25GJThOpJF9irGYwIFNdgW"
+      },
+      "artists": [
+        {
+          "name": "DONT MAKE THIS WEIRD",
+          "url": "https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181733,
+      "name": "HEARTBREAK ON ANTIDEPRESSANTS",
+      "url": "https://open.spotify.com/track/73Ftztx5R2t7VI9X0BabGq"
     },
     {
       "album": {
@@ -27126,6 +27234,28 @@
       "duration_ms": 179461,
       "name": "It's Only Love",
       "url": "https://open.spotify.com/track/6a2q2pREr1Noz10UFD3kDB"
+    },
+    {
+      "album": {
+        "name": "ITS OVER (feat. Yoshi T.)",
+        "url": "https://open.spotify.com/album/4nd4X77W8pMymN3P9UkYZP"
+      },
+      "artists": [
+        {
+          "name": "Jackson August",
+          "url": "https://open.spotify.com/artist/1fEYP7fDawtTMpV3IHzZRN"
+        },
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "ITS OVER (feat. Yoshi T.)",
+      "url": "https://open.spotify.com/track/5sIPhxUbunhlJtp8jbqoTw"
     },
     {
       "album": {
@@ -39751,6 +39881,24 @@
     },
     {
       "album": {
+        "name": "Polite",
+        "url": "https://open.spotify.com/album/3kS9OA29PAdFlwhOLOS2KU"
+      },
+      "artists": [
+        {
+          "name": "JADE RICH",
+          "url": "https://open.spotify.com/artist/2fMcXdY556OEgI31kIwebi"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184142,
+      "name": "Polite",
+      "url": "https://open.spotify.com/track/78mbjJFBbWZKoNdz1Ty2Ev"
+    },
+    {
+      "album": {
         "name": "Pool House",
         "url": "https://open.spotify.com/album/6Hf3eiLMrAPoMFnYeCjWvX"
       },
@@ -44593,6 +44741,24 @@
     },
     {
       "album": {
+        "name": "Sick Kisses",
+        "url": "https://open.spotify.com/album/2uyHyfER1KDOzu2j9C4eJe"
+      },
+      "artists": [
+        {
+          "name": "Liam Barrack",
+          "url": "https://open.spotify.com/artist/6J3nuRRUXPFTFGcWcOJvtG"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213622,
+      "name": "Sick Kisses",
+      "url": "https://open.spotify.com/track/7qpWRfeB4KVRFA0UyjJcdF"
+    },
+    {
+      "album": {
         "name": "Sick of Me",
         "url": "https://open.spotify.com/album/5af5mMb9yceMDcLXJWF6pZ"
       },
@@ -47258,7 +47424,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 186551,
       "name": "Stop Thinking About It",
       "url": "https://open.spotify.com/track/6Pmg5MkcA6xc4tuUKGLgB6"
@@ -47634,6 +47800,24 @@
       "duration_ms": 219429,
       "name": "Stuck on This Feeling",
       "url": "https://open.spotify.com/track/5s5BEpAPFlizcrs7HfA5cK"
+    },
+    {
+      "album": {
+        "name": "Stupid Little Party Girl",
+        "url": "https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw"
+      },
+      "artists": [
+        {
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179936,
+      "name": "Stupid Little Party Girl",
+      "url": "https://open.spotify.com/track/3ko7LAcX9crKSenQCDPrmk"
     },
     {
       "album": {
@@ -54133,6 +54317,24 @@
     },
     {
       "album": {
+        "name": "Wait Up",
+        "url": "https://open.spotify.com/album/4owm0U3LAo5y1sCun9lyXV"
+      },
+      "artists": [
+        {
+          "name": "Becky Sikasa",
+          "url": "https://open.spotify.com/artist/3UqXMAMPI53itEWm6SMaBZ"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175699,
+      "name": "Wait Up",
+      "url": "https://open.spotify.com/track/6zniefLYl8sGh6TY0rDbID"
+    },
+    {
+      "album": {
         "name": "Wait!",
         "url": "https://open.spotify.com/album/4oTli4DB95xLEXEFRQvWGU"
       },
@@ -56416,7 +56618,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 178588,
       "name": "Window Shopping",
       "url": "https://open.spotify.com/track/63QD2rWbjJjwU9PK1YBOAd"
@@ -57642,7 +57844,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 152293,
       "name": "You're a Lot",
       "url": "https://open.spotify.com/track/7p1yFJ7tvOE8pwCbIB1ggu"
@@ -57848,6 +58050,24 @@
       "duration_ms": 118733,
       "name": "Your New Girlfriend",
       "url": "https://open.spotify.com/track/11PtLWTILZ7htNJd6hwSI2"
+    },
+    {
+      "album": {
+        "name": "your person",
+        "url": "https://open.spotify.com/album/1Ces5YhJPOOgDJA24KIahz"
+      },
+      "artists": [
+        {
+          "name": "Jake Clark",
+          "url": "https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201762,
+      "name": "your person",
+      "url": "https://open.spotify.com/track/0f9wp0OIGLlCfyEdAlS2wv"
     },
     {
       "album": {

@@ -1532,7 +1532,7 @@
     {
       "album": {
         "name": "PLAYDEAD",
-        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
       },
       "artists": [
         {
@@ -1543,6 +1543,24 @@
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 120985,
+      "name": "PLAYDEAD",
+      "url": "https://open.spotify.com/track/1c4hhwfHiqpjYXDO9tLXOf"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-28",
       "duration_ms": 120985,
       "name": "PLAYDEAD",
       "url": "https://open.spotify.com/track/6xI23gJ23oTq2EAwjE3gjb"
@@ -1922,7 +1940,7 @@
     {
       "album": {
         "name": "PLAYDEAD",
-        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
       },
       "artists": [
         {
@@ -1933,6 +1951,24 @@
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 210945,
+      "name": "SWEET DREAMS",
+      "url": "https://open.spotify.com/track/2nWm1F041PLDHAFcKTiuf1"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-28",
       "duration_ms": 210945,
       "name": "SWEET DREAMS",
       "url": "https://open.spotify.com/track/65at5xnnXAoWMeF7i0xKaZ"
@@ -2164,7 +2200,7 @@
     {
       "album": {
         "name": "PLAYDEAD",
-        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
       },
       "artists": [
         {
@@ -2175,6 +2211,24 @@
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 271265,
+      "name": "UNDER THE TREE - Full Length Ver.",
+      "url": "https://open.spotify.com/track/5B9gDlmcZZZamZ53hUeMlf"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-28",
       "duration_ms": 271265,
       "name": "UNDER THE TREE - Full Length Ver.",
       "url": "https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq"

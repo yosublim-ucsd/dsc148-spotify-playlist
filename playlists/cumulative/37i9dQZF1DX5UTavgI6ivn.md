@@ -4,7 +4,7 @@
 
 > ¡Con sabor y perrenque, aquí está lo mejor de "la tierra de los mil ritmos"! En portada: Shakira\. \#DiaDeShakira
 
-238 songs - 13 hr 36 min
+239 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/6lV9cTvioGWqRXSgfjAUGL) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [The Love & Sex Tape](https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh) | 4:12 | 2022-08-11 |  |
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-28 |  |
 | [Morado](https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Morado](https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd) | 3:20 | 2022-01-12 |  |
-| [Más De Ti](https://open.spotify.com/track/4svaGEtJdr5gdhBvdIkGaL) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Más De Ti](https://open.spotify.com/album/2CN1yjEVnshrIJ2lKHIWMn) | 3:10 | 2022-01-12 |  |
+| [Más De Ti](https://open.spotify.com/track/4svaGEtJdr5gdhBvdIkGaL) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Más De Ti](https://open.spotify.com/album/2CN1yjEVnshrIJ2lKHIWMn) | 3:10 | 2022-01-12 | 2023-09-28 |
 | [Más Fuerte](https://open.spotify.com/track/6YTPmCXUmnOAkgnWbzZn8i) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Oye Mamacita](https://open.spotify.com/album/6qd4Or6TmcTZbLrrNILQji) | 3:04 | 2022-11-11 | 2022-11-14 |
 | [Más Fuerte](https://open.spotify.com/track/10ei7ybZQsu9Zc7RfZFe2Q) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Más Fuerte](https://open.spotify.com/album/6Mi5kUMAmTgjQVaOuji9Qd) | 3:04 | 2022-01-12 | 2022-07-29 |
 | [Más Fuerte](https://open.spotify.com/track/6PLihys6LLwbCI9GRByWZ0) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:04 | 2022-07-08 |  |
@@ -171,6 +171,7 @@
 | [Pendejada feat\. Mabiland](https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:27 | 2022-08-11 | 2022-10-29 |
 | [Perro Come Perro](https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Perro Come Perro](https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A) | 3:17 | 2022-05-28 | 2022-10-12 |
 | [Persona Favorita](https://open.spotify.com/track/4vzTSRapnXGGZUoxsiCtL3) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Persona Favorita](https://open.spotify.com/album/00cy9kHF15QYiSfD6Eyo5v) | 4:00 | 2022-10-28 | 2022-11-19 |
+| [Pies Descalzos, Sueños Blancos](https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:25 | 2023-09-27 |  |
 | [Por Hacerme el Bueno](https://open.spotify.com/track/5kTBmo3zNcnlm6saZRFrHR) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Por Hacerme el Bueno](https://open.spotify.com/album/3M97oXb58OyZJrO8PdWaLp) | 4:12 | 2022-01-12 | 2022-07-29 |
 | [Por Hacerme el Bueno](https://open.spotify.com/track/1iEIQ69PuAM76GCBT9HCek) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [¿Dónde Nos Quedamos?](https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx) | 4:12 | 2022-07-08 |  |
 | [Por Pura Curiosidad](https://open.spotify.com/track/1kLTaKK1qbtGuxggUtz8iz) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Por Pura Curiosidad](https://open.spotify.com/album/2gw6EVoQ8B0kK8Fsr6Cshn) | 3:23 | 2022-01-12 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Gato e’ Monte.
 
-462 songs - 1 day 4 hr 6 min
+463 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Quien lo diría](https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp) | 4:35 | 2022-07-22 |  |
 | [Quiero y duelo](https://open.spotify.com/track/4zGE9bLIHl1LpnaLpi6RUp) | [Karmento](https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF) | [Quiero y duelo](https://open.spotify.com/album/1gWUpDkJV4XIrd5Xm0FvjW) | 2:36 | 2022-12-23 | 2023-02-25 |
 | [Quietud](https://open.spotify.com/track/0akgM4a7uiPyuOaUcPvX90) | [Anna Andreu](https://open.spotify.com/artist/6q1LUKfe8RVjcHUoTSZ7Jy), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Pol Batlle](https://open.spotify.com/artist/7DIjIDnFSYofxjb1ARdOM5) | [Quietud](https://open.spotify.com/album/0htvDhfnlEHorNRhOB12mv) | 2:54 | 2023-03-29 | 2023-05-20 |
+| [Quién da Más?](https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw) | [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Quién da Más?](https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk) | 4:32 | 2023-09-15 |  |
 | [Quién Podrá Saberlo](https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tempo](https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6) | 2:43 | 2021-12-24 | 2023-05-30 |
 | [Qué No Daría](https://open.spotify.com/track/5fm1c7CIUStSiYlvvCuShh) | [Inés Manzano](https://open.spotify.com/artist/0s8H7Mk8puRPuQ2t4nNbHZ) | [Qué No Daría](https://open.spotify.com/album/333NXErtJaPn6bfj7mVMQs) | 4:13 | 2022-04-01 | 2022-04-09 |
 | [Rara Bien](https://open.spotify.com/track/4lSs7nqYqxXjWiiNehh3Ji) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [Directo en Sdma](https://open.spotify.com/album/3ijnQ2WzCxPQoj0fPUHsaZ) | 5:36 | 2021-12-24 | 2022-03-22 |
@@ -399,7 +400,7 @@
 | [Sombra y Animal](https://open.spotify.com/track/72sE2B7RTlaaK5KNLxyszg) | [Berenice](https://open.spotify.com/artist/4dwFB84QoBGv2MBRiUwXEc), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [NIDO](https://open.spotify.com/album/0nTAz6Yf3GC3c9erViwPG4) | 4:47 | 2023-06-16 | 2023-07-01 |
 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 | 2023-06-16 |  |
 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 | 2023-03-25 | 2023-05-13 |
-| [Tabaibas](https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Tabaibas](https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3) | 3:52 | 2021-12-24 |  |
+| [Tabaibas](https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Tabaibas](https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3) | 3:52 | 2021-12-24 | 2023-09-28 |
 | [tal vez, no sé](https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj) | [Poli Sallustro](https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [tal vez, no sé](https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla) | 3:44 | 2023-06-30 |  |
 | [Tanananá](https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tanananá](https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2) | 4:05 | 2021-12-24 | 2022-07-29 |
 | [Te Guardo](https://open.spotify.com/track/6PoJEvRLkC2sD3cp7yGNHq) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Te Guardo](https://open.spotify.com/album/1as7SecZgCXjJQL92pZBmA) | 3:22 | 2021-12-24 | 2022-05-14 |

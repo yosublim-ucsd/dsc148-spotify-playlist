@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vfyCK7WsXnVeItNwuiFFR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,5 +28,15 @@ pretty - [cumulative](/playlists/cumulative/2vfyCK7WsXnVeItNwuiFFR.md) - [plain]
 | 18 | [Daniel](https://open.spotify.com/track/6ewPNRMyIV475LyLARjQjM) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Mala](https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca) | 3:05 |
 | 19 | [First Born](https://open.spotify.com/track/0pv2WnmVU5uZsyPSGMz8Oo) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Vacilando Territory Blues](https://open.spotify.com/album/1t93vXf4ua26qPxp4Msik3) | 3:29 |
 | 20 | [Daddy's Little Girl](https://open.spotify.com/track/3DFRNxC3kROOKNT18i15Br) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Hits Collection 1950](https://open.spotify.com/album/7GJLy632Hq1obJWb0SCZNu) | 2:55 |
+| 21 | [Our First Born](https://open.spotify.com/track/2ivb7FUrnoArK0v1JvqwYA) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Senior](https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR) | 4:15 |
+| 22 | [For My Daughter](https://open.spotify.com/track/7pGLavUHD7BZaQ9rAvFJLT) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Crystal](https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA) | 3:34 |
+| 23 | [Born To Love](https://open.spotify.com/track/1B5JLFTP2IqHO5RbZgu9bJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [First Love \- 50 Hits](https://open.spotify.com/album/723W2Fu9VEqlF8dVhREBl2) | 2:38 |
+| 24 | [Father and Daughter](https://open.spotify.com/track/6PQqTPQ63mMf7jg0jb407d) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:10 |
+| 25 | [Little Girl Blue](https://open.spotify.com/track/0cK82o50GO2XpyvaglBBWc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone \- The Very Best Of](https://open.spotify.com/album/2HwQNLQBZNvOf55mJeKDvC) | 4:19 |
+| 26 | [This Little Girl of Mine](https://open.spotify.com/track/1lHnGHEMoV31piUsLyM3mn) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Genius, Vol\. 2](https://open.spotify.com/album/3h9CC5eXsKd3Q2ym9upTVn) | 2:36 |
+| 27 | [Baby Girl](https://open.spotify.com/track/7KSKBd07ewDUmjVng2WaMb) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [Playtime Is Over](https://open.spotify.com/album/1Bzb6tlpnxrEwajQDM361B) | 2:42 |
+| 28 | [Baby](https://open.spotify.com/track/0iTrbNlIQj7Kfk1ytfMopY) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume 3](https://open.spotify.com/album/30W17Ol4QWQpvID7OCQUpQ) | 3:15 |
+| 29 | [Daddy's Baby Girl](https://open.spotify.com/track/4lQ1ntNKWgDWK5YLcdGBM0) | [Jimmy Needham](https://open.spotify.com/artist/4yMGs8CtlMVF7RV2XU539m) | [Clear the Stage](https://open.spotify.com/album/1OXysRz4yKWPjeZFrAkOAe) | 3:06 |
+| 30 | [Baby Baby Baby](https://open.spotify.com/track/1Ut95lm6Ydl5cxN1ExamOi) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Complete 1950's Masters \- Johnny Mathis](https://open.spotify.com/album/2kA1tewN9dZxnniJ3x5NG7) | 3:05 |
 
 Snapshot ID: `NjQsMmJmY2Y5YTE1NDljNzEzNjc4OThlNDdiZDUzYTE4M2QxMjViODIzNw==`

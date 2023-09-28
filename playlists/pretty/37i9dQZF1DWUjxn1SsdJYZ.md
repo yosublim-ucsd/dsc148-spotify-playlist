@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: ENZO
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,692 likes - 93 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,723 likes - 93 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 83 | [Let It Go](https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Let It Go](https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ) | 2:43 |
 | 84 | [Blacked Out Tint](https://open.spotify.com/track/24rcytWl0Fq9CmC9QU2Hns) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej) | [Blacked Out Tint](https://open.spotify.com/album/4QPr1TkGC7FLVK03uyTzQG) | 2:35 |
 | 85 | [DOIN' TOO MUCH \(Freestyle\)](https://open.spotify.com/track/2zCTJlAIXiDiB01a8PcBKa) | [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [DOIN' TOO MUCH \(Freestyle\)](https://open.spotify.com/album/50kEkiD0YoK6VquXWX5LZX) | 1:31 |
-| 86 | [Jordan 1s](https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Jordan 1s](https://open.spotify.com/album/6wWL8dHpzUOG6pR01OQmpy) | 3:09 |
+| 86 | [Jordan 1s](https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Jordan 1s](https://open.spotify.com/album/6wWL8dHpzUOG6pR01OQmpy) | 3:09 |
 | 87 | [High Life](https://open.spotify.com/track/2KDA7EmO98XoRZFEw0ZDTQ) | [Orkestrated](https://open.spotify.com/artist/52VqIv9iDcmGRrg9tzsEF0), [Tom Clayton](https://open.spotify.com/artist/57JW1usfadyCzhhGkmCW8a), [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [High Life](https://open.spotify.com/album/2S99wygdhCL9HZm4iNSDqN) | 2:56 |
 | 88 | [Times Up](https://open.spotify.com/track/0mcN2AnotLaWI373LrZvfC) | [Tokyo Vendetta](https://open.spotify.com/artist/0qYhGiA7BARkaoJbklqLG7) | [Times Up](https://open.spotify.com/album/2h804f1HxwtNXklW5KiEWG) | 2:22 |
 | 89 | [Down Under](https://open.spotify.com/track/3HaKlD9R8q4KNoIAGuXMwT) | [Lavez](https://open.spotify.com/artist/34XFmmLOHraER0bnb7APK2) | [Down Under](https://open.spotify.com/album/2zKedbS0oV2u8Yl3uOCruF) | 2:30 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 92 | [KEEP IT SIMPLE STUPID.](https://open.spotify.com/track/73cpGMjBQ72ZTKWR5HKFJN) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [KEEP IT SIMPLE STUPID.](https://open.spotify.com/album/60rjnM5uwVnhfmnssO5GwY) | 2:28 |
 | 93 | [MR LUCKY](https://open.spotify.com/track/3QyF6ighoWEbCubJ4E0TuM) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [MR LUCKY](https://open.spotify.com/album/7M51f0iWJMOsBYWShOVYkb) | 2:38 |
 
-Snapshot ID: `MCw2NmIzYWU0ZGU1MGJmNTBmMGNkZjQ4M2U1ODEzMTdiZjdmYzdhNzdm`
+Snapshot ID: `MCwyNDFkYTY3ODk4NWYwZmZkM2EyMzIzZmVkYTNjZjFmZmU2YWIwZDI1`

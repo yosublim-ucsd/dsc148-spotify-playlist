@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Bleachers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,286,206 likes - 145 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,286,283 likes - 145 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 47 | [Easy Thing](https://open.spotify.com/track/3UgSN3Sk0Bj1EdschiKTRB) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Easy Thing](https://open.spotify.com/album/1IMObMG6eLRwu6ZVTkACWa) | 2:43 |
 | 48 | [Safe House](https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Safe House](https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL) | 3:37 |
 | 49 | [Seriously, Goodluck With That](https://open.spotify.com/track/4GuGH9ty89UAljxqjxJU4H) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Seriously, Goodluck With That](https://open.spotify.com/album/72vFcIJ5QGoRZTjOlx2WYV) | 3:29 |
-| 50 | [Is There Nightlife After Death?](https://open.spotify.com/track/1hPRiRIEeYpjIa8VFLpRab) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd) | [World of Hassle](https://open.spotify.com/album/06Zp2J6vjuVSOKHtFcFtJ0) | 3:14 |
+| 50 | [Is There Nightlife After Death?](https://open.spotify.com/track/1hPRiRIEeYpjIa8VFLpRab) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [World of Hassle](https://open.spotify.com/album/06Zp2J6vjuVSOKHtFcFtJ0) | 3:14 |
 | 51 | [Shove](https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Shove](https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb) | 2:39 |
 | 52 | [inversion](https://open.spotify.com/track/6UNsBsXdkvZ6aJVbVdT6c8) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [inversion](https://open.spotify.com/album/1IEhT01YnqPKYMLmNzY9aj) | 2:19 |
-| 53 | [Nothing Works](https://open.spotify.com/track/14PqPtYLsUuFaqp6c4urHN) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Nothing Works](https://open.spotify.com/album/6LkILMcjrr8n9WBKVpCLz5) | 4:12 |
+| 53 | [Nothing Works](https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Nothing Works](https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR) | 4:12 |
 | 54 | [Bad Joke](https://open.spotify.com/track/1uAdlow4ZhOSQYNFQw7GOw) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [Bad Joke](https://open.spotify.com/album/31ceqD4m45Pk4AKR3tbYC4) | 1:45 |
 | 55 | [problems \(feat\. Trippie Redd\)](https://open.spotify.com/track/6KpF6zZId94bNg4zoz5mIa) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [problems \(feat\. Trippie Redd\)](https://open.spotify.com/album/79lTZVUHdaqLkj814XzZxw) | 2:32 |
 | 56 | [money body](https://open.spotify.com/track/7bGez9GvqOQa1DGzylJSAE) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [money body](https://open.spotify.com/album/7dEyLHxFvzCOIax3k4IYU9) | 3:22 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 144 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 |
 | 145 | [Why You?](https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Why You?](https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq) | 2:40 |
 
-Snapshot ID: `MCxkY2UyZmY4YWQwODBjOWZiOTJmM2I0MmJkODEzYmE4MzM0NzdhNTMx`
+Snapshot ID: `MCxhNjhmYTVkZTJhMGViNWIzNWI2YWZiMzYzMjA0ODVjODA4OGQxM2Qx`

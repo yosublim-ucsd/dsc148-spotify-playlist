@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Arthurzin, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,621 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,625 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 3 | [DESCONSIDERA](https://open.spotify.com/track/06W0pTzzF4h3F710ktH8vi) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [OgEMr](https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ) | 3:02 |
 | 4 | [Medusa](https://open.spotify.com/track/0mrusE9UV5gG7gbiqUoyT4) | [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs) | [Medusa](https://open.spotify.com/album/7hYFNvh1zfJHUH2ITl329H) | 3:05 |
 | 5 | [Manga Rosa](https://open.spotify.com/track/1ebggv45NciH0NoULmBVQC) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Manga Rosa](https://open.spotify.com/album/2G7cF9AfONIGOsOus4TawG) | 2:13 |
-| 6 | [Love, Death + Robots](https://open.spotify.com/track/4BMLSNPIHdj2fYZrQAuXOU) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Fragmentado](https://open.spotify.com/album/5HlHiAusgy78Kaywnlmtqu) | 2:36 |
+| 6 | [Love, Death + Robots](https://open.spotify.com/track/4uPodG2bz6bbipLSkFKwQZ) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Fragmentado](https://open.spotify.com/album/68Tgc6yABJipkYkoDjnt5P) | 2:36 |
 | 7 | [GEMINIANA](https://open.spotify.com/track/2wyFw9zIMvm86zFqC9IAHl) | [Txéllo](https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU), [Two Records](https://open.spotify.com/artist/4SfxAv3Xdu1gD1HBs6BYSn) | [GEMINIANA](https://open.spotify.com/album/1V3NL0ZzXRXle86DaoKHrH) | 2:26 |
 | 8 | [Fases da Vida](https://open.spotify.com/track/7wVfxMleDc8z52sT0ZX2Uf) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD) | [Fases da Vida](https://open.spotify.com/album/4S9O0HX42wSVc8GwMHUz0S) | 2:49 |
 | 9 | [PERSONNALITE](https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [PERSONNALITE](https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Estava Escrito](https://open.spotify.com/track/60pyQknGXQnrnLX1rIHN7r) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Estava Escrito](https://open.spotify.com/album/0Iu4OkL8Y9AThCe1TIykmt) | 2:50 |
 | 75 | [Perfume Mais Caro](https://open.spotify.com/track/4thX4lgktnjxkHTniznxK8) | [DjMenorRB](https://open.spotify.com/artist/71uOnE19iET2zJ3TNzkG6X), [Pretão do Mt](https://open.spotify.com/artist/1UtfPD6oPcyJs6EqwJdt4e) | [Perfume Mais Caro](https://open.spotify.com/album/55zZHtvKCpn7OchaEl4Hp6) | 2:14 |
 
-Snapshot ID: `MCw2YWNhNTk5YWJiNDFmNzgzNDMxZTQ0NmNiZDU5ZmYzZmYzMzljODA2`
+Snapshot ID: `MCxlMjBkZDhkNjViMDJjZjcyNWY1NTUxMWNkZGEyMWYxMmQ3NDYzNDA3`

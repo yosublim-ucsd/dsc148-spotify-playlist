@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-481 songs - 1 day 3 hr 4 min
+482 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Figured Out](https://open.spotify.com/track/1rhyVsO0Kal10G0RnbqMbm) | [ALTA](https://open.spotify.com/artist/4dH7zjreLGJ4dcBfpHIg0L) | [Figured Out](https://open.spotify.com/album/0gT42scvH6w5Bss2MfEcac) | 4:06 | 2019-05-26\* | 2021-05-25 |
 | [First Week](https://open.spotify.com/track/0cHNxCSA9s6MFsMtM8zAPq) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Perennial](https://open.spotify.com/album/735RlBqveqycIrQgyld7JK) | 4:13 | 2019-05-26\* | 2021-07-31 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-13 | 2023-08-04 |
-| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-07-21 |  |
+| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-07-21 | 2023-09-28 |
+| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-22 |  |
 | [Fool to Love](https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 3:26 | 2019-06-23 | 2019-08-05 |
 | [Fool's Gold](https://open.spotify.com/track/2g7Ey0Cm30PLdrU6FbUX1f) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [QUEEN \(Deluxe\)](https://open.spotify.com/album/5MYDDv0VbQOu5NcwhGu47j) | 3:24 | 2021-10-30 | 2022-07-20 |
 | [FOOLS](https://open.spotify.com/track/0tjfognbowyFM3RHTdxjPK) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:40 | 2019-05-26\* | 2021-10-02 |

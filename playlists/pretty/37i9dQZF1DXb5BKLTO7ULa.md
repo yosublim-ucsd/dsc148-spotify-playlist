@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Duncan Laurence
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,770 likes - 97 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,772 likes - 97 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 96 | [De Bloemen Die Je Stuurde](https://open.spotify.com/track/1Wmj2gkXgEm0xLpvO5hT4s) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [De Bloemen Die Je Stuurde](https://open.spotify.com/album/1YS93womgDgRHgIXIapToF) | 2:48 |
 | 97 | [Devastation \(with PAMÉ\)](https://open.spotify.com/track/6oxH7cP0JbbICm8DdVYta9) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [Devastation \(with PAMÉ\)](https://open.spotify.com/album/1yFtcNjSezziWM0lXQAT5h) | 3:22 |
 
-Snapshot ID: `MCw0OTNkNzdkYzNkOTI2ZGQyMzBhNDhiMGFkZGFkY2QzNTQ5ODI0YjY1`
+Snapshot ID: `MCxiZTkyZjljM2Y5ZmQ5ZTcwMzI3ZDI2ZGFhMDE5MWFjZjcwZTdmMTc2`

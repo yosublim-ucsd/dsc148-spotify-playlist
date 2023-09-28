@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 60735,
+  "num_followers": 60775,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTNjNmQ0ZmM4ZTNiNzEzMzQ3OTNlYTNkZGFjMWVhYTI0ZjBmMmRi",
+  "snapshot_id": "MCw0MzY0OTk4MTg4ZmExODIxYjM3YTRlMGIwMGMwMjFhYmUyY2IwYjM4",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Brincando de Escolinha",
+        "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
+      },
+      "artists": [
+        {
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+        }
+      ],
+      "duration_ms": 186224,
+      "name": "Hit da Formiguinha",
+      "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Caminho no Deserto (Vers\u00e3o Kids)",
         "url": "https://open.spotify.com/album/34EQIvp5R1X7n4chgsK1PR"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 333113,
       "name": "Caminho no Deserto - Vers\u00e3o Kids",
       "url": "https://open.spotify.com/track/1J1eBc6ECu1cZq7JslY4VG"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Brincando de Escolinha",
-        "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
-      },
-      "artists": [
-        {
-          "name": "Vaneyse",
-          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
-        }
-      ],
-      "duration_ms": 186224,
-      "name": "Hit da Formiguinha",
-      "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -431,6 +431,26 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Medley das Crian\u00e7as",
+        "url": "https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH"
+      },
+      "artists": [
+        {
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+        },
+        {
+          "name": "Galo Jac\u00f3",
+          "url": "https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Medley das Crian\u00e7as",
+      "url": "https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Fam\u00edlia Perfeita",
         "url": "https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 164165,
       "name": "Crian\u00e7a Nota 10",
       "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Medley das Crian\u00e7as",
-        "url": "https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH"
-      },
-      "artists": [
-        {
-          "name": "Vaneyse",
-          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
-        },
-        {
-          "name": "Galo Jac\u00f3",
-          "url": "https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Medley das Crian\u00e7as",
-      "url": "https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Na Trilha da Cria\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7L2eWc0MQm3Da6L80gd6jW"
+      },
+      "artists": [
+        {
+          "name": "Margem Norte Kids",
+          "url": "https://open.spotify.com/artist/7MqM27ki9IN3dGwGttHIYa"
+        }
+      ],
+      "duration_ms": 158282,
+      "name": "Na Trilha da Cria\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2AeUTBwpPLpEJbu6T7I335"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Daniel, o Profeta",
         "url": "https://open.spotify.com/album/6AfVvz0xDRmWlKMGF0McxK"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 232873,
       "name": "Daniel, o Profeta",
       "url": "https://open.spotify.com/track/5C0j4okqm1pd9CBVXmJBZ5"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Na Trilha da Cria\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7L2eWc0MQm3Da6L80gd6jW"
-      },
-      "artists": [
-        {
-          "name": "Margem Norte Kids",
-          "url": "https://open.spotify.com/artist/7MqM27ki9IN3dGwGttHIYa"
-        }
-      ],
-      "duration_ms": 158282,
-      "name": "Na Trilha da Cria\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2AeUTBwpPLpEJbu6T7I335"
     },
     {
       "added_at": "2023-07-28 03:00:00",

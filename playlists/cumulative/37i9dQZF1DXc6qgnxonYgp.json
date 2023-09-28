@@ -1929,6 +1929,32 @@
     },
     {
       "album": {
+        "name": "MYSKKIN",
+        "url": "https://open.spotify.com/album/0ntHvvFgjffzTCzPh57Nvq"
+      },
+      "artists": [
+        {
+          "name": "Sunil Jacksz",
+          "url": "https://open.spotify.com/artist/5nx79ILI7Kv5NnqXUvuKM5"
+        },
+        {
+          "name": "Skinny Slayah",
+          "url": "https://open.spotify.com/artist/2DicgVVpmkVkYrnu4RR5p1"
+        },
+        {
+          "name": "Akroniim",
+          "url": "https://open.spotify.com/artist/2kNXaf7u31dDUTGFFatzZ4"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195807,
+      "name": "MYSKKIN",
+      "url": "https://open.spotify.com/track/1byOQiIsmmCqxuv7dDbBx5"
+    },
+    {
+      "album": {
         "name": "Dishonored",
         "url": "https://open.spotify.com/album/0Uwo5TPUBf1URumhDYPPrE"
       },
@@ -4188,6 +4214,24 @@
       "duration_ms": 242580,
       "name": "Vittu Po",
       "url": "https://open.spotify.com/track/02pXUWHiFU66a0wgMowh9x"
+    },
+    {
+      "album": {
+        "name": "Vyaadhi Vyaadhi",
+        "url": "https://open.spotify.com/album/2IvYos0SdTfMTMLvDz90do"
+      },
+      "artists": [
+        {
+          "name": "Vishnu",
+          "url": "https://open.spotify.com/artist/6ZiaIiSQYkTsfauZcUzcQA"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179399,
+      "name": "Vyaadhi Vyaadhi",
+      "url": "https://open.spotify.com/track/3GXj1FhrmbLOqHYsveMrvb"
     },
     {
       "album": {

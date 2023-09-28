@@ -1,0 +1,41 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAZcxd2m10.md) - [plain](/playlists/plain/37i9dQZF1DXdkAZcxd2m10) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdkAZcxd2m10)
+
+### [A través de mi ventana](https://open.spotify.com/playlist/37i9dQZF1DXdkAZcxd2m10)
+
+> La playlist oficial de A través de mi ventana\.  <a href=“https://www.netflix.com/title/81388078”>Ver en Netflix </a>
+
+[Spotify](https://open.spotify.com/user/spotify) - 19,459 likes - 29 songs - 1 hr 30 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Fantasia](https://open.spotify.com/track/5CToP4zkykujDhW9841aGO) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [Fantasia](https://open.spotify.com/album/0j105nuNpX6LV3ucglFGkZ) | 4:42 |
+| 2 | [Sola Con Mi Voz](https://open.spotify.com/track/5mqLmisIXbtmHLejbnEQAz) | [Blanco Palamera](https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk) | [Promesas](https://open.spotify.com/album/6jA8JYR7URcGLGV5aVIsNM) | 4:02 |
+| 3 | [¡Hola, Mi Amor!](https://open.spotify.com/track/0nx9jYqyxwX4fmt67GOizz) | [Chavales](https://open.spotify.com/artist/5sOiOYJjn604pooGW8HlGF) | [¡Hola, Mi Amor!](https://open.spotify.com/album/5vCHBm1Kh3jvsWLsklo3ge) | 2:34 |
+| 4 | [Doble Check](https://open.spotify.com/track/1Ddiwyf1k01hzNARTJai9x) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Salu2](https://open.spotify.com/album/76TfhYNf67u3tX8EnGJm70) | 2:54 |
+| 5 | [So So](https://open.spotify.com/track/7s9xtALBX5o96TjRB7R078) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [So So](https://open.spotify.com/album/6jpd8mseja2OVaHniWe0Oa) | 2:05 |
+| 6 | [Tech Love \(Otra Vez\)](https://open.spotify.com/track/6ybpv1iwdGEkgHF9PB8Tyg) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [Life After House](https://open.spotify.com/album/2yx5Yly6c6S3RHAcdVutBk) | 5:27 |
+| 7 | [Or Nai Long](https://open.spotify.com/track/0uwAIK45bT5bY4FDxDhWd6) | [VAN17INO6](https://open.spotify.com/artist/1KvmfQHAXGVqhTeFJRAGpT), [David Clean](https://open.spotify.com/artist/62NsSctz6AanUTNNfk012C) | [ER PATIO LOS NEONES](https://open.spotify.com/album/7JFECM0keqEPTGLrXIcJvR) | 3:06 |
+| 8 | [Si No Te Vuelvo a Ver](https://open.spotify.com/track/0OwZ3lqdQfnEZ074m2VXm0) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d) | [Reggaeton Romantico Vol 1](https://open.spotify.com/album/6tT4rOPYC3adYrCmBWOXy6) | 3:19 |
+| 9 | [Quiero Que Vengas](https://open.spotify.com/track/2eucUeV1hvStstsZMXxJVV) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Pero No Pasa Nada](https://open.spotify.com/album/64hXEHSg8N1MsIEidDSIyy) | 3:17 |
+| 10 | [Pulpito Reversible](https://open.spotify.com/track/1aGwFVcg2qjgxzITmuwHUz) | [Autotune Angel](https://open.spotify.com/artist/51QnHDUuSZ6xZWeCIxtoyT), [Lopoint](https://open.spotify.com/artist/7HhLB2JQ70uBnLeDnovNcK) | [Pulpito Reversible](https://open.spotify.com/album/1YOHRIkTqiXwObR5iWq92D) | 1:36 |
+| 11 | [Invierno Nuclear](https://open.spotify.com/track/0wK1nvACkwDtDPAL0PmE6E) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Escama](https://open.spotify.com/album/4NYnACTDLJ1YHcbnEpPh7D) | 4:34 |
+| 12 | [Cold Fear 20](https://open.spotify.com/track/1OoowaTZus4zFDxCsn4nxE) | [Cornelus Bolten](https://open.spotify.com/artist/04QXozxY1HFZRCw9w7bS58) | [Cold Fear](https://open.spotify.com/album/2SC3K7E1ISQeoZHZWK9hFY) | 2:46 |
+| 13 | [Dime Que Me Odias](https://open.spotify.com/track/45Bs2kaTWFUVJQV7Cpzn2x) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Depresión Sonora](https://open.spotify.com/album/2Kd0xv0iBYynM0on7es48j) | 3:28 |
+| 14 | [Sugar Mami](https://open.spotify.com/track/2lwrv8g1JbRlhhqYpPVnlE) | [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG), [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Sugar Mami](https://open.spotify.com/album/3ZNHCkbXTlVa035JPnNx1K) | 2:56 |
+| 15 | [Cuanto Más](https://open.spotify.com/track/6JvHK1yy7PEN0yrpIc54mu) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Todo Mal](https://open.spotify.com/album/4bpZIdAt4WhuCtfxb8P0JR) | 2:52 |
+| 16 | [Búscame](https://open.spotify.com/track/4vRalLs0WqfkeKTv1o1Wqx) | [Roberta Nikita](https://open.spotify.com/artist/4xetVDWWLeifmMtR9HQKbE) | [Baby](https://open.spotify.com/album/0A3emk9BbzDwy9cwUua8YM) | 2:55 |
+| 17 | [Yo Sigo Iual \- Prod\. Fakeguido & el Guincho](https://open.spotify.com/track/25RN6owXD29BH7fu2vlz3q) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Fakeguido](https://open.spotify.com/artist/0AK3HD29uDPufiH2YWi1VG), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Worldwide Angel](https://open.spotify.com/album/4CseW0RVZOocevhdVs3pLV) | 3:09 |
+| 18 | [Lagrimas De Amor](https://open.spotify.com/track/7wjQF9XTCrjvQZLeZBGMWs) | [Camela](https://open.spotify.com/artist/6flBUmmOMLNhD4EJhGwgpG) | [Lagrimas De Amor](https://open.spotify.com/album/4BZKTMUAhiQbF9EoTZH5up) | 4:02 |
+| 19 | [Para Que No Duela](https://open.spotify.com/track/2CX2vf8md18bXf53T6whla) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Goa](https://open.spotify.com/artist/1jj0qqazY8R9qnrGAKneIh) | [Alcohol & Sullivans](https://open.spotify.com/album/0ttHxWekHBnNNzjPsyXS86) | 2:52 |
+| 20 | [Quizz](https://open.spotify.com/track/7DkWvPoalR0rqDuPuomNsX) | [VAN17INO6](https://open.spotify.com/artist/1KvmfQHAXGVqhTeFJRAGpT), [Plasaporros](https://open.spotify.com/artist/7mKzx4MI33Oh7Iwax45huo), [Killmiya](https://open.spotify.com/artist/0qPLXWNlD9qrWeZwlvGcgV) | [ER PATIO LOS NEONES](https://open.spotify.com/album/7JFECM0keqEPTGLrXIcJvR) | 2:03 |
+| 21 | [La Chica Vampira](https://open.spotify.com/track/5oydfev1bUohUndTXJFr4D) | [Papa Topo](https://open.spotify.com/artist/5bj2pIzyYR99GUinn9fKAN) | [La Chica Vampira](https://open.spotify.com/album/47DNBrVLE0i9SliSZLkcyG) | 3:15 |
+| 22 | [Tocame el culo](https://open.spotify.com/track/6Y3mbEMBjlTbVUQdlcZoCe) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Recuerdos un poco antes y un poco despues de conocer a 1 xico \(el mio\)](https://open.spotify.com/album/2QMWFV9gf52dEyzsxwOzhL) | 2:37 |
+| 23 | [Tricorder](https://open.spotify.com/track/0X970883UAzMVpILfUDmYx) | [Akron](https://open.spotify.com/artist/45IqlMXLUpoBZFleCbvBUv) | [The Akron Quartet Plays "Ritualul Sferei"](https://open.spotify.com/album/2CDjq9CrnaCZzY8uHe6HrJ) | 2:27 |
+| 24 | [Te Brillan](https://open.spotify.com/track/1xrcnchnJNRvYoehmadxfb) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Te Brillan](https://open.spotify.com/album/7ILHhwV3N8yfJ9T4emipcU) | 3:12 |
+| 25 | [El Deseo](https://open.spotify.com/track/0VwkeLGHqfVlN4UiWqWKcG) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Reggaeton Romantico Vol.2](https://open.spotify.com/album/6fzxjrhcR6dt6MBsxXTNd5) | 3:06 |
+| 26 | [Dame Estrellas O Limones](https://open.spotify.com/track/4vDuTsANp7ABw1gmibsfwg) | [Family](https://open.spotify.com/artist/1qYyfVCh404G4yUnVWr72I) | [Un Soplo En El Corazón](https://open.spotify.com/album/0XmSVwHuTHRnwy8pvfD0vs) | 2:24 |
+| 27 | [Canción De Pop De Amor](https://open.spotify.com/track/1FQ0oX2fjXeD3RNQUEHnnr) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Movidas](https://open.spotify.com/album/66fkpLvul6MpQX4bACd1I5) | 2:49 |
+| 28 | [Devil I Know](https://open.spotify.com/track/6KF3l0dtaqHanpwJVmz3mB) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H) | 2:52 |
+| 29 | [Te Odio, Te Amo \- De A Través de Mi Ventana](https://open.spotify.com/track/37U0V2N263MEmj1PTnz7yp) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu) | [Te Odio, Te Amo \(De A Través de Mi Ventana\)](https://open.spotify.com/album/5Do3EOBrmyXa3DQMzu3CM8) | 2:58 |
+
+Snapshot ID: `MCw5YzMxYzhjMjU4YTBhYThjNTU0OTc4NDcwMTZlNDUyNGMzYzZkNzc1`

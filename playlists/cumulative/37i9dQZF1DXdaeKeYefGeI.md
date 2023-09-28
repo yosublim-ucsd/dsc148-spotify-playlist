@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Trijntje Oosterhuis
 
-121 songs - 7 hr 39 min
+122 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Mooi Geweest](https://open.spotify.com/track/5o2faEX74VH3rc1gKB6nx1) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Mooi Geweest](https://open.spotify.com/album/4pSWksRCcg369pG3LjChh2) | 2:51 | 2023-03-23 |  |
 | [Mooi Liedje](https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Acda & De Munnik](https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11) | 2:59 | 2023-02-10 | 2023-04-07 |
 | [Mooie Dag](https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:38 | 2023-02-10 |  |
-| [Mooier](https://open.spotify.com/track/5mabrt9VxlEgoSy3RSenW7) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [De Getuigen](https://open.spotify.com/artist/6mirF7xKDhc3pyVDxMrerP) | [Uit Het Hoofd](https://open.spotify.com/album/1e9Woi0cizyIT1Emfmiw8Q) | 3:28 | 2023-06-21 |  |
+| [Mooier](https://open.spotify.com/track/5mabrt9VxlEgoSy3RSenW7) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [De Getuigen](https://open.spotify.com/artist/6mirF7xKDhc3pyVDxMrerP) | [Uit Het Hoofd](https://open.spotify.com/album/1e9Woi0cizyIT1Emfmiw8Q) | 3:28 | 2023-06-21 | 2023-09-28 |
+| [Mooier](https://open.spotify.com/track/6Hj6xDRhdZOQujspgN4aCe) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [De Getuigen](https://open.spotify.com/artist/6mirF7xKDhc3pyVDxMrerP) | [Uit Het Hoofd](https://open.spotify.com/album/1iqVLBmEq2MpToLxxeQ8v8) | 3:28 | 2023-09-14 |  |
 | [Niemand In De Stad](https://open.spotify.com/track/3dE95e0gGFeoPPRt4njApK) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 4:51 | 2023-02-10 |  |
 | [Niet Of Nooit Geweest](https://open.spotify.com/track/4439gDsZasiXC4mGpw6yJc) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Naar Huis](https://open.spotify.com/album/3FN2HuiYuwTvIueH6LOmEg) | 4:02 | 2023-02-10 | 2023-04-07 |
 | [Nooit meer van God los](https://open.spotify.com/track/7wJsXhYmhctZfCYqV4ape3) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO), [Jacco Wynia](https://open.spotify.com/artist/2eECDzEtWx8eIi22B4rCAn) | [Nooit meer van God los](https://open.spotify.com/album/3jKnaMHuS5aXneVwSnLarK) | 3:06 | 2023-04-06 |  |

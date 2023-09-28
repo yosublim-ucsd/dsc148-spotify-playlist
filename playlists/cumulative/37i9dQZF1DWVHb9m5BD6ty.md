@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-124 songs - 6 hr 28 min
+125 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,11 @@
 | [And Then Life Was Beautiful](https://open.spotify.com/track/17psVz1U88aIzhdv1sqIqp) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:23 | 2021-10-26 | 2022-03-17 |
 | [Anseo](https://open.spotify.com/track/2VxCFajDagmquFM9gH5qbJ) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [GO Bravely](https://open.spotify.com/album/3F5NOIN8QC02Sd2XEYFrvk) | 2:35 | 2022-03-17 |  |
 | [beggin u](https://open.spotify.com/track/6Y2G7LLKxYV5fpd8Lc3Saq) | [bxnz](https://open.spotify.com/artist/1RsFzgSg6mEHj2Fp3tulgp) | [beggin u](https://open.spotify.com/album/6EY8YHabH1yVwOO22VdVMk) | 2:18 | 2022-03-17 | 2022-11-21 |
+| [BEGGIN U](https://open.spotify.com/track/35LEac8u5eTgb4RwD4tzNe) | [Hall of Fame](https://open.spotify.com/artist/3CTYAruK2v4eLNoG9EoubZ) | [BEGGIN U](https://open.spotify.com/album/0wXHkRoOndFEy8zIUlsrDi) | 2:15 | 2022-03-17 |  |
 | [Beggin U](https://open.spotify.com/track/3iL5a6F7mUlyUpVRR39spR) | [Jrilla](https://open.spotify.com/artist/2PRaSVqPQoBgmpJfnliAgh) | [Beggin U](https://open.spotify.com/album/4ko4HMy93msu1xCWtmGY32) | 2:15 | 2022-03-17 | 2022-12-18 |
 | [Beggin U](https://open.spotify.com/track/1P4XWA7DvVqxseeaepFmed) | [Jrilla](https://open.spotify.com/artist/72S9EGxCYScsUNOf7g6Poo) | [Beggin U](https://open.spotify.com/album/3KO0dWKUQDeYQ5GKlz0VtW) | 2:18 | 2022-03-17 | 2023-07-06 |
 | [Beggin U](https://open.spotify.com/track/1L3ilbDa1L1wSGEBlvoRLc) | [Suzi Chavo](https://open.spotify.com/artist/1VNQJiKGjToroNY0f6b38h) | [Beggin U](https://open.spotify.com/album/0FojNTk0HPR5zvkNw4qhku) | 2:15 | 2022-03-17 | 2023-05-12 |
-| [Beggin U](https://open.spotify.com/track/2Ezy6lBiOeEFQRYfXFGMxG) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Jrilla](https://open.spotify.com/artist/6a34Jy0rj2sMJfElAEmzsO) | [bu ocak başındaki adamlar için](https://open.spotify.com/album/6FFkfL4kFs3q0YtG0N6SCu) | 2:15 | 2022-03-17 |  |
+| [Beggin U](https://open.spotify.com/track/2Ezy6lBiOeEFQRYfXFGMxG) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Jrilla](https://open.spotify.com/artist/6a34Jy0rj2sMJfElAEmzsO) | [bu ocak başındaki adamlar için](https://open.spotify.com/album/6FFkfL4kFs3q0YtG0N6SCu) | 2:15 | 2022-03-17 | 2023-09-28 |
 | [Bernie Mac](https://open.spotify.com/track/3Z8WVPojr7RFPqkntdZVNR) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Bernie Mac](https://open.spotify.com/album/6yycdFlMIijQP675i8o1it) | 2:29 | 2021-10-26 | 2022-03-17 |
 | [Big Bidness](https://open.spotify.com/track/24Sdq5vT5sdZTeQmvb8zCd) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Big Bidness](https://open.spotify.com/album/0sWBFDpM7sClqlK9sHm9q4) | 2:40 | 2021-10-26 | 2022-03-17 |
 | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [E1 \(3x3\)](https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B), [ZT \(3x3\)](https://open.spotify.com/artist/2uIRmVaCVpHQjaVgph5clS), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx) | 4:38 | 2021-10-26 | 2022-03-17 |

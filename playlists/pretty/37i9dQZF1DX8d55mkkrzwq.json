@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDM4ZjYxMzdkZmNiMDU5MjExZjMxZTU1MzM4NWNjMmI3YTFlNDY0",
+  "snapshot_id": "MCwxOTk0YWFmN2M4NjFmYTQwMjAyNzVlMWNhZjY0OTE3MGJkOGI5ZWM3",
   "tracks": [
     {
       "added_at": "2023-09-14 08:57:47",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "Nursery Rhymes",
-        "url": "https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr"
+        "name": "The Slide Album",
+        "url": "https://open.spotify.com/album/3KoYKWvKJrI6T0n5D5PTCS"
       },
       "artists": [
         {
-          "name": "Bounce Patrol",
-          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+          "name": "Casper & Col'ta",
+          "url": "https://open.spotify.com/artist/3mWhHh5X42WmVx7Hku1zc3"
         }
       ],
-      "duration_ms": 90277,
-      "name": "Head, Shoulders, Knees and Toes",
-      "url": "https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu"
+      "duration_ms": 387500,
+      "name": "Casper Cha-Cha Slide (Live Platinum Band)",
+      "url": "https://open.spotify.com/track/0AaEbPXWdeiW6MbW80Eibj"
     },
     {
       "added_at": "2023-09-14 08:57:47",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
-        "name": "The Slide Album",
-        "url": "https://open.spotify.com/album/3KoYKWvKJrI6T0n5D5PTCS"
+        "name": "Nursery Rhymes",
+        "url": "https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr"
       },
       "artists": [
         {
-          "name": "Casper & Col'ta",
-          "url": "https://open.spotify.com/artist/3mWhHh5X42WmVx7Hku1zc3"
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
         }
       ],
-      "duration_ms": 387500,
-      "name": "Casper Cha-Cha Slide (Live Platinum Band)",
-      "url": "https://open.spotify.com/track/0AaEbPXWdeiW6MbW80Eibj"
+      "duration_ms": 90277,
+      "name": "Head, Shoulders, Knees and Toes",
+      "url": "https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu"
     },
     {
       "added_at": "2023-09-14 08:57:47",

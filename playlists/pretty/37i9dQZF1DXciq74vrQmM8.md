@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. girli
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,740 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,837 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [Drag Me To Hell](https://open.spotify.com/track/5LLomiXtpid7vpIfZ39o5F) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Gut Feeling](https://open.spotify.com/album/2sCytRQujXambd95PcJ2Cj) | 2:57 |
 | 80 | [Death Before Designer \(feat\. SosMula\)](https://open.spotify.com/track/3hqDihPfqmf5tpybblro6a) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [Death Before Designer \(feat\. SosMula\)](https://open.spotify.com/album/19nFdELhwOhpFp3FwR7Sfp) | 2:02 |
 
-Snapshot ID: `MCxlNGMzOTEwYzhkNzViM2E4OTEzNTYyOTU3MDI1NDlkZmJlZWQ4YzEw`
+Snapshot ID: `MCwzMWVjOTJhYjhlMzg5NGYzODg1NGQ1MDg0ZjQ4MTUwNmM4MzNmOTA5`

@@ -228,7 +228,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 89800,
       "name": "Angels, from the Realms of Glory (arr. A. Delmoni)",
       "url": "https://open.spotify.com/track/56YOeRNT8wdRA9vvc5nq5i"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 106920,
       "name": "Es ist ein Ros entsprungen (Arr. R. Hayward for Guitar)",
       "url": "https://open.spotify.com/track/0diYZsE9aogD5itSwwNRtG"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 88842,
       "name": "God Rest Ye Merry Gentlemen",
       "url": "https://open.spotify.com/track/2Er9oTJkPruq8pao8aZY8s"
@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "God Rest Ye Merry Gentlemen",
+        "url": "https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB"
+      },
+      "artists": [
+        {
+          "name": "Michael Logozar",
+          "url": "https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171306,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/3K2FgVaJdVXREA2Jqtklz4"
+    },
+    {
+      "album": {
         "name": "Relaxing Christmas Music, Vol. 1",
         "url": "https://open.spotify.com/album/3TsPUuASpxKagXwi12SSmx"
       },
@@ -550,7 +568,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 118453,
       "name": "Good Christian Men, Rejoice",
       "url": "https://open.spotify.com/track/225AhLsT6I6LWNB3ANefPf"
@@ -586,10 +604,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 83452,
       "name": "Hark! a Thrilling Voice Is Sounding",
       "url": "https://open.spotify.com/track/1QJTGyetIQldxJCPnEQhOe"
+    },
+    {
+      "album": {
+        "name": "Hark! The Herald Angel Sing",
+        "url": "https://open.spotify.com/album/0TIx5snVQO9bqxfYh9eB2v"
+      },
+      "artists": [
+        {
+          "name": "Manuel Valera",
+          "url": "https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8"
+        },
+        {
+          "name": "kamanote",
+          "url": "https://open.spotify.com/artist/0HljO0dF8nwi684rrDyhHa"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225031,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/7Ezy3sFFAS3kJntqZTWpXz"
     },
     {
       "album": {
@@ -604,7 +644,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 117887,
       "name": "Hark! the Herald Angels Sing",
       "url": "https://open.spotify.com/track/6UJEo8y9mfG7oymaDrsVXM"
@@ -683,6 +723,24 @@
     },
     {
       "album": {
+        "name": "I Saw Three Ships",
+        "url": "https://open.spotify.com/album/7zV7gDophcjhvTynWSI9ju"
+      },
+      "artists": [
+        {
+          "name": "Michael Janzen",
+          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148002,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/4DHmQW2gtRc4Gx991GZrsS"
+    },
+    {
+      "album": {
         "name": "24 Christmas Songs & Carols Gently on My Piano",
         "url": "https://open.spotify.com/album/4lGJils3BIt3Uv5hQpCxM2"
       },
@@ -698,7 +756,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 94620,
       "name": "I Saw Three Ships",
       "url": "https://open.spotify.com/track/6vT9ESh7N1SPjLfME1oLcp"
@@ -777,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Let All Mortal Flesh Keep Silence",
+        "url": "https://open.spotify.com/album/5NEoedZHX7AuDcrpOZJslv"
+      },
+      "artists": [
+        {
+          "name": "Alstad",
+          "url": "https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Let All Mortal Flesh Keep Silence",
+      "url": "https://open.spotify.com/track/7KaqgncCU5AuJyZeA7CGne"
+    },
+    {
+      "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/123hrI7QAnWUXiZHVgKHca"
       },
@@ -792,7 +868,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 119146,
       "name": "Let All Mortal Flesh Keep Silence",
       "url": "https://open.spotify.com/track/5loBbZKs1cj4HTHaLIaTSn"
@@ -977,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Oh Come All Ye Faithful",
+        "url": "https://open.spotify.com/album/0O1s5cB1Fg7gbpaZBaKF0k"
+      },
+      "artists": [
+        {
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Oh Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/2bFvadJJ8s0NKFnseW1L3R"
+    },
+    {
+      "album": {
         "name": "Merry Christmas, You Are Loved",
         "url": "https://open.spotify.com/album/1g2H5XhcLDVcUenGT2MOtw"
       },
@@ -988,7 +1082,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 55800,
       "name": "Oh Come All Ye Faithful (Strings)",
       "url": "https://open.spotify.com/track/6WbnXKhylRQFICMaE7PtTA"
@@ -1229,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "The Wexford Carol",
+        "url": "https://open.spotify.com/album/2avlZClfTbrRCAMttmcPuE"
+      },
+      "artists": [
+        {
+          "name": "Carducci String Quartet",
+          "url": "https://open.spotify.com/artist/4cKOYjPLQGb79166NxfeyI"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157376,
+      "name": "The Wexford Carol",
+      "url": "https://open.spotify.com/track/2DUq09XWvzX2QRXKs3ZMUH"
+    },
+    {
+      "album": {
         "name": "Celtic Guitar Duets: Christmas Edition",
         "url": "https://open.spotify.com/album/44squAzHy4puVKGEtrmlUh"
       },
@@ -1240,7 +1352,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 105446,
       "name": "The Wexford Carol",
       "url": "https://open.spotify.com/track/1NmDR64IJfFYAMWuA1Ggpg"
@@ -1276,7 +1388,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 99226,
       "name": "Unto Us a Boy Is Born",
       "url": "https://open.spotify.com/track/185LBcu5JoC1k6wbGBVryT"

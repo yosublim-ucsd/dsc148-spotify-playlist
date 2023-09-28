@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Zia\(지아\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Onestar\(임한별\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,008 songs - 2 day 17 hr 22 min
+1,010 songs - 2 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [At That Moment](https://open.spotify.com/track/0CB3B5ir8I2KbB3dkGVtWF) | [WSG WANNBE \(Gaya\-G\)](https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:42 | 2022-07-11 | 2022-12-27 |
 | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/track/1o1VpJ8DKeVzbWT0WnSLFK) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/album/4cBY8PVf0xqqnWsAiSrIGG) | 3:28 | 2022-01-27 | 2022-01-30 |
 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 | 2021-12-23 | 2022-06-30 |
-| [Back In The Day](https://open.spotify.com/track/7d3MyTc7PWrL8y85tOvUtW) | [주시크](https://open.spotify.com/artist/5MzBor5xeZxucJb4XhAXNj) | [Back In The Day](https://open.spotify.com/album/4w0uMkhAi8n8okuwXQZzTK) | 2:54 | 2023-09-18 |  |
+| [Back In The Day](https://open.spotify.com/track/7d3MyTc7PWrL8y85tOvUtW) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Back In The Day](https://open.spotify.com/album/4w0uMkhAi8n8okuwXQZzTK) | 2:54 | 2023-09-18 |  |
 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 | 2021-12-20 | 2022-07-03 |
 | [Back then we \(Vocal\. 이윤희\)](https://open.spotify.com/track/2X0z5Bmo3QcO8kiBzruyXS) | [05](https://open.spotify.com/artist/4SPSSskc4wAEGlZM9RuxfK) | [Back then we](https://open.spotify.com/album/1EoNIpR1tiHPNIIyW2UOx4) | 3:32 | 2023-02-27 | 2023-06-23 |
 | [Bad Love](https://open.spotify.com/track/3pQZ4fLxNgHLRdb7YAccHt) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Bad Love](https://open.spotify.com/album/5iG7oplAbHnwQ4JUvc52vX) | 4:07 | 2022-10-14 | 2023-01-21 |
@@ -121,6 +121,7 @@
 | [Breath](https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Alchemy of Souls, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa) | 4:27 | 2022-08-11 | 2022-11-02 |
 | [Breathing](https://open.spotify.com/track/7BOZXsXcOKbHMjbBVcT4R6) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [HIDEOUT: THE NEW DAY WE STEP INTO \- SEASON 2.](https://open.spotify.com/album/0XI2pmH6pUEjx0d9iOqx9x) | 3:38 | 2022-01-03 | 2022-01-13 |
 | [breathless](https://open.spotify.com/track/4WuudTuu7CIaKJFDfj3fdA) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [breathless](https://open.spotify.com/album/2OXz7sUcFYo1gXY8qmV4yh) | 4:05 | 2022-12-16 | 2023-01-21 |
+| [Broke up today \(Feat\. TANAKA\)](https://open.spotify.com/track/6Fatc7VHs0sc8TWx8Wc8BC) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz), [TANAKA](https://open.spotify.com/artist/5FZYWdNeBGAItqlOdEKNKT) | [Broke up today](https://open.spotify.com/album/5aAP9LRBp8gYfEJKCBL0u3) | 4:17 | 2023-09-27 |  |
 | [Broke Up, Met Again \(prod\. DOKO\) \- You Remix Version](https://open.spotify.com/track/7vgez1qM4xypCv921l7688) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Broke Up, Met Again](https://open.spotify.com/album/3b6gNzdvqczZecDmziSvvx) | 3:13 | 2022-08-03 | 2022-12-27 |
 | [Bud](https://open.spotify.com/track/7jkrMzk3hPTQOiOmhjNiMM) | [Park Hyungsik](https://open.spotify.com/artist/63CIh5694oJLXgtyXkp92Z) | [Our Blooming Youth \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/51ftN67dKvQHlG9Cz5AnGE) | 3:55 | 2023-04-26 | 2023-09-12 |
 | [Burden](https://open.spotify.com/track/35wAnH3OfMXvPgJq6urVkG) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [My fuxxxxx romance 01](https://open.spotify.com/album/6QEoy9NgTE3tpCoHgb4crc) | 4:28 | 2022-03-31 | 2022-06-13 |
@@ -739,6 +740,7 @@
 | [Sometimes](https://open.spotify.com/track/10Y9WYsHhfqu1bJRESaKap) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Sometimes](https://open.spotify.com/album/3mfkymgvHVm8x3YCja4gCW) | 4:39 | 2021-12-23 | 2022-04-16 |
 | [Soonri](https://open.spotify.com/track/7GCNT9j5CTaq3eCNxuvJxa) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [\#FILM Soonri](https://open.spotify.com/album/3Rp8hJ0ybSCDBbm3NQzljC) | 4:56 | 2022-03-24 | 2022-04-20 |
 | [Sorrowful memories from the past](https://open.spotify.com/track/24F5xq9iIzLmbBCs9hhSa1) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [If I held onto you](https://open.spotify.com/album/2ocvkplFV8W1FH32tQPoyx) | 3:49 | 2022-07-07 | 2022-08-19 |
+| [Sorry \(feat\. BUMJIN\)](https://open.spotify.com/track/5zQA6BBKgXGUp9BSqlNfIl) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [Sorry \(feat\. BUMJIN\)](https://open.spotify.com/album/4EqN23Z4QET6fEijXnAj6o) | 3:54 | 2023-09-27 |  |
 | [Sound Sleep \(feat\. Mabinc\)](https://open.spotify.com/track/6fu9R8kbhpABqj12soV73s) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#1](https://open.spotify.com/album/1FJw2Gh31WNocjV5wv5WOB) | 3:09 | 2022-08-12 | 2022-11-17 |
 | [Space](https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 4:33 | 2021-12-23 | 2022-07-07 |
 | [Spring Days](https://open.spotify.com/track/2htbpZkpsuD80TDw5nfNZo) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Spring Days](https://open.spotify.com/album/2qI6GtiqbnB3XbuVHMH6wb) | 3:59 | 2022-03-22 | 2022-05-18 |

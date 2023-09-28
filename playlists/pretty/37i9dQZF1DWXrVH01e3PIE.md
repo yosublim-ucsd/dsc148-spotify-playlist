@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > LIT killah & Tiago PZK en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,410 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,711 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 34 | [SUBIDÓN](https://open.spotify.com/track/1ssssn5yKcbad3IDFHMON4) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Koki LS](https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [SUBIDÓN](https://open.spotify.com/album/4CWTxKNjbnjbSr71MIiFxF) | 2:18 |
 | 35 | [Paradise](https://open.spotify.com/track/3p9g6gz2jMqnfUc2GJTryq) | [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz), [Federico Iván](https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh) | [Paradise](https://open.spotify.com/album/0FIgoa0MlSs7uD67y7A7Kf) | 2:03 |
 | 36 | [Sin Seguro](https://open.spotify.com/track/1UdeNGfkn5EpXjyEHJAwO0) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Sin Seguro](https://open.spotify.com/album/6kLqLQ54MsqhTirkuDZfu8) | 2:33 |
-| 37 | [uNO dOS](https://open.spotify.com/track/3H5N7Lnvv64H3iae6InGLz) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 2:45 |
+| 37 | [uNO dOS](https://open.spotify.com/track/43tSc5PlZvGJ39Cnrs94AL) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Antes de Ameri](https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR) | 2:45 |
 | 38 | [Y ustedes?](https://open.spotify.com/track/6UdKndtKQUPWeYNkcUbikU) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Y ustedes?](https://open.spotify.com/album/12Z8itqVuIXECLPRwceAYd) | 2:13 |
 | 39 | [hARAkiRi](https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [hARAkiRi](https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D) | 2:49 |
 | 40 | [SPACE SEX](https://open.spotify.com/track/0gk8KeUZy6MGycu06QgBf1) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [SPACE SEX](https://open.spotify.com/album/5LGvRtKKfzkQPbVLy1u80o) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 99 | [OTRA NOCHE](https://open.spotify.com/track/1JszOi9nTXFR5gxFyczhEw) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [TRAP DE VERDAD](https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K) | 2:49 |
 | 100 | [TODO AUTOMATICO](https://open.spotify.com/track/38uRnUZTf0eCKfKNnVUSaT) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [TRAP DE VERDAD](https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K) | 3:14 |
 
-Snapshot ID: `MCxlZDk1MDMzNjZlOGJjNjU5YTAzNmYxNDA2ZTA3NDFjMGRhYWVlYWJk`
+Snapshot ID: `MCwxN2Y2M2I0NmY3Y2I5YzgxYTdhMmY1NjlhYTNhNmY3YmZlODhmMWE3`

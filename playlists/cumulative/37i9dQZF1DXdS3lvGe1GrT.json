@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 220000,
       "name": "bonsoir",
       "url": "https://open.spotify.com/track/1BkQFNXjuEuzusFRPrLjC6"
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 230431,
       "name": "Callus",
       "url": "https://open.spotify.com/track/6OJfjKUPww50wSdDNNO67g"
@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 265278,
       "name": "Colorado Golden",
       "url": "https://open.spotify.com/track/2DdHRlPNBEdZXhu8RWVK0I"
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 216964,
       "name": "Come June",
       "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
@@ -3126,6 +3126,24 @@
       "duration_ms": 203378,
       "name": "Crow",
       "url": "https://open.spotify.com/track/5UW5IgM1kZsYjkltaE3iGy"
+    },
+    {
+      "album": {
+        "name": "Gray and Sour, Morning Hush",
+        "url": "https://open.spotify.com/album/0baXYOoDgSLcra7tWPNMC1"
+      },
+      "artists": [
+        {
+          "name": "Wallker",
+          "url": "https://open.spotify.com/artist/63D2ytMsspeVC2z9qrfQLI"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Crux",
+      "url": "https://open.spotify.com/track/4RjJYMYRPsJMVeLqjRNgWR"
     },
     {
       "album": {
@@ -3750,6 +3768,24 @@
       "duration_ms": 251666,
       "name": "Dime a Dozen",
       "url": "https://open.spotify.com/track/49fwippjbPl4i1cPRnEkIY"
+    },
+    {
+      "album": {
+        "name": "dinner alone",
+        "url": "https://open.spotify.com/album/1eOHu4opGK1YazfyZuR49M"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175461,
+      "name": "dinner alone",
+      "url": "https://open.spotify.com/track/0XqtPB3sTWzv9p2cDzzfyD"
     },
     {
       "album": {
@@ -4427,6 +4463,24 @@
     },
     {
       "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223338,
+      "name": "Everglades",
+      "url": "https://open.spotify.com/track/4FLtyQUs8xzwS40q1B2XAO"
+    },
+    {
+      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/0qtEjozoROwlRWWwpi56lc"
       },
@@ -4514,7 +4568,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 179534,
       "name": "Everyone Talking",
       "url": "https://open.spotify.com/track/2mUsfzJGVxjJv04uHsZRhp"
@@ -5087,6 +5141,24 @@
     },
     {
       "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/4TsWQll7bLWRn6HXzvhoU4"
+      },
+      "artists": [
+        {
+          "name": "Frankie Bird",
+          "url": "https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224653,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/0sQvN7H2arKOQO4WNAh6LU"
+    },
+    {
+      "album": {
         "name": "flood lines",
         "url": "https://open.spotify.com/album/4T9DEhlakkK3iD2Zw0Cwyr"
       },
@@ -5588,7 +5660,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 229593,
       "name": "Get In Touch With You",
       "url": "https://open.spotify.com/track/3w9nnYMDuH26c4KgUdKIeN"
@@ -6232,6 +6304,24 @@
       "duration_ms": 212027,
       "name": "Ha Ha",
       "url": "https://open.spotify.com/track/5moiK59CizbbCoVYoqD8ZS"
+    },
+    {
+      "album": {
+        "name": "Holding Pattern",
+        "url": "https://open.spotify.com/album/5QtjSD5s65FbCSkqSl7oMe"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cameron",
+          "url": "https://open.spotify.com/artist/5YONmUkKMhcZ425zGUfhqF"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240166,
+      "name": "Haiku Song",
+      "url": "https://open.spotify.com/track/0pXlw4HLoeTZ86hxyWmiOi"
     },
     {
       "album": {
@@ -8052,7 +8142,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 240992,
       "name": "Lady Apple Tree",
       "url": "https://open.spotify.com/track/0VnXFgtBCax5a1SL17ss48"
@@ -9992,7 +10082,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 181000,
       "name": "No More Coming Up Roses",
       "url": "https://open.spotify.com/track/1erGjjIAfXqr2qAU9raWhI"
@@ -11123,6 +11213,24 @@
     },
     {
       "album": {
+        "name": "I'M OK NO I'M NOT (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6DirKf3fWAjsQtz4JAqybJ"
+      },
+      "artists": [
+        {
+          "name": "Abby Holliday",
+          "url": "https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267005,
+      "name": "Predictable Life - Stripped Version",
+      "url": "https://open.spotify.com/track/3VuRBYFksQbWzBab1npyoB"
+    },
+    {
+      "album": {
         "name": "Preoccupied",
         "url": "https://open.spotify.com/album/4BPLLOB0x9kUsNs3oPCNKU"
       },
@@ -11534,6 +11642,24 @@
       "duration_ms": 199250,
       "name": "ride my bike 2 the ocean",
       "url": "https://open.spotify.com/track/6MxmqTviR4ufZ7ncxHiN1M"
+    },
+    {
+      "album": {
+        "name": "Rind",
+        "url": "https://open.spotify.com/album/73A4Mm5iek5ujAk8vqKx0r"
+      },
+      "artists": [
+        {
+          "name": "The Ophelias",
+          "url": "https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276750,
+      "name": "Rind",
+      "url": "https://open.spotify.com/track/0GQnSp82ETFcxspK3Ti9Vf"
     },
     {
       "album": {
@@ -12939,6 +13065,24 @@
     },
     {
       "album": {
+        "name": "stonington",
+        "url": "https://open.spotify.com/album/6f9vzZxRGr7ezcMef07hQq"
+      },
+      "artists": [
+        {
+          "name": "Alice Kristiansen",
+          "url": "https://open.spotify.com/artist/4GhlwQ4mxyuwgeOiuWePZl"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276141,
+      "name": "stonington",
+      "url": "https://open.spotify.com/track/3UAbztuS16ClurQqPHC4gz"
+    },
+    {
+      "album": {
         "name": "Storms",
         "url": "https://open.spotify.com/album/6LnnRXDs8YZQcLPPHUCezI"
       },
@@ -13390,7 +13534,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 203213,
       "name": "That's Ok, That's Alright",
       "url": "https://open.spotify.com/track/6LA05amjgAprGansoc6V6A"
@@ -14348,7 +14492,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 281795,
       "name": "Two Heads, Grey Mare",
       "url": "https://open.spotify.com/track/7hbxC92Qr34lDZQWLiBuKh"
@@ -14532,6 +14676,24 @@
       "duration_ms": 335503,
       "name": "Used To Be Friends",
       "url": "https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB"
+    },
+    {
+      "album": {
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/4j3HkXtgfYfRMMb8yIU8OJ"
+      },
+      "artists": [
+        {
+          "name": "Caity Krone",
+          "url": "https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223586,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/7tbJLOSjSOeq7ZPOuclI2W"
     },
     {
       "album": {

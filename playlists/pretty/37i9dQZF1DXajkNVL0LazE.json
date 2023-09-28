@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 76618,
+  "num_followers": 76740,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjBhN2M3MzE1YjYwM2U0NGMzOGIzNGIyNGM2OTgxY2IxNTZkYmYz",
+  "snapshot_id": "MCw1YzcyNTBkNGQwMTg5MTRmNWFhN2IxZTBiODcxOTI5MWVkODI3MjVh",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Volume One",
-        "url": "https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 150506,
-      "name": "Why Do You Let Me Stay Here?",
-      "url": "https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "And Then Nothing Turned Itself Inside-Out",
         "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 258426,
       "name": "Our Way to Fall",
       "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 150506,
+      "name": "Why Do You Let Me Stay Here?",
+      "url": "https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "War Elephant",
+        "url": "https://open.spotify.com/album/2jMilAyC3RBmAoWr1JZ7MR"
+      },
+      "artists": [
+        {
+          "name": "Deer Tick",
+          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "Baltimore Blues No. 1",
+      "url": "https://open.spotify.com/track/14irPxTJLePlTfUd9U5hWL"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 246146,
       "name": "Frankie's Gun!",
       "url": "https://open.spotify.com/track/78i6AUQv9Hp1BAQY6VCaCP"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "War Elephant",
-        "url": "https://open.spotify.com/album/2jMilAyC3RBmAoWr1JZ7MR"
-      },
-      "artists": [
-        {
-          "name": "Deer Tick",
-          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "Baltimore Blues No. 1",
-      "url": "https://open.spotify.com/track/14irPxTJLePlTfUd9U5hWL"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1535,18 +1535,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3YDgcFDTqU755BsfAtBVQS"
+        "name": "In The Reins",
+        "url": "https://open.spotify.com/album/0s1mKAEcqr7od5xY3pZ921"
       },
       "artists": [
         {
-          "name": "Nada Surf",
-          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        },
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 298666,
-      "name": "Inside Of Love",
-      "url": "https://open.spotify.com/track/3xWHYLJMnhwpXYb3oq1KU3"
+      "duration_ms": 223773,
+      "name": "He Lays In The Reins",
+      "url": "https://open.spotify.com/track/06KMxCt6MwBqgivE20KDC4"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1567,22 +1571,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "In The Reins",
-        "url": "https://open.spotify.com/album/0s1mKAEcqr7od5xY3pZ921"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3YDgcFDTqU755BsfAtBVQS"
       },
       "artists": [
         {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
-        },
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Nada Surf",
+          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
         }
       ],
-      "duration_ms": 223773,
-      "name": "He Lays In The Reins",
-      "url": "https://open.spotify.com/track/06KMxCt6MwBqgivE20KDC4"
+      "duration_ms": 298666,
+      "name": "Inside Of Love",
+      "url": "https://open.spotify.com/track/3xWHYLJMnhwpXYb3oq1KU3"
     },
     {
       "added_at": "2022-02-04 22:01:34",

@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 157894,
       "name": "Calmoshiya",
       "url": "https://open.spotify.com/track/0k68HmAy5WgSZBcI7NW7cU"
@@ -658,6 +658,24 @@
       "duration_ms": 148222,
       "name": "Chal Bhool Ja",
       "url": "https://open.spotify.com/track/48tLTRTLXGx9nj9RHgal6S"
+    },
+    {
+      "album": {
+        "name": "Chale Gaye",
+        "url": "https://open.spotify.com/album/5uWSN63exQGd7pyABRRDbz"
+      },
+      "artists": [
+        {
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Chale Gaye",
+      "url": "https://open.spotify.com/track/0eZUo7dcgwmPHalQat5JuJ"
     },
     {
       "album": {
@@ -2147,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Manmaani",
+        "url": "https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT"
+      },
+      "artists": [
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234444,
+      "name": "Manmaani",
+      "url": "https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc"
+    },
+    {
+      "album": {
         "name": "Mashhoor Banegi (Acoustic)",
         "url": "https://open.spotify.com/album/6JDVNb8vVMRHN5nARS6fuk"
       },
@@ -2904,7 +2940,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 256000,
       "name": "SACH HAI NA",
       "url": "https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC"
@@ -3000,20 +3036,16 @@
       },
       "artists": [
         {
-          "name": "Kiran",
-          "url": "https://open.spotify.com/artist/1IUUdmeNEJ6YLrtWGdsOiJ"
-        },
-        {
-          "name": "Nivi",
-          "url": "https://open.spotify.com/artist/1cmdu2iwKdME9GO1FJ7GYI"
-        },
-        {
           "name": "Vishal Bhardwaj",
           "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
         },
         {
           "name": "Gulzar",
           "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        },
+        {
+          "name": "Kiran + Nivi",
+          "url": "https://open.spotify.com/artist/6MB38cbBCtoUoLWf8U22Ub"
         }
       ],
       "date_added": "2023-09-26",

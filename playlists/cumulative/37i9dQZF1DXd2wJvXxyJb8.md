@@ -4,7 +4,7 @@
 
 > algum não monogamico online? vem de dm
 
-321 songs - 14 hr 35 min
+322 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Já Ouviu Aquele Ditado](https://open.spotify.com/track/2vJCtLLG01jUOtM5p6CTtY) | [MC Fefe Da ZL](https://open.spotify.com/artist/1SMznDhRBFnnUWJvFWXJgQ), [MC MN](https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp), [DJ NOVATO](https://open.spotify.com/artist/3Hdc7swmjddSFP8ZQavm43) | [Já Ouviu Aquele Ditado](https://open.spotify.com/album/0Vplc3s8GLCHdJHlBbo9Ru) | 1:59 | 2023-05-08 | 2023-09-09 |
 | [KAROLINA](https://open.spotify.com/track/37FKV1o2tcqHwSi2q0Yxgp) | [h$mza](https://open.spotify.com/artist/0H4EMH4ocavcSymPjUL5Yr), [h$lil](https://open.spotify.com/artist/1CFViPIECHw3a7XOvcAB5H) | [KAROLINA](https://open.spotify.com/album/6AHqWjWMhUBPlHwzJ9xVJW) | 2:25 | 2023-06-27 | 2023-07-09 |
 | [Karolina](https://open.spotify.com/track/1DUzZHTgtCpw3UOlaCHR9k) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/1z6nTcZk7ak4nJET7R3GAE) | 2:25 | 2023-06-22 | 2023-06-27 |
-| [Karolina](https://open.spotify.com/track/338zMeMeCbZMv31xC6YDso) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/0a9mgxCUSFdtsQlh0xfWgW) | 2:25 | 2023-07-12 |  |
+| [Karolina](https://open.spotify.com/track/338zMeMeCbZMv31xC6YDso) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/0a9mgxCUSFdtsQlh0xfWgW) | 2:25 | 2023-07-12 | 2023-09-28 |
 | [Karolina](https://open.spotify.com/track/1UnvqYFWrB2SabA2jvk3JU) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/0q7WkDth9XAIMyQYiTIkPt) | 2:26 | 2023-07-05 | 2023-07-11 |
 | [Karolina](https://open.spotify.com/track/2Z52oCyaTe0QlliyIjHZh8) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/7neil7gV2W2xRlEmveJfXD) | 2:26 | 2023-06-21 | 2023-07-13 |
 | [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 | 2023-03-14 |  |
@@ -243,6 +243,7 @@
 | [Pega o Guanabara](https://open.spotify.com/track/57rCopayc4wJL7jQZaRvtn) | [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [Pega o Guanabara](https://open.spotify.com/album/1hpgbFf4Kzomnp0hMHMzrL) | 2:46 | 2023-01-26 | 2023-09-15 |
 | [Pegada de Malvado](https://open.spotify.com/track/2Ho2vEEJAZOAnpxl9GsFYR) | [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm) | [Pegada de Malvado](https://open.spotify.com/album/2CiaR4gIfXUDR2SB0K07oP) | 1:47 | 2022-05-26 | 2022-09-22 |
 | [Peças De Griffe](https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [Trap Funk Star](https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg) | 3:26 | 2022-10-18 | 2023-02-18 |
+| [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 | 2023-09-27 |  |
 | [Pipoco](https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [Pipoco](https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E) | 3:14 | 2022-06-22 | 2023-02-18 |
 | [Pique, Piquezin X Cintura Ignorante](https://open.spotify.com/track/0hcsxVehBlwctRQPLzE2LC) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Pet & Bobii](https://open.spotify.com/artist/2lJQn1DHF1ipwxytJBMljq), [MC Buraga](https://open.spotify.com/artist/5OjUzfzhGFTQDWfKiPcxAE) | [Pique, Piquezin X Cintura Ignorante](https://open.spotify.com/album/6GlDenJOhhay8Vc71Wawmf) | 3:23 | 2022-05-26 | 2022-07-31 |
 | [Pique, Piquezin X Cintura Ignorante](https://open.spotify.com/track/5AuOlnnQlEKRwN6biy0c2P) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Pet & Bobii](https://open.spotify.com/artist/2lJQn1DHF1ipwxytJBMljq), [MC Buraga](https://open.spotify.com/artist/5OjUzfzhGFTQDWfKiPcxAE) | [Pique, Piquezin X Cintura Ignorante](https://open.spotify.com/album/3osieNmAeTHS8DNxJw1kfP) | 3:23 | 2022-07-28 | 2022-08-09 |

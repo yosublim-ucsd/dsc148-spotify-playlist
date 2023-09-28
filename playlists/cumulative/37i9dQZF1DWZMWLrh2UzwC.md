@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Doja Cat
 
-7,624 songs - 17 day 10 hr 8 min
+7,625 songs - 17 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2308,7 +2308,8 @@
 | [G.O.N.Z.O](https://open.spotify.com/track/4V7s0LFIWhdguWFSjyut3o) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [G.O.N.Z.O](https://open.spotify.com/album/0Nn3aam1ECOiNpDdoQvrRI) | 2:16 | 2022-12-22 | 2022-12-30 |
 | [Gagal Bersembunyi](https://open.spotify.com/track/3uVXx4FZU0TawfkyQznFBr) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh), [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Gagal Bersembunyi](https://open.spotify.com/album/7a9TXUUA5It9Cv5uyrdoVJ) | 4:02 | 2023-06-22 | 2023-06-30 |
 | [Galaxy](https://open.spotify.com/track/3taRJgoRzbJENVFSvaNBtd) | [Caiti Baker](https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P) | [Under Our Galaxy](https://open.spotify.com/album/3oNYs2QVCPmgZXaDKQzv4Q) | 3:51 | 2022-05-12 | 2022-05-20 |
-| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-21 |  |
+| [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 | 2023-09-21 |  |
+| [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-21 | 2023-09-28 |
 | [Gameboy Color](https://open.spotify.com/track/0arsX94THobgECcVUCOq31) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Gameboy Color](https://open.spotify.com/album/6OGauTBfMUpc4gbAro8c3r) | 2:34 | 2022-11-17 | 2022-11-25 |
 | [Games Women Play](https://open.spotify.com/track/4XwVObmSna9zn4hOtWrptC) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Games Women Play](https://open.spotify.com/album/5i8tr5l6kLG0UQNqt4Ry3K) | 2:49 | 2023-02-16 | 2023-02-24 |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-10 | 2022-03-18 |

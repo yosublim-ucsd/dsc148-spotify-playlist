@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Bleachers
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,632 likes - 79 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,671 likes - 79 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 28 | [Dream Of Running](https://open.spotify.com/track/0ZPVC8O0fBlTq1dq7f9SHX) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Dream Of Running](https://open.spotify.com/album/2BnYtCdLlRB194dxqRUMcg) | 2:57 |
 | 29 | [Karaoke](https://open.spotify.com/track/7keNZhvY8vbs3AyqDewmjj) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Karaoke](https://open.spotify.com/album/7FfYlliKoC99WzeDwyIbqn) | 3:20 |
 | 30 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
-| 31 | [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 |
+| 31 | [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 |
 | 32 | [100 to 1 \(Saturday Night\)](https://open.spotify.com/track/35CPbZYoTZgapOKepBUrew) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [100 to 1 \(Saturday Night\)](https://open.spotify.com/album/7bsZQvR4SBPmOEcfm4ijYB) | 4:28 |
 | 33 | [exit girl](https://open.spotify.com/track/6nbfnqVbTWYfgscVHlgTR3) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [exit girl](https://open.spotify.com/album/39yddITr5Zid1HdG611km6) | 3:26 |
 | 34 | [LOCK IT IN \(NO REGRETS\)](https://open.spotify.com/track/7rblMBHhC3L9fW4eyGbsHk) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [LOCK IT IN \(NO REGRETS\)](https://open.spotify.com/album/2YjanTSCMfO1bN4w7UrOjw) | 3:36 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 78 | [Alligator](https://open.spotify.com/track/611w5RH6Et8D5hrSqxxib7) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Alligator](https://open.spotify.com/album/2XXEJZqcwdc9iZLLmOPJPc) | 3:10 |
 | 79 | [sideline, red wine lover](https://open.spotify.com/track/4tCwtpj5QR1FLpCevAuGx3) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [you, green](https://open.spotify.com/album/3n22PGmZoD2DTEr9AuBws4) | 2:47 |
 
-Snapshot ID: `MCwxMTE2N2I1MDgxOTBjMzYzNzBiOTMwYWM5OTUyNjk2M2VkZWFiNDY5`
+Snapshot ID: `MCw2MzA1MDMxMTA0YWUwZTY3MzIzZGI1NmUyY2JkM2I1ZjI5ZjZmMGUz`

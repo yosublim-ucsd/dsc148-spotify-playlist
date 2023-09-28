@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Stereo Wall
 
-167 songs - 10 hr 40 min
+168 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Journey on September](https://open.spotify.com/track/22PhxtknUvYnNNidP1cuGJ) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Journey on September](https://open.spotify.com/album/6Z7AkTjYkglyuDNEYXZd4h) | 3:58 | 2021-11-25 | 2022-03-25 |
 | [Just a Crush Thing](https://open.spotify.com/track/2VirB9Zej4MbwC1x8WcfWx) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Just a Crush Thing](https://open.spotify.com/album/3l2H3rjDgNCX4dizR3izOY) | 3:08 | 2022-12-01 | 2023-04-14 |
 | [Kaktus](https://open.spotify.com/track/31byM0OBU7OoKuVkTrTCOh) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Kaktus](https://open.spotify.com/album/15mi7JkXNjMScyGbX1nlTg) | 3:07 | 2021-11-25 | 2022-03-25 |
-| [Kamu Kurang Usaha](https://open.spotify.com/track/2SmryvmzCMHQ4fjAf1mzmA) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Kamu Kurang Usaha](https://open.spotify.com/album/5eCGhOfeKF3PGDutfImNQd) | 4:45 | 2023-04-13 |  |
+| [Kamu Kurang Usaha](https://open.spotify.com/track/2SmryvmzCMHQ4fjAf1mzmA) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Kamu Kurang Usaha](https://open.spotify.com/album/5eCGhOfeKF3PGDutfImNQd) | 4:45 | 2023-04-13 | 2023-09-28 |
+| [Kamu Kurang Usaha](https://open.spotify.com/track/2i5RTxltb0Bhn5fcXpqU7M) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Kamu Kurang Usaha](https://open.spotify.com/album/0CmomGvxqIOhb7PDcBPkNL) | 4:45 | 2023-09-21 |  |
 | [Karma](https://open.spotify.com/track/5EdR4T0aRFTb18gtmbCNYL) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Karma](https://open.spotify.com/album/59BX9nwYcT4VuU9TbAf7HA) | 3:49 | 2022-10-06 | 2023-04-14 |
 | [Kau Rumahku](https://open.spotify.com/track/7IRi1d3Nsrww8mnGv1YW4l) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/4NAkOFSqThyy06ViavcOpQ) | 4:35 | 2022-03-24 | 2022-07-29 |
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2022-07-28 | 2023-04-14 |

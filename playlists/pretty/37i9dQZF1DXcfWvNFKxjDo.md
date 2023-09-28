@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: The Chainsmokers, Alok, Mae Stephens
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,402 likes - 74 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,579 likes - 74 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 73 | [Tudo Bem, Tudo Bom \- Radio Edit](https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Tudo Bem, Tudo Bom](https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn) | 2:58 |
 | 74 | [Safe & Sound](https://open.spotify.com/track/2cHXFZElaXZ8G74JMxraAj) | [Chany Dakota](https://open.spotify.com/artist/5oN5sCm0yGqy2EhMnfNxYf) | [Safe & Sound](https://open.spotify.com/album/6m5S1TNKQGtXCKGLuIFQy9) | 2:10 |
 
-Snapshot ID: `MCw3Zjg4MGE2ZWEyNzM1OGRjMzEyNjQ5NGI4YzA4YTlhNmVkOTIwMWJk`
+Snapshot ID: `MCwzYTIzMGI0ZjFjNjE3N2YxMjk2OTFiNTgwMTM0ZTI3OGM2YWFiZmIy`

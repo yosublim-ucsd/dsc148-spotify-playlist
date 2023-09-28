@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,543 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,440 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Let It Rain \(feat\. Bukeka\)](https://open.spotify.com/track/3e7kpLAEfpJXwaGpZ1Ewet) | [The Billionaires](https://open.spotify.com/artist/5gLAgBXxn26YXtBIODWfks), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV) | [Sons of The Soil](https://open.spotify.com/album/7f3e62NaZXt2QXmfGUX1OQ) | 6:41 |
 | 50 | [MASCULINITY](https://open.spotify.com/track/5PDTAN58fQ3lnW8RkxjRKV) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [MASCULINITY](https://open.spotify.com/album/6eNI9ZRsW9nfTL5XsaInpd) | 3:29 |
 
-Snapshot ID: `MCw0YmYyNDYwZjliNDUxMGE4NTg2MzMwZDkxMGYyYTU0Njg1ZjQ0Nzk4`
+Snapshot ID: `MCwzZjhlNDhmMjNkODQ2NWVjN2UyYTgwODllMzFhYmI0N2IwODRkYTBj`

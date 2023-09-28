@@ -784,10 +784,28 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 211386,
       "name": "Baggy Jeans",
       "url": "https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek"
+    },
+    {
+      "album": {
+        "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/4ycaoQvk5OsGiRoXP1SLq5"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY"
     },
     {
       "album": {
@@ -1351,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "B:COMPLETE (2023)",
+        "url": "https://open.spotify.com/album/16j7UDoD3JFu9kvNLdolRU"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218354,
+      "name": "BREATHE - 2023",
+      "url": "https://open.spotify.com/track/3oxptVONUXfzsvXuQ7ZnqE"
+    },
+    {
+      "album": {
         "name": "Breathe For You",
         "url": "https://open.spotify.com/album/2P8qHjgJpt3OQhr0hcHJcx"
       },
@@ -1434,7 +1470,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 169146,
       "name": "Busterz",
       "url": "https://open.spotify.com/track/3e2vn0Ek2VTtUUJKBKRspH"
@@ -2356,7 +2392,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 203426,
       "name": "Don't Wanna Cry",
       "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
@@ -3420,7 +3456,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 207921,
       "name": "Guerrilla",
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
@@ -8049,6 +8085,24 @@
     },
     {
       "album": {
+        "name": "Target: ME",
+        "url": "https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy"
+      },
+      "artists": [
+        {
+          "name": "EVNNE",
+          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206946,
+      "name": "TROUBLE",
+      "url": "https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3"
+    },
+    {
+      "album": {
         "name": "BLOSSOM",
         "url": "https://open.spotify.com/album/7beQFEkNFuQ8q39fp2psKX"
       },
@@ -8306,6 +8360,24 @@
       "duration_ms": 205720,
       "name": "Virus",
       "url": "https://open.spotify.com/track/6Cl4pfI7IDhX1zEfiBP8KR"
+    },
+    {
+      "album": {
+        "name": "Into The TEMPEST",
+        "url": "https://open.spotify.com/album/2O4N0AukdJFwUDrH7Aig9u"
+      },
+      "artists": [
+        {
+          "name": "TEMPEST",
+          "url": "https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179440,
+      "name": "Vroom Vroom",
+      "url": "https://open.spotify.com/track/0MHiMXXoCcgzZVk33HLWmL"
     },
     {
       "album": {

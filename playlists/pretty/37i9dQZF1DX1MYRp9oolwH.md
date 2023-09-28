@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,063 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,141 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG) | 3:24 |
-| 2 | [Oh Na Madhu \(From "Month Of Madhu"\)](https://open.spotify.com/track/1Q3toQpRmia59SoJpo8m0g) | [Karthik \(South Singer\)](https://open.spotify.com/artist/05VRxxBthh4OVz7aPZJvST), [Yamini Ghantasala](https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0) | [Oh Na Madhu \(From "Month Of Madhu"\)](https://open.spotify.com/album/4h23jUnEssjWKPVUAyQWIC) | 3:44 |
+| 2 | [Oh Na Madhu \(From "Month Of Madhu"\)](https://open.spotify.com/track/1Q3toQpRmia59SoJpo8m0g) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Yamini Ghantasala](https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0) | [Oh Na Madhu \(From "Month Of Madhu"\)](https://open.spotify.com/album/4h23jUnEssjWKPVUAyQWIC) | 3:44 |
 | 3 | [Ninnu Vadhali \(From "Narakasura"\)](https://open.spotify.com/track/76nwh50rEAPTg4I2KYLwiY) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Nawfal Raja Ais](https://open.spotify.com/artist/0eeeUK6RZ4XT2w9uBxROak) | [Ninnu Vadhali \(From "Narakasura"\)](https://open.spotify.com/album/5SFksrofWYgDOyzWhcfZvR) | 5:05 |
 | 4 | [Maaye Chesi \(From "Devil \- The British Secret Agent"\)](https://open.spotify.com/track/3NJa12j9bLQ7eZHg0JNrRD) | [Harshavardhan Rameshwar](https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU), [Satya\. R\. V](https://open.spotify.com/artist/26MD358Q6ZiDWOCo4qkn4M), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Maaye Chesi \(From "Devil \- The British Secret Agent"\)](https://open.spotify.com/album/7GFHgmIeKYt8B9TYO9hPvy) | 4:06 |
 | 5 | [Na Roja Nuvve \(From "Kushi"\)](https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Shiva Nirvana](https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD) | [Na Roja Nuvve \(From "Kushi"\) \- Single](https://open.spotify.com/album/7a4m6yhn2bdPSxTn0SXJLS) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\)](https://open.spotify.com/track/3d4BUW2iX1HagWRRkat9l7) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Poornachari](https://open.spotify.com/artist/7ebwtbh8aSrOUbKIHDW4ty) | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\) \- Single](https://open.spotify.com/album/3Bq1oXhTLEWvDV03ZmrVue) | 3:33 |
 | 50 | [Oh Bangaram](https://open.spotify.com/track/75UdklaJHB2iYhQMXmE3DS) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5mw5TgQL15i1ernK02z9hV) | 3:48 |
 
-Snapshot ID: `MCwyYjViYjY2YWY4NGI0NjdhMTYyZmY0YjAwZmYwOWE2MmI1N2FlZmU0`
+Snapshot ID: `MCxkMzAwMmI2MTZmOWU3NTNkMzAxODI4ZThhYTRjMDkxYzMwNGUwYjQ4`

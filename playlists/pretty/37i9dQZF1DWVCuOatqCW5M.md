@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Tony Kakkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,700 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,748 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 48 | [Barbaad Kar Diya Tere Pyaar Ne](https://open.spotify.com/track/71JppswenQSDBxsGw7H0DX) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj) | [Barbaad Kar Diya Tere Pyaar Ne](https://open.spotify.com/album/4RMGzKcfpJDHglBRJ88ukK) | 4:21 |
 | 49 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
 
-Snapshot ID: `MCw2MjZmNGRhNjE0MzljMzgzNmIxNjJjNzVlNWI1NDc1NTRjZWUxOTE5`
+Snapshot ID: `MCxlODE0NGZjZTJiOWIzMDUyZTAxMmUwNmM2ZTIwMzE1MGUyOGZmNjMy`

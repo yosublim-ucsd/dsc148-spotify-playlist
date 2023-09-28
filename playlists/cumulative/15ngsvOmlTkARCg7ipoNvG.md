@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,032 songs - 23 hr 3 min
+1,034 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [An Ocean Apart](https://open.spotify.com/track/6M7hmMkVaghknwaNMsampM) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Signs Revisited](https://open.spotify.com/album/6LXHz3fjr8QSqODA7xBmxG) | 1:23 | 2022-01-12 |  |
 | [Ancient Love](https://open.spotify.com/track/5fsGqXrJnldzBkSXynAjlh) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:22 | 2022-01-24 |  |
 | [Angels](https://open.spotify.com/track/2tcPVLQnj1u5WER7yqcQCm) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Lost in Dreams](https://open.spotify.com/album/1KSrjyIcjFmL5JQO8yousZ) | 1:43 | 2022-01-20 |  |
+| [Another Dreamscape Arr\. For Strings](https://open.spotify.com/track/1C7zEeLzMTRERkTpmIir0M) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Another Dreamscape Arr\. For Strings](https://open.spotify.com/album/0w8G9BdMDxPzSWlbG2sQVq) | 1:00 | 2023-09-27 |  |
 | [Another Time](https://open.spotify.com/track/2jnEuCFpYvctFuR2qNmRrw) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Relaxing Cello and Piano](https://open.spotify.com/album/2dSaURPj5XAURyvb5nvO4U) | 1:15 | 2022-01-20 |  |
 | [Answers](https://open.spotify.com/track/2JOl4PZ6DdmJCgwkASMn5p) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Answers](https://open.spotify.com/album/3HL8GQCFn44QkAMYVXpFlJ) | 1:01 | 2022-06-18 |  |
 | [Anticipation Reimagined](https://open.spotify.com/track/4VPBAt7LIajvx8QSxrPWUt) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Reimagination](https://open.spotify.com/album/508wIPed3LB2Kx3jhx8cJX) | 1:00 | 2023-07-06 |  |
@@ -370,6 +371,7 @@
 | [Forgiven Once Again](https://open.spotify.com/track/1JTzvJtq9MhtZsN1I0poJ7) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Waves Of Love](https://open.spotify.com/album/5ChteC7FRIuqgnbgb1NbxM) | 1:01 | 2022-05-14 |  |
 | [Forgiving Time](https://open.spotify.com/track/3iPkJtUr8qDIhTljuiJtEM) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ethereal Presence](https://open.spotify.com/album/28yGYpPzxYD1uN1cLKYxqL) | 1:06 | 2022-01-21 |  |
 | [Forgiving Times \- Cello Version](https://open.spotify.com/track/7uHyHMpe7bx11leH8f0PPc) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Forgiving Times](https://open.spotify.com/album/2n0vBsVAWzmbwuM4YsYBK4) | 1:00 | 2023-04-19 |  |
+| [Forgiving Times Arr\. For Strings](https://open.spotify.com/track/6YDWylhDSKTsMuUz7TLsum) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Forgiving Times Arr\. For Strings](https://open.spotify.com/album/3wUFg8a9aYgpZUUrkYshEv) | 1:00 | 2023-09-27 |  |
 | [Forward Together](https://open.spotify.com/track/57nzVFPqrEPnsMJEXmdXHe) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Acceptance](https://open.spotify.com/album/61QvkPs87o3DpYT2oanzqz) | 1:06 | 2022-01-12 |  |
 | [Found and Lost](https://open.spotify.com/track/5ZiTk9bTnXha6YqjL8PYX2) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Melancholy](https://open.spotify.com/album/4w5UWNsIFePMRrgx147NvB) | 1:49 | 2022-01-12 |  |
 | [Found In Stillness](https://open.spotify.com/track/3Isgkwl2QlHFVQpvWOMhfR) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:40 | 2022-01-20 |  |

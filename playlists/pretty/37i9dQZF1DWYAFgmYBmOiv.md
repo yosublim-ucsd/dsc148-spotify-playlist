@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > pov: the playlist to the bat mitzvah you were so NOT invited to, curated by Sammi Cohen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,613 likes - 52 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,713 likes - 52 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hang the Moon \(from the Netflix Film "You Are So Not Invited To My Bat Mitzvah"\)](https://open.spotify.com/track/0Pxm4E8rNg65Z2G5I9W7TQ) | [Sadie](https://open.spotify.com/artist/2PfSnNh32J94ADXP7o2NTR) | [Hang the Moon \(from the Netflix Film "You Are So Not Invited To My Bat Mitzvah"\)](https://open.spotify.com/album/4G7wLx9pM4g8F3ScbueQpb) | 3:37 |
 | 2 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 3 | [Crush](https://open.spotify.com/track/6MYJv37Mpj5njLLbxKWNun) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 3:36 |
-| 4 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 |
+| 4 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
 | 5 | [Valley of the Dolls](https://open.spotify.com/track/5gmRgeec1UtQJ9MYxVhDxC) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [I Don't Want: The Gold Fire Sessions](https://open.spotify.com/album/4GbH15Qw21Mwgj5YHyuAu8) | 4:16 |
 | 6 | [Oh No](https://open.spotify.com/track/3FLazwxIsNIWPmND1t1RIx) | [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Oh No](https://open.spotify.com/album/1cvUueJ1VO2gy8HaOKytad) | 4:45 |
 | 7 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/20BOju91NaEFK5Py4VJ2pp) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\) \[Remix EP\] \[Extended Edition\]](https://open.spotify.com/album/0DqDdZGSQkWQiE0TzBqeLA) | 2:35 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 51 | [Hold Me Down](https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:43 |
 | 52 | [Over You](https://open.spotify.com/track/29YWkTKunqjKhTD9nB0yBA) | [HOLYCHILD](https://open.spotify.com/artist/4itksv8jgpEcvRvZ7lDalQ) | [The Theatrical Death of Julie Delicious](https://open.spotify.com/album/019KS476KEobO6Ca7Cq9IG) | 4:00 |
 
-Snapshot ID: `MCw5NmIwMzk3Y2E2ZTZjM2FhMjgyMDRjYjgzNDVjYzg4ZDlmYzQyNGRi`
+Snapshot ID: `MCw1MGU0ZjBkYWRiNjZjNjNhNDU3ZjdjNTE3MWRhMGM5MGIwM2IwZmZl`

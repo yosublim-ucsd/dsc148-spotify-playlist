@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,244 likes - 116 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,258 likes - 116 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 115 | [From the outside](https://open.spotify.com/track/3j9YIVfoAtiXYe39oV8oCk) | [Ljung](https://open.spotify.com/artist/4esuEpassqDfTbo8kKPMas) | [From the outside](https://open.spotify.com/album/0aGPf80QQVQTVYQwD7Cazt) | 3:16 |
 | 116 | [Silent Spring](https://open.spotify.com/track/6Gj76rExLE912rxBZX8Q9s) | [Världen Brinner](https://open.spotify.com/artist/6qOb7jx3dXa3oUbCnLSF8g) | [RESET](https://open.spotify.com/album/2HaEx5FJ4VMgKi18S8rKUp) | 3:04 |
 
-Snapshot ID: `MCwyNjQwOWYyNDkzYTU0MmU4NWJkOWFhMTM1ZTIxOWZmODQwOWEyNDE2`
+Snapshot ID: `MCxhMWU3MGVmOTk5YzBmM2JjZWE5ZmNmOWM3MzNmMDI4ZmZkNDc0MTM5`

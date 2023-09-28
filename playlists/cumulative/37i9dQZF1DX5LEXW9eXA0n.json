@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bZia(\uc9c0\uc544)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:\bOnestar(\uc784\ud55c\ubcc4)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -1186,8 +1186,8 @@
       },
       "artists": [
         {
-          "name": "\uc8fc\uc2dc\ud06c",
-          "url": "https://open.spotify.com/artist/5MzBor5xeZxucJb4XhAXNj"
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
         }
       ],
       "date_added": "2023-09-18",
@@ -2072,6 +2072,28 @@
       "duration_ms": 245613,
       "name": "breathless",
       "url": "https://open.spotify.com/track/4WuudTuu7CIaKJFDfj3fdA"
+    },
+    {
+      "album": {
+        "name": "Broke up today",
+        "url": "https://open.spotify.com/album/5aAP9LRBp8gYfEJKCBL0u3"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        },
+        {
+          "name": "TANAKA",
+          "url": "https://open.spotify.com/artist/5FZYWdNeBGAItqlOdEKNKT"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257483,
+      "name": "Broke up today (Feat. TANAKA)",
+      "url": "https://open.spotify.com/track/6Fatc7VHs0sc8TWx8Wc8BC"
     },
     {
       "album": {
@@ -13516,6 +13538,28 @@
       "duration_ms": 229053,
       "name": "Sorrowful memories from the past",
       "url": "https://open.spotify.com/track/24F5xq9iIzLmbBCs9hhSa1"
+    },
+    {
+      "album": {
+        "name": "Sorry (feat. BUMJIN)",
+        "url": "https://open.spotify.com/album/4EqN23Z4QET6fEijXnAj6o"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "BUMJIN",
+          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234213,
+      "name": "Sorry (feat. BUMJIN)",
+      "url": "https://open.spotify.com/track/5zQA6BBKgXGUp9BSqlNfIl"
     },
     {
       "album": {

@@ -720,7 +720,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 196666,
       "name": "Melancholy Serenade",
       "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 346733,
       "name": "The Song From \"Moulin Rouge\"",
       "url": "https://open.spotify.com/track/7GtpZ01gEJDxrXfH2ayvuc"
@@ -1198,12 +1198,8 @@
       },
       "artists": [
         {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        },
-        {
-          "name": "His Orchestra",
-          "url": "https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO"
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
         }
       ],
       "date_added": "2023-05-09",

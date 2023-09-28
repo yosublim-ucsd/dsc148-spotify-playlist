@@ -3232,10 +3232,28 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 166661,
       "name": "Fashion Killa",
       "url": "https://open.spotify.com/track/0RMwoTN2Hqu200NrggjNVY"
+    },
+    {
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/5mZXL7VBgu2GGkdC6A6OWB"
+      },
+      "artists": [
+        {
+          "name": "Le Ru",
+          "url": "https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166661,
+      "name": "Fashion Killa",
+      "url": "https://open.spotify.com/track/4Wc6nQR36AZ5170I49hn05"
     },
     {
       "album": {

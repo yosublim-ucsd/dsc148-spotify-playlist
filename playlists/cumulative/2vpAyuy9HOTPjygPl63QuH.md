@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,329 songs - 3 day 3 hr 54 min
+1,330 songs - 3 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,6 +693,7 @@
 | [Love Songs](https://open.spotify.com/track/6nb57vP4sMYeeU2mfzVgr6) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Love Songs](https://open.spotify.com/album/3s5kOpbjLyG7l7N9Ezg1h0) | 3:08 | 2022-09-30 | 2022-10-08 |
 | [Lover Boy \- Nadia Remix](https://open.spotify.com/track/1pVAg0aJamkfDTen6jogBm) | [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux), [Nadia](https://open.spotify.com/artist/2tRocnrINF0O5Glx1axBmr) | [Lover Boy \(Nadia Remix\)](https://open.spotify.com/album/4cK8S3SzqhQb4IrEetiK0O) | 5:02 | 2023-04-07 | 2023-04-15 |
 | [LOW](https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LOW](https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm) | 3:23 | 2022-06-10 | 2022-06-18 |
+| [Lower Frequency](https://open.spotify.com/track/7zdNGaRlfqwbiar2pFUJwT) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx) | [Lower Frequency](https://open.spotify.com/album/5oEvfaeqX8esq1SGDHtVns) | 3:07 | 2023-09-27 |  |
 | [Lucid](https://open.spotify.com/track/33UtAaighQ1xeciJ9Ls2BO) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Lucid](https://open.spotify.com/album/60KEyWIuBF3tFUVSw1DJSR) | 3:04 | 2022-06-03 | 2022-06-11 |
 | [Ma Boogie](https://open.spotify.com/track/1A8o1LjyYO4uRXhfH1O0lF) | [Ryan Gould](https://open.spotify.com/artist/3ayPqf1bGwbpj4WUw0BKVt) | [Ma Boogie](https://open.spotify.com/album/0uKvspx1QMjWriiIsiWBxX) | 3:39 | 2022-04-29 | 2022-05-14 |
 | [Madonna](https://open.spotify.com/track/2eNyIYoHZRUeEl5p5PKdOC) | [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr), [DIKTAT](https://open.spotify.com/artist/4OUqbwZjd0nfoQuCl7FfbI) | [Madonna](https://open.spotify.com/album/6Cw0ea9TmmMKnsT9aHjnIH) | 2:51 | 2023-02-24 | 2023-03-04 |

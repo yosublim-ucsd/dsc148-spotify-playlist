@@ -4,7 +4,7 @@
 
 > Vocal jazz favorites from 2022\. Cover: Samara Joy \#SpotifyWrapped
 
-117 songs - 7 hr 51 min
+118 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Skylight](https://open.spotify.com/track/7u8bCAh4UxNS4GktedpMJ2) | [Kazemde George](https://open.spotify.com/artist/0mjn2eKGdewXxLTXLyYuYj), [Sami Stevens](https://open.spotify.com/artist/2e80FKVlWGy3J55Mh2rlRS), [Isaac Wilson](https://open.spotify.com/artist/6tCY1GkdUm8s72g36FQzCc), [Tyrone Allen II](https://open.spotify.com/artist/6E1lT9oTUWdzh4umlYPFMV), [Adam Arruda](https://open.spotify.com/artist/34bXEECuAdI9QCkJfe3byB) | [I Insist](https://open.spotify.com/album/7fQe5ruzoP0TOVutU9SkMS) | 6:36 | 2021-12-01 | 2022-12-01 |
 | [Something Good](https://open.spotify.com/track/13tBNWKIqlZwijZ9rFFS13) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Vanity](https://open.spotify.com/album/7fYK538rcsifxsFge3ARvr) | 5:47 | 2022-11-30 |  |
 | [Spinning Round](https://open.spotify.com/track/7MQMlrJnYXM7zH7fbqTmPZ) | [Jesse Palter](https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX) | [Spinning Round](https://open.spotify.com/album/3ejPqGb6wDzkMcDAjZZEyG) | 3:02 | 2021-12-01 | 2022-12-01 |
-| [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/0NUb2Cl5fs58ZPuZBYXnj6) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Carmen Staaf](https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/7s5zoUP13Lzz1KT2NLXp6u) | 5:58 | 2022-11-30 |  |
+| [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/0NUb2Cl5fs58ZPuZBYXnj6) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Carmen Staaf](https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/7s5zoUP13Lzz1KT2NLXp6u) | 5:58 | 2022-11-30 | 2023-09-28 |
+| [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1FPkGG0wRGYM8zIXBwq99G) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Carmen Staaf](https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/24yI5vwK7yTVV3nQxW6ukr) | 5:58 | 2022-11-30 |  |
 | [Spring Waltz](https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Spring Waltz](https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO) | 3:26 | 2021-12-01 | 2022-12-01 |
 | [Sunrise](https://open.spotify.com/track/60EiB2sz5mqvRiDvDb0ucZ) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Sunrise](https://open.spotify.com/album/3xbjnXESasgtICbl418mje) | 3:40 | 2022-11-30 |  |
 | [Tell Me Now](https://open.spotify.com/track/6TUOxU9g4ePCHnzYOfWSJs) | [Nicki Richards](https://open.spotify.com/artist/2cEBjGdze7R6fxaRtfnM9L), [Gustavo Casenave](https://open.spotify.com/artist/0hxq5ox7ApLGmfkLZC34wK), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Asta Hairston Songbook](https://open.spotify.com/album/7sleoEtFgrxfK1EBCjWldG) | 4:27 | 2022-11-30 |  |

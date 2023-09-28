@@ -1,12 +1,12 @@
 {
   "description": "All 60s, all ballads. Cover: Etta James",
-  "num_followers": 136056,
+  "num_followers": 136115,
   "original_name": "60s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODA0YzNkNjUxOTUxYjdiMWJjZTFiZTYzNzQ5NTE4NDY2Njk0ZTdm",
+  "snapshot_id": "MCxhM2U3N2I4YjFjNzAyY2EwY2U3Mzc1NDAxMTM4YmQwYmY2YWVkNDdk",
   "tracks": [
     {
       "added_at": "2023-01-02 17:54:36",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "All I Have to Do Is Dream",
-      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "Revolver (Remastered)",
         "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 144880,
       "name": "Here, There And Everywhere - Remastered 2009",
       "url": "https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Take A Look",
-        "url": "https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 176080,
-      "name": "Anyone Who Knows What Love Is (Will Understand)",
-      "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 161373,
       "name": "Mr. Lonely",
       "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "Take A Look",
+        "url": "https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 176080,
+      "name": "Anyone Who Knows What Love Is (Will Understand)",
+      "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/1OYFI2ylkl9kluPmY4SUmD"
-      },
-      "artists": [
-        {
-          "name": "Cilla Black",
-          "url": "https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "Anyone Who Had a Heart - 2003 Remaster",
-      "url": "https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "Empty Sky",
         "url": "https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 217826,
       "name": "Skyline Pigeon",
       "url": "https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/1OYFI2ylkl9kluPmY4SUmD"
+      },
+      "artists": [
+        {
+          "name": "Cilla Black",
+          "url": "https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Anyone Who Had a Heart - 2003 Remaster",
+      "url": "https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf"
     },
     {
       "added_at": "2023-01-02 17:54:36",

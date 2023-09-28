@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "1st Soundscape",
       "url": "https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm"
@@ -4121,6 +4121,24 @@
     },
     {
       "album": {
+        "name": "Kan-Sekai",
+        "url": "https://open.spotify.com/album/4x52en5VPqzQBi312t08qR"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253577,
+      "name": "Kan-Sekai",
+      "url": "https://open.spotify.com/track/0VhD3zamkf55HiOFw0l4Cr"
+    },
+    {
+      "album": {
         "name": "Ker al Loch (Four Ways)",
         "url": "https://open.spotify.com/album/0Dj7gv30Jz736jF3SRYtzS"
       },
@@ -4960,7 +4978,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 171563,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
@@ -5014,7 +5032,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 228333,
       "name": "Lwonesome Tonight",
       "url": "https://open.spotify.com/track/6Yhk3snL6uYrbzIjU4xKzI"
@@ -9386,7 +9404,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 315640,
       "name": "\u3086\u3081\u3046\u3064\u3064",
       "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
@@ -10594,7 +10612,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 253577,
       "name": "\u74b0\u4e16\u754c",
       "url": "https://open.spotify.com/track/7GnjAtmBx6YSnnuOks4U3C"

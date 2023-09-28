@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Paal  Dabba
 
-187 songs - 10 hr 50 min
+189 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [My Indian Girl](https://open.spotify.com/track/5budGGTak2cMuHm8XG9p3A) | [Switch \- Lock Up](https://open.spotify.com/artist/4JzjU9Er2Vd8k4HFNEFVC1) | [Savadi\(Individual Album Soundtrack\)](https://open.spotify.com/album/5tWjOWqOl4Sojh6j7V2DJJ) | 3:50 | 2021-12-01 | 2023-08-03 |
 | [My Indian Girls](https://open.spotify.com/track/2VQPI1L5lQsMqJVrTus7RS) | [Switch Lock Up](https://open.spotify.com/artist/0JMraP70dypedCsfesBle4) | [Savadi](https://open.spotify.com/album/4YwiMdmYDGix1E40Cu54Qm) | 3:50 | 2021-12-01 | 2023-09-26 |
 | [My Name Is](https://open.spotify.com/track/0LNFIxnKhAMXzyxgDGKDRL) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Suppliers](https://open.spotify.com/artist/3nWI57X6Dtnu7lbHwl3amD) | [Lord Poetry](https://open.spotify.com/album/4illQIaW2DayH6iEItSC7x) | 3:26 | 2023-06-05 |  |
+| [MYSKKIN](https://open.spotify.com/track/1byOQiIsmmCqxuv7dDbBx5) | [Sunil Jacksz](https://open.spotify.com/artist/5nx79ILI7Kv5NnqXUvuKM5), [Skinny Slayah](https://open.spotify.com/artist/2DicgVVpmkVkYrnu4RR5p1), [Akroniim](https://open.spotify.com/artist/2kNXaf7u31dDUTGFFatzZ4) | [MYSKKIN](https://open.spotify.com/album/0ntHvvFgjffzTCzPh57Nvq) | 3:15 | 2023-09-27 |  |
 | [N.I.G.A](https://open.spotify.com/track/73ajgrXAIIMcRkkY8KI7Fk) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Dishonored](https://open.spotify.com/album/0Uwo5TPUBf1URumhDYPPrE) | 2:10 | 2022-01-05 | 2022-06-16 |
 | [Naakula Mookula](https://open.spotify.com/track/4OI0PCYI1lj9RiPWw6vIrY) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 2:22 | 2022-07-27 |  |
 | [Naam Ninaithaal](https://open.spotify.com/track/5xGB1V0iv33quTPsN1KrRm) | [Rathya](https://open.spotify.com/artist/1Yf7Q9jSJYFNk1jiRhMBPy), [Dhikshi Baskaran](https://open.spotify.com/artist/2XuIe5HofW12NbqpHPL1yA), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Naam Ninaithaal](https://open.spotify.com/album/6YpQ4Lt6mHFxGKQwWGHJkm) | 3:16 | 2021-12-01 |  |
@@ -189,6 +190,7 @@
 | [Virus](https://open.spotify.com/track/4d3tRG4qajyj7mdGBKLlsM) | [Imman Vijay](https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3), [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G) | [Virus](https://open.spotify.com/album/18hdsibfNSE3vbNJioniXl) | 3:32 | 2021-12-29 | 2022-08-12 |
 | [Virus](https://open.spotify.com/track/1XITQUMLKoUTl39XrGGZ99) | [Imman Vijay](https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3), [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G), [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw) | [Virus](https://open.spotify.com/album/7xRhx66zTnXR3IKbMaUInu) | 3:32 | 2021-12-29 | 2022-07-29 |
 | [Vittu Po](https://open.spotify.com/track/02pXUWHiFU66a0wgMowh9x) | [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [Vernon G Segaram](https://open.spotify.com/artist/1vvVThBkJdiUch8q3DoH4p) | [Vittu Po](https://open.spotify.com/album/4VF5BRBaabL6hUNKx587Vg) | 4:02 | 2021-12-01 | 2023-04-29 |
+| [Vyaadhi Vyaadhi](https://open.spotify.com/track/3GXj1FhrmbLOqHYsveMrvb) | [Vishnu](https://open.spotify.com/artist/6ZiaIiSQYkTsfauZcUzcQA) | [Vyaadhi Vyaadhi](https://open.spotify.com/album/2IvYos0SdTfMTMLvDz90do) | 2:59 | 2023-09-27 |  |
 | [What's Poppin ?](https://open.spotify.com/track/4EfMhC8JqOlWyG08BtW9rX) | [Reuben Joy](https://open.spotify.com/artist/0C3iKEYRAQGam4skL90tES), [Kronixx](https://open.spotify.com/artist/3DTQsye5it4RsIpII0bqAV), [Acafella](https://open.spotify.com/artist/0yQJuWX2B8oauOrsgmRRcF) | [What's Poppin ?](https://open.spotify.com/album/6kbMGDXD8EwUrOOk3W01T6) | 4:03 | 2022-02-15 | 2022-06-10 |
 | [Where Is God](https://open.spotify.com/track/0ls76xjyCL1Ybs6N8crsvr) | [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR), [Fenix](https://open.spotify.com/artist/1rEZSD3Gbt66yvei1eosRd) | [Where Is God](https://open.spotify.com/album/1bToyETpCqnx7vx9mEKXgX) | 3:27 | 2022-07-20 | 2022-08-24 |
 | [Why ?](https://open.spotify.com/track/6tlt21kedOBuTI09LRYgwm) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Lost In Your Love](https://open.spotify.com/album/5XeSjQGfJiI8kJ9jjvO1Gl) | 2:42 | 2023-02-09 | 2023-04-04 |

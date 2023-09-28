@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5?si=L6C8qlMDT3SFZVXz\-SvF\-w"> Tha Boy Myles </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,585 likes - 59 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,590 likes - 59 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 8 | [Tonight](https://open.spotify.com/track/0jrrN6kKCysmUKzoZbQQHe) | [Chayuta](https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r) | [Tonight](https://open.spotify.com/album/4ZWp72PakTO0Dcx9q1o2kM) | 3:43 |
 | 9 | [Your Mind, You're Mine](https://open.spotify.com/track/7kLXpVUA53AiHFKhGqUjrx) | [Kami Leonne](https://open.spotify.com/artist/4a07x5R0svDGlzecliVGTW) | [Your Mind, You're Mine](https://open.spotify.com/album/69IJUiVKXN7Rq4ktnJQO4t) | 2:46 |
 | 10 | [2 Fresh](https://open.spotify.com/track/51c4uJ7B9cxplMLPnPMoRt) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [2 Fresh](https://open.spotify.com/album/3yhOIQQoxiI51WPlUEbhvD) | 2:17 |
-| 11 | [Fashion Killa](https://open.spotify.com/track/0RMwoTN2Hqu200NrggjNVY) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/6ZLeYdY71zyZ9Vvl17XSGM) | 2:46 |
+| 11 | [Fashion Killa](https://open.spotify.com/track/4Wc6nQR36AZ5170I49hn05) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/5mZXL7VBgu2GGkdC6A6OWB) | 2:46 |
 | 12 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 |
 | 13 | [Issues](https://open.spotify.com/track/2dBpZ0MiVobgPpnsAFFzII) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK) | [Issues\|Tsunami](https://open.spotify.com/album/04gBoHn7W8BhfcuQYWb8yS) | 2:19 |
 | 14 | [HBP](https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [HBP](https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8) | 2:47 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 58 | [Chosen](https://open.spotify.com/track/3mFNTxPlNKg8bJ3A6UC29h) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [EMOTIONS](https://open.spotify.com/album/4IqGNLz2EaVwPkyV7b4NvC) | 3:10 |
 | 59 | [Nwanyi Oma](https://open.spotify.com/track/6CUsiQIY11LXDvPDTFZiEU) | [Lil Emm](https://open.spotify.com/artist/2xcMXK5wGKYGexFQiBoiUz) | [Nwanyi Oma](https://open.spotify.com/album/0FzULS7JqmwVUOtNrDf32O) | 2:01 |
 
-Snapshot ID: `MCwzZjYwNzFmZmY3N2M0NDVlZWJlYTMxYWNkMzMyODUwZjUyZDhlMTU2`
+Snapshot ID: `MCw2ZGU5MTNhNzE1Yzk0Y2VhM2ZkMjI0Y2M3NmUwYzQxZGMyMmY0OTlk`

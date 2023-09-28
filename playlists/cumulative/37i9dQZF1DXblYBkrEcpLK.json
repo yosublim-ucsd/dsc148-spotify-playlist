@@ -1967,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "\u300c\u30a2\u30ea\u30b9\u3068\u30c6\u30ec\u30b9\u306e\u307e\u307c\u308d\u3057\u5de5\u5834\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2uz6oICkcSVEE0QQaboneg"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u307f\u3086\u304d",
+          "url": "https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328133,
+      "name": "In the Core of My Heart",
+      "url": "https://open.spotify.com/track/0DLr3MyMwfW30PTlhnXbqj"
+    },
+    {
+      "album": {
         "name": "Verbal Justice",
         "url": "https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf"
       },
@@ -2394,6 +2412,24 @@
     {
       "album": {
         "name": "Lullaby",
+        "url": "https://open.spotify.com/album/1rcTGibD8vsMI7pHB0K3dI"
+      },
+      "artists": [
+        {
+          "name": "Yuyu",
+          "url": "https://open.spotify.com/artist/4OTSiRMbLZrza8dQsoTUBy"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194716,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2aKlVurHnMwaeF4vJADyE2"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
         "url": "https://open.spotify.com/album/1NXZyQ7OF9Ct6pLi7E39UQ"
       },
       "artists": [
@@ -2404,7 +2440,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 194716,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2ggV2CZgdulUzjNDS4qKK3"
@@ -7612,7 +7648,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-28",
       "duration_ms": 328106,
       "name": "\u5fc3\u97f3\uff08\u3057\u3093\u304a\u3093\uff09",
       "url": "https://open.spotify.com/track/7knXcKHUVxb9qxo37ZDILh"

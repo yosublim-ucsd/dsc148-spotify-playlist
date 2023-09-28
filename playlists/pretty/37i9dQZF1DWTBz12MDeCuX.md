@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Baron, Niclov
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,532 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,867 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
 | 100 | [Du hast mich nie geliebt </3…](https://open.spotify.com/track/6aoadZIaPyAvIpfdkmonBX) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Du hast mich nie geliebt </3…](https://open.spotify.com/album/0EzmmuePkY1VrvGEpxyzuU) | 1:21 |
 
-Snapshot ID: `MCwyNjE1ZjRmY2MwMTU4YTQ3ZTA1Y2I1NjFkNTc0MWRmN2U4ZWNkODAw`
+Snapshot ID: `MCwwNWJjMjVjNDk5ZmUyZGRhNDI0ZDcyOTJkMzRkMjY0ZjMzNzNlOTgx`

@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 636057,
+  "num_followers": 636079,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGJhM2QyMDU3ZDVjYjg4ZTFmOTYxODgwNzkzZGZjMDdkMTUxYThj",
+  "snapshot_id": "MCxlMjdkOGM1MzcyMDFlODZmNWE4NzQ4ZmYzNTYwODIyYWYwYmEyNGQy",
   "tracks": [
     {
       "added_at": "2023-09-22 12:24:55",
@@ -299,6 +299,38 @@
     {
       "added_at": "2023-09-22 12:24:55",
       "album": {
+        "name": "Armon\u00eda Serena",
+        "url": "https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD"
+      },
+      "artists": [
+        {
+          "name": "Abril Iluso",
+          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+        }
+      ],
+      "duration_ms": 158823,
+      "name": "Armon\u00eda Serena",
+      "url": "https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ"
+    },
+    {
+      "added_at": "2023-09-22 12:24:55",
+      "album": {
+        "name": "Jeevan",
+        "url": "https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ"
+      },
+      "artists": [
+        {
+          "name": "Gamini Khatri",
+          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
+        }
+      ],
+      "duration_ms": 150066,
+      "name": "Jeevan",
+      "url": "https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz"
+    },
+    {
+      "added_at": "2023-09-22 12:24:55",
+      "album": {
         "name": "Yoga Meditation",
         "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
       },
@@ -327,22 +359,6 @@
       "duration_ms": 224000,
       "name": "Serum",
       "url": "https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM"
-    },
-    {
-      "added_at": "2023-09-22 12:24:55",
-      "album": {
-        "name": "Jeevan",
-        "url": "https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ"
-      },
-      "artists": [
-        {
-          "name": "Gamini Khatri",
-          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
-        }
-      ],
-      "duration_ms": 150066,
-      "name": "Jeevan",
-      "url": "https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz"
     },
     {
       "added_at": "2023-09-22 12:24:55",
@@ -443,18 +459,18 @@
     {
       "added_at": "2023-09-22 12:24:55",
       "album": {
-        "name": "Armon\u00eda Serena",
-        "url": "https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD"
+        "name": "Even Silence",
+        "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
       },
       "artists": [
         {
-          "name": "Abril Iluso",
-          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+          "name": "Sadia Leys",
+          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
         }
       ],
-      "duration_ms": 158823,
-      "name": "Armon\u00eda Serena",
-      "url": "https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ"
+      "duration_ms": 140000,
+      "name": "Even Silence",
+      "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
     },
     {
       "added_at": "2023-09-22 12:24:55",
@@ -487,22 +503,6 @@
       "duration_ms": 199923,
       "name": "My Halo Orbit",
       "url": "https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt"
-    },
-    {
-      "added_at": "2023-09-22 12:24:55",
-      "album": {
-        "name": "Even Silence",
-        "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
-      },
-      "artists": [
-        {
-          "name": "Sadia Leys",
-          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Even Silence",
-      "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
     },
     {
       "added_at": "2023-09-22 12:24:55",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-22 12:24:55",
       "album": {
-        "name": "Deep Thoughts",
-        "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
-      },
-      "artists": [
-        {
-          "name": "Danny Shamoun",
-          "url": "https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Deep Thoughts",
-      "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
-    },
-    {
-      "added_at": "2023-09-22 12:24:55",
-      "album": {
         "name": "Long Time Gone",
         "url": "https://open.spotify.com/album/66cbRBo9HSrZJjIzTGWYOM"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 153325,
       "name": "Long Time Gone",
       "url": "https://open.spotify.com/track/2ttiWUOOJeaPDsKrQlHnhJ"
+    },
+    {
+      "added_at": "2023-09-22 12:24:55",
+      "album": {
+        "name": "Deep Thoughts",
+        "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
+      },
+      "artists": [
+        {
+          "name": "Danny Shamoun",
+          "url": "https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Deep Thoughts",
+      "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
     },
     {
       "added_at": "2023-09-22 12:24:55",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-09-22 12:24:55",
       "album": {
-        "name": "Somewhere Ahead",
-        "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kaede",
-          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
-        }
-      ],
-      "duration_ms": 146499,
-      "name": "Hibernia Sleep",
-      "url": "https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp"
-    },
-    {
-      "added_at": "2023-09-22 12:24:55",
-      "album": {
         "name": "Myriads",
         "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-09-22 12:24:55",
       "album": {
-        "name": "Hvis du bare vidste",
-        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
+        "name": "Somewhere Ahead",
+        "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
       },
       "artists": [
         {
-          "name": "Silas Mathiasen",
-          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
+          "name": "Daniel Kaede",
+          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Hvis du bare vidste",
-      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
+      "duration_ms": 146499,
+      "name": "Hibernia Sleep",
+      "url": "https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp"
     },
     {
       "added_at": "2023-09-22 12:24:55",
@@ -943,6 +927,22 @@
     {
       "added_at": "2023-09-22 12:24:55",
       "album": {
+        "name": "Hvis du bare vidste",
+        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
+      },
+      "artists": [
+        {
+          "name": "Silas Mathiasen",
+          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Hvis du bare vidste",
+      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
+    },
+    {
+      "added_at": "2023-09-22 12:24:55",
+      "album": {
         "name": "Meadow / Forests",
         "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
       },
@@ -955,22 +955,6 @@
       "duration_ms": 140878,
       "name": "Forests",
       "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
-    },
-    {
-      "added_at": "2023-09-22 12:24:55",
-      "album": {
-        "name": "Theta Sleep",
-        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
-      },
-      "artists": [
-        {
-          "name": "Zonyoh",
-          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Clear-Headed",
-      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
     },
     {
       "added_at": "2023-09-22 12:24:55",
@@ -991,18 +975,18 @@
     {
       "added_at": "2023-09-22 12:24:55",
       "album": {
-        "name": "Time Capsule",
-        "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
+        "name": "Theta Sleep",
+        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
       },
       "artists": [
         {
-          "name": "Moments Of Divinity",
-          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
+          "name": "Zonyoh",
+          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
         }
       ],
-      "duration_ms": 129274,
-      "name": "Time Capsule",
-      "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
+      "duration_ms": 166000,
+      "name": "Clear-Headed",
+      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
     },
     {
       "added_at": "2023-09-22 12:24:55",
@@ -1023,22 +1007,6 @@
     {
       "added_at": "2023-09-22 12:24:55",
       "album": {
-        "name": "The Light of Day",
-        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
-      },
-      "artists": [
-        {
-          "name": "Chymeris",
-          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "The Light of Day",
-      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
-    },
-    {
-      "added_at": "2023-09-22 12:24:55",
-      "album": {
         "name": "The Shed",
         "url": "https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4"
       },
@@ -1051,6 +1019,38 @@
       "duration_ms": 150750,
       "name": "The Shed",
       "url": "https://open.spotify.com/track/6zVrlSfa7L9bRuYcgq8Di4"
+    },
+    {
+      "added_at": "2023-09-22 12:24:55",
+      "album": {
+        "name": "Time Capsule",
+        "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
+      },
+      "artists": [
+        {
+          "name": "Moments Of Divinity",
+          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
+        }
+      ],
+      "duration_ms": 129274,
+      "name": "Time Capsule",
+      "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
+    },
+    {
+      "added_at": "2023-09-22 12:24:55",
+      "album": {
+        "name": "The Light of Day",
+        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
+      },
+      "artists": [
+        {
+          "name": "Chymeris",
+          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "The Light of Day",
+      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
     },
     {
       "added_at": "2023-09-22 12:24:55",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-09-22 12:24:55",
       "album": {
+        "name": "Somi",
+        "url": "https://open.spotify.com/album/1RPe8vnWTQCXJhmfwFOJDU"
+      },
+      "artists": [
+        {
+          "name": "Taylor Deupree",
+          "url": "https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Minism",
+      "url": "https://open.spotify.com/track/6bJVQy8VspBFEWHlaoxbY5"
+    },
+    {
+      "added_at": "2023-09-22 12:24:55",
+      "album": {
         "name": "Would I Bother",
         "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2023-09-22 12:24:55",
       "album": {
-        "name": "Somi",
-        "url": "https://open.spotify.com/album/1RPe8vnWTQCXJhmfwFOJDU"
-      },
-      "artists": [
-        {
-          "name": "Taylor Deupree",
-          "url": "https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "Minism",
-      "url": "https://open.spotify.com/track/6bJVQy8VspBFEWHlaoxbY5"
-    },
-    {
-      "added_at": "2023-09-22 12:24:55",
-      "album": {
         "name": "The Seasons",
         "url": "https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-09-22 12:24:55",
       "album": {
-        "name": "Tao of Flow",
-        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
-      },
-      "artists": [
-        {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
-        }
-      ],
-      "duration_ms": 121538,
-      "name": "Bodh Gaya",
-      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
-    },
-    {
-      "added_at": "2023-09-22 12:24:55",
-      "album": {
         "name": "Inch Of You",
         "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 147299,
       "name": "Backwaters",
       "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
+    },
+    {
+      "added_at": "2023-09-22 12:24:55",
+      "album": {
+        "name": "Tao of Flow",
+        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 121538,
+      "name": "Bodh Gaya",
+      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
     },
     {
       "added_at": "2023-09-22 12:24:55",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-09-22 12:24:55",
       "album": {
-        "name": "Healing Keys of Light",
-        "url": "https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Healing Keys of Light",
-      "url": "https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB"
-    },
-    {
-      "added_at": "2023-09-22 12:24:55",
-      "album": {
         "name": "Meditations for Woods & Winds",
         "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2023-09-22 12:24:55",
       "album": {
-        "name": "Into Gratitude",
-        "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
+        "name": "Healing Keys of Light",
+        "url": "https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm"
       },
       "artists": [
         {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
         }
       ],
-      "duration_ms": 187636,
-      "name": "Into Gratitude - Stripped",
-      "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
+      "duration_ms": 308000,
+      "name": "Healing Keys of Light",
+      "url": "https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB"
     },
     {
       "added_at": "2023-09-22 12:24:55",
@@ -1487,6 +1471,22 @@
       "duration_ms": 157306,
       "name": "Neend",
       "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
+    },
+    {
+      "added_at": "2023-09-22 12:24:55",
+      "album": {
+        "name": "Into Gratitude",
+        "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Into Gratitude - Stripped",
+      "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
     },
     {
       "added_at": "2023-09-22 12:24:55",

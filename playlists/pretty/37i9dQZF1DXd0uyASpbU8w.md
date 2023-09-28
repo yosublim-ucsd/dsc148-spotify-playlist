@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5?si=6M3NYW3kRSOenKje3Yvn8g">Doja Cat</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,857 likes - 64 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,903 likes - 64 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 20 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 |
 | 21 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 |
 | 22 | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl) | 2:41 |
-| 23 | [GODLY](https://open.spotify.com/track/5gRBORUylrfsGAsxqI9vU9) | [Maximm](https://open.spotify.com/artist/1mWmf2QAxQvsH0ES6xQYha), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [GODLY](https://open.spotify.com/album/4fUF5Br9lapbVhQux1Dyuo) | 3:19 |
+| 23 | [GODLY](https://open.spotify.com/track/5gRBORUylrfsGAsxqI9vU9) | [Maximm](https://open.spotify.com/artist/1mWmf2QAxQvsH0ES6xQYha), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [GODLY](https://open.spotify.com/album/4fUF5Br9lapbVhQux1Dyuo) | 3:19 |
 | 24 | [Don't Buy Me Roses](https://open.spotify.com/track/0693AhSpjQUnspV8uObIfp) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Don't Buy Me Roses](https://open.spotify.com/album/17vJ6f6m5ZKsCJ9mPvphjD) | 3:24 |
 | 25 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
 | 26 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 63 | [Falling](https://open.spotify.com/track/0BvOFkfagb3sZEvExScmcZ) | [Thee Ajay](https://open.spotify.com/artist/0JH9a08AEp56VRUAX3pue5), [Dali](https://open.spotify.com/artist/5fq8tUE7LYAy73bk6S1ong) | [Falling](https://open.spotify.com/album/3kZS2xqkSiNZRIxFK4x77l) | 3:21 |
 | 64 | [Rush](https://open.spotify.com/track/7uTtSeu4kVm4d2IJLS6Uzp) | [Ason](https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa) | [Rush](https://open.spotify.com/album/1R1q108AYv8zA1WHOFlph4) | 3:21 |
 
-Snapshot ID: `MCxkNzljZTM4ZmRmN2I4YzFhOTVlMDEzYjE1M2M5NzZmOGEzMzViYjVh`
+Snapshot ID: `MCxhY2Q5MTllMDU5MThlNzVkZmVlNDg1ZmJlM2NmZmNkOTI1YmE2OGY3`

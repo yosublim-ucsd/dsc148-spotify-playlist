@@ -1,13 +1,77 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: juju <3",
-  "num_followers": 189571,
+  "num_followers": 189846,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDMzNmM3YzgxMjlkNzQzNWEyNTEwNjY2N2Y3YzhkODg0NDBlOTlj",
+  "snapshot_id": "MCxhZWVkOGRmNTYzZjEwNjY5MWQzNDA5OWI0OTc2YmUyZTFiYjMwOTVi",
   "tracks": [
+    {
+      "added_at": "2023-09-27 16:00:00",
+      "album": {
+        "name": "Drivel",
+        "url": "https://open.spotify.com/album/6Jw9aKlgYMB0r9VnZJPLqE"
+      },
+      "artists": [
+        {
+          "name": "Jaco Jaco",
+          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Drivel",
+      "url": "https://open.spotify.com/track/3PthR3zLOVCqdnwJEJR03g"
+    },
+    {
+      "added_at": "2023-09-27 16:00:00",
+      "album": {
+        "name": "Hot Shame",
+        "url": "https://open.spotify.com/album/3sFuKDZnPVaWozj2s0cFsh"
+      },
+      "artists": [
+        {
+          "name": "FIGHTMASTER",
+          "url": "https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw"
+        }
+      ],
+      "duration_ms": 199322,
+      "name": "Hot Shame",
+      "url": "https://open.spotify.com/track/1KoVgGdqLCCB6RKPLXQ5yo"
+    },
+    {
+      "added_at": "2023-09-27 16:00:00",
+      "album": {
+        "name": "What Kind of Fool Would Want to Fall in Love?",
+        "url": "https://open.spotify.com/album/15enJEWHb3DugPWkdmsLL0"
+      },
+      "artists": [
+        {
+          "name": "The Lovelines",
+          "url": "https://open.spotify.com/artist/37CfY5gz2Mk6U8jWK4RYM2"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "What Kind of Fool Would Want to Fall in Love?",
+      "url": "https://open.spotify.com/track/7GLWhWtOERm12yCY1fDhyU"
+    },
+    {
+      "added_at": "2023-09-27 16:00:00",
+      "album": {
+        "name": "I Met God",
+        "url": "https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6"
+      },
+      "artists": [
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "duration_ms": 262454,
+      "name": "I Met God",
+      "url": "https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk"
+    },
     {
       "added_at": "2023-09-20 16:00:00",
       "album": {
@@ -75,6 +139,22 @@
       "duration_ms": 185882,
       "name": "Eyes Closed Now",
       "url": "https://open.spotify.com/track/4IyoEmqT6lwOp4loP4Rdcu"
+    },
+    {
+      "added_at": "2023-09-27 16:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2wBfLfni62DPkDdrQJ6Lep"
+      },
+      "artists": [
+        {
+          "name": "Mega F\u00e4una",
+          "url": "https://open.spotify.com/artist/3iqpnLfw9ZHGpf5f2skfwb"
+        }
+      ],
+      "duration_ms": 249088,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/53OYJRSlGUpTU0TJGxx8mA"
     },
     {
       "added_at": "2023-09-20 16:00:00",
@@ -157,6 +237,22 @@
       "url": "https://open.spotify.com/track/3rBz7akK9WFZJAyNaK5BXC"
     },
     {
+      "added_at": "2023-09-27 16:00:00",
+      "album": {
+        "name": "smokin",
+        "url": "https://open.spotify.com/album/0lo8ZJgp6siF5LseT09ilQ"
+      },
+      "artists": [
+        {
+          "name": "boxboys",
+          "url": "https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "smokin",
+      "url": "https://open.spotify.com/track/22Qxmt90ImE529nb9m1SKr"
+    },
+    {
       "added_at": "2023-09-20 16:00:00",
       "album": {
         "name": "Dream Machine",
@@ -189,6 +285,22 @@
       "url": "https://open.spotify.com/track/1whE2KlByEj8U2j5a6i4Rk"
     },
     {
+      "added_at": "2023-09-27 16:00:00",
+      "album": {
+        "name": "Get By",
+        "url": "https://open.spotify.com/album/48bvoJZUfZl4iPs6vcI6gc"
+      },
+      "artists": [
+        {
+          "name": "Riarosa",
+          "url": "https://open.spotify.com/artist/5Rj6VDIagmf2GV76KfRCcB"
+        }
+      ],
+      "duration_ms": 215752,
+      "name": "Get By",
+      "url": "https://open.spotify.com/track/5AMbxo6n0Hp6GLNhjshVDz"
+    },
+    {
       "added_at": "2023-09-20 16:00:00",
       "album": {
         "name": "Hugh Greene & the Lucies Made Me",
@@ -219,6 +331,22 @@
       "duration_ms": 150402,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
+    },
+    {
+      "added_at": "2023-09-27 16:00:00",
+      "album": {
+        "name": "Waterfall (Rebirth)",
+        "url": "https://open.spotify.com/album/5nHnVAvMgOMVoThDfY04tm"
+      },
+      "artists": [
+        {
+          "name": "Couch Prints",
+          "url": "https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "Weakness 2 (ft. Ero)",
+      "url": "https://open.spotify.com/track/6ez1WilMynD42zEwmxqwvH"
     },
     {
       "added_at": "2023-09-20 16:00:00",
@@ -319,6 +447,22 @@
       "duration_ms": 218880,
       "name": "Try Me On",
       "url": "https://open.spotify.com/track/64N4zaqyLeJEVTYEKUCLN7"
+    },
+    {
+      "added_at": "2023-09-27 16:00:00",
+      "album": {
+        "name": "someday",
+        "url": "https://open.spotify.com/album/2Ayesh5LYfgyVMtv9ixK0g"
+      },
+      "artists": [
+        {
+          "name": "Hera Lind",
+          "url": "https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we"
+        }
+      ],
+      "duration_ms": 204532,
+      "name": "someday",
+      "url": "https://open.spotify.com/track/0kByR2DSkqHJjRksAiRQXM"
     },
     {
       "added_at": "2023-09-13 04:37:55",
@@ -611,22 +755,6 @@
     {
       "added_at": "2023-09-13 04:37:55",
       "album": {
-        "name": "www she hot",
-        "url": "https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm"
-      },
-      "artists": [
-        {
-          "name": "UCHE YARA",
-          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "www she hot",
-      "url": "https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH"
-    },
-    {
-      "added_at": "2023-09-13 04:37:55",
-      "album": {
         "name": "Lost Cause",
         "url": "https://open.spotify.com/album/1FJVz5eI1NCRevwjEwdf69"
       },
@@ -687,22 +815,6 @@
       "duration_ms": 150920,
       "name": "Blink",
       "url": "https://open.spotify.com/track/6W67RESmxjAp10u5bQ6eH0"
-    },
-    {
-      "added_at": "2023-09-13 04:37:55",
-      "album": {
-        "name": "Slip of The Tongue",
-        "url": "https://open.spotify.com/album/3bSjVJjNKoODA543uShleW"
-      },
-      "artists": [
-        {
-          "name": "Mia Carucci",
-          "url": "https://open.spotify.com/artist/3tuQlUivPZU63XFGS1HScc"
-        }
-      ],
-      "duration_ms": 149153,
-      "name": "Slip of The Tongue",
-      "url": "https://open.spotify.com/track/5KB9DDwCjbwy57XZgm21Pd"
     },
     {
       "added_at": "2023-09-13 04:37:55",
@@ -783,22 +895,6 @@
       "duration_ms": 295513,
       "name": "Not The Name You Say",
       "url": "https://open.spotify.com/track/6WZJj80hgLtuJQqsi2jIIh"
-    },
-    {
-      "added_at": "2023-08-30 15:40:56",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/2QUwP0oMrCf7qBSylH3BRP"
-      },
-      "artists": [
-        {
-          "name": "Anjimile",
-          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
-        }
-      ],
-      "duration_ms": 151117,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/5lxAbSXw7clZnNHyo0AmEi"
     },
     {
       "added_at": "2023-09-06 20:30:13",
@@ -1287,38 +1383,6 @@
     {
       "added_at": "2023-08-23 05:27:37",
       "album": {
-        "name": "Jeff",
-        "url": "https://open.spotify.com/album/1Kz5OvHWtPRTPZtJWLhDl6"
-      },
-      "artists": [
-        {
-          "name": "Henry Hall",
-          "url": "https://open.spotify.com/artist/2tRg9tU9VRKsmTr2ihZCEs"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "Jeff",
-      "url": "https://open.spotify.com/track/2fNIBmtBMvgACNkLTxrYQC"
-    },
-    {
-      "added_at": "2023-08-23 05:27:37",
-      "album": {
-        "name": "milkshake poem",
-        "url": "https://open.spotify.com/album/5X9H0J36ZqaIssTCtBSWRj"
-      },
-      "artists": [
-        {
-          "name": "harper",
-          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
-        }
-      ],
-      "duration_ms": 151930,
-      "name": "milkshake poem",
-      "url": "https://open.spotify.com/track/3p2C43dgJHyT4BH9uLVP94"
-    },
-    {
-      "added_at": "2023-08-23 05:27:37",
-      "album": {
         "name": "You Could Be My Home",
         "url": "https://open.spotify.com/album/49PC9m4I8zF04shVOW7H0N"
       },
@@ -1331,22 +1395,6 @@
       "duration_ms": 194663,
       "name": "You Could Be My Home",
       "url": "https://open.spotify.com/track/1OGttz2y1tq6bzKfcnk8Ez"
-    },
-    {
-      "added_at": "2023-08-23 05:27:37",
-      "album": {
-        "name": "So You Thought",
-        "url": "https://open.spotify.com/album/0zO1INTHf1VCK5cvXduXIB"
-      },
-      "artists": [
-        {
-          "name": "Hannah Sommer",
-          "url": "https://open.spotify.com/artist/6lPs5Q3fsGvXW8F0BU1OLW"
-        }
-      ],
-      "duration_ms": 259354,
-      "name": "So You Thought",
-      "url": "https://open.spotify.com/track/4FDgRApaTV9dv8Y8PbwYtE"
     },
     {
       "added_at": "2023-08-08 23:33:32",
@@ -1395,22 +1443,6 @@
       "duration_ms": 213637,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/7m554KOcL2xo6zScRNfTdB"
-    },
-    {
-      "added_at": "2023-08-08 23:33:32",
-      "album": {
-        "name": "american spirit",
-        "url": "https://open.spotify.com/album/5p0NWVJpiKCZZODMicFyfA"
-      },
-      "artists": [
-        {
-          "name": "Keni Titus",
-          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "american spirit",
-      "url": "https://open.spotify.com/track/1vOSVqTjDuknsQpF9IdvX5"
     },
     {
       "added_at": "2023-07-26 00:25:59",
@@ -1507,22 +1539,6 @@
       "duration_ms": 152166,
       "name": "Wicked Styley",
       "url": "https://open.spotify.com/track/5bwjacSzWwVZzKHRGsOGDP"
-    },
-    {
-      "added_at": "2023-08-16 04:36:26",
-      "album": {
-        "name": "Peaches",
-        "url": "https://open.spotify.com/album/4n3uMM0l2owOxeWAIfKUIu"
-      },
-      "artists": [
-        {
-          "name": "Ida Just",
-          "url": "https://open.spotify.com/artist/7KICnQh8EuqczQ4YQTjQbQ"
-        }
-      ],
-      "duration_ms": 164996,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/4Y02NnPQ6McrdqTkxPdlFq"
     },
     {
       "added_at": "2023-07-27 20:26:11",

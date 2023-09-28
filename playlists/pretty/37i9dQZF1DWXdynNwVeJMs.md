@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: John Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,493 likes - 80 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,504 likes - 80 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sheep Party](https://open.spotify.com/track/0BCkmc1jTgXtKU7D4j2hcf) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Sheep Party](https://open.spotify.com/album/0XHGwPuz9L7V969y1aLJSU) | 5:28 |
+| 1 | [Sheep Party](https://open.spotify.com/track/6xzI6RxSjjDzswPkUYH98d) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Khamsin](https://open.spotify.com/album/23MEycC3B7Gs3IHfsNoh8L) | 5:28 |
 | 2 | [The Quantities](https://open.spotify.com/track/41NMjKhLiukWNoNF2csOsk) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Quantities](https://open.spotify.com/album/6tBW03xdXTl5juo3u9RwB4) | 7:14 |
 | 3 | [Little Steps](https://open.spotify.com/track/01VLqczO49AFPdt4AiRTLC) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [The Cycle Repeats](https://open.spotify.com/album/2GtnEumRpH310S1lKgVxTe) | 5:11 |
 | 4 | [WGHWBH](https://open.spotify.com/track/2Gk2ojObQ0KJev9q4xANXm) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [WGHWBH](https://open.spotify.com/album/3IXktD0oxECWhvw7yBW8LU) | 4:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 79 | [Cascade\(s\)](https://open.spotify.com/track/136X5PnHEO3jUiAm3bU6kF) | [Nordmann](https://open.spotify.com/artist/0Uox3PUw47qEqroDggrDRE) | [Cascade\(s\)](https://open.spotify.com/album/5QNydaZL1yVLAqWFN9fA8H) | 4:16 |
 | 80 | [Birdman](https://open.spotify.com/track/06CZmASsue66Gkp269Rqld) | [Hachoo](https://open.spotify.com/artist/63YSIh9PBCZZUzZWAJoidv) | [On a Thin Rope with a Shaky Smile](https://open.spotify.com/album/11fDYTospHQX82R2IKQFcj) | 5:05 |
 
-Snapshot ID: `MCw1OTU4OTdhNWI1ZmEwNGM3YTdhOGYzOGU4MjBmMDZiMGEyOWZjZmYz`
+Snapshot ID: `MCw1NGYyNzQwMTkwMTBkMzk5NWE5YmIzNWY4Y2E0Y2IzZWM0MjIwMzU3`

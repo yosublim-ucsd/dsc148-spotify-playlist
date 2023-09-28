@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,749 likes - 160 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,068 likes - 160 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 127 | [Horizon](https://open.spotify.com/track/5WgwDJDSy2nxuV3iHlMXS4) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Compassberg](https://open.spotify.com/album/3r8FRtio1GfcpTW70YDt97) | 4:05 |
 | 128 | [Sleet](https://open.spotify.com/track/1e3ZjpUwm6yRzVaqIIHWdc) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 8:28 |
 | 129 | [Ghost](https://open.spotify.com/track/1W2wqz5nQEafZZWXbESetq) | [MLO](https://open.spotify.com/artist/5tdfcn1EwWqTKoxHyv9G6g) | [Oumuamua](https://open.spotify.com/album/7bfDO9ymlhD1LaTxShxHwJ) | 3:04 |
-| 130 | [American Nihilism](https://open.spotify.com/track/2GbjgxScwFSC3sJ9zp4FuF) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 5:06 |
+| 130 | [American Nihilism](https://open.spotify.com/track/3R3z6Xr0bIk1LHoIb7glKM) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt) | 5:06 |
 | 131 | [Milky Sea](https://open.spotify.com/track/324oRBwsXBuTVrlPHh5SqP) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 3:40 |
 | 132 | [Through the Sky](https://open.spotify.com/track/5tbZ3AHIz1YfOFe2ceut3X) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Moving On](https://open.spotify.com/album/6A2eoA23xDnjlq0YkFUv3W) | 10:02 |
 | 133 | [Unpacked](https://open.spotify.com/track/42ZuxJ7oNK1pzdyAlfA9aQ) | [Moving Gradients](https://open.spotify.com/artist/1MQW3gElFwQAw90LNwaFNy) | [Dream Escape](https://open.spotify.com/album/0pwvAzTU1nq61P5PKmOY4o) | 2:47 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 146 | [Chinsi](https://open.spotify.com/track/6sBNaiB80PUXMiFeJJ5wNc) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Yoru](https://open.spotify.com/album/19KxJBqNupp2VPFOg3ZgaH) | 4:13 |
 | 147 | [Ends](https://open.spotify.com/track/0m5yyFEck8AjOjBnik2sn0) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Coast](https://open.spotify.com/album/2cV90JgRQmnI8eAm5mGwr0) | 5:55 |
 | 148 | [Recurring Dream](https://open.spotify.com/track/2khbT2HgtSdSwZt60gDe71) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [In Letters](https://open.spotify.com/album/7LynSi0f8LcV6IhOppGeZG) | 4:13 |
-| 149 | [Home Now](https://open.spotify.com/track/2TW2TH4m9gu3HhWMEJOlLW) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 2:31 |
+| 149 | [Home Now](https://open.spotify.com/track/6ee6pL1zK1Eh6UJVP8isQX) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/16KuLbOpCugBOQ4DHchWgt) | 2:31 |
 | 150 | [Cold Air](https://open.spotify.com/track/01FewOTOeVj75RV6BYygod) | [Color of Time](https://open.spotify.com/artist/5GhEh1BgnOafsIAUgNtF02), [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV), [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL) | [Color of Time](https://open.spotify.com/album/7uEqAuTyaC02sBgYRQb8gI) | 2:52 |
 | 151 | [Autumn](https://open.spotify.com/track/6C0xrpCLSiAIm242vKE7HA) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [Minimal Sounds](https://open.spotify.com/album/7FtBKp3NQyxi3cUBi4BMC4) | 3:46 |
 | 152 | [Break The Cycle](https://open.spotify.com/track/5dUpUWlBPGIydeG9Ew0fQa) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 4:46 |
@@ -165,8 +165,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 155 | [Matinaka](https://open.spotify.com/track/0fyvaevkqF24i9laNCyvgl) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Zanzou](https://open.spotify.com/album/7y23NtZPMebkQxHL8YY144) | 3:02 |
 | 156 | [Abrazo 2020](https://open.spotify.com/track/1r4aHCgkZhCuy91UmoVuVI) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 1:22 |
 | 157 | [Sun Ascent](https://open.spotify.com/track/7aKvmuUzQTPR63CCqNyheE) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Relax: Easy Morning](https://open.spotify.com/album/7oCTqkeHvRY1umJzPhVFD5) | 3:39 |
-| 158 | [Bohemian Paradise](https://open.spotify.com/track/76BZeboUrTw8niFWxWET13) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristocracy](https://open.spotify.com/album/2VyzPKVjOkYIlevXe7midR) | 4:54 |
+| 158 | [Bohemian Paradise](https://open.spotify.com/track/4nHM6GfKNeSrdvS2GDVJoj) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In The Age of Aristocracy: 2nd Anniversary Extended Edition](https://open.spotify.com/album/2p0SMYANCPd3P7k01sXboc) | 4:54 |
 | 159 | [Eventually](https://open.spotify.com/track/3lRJJ1OntPtdX9lTB0w4io) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [In Letters](https://open.spotify.com/album/7LynSi0f8LcV6IhOppGeZG) | 9:00 |
 | 160 | [Red sheep from hill](https://open.spotify.com/track/77yq8ySYaIhr5jvqJz4qTV) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 9:03 |
 
-Snapshot ID: `MCxmOWMwZTViNTJjYTIwNTgyNTk0MTFjZTIzMThmYTJiYzA1ZWUyYTBl`
+Snapshot ID: `MCxhODE4NzM1NGIwMDVhNzZjMTU0NTNkZDVlZWE2NmNlZjRkYTI3NzY4`

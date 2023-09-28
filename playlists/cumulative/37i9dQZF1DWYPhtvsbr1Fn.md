@@ -2,7 +2,7 @@
 
 ### [reheat](https://open.spotify.com/playlist/37i9dQZF1DWYPhtvsbr1Fn)
 
-> resurging tracks coming in hot\. cover: I Wanna Be Yours era Arctic Monkeys
+> resurging tracks coming in hot\. cover: Katy Perry on a Harley
 
 121 songs - 7 hr 57 min
 

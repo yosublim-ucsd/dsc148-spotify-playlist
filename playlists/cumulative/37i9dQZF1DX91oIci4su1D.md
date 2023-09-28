@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-747 songs - 1 day 21 hr 25 min
+748 songs - 1 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Atom \- 138 Mix](https://open.spotify.com/track/3d2580DKGk2tH3XrTFiRZf) | [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Atom \(138 Mix\)](https://open.spotify.com/album/5dFn5Dz7VfyViSJWujZaUC) | 3:26 | 2022-10-14 |  |
 | [Au79](https://open.spotify.com/track/6ZCDcrD8fetYcBmQOrhLfI) | [Koyah](https://open.spotify.com/artist/3ruRvp4imiIkW1LP666jnd), [Leonard A](https://open.spotify.com/artist/5B96LwVo1fnVehzyyxCzYC) | [Au79](https://open.spotify.com/album/55MZcCAnI1bSM9lE4DWV1v) | 3:41 | 2021-12-17 | 2022-07-13 |
 | [Ayuma](https://open.spotify.com/track/3EcGHkTPyInwjBg6svuzRo) | [Ronski Speed](https://open.spotify.com/artist/3cOY6XMFQ12Q0D6Xif7BZh) | [Ayuma](https://open.spotify.com/album/2rezrkEnh6JNfYNyvGdVzy) | 3:48 | 2022-04-08 | 2022-07-09 |
+| [Babylon](https://open.spotify.com/track/71Pmye31kkN12PiUug7xcP) | [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Babylon](https://open.spotify.com/album/6jG20c1eFYq7vwFaBmzFhv) | 3:37 | 2023-09-22 |  |
 | [Back To My Love](https://open.spotify.com/track/0onLNYV4aYuSQb8wPxR0O0) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Back To My Love](https://open.spotify.com/album/15DIdaAn3pfC5uETbGsUSF) | 6:41 | 2022-04-29 | 2023-03-04 |
 | [Back To The Future](https://open.spotify.com/track/0SUEaXrXi5aQYGPPrKNitV) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Back To The Future](https://open.spotify.com/album/5mstY1XY20ntwpn8STJkzM) | 3:36 | 2022-04-15 | 2023-04-09 |
 | [Backdraft](https://open.spotify.com/track/1KS7jgAi7EIyLNyeL2vgxV) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Backdraft](https://open.spotify.com/album/0Zk7UYmejgTdSVU1BLRnt3) | 2:48 | 2022-03-25 | 2022-08-27 |
@@ -193,7 +194,7 @@
 | [Emotions of Colour](https://open.spotify.com/track/6eBUO6Nb29FOvkIwkUc5li) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Emotions of Colour](https://open.spotify.com/album/0nH0K8vP8UTgZNHLYSGe5K) | 4:26 | 2023-03-03 |  |
 | [Encounter](https://open.spotify.com/track/45oSgCJoDcQcXjxssQPVZg) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [Encounter](https://open.spotify.com/album/2LYnFQKvtPlKp36HCRGuRv) | 3:37 | 2021-12-17 | 2022-02-26 |
 | [End Of Time](https://open.spotify.com/track/5yoFtDZJzZUmptrpnQiXsD) | [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [End Of Time](https://open.spotify.com/album/5swpo2MesNA6V7OBY2orFT) | 3:23 | 2023-01-13 | 2023-05-20 |
-| [Endless Euphoria](https://open.spotify.com/track/7dlxSY7v6Ol0jEhS9qTFMh) | [UDM](https://open.spotify.com/artist/3U6JSfkIevHN1HIx03CjVd) | [Endless Euphoria](https://open.spotify.com/album/5J2dfgF23SROU9dC32ewjz) | 3:24 | 2023-06-09 |  |
+| [Endless Euphoria](https://open.spotify.com/track/7dlxSY7v6Ol0jEhS9qTFMh) | [UDM](https://open.spotify.com/artist/3U6JSfkIevHN1HIx03CjVd) | [Endless Euphoria](https://open.spotify.com/album/5J2dfgF23SROU9dC32ewjz) | 3:24 | 2023-06-09 | 2023-09-28 |
 | [Enigma](https://open.spotify.com/track/5r2qH0BLeoxg1q6X1wC8sn) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Enigma](https://open.spotify.com/album/6Eonwr5xHUcl8mccdjNPnz) | 3:18 | 2023-06-02 |  |
 | [Enough for Me](https://open.spotify.com/track/64efbrqLb53cBFwoWS9mAE) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Airwalk3r](https://open.spotify.com/artist/5SpGGsQ5xlAeq9jf5Eblyw) | [Enough for Me](https://open.spotify.com/album/4RJviCzbAljHR4ZLKI71TF) | 3:53 | 2022-08-12 | 2023-06-10 |
 | [Era](https://open.spotify.com/track/5X4LSyx1CyH0FJiJwQH29c) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2) | [Era](https://open.spotify.com/album/3utAPcjvEBKwAOto8dfG1u) | 3:06 | 2021-12-17 | 2022-02-26 |

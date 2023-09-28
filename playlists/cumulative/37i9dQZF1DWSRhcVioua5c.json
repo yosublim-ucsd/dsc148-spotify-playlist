@@ -2187,20 +2187,24 @@
     },
     {
       "album": {
-        "name": "El Sueno De Mi Guitarra",
+        "name": "El Sue\u00f1o de Mi Guitarra",
         "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
       },
       "artists": [
         {
           "name": "Eduardo Fal\u00fa",
           "url": "https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
         }
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241586,
-      "name": "Tonada Del Viejo Amor",
+      "name": "Tonada del Viejo Amor",
       "url": "https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW"
     },
     {
